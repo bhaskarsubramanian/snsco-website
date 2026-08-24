@@ -1,0 +1,63 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=(), payment=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'sha256-8oKVp9EtgYd2QAt0EkilZUqF5xjeHz4VRRTU2Afyak4='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; frame-src https://maps.google.com https://www.google.com; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; object-src 'none'"
+
+[[headers]]
+  for = "/assets/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/assets/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/assets/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[redirects]]
+  from = "https://www.snsco.in/*"
+  to = "https://snsco.in/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/practice-areas"
+  to = "/practice-areas/"
+  status = 301
+
+[[redirects]]
+  from = "/locations"
+  to = "/locations/"
+  status = 301
+
+[[redirects]]
+  from = "/locations/delhi.html"
+  to = "/locations/new-delhi.html"
+  status = 301
+
+[[redirects]]
+  from = "/locations/delhi"
+  to = "/locations/new-delhi.html"
+  status = 301
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
