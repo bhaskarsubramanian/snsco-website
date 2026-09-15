@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "id": "gstat-appeal-filing-guide",
+    "topic_title": "How to File an Appeal Before the GST Appellate Tribunal (GSTAT): A Practical Guide",
+    "angle": "A procedural walkthrough for taxpayers who have received an adverse GST appellate order and need to approach the newly operational GSTAT - covering the e-filing process, Form GST APL-05, pre-deposit, and the two different limitation tracks (legacy vs current orders).",
+    "key_points": [
+      "GSTAT e-filing portal has been operational since 24 September 2025; appeals are filed electronically only, using Form GST APL-05",
+      "For orders communicated on or after 1 April 2026, the standard Section 112 CGST Act limitation of 3 months from communication of the order applies (extendable by up to a further 3 months on sufficient cause, per Section 112(6) - no further condonation beyond that ceiling)",
+      "For legacy/backlog orders predating GSTAT's operationalisation, a special one-time filing window applied, with the government-notified deadline extended from 30 June 2026 to 31 July 2026 due to portal technical issues and filing volume",
+      "Mandatory pre-deposit requirement applies before an appeal is entertained (percentage varies by whether it is the first or second appellate stage)",
+      "Courts have taken the position that neither GSTAT nor a court can extend limitation beyond the statutory condonable ceiling - a delay of even one day beyond that makes the appeal time-barred",
+      "Practical filing checklist: certified copy/reference number of the order under appeal, grounds of appeal, pre-deposit challan, and supporting documents uploaded via the portal"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "GSTAT e-filing operational since 24 September 2025: confirmed via multiple tax-practice sources (AMLEGALS, Dhruva Advisors guide) at research time",
+      "Legacy appeal deadline extended from 30 June 2026 to 31 July 2026: confirmed via CAclubindia and MyGSTRefund coverage of the Ministry of Finance extension at research time",
+      "Exact pre-deposit percentage at GSTAT stage (first appeal vs second appeal, and any cap on the disputed tax amount) should be re-confirmed against the current CGST Act Section 112(8) text at drafting time, since pre-deposit rules have been amended in this cycle",
+      "Section 112(6) three-month-plus-three-month condonation ceiling should be verified against the specific case law citation when drafting, rather than relying on the general search summary"
+    ],
+    "added_on": "2026-09-15"
+  },
+  {
+    "id": "fpo-registration-compliance-guide",
+    "topic_title": "Farmer Producer Organisation (FPO) Registration and Compliance: A Legal Guide",
+    "angle": "A guide for farmer groups and promoters on choosing between a Producer Company (Companies Act, 2013) and a cooperative society structure for an FPO, covering incorporation steps, ongoing compliance, and common legal pitfalls in fund utilisation and governance.",
+    "key_points": [
+      "Two structural choices: Producer Company under the Companies Act, 2013 (most common for new FPOs) vs. registration as a cooperative society under state cooperative law",
+      "Minimum membership to incorporate a Producer Company: 10 or more individual producers, or 2 or more producer institutions",
+      "Annual compliance obligations: AGM, board meetings, statutory audit, Annual Return (MGT-7) and financial statements (AOC-4) filings with the Registrar of Companies, plus income tax return",
+      "Governance safeguards specific to producer companies (restrictions on non-producer shareholding/voting, member-only equity participation) that distinguish them from ordinary private companies",
+      "Common compliance failures FPOs face in practice: delayed ROC filings, weak board governance, and misapplication of government scheme funds (e.g., NABARD/SFAC-linked grants) without proper documentation",
+      "Practical guidance on dispute resolution avenues for member disputes and disputes with government promoting agencies"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Minimum of 10 producer-members or 2 producer institutions to incorporate a Producer Company: confirmed via multiple sources at research time - re-verify against current MCA producer-company incorporation rules at drafting time",
+      "Annual compliance forms (MGT-7, AOC-4) and statutory audit requirement: standard Companies Act requirement, confirmed at research time - verify current form nomenclature/versions (e.g. MGT-7 vs MGT-7A for small companies) at drafting time",
+      "Specific NABARD/SFAC scheme names and current funding conditions should be verified closer to drafting since scheme parameters change year to year"
+    ],
+    "added_on": "2026-09-15"
+  },
+  {
+    "id": "strike-off-private-limited-company-guide",
+    "topic_title": "How to Strike Off (Close) a Private Limited Company in India: Section 248 Procedure",
+    "angle": "A practical guide for promoters of dormant or non-operational private companies on voluntary strike-off under Section 248(2) of the Companies Act, 2013 - the STK-2 process via C-PACE, eligibility conditions, and what happens if the ROC initiates strike-off suo motu instead.",
+    "key_points": [
+      "Two routes: voluntary strike-off by the company (Form STK-2, requiring a special resolution or consent of 75% of shareholders by value) versus suo motu strike-off initiated by the Registrar of Companies under Section 248(1), e.g. where a company has not commenced business within a year of incorporation or has not filed returns for two consecutive financial years",
+      "All strike-off applications are now processed centrally through the Centre for Processing Accelerated Corporate Exit (C-PACE), introduced to speed up the process",
+      "Typical processing timeline has reduced from roughly 6-12 months under the earlier system to around 3-6 months",
+      "Pre-conditions before filing STK-2: the company must have no outstanding liabilities, must close all bank accounts, and must clear pending statutory dues/filings",
+      "A 30-day notice-and-representation opportunity is given to the company and its directors before strike-off is finalised, whether voluntary or RoC-initiated",
+      "Consequences and revival: a struck-off company can be restored by the NCLT within a limited statutory window on specified grounds - directors and the company should understand this is not the same as informal abandonment"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "C-PACE as the central processing authority for strike-off, reducing timelines to roughly 3-6 months: confirmed via multiple sources at research time - reconfirm current average timeline at drafting time since it fluctuates with RoC/C-PACE backlog",
+      "75% shareholder consent threshold and STK-2 form: standard, well-established Companies Act requirement - confirmed via multiple sources",
+      "A time-limited 'CCFS 2026' fee-waiver scheme (15 April-15 July 2026) was referenced in research sources - this window has already closed as of the September 2026 research date, so the guide should present it only as a historical example of periodic government relief schemes, not as a currently available benefit - confirm no successor scheme is active before publishing",
+      "NCLT restoration window under Section 252 should be double-checked against the exact statutory text at drafting time"
+    ],
+    "added_on": "2026-09-15"
+  }
+]

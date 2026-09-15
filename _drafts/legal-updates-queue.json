@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "neumec-bombay-hc-rera-predeposit-delay-condonation",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "Neumec Developers and Builders v. Homebuyers (Second Appeals)",
+    "citation": "Bombay High Court, order dated 5 August 2026",
+    "court": "Bombay High Court",
+    "date": "2026-08-05",
+    "holding_summary": "Justice N.J. Jamadar dismissed two second appeals filed by Neumec Developers, holding that a promoter cannot have its delay-condonation application considered without first making the mandatory pre-deposit under Section 43(5) of RERA - a delay application is part of the appeal itself and cannot be treated as a separate, independent application for this purpose.",
+    "why_it_matters": "Developers cannot sidestep RERA's mandatory pre-deposit requirement by first seeking condonation of delay in filing an appeal - the pre-deposit obligation attaches from the outset of the appeal.",
+    "sources": [
+      "https://lawtrend.in/bombay-hc-requirement-of-pre-deposit-in-rera-appeal-cant-be-dispensed-with/",
+      "https://ibclaw.in/rera-bulletin-weekly-case-laws-digest-31-august-to-05-september-2026/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-15"
+  },
+  {
+    "id": "avon-elastomers-consumer-pecuniary-jurisdiction-notice",
+    "practice_area": "Consumer Protection",
+    "case_name": "M/s Avon Elastomers v. M/s Bajaj Allianz General Insurance and Ors.",
+    "citation": "Supreme Court of India, order dated 13 August 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-08-13",
+    "holding_summary": "A Bench of Justices K.V. Viswanathan and Arun Palli flagged anomalies in how consumer fora's pecuniary jurisdiction is fixed - by the value of goods/services/consideration paid rather than the compensation claimed - and directed the Union of India to file an affidavit within six weeks explaining the basis for reducing the National Commission's pecuniary jurisdiction from Rs. 10 crore (under the 2019 Act) to Rs. 2 crore by a December 2021 notification. Listed for further hearing on 8 October 2026.",
+    "why_it_matters": "A pending, high-profile Supreme Court reference could reshape which consumer forum (District/State/National) has jurisdiction over high-value claims where the price paid is modest but the compensation sought is large - worth tracking for any consumer-facing client with a pending or contemplated complaint.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/centre-response-on-anomalies-in-consumer-fora-pecuniary-jurisdiction-2019-act-1620355",
+      "https://www.livelaw.in/supreme-court/supreme-court-flags-anomalies-in-fixing-consumer-fora-jurisdiction-based-on-consideration-paid-seeks-centres-response-546226",
+      "https://www.barandbench.com/news/should-consumer-forum-jurisdiction-depend-on-price-paid-or-compensation-claimed-supreme-court-asks-centre"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-15"
+  },
+  {
+    "id": "fssai-fopl-single-nutrient-threshold-sc-update-sept-2026",
+    "practice_area": "Food Safety (FSSAI)",
+    "case_name": "In re: Front-of-Pack Labelling for HFSS Foods - Supreme Court Supervision (September 2026 Hearing)",
+    "citation": "Supreme Court of India, order dated 10 September 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-09-10",
+    "holding_summary": "In the ongoing FoPL supervision matter, FSSAI's 28 August 2026 affidavit proposed a two-phase rollout of interpretive 'red hexagon' warning labels - Phase 1 covering products high in two or more nutrients of concern (plus specified sweetened beverages), Phase 2 extending to products high in any single nutrient. On 10 September 2026 the Supreme Court questioned this phased, multi-nutrient-first approach and how ultra-processed foods would be treated relative to other packaged foods, directing the Centre and FSSAI to file further affidavits within 10 days; next listed 28 September 2026.",
+    "why_it_matters": "The scope and timeline of India's mandatory front-of-pack warning label regime remains in flux - packaged food manufacturers should track the 28 September hearing before finalising label redesigns or compliance timelines.",
+    "sources": [
+      "https://theprint.in/india/sc-ask-fssai-for-clarifications-on-nutrients-of-concern-labels/3039919/",
+      "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-seeks-clarity-from-centre-fssai-on-phased-front-of-pack-warning-labels/",
+      "https://lawbeat.in/supreme-court-judgments/front-of-pack-labelling-supreme-court-seeks-timeline-from-centre-fssai-for-phased-rollout-1631374"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-15"
+  }
+]
