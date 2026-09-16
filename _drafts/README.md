@@ -21,3 +21,5 @@ listens to `main`, and no branch-deploy is configured for this branch.
 
 Never write directly to any live site file (legal-news/, legal-updates/index.html,
 blog/, sitemap.xml) from this branch — only touch files inside `_drafts/`.
+
+<!-- webhook fix verification test: 2026-09-16T15:19:31Z -->
