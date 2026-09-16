@@ -151,5 +151,73 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-15"
+  },
+  {
+    "id": "sbi-manoj-kumar-das-jet-airways-pf-gratuity-liquidation",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "State Bank of India & Ors. v. Manoj Kumar Das & Ors.",
+    "citation": "Civil Appeal Nos. 10778-10780 of 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-08-31",
+    "holding_summary": "A three-judge Bench (CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana) declined to interfere with the NCLAT's 30 June 2026 order, which had affirmed NCLT Mumbai's direction that provident fund, gratuity and pension dues of former Jet Airways employees be paid in full and treated as falling outside the corporate debtor's liquidation estate. Lenders led by SBI had argued these dues should form part of the liquidation estate and be shared under the IBC waterfall unless a dedicated PF/gratuity fund existed at the commencement of liquidation. The Court found the lenders' points arguable but, given the peculiar facts of the case, declined to interfere, leaving the underlying legal questions open for a future case.",
+    "why_it_matters": "Reinforces that employee provident fund, gratuity and pension dues can be treated as trust monies outside the liquidation waterfall even without a dedicated fund, which matters for resolution professionals, liquidators and secured lenders assessing recoveries in stressed-asset liquidations.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/nclat-order-directing-payment-of-pf-gratuity-to-former-jet-airways-employees-1620990",
+      "https://www.etvbharat.com/en/bharat/sc-dismisses-sbi-plea-challenging-nclat-order-on-pf-gratuity-dues-to-ex-jet-airways-staffers-enn26083104573",
+      "https://moneylife.in/article/jet-airways-liquidation-nclat-backs-full-provident-fund-gratuity-for-staff/80933.html"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-16"
+  },
+  {
+    "id": "state-up-jai-bir-singh-industry-definition-nine-judge",
+    "practice_area": "Employment & Labour",
+    "case_name": "State of U.P. v. Jai Bir Singh",
+    "citation": "2026 INSC 897",
+    "court": "Supreme Court of India (Nine-Judge Constitution Bench)",
+    "date": "2026-08-20",
+    "holding_summary": "A nine-judge Constitution Bench led by Chief Justice Surya Kant (with Justices B.V. Nagarathna, P.S. Narasimha, Dipankar Datta, Ujjal Bhuyan, Satish Chandra Sharma, Joymalya Bagchi, Alok Aradhe and Vipul M. Pancholi) revisited the 'triple test' for what constitutes an 'industry', laid down by the seven-judge bench in Bangalore Water Supply & Sewerage Board v. A. Rajappa (1978). The Bench held that the 1978 triple test continues to govern industrial disputes still pending under the now-repealed Industrial Disputes Act, 1947, while refining aspects of that test, but held the 1978 ruling will no longer serve as the governing precedent ('sheet anchor') for disputes arising under the successor Industrial Relations Code.",
+    "why_it_matters": "Ends decades of uncertainty over which establishments -- hospitals, educational bodies, government welfare departments, clubs -- qualify as an 'industry' for labour-dispute purposes, and narrows the expansive 1978 test's reach for future disputes; employers historically exposed under Bangalore Water Supply should reassess their position under the new Industrial Relations Code regime.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/state-of-uttar-pradesh-v-jai-bir-singh-2026-insc-897-1978-triple-test-for-industry-9-judge-bench-1620398",
+      "https://m.thewire.in/article/rights/no-more-bangalore-water-supply-shield-top-court-changes-future-of-labour-disputes",
+      "https://aninews.in/news/national/general-news/supreme-court-largely-upholds-bangalore-water-supply-definition-of-industry-but-says-it-wont-anchor-future-disputes20260820131639/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-16"
+  },
+  {
+    "id": "saudi-arabian-airlines-reformatio-in-peius-ftt-penalty",
+    "practice_area": "Tax Litigation",
+    "case_name": "Saudi Arabian Airlines v. Union of India",
+    "citation": "2026 INSC 933",
+    "court": "Supreme Court of India",
+    "date": "2026-09-01",
+    "holding_summary": "The Supreme Court quashed a penalty for delayed deposit of Foreign Travel Tax that had escalated from Rs. 12,000 in the original adjudication to Rs. 71,29,140 after the airline successfully appealed and secured a remand for de novo adjudication. Invoking the principle against 'reformatio in peius' -- that a litigant should not be placed in a worse position for having exercised a statutory right of appeal -- the Court held that mere delay in depositing tax already collected does not amount to 'failure to pay' attracting penalty under Section 38(3) of the Finance Act, 1979, and directed refund of any penalty already paid, with 9% annual interest.",
+    "why_it_matters": "Confirms that an appellate or remand process cannot be used to dramatically enhance a penalty beyond what was originally imposed, and clarifies that delayed remittance of tax already collected is legally distinct from non-payment -- relevant to any indirect-tax dispute where a taxpayer faces penalty escalation on remand.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/saudi-arabian-airlines-v-union-of-india-2026-insc-933-late-deposit-of-foreign-travel-tax-1621154",
+      "https://www.barandbench.com/news/litigation/delay-in-depositing-tax-is-not-failure-to-pay-supreme-court-quashes-71-lakh-penalty-on-saudi-arabian-airlines",
+      "https://taxguru.in/goods-and-service-tax/penalty-not-automatic-delayed-foreign-travel-tax-payment-sc.html"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-16"
+  },
+  {
+    "id": "hari-dutta-sharma-vehicle-repossession-rbi-guidelines",
+    "practice_area": "Banking & Finance",
+    "case_name": "Hari Dutta Sharma v. State of U.P. & Ors.",
+    "citation": "2026 INSC 998",
+    "court": "Supreme Court of India",
+    "date": "2026-09-16",
+    "holding_summary": "The Supreme Court held that a financier's right of self-help repossession of a hypothecated vehicle cannot be exercised through force, deceit, or in breach of the loan agreement's terms, after Cholamandalam Investment and Finance Company repossessed the appellant's commercial truck at 1 a.m. by breaking its steering lock without prior notice, following a loan default. The Court directed the financier to close the loan account, refund Rs. 4.5 lakh realised from the vehicle's sale with 6% annual interest, and pay Rs. 10 lakh compensation for mental agony and loss of livelihood, and separately directed RBI to ensure banks and NBFCs actually comply with its existing recovery and repossession guidelines, observing that those guidelines have 'existed only on paper'.",
+    "why_it_matters": "Sharply raises the litigation and compensation exposure for banks and NBFCs (and their recovery agents) that repossess vehicles or other hypothecated assets without following RBI's fair-practice and due-process norms, and places RBI under a fresh judicial mandate to supervise actual compliance rather than merely issuing circulars.",
+    "sources": [
+      "https://www.livelaw.in/supreme-court/financiers-cannot-repossess-vehicles-by-force-supreme-court-awards-rs-10-lakh-compensation-to-truck-owner-550357",
+      "https://www.intolegalworld.com/post/he-lost-his-truck-at-1-a-m-to-masked-men-then-found-out-it-was-his-own-bank-supreme-court-awards",
+      "https://www.livelawbiz.com/top-stories/supreme-court-reserve-bank-of-india-recovery-guidelines-exist-only-on-paper-directs-effective-compliance-banks-nbfc-550353"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-16"
   }
 ]

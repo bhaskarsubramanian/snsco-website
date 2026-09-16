@@ -77,5 +77,25 @@
       "Appellate route to the High Court following IPAB's abolition (Tribunals Reforms Act, 2021) should be re-confirmed for any procedural updates at drafting time"
     ],
     "added_on": "2026-09-15"
+  },
+  {
+    "id": "nhai-epc-dispute-resolution-drb-conciliation-arbitration-guide",
+    "topic_title": "Resolving Disputes with NHAI: DRB, Conciliation and the 2026 Arbitration Threshold for EPC/HAM/BOT Contractors",
+    "angle": "A practical roadmap for highway EPC/HAM/BOT contractors and concessionaires on navigating NHAI's multi-tier dispute mechanism -- Dispute Resolution Board, mandatory CCIE conciliation, and NHAI's 2026 policy shift restricting arbitration to lower-value claims -- plus how Section 3G statutory arbitration for land-acquisition compensation is a separate track, tying in the Supreme Court's September 2026 Manav Bhanot ruling on solatium computation.",
+    "key_points": [
+      "NHAI's standard EPC/HAM/BOT(Toll) agreements (post-September 2020 templates, Articles 26/38/44) require disputes to first go to a project-level Dispute Resolution Board (DRB) of technical and legal experts before any conciliation or arbitration",
+      "If a party is dissatisfied with (or the DRB fails to decide) a dispute, conciliation before NHAI's Conciliation Committee of Independent Experts (CCIE) is mandatory before arbitration can be invoked; contractors reportedly must submit a conciliation proposal within a set window (commonly cited as 28 days) of the DRB decision",
+      "A 2026 NHAI policy change (reported as Policy Circular No. 11.82 of 2026) reportedly moves to a value-based approach: disputes below a threshold (reported as Rs. 10 crore) proceed to arbitration, while higher-value claims are diverted to conciliation or civil court rather than arbitration -- a significant shift contractors need to plan around when drafting claims strategy",
+      "Land acquisition compensation disputes under Section 3G of the National Highways Act, 1956 run on an entirely separate statutory arbitration track from EPC contract disputes, with the arbitrator appointed solely by the Central Government",
+      "The Supreme Court's Manav Bhanot v. NHAI ruling (2026 INSC 973, 8 September 2026) clarifies that for Section 3G land acquisition awards, whether 1894 Act or 2013 Act solatium/interest rates apply turns on the date the Competent Authority first determined compensation, not the date of a later arbitral award",
+      "Practical contractor checklist: preserve DRB referral timelines, document claims contemporaneously for the CCIE stage, verify current claim-value thresholds against the latest NHAI circular before assuming arbitration is available, and treat 3G land-acquisition disputes and EPC contract disputes as procedurally distinct tracks"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Existence and content of DRB → CCIE conciliation → arbitration sequence in post-2020 NHAI EPC/HAM/BOT templates: confirmed via multiple industry sources (epcworld.in, foxmandal.in, Lexology) at research time",
+      "Exact NHAI 2026 policy circular number (cited as '11.82 of 2026') and the precise Rs. 10 crore threshold for barring arbitration on higher-value claims should be re-confirmed against the actual NHAI circular text at drafting time, since only secondary/trade-press sources were checked",
+      "The 28-day window for a contractor's conciliation proposal after a DRB decision should be re-verified against the current standard NHAI contract clause in force, as this may vary by agreement vintage",
+      "Manav Bhanot v. NHAI, 2026 INSC 973 (8 September 2026): case name, citation, date and holding cross-verified via Verdictum, LiveLaw and ibclaw.in at research time"
+    ],
+    "added_on": "2026-09-16"
   }
 ]

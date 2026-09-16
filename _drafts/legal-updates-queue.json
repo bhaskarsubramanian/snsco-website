@@ -82,5 +82,39 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-09-15"
+  },
+  {
+    "id": "manav-bhanot-nhai-nh-act-solatium-1894-act",
+    "practice_area": "Infrastructure & PPP",
+    "case_name": "Manav Bhanot v. National Highway Authority of India",
+    "citation": "2026 INSC 973",
+    "court": "Supreme Court of India",
+    "date": "2026-09-08",
+    "holding_summary": "In a National Highways Act, 1956 land acquisition where the Competent Authority first determined compensation in July 2014, the Supreme Court held that solatium, interest and interest on solatium are payable under the Land Acquisition Act, 1894 rather than the 2013 Right to Fair Compensation Act, because the deciding date is when the Competent Authority's Section 3G(1) determination (the equivalent of a Collector's award) was first made -- not the date of the underlying notification or a later arbitral award. The Court allowed the appeal to the extent of directing that the arbitral award's compensation be supplemented with 1894 Act solatium and interest, and remanded computation and disbursal to the Competent Authority.",
+    "why_it_matters": "Settles which statute's solatium/interest rates apply to NH Act highway acquisitions straddling the 1 January 2015 cut-off, giving landowners and NHAI a clear, litigation-tested rule keyed to the date of the original compensation determination rather than any later arbitration or appeal.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/manav-bhanot-v-national-highway-authority-of-india-2026-insc-973-january-01-2015-solatium-payable-act-of-1894-1621638",
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-915-manav-bhanot-v-national-highway-authority-of-india-549239",
+      "https://ibclaw.in/manav-bhanot-vs-national-highway-authority-of-india-supreme-court/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-16"
+  },
+  {
+    "id": "high-point-supply-agati-healthcare-section-12a-commercial-courts",
+    "practice_area": "Commercial Litigation",
+    "case_name": "High Point Supply Company LLC v. Agati Healthcare Private Limited",
+    "citation": "Commercial First Appeal No. 15 of 2026, Bombay High Court, order dated August 2026",
+    "court": "Bombay High Court",
+    "date": "2026-08-11",
+    "holding_summary": "A Division Bench of Justices R.I. Chagla and Farhan P. Dubash set aside a trial court order that had rejected a US-based distributor's commercial suit against its Indian supplier for want of pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015, and restored the suit. The Bench clarified that whether a suit 'contemplates urgent interim relief' -- the statutory exception to mandatory pre-institution mediation -- calls for only a limited jurisdictional inquiry, not an assessment of the suit's merits or the likelihood of the interim relief actually being granted, and that seeking monetary relief alongside urgent reliefs does not by itself defeat the exception.",
+    "why_it_matters": "Gives commercial litigants a clearer, merits-blind test for invoking the urgent-interim-relief exception to Section 12-A mediation, reducing the risk that a suit seeking both damages and injunctive relief gets thrown out at the threshold for skipping mediation.",
+    "sources": [
+      "https://www.verdictum.in/bombay-high-court/high-point-supply-company-llc-v-agati-healthcare-private-limited-comfa152026-exception-us-12-a-commercial-courts-act-1619511",
+      "https://www.scconline.com/blog/post/2026/08/13/bom-hc-delay-does-not-defeat-urgent-interim-relief/",
+      "https://www.livelawbiz.com/commercial-court-act/monetary-claims-do-not-bar-urgent-relief-exception-to-pre-institution-mediation-bombay-high-court-545011"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-16"
   }
 ]
