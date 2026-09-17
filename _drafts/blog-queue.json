@@ -97,5 +97,179 @@
       "Manav Bhanot v. NHAI, 2026 INSC 973 (8 September 2026): case name, citation, date and holding cross-verified via Verdictum, LiveLaw and ibclaw.in at research time"
     ],
     "added_on": "2026-09-16"
+  },
+  {
+    "id": "anticipatory-bail-bnss-482-guide",
+    "topic_title": "Anticipatory Bail Under Section 482 BNSS: A Practical Guide",
+    "angle": "A guide for individuals apprehending arrest in a non-bailable offence on how anticipatory bail works under the Bharatiya Nagarik Suraksha Sanhita, 2023, which replaced Section 438 CrPC, covering eligibility, the factors courts weigh, standard conditions, and offences where the remedy is unavailable.",
+    "key_points": [
+      "Section 482 BNSS is the anticipatory bail provision under the new criminal procedure code, replacing Section 438 of the erstwhile CrPC, effective from 1 July 2024",
+      "Available to a person with a reasonable (not imaginary or vague) apprehension of arrest for a non-bailable offence, approaching the Court of Session or High Court; an FIR need not already be registered",
+      "Courts weigh factors including the nature and gravity of the accusation, whether custodial interrogation is genuinely required, the applicant's antecedents, flight risk, and the possibility of tampering with evidence or influencing witnesses",
+      "Standard conditions under Section 482(2) typically include joining investigation when called, not leaving India without court permission, surrendering the passport, and not contacting or threatening the complainant",
+      "Section 482(4) BNSS expressly excludes the remedy for specified serious offences, including rape of a woman under sixteen (Section 65 BNS) and gang rape of a woman under eighteen (Section 70(2) BNS)"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 482 BNSS as successor to Section 438 CrPC, effective 1 July 2024: confirmed via multiple sources (ipleaders, lawsikho, legalserviceindia) at research time",
+      "Standard conditions under Section 482(2) and exclusions under Section 482(4): confirmed via multiple sources at research time - cross-check exact BNS section numbers for excluded offences against the bare act at drafting time"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "rti-first-second-appeal-guide",
+    "topic_title": "How to File an RTI Application and Pursue First and Second Appeals",
+    "angle": "A practical guide for citizens seeking information from public authorities under the RTI Act, 2005, covering how to file the initial request, what to do if it is denied or ignored, and the two-stage appeal process.",
+    "key_points": [
+      "An RTI application must be made in writing (including electronically via the RTI Online Portal for central public authorities) in English or the official language of the area, along with the prescribed fee, to the Public Information Officer (PIO) of the relevant public authority",
+      "If the request is denied, ignored, or incompletely answered, a First Appeal can be filed within 30 days to the First Appellate Authority (FAA), an officer senior in rank to the PIO within the same public authority",
+      "If the FAA does not respond within 45 days of the first appeal, or gives an unsatisfactory decision, a Second Appeal lies to the Central Information Commission (for central authorities) or the State Information Commission (for state authorities)",
+      "Under Section 19(3) of the RTI Act, the Second Appeal must ordinarily be filed within 90 days from when the FAA's decision was due or was actually received",
+      "The Central Information Commission (Appeal Procedure) Rules, 2005 govern the second appeal process before the CIC"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "RTI Online Portal filing process and 30-day first appeal / 90-day second appeal timelines: confirmed via multiple sources (rtionline.gov.in FAQ, indiafilings, righttoinformation.wiki) at research time",
+      "45-day FAA response window before second appeal becomes available: confirmed via multiple sources at research time - reconfirm exact statutory basis at drafting time since some of this practice derives from Commission guidance rather than the bare Act text"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "dpdp-act-business-compliance-guide",
+    "topic_title": "DPDP Act 2023 Compliance for Businesses: What Data Fiduciaries Must Do",
+    "angle": "A compliance-focused guide for Indian businesses acting as 'data fiduciaries' under the Digital Personal Data Protection Act, 2023 and the DPDP Rules, 2025, covering core obligations, the heightened regime for Significant Data Fiduciaries, and the compliance timeline.",
+    "key_points": [
+      "The Digital Personal Data Protection Rules, 2025 were notified on 13 November 2025 (published in the Gazette on 14 November 2025), operationalising the DPDP Act, 2023",
+      "Every data fiduciary must give a clear, itemised notice, obtain valid consent that is free, specific, informed and unambiguous (pre-ticked boxes and bundled consent clauses do not suffice), implement reasonable security safeguards, and appoint a Grievance Officer to handle data principal complaints",
+      "Entities designated as 'Significant Data Fiduciaries' face additional obligations: appointing an India-based Data Protection Officer, appointing an independent data auditor, and conducting a Data Protection Impact Assessment (DPIA)",
+      "Consent Managers registered under the framework must retain records of consents, notices and data-sharing activity for at least seven years",
+      "The Schedule to the DPDP Act sets substantial maximum penalties, including up to Rs. 250 crore for failure to implement reasonable security safeguards and up to Rs. 200 crore for failure to notify a personal data breach",
+      "Most day-to-day compliance obligations (notice/consent operations, breach notification, data principal rights handling) are being phased in, with full compliance expected by around mid-2027"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "DPDP Rules 2025 notification date (13-14 November 2025) and phased compliance timeline: confirmed via multiple sources (Wikipedia DPDP Rules entry, EY, Lexology, Fisher Phillips) at research time",
+      "Specific SDF obligations (DPO, independent auditor, DPIA) and penalty figures (Rs. 250 crore / Rs. 200 crore): confirmed via multiple sources at research time - recheck against the current DPDP Rules text and any subsequent MeitY notifications at drafting time, since implementation deadlines and SDF-designation thresholds may be updated"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "power-of-attorney-types-registration-guide",
+    "topic_title": "Power of Attorney in India: General vs Special POA, and When Registration Is Mandatory",
+    "angle": "A guide for individuals and NRIs on choosing between a General and Special Power of Attorney, what must go into the POA deed, and when registration under the Indian Registration Act, 1908 is legally required versus optional.",
+    "key_points": [
+      "India recognises two broad types: a General Power of Attorney (GPA), which confers broad authority over all or a class of matters, and a Special Power of Attorney (SPA), which confers limited authority to do a specific, defined act",
+      "A POA is valid only if executed in accordance with the Indian Registration Act, 1908 and, where required, registered with the jurisdictional Sub-Registrar of Assurances",
+      "Registration is mandatory where the POA relates to the sale, transfer, or other dealing in immovable property; a merely notarised (unregistered) POA is not sufficient for property-related transactions, though notarisation may suffice for other, non-property matters",
+      "Essential contents of a POA deed: full name, age, address and occupation of the principal and the attorney, the specific powers being granted, and the date and place of execution",
+      "NRIs executing a POA abroad for use in India typically need to have it notarised/apostilled or attested at the Indian consulate before it can be acted upon or registered in India"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "GPA vs SPA distinction and mandatory registration for property-related POAs: confirmed via multiple sources (ipleaders, bnblegal, indialawoffices, indiafilings) at research time",
+      "Specific consular attestation/apostille requirements for NRI-executed POAs should be re-verified against current MEA and destination-country requirements at drafting time, since procedures vary by country and change periodically"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "nclt-oppression-mismanagement-guide",
+    "topic_title": "Minority Shareholder Remedies: Filing an Oppression and Mismanagement Petition Before the NCLT",
+    "angle": "A guide for minority shareholders and founders on when and how to approach the NCLT for relief against oppression and mismanagement under Sections 241-244 of the Companies Act, 2013, including the minimum-shareholding threshold and when it can be waived.",
+    "key_points": [
+      "Sections 241-242 of the Companies Act, 2013 allow a member to seek relief from the NCLT where the company's affairs are being conducted in a manner oppressive to members or prejudicial to the company's or public interest",
+      "Section 244 sets eligibility thresholds to file: for a company with share capital, either 100 members (or one-tenth of the total number of members, whichever is less) or members holding not less than one-tenth of the issued share capital",
+      "The NCLT/NCLAT has power to waive these thresholds in an appropriate case; when deciding a waiver application, the Tribunal is meant to assess only eligibility, not the underlying merits of the oppression claim",
+      "'Oppression' generally requires conduct that is burdensome, harsh and wrongful to the complainant in their capacity as a member/shareholder; 'mismanagement' generally requires conduct prejudicial to the company's interests arising from a material change in management or control",
+      "Section 242 gives the NCLT wide remedial powers, including regulating the conduct of the company's affairs, ordering purchase of shares, removing or appointing directors, and setting aside prejudicial agreements",
+      "Recent Supreme Court authority (Dr. Bais Surgical and Medical Institute Pvt. Ltd. v. Dhananjay Pande, 2026 INSC 447) confirms that formal non-entry of a petitioner's name in the register of members does not by itself defeat a petition where the company's own conduct recognised the petitioner as a member/stakeholder"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 244 shareholding thresholds and NCLT waiver practice: confirmed via multiple sources (equitylist, atblegal, sjainlaw, bhattandjoshiassociates) at research time",
+      "Dr. Bais Surgical v. Dhananjay Pande, 2026 INSC 447 (decided 4 May 2026): case name, citation, date and holding cross-verified via verdictum, livelaw, indiacorplaw and scobserver at research time"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "llp-closure-form-24-guide",
+    "topic_title": "How to Close an LLP in India: The Form 24 Strike-Off Process",
+    "angle": "A practical guide for partners of a dormant or inactive Limited Liability Partnership on voluntarily closing it via Form 24 under the LLP Act, 2008, covering eligibility, required documents, and timelines, distinct from the Companies Act strike-off route for companies.",
+    "key_points": [
+      "Voluntary strike-off of an LLP is governed by Section 75 of the LLP Act, 2008 and Rule 37 of the LLP Rules, 2009, and is initiated via LLP Form 24 filed with the Registrar of Companies",
+      "Eligibility is generally limited to LLPs that have been inactive (not carrying on any business) for at least one year and have no assets or liabilities",
+      "Unanimous consent of all partners (not merely the designated partners) is required before filing for voluntary closure",
+      "All outstanding debts, loans and liabilities must be settled, and all overdue statutory filings, Form 11 (Annual Return) and Form 8 (Statement of Account and Solvency), must be filed and brought up to date before the strike-off application can be processed",
+      "Required documents typically include a Statement of Accounts certified by a Chartered Accountant showing nil assets and liabilities, notarised affidavits from all designated partners, a notarised indemnity bond, and written consent of all partners",
+      "Processing time is typically around 2-3 months, depending on the Registrar's workload and completeness of the application"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 75 LLP Act / Rule 37 LLP Rules and Form 24 eligibility/document requirements: confirmed via multiple sources (registerkaro, incorpx, legalsuvidha, indiafilings) at research time",
+      "Processing timeline (2-3 months) fluctuates with RoC backlog and should be flagged as indicative, not guaranteed, at drafting time"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "cybercrime-complaint-portal-guide",
+    "topic_title": "How to Report Cyber Crime in India: The National Cyber Crime Reporting Portal and 1930 Helpline",
+    "angle": "A guide for individuals and businesses who are victims of cyber fraud or other cyber crime on how to report it promptly through the National Cyber Crime Reporting Portal and the 1930 helpline, and the relevant IT Act provisions, since speed of reporting is critical to freezing fraudulently transferred funds.",
+    "key_points": [
+      "The National Cyber Crime Reporting Portal (cybercrime.gov.in), run by the Indian Cyber Crime Coordination Centre (I4C) under the Ministry of Home Affairs, allows online reporting of all categories of cyber crime, with a particular focus on crimes against women and children",
+      "The 1930 toll-free helpline (which replaced the earlier 155260 number) is the dedicated 24/7 channel for reporting cyber financial fraud, and works with the portal to enable rapid fund-freeze requests to banks and payment intermediaries",
+      "Filing a complaint via the portal or the 1930 helpline is free of cost; complainants should preserve transaction references, screenshots, and communication records as supporting evidence",
+      "Key Information Technology Act, 2000 provisions relevant to common cyber crimes include Section 66C (identity theft), Section 66D (cheating by personation using a computer resource), Section 66E (violation of privacy), and Sections 67/67A/67B (transmission of obscene or child sexual abuse material)",
+      "Prompt reporting, ideally within the 'golden hours' after a fraudulent transaction, materially improves the chance of freezing the funds before they are withdrawn or moved further"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "cybercrime.gov.in portal, I4C, and 1930 helpline (replacing 155260): confirmed via multiple sources (PIB, Simple Wikipedia, cyberswaraksha, righttoinformation.wiki) at research time",
+      "IT Act section references (66C, 66D, 66E, 67/67A/67B): standard, well-established provisions, confirmed via multiple sources - verify no renumbering from any subsequent IT Act amendment at drafting time"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "maintenance-bnss-section-144-guide",
+    "topic_title": "Maintenance for Wife, Children and Parents Under Section 144 BNSS (Formerly Section 125 CrPC)",
+    "angle": "A guide explaining who can claim maintenance under the Bharatiya Nagarik Suraksha Sanhita's successor provision to the well-known Section 125 CrPC, aimed at spouses, parents and adult children who cannot maintain themselves, given the criminal procedure code was replaced from 1 July 2024.",
+    "key_points": [
+      "Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) has replaced Section 125 of the Code of Criminal Procedure for maintenance proceedings filed on or after 1 July 2024, though courts continue to apply the same substantive judicial principles developed under the old Section 125",
+      "Eligible claimants include: a wife unable to maintain herself (including a divorced wife who has not remarried), legitimate or illegitimate minor children unable to maintain themselves, legitimate or illegitimate major children who are physically or mentally abnormal, and parents unable to maintain themselves",
+      "A Judicial Magistrate of the First Class has jurisdiction to order a person of sufficient means to pay maintenance to a dependant covered under the section",
+      "The provision is a social welfare measure aimed at preventing vagrancy and destitution, and operates independently of, and in addition to, any maintenance relief available under personal law or the Hindu Marriage Act/Hindu Adoption and Maintenance Act"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 144 BNSS as successor to Section 125 CrPC, effective 1 July 2024, and the categories of eligible claimants: confirmed via multiple sources (lawbhoomi, niyam.ai, sterlingpartners, restthecase) at research time",
+      "Continuity of judicial precedent from the old Section 125 line of cases to Section 144 BNSS should be noted as a general practice observation rather than amended statutory text, and re-checked against any BNSS-specific case law that develops closer to drafting time"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "property-registration-stamp-duty-guide",
+    "topic_title": "Property Registration and Stamp Duty in India: A Step-by-Step Guide",
+    "angle": "A guide for homebuyers and sellers on the property registration process under the Registration Act, 1908, covering which documents must compulsorily be registered, the role of stamp duty, and the steps at the Sub-Registrar's office.",
+    "key_points": [
+      "Under Section 17 of the Registration Act, 1908, registration is compulsory for instruments of sale of immovable property valued at Rs. 100 or more, in practice virtually all real estate sale transactions, as well as gift deeds, mortgage deeds, exchange deeds, partition deeds, and leases of immovable property for a term exceeding one year",
+      "Stamp duty is a state subject and is typically charged as a percentage of the property's market or transaction value (commonly in the range of roughly 5-7%, varying significantly by state), and must be paid before or at the time of registration; stamp duty validates the instrument financially, while registration provides legal authenticity and public notice of the transaction",
+      "The typical registration process involves both parties (buyer and seller) and witnesses attending the jurisdictional Sub-Registrar's office in person, presenting the executed and duly stamped instrument, and signing before the Sub-Registrar, who then registers the document",
+      "Commonly required supporting documents include proof of identity and address of all parties, the original title documents/chain of title, and any applicable No Objection Certificates",
+      "Buyers should get the stamp duty adjudicated (where the state permits/requires it) by the Collector of Stamps to confirm the correct duty has been paid before registration, reducing the risk of later disputes over under-stamping"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 17 Registration Act compulsory registration categories and Sub-Registrar process: confirmed via multiple sources (indiacode.nic.in bare act text, thelawbrigade, legalshiksha) at research time",
+      "Stamp duty rate ranges (5-7%) vary significantly by state and are subject to periodic revision - re-verify current state-specific rates at drafting time rather than presenting a single India-wide figure"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "cheque-bounce-section-138-complaint-guide",
+    "topic_title": "Cheque Bounce Under Section 138 NI Act: Notice, Complaint and Timeline Explained",
+    "angle": "A step-by-step guide for payees dealing with a dishonoured cheque, walking through the mandatory demand notice, the criminal complaint process, statutory timelines, and settlement options, confirming the process is unaffected by the new criminal codes.",
+    "key_points": [
+      "On dishonour, the payee has 30 days from the date of the bank's return memo to issue a statutory demand notice under Section 138 of the Negotiable Instruments Act, 1881, and the drawer then has 15 days from receipt of that notice to make payment",
+      "If payment is not made within that 15-day period, the payee must file a written criminal complaint before the Judicial Magistrate having jurisdiction over the bank branch where the cheque was presented, ordinarily within 30 days of the cause of action arising",
+      "On receipt of a complaint, the Magistrate examines the complainant's sworn statement or affidavit under Section 145 of the Act along with supporting documents before issuing summons or dismissing the complaint",
+      "Section 138 and the rest of Chapter XVII of the Negotiable Instruments Act remain a standalone central statute, unaffected by the Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita or Bharatiya Sakshya Adhiniyam - the cheque-bounce notice procedure, timelines and jurisdiction rules are unchanged from the pre-2024 framework",
+      "The demand notice must claim the exact cheque amount; the Supreme Court's 2025 ruling in Kaveri Plastics v. Mahdoom Bawa Bahrudeen Noorul (2025 INSC 1133) confirms that any discrepancy between the notice amount and the cheque amount is fatal to the complaint",
+      "Section 147 of the Act permits compounding (settlement) of the offence at any stage, including after a criminal complaint has been filed, and courts actively encourage early settlement in Section 138 matters"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "30-day notice / 15-day payment / 30-day complaint-filing timeline and Section 145 affidavit procedure: confirmed via multiple sources (legistify, indiaproai, prakashaandco, jurigram) at research time",
+      "NI Act Chapter XVII being unaffected by BNS/BNSS/BSA: confirmed via multiple sources at research time",
+      "Kaveri Plastics v. Mahdoom Bawa Bahrudeen Noorul, 2025 INSC 1133 (decided 19 September 2025): cross-verified via indiankanoon, legalserviceindia, lawbeat and bljlegal at research time"
+    ],
+    "added_on": "2026-09-17"
   }
 ]
