@@ -221,5 +221,107 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-17"
+  },
+  {
+    "id": "gvv-constructions-union-india-section-16-excepted-matters-arbitral-tribunal",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "M/s. GVV Constructions Private Limited v. The Union of India & Ors.",
+    "citation": "2026 INSC 976",
+    "court": "Supreme Court of India",
+    "date": "2026-09-08",
+    "holding_summary": "A Bench of Justices Pamidighantam Sri Narasimha and Alok Aradhe held that a High Court, exercising writ appellate jurisdiction, cannot pre-determine or constrain an Arbitral Tribunal's authority under Section 16 of the Arbitration and Conciliation Act, 1996 to rule on its own jurisdiction. The dispute arose after South-Central Railway terminated a track-doubling contract with GVV Constructions; the Division Bench had directed the arbitrator to decide claims 'strictly in accordance with the terms of the contract,' which the Supreme Court found improperly circumscribed the Tribunal's inquiry into whether the termination fell within the contract's 'excepted matters' clause. The Court reaffirmed that such questions of arbitrability belong to the Tribunal under Section 16, not to a court exercising judicial review.",
+    "why_it_matters": "Reinforces that government and infrastructure contractors litigating termination disputes under works contracts can expect the arbitral tribunal, not a writ court, to have the first and controlling word on whether a claim falls within an 'excepted matters' clause.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/ms-gvv-constructions-private-limited-v-the-union-of-india-2026-insc-976-claim-arbitral-tribunal-1621600",
+      "https://rawlaw.in/supreme-court-protects-arbitrators-power-to-decide-railway-contract-termination-dispute-holds-high-court-cannot-pre-determine-arbitrability-or-restrict-tribunals-jurisdiction-under/",
+      "https://theindianlawyer.in/arbitration-and-excepted-matters-supreme-court-clarifies-the-tribunals-jurisdiction-under-section-16/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "sudhanshu-kardam-cag-disability-reservation-auditor-post",
+    "practice_area": "Employment & Labour",
+    "case_name": "Sudhanshu Kardam v. Comptroller and Auditor General of India & Ors.",
+    "citation": "2026 INSC 232",
+    "court": "Supreme Court of India",
+    "date": "2026-03-12",
+    "holding_summary": "Two candidates with benchmark disabilities (specific learning disability and mental illness) who qualified in the SSC's Combined Graduate Level Examination, 2018 for the post of Auditor under the CAG were denied appointment because the post had not been identified as suitable for their disabilities under the older 2013 list. The Supreme Court held that a January 2021 Gazette notification under the Rights of Persons with Disabilities Act, 2016 had superseded the 2013 list and expressly identified Auditor-category posts as suitable for these disabilities, so the candidates could not be denied appointment on the basis of the outdated list. The Court directed CAG to create supernumerary posts to accommodate both candidates.",
+    "why_it_matters": "Public and private employers administering disability-reserved recruitment must apply the current RPwD Act identification notifications rather than older, superseded lists when assessing a candidate's eligibility for a reserved post.",
+    "sources": [
+      "https://www.verdictum.in/court-updates/supreme-court/sudhanshu-kardam-v-comptroller-and-auditor-general-of-india-2026-insc-232-supernumerary-posts-cag-pwbd-candidates-audit-accounts-1609821",
+      "https://www.livelaw.in/supreme-court/supreme-court-upholds-claim-of-candidates-with-learning-disability-mental-illness-to-join-cag-auditor-post-526248",
+      "https://www.mondaq.com/india/employee-rights-labour-relations/1767496/disability-rights-in-public-employment-a-supreme-court-ruling"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "ani-media-openai-delhi-hc-ai-copyright-fair-dealing",
+    "practice_area": "Intellectual Property",
+    "case_name": "ANI Media Pvt. Ltd. v. Open AI OpCo LLC & Ors.",
+    "citation": "2026:DHC:5900 (CS(COMM) 1028/2024)",
+    "court": "Delhi High Court",
+    "date": "2026-07-24",
+    "holding_summary": "Justice Amit Bansal dismissed news agency ANI's application for an interim injunction against OpenAI, which ANI alleged had trained ChatGPT on its copyrighted news content without authorisation. While accepting ANI's ownership of copyright in its content, the Court held that copyright protects only the original expression of a work and not the underlying facts, and found that using the content to train the model, together with the transformative nature of ChatGPT's outputs, weighed against a finding of infringement at the interim stage. The ruling is non-precedential (an interim order) and is under appeal before a Division Bench.",
+    "why_it_matters": "India's first substantive judicial treatment of AI-model training against a copyright infringement claim; until the appeal is resolved, it is the leading (if non-binding) domestic guidance for how Indian courts may weigh fair-dealing/transformative-use arguments against content owners' claims over AI training data.",
+    "sources": [
+      "https://chambers.com/articles/delhi-high-courts-ani-v-openai-shaping-ai-copyright-law-in-india",
+      "https://www.mondaq.com/india/copyright/1826152/ani-v-openai-indias-first-copyright-ruling-on-llm-training",
+      "https://law.asia/openai-copyright-victory/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "acit-omaxe-limited-settlement-commission-reassessment-barred",
+    "practice_area": "Tax Litigation",
+    "case_name": "Assistant Commissioner of Income Tax & Anr. v. M/s. Omaxe Limited",
+    "citation": "2026 INSC 1000",
+    "court": "Supreme Court of India",
+    "date": "2026-09-16",
+    "holding_summary": "A Bench of Justices S.V.N. Bhatti and N.V. Anjaria held that once the Income Tax Settlement Commission passes a final order under Section 245D(4) of the Income Tax Act, 1961 determining an assessee's net taxable income, an Assessing Officer cannot invoke reassessment powers to reopen an issue already covered by that settlement. The dispute arose after the Department sought to reopen Omaxe Limited's ITSC-settled assessment to disallow a Rs. 65.65 crore deduction. The Court held Parliament had not envisaged reassessment as a route around a settlement order, and that the Revenue's only recourse, where it suspects fraud or misrepresentation in obtaining the settlement, is to approach the Settlement Commission itself under Section 245D(6).",
+    "why_it_matters": "Gives finality to Income Tax Settlement Commission orders and closes off reassessment as a backdoor route for the Revenue to revisit issues an assessee has already settled, materially reducing reopening risk for taxpayers who have gone through ITSC proceedings.",
+    "sources": [
+      "https://www.livelaw.in/supreme-court/income-tax-ao-cannot-reopen-assessment-settled-by-settlement-commission-supreme-court-550364",
+      "https://www.verdictum.in/supreme-court/assistant-commissioner-of-income-tax-v-ms-omaxe-limited-2026-insc-1000-revenue-and-assessee-1622143",
+      "https://lawchakra.in/supreme-court/supreme-court-itsc-settlement-order-finality-reassessment-omaxe-section-245d6/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "southern-power-distribution-ap-green-infra-wind-gbi-tariff",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "Southern Power Distribution Company of Andhra Pradesh Limited & Anr. v. Green Infra Wind Solutions Limited & Ors.",
+    "citation": "2026 INSC 294 (Civil Appeal No. 4495 of 2025)",
+    "court": "Supreme Court of India",
+    "date": "2026-03-25",
+    "holding_summary": "A Bench of Justices Pamidighantam Sri Narasimha and Atul S. Chandurkar dismissed an appeal by Andhra Pradesh's power distribution companies and held that the Generation-Based Incentive (GBI), a Central government scheme benefit for wind power generators, is a distinct performance-linked payment to be disbursed to generating companies over and above the tariff fixed under their power purchase agreements. The Court held that while State Electricity Regulatory Commissions retain exclusive power to determine tariff and may factor in government grants generally, they cannot treat or adjust the GBI as part of the tariff itself, since doing so would defeat the incentive's purpose.",
+    "why_it_matters": "Protects wind-energy generators' GBI revenue stream from being absorbed into, or set off against, DISCOM tariff payments, which matters for PPA structuring, project financing and revenue modelling in renewable energy transactions.",
+    "sources": [
+      "https://www.verdictum.in/court-updates/supreme-court/2026-insc-294-southern-power-distribution-company-of-andhra-pradesh-limited-v-green-infra-wind-solutions-limited-1610705",
+      "https://www.mondaq.com/india/renewables/1783012/the-supreme-court-of-india-grants-relief-to-wind-power-generators-holding-that-generation-based-incentive-must-be-disbursed-to-generating-companies-over-and-above-the-tariff",
+      "https://trilegal.com/news-insights/trilegal-advised-green-infra-and-sterling-agro-in-landmark-sc-ruling-strengthening-renewable-energy-framework-on-gbi-tariff-treatment/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "reliance-eminent-trading-dda-order-13a-summary-judgment-guidelines",
+    "practice_area": "Commercial Litigation",
+    "case_name": "Reliance Eminent Trading and Commercial Private Limited v. Delhi Development Authority",
+    "citation": "2026 INSC 436",
+    "court": "Supreme Court of India",
+    "date": "2026-04-29",
+    "holding_summary": "A Bench of Justices J.K. Maheshwari and Atul S. Chandurkar laid down the first comprehensive, nine-point judicial framework for when a commercial court may grant summary judgment under Order XIII-A of the CPC (as applied through the Commercial Courts Act) without a full trial. Applying that framework, the Court found DDA's defences — on possession, non-joinder of the original owner, and limitation, in a dispute traced to a 2007 auction of a Jasola commercial plot whose underlying land acquisition had lapsed under Section 24(2) of the LARR Act — to be merely fanciful and not raising any real prospect of successfully resisting the claim. It set aside the 2008 conveyance deed under Article 142 and directed DDA to refund over Rs. 164 crore with 7.5% annual interest.",
+    "why_it_matters": "Gives commercial courts and litigants the first authoritative checklist for seeking or resisting early disposal of commercial suits without a full trial, likely to speed up resolution of disputes where a defence has no real prospect of success.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/reliance-eminent-trading-and-commercial-private-limited-v-dda-2026-insc-436-summary-judgment-under-order-xiii-a-cpc-1613197",
+      "https://www.legalserviceindia.com/Legal-Articles/order-xiii-a-summary-judgment-under-commercial-courts-act-supreme-court-guidelines-in-reliance-eminent-v-dda-2026/",
+      "https://veritect.ai/legal-news/supreme-court-order-xiii-a-summary-judgment-commercial-courts-reliance-eminent-dda"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-17"
   }
 ]

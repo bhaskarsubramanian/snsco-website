@@ -32,7 +32,7 @@
       "Practical contractor checklist: preserve DRB referral timelines, document claims contemporaneously for the CCIE stage, verify current claim-value thresholds against the latest NHAI circular before assuming arbitration is available, and treat 3G land-acquisition disputes and EPC contract disputes as procedurally distinct tracks"
     ],
     "facts_to_verify_or_confirmed": [
-      "Existence and content of DRB \u2192 CCIE conciliation \u2192 arbitration sequence in post-2020 NHAI EPC/HAM/BOT templates: confirmed via multiple industry sources (epcworld.in, foxmandal.in, Lexology) at research time",
+      "Existence and content of DRB → CCIE conciliation → arbitration sequence in post-2020 NHAI EPC/HAM/BOT templates: confirmed via multiple industry sources (epcworld.in, foxmandal.in, Lexology) at research time",
       "Exact NHAI 2026 policy circular number (cited as '11.82 of 2026') and the precise Rs. 10 crore threshold for barring arbitration on higher-value claims should be re-confirmed against the actual NHAI circular text at drafting time, since only secondary/trade-press sources were checked",
       "The 28-day window for a contractor's conciliation proposal after a DRB decision should be re-verified against the current standard NHAI contract clause in force, as this may vary by agreement vintage",
       "Manav Bhanot v. NHAI, 2026 INSC 973 (8 September 2026): case name, citation, date and holding cross-verified via Verdictum, LiveLaw and ibclaw.in at research time"
@@ -88,6 +88,63 @@
       "30-day notice / 15-day payment / 30-day complaint-filing timeline and Section 145 affidavit procedure: confirmed via multiple sources (legistify, indiaproai, prakashaandco, jurigram) at research time",
       "NI Act Chapter XVII being unaffected by BNS/BNSS/BSA: confirmed via multiple sources at research time",
       "Kaveri Plastics v. Mahdoom Bawa Bahrudeen Noorul, 2025 INSC 1133 (decided 19 September 2025): cross-verified via indiankanoon, legalserviceindia, lawbeat and bljlegal at research time"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "sarfaesi-section-13-2-demand-notice-borrower-guide",
+    "topic_title": "Received a SARFAESI Section 13(2) Notice? A Borrower's Guide to the 60-Day Window",
+    "angle": "Practical guide for a defaulting borrower who has just received a Section 13(2) demand notice — what it must contain, how to file a representation/objection, the bank's obligations, and when to approach the DRT.",
+    "key_points": [
+      "What a Section 13(2) demand notice must disclose and the 60-day window to repay or respond",
+      "Filing a representation or objection under Section 13(3A) and the secured creditor's duty to give reasons in writing if it is rejected",
+      "What follows a Section 13(4) possession notice and how possession can be taken",
+      "Why Section 17 appeal to the Debts Recovery Tribunal, not a writ petition, is the ordinary first remedy against SARFAESI action",
+      "Common successful grounds: defective/incomplete notice, valuation irregularities, non-compliance with the Section 13(3A) reasoned-reply requirement"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "60-day period to discharge liability or respond under Section 13(2): confirmed across multiple sources",
+      "Secured creditor must respond to a borrower's representation within 15 days under Section 13(3A): confirmed",
+      "Section 17 DRT appeal as the primary statutory remedy: confirmed general position; verify the current pre-deposit percentage for a Section 18 DRAT appeal (has changed historically) against the latest SARFAESI Act text before publishing"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "patent-registration-process-india-guide",
+    "topic_title": "How to Register a Patent in India: Process, Timeline and Costs",
+    "angle": "Step-by-step guide for an inventor or startup taking an invention from a patentability search through examination to grant, including the expedited route available to startups.",
+    "key_points": [
+      "Patentability search and choosing between a provisional and complete specification",
+      "Filing at the appropriate Patent Office and claiming priority from an earlier application",
+      "Publication (ordinarily 18 months from filing/priority) and requesting examination within 31 months",
+      "Responding to the First Examination Report; pre-grant and post-grant opposition",
+      "Expedited examination for startups/small entities and typical grant timelines versus the ordinary route",
+      "20-year patent term from the filing date and annual renewal (maintenance) fees"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "31-month deadline (from filing or priority date, whichever is earlier) to request examination: confirmed",
+      "20-year patent term from date of filing: confirmed",
+      "Ordinary grant timeline of roughly 2-5 years versus 6-12 months under expedited examination for startups: confirmed as a general range, note it varies with patent office backlog and technology area",
+      "Exact current official filing/examination fees by applicant category (natural person/startup/small entity/large entity): verify against the current Patents Rules fee schedule before publishing, as these are periodically revised"
+    ],
+    "added_on": "2026-09-17"
+  },
+  {
+    "id": "enwr-warehouse-receipts-agricultural-commodities-guide",
+    "topic_title": "Electronic Negotiable Warehouse Receipts: A Legal Guide for Agri-Businesses and Farmers",
+    "angle": "Explains how WDRA-registered warehouses and e-NWRs let farmers and agri-businesses store produce and borrow against it instead of distress-selling, and the compliance steps for a warehouse operator seeking WDRA registration.",
+    "key_points": [
+      "What the Warehousing (Development and Regulation) Act, 2007 and the WDRA regulate",
+      "Why e-NWRs are now mandatory for WDRA-registered warehouses, and how the electronic repository system (via NERL and CDSL Commodity Repository) works",
+      "How a farmer or trader can pledge an e-NWR to obtain a post-harvest loan against stored produce",
+      "Which agricultural commodities are currently notified for e-NWR issuance",
+      "Registration and compliance requirements for a warehouse operator seeking WDRA accreditation",
+      "Operator liability and dispute resolution for quality or quantity shortfalls in stored produce under the Act"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "e-NWRs made mandatory for WDRA-registered warehouses since the 2019 notification: confirmed",
+      "Two WDRA-approved repositories, National E-Repository Limited (NERL) and CDSL Commodity Repository Limited: confirmed",
+      "143 agricultural commodities currently notified for e-NWR issuance: confirmed as of this research date, but the notified list is revised periodically, so verify the current count against the WDRA website before publishing"
     ],
     "added_on": "2026-09-17"
   }
