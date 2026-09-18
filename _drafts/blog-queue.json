@@ -32,7 +32,7 @@
       "Practical contractor checklist: preserve DRB referral timelines, document claims contemporaneously for the CCIE stage, verify current claim-value thresholds against the latest NHAI circular before assuming arbitration is available, and treat 3G land-acquisition disputes and EPC contract disputes as procedurally distinct tracks"
     ],
     "facts_to_verify_or_confirmed": [
-      "Existence and content of DRB → CCIE conciliation → arbitration sequence in post-2020 NHAI EPC/HAM/BOT templates: confirmed via multiple industry sources (epcworld.in, foxmandal.in, Lexology) at research time",
+      "Existence and content of DRB \u2192 CCIE conciliation \u2192 arbitration sequence in post-2020 NHAI EPC/HAM/BOT templates: confirmed via multiple industry sources (epcworld.in, foxmandal.in, Lexology) at research time",
       "Exact NHAI 2026 policy circular number (cited as '11.82 of 2026') and the precise Rs. 10 crore threshold for barring arbitration on higher-value claims should be re-confirmed against the actual NHAI circular text at drafting time, since only secondary/trade-press sources were checked",
       "The 28-day window for a contractor's conciliation proposal after a DRB decision should be re-verified against the current standard NHAI contract clause in force, as this may vary by agreement vintage",
       "Manav Bhanot v. NHAI, 2026 INSC 973 (8 September 2026): case name, citation, date and holding cross-verified via Verdictum, LiveLaw and ibclaw.in at research time"
@@ -94,7 +94,7 @@
   {
     "id": "sarfaesi-section-13-2-demand-notice-borrower-guide",
     "topic_title": "Received a SARFAESI Section 13(2) Notice? A Borrower's Guide to the 60-Day Window",
-    "angle": "Practical guide for a defaulting borrower who has just received a Section 13(2) demand notice — what it must contain, how to file a representation/objection, the bank's obligations, and when to approach the DRT.",
+    "angle": "Practical guide for a defaulting borrower who has just received a Section 13(2) demand notice \u2014 what it must contain, how to file a representation/objection, the bank's obligations, and when to approach the DRT.",
     "key_points": [
       "What a Section 13(2) demand notice must disclose and the 60-day window to repay or respond",
       "Filing a representation or objection under Section 13(3A) and the secured creditor's duty to give reasons in writing if it is rejected",
@@ -147,5 +147,195 @@
       "143 agricultural commodities currently notified for e-NWR issuance: confirmed as of this research date, but the notified list is revised periodically, so verify the current count against the WDRA website before publishing"
     ],
     "added_on": "2026-09-17"
+  },
+  {
+    "id": "gst-registration-cancellation-procedure-guide",
+    "topic_title": "GST Registration and Cancellation: A Step-by-Step Procedural Guide",
+    "angle": "A practical guide for new businesses applying for GST registration and for taxpayers who need to cancel or revoke an existing GSTIN, covering the relevant forms, timelines and post-cancellation obligations.",
+    "key_points": [
+      "New registration is applied for via Form GST REG-01 (Part A and Part B) on the GST portal; the Temporary Reference Number (TRN) generated after Part A is valid for 15 days",
+      "Aadhaar-authenticated, low-risk applicants can be approved in as little as 3 working days, while standard applications typically see GSTIN and the REG-06 certificate issued within about 7 working days of the Application Reference Number (ARN) if no query is raised",
+      "Voluntary cancellation is applied for via Form GST REG-16, which must include reasons, effective date sought, and stock/liability particulars; the proper officer must issue the cancellation order in Form GST REG-19 within 30 days of a complete application",
+      "Incomplete REG-16 applications, or those involving transfer to an unregistered transferee, are queried by the officer, with the taxpayer given 7 working days to respond and an opportunity of hearing before rejection",
+      "Cancellation does not extinguish existing tax liabilities; the taxpayer must file a final return in Form GSTR-10 (generally within 3 months of cancellation/order date) and settle tax on remaining stock or reverse input tax credit as applicable",
+      "A GSTN advisory (20 November 2025) has led to suspension of some new registrations where bank account details are not furnished within 30 days of registration, a practical trap for new registrants to flag"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "REG-01/REG-16/REG-19 forms, TRN validity, and the 30-day officer timeline for REG-19: confirmed via multiple sources (Cashfree, Vakilsearch, ClearTax, Busy.in, IndiaFilings, TaxTMI) at research time",
+      "Exact GSTR-10 filing deadline window and the specific 30-day bank-account-details suspension rule should be re-confirmed against the live GSTN advisory text at drafting time, since these are administrative/procedural notices subject to change",
+      "State-level variations in processing speed and any risk-based approval categories should be re-verified closer to publication as GSTN has been iterating on the risk-rating algorithm"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "eway-bill-compliance-guide",
+    "topic_title": "E-Way Bill Compliance Under GST: When It's Required and How to Generate One",
+    "angle": "A practical compliance guide for businesses and transporters on when an e-way bill is mandatory under Rule 138 of the CGST Rules, how validity periods are calculated, and how to avoid penalties for transporting goods without one.",
+    "key_points": [
+      "Rule 138 of the CGST Rules, 2017 requires an e-way bill for movement of goods where the consignment value exceeds Rs. 50,000 for interstate movement; intrastate thresholds are state-specific and commonly range between Rs. 50,000 and Rs. 1 lakh",
+      "The e-way bill is generated on the government e-way bill portal by the consignor, consignee, or transporter, and requires invoice/challan details, transporter ID and vehicle number (Part B)",
+      "Validity is calculated at 1 day per 200 km (or part thereof) of distance for regular cargo, and 1 day per 20 km for over-dimensional cargo, with a maximum extension cap of 360 days from original generation",
+      "Extension of validity must be requested before expiry, or within 8 hours after expiry in specified circumstances, failing which the e-way bill lapses and goods in transit become non-compliant",
+      "Transporters can use a Common Enrolment Number to generate e-way bills on behalf of multiple clients under a single transporter ID",
+      "Non-compliance (goods moving without a valid e-way bill) exposes the transporter/consignor to detention, seizure and penalty under Section 129 of the CGST Act, separate from any tax demand"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Rs. 50,000 interstate threshold and the 1 day/200 km validity formula (in force since 1 January 2021): confirmed via multiple sources (taxreply.com, getswipe.in, official ewaybillgst.gov.in rules PDF, IncorpX) at research time",
+      "State-specific intrastate thresholds vary and should be re-verified state-by-state at drafting time rather than presented as a single figure",
+      "The 360-day maximum extension cap and 8-hour post-expiry extension window should be re-checked against the current CBIC notification in force, as these have been amended before"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "fema-fdi-reporting-fcgpr-fctrs-guide",
+    "topic_title": "FEMA Compliance for Foreign Investment: Filing FC-GPR and FC-TRS on the RBI's FIRMS Portal",
+    "angle": "A guide for Indian companies receiving foreign direct investment and for investors transferring shares to/from non-residents, explaining the mandatory RBI reporting forms, deadlines and consequences of late filing.",
+    "key_points": [
+      "Form FC-GPR reports a fresh issue of capital instruments (shares, convertible debentures, etc.) by an Indian company to a person resident outside India, and must be filed within 30 days from the date of allotment, regardless of when funds were received",
+      "Form FC-TRS reports transfer of capital instruments between a resident and a non-resident (or vice versa), and must be filed within 60 days from the date of transfer or receipt of consideration, whichever is earlier",
+      "Both filings are made through the Foreign Investment Reporting and Management System (FIRMS) portal (firms.rbi.org.in) via the Single Master Form (SMF); a one-time Entity Master Form (EMF) registration recording the company's CIN, PAN and sector is a prerequisite before any transaction-based filing",
+      "Since July 2025, RBI has enabled bulk upload of FC-GPR, FC-TRS and Downstream Investment (DI) filings via CSV templates on the FIRMS portal",
+      "Required supporting documents typically include the Foreign Inward Remittance Certificate (FIRC), KYC report from the remitter's bank, a valuation certificate (for pricing compliance), and a company secretary certificate confirming compliance with the Companies Act and FEMA pricing guidelines",
+      "Late or non-filing exposes the company to compounding proceedings under FEMA, with the option to regularise via the RBI's compounding application route rather than facing open-ended penalty exposure"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "30-day FC-GPR and 60-day FC-TRS filing windows, and the FIRMS/EMF/SMF structure: confirmed via multiple sources (Equitylist, xFlowPay, Stratrich, IndiaFilings, Accorp Partners) at research time",
+      "July 2025 bulk-upload/CSV functionality for FC-GPR, FC-TRS and DI forms: reported by Stratrich/Equitylist summaries; should be re-verified against the actual RBI FIRMS portal circular at drafting time",
+      "Compounding process details and current compounding fee schedule for late filings should be re-confirmed against the latest RBI compounding of contraventions circular before drafting, as these are periodically revised"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "environmental-consent-establish-operate-cte-cto-guide",
+    "topic_title": "Consent to Establish and Consent to Operate: Environmental Clearance Basics for Setting Up a Unit",
+    "angle": "A practical guide for businesses setting up manufacturing or processing units on obtaining CTE and CTO from the State Pollution Control Board under the Water Act and Air Act, aimed at founders and compliance officers navigating pre- and post-construction environmental approvals.",
+    "key_points": [
+      "No industrial unit can legally commence construction or operation without Consent to Establish (CTE, pre-construction) and Consent to Operate (CTO, post-construction) under the Water (Prevention and Control of Pollution) Act, 1974 and the Air (Prevention and Control of Pollution) Act, 1981, granted by the State Pollution Control Board (SPCB) or, in Union Territories, the Pollution Control Committee (PCC)",
+      "The Ministry of Environment, Forest and Climate Change issued the Control of Water Pollution (Grant, Refusal, or Cancellation of Consent) Guidelines, 2025 and the parallel Air Act guidelines in 2025, streamlining the consent process and introducing a Common Consent Mechanism allowing a single application covering Water Act, Air Act, and Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016 authorisation together",
+      "CTE is applied for using Form I, submitting site details, project design and pollution control measures before construction begins; CTO is applied for using Form II after construction, supported by compliance reports and performance/lab testing confirming adherence to CTE conditions",
+      "Consent validity and renewal frequency depend on the industry's pollution category: Red category units renew every 5 years, Orange category every 10 years, and Green category every 15 years",
+      "Operating without a valid CTE/CTO, or in breach of conditions, exposes the unit to closure directions, cancellation of consent and prosecution under the respective Acts",
+      "Businesses should check whether their activity also triggers Environmental Clearance (EC) requirements under the EIA Notification, 2006, which is a separate, project-category-based approval distinct from CTE/CTO"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "CTE/Form I and CTO/Form II two-stage process, and the Red/Orange/Green 5/10/15-year renewal cycle: confirmed via multiple sources (susbio.in, Cyril Amarchand Mangaldas blog, Lawrbit, SKM Global, Spans Envirotech) at research time",
+      "The 2025 Water Act and Air Act Consent Guidelines and the Common Consent Mechanism should be re-verified against the actual MoEFCC gazette notification text at drafting time, since only secondary/consultancy sources were checked",
+      "State-specific SPCB fee schedules and processing timelines vary and should be confirmed for the specific state the article targets before publication"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "personal-guarantor-insolvency-ibc-part-iii-guide",
+    "topic_title": "Insolvency Proceedings Against Personal Guarantors: How Part III of the IBC Works",
+    "angle": "A guide for personal guarantors to corporate debtors (typically promoters/directors who have guaranteed company loans) facing or considering insolvency proceedings under Part III of the Insolvency and Bankruptcy Code, distinct from the corporate insolvency resolution process.",
+    "key_points": [
+      "Insolvency proceedings against a personal guarantor to a corporate debtor are initiated before the NCLT (not DRT), either by the creditor under Section 95 or voluntarily by the guarantor under Section 94, once default crosses the minimum threshold of Rs. 1 crore under Section 60(1)",
+      "Filing an application under Section 95/94 triggers an interim moratorium under Section 96, immediately pausing legal actions against the guarantor's assets pending the resolution professional's report",
+      "The NCLT appoints a resolution professional (RP) within 7 days of the application; the RP examines the guarantor's financial position and submits a report within 10 days recommending admission or rejection of the application",
+      "Once admitted, a permanent moratorium (commonly cited at around 180 days) begins, creditors are invited to file claims via public notice, and a repayment plan process follows distinct from corporate CIRP's resolution plan mechanism",
+      "This individual insolvency track under Part III is procedurally and jurisdictionally separate from the corporate insolvency resolution process (CIRP) under Part II that resolves the underlying corporate debtor's insolvency",
+      "The Supreme Court has held that approval of a resolution plan for the corporate debtor does not automatically discharge a personal guarantor's independent liability, so guarantors can face parallel exposure even after the company's CIRP concludes"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 94/95 initiation routes, Rs. 1 crore threshold, interim moratorium under Section 96, and RP timelines: confirmed via multiple sources (Bar & Bench, Bhatt & Joshi Associates, Mondaq, IndiaLaw) at research time",
+      "References to an 'IBC Amendment Act 2026' and IBBI notifications between late 2025 and mid-2026 affecting personal guarantor procedure were flagged by only one aggregated source and must be independently verified against the actual amendment/notification text before drafting",
+      "The 180-day permanent moratorium figure and repayment plan mechanics under Sections 100-115 should be re-confirmed against the bare Act sections at drafting time"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "partnership-firm-registration-guide",
+    "topic_title": "Registering a Partnership Firm in India: Process Under the Indian Partnership Act, 1932",
+    "angle": "A practical guide for small business owners choosing a partnership structure, explaining the (largely optional but strongly advisable) registration process with the Registrar of Firms and the consequences of remaining unregistered.",
+    "key_points": [
+      "Registration of a partnership firm under Sections 58-59 of the Indian Partnership Act, 1932 is done by filing Form 1 (a statement with prescribed particulars) with the Registrar of Firms of the area where the firm's place of business is situated, signed and verified by all partners",
+      "The statement must disclose the firm's name, principal and other places of business, date each partner joined, full names and permanent addresses of all partners, and the firm's duration if constituted for a fixed term",
+      "Registration is not mandatory under the central Act in most states and can be done at any time, not only at formation, but Maharashtra and Gujarat have made registration compulsory by state amendment",
+      "The Registrar records the statement in the Register of Firms and issues a Certificate of Registration once satisfied that Section 58 requirements are met; the process typically takes about 10-15 working days and requires no minimum capital or MCA portal filing",
+      "Under Section 69 of the Act, an unregistered firm (or its partners) cannot sue a third party or another partner to enforce a right arising from a contract, and cannot claim a set-off in legal proceedings - a major practical disadvantage of staying unregistered",
+      "Registration also enables a partner's name to be entered/removed from the register on changes in constitution, retirement or dissolution, keeping public records of the firm's composition current"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Sections 58/59 filing requirements, Form 1 process and 10-15 day timeline: confirmed via multiple sources (iPleaders, Indian Kanoon bare Act text, LawBhoomi, MyHQ) at research time",
+      "Section 69 consequences of non-registration (bar on suits) is well-established case law and bare Act text but should be cross-checked for any state-specific carve-outs at drafting time",
+      "Maharashtra/Gujarat compulsory registration status and any current state government fee schedule for Form 1 should be re-verified for the specific state the article targets"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "choosing-business-structure-sole-prop-opc-llp-pvt-ltd-guide",
+    "topic_title": "Sole Proprietorship, OPC, LLP or Private Limited: Choosing the Right Business Structure in India",
+    "angle": "A decision-guide for first-time entrepreneurs comparing the four common business structures on liability, compliance burden, funding ability and conversion pathways, to help them pick the right starting structure before incorporation.",
+    "key_points": [
+      "Sole proprietorship offers no legal separation between owner and business - the proprietor has unlimited personal liability and there is no separate incorporation process, making it the fastest but riskiest option for anything beyond a small local business",
+      "A One Person Company (OPC), under the Companies Act, 2013, gives a solo founder limited liability and a separate legal identity with fewer compliance requirements than a private limited company (e.g., relaxed board meeting norms), but cannot raise equity funding from outside investors and bars foreign individuals from incorporating one",
+      "A Limited Liability Partnership (LLP) needs a minimum of two partners with no upper cap, offers low compliance costs relative to a company, but cannot issue equity shares - converting an LLP to a private limited company later is a time-consuming, costlier process, relevant for founders anticipating VC funding",
+      "A Private Limited Company requires at least two shareholders/directors, can scale up to 200 shareholders, and is the structure VCs and angel investors overwhelmingly prefer since it allows equity issuance - but it carries the highest compliance burden (mandatory board meetings, annual returns, statutory audit)",
+      "Conversion pathways exist between structures (e.g., proprietorship/LLP/OPC to private limited company) but each involves its own procedural and tax implications that should be weighed against simply incorporating the eventual target structure at the outset",
+      "The right choice depends on funding plans, number of founders, sector-specific regulatory requirements, and the compliance capacity of the founding team, not on a single 'best' structure"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Core liability/governance/funding differences across the four structures: confirmed via multiple sources (Legal Service India, Treelife, FlexiLoans, KDP Accountants, corporatelaws.in) at research time",
+      "OPC's specific compliance relaxations (e.g., exemption from certain board meeting norms) and the 200-shareholder cap for private companies should be cross-checked against the current Companies Act, 2013 provisions and any 2026 amendments at drafting time",
+      "Conversion procedure specifics (e.g., LLP-to-Pvt-Ltd, proprietorship-to-Pvt-Ltd) were only lightly covered in aggregated sources and should be researched separately and in more depth when drafting that section"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "gig-platform-worker-rights-social-security-code-guide",
+    "topic_title": "Gig and Platform Worker Rights Under the Code on Social Security: What the 2026 Rules Mean",
+    "angle": "An explainer for gig and platform workers (and the aggregators engaging them) on the social security entitlements, registration requirements and welfare fund contributions now in force under the Code on Social Security, 2020 and its 2026 implementing rules.",
+    "key_points": [
+      "The Code on Social Security, 2020 came into force on 21 November 2025, and the Ministry of Labour and Employment notified the Social Security (Central) Rules, 2026 on 8 May 2026 as the final implementing rules, replacing twelve older rule sets and placing direct compliance obligations on aggregators (e.g., food delivery, ride-hailing and e-commerce platforms)",
+      "Every aggregator must register new gig/platform workers on a central government portal in real time and report their exit; a worker becomes eligible for social security benefits after 90 days of work with a single aggregator, or 120 days cumulatively across multiple aggregators, in the preceding financial year",
+      "Under Section 114(4), aggregators must contribute 1% to 2% of their annual turnover toward gig/platform worker welfare, capped at 5% of the amount the aggregator pays to its gig workers",
+      "Chapter IX of the Code enables government-notified welfare schemes for gig/platform workers covering life and disability cover, accident insurance, health and maternity benefits, and old-age protection, administered through a National Social Security Board for gig and platform workers",
+      "State-level legislation is also emerging in parallel - for example, a Telangana Platform-Based Gig Workers Bill 2026 - so workers and aggregators in some states may face additional or overlapping state-specific obligations",
+      "Despite the statutory framework being notified, commentators note a gap between the Code's obligations and dedicated budgetary provisioning for the welfare machinery it creates, which workers should understand when assessing what benefits are realistically claimable today"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "21 November 2025 commencement of the Code, 8 May 2026 Social Security (Central) Rules, 90/120-day eligibility thresholds, and the 1-2% turnover welfare contribution (capped at 5% of gig worker payments) under Section 114(4): confirmed via multiple sources (IMPRI, Medianama, Bhatt & Joshi Associates, BW Legal World) at research time",
+      "State-specific gig worker legislation (e.g., Telangana Bill 2026) status - whether passed, pending, or notified - should be re-verified at drafting time since state gig-worker bills have been moving targets across multiple states",
+      "Specific welfare scheme details (life/disability/accident/health/maternity/old-age cover) had, as of research time, been enabled by the Code but scheme-level notifications should be checked for what is actually operational versus merely enabling provisions"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "trademark-registration-process-guide",
+    "topic_title": "How to Register a Trademark in India: Process, Classes and Timelines",
+    "angle": "A step-by-step guide for businesses and brand owners on filing and prosecuting a trademark application in India, complementing the site's existing guide on opposing someone else's mark by covering the registration journey from search to certificate.",
+    "key_points": [
+      "Trademark applications are filed electronically in Form TM-A under the Trade Marks Act, 1999 and the Trade Marks Rules, 2017, and proceed through five stages: clearance search, filing, examination by the Trade Marks Registry, publication in the Trade Marks Journal, and registration",
+      "India follows the NICE Classification with 45 classes - classes 1-34 for goods and 35-45 for services - and an applicant must file (and pay fees) separately for each class in which protection is sought",
+      "The government filing fee is currently Rs. 4,500 per class for individuals, startups and MSMEs (e-filing), and Rs. 9,000 per class for companies and other entities",
+      "Uncontested applications currently take roughly 12-18 months from filing to registration in ordinary practice, but if a third party opposes the mark after Journal publication, opposition proceedings can extend the timeline by several years",
+      "A registered trademark is valid for 10 years from the date of registration and can be renewed indefinitely in further 10-year terms, provided renewal is filed before expiry (with a grace period for late renewal subject to a surcharge)",
+      "A conducted clearance/availability search before filing (on the IP India public search tool) is a practical risk-reduction step to avoid later conflict with an identical or deceptively similar existing mark"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Form TM-A, 45-class NICE system, and Rs. 4,500/Rs. 9,000 fee split: confirmed via multiple sources (Intepat, Cashfree, Esplora Legal, LegalSuvidha, PSR Compliance) at research time",
+      "Government filing fees are revised periodically by the Trade Marks Rules and must be re-confirmed against the current fee schedule at drafting time",
+      "12-18 month uncontested timeline and multi-year opposition timelines are practice-based estimates (reported as of March 2026 in one source) and should be flagged as indicative rather than guaranteed, re-checked against current Registry backlog data at drafting time"
+    ],
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "import-export-code-iec-registration-guide",
+    "topic_title": "Getting an Import Export Code (IEC): DGFT Registration for Cross-Border Trade",
+    "angle": "A practical guide for businesses looking to start importing or exporting goods/services from India, covering how to obtain and maintain an Import Export Code from the DGFT, aimed at MSMEs and startups entering international trade.",
+    "key_points": [
+      "The Import Export Code (IEC) is a unique 10-digit number issued by the Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industry, and is mandatory for any business or individual engaging in cross-border import or export of goods or services (with limited exemptions such as for personal use)",
+      "The application is filed entirely online in Form ANF-2A on the DGFT portal (dgft.gov.in), supported by PAN, Aadhaar, address proof, and a bank certificate or cancelled cheque, along with a photograph",
+      "The government fee for a new IEC application is a flat Rs. 500, and the certificate is typically issued within 1-3 business days of submission and payment",
+      "IEC is PAN-based - since 2021, only one IEC is issued per PAN, so a business with multiple trade lines or branches uses the same IEC across all of them rather than obtaining separate codes",
+      "The IEC itself has lifetime validity and does not need renewal, but the holder must update/confirm their IEC details on the DGFT portal annually within the April-June window each year to keep the code active; failure to update can lead to deactivation",
+      "Certain categories are exempt from requiring an IEC (e.g., government departments/ministries and specified notified categories, and imports/exports for personal use not connected to trade, manufacture or agriculture)"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Form ANF-2A, Rs. 500 fee, 1-3 day issuance, PAN-based single-IEC rule (since 2021), and lifetime validity with mandatory April-June annual update: confirmed via multiple sources (Razorpay, Vakilsearch, Patron Accounting, Diligence Certification, Targo Legal) at research time",
+      "The Rs. 500 government fee should be re-verified against the current DGFT fee notification at drafting time, since trade-related government fees are periodically revised",
+      "The precise list of IEC-exempt categories should be cross-checked against the current Foreign Trade Policy exemption list in force at drafting time"
+    ],
+    "added_on": "2026-09-18"
   }
 ]
