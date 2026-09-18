@@ -314,7 +314,7 @@
     "citation": "2026 INSC 436",
     "court": "Supreme Court of India",
     "date": "2026-04-29",
-    "holding_summary": "A Bench of Justices J.K. Maheshwari and Atul S. Chandurkar laid down the first comprehensive, nine-point judicial framework for when a commercial court may grant summary judgment under Order XIII-A of the CPC (as applied through the Commercial Courts Act) without a full trial. Applying that framework, the Court found DDA's defences — on possession, non-joinder of the original owner, and limitation, in a dispute traced to a 2007 auction of a Jasola commercial plot whose underlying land acquisition had lapsed under Section 24(2) of the LARR Act — to be merely fanciful and not raising any real prospect of successfully resisting the claim. It set aside the 2008 conveyance deed under Article 142 and directed DDA to refund over Rs. 164 crore with 7.5% annual interest.",
+    "holding_summary": "A Bench of Justices J.K. Maheshwari and Atul S. Chandurkar laid down the first comprehensive, nine-point judicial framework for when a commercial court may grant summary judgment under Order XIII-A of the CPC (as applied through the Commercial Courts Act) without a full trial. Applying that framework, the Court found DDA's defences \u2014 on possession, non-joinder of the original owner, and limitation, in a dispute traced to a 2007 auction of a Jasola commercial plot whose underlying land acquisition had lapsed under Section 24(2) of the LARR Act \u2014 to be merely fanciful and not raising any real prospect of successfully resisting the claim. It set aside the 2008 conveyance deed under Article 142 and directed DDA to refund over Rs. 164 crore with 7.5% annual interest.",
     "why_it_matters": "Gives commercial courts and litigants the first authoritative checklist for seeking or resisting early disposal of commercial suits without a full trial, likely to speed up resolution of disputes where a defence has no real prospect of success.",
     "sources": [
       "https://www.verdictum.in/supreme-court/reliance-eminent-trading-and-commercial-private-limited-v-dda-2026-insc-436-summary-judgment-under-order-xiii-a-cpc-1613197",
@@ -323,5 +323,144 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-17"
+  },
+  {
+    "id": "parle-products-registrar-trademarks-20-20-priority",
+    "practice_area": "Intellectual Property",
+    "case_name": "Parle Products Pvt. Ltd. v. The Registrar of Trade Marks & Anr.",
+    "citation": "LPA 316/2026 & CM APPL. 27819-20/2026",
+    "court": "Delhi High Court (Division Bench)",
+    "date": "2026-07-28",
+    "holding_summary": "A Division Bench of Justices V. Kameswar Rao and Manmeet Pritam Singh Arora dismissed Parle's Letters Patent Appeal and affirmed registration of the '20-20' biscuit trademark in favour of Avon Agro, whose 'proposed to be used' application (filed 27 September 2007) predated Parle's own application by one week, even though Avon Agro never used the mark for 17 years while Parle built pan-India goodwill through continuous sales since 2007-08. The Court held that trademark priority under Section 18 of the Trade Marks Act, 1999 is governed by the application filing date and cannot be defeated by a rival's later commercial use.",
+    "why_it_matters": "Brand owners cannot assume that market goodwill or prior commercial use will trump a rival's earlier-filed 'proposed to be used' application; businesses must audit the register and oppose conflicting applications promptly rather than relying on established use as a fallback defence.",
+    "sources": [
+      "https://www.livelawbiz.com/trademark/delhi-high-court-dismisses-parle-appeal-in-20-20-trademark-dispute-rules-prior-applicant-cannot-be-ousted-by-subsequent-user-543242",
+      "https://rawlaw.in/parle-products-claimed-prior-commercial-use-of-20-20-overrode-earlier-trademark-application-delhi-high-court-upholds-registration-of-earlier-applicant-and-dismisses-appeal/",
+      "https://www.legalserviceindia.com/Legal-Articles/delhi-high-court-on-trademark-priority-earlier-filing-date-prevails-over-subsequent-commercial-use-parle-products-v-registrar-of-trade-marks-2026/",
+      "https://www.bananaip.com/intellepedia/parle-20-20-trademark-filing-date-priority/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "kamlesh-rani-singla-praveen-kumar-garg-nclat-guarantor-jurisdiction",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Kamlesh Rani Singla v. Praveen Kumar Garg & Anr.",
+    "citation": "Company Appeal (AT) (Insolvency) No. 275 of 2026; 2026 LLBiz NCLAT 347",
+    "court": "National Company Law Appellate Tribunal, Principal Bench, New Delhi",
+    "date": "2026-09-09",
+    "holding_summary": "The NCLAT set aside Section 95 IBC insolvency proceedings initiated against Kamlesh Rani Singla, suspended director and personal guarantor of Laxmi Pipes Ltd., before NCLT New Delhi, holding that Section 60(2) of the IBC mandates such personal-guarantor proceedings be filed before the same NCLT bench (Chandigarh) where the corporate debtor's CIRP is pending, so NCLT New Delhi lacked both territorial and inherent jurisdiction. The Tribunal separately clarified that the NCLT President's power under Rule 16(d) to transfer cases between benches is not confined by territorial limits.",
+    "why_it_matters": "Lenders and resolution professionals pursuing personal guarantors must file at the NCLT bench handling the corporate debtor's CIRP, not wherever is convenient; a wrong-bench filing risks being set aside for want of jurisdiction, delaying guarantor recovery actions.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/nclt-president-has-power-to-transfer-cases-across-benches-nclat",
+      "https://ibclaw.in/nclat-sets-aside-nclt-new-delhi-proceedings-against-personal-guarantor-for-lack-of-jurisdiction-under-section-602-ibc/",
+      "https://www.sansalegal.com/post/nclat-holds-the-nclt-president-may-transfer-a-case-across-territorial-jurisdictions-under-rule-16-d",
+      "https://www.livelawbiz.com/ibc/nclat-quashes-guarantor-insolvency-proceedings-filed-before-different-nclt-bench-than-cirp-549542"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "hotel-alankar-state-maharashtra-fssai-suspension",
+    "practice_area": "Food Safety & FSSAI",
+    "case_name": "Hotel Alankar v. State of Maharashtra & Ors.",
+    "citation": "2026:BHC-KOL:8650-DB",
+    "court": "Bombay High Court (Division Bench)",
+    "date": "2026-09-08",
+    "holding_summary": "A Division Bench of Justices Sharmila U. Deshmukh and Neeraj P. Dhote quashed the appellate authority's order and revoked the suspension of a Karad hotel's FSSAI licence, holding that licence suspension under Section 32 of the Food Safety and Standards Act exists to protect public health and cannot be continued indefinitely once the establishment rectifies deficiencies and achieves 'exemplar' compliance (97%, i.e. 106/110) on re-inspection. The Court held that any penalty for sales made during the suspension period must instead be pursued separately under Sections 55 and 63 of the Act.",
+    "why_it_matters": "Food businesses facing an FSSAI licence suspension now have clear appellate authority that demonstrated, verified compliance on re-inspection should end the suspension promptly, preventing regulators from using continued suspension as an unstated additional penalty.",
+    "sources": [
+      "https://www.livelaw.in/high-court/bombay-high-court/fssai-license-suspension-cannot-continue-infinitely-549691",
+      "https://www.verdictum.in/bombay-high-court/hotel-alankar-v-state-of-maharashtra-2026bhc-kol8650-db-fssai-license-continued-suspension-1621830",
+      "https://www.freepressjournal.in/mumbai/bombay-high-court-restores-hotel-alankars-food-licence-says-suspension-cannot-continue-after-compliance",
+      "https://www.scconline.com/blog/post/2026/08/04/bom-hc-restores-4-star-hotel-food-licence-two-insects-in-hotel-kitchen/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "raj-karan-singh-union-india-tata-motors-finance-arbitral-award",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Raj Karan Singh v. Union of India & Ors.",
+    "citation": "Civil Writ Jurisdiction Case No. 14490 of 2024; 2026 LLBiz HC(PAT) 25",
+    "court": "Patna High Court",
+    "date": "2026-09-10",
+    "holding_summary": "Justice Girijish Kumar held that Tata Motors Finance Ltd. could not treat an ex parte arbitral award as self-executing to seize a defaulting borrower's commercial truck; under Section 36 of the Arbitration and Conciliation Act, 1996, an arbitral award must be enforced as a civil court decree through the competent court's execution process, not through unilateral self-help repossession. Finding the financier had 'taken the law in its own hand,' the Court directed compensation equal to the vehicle's insurance value on the date of seizure, to be adjusted against the outstanding loan.",
+    "why_it_matters": "Financiers holding an arbitral award against a defaulting borrower cannot bypass Section 36 execution proceedings to directly repossess secured assets; they must obtain a formal execution order, materially raising the litigation and compliance risk of self-help enforcement.",
+    "sources": [
+      "https://www.livelawbiz.com/arbitration/tata-motors-finance-took-law-in-its-hands-by-acting-on-ex-parte-arbitral-award-to-auction-truck-patna-high-court-549712",
+      "https://indiankanoon.org/doc/183678969/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "hdfc-bank-thomas-alexander-ncdrc-written-statement-45-days",
+    "practice_area": "Consumer Protection",
+    "case_name": "HDFC Bank Ltd. v. Thomas Alexander",
+    "citation": "2026 SCC OnLine NCDRC 130",
+    "court": "National Consumer Disputes Redressal Commission",
+    "date": "2026-07-23",
+    "holding_summary": "A Single Member Bench (Saroj Yadav, Presiding Member) allowed HDFC Bank's revision petition and held that its written statement, filed after the complaint copy was received on 24 September 2025, fell within the maximum permissible 45-day period (30 days extendable by 15 for sufficient cause) under the Consumer Protection Act, 2019. The Commission set aside the State Commission's order that had refused to condone delay and struck the written statement off the record.",
+    "why_it_matters": "Confirms the 45-day outer limit for filing a written statement in consumer proceedings is an absolute, sacrosanct ceiling rather than one State Commissions can shorten through strict practice, giving respondents -- including banks and other regulated entities -- a clear, enforceable procedural safeguard.",
+    "sources": [
+      "https://www.scconline.com/blog/post/2026/08/03/ncdrc-held-written-statement-filed-within-45-days-is-maintainable/",
+      "https://www.livelaw.in/consumer-cases/ncdrc-upholds-sacrosanct-nature-of-procedural-timeline-of-45-days-filing-written-reply-278534",
+      "https://www.24law.in/story/ncdrc-upholds-procedural-timelines-as-sacrosanct-denies-extension-beyond-45-days"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "omaxe-asha-saini-delhi-hc-arbitration-delayed-possession",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "Omaxe Ltd. v. Asha Saini",
+    "citation": "FAO (COMM) 53/2022 & FAO (COMM) 91/2022",
+    "court": "Delhi High Court (Division Bench)",
+    "date": "2026-08-14",
+    "holding_summary": "A Division Bench of Justices V. Kameswar Rao and Manmeet Pritam Singh Arora dismissed Omaxe's Section 37 appeals against a Commercial Court order upholding two arbitral awards granting homebuyer Asha Saini 15% per annum compensation for delayed possession of two flats booked in 2006 in Omaxe's 'Omaxe North Avenue' project, Bahadurgarh. The Court rejected Omaxe's argument that a homebuyer who chose arbitration has fewer substantive rights than one proceeding under RERA or the Consumer Protection Act, and imposed Rs. 1 lakh costs on each appeal.",
+    "why_it_matters": "Confirms homebuyers pursuing delay-compensation claims through arbitration under a builder-buyer agreement's arbitration clause are not disadvantaged compared to those using RERA or consumer fora, so arbitral awards in builder-buyer disputes will receive the same appellate deference.",
+    "sources": [
+      "https://rawlaw.in/delhi-high-court-upholds-15-compensation-for-omaxes-delayed-possession-holds-homebuyer-choosing-arbitration-cannot-be-denied-relief-available-under-rera-and-consumer-law/",
+      "https://www.livelawbiz.com/arbitration/homebuyer-can-claim-delay-compensation-through-arbitration-over-rera-consumer-remedies-delhi-high-court-548466",
+      "https://24law.in/story/delhi-high-court-commercial-unit-buyers-may-pursue-arbitration-relief-after-rera-proceedings-where"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "mawana-foods-mawana-sugars-nclt-amalgamation",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "In re: Scheme of Amalgamation of Mawana Foods Pvt. Ltd. with Mawana Sugars Ltd.",
+    "citation": "NCLT New Delhi order dated 3 September 2026, under Sections 230-232, Companies Act, 2013",
+    "court": "National Company Law Tribunal, New Delhi Bench",
+    "date": "2026-09-03",
+    "holding_summary": "A Division Bench of Members Manni Sankariah Shanmuga Sundaram (Judicial) and Reena Sinha Puri (Technical) sanctioned the scheme of amalgamation of wholly-owned subsidiary Mawana Foods Pvt. Ltd. into its parent, Mawana Sugars Ltd., holding the scheme was not prejudicial to the interests of shareholders or creditors of either company. Because Mawana Foods is wholly owned, the scheme involves no fresh share issuance and the transferee's authorised capital remains unchanged.",
+    "why_it_matters": "Illustrates the streamlined NCLT approval path available for wholly-owned-subsidiary mergers where no share exchange ratio is needed, offering a practical template for corporate groups seeking to simplify structure and cut duplication through intra-group amalgamation.",
+    "sources": [
+      "https://www.livelawbiz.com/company-law/nclt-delhi-sanctions-amalgamation-of-mawana-foods-pvt-ltd-with-mawana-sugars-ltd-550154",
+      "https://www.chinimandi.com/nclt-sanctions-amalgamation-of-mawana-foods-into-mawana-sugars-limited/",
+      "https://www.tipranks.com/news/company-announcements/nclt-admits-second-motion-for-mawana-sugars-mawana-foods-amalgamation"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-18"
+  },
+  {
+    "id": "samaj-parivartana-samudaya-state-karnataka-mining-virgin-forest",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "Samaj Parivartana Samudaya & Ors. v. State of Karnataka & Ors.",
+    "citation": "Order dated 8 September 2026 in W.P.(C) No. 562 of 2009",
+    "court": "Supreme Court of India",
+    "date": "2026-09-08",
+    "holding_summary": "A Bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana permitted Karnataka to auction and lease composite mining blocks that include parcels of 'virgin forest land,' as an 'operational rationalisation' allowing adjoining parcels to be planned and auctioned as a single mine, on condition the successful bidder cannot commence mining on the virgin-forest portion until forest-clearance approval is separately obtained. The Court also permitted conditional sale of minerals from expired mining leases subject to safeguards, and listed the matter for further orders on 29 September 2026.",
+    "why_it_matters": "Lets mining companies bid for and financially commit to composite blocks containing forest land before forest clearance is secured, easing auction and project-planning timelines while keeping environmental clearance intact as a precondition to actual mining -- relevant to bidders, lenders and environmental counsel structuring mining-block acquisitions.",
+    "sources": [
+      "https://www.scconline.com/blog/post/2026/09/16/sc-on-expired-mining-leases-amalgamation-of-mining-blocks/",
+      "https://www.supremecourtcases.com/samaj-parivartana-samudaya-ors-v-state-of-karnataka-ors-8/",
+      "https://www.downtoearth.org.in/environment/daily-court-digest-major-environment-orders-september-9-2026",
+      "https://legalvidhiya.com/samaj-parivartan-samudaya-and-ors-vs-state-of-karnataka-and-ors/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-18"
   }
 ]
