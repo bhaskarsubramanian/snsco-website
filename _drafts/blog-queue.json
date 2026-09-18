@@ -337,5 +337,25 @@
       "The precise list of IEC-exempt categories should be cross-checked against the current Foreign Trade Policy exemption list in force at drafting time"
     ],
     "added_on": "2026-09-18"
+  },
+  {
+    "id": "rera-complaint-filing-process-guide",
+    "topic_title": "How to File a Complaint With RERA: Process, Timelines and What Relief You Can Get",
+    "angle": "A procedural walkthrough for homebuyers and allottees facing delayed possession, refund disputes or construction defects, covering how to file a Section 31 complaint with the state RERA Authority, the Form/fee/portal mechanics, the 60-day disposal target, and the appeal route to the Real Estate Appellate Tribunal (REAT) and beyond - distinct from and complementary to the site's existing 'RERA or Consumer Forum' forum-choice article, which does not cover the filing procedure itself.",
+    "key_points": [
+      "Complaints against a promoter, allottee or real estate agent for contravention of RERA or its rules/regulations are filed under Section 31 of the Real Estate (Regulation and Development) Act, 2016, before the state RERA Authority",
+      "Filing is done online through the relevant state's RERA portal, generally within 3 years of the cause of action, using the prescribed complaint form and a nominal filing fee (typically in the range of Rs. 1,000-5,000, varying by state)",
+      "Section 29(4)/34(f) set a target of disposing of complaints within 60 days of filing, though in practice better-resourced state RERAs often take 90-120 days and less-resourced ones considerably longer",
+      "An aggrieved party can appeal an Authority or adjudicating officer's order to the state Real Estate Appellate Tribunal (REAT) under Sections 43-44, within 60 days of receiving the order (condonable for sufficient cause), and REAT itself is expected to dispose of appeals within 60 days under Section 43(5)",
+      "A further appeal from REAT lies to the High Court under Section 58, but only on a substantial question of law",
+      "Typical reliefs available include refund with interest, compensation, and directions for possession or specific performance, with interest/compensation rates prescribed under the relevant state RERA Rules"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 31 filing mechanism, online portal filing, and 3-year limitation window: confirmed via multiple sources (iPleaders, Tranzission, Legal Window) at research time",
+      "60-day disposal target under Section 29(4)/34(f) and real-world variance across states: confirmed via multiple sources (Housivity, iPleaders) at research time - exact state-by-state median disposal time should be re-verified at drafting time since it changes over time",
+      "60-day REAT appeal limitation under Sections 43-44 and further appeal to High Court under Section 58 on substantial question of law only: confirmed via Sheokand Legal and general RERA Act text at research time",
+      "Filing fee range (Rs. 1,000-5,000) varies by state and should be re-confirmed against the specific state RERA Rules referenced when the article is actually drafted, rather than stated as a uniform national figure"
+    ],
+    "added_on": "2026-09-18"
   }
 ]
