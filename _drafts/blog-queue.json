@@ -1,1 +1,159 @@
-[]
+[
+  {
+    "id": "enforcing-foreign-arbitral-award-india-guide",
+    "topic_title": "Enforcing a Foreign Arbitral Award in India: A Step-by-Step Guide",
+    "angle": "A practical guide for a foreign award-holder (or an Indian party resisting enforcement) walking through the Sections 44-49 enforcement route under Part II of the Arbitration and Conciliation Act, 1996 - what qualifies as a 'foreign award', the documents needed, the narrow grounds of refusal, and how the award converts into an executable decree.",
+    "key_points": [
+      "A 'foreign award' under Section 44 must arise from a commercial relationship, be made in a New York Convention country notified as a reciprocating territory by the Central Government, and be in writing pursuant to an arbitration agreement",
+      "Enforcement petition is filed under Sections 47 and 49; the applicant must produce the original (or authenticated copy) award, the original (or certified copy) arbitration agreement, and certified English translations where needed",
+      "Section 48 lists the exhaustive, narrow grounds on which an Indian court can refuse enforcement (incapacity, invalid agreement, no proper notice/inability to present case, award beyond scope of submission, improper composition of tribunal, award not yet binding or set aside, subject-matter not arbitrable, or enforcement contrary to Indian public policy) - courts do not re-examine the merits",
+      "Once the court is satisfied the award is enforceable under Section 48, it is deemed a decree of the court under Section 49 and can be executed like any Indian civil court decree",
+      "Interim relief under Section 9 remains available to protect the award-holder's position even before the award is judicially declared enforceable and attains decree status",
+      "India applies a 'commercial reservation' under the New York Convention, so the underlying relationship must qualify as commercial under Indian law for Part II to apply at all"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Sections 44, 47, 48, 49 framework and the narrow Section 48 refusal grounds: well-settled, confirmed across Bar and Bench, Kluwer Arbitration Blog and multiple practitioner guides at research time",
+      "Section 9 interim relief remaining available pre-decree: confirmed via March-April 2026 Bombay High Court coverage and a Supreme Court reference dated 24 April 2026 found at research time - verify the specific case citation when drafting",
+      "Exact limitation period for filing an enforcement petition is contested/ambiguous in practitioner commentary (a 'time-bar ambiguity' is flagged by Kluwer) - note this as an open question rather than stating a fixed number of years",
+      "India's list of notified reciprocating territories under the New York Convention should be checked against the current official Ministry of Law and Justice notification at drafting time"
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "one-time-settlement-bank-loan-guide",
+    "topic_title": "Negotiating a One-Time Settlement (OTS) With Your Bank: What Borrowers Should Know",
+    "angle": "A practical guide for a borrower whose loan has slipped into NPA, explaining how the RBI's compromise-settlement framework works, what a bank can and cannot offer, and the limits of an OTS - including the point (reinforced by 2026 case law) that a borrower cannot claim OTS as a matter of legal right and that a settlement of the debt does not automatically end related criminal exposure.",
+    "key_points": [
+      "RBI's Framework for Compromise Settlements and Technical Write-offs (June 8, 2023) requires every regulated lender to have a Board-approved OTS policy rather than deciding case-by-case on an ad hoc basis",
+      "Loans generally become eligible for OTS consideration once classified as NPA (typically overdue beyond 90 days), when the bank's own recovery-probability assessment drops",
+      "Banks are expected to consider the borrower's genuine financial capacity and repayment history in structuring an offer, and courts have held there is no legal entitlement to demand an OTS - it remains the lender's commercial discretion",
+      "Practical borrower steps: request the settlement offer in writing on the bank's letterhead, insist on a formal signed Settlement Letter (never rely on a verbal or phone assurance), and confirm the account will be reported as 'settled' (not 'written off' or left ambiguous) to credit bureaus",
+      "Settling the outstanding debt through OTS does not by itself terminate independent criminal exposure - if the underlying facts also involve a dishonoured cheque (Section 138 Negotiable Instruments Act) or an allegation of fraud, those proceedings continue separately unless specifically compounded or withdrawn",
+      "Banks often intensify NPA resolution drives ahead of financial year-end (October-March), which can be a practical window for borrowers to approach lenders for a settlement discussion"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "RBI Framework for Compromise Settlements and Technical Write-offs dated 8 June 2023 requiring a Board-approved policy: confirmed via multiple 2026 practitioner guides (AMA Legal Solutions, Tulja Legal) at research time",
+      "Courts holding OTS is not a matter of legal right for the borrower: consistent with a 2026 High Court ruling already covered on this site ('Writ Dismissed — Borrowers Cannot Claim One Time Settlement as a Matter of Legal Right') - cross-reference that case when drafting rather than restating it as a fresh holding",
+      "90-day NPA classification threshold under RBI's IRAC norms: general banking-regulation knowledge, should be cited to the current RBI Master Direction on Income Recognition and Asset Classification at drafting time",
+      "Claim that OTS does not end Section 138 or fraud exposure: consistent with general negotiable-instruments and criminal law principle (compounding is a separate step) - verify against current NI Act compounding provisions when drafting"
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "legal-due-diligence-checklist-ma-buying-business-guide",
+    "topic_title": "Legal Due Diligence Checklist for Buying a Business in India",
+    "angle": "A practical checklist-style guide for a buyer (or its counsel) preparing to acquire an Indian company or business, covering the core areas of legal due diligence, red flags that commonly derail deals, and how the diligence scope should adapt for cross-border/FDI transactions.",
+    "key_points": [
+      "Core diligence areas: corporate structure and governance (incorporation documents, MOA/AOA, board and shareholder resolutions, statutory registers and MCA filings), share capital and capitalisation table, material contracts, litigation and contingent liabilities, employment and labour compliance, intellectual property ownership, real estate title, regulatory licences and competition/CCI approval requirements, and tax compliance",
+      "For cross-border deals, add FEMA and FDI-route compliance to the checklist - sectoral caps, pricing guidelines, and reporting filings (FC-GPR/FC-TRS) need to be verified alongside the general corporate diligence",
+      "Data protection compliance (relevant under the DPDP Act) and insurance coverage adequacy are increasingly treated as standalone diligence workstreams rather than folded into 'general contracts'",
+      "Diligence is typically conducted through a virtual data room (VDR) where the target uploads corporate records, financials, licences, IP registrations, HR records and compliance certificates for review",
+      "Common red flags: unresolved litigation or regulatory show-cause notices, contracts with unassignable change-of-control clauses, lapsed or improperly assigned IP registrations, non-compliant ESOP documentation, and gaps in labour-law registrations (PF/ESI/Shops & Establishment)",
+      "Findings typically feed into the transaction documents as specific representations, warranties, indemnities and conditions precedent - diligence is not just an information exercise but shapes deal risk allocation"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "The twelve-area diligence framework (corporate, share capital, contracts, litigation, employment, IP, real estate, regulatory/competition, tax, data protection, financing/security, FEMA/FDI): synthesised from multiple 2026 practitioner checklists (Lexology, Lawsikho, iPleaders) at research time - treat as a general framework, not a statutory list",
+      "FC-GPR/FC-TRS reporting requirements under FEMA: well-established RBI/FEMA compliance mechanism - verify current prescribed timelines (typically 30 days) against the current FEMA (Non-Debt Instruments) Rules at drafting time",
+      "DPDP Act as a distinct diligence workstream: consistent with this site's own existing DPDP Act compliance guide - cross-reference rather than restate the Act's substantive requirements"
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "non-compete-clause-enforceability-india-guide",
+    "topic_title": "Are Non-Compete Clauses in Employment Contracts Enforceable in India?",
+    "angle": "A guide for employers drafting employment contracts and employees evaluating an offer or exit, explaining why post-termination non-compete clauses are generally void under Section 27 of the Indian Contract Act, what remains enforceable during employment, and the narrower tools (confidentiality, non-solicitation, garden leave) employers actually rely on instead.",
+    "key_points": [
+      "Section 27 of the Indian Contract Act, 1872 voids any agreement restraining a person from exercising a lawful profession, trade or business - Indian courts have applied this to strike down post-termination non-compete clauses for over a century, with no 'reasonableness' exception unlike UK or US law",
+      "Restraints operating during the subsistence of employment (e.g., a bar on moonlighting or working for a competitor while still employed) are generally enforceable, since Section 27 targets restraints that operate after the relationship ends",
+      "The main statutory exception is Exception 1 to Section 27, which permits a seller of business goodwill to agree not to carry on a similar business within reasonable local limits - a narrow carve-out that does not extend to ordinary employment",
+      "Because outright post-termination non-competes fail, employers in practice rely on non-disclosure/confidentiality clauses (protecting trade secrets and confidential information, which remain enforceable indefinitely), non-solicitation clauses restraining poaching of clients or employees, and garden-leave arrangements during the notice period",
+      "Delhi High Court rulings have continued to strike down post-termination non-compete restrictions in employment contracts as unenforceable restraints of trade",
+      "Employers should focus contract drafting on precisely defined confidential information and enforceable notice/garden-leave periods rather than broad post-employment competition bans, which Indian courts will not enforce regardless of how the clause is worded"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 27 Indian Contract Act voiding post-termination restraints, with Exception 1 for sale of goodwill: settled, long-established Indian contract law principle, confirmed across multiple practitioner sources at research time",
+      "Delhi High Court striking down a post-termination non-compete in 2026: reported by Transatlantic Law International at research time - verify the specific case name and citation when drafting rather than citing it generically",
+      "Distinction between during-employment and post-termination restraints: well-settled through Supreme Court precedent (Niranjan Shankar Golikari line of authority) - confirm the lead citation when drafting"
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "captive-power-plant-compliance-guide",
+    "topic_title": "Captive Power Plant Compliance: The Ownership and Consumption Rules Explained",
+    "angle": "A practical compliance guide for industrial consumers setting up or investing in a captive generating plant, explaining the twin ownership/consumption test under the Electricity Rules that determines whether the plant qualifies for 'captive' status (and its attendant duty/surcharge benefits), plus the 2026 reform proposals loosening the test.",
+    "key_points": [
+      "To qualify as a 'captive generating plant', a user (or group of users) must meet two tests: own at least 26% of the equity share capital of the generating company, and consume at least 51% of the aggregate electricity generated by the plant on an annual basis",
+      "For group captive structures with multiple users, a proportionality formula links the two thresholds (roughly a 1.96 ratio of required consumption percentage to ownership percentage), with a permissible variation band - so a user's required consumption share scales with its shareholding, subject to the 26%/51% floor",
+      "Failing either test disqualifies the plant from captive status, exposing the arrangement to cross-subsidy surcharge and other open-access charges that captive consumption is otherwise designed to avoid - a point recently underscored where a hotel was denied captive status for holding only a fraction of the required 26% equity",
+      "2026 reform proposals under discussion would shift the consumption test to a collective basis for group captive projects - so long as users together consume 51% of total generation, individual users' shortfalls would no longer disqualify the whole project, easing compliance for multi-user captive structures",
+      "Captive status must be certified and is subject to verification by the concerned State Electricity Regulatory Commission or appellate scrutiny at APTEL - documentation of actual annual consumption and shareholding should be maintained contemporaneously, not reconstructed after a dispute arises",
+      "This is a live compliance area for industrial groups structuring shared power projects - the ownership stake and offtake commitments in the shareholders' agreement and power purchase arrangement should be drafted to track the regulatory thresholds precisely"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "26% ownership / 51% consumption twin test under the Electricity Rules, 2005 (as amended): well-established regulatory framework, confirmed across Mercom India, Lexology and law-firm sources at research time",
+      "1.96 proportionality ratio and +/-10% variation band: confirmed via Mercom India coverage at research time - verify exact figures against the current text of the Electricity Rules at drafting time",
+      "2026 draft/proposed amendment moving to collective 51% compliance for group captive projects: reported as a government proposal at research time (Mercom India, Law.asia) - confirm whether it has been formally notified as final rules (versus still in draft/consultation) at drafting time",
+      "APTEL captive-status denial example (hotel denied captive status for insufficient equity): this is a live case already covered on this site's Legal Updates page - cross-reference rather than re-narrate the case facts"
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "itat-appeal-filing-guide",
+    "topic_title": "How to File an Appeal Before the Income Tax Appellate Tribunal (ITAT)",
+    "angle": "A practical guide for a taxpayer who has lost before the Commissioner of Income Tax (Appeals) and wants to appeal to the ITAT - covering the limitation period, the prescribed form, filing fees, and the transition to mandatory e-filing that practitioners report is underway in 2026.",
+    "key_points": [
+      "An appeal to the ITAT against a CIT(A) order lies under Section 253 of the Income Tax Act, 1961",
+      "Filing fee is slab-based on the assessed total income: Rs. 500 where assessed income is up to Rs. 1 lakh, Rs. 1,500 where it exceeds Rs. 1 lakh but is up to Rs. 2 lakh, and 1% of assessed income (subject to a Rs. 10,000 cap) above that",
+      "ITAT has discretion to condone delay in filing for sufficient cause shown, but the appeal should be filed within the statutory limitation window running from the date the CIT(A) order is communicated",
+      "Practitioner sources report a transition to mandatory e-filing with digital signature authentication, and a new prescribed appeal form (reported as Form 115) intended to replace the long-standing Form 36 - treat this as a live procedural change to confirm against the current Income Tax (Appellate Tribunal) Rules before relying on either form",
+      "Required enclosures typically include a certified copy of the CIT(A) order, the grounds of appeal, and the fee payment challan, uploaded via the tribunal's e-filing portal",
+      "Practical tip: an appeal that is incomplete (wrong form, missing enclosures, or fee shortfall) risks being treated as not properly instituted, so practitioners should confirm the current form number and portal requirements immediately before filing rather than relying on last year's checklist"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 253 as the governing provision for appeals to ITAT: settled, confirmed via Income Tax Act structure and multiple practitioner sources",
+      "Slab-based filing fee structure (Rs. 500 / Rs. 1,500 / 1% capped at Rs. 10,000): confirmed via ClearTax and TaxBuddy guides at research time - verify against the current fee schedule under Section 253(6) at drafting time since fee slabs are periodically revised",
+      "60-day limitation period from communication of the CIT(A) order: this is the well-established figure under Section 253(3) - one lower-authority source found at research time cited an incorrect section number ('Section 362', which does not exist in the Income Tax Act) for this limitation period, so the exact provision and day-count MUST be verified directly against the current Section 253(3) text before drafting, not taken from that source",
+      "Transition from Form 36 to a new Form 115 and mandatory DSC-based e-filing effective 2026: reported by several SEO-oriented tax-filing blogs (ClearTax, TaxBuddy, Patron Accounting) at research time but not yet cross-checked against an official CBDT/ITAT notification - flag as unconfirmed and verify against the official notification before publishing, or hedge the guide to describe the process generically if the new form/rules cannot be confirmed by drafting time"
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "ibc-creditor-claim-filing-cirp-guide",
+    "topic_title": "Filing Your Claim as a Creditor in a Company's CIRP: Forms and Deadlines",
+    "angle": "A practical guide for a creditor (financial, operational, or other) who has just learned that a debtor company has entered Corporate Insolvency Resolution Process, walking through which form to use, the filing deadline, what happens if that deadline is missed, and how claims get verified.",
+    "key_points": [
+      "The prescribed claim forms under the CIRP Regulations, 2016 vary by creditor category - Form C is used by financial creditors and Form B by operational creditors (other than workmen/employees), with separate forms (including Forms CA, D, E and F) for other categories such as workmen, employees, and creditors in a class",
+      "Under Regulation 12(1), a creditor must submit its claim with supporting proof to the Interim Resolution Professional (IRP) on or before the last date specified in the public announcement - ordinarily the fourteenth day from the IRP's appointment",
+      "A creditor who misses that initial window is not automatically shut out: the first proviso to Regulation 12(1) allows a late claim to be filed up to the date the Resolution Professional issues the Form G invitation for resolution plans, or ninety days from the insolvency commencement date, whichever is later",
+      "Once received, the Resolution Professional is required to verify claims within 7 days of the last date for receipt under Regulation 13(1), and admits, rejects or seeks further information/clarification on each claim",
+      "Practical filing checklist: the claim form itself, documentary proof of debt (invoices, loan/facility agreements, account statements, or a decree/award if the debt is already adjudicated), and, where relevant, evidence of any security interest held",
+      "Claims filed late, on the wrong form, or without adequate supporting evidence face a real risk of rejection or only partial admission - creditors should not wait for a personal notice and should instead monitor the public announcement and IBBI/NCLT records proactively once they learn of a CIRP against their debtor"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Form B (operational creditors) / Form C (financial creditors) and the 14-day claim submission window under Regulation 12(1) of the CIRP Regulations, 2016: well-established and confirmed across IBC Laws, TaxGuru and IBBI's own claim-verification FAQs at research time",
+      "First proviso to Regulation 12(1) allowing late claims up to the Form G issuance date or 90 days from insolvency commencement, whichever is later: confirmed via a 2026 practitioner guide at research time - verify the exact regulation text and any 2026 amendment to this proviso against the current CIRP Regulations before drafting",
+      "7-day claim verification timeline under Regulation 13(1): confirmed via ICSI IIP knowledge capsule and IBC Laws at research time"
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "industrial-design-registration-india-guide",
+    "topic_title": "Registering an Industrial Design in India: Process, Timeline and Protection",
+    "angle": "A practical guide for a manufacturer or product designer seeking to protect the visual appearance (shape, configuration, pattern or ornamentation) of an article under the Designs Act, 2000 - distinct from the site's existing patent, trademark and copyright registration guides, this fills the remaining major IP registration route not yet covered.",
+    "key_points": [
+      "The Designs Act, 2000 protects only features of shape, configuration, pattern, ornament or composition of lines/colours applied to an article - it does not protect the article's underlying function or any mode/principle of construction (that is the domain of patents)",
+      "Applications are filed with the Design Office (headquartered in Kolkata, with filing also accepted at the four patent office branches) and must specify a single Locarno Classification class from India's 32-class system - a design can be registered in one class per application",
+      "For an uncontested application, registration typically takes roughly 6-12 months, though timelines vary depending on office objections and responses",
+      "Protection initially runs for 10 years from the date of registration, and can be extended for a further 5 years (15 years total) by filing Form-3 with the prescribed renewal fee before the first 10-year term expires",
+      "The Design (Amendment) Rules, 2014 created differentiated fee slabs for 'natural person' applicants versus other applicants (companies, etc.), and DPIIT-recognised startups and small entities are eligible for substantially reduced official fees",
+      "A design must be new or original and not previously published or used anywhere in India or elsewhere prior to the filing date - unlike trademarks, there is no renewable-forever protection, so timing the filing before any public disclosure or product launch is critical"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Core Designs Act, 2000 framework (protectable subject matter, exclusion of function/construction principle): settled statutory position, confirmed across multiple practitioner guides (Intepat, LawBhoomi, IP Coster) at research time",
+      "32-class Locarno Classification system and one-class-per-application rule: confirmed via multiple sources at research time",
+      "10-year initial term + 5-year extension via Form-3: confirmed via multiple sources at research time - verify current renewal fee amount (cited as around Rs. 2,000 in one source) against the current Designs Rules fee schedule at drafting time",
+      "Reduced fees for natural persons, startups and small entities under the 2014 Amendment Rules: confirmed generally at research time - verify the current exact fee table (which may have been revised since 2014) against the Designs Rules in force at drafting time"
+    ],
+    "added_on": "2026-09-19"
+  }
+]

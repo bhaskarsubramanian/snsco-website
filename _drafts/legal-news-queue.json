@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "hari-dutta-sharma-rbi-nbfc-vehicle-repossession-compliance",
+    "practice_area": "Banking & Finance",
+    "case_name": "Hari Dutta Sharma v. State of U.P. & Ors.",
+    "citation": "2026 INSC 998",
+    "court": "Supreme Court of India",
+    "date": "2026-09-16",
+    "holding_summary": "In a case arising from the unauthorised repossession of a financed commercial vehicle, the Supreme Court found that RBI's Fair Practices Code and the successive Master Circulars, Guidelines and Clarifications issued to banks and NBFCs since 2008 on recovery-agent conduct, repossession procedure and grievance redressal have 'existed only on paper', with no mechanism to verify actual compliance. The Court directed the RBI to take effective steps to secure genuine compliance by Non-Banking Financial Companies and Scheduled Commercial Banks with these instruments, rather than treating their issuance alone as sufficient.",
+    "why_it_matters": "Banks and NBFCs engaged in vehicle and asset financing should expect closer regulatory scrutiny of their actual repossession practices on the ground, not merely the existence of a compliant-looking recovery policy.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/hari-dutta-sharma-v-state-of-up-ors-2026-insc-998-loan-recovery-rbi-1622130",
+      "https://www.livelaw.in/supreme-court/supreme-court-asks-rbi-to-issue-directions-to-prevent-forcible-repossession-of-vehicles-by-banks-nbfcs-550376",
+      "https://www.livelawbiz.com/top-stories/supreme-court-reserve-bank-of-india-recovery-guidelines-exist-only-on-paper-directs-effective-compliance-banks-nbfc-550353"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "aayush-agarwal-epic-yarns-nclat-section-12a-three-phase-withdrawal",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Aayush Prashant Agarwal v. Uma Exports Ltd. & Klass Insolvency Resolution Professionals Pvt. Ltd.",
+    "citation": "2026 LLBiz NCLAT 338; I.A. No. 5601 of 2026 in Company Appeal (AT) (Insolvency) No. 1366 of 2024",
+    "court": "National Company Law Appellate Tribunal, Principal Bench, New Delhi",
+    "date": "2026-08-24",
+    "holding_summary": "Ruling on an appeal by the suspended director of Epic Yarns Private Limited (admitted into CIRP on an application by operational creditor Uma Exports Limited, with Klass Insolvency Resolution Professionals appointed IRP), the NCLAT set out a three-phase withdrawal framework under Section 12A of the IBC as substituted by the IBC (Amendment) Act, 2026. Withdrawal is barred outright before the Committee of Creditors is constituted, permitted only with 90% CoC voting-share approval after CoC constitution and before the Resolution Professional issues the Form G invitation for resolution plans, and permanently barred once Form G has been issued, regardless of any settlement.",
+    "why_it_matters": "Corporate debtors and creditors negotiating a settlement after a CIRP has commenced must now time their withdrawal application precisely around CoC constitution and the Form G invitation — missing either window closes off the settlement-exit route entirely under the tightened 2026 regime.",
+    "sources": [
+      "https://ibclaw.in/nclat-allows-irp-to-seek-withdrawal-of-cirp-under-section-12a-of-ibc-after-settlement-post-admission/",
+      "https://www.livelawbiz.com/ibc/post-2026-ibc-amendment-cirp-withdrawal-barred-before-coc-formation-or-after-plan-invitation-nclat-548683",
+      "https://www.sansalegal.com/post/nclat-confirms-cirp-withdrawal-barred-before-coc-constitution-and-after-form-g-invitation-under-ibc"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "toyota-alphard-tech-square-transborder-reputation",
+    "practice_area": "Intellectual Property",
+    "case_name": "Toyota Jidosha Kabushiki Kaisha v. Tech Square Engineering Pvt. Ltd. & Anr.",
+    "citation": "Delhi High Court, Division Bench",
+    "court": "Delhi High Court",
+    "date": "2026-05-04",
+    "holding_summary": "Reversing a 2023 Single Judge finding that Toyota had not proven Indian use or reputation in the mark ALPHARD predating Tech Square's 2015 'proposed to be used' registration, a Division Bench of the Delhi High Court held that unsolicited grey-market imports, online listings and press coverage since 2008 were sufficient to establish trans-border reputation in India. The Court declared ALPHARD a well-known trade mark and ordered cancellation of Tech Square's Indian registrations, holding that in luxury/niche markets brand visibility and global reputation — not mass local penetration — drive consumer recognition.",
+    "why_it_matters": "Foreign brand owners without direct Indian sales now have a clearer, DHC-endorsed evidentiary path — grey-market presence, online visibility and press coverage — to establish trans-border reputation and defeat squatted registrations of niche or luxury marks in India.",
+    "sources": [
+      "https://www.scconline.com/blog/post/2026/05/13/delhi-hc-toyotas-alphard-declared-well-known-trade-mark/",
+      "https://www.bananaip.com/intellepedia/toyota-alphard-trademark-trans-border-reputation/",
+      "https://www.livelawbiz.com/trademark/delhi-high-court-orders-cancellation-of-indian-firms-alphard-trademark-registrations-in-favour-of-toyota-533055",
+      "https://indiankanoon.org/doc/163516424/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "nsdc-surya-wires-personal-guarantor-arbitration-clause",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "National Skill Development Corporation v. Surya Wires Private Limited & Ors.",
+    "citation": "2026 INSC 977",
+    "court": "Supreme Court of India",
+    "date": "2026-09-08",
+    "holding_summary": "The parties had executed a cluster of interconnected documents on 20 December 2016 — a Service Level Agreement, a Loan Agreement for over Rs. 7.17 crore, and several Facility Agreements — with Surya Wires' Managing Director executing a separate Personal Guarantee a week later that contained no arbitration clause of its own. The Supreme Court, per Justices P.S. Narasimha and Alok Aradhe, held that the Loan Agreement's arbitration clause stood incorporated into the Personal Guarantee because the guarantee was expressly integrated into the loan documentation as part of a single composite transaction, setting aside a Delhi High Court ruling that had excluded the guarantor from the arbitral proceedings.",
+    "why_it_matters": "Lenders can pursue personal guarantors in the same arbitration as the principal borrower without a standalone arbitration clause in the guarantee itself, provided the guarantee is drafted as an integral part of the same lending transaction — a point worth checking in existing guarantee documentation.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/national-skill-development-corporation-v-surya-wires-private-limited-2026-insc-977-guarantor-bound-arbitration-clause-loan-agreement-1621640",
+      "https://www.livelawbiz.com/arbitration/personal-guarantor-bound-by-arbitration-clause-in-loan-agreement-where-transaction-is-composite-supreme-court-549336",
+      "https://theindianlawyer.in/when-does-an-arbitration-clause-bind-a-personal-guarantor-supreme-court-clarifies-the-law/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "dp-jain-nhai-bangalore-chennai-expressway-arbitral-tribunal",
+    "practice_area": "Infrastructure & PPP",
+    "case_name": "D.P. Jain Bangalore Chennai Expressways Pvt. Ltd. v. National Highways Authority of India",
+    "citation": "Delhi High Court",
+    "court": "Delhi High Court",
+    "date": "2026-09-10",
+    "holding_summary": "Under a Concession Agreement dated 4 February 2022 for a section of the Bangalore-Chennai Expressway, a Division Bench had on 20 August 2026 partly allowed D.P. Jain's appeal, declaring the project eligible for free fly ash with transportation and referring its monetary claim (including Rs. 180.16 crore) to the Dispute Resolution Board/Arbitral Tribunal for quantification. After NHAI declined to implement that ruling and terminated the Concession Agreement on 1 September 2026, Justice Sachin Datta of the Delhi High Court, on 10 September 2026, constituted a three-member Arbitral Tribunal after both parties agreed to depart from the SAROD arbitration procedure prescribed in their agreement.",
+    "why_it_matters": "Concessionaires facing an authority's non-implementation of a favourable court ruling, followed by termination of the concession, can secure a substitute tribunal by consent even where the contract mandates a specific institutional arbitration mechanism like SAROD.",
+    "sources": [
+      "https://www.livelawbiz.com/arbitration/delhi-high-court-constitutes-tribunal-in-nhai-bangalore-chennai-expressway-dispute-despite-sarod-clause-550480",
+      "https://theprint.in/india/governance/bengaluru-chennai-e-way-meant-to-cut-travel-time-to-3-hrs-set-to-miss-3rd-deadline-due-to-legal-tangle/2958232/",
+      "https://ionanalytics.com/insights/uncategory/indian-court-ruling-likely-to-hamper-ppp-highway-project-bids/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "pcit-delhivery-esop-deduction-chartered-accountant-valuation",
+    "practice_area": "Tax Litigation",
+    "case_name": "Pr. Commissioner of Income Tax (Central)-2 v. M/S Delhivery Pvt. Ltd.",
+    "citation": "ITA 479/2024",
+    "court": "Delhi High Court",
+    "date": "2026-09-17",
+    "holding_summary": "The Revenue had disallowed Delhivery's claimed deduction of Rs. 51.48 crore for ESOP expenditure and made an addition under Section 56(2)(viib) of the Income Tax Act, 1961, on the ground that the share valuation supporting the ESOP had been prepared by a Chartered Accountant rather than a merchant banker. A Delhi High Court bench of Justices Dinesh Mehta and Rajneesh Kumar Gupta upheld the deduction, holding that a CBDT order permitted CA-prepared valuations at the relevant time and that a later rule requiring merchant-banker valuation could not be applied retrospectively to reject it.",
+    "why_it_matters": "Companies that claimed ESOP expenditure deductions using contemporaneous Chartered Accountant valuations have a strong precedent to resist reassessment where the Revenue seeks to apply a later, stricter valuation-methodology requirement retrospectively.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/valuation-by-ca-enough-to-claim-esop-deduction-as-per-cbdt-order-delhi-hc-grants-relief-to-delhivery-read-order-1451614",
+      "https://rawlaw.in/delhivery-claims-%E2%82%B951-48-crore-esop-deduction-and-uses-chartered-accountant-valuation-delhi-high-court-rejects-revenues-disallowance-says-later-merchant-banker-rule-cannot-apply/",
+      "https://www.livelawbiz.com/income-tax/high-court/delhi-high-court-upholds-delhiverys-5148-crore-deduction-for-esop-expenditure-550879"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "mitc-rolling-mills-renuka-realtors-section-13-1a-plaint-rejection-appeal",
+    "practice_area": "Commercial Litigation",
+    "case_name": "MITC Rolling Mills Pvt. Ltd. & Anr. v. M/S. Renuka Realtors & Ors.",
+    "citation": "2025 INSC 1300",
+    "court": "Supreme Court of India",
+    "date": "2025-11-10",
+    "holding_summary": "MITC Rolling Mills had filed Commercial Suit No. 06 of 2021 before the District Judge, Nashik, seeking recovery of over Rs. 2.52 crore for supply of TMT/Fe-500 material; when its plaint was rejected under Order VII Rule 11 CPC, the Bombay High Court held that no appeal lay against that order under Section 13(1A) of the Commercial Courts Act, 2015. The Supreme Court, per Justices Vikram Nath and Sandeep Mehta, set that aside, holding that rejection of a plaint is a 'decree' under Section 2(2) CPC and is therefore appealable under the main part of Section 13(1A), with the proviso restricting only appeals against purely interlocutory orders.",
+    "why_it_matters": "Commercial litigants whose plaint has been rejected under Order VII Rule 11 now have settled confirmation that a first appeal lies as of right under the Commercial Courts Act, removing an uncertainty that previously varied across High Courts.",
+    "sources": [
+      "https://www.verdictum.in/court-updates/supreme-court/mitc-rolling-mills-private-limited-v-ms-renuka-realtors-2025-insc-1300-order-vii-rule-11d-cpc-section131a-commercial-courts-act-1597534",
+      "https://24law.in/story/supreme-court-sets-aside-bombay-high-court-order-holds-appeal-against-rejection-of-plaint",
+      "https://lawtrend.in/commercial-courts-act-proviso-to-s-131a-does-not-bar-appeal-against-order-rejecting-plaint-supreme-court/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  }
+]
