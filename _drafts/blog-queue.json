@@ -32,7 +32,7 @@
       "Practical contractor checklist: preserve DRB referral timelines, document claims contemporaneously for the CCIE stage, verify current claim-value thresholds against the latest NHAI circular before assuming arbitration is available, and treat 3G land-acquisition disputes and EPC contract disputes as procedurally distinct tracks"
     ],
     "facts_to_verify_or_confirmed": [
-      "Existence and content of DRB → CCIE conciliation → arbitration sequence in post-2020 NHAI EPC/HAM/BOT templates: confirmed via multiple industry sources (epcworld.in, foxmandal.in, Lexology) at research time",
+      "Existence and content of DRB \u2192 CCIE conciliation \u2192 arbitration sequence in post-2020 NHAI EPC/HAM/BOT templates: confirmed via multiple industry sources (epcworld.in, foxmandal.in, Lexology) at research time",
       "Exact NHAI 2026 policy circular number (cited as '11.82 of 2026') and the precise Rs. 10 crore threshold for barring arbitration on higher-value claims should be re-confirmed against the actual NHAI circular text at drafting time, since only secondary/trade-press sources were checked",
       "The 28-day window for a contractor's conciliation proposal after a DRB decision should be re-verified against the current standard NHAI contract clause in force, as this may vary by agreement vintage",
       "Manav Bhanot v. NHAI, 2026 INSC 973 (8 September 2026): case name, citation, date and holding cross-verified via Verdictum, LiveLaw and ibclaw.in at research time"
@@ -94,7 +94,7 @@
   {
     "id": "sarfaesi-section-13-2-demand-notice-borrower-guide",
     "topic_title": "Received a SARFAESI Section 13(2) Notice? A Borrower's Guide to the 60-Day Window",
-    "angle": "Practical guide for a defaulting borrower who has just received a Section 13(2) demand notice — what it must contain, how to file a representation/objection, the bank's obligations, and when to approach the DRT.",
+    "angle": "Practical guide for a defaulting borrower who has just received a Section 13(2) demand notice \u2014 what it must contain, how to file a representation/objection, the bank's obligations, and when to approach the DRT.",
     "key_points": [
       "What a Section 13(2) demand notice must disclose and the 60-day window to repay or respond",
       "Filing a representation or objection under Section 13(3A) and the secured creditor's duty to give reasons in writing if it is rejected",
@@ -455,18 +455,18 @@
   },
   {
     "id": "maternity-benefit-employer-compliance-guide",
-    "topic_title": "Maternity Benefit Compliance for Employers: Leave, Pay and Crèche Obligations",
-    "angle": "A compliance-focused guide for HR teams and employers on statutory maternity benefit obligations, now housed within the Code on Social Security, covering leave entitlement, pay, work-from-home options and crèche requirements.",
+    "topic_title": "Maternity Benefit Compliance for Employers: Leave, Pay and Cr\u00e8che Obligations",
+    "angle": "A compliance-focused guide for HR teams and employers on statutory maternity benefit obligations, now housed within the Code on Social Security, covering leave entitlement, pay, work-from-home options and cr\u00e8che requirements.",
     "key_points": [
       "Eligible women employees are entitled to up to 26 weeks of paid maternity leave (up to 8 weeks of which may be availed before the expected delivery date) for the first two children; for the third child onward, the entitlement reduces to 12 weeks",
-      "Establishments employing 50 or more employees must provide a crèche facility (commonly notified within 500 metres of the workplace under state rules), and mothers must be permitted at least four visits to the crèche daily, with that time counted as part of working hours",
+      "Establishments employing 50 or more employees must provide a cr\u00e8che facility (commonly notified within 500 metres of the workplace under state rules), and mothers must be permitted at least four visits to the cr\u00e8che daily, with that time counted as part of working hours",
       "The maternity benefit regime, earlier under the standalone Maternity Benefit Act, 1961, is now consolidated into Chapter VI (and related provisions) of the Code on Social Security, 2020, which came into force on 21 November 2025 alongside the other three Labour Codes",
       "Non-compliance (denial of leave, dismissal during maternity leave, or failure to provide mandated facilities) attracts imprisonment ranging from 3 months to 1 year and/or a fine between Rs. 2,000 and Rs. 5,000 under the applicable penalty provision",
       "Employers with 50+ employees should also review adjacent obligations that commonly intersect with maternity compliance -- POSH Internal Committee obligations, ESI maternity benefit coordination for covered employees, and work-from-home policy options that the law permits by mutual agreement after the leave period",
       "Employers must display an abstract of the maternity benefit provisions at the workplace and cannot dismiss or vary the employment conditions of a woman employee during her maternity leave period"
     ],
     "facts_to_verify_or_confirmed": [
-      "26-week/12-week leave structure and 50-employee crèche threshold confirmed via multiple 2026 sources (Keka, KSandK, Greythr) at research time",
+      "26-week/12-week leave structure and 50-employee cr\u00e8che threshold confirmed via multiple 2026 sources (Keka, KSandK, Greythr) at research time",
       "Consolidation into the Code on Social Security effective 21 November 2025 confirmed via multiple sources at research time; exact chapter/section numbering under the Code (as distinct from the old Maternity Benefit Act sections) should be re-verified against the notified Code text and any state-specific Rules at drafting time",
       "Penalty figures (3 months-1 year imprisonment, Rs. 2,000-5,000 fine) should be cross-checked against the current in-force provision at drafting time, since penalty quanta are sometimes revised when a law is re-codified"
     ],
@@ -545,6 +545,196 @@
       "General trust-vs-HUF-vs-will comparison, private/contractual nature of trust deeds versus probated wills, and staggered-distribution flexibility of trusts confirmed via multiple 2025-2026 sources (BusinessToday, Mondaq, Dhruva Advisors) at research time",
       "The specific tax treatment distinction between 'specific' and 'discretionary' trusts, and current HUF taxation slab/exemption details, should be re-verified against the current Income Tax Act provisions at drafting time given periodic Finance Act changes",
       "Probate requirement nuances (which states/situations mandate probate of a will, e.g., within the original jurisdiction of the Bombay, Calcutta and Madras High Courts under the Indian Succession Act) should be cross-checked against the specific succession-law guide already in the queue/site to avoid overlap and ensure consistency"
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "online-gaming-act-2025-compliance-guide",
+    "topic_title": "The Online Gaming Act, 2025: What Gaming Platforms, Payment Processors and Promoters Must Now Stop Doing",
+    "angle": "For online gaming/fantasy sports operators, payment aggregators, and advertisers/influencers navigating India's new total ban on real-money online games.",
+    "key_points": [
+      "The Promotion and Regulation of Online Gaming Act, 2025 was introduced 20 August 2025, passed by Parliament, and received presidential assent on 22 August 2025.",
+      "The Act imposes a blanket ban on offering, facilitating or advertising 'online money games' - covering games of skill, chance, or a mix of both - played for stakes with monetary returns, regardless of the skill-vs-chance distinction that previously shielded some platforms.",
+      "Offering or facilitating a banned online money game is punishable with imprisonment (up to 3 years) and/or fine (up to roughly Rs 1 crore); banks and payment systems are separately barred from processing transactions linked to such games.",
+      "Celebrities, influencers and other promoters of banned real-money games face independent criminal exposure (imprisonment and fine) for advertising/endorsing such games.",
+      "The Act creates a central Online Gaming Authority empowered to classify games as 'online money game', 'e-sport', or 'online social/casual game' and to register and oversee permitted e-sports and social gaming platforms.",
+      "E-sports and online social games without monetary stakes remain legal and can seek registration; existing operators must audit and unwind real-money offerings and renegotiate/terminate affiliate and promotional contracts."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (Lexology, Law.asia, PIB, Wikipedia): the ban's scope, August 2025 passage/assent dates, and the Online Gaming Authority's creation.",
+      "Exact penalty tiers (first offense vs. repeat, and precise fine caps for operators vs. promoters) varied slightly across secondary sources and should be re-verified against the Gazette-notified Act text at drafting time.",
+      "The Online Gaming Authority's operational rules/composition were still being notified as of research date and should be rechecked for updates."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "rbi-digital-lending-directions-2025-compliance-guide",
+    "topic_title": "RBI (Digital Lending) Directions, 2025: A Compliance Roadmap for NBFCs and Fintech Lending Platforms",
+    "angle": "For NBFCs, banks and fintech Lending Service Providers (LSPs) building or operating Digital Lending Apps (DLAs), explaining the new consolidated RBI framework and its operational obligations.",
+    "key_points": [
+      "RBI issued the Reserve Bank of India (Digital Lending) Directions, 2025 on 8 May 2025, consolidating the 2022 Digital Lending Guidelines and the 2023 Default Loss Guarantee (DLG) guidelines into one binding master direction.",
+      "Regulated entities must report all their Digital Lending Apps (DLAs) on RBI's Centralised Information Management System (CIMS), with existing DLAs required to be reported by 15 June 2025; the Chief Compliance Officer must certify accuracy.",
+      "Loan disbursal must flow directly from the lender to the borrower's bank account, and repayments directly from borrower to lender - funds cannot be routed through an LSP's or any third party's pooling account.",
+      "Borrowers get a mandatory, board-approved, penalty-free 'cooling-off'/look-up period (minimum 1 day) to exit a digital loan by repaying only principal plus proportionate APR, with no prepayment penalty.",
+      "Default Loss Guarantee (DLG) arrangements between LSPs and regulated entities are capped at 5% of the disbursed loan portfolio and must be invoked within 120 days of default per a board-approved policy.",
+      "LSPs distributing loans from multiple lenders on one platform must give borrowers an unbiased, transparent comparison of all available loan offers - no steering via dark patterns or hidden preferential display."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (Legal500, Lawrbit, RBI's own PDF circular, Synergia Legal): the 8 May 2025 issuance date and the consolidation of the 2022/2023 guidelines.",
+      "The 15 June 2025 CIMS reporting deadline and the DLG cap (5% of portfolio) / 120-day invocation window should be re-verified against the current RBI master direction text at drafting time, since RBI periodically amends these via follow-up circulars.",
+      "Cooling-off minimum period (stated as 'at least 1 day, board-approved') should be checked for any RBI-prescribed floor beyond board discretion."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "pwdva-protection-order-procedure-guide",
+    "topic_title": "How to File for Protection Under the Domestic Violence Act, 2005: A Step-by-Step Guide",
+    "angle": "For women facing domestic violence and the advocates assisting them, walking through the civil complaint and relief process under the PWDVA - distinct from the site's existing BNSS Section 144 maintenance guide.",
+    "key_points": [
+      "Governed by the Protection of Women from Domestic Violence Act, 2005 (PWDVA); a complaint can be filed through a Protection Officer, a registered service provider, a police station, or directly before the Judicial Magistrate/Magistrate of First Class of the area.",
+      "On receiving a complaint, the Protection Officer prepares a Domestic Incident Report (DIR) under Section 9/12 and forwards copies to the Magistrate, the local police, and service providers.",
+      "The aggrieved person must be informed of her right to apply for a Protection Order (Section 18), Residence Order (Section 19), Monetary Relief (Section 20), Custody Order (Section 21), and Compensation Order (Section 22), as well as her right to free legal aid.",
+      "'Domestic relationship' under the Act extends beyond marriage to relatives by consanguinity, relationships 'in the nature of marriage' (live-in partners), and other shared-household occupants - broadening who can seek relief.",
+      "The Act envisages an expedited timeline: the Magistrate is to fix the first hearing within 3 days of the application being presented, and endeavour to dispose of each application within 60 days of the first hearing (Section 12).",
+      "Breach of a Protection Order is a cognizable, non-bailable criminal offence under Section 31, carrying imprisonment up to 1 year and/or a fine up to Rs 20,000, separate from the civil relief proceedings."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (IndiaCode bare Act, AdvocateKhoj, SCC Times, government DV procedural manual): the filing routes, DIR mechanism, and categories of relief under Sections 18-22.",
+      "The 3-day/60-day statutory timelines are directory under the Act text but frequently not met in practice - flag this nuance for accurate drafting rather than presenting them as guaranteed outcomes.",
+      "Ensure the article is scoped as distinct from the existing queued 'maintenance under BNSS Section 144' guide - this piece should focus on PWDVA-specific civil reliefs (protection/residence/custody/compensation orders), not maintenance amount computation."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "gst-composition-scheme-eligibility-exit-guide",
+    "topic_title": "GST Composition Scheme: Eligibility, Opting In and Exiting for Small Businesses",
+    "angle": "For small traders, manufacturers and restaurants deciding whether to opt into the GST composition scheme, and what to do if they must exit it.",
+    "key_points": [
+      "Eligibility under Section 10 of the CGST Act is capped at Rs 1.5 crore aggregate turnover in the preceding financial year (Rs 75 lakh for specified special-category states).",
+      "Existing regular taxpayers switch into the scheme for a financial year by filing Form GST CMP-02 before the start of that financial year (by 31 March); new registrants opt in at the time of registration itself.",
+      "Composition dealers pay concessional rates (commonly cited as 1% for traders, 2% for manufacturers, 5% for restaurants not serving alcohol, 6% for specified service providers) and file quarterly payment via CMP-08 plus an annual return GSTR-4, instead of monthly GSTR-1/GSTR-3B.",
+      "Composition dealers cannot collect GST from customers, cannot claim input tax credit, cannot make inter-state outward supplies, and generally cannot supply goods through e-commerce operators required to collect TCS.",
+      "If turnover crosses the threshold mid-year or a scheme condition is violated, the dealer must file Form GST CMP-04 within 7 days of the triggering event and pays tax as a regular taxpayer from that date; CMP-04 is also used for voluntary exit.",
+      "Continuing in the scheme after becoming ineligible, or wrongly availing it, can trigger a tax demand plus interest and penalty under the relevant CGST Act provisions."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (Vakilsearch, IndiaFilings, CAclubindia, ClearTax-adjacent trackers): the Rs 1.5 crore/Rs 75 lakh thresholds, CMP-02/CMP-04 forms, and the 7-day exit-filing window.",
+      "Composition tax rate percentages are set by notification and can change - re-verify against the current CBIC notification at drafting time.",
+      "CMP-02 filing window should be updated to reference the then-current financial year's 31 March deadline rather than the FY 2026-27 window already closed as of this research."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "gstr-9-annual-return-filing-guide",
+    "topic_title": "Filing GSTR-9 and GSTR-9C: The Annual GST Return Guide for Businesses",
+    "angle": "For GST-registered businesses and their accountants working through year-end reconciliation and annual return filing obligations.",
+    "key_points": [
+      "GSTR-9 is the annual return consolidating a financial year's monthly/quarterly GSTR-1 and GSTR-3B filings for every regular GST-registered taxpayer.",
+      "Filing GSTR-9 is mandatory where aggregate annual turnover exceeds Rs 2 crore; CBIC Notification No. 15/2025-Central Tax made it optional for taxpayers at or below that threshold for the relevant recent financial years.",
+      "GSTR-9C - a self-certified reconciliation statement matching audited financial statements against GST returns - becomes additionally mandatory where aggregate turnover exceeds Rs 5 crore.",
+      "The due date for the FY 2025-26 annual return is 31 December 2026 (nine months after financial year-end), absent a government extension.",
+      "Late filing of GSTR-9 attracts a late fee of Rs 200/day (Rs 100 CGST + Rs 100 SGST), capped at 0.25% of the taxpayer's turnover in the relevant State/UT.",
+      "Composition taxpayers file a separate annual return (GSTR-9A) rather than GSTR-9 - the article should clarify this distinction from the companion composition-scheme guide."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (ClearTax, IncorpX, CalcGuru, Jiraaf): the Rs 2 crore/Rs 5 crore thresholds, the 31 December 2026 due date for FY 2025-26, and the Rs 200/day late fee structure.",
+      "The Rs 2 crore 'optional filing' relief is notification-specific and has been renewed annually via separate CBIC notifications in recent years - re-verify that a corresponding notification exists for the filing year in question at drafting time.",
+      "Confirm no extension notification is issued closer to the 31 December 2026 deadline before publishing that date as final."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "professional-tax-registration-compliance-guide",
+    "topic_title": "Professional Tax Registration and Compliance: PTEC vs PTRC Explained for Employers and Professionals",
+    "angle": "For employers operating across multiple states and self-employed professionals, explaining the two distinct professional tax registrations and how to stay compliant state-by-state.",
+    "key_points": [
+      "Professional tax is a state-level tax under Article 276 of the Constitution, levied by roughly 19-20 states/UTs (e.g., Maharashtra, Karnataka, West Bengal, Telangana, Andhra Pradesh, Tamil Nadu, Gujarat); Delhi, UP, Haryana, Punjab, Rajasthan and Uttarakhand do not levy it, and Odisha abolished it effective 1 April 2026.",
+      "Two distinct registrations exist in states like Maharashtra: PTEC (Professional Tax Enrolment Certificate) for self-employed persons, proprietors, partners and directors paying tax on their own income; PTRC (Professional Tax Registration Certificate) for employers who deduct and deposit PT from employees' salaries.",
+      "Article 276(2) of the Constitution caps professional tax at Rs 2,500 per person per financial year - a ceiling no state can exceed regardless of income level.",
+      "Registration must generally be obtained within 30 days of becoming liable - starting a business, hiring the first employee, or a professional commencing practice.",
+      "Due dates are state-specific and change by notification - e.g., a February 2026 amendment shifted several Maharashtra PTRC/PTEC due dates to the 15th of the relevant month; PTEC in Maharashtra is typically an annual payment due around 15 June.",
+      "Non-compliance draws state-specific penalties - e.g., Maharashtra levies a flat late-filing penalty plus roughly 1.25% monthly interest and up to a 10% penalty on unpaid tax."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (TaxGuru, Vakilsearch, Treelife, IncorpX): the PTEC/PTRC distinction, the Rs 2,500 constitutional ceiling, and Odisha's 2026 abolition.",
+      "Because this is inherently a state-by-state regime, exact due dates, slabs and forms vary widely by state and change by notification - the article should present a representative multi-state table and explicitly direct readers to confirm their specific state's current rules before filing.",
+      "The February 2026 Maharashtra due-date amendment (shift to 15th of month) should be re-verified against the notified Rule 11(3) text at drafting time."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "esop-taxation-compliance-guide",
+    "topic_title": "ESOP Taxation in India: What Employees and Startups Must Know at Grant, Exercise and Sale",
+    "angle": "For startup employees holding stock options and the HR/finance teams administering ESOP schemes, explaining the two-stage tax trigger and the startup deferral relief.",
+    "key_points": [
+      "ESOPs are taxed at two distinct points: (1) as a perquisite at exercise - taxed as salary on (fair market value at exercise minus exercise price paid), with the employer obligated to deduct TDS; and (2) as capital gains at sale - (sale price minus FMV at exercise), taxed as short- or long-term capital gains depending on holding period.",
+      "For listed shares, a holding period beyond 12 months from exercise qualifies for long-term capital gains treatment (currently 12.5% above the exemption threshold); unlisted shares typically require a longer holding period for LTCG classification.",
+      "Eligible startups - those holding both DPIIT recognition and a valid tax-exemption certification (historically under Section 80-IAC) - can defer the perquisite tax liability to the earliest of: sale of the shares, the employee leaving the company, or a fixed number of years from the end of the relevant assessment year.",
+      "Only a small fraction of DPIIT-recognised startups actually hold the certification needed to offer this deferral (reported as roughly 3,700 of about 1.97 lakh recognised startups as of April 2025) - companies must confirm their own eligibility before promising deferral to prospective hires.",
+      "From Tax Year 2026-27, salary TDS provisions (including on ESOP perquisites) are renumbered under the Income-tax Act, 2025, though the underlying computation methodology is largely carried over from the earlier Income-tax Act, 1961 framework.",
+      "Employers must obtain a valuation of FMV at exercise from a registered/merchant-banker valuer (for unlisted shares) to correctly compute and report the perquisite value for payroll TDS purposes."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (Treelife, CFOmatrix, Tax Garden, Income Tax Department's own explainer page): the two-stage taxation structure and the DPIIT/80-IAC-linked deferral concept.",
+      "The exact deferral period (sources referenced differing figures - a historical ~48-month window versus a longer window cited for shares allotted from FY 2026-27 onward) is inconsistent across secondary sources and must be re-verified against the Income-tax Act, 2025/CBDT rules at drafting time.",
+      "The DPIIT-certificate statistic (~3,700 of ~1.97 lakh recognised startups) is a point-in-time figure and should be refreshed with the latest DPIIT data before publishing."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "copyright-registration-process-guide",
+    "topic_title": "How to Register a Copyright in India: Process, Fees and Timelines",
+    "angle": "For authors, software developers, artists and businesses seeking formal copyright registration - to strengthen enforcement and evidentiary proof of ownership, distinct from the site's trademark and patent registration guides.",
+    "key_points": [
+      "Copyright protection arises automatically upon creation of an original work under the Copyright Act, 1957; registration is not mandatory for protection but creates prima facie evidence of ownership, valuable in infringement litigation and licensing/assignment transactions.",
+      "Applications are filed in Form XIV through the Copyright Office's e-filing portal (copyright.gov.in), accompanied by the work itself (manuscript, source code, artwork, etc.) and, for artistic works resembling a trademark, a No Objection Certificate from the Registrar of Trade Marks.",
+      "Government fees under the Second Schedule to the Copyright Rules, 2013 vary by applicant type and work category - e.g., Rs 500 per work for an individual applicant's literary/dramatic/musical/artistic work versus Rs 2,000 per work for a company/LLP applicant, and Rs 2,000 per work for sound recordings/cinematograph films regardless of applicant type.",
+      "The statutory process includes a mandatory 30-day waiting period after filing, during which third parties may lodge objections before the Copyright Office proceeds to examine the application.",
+      "End-to-end timeline typically runs 2-6 months from filing to certificate issuance where no objections are raised; contested applications take longer.",
+      "For software, source code/object code can be deposited (often in partial or redacted form) as part of a 'literary work' application, allowing protection of the code without disclosing the full trade secret."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (Intepat, Patron Accounting, Obcrights, Legalxcode): the Form XIV process, the 30-day objection window, and the general 2-6 month timeline.",
+      "The fee tiers (Rs 500 for individuals, Rs 2,000 for companies/LLPs, Rs 2,000 flat for sound recordings/films) should be re-checked against the current Second Schedule to the Copyright Rules at drafting time, as fee schedules are periodically revised.",
+      "Verify current e-filing portal requirements (e.g., any updated documentation checklist) closer to publication, since Copyright Office procedures are updated from time to time."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "director-liability-fraud-section-447-guide",
+    "topic_title": "When Does a Director Face Criminal Liability? Understanding Section 447 Fraud Under the Companies Act",
+    "angle": "For company directors, KMPs and promoters, distinguishing ordinary civil/business liability from criminal fraud liability under Section 447 of the Companies Act, 2013.",
+    "key_points": [
+      "Section 447 defines 'fraud' broadly to include any act, omission, concealment of a fact, or abuse of position committed with intent to deceive, to gain undue advantage, or to injure the interests of the company, its shareholders, creditors or others - irrespective of whether there is actual wrongful gain or loss.",
+      "Punishment under Section 447 ranges from a minimum of 6 months to up to 10 years imprisonment, plus a fine of not less than the amount involved in the fraud and up to three times that amount; where the fraud involves public interest, the minimum imprisonment rises to 3 years.",
+      "Directors and KMPs who knowingly participate in or are complicit in fraudulent conduct (e.g., falsification of books under Section 448, fraudulent inducement to invest under Section 36) can be personally prosecuted - the corporate veil does not shield individuals from Section 447 liability.",
+      "A Special Court's cognizance of a Section 447 offence is statutorily conditioned on a complaint filed by the Serious Fraud Investigation Office (SFIO) or an officer authorised by the Central Government under Section 212(6) - per recent Supreme Court clarification, a private complaint alone cannot trigger prosecution.",
+      "Section 447 liability operates 'without prejudice' to other liabilities - meaning a director can simultaneously face civil recovery suits, SEBI/RBI regulatory action, and disqualification proceedings arising from the very same conduct, in addition to criminal prosecution.",
+      "Ordinary business decisions, negligence, or bona fide commercial misjudgment do not attract Section 447 - the provision requires proof of dishonest intent, distinguishing genuine fraud from routine civil/contractual disputes or NCLT oppression-and-mismanagement matters already covered on the site."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (Metalegal, IndiaCorpLaw, Anirudh Associates, LawBeat): the definition's breadth, the punishment range, and the SFIO/Section 212(6) gatekeeping requirement for prosecution.",
+      "The specific 2026 Supreme Court ruling referenced (on Section 448/447 interplay and private-complaint bar) should be identified by exact case citation and re-verified at drafting time.",
+      "The punishment range (6 months-10 years, fine multiplier, 3-year minimum for public-interest fraud) should be cross-checked against the current bare Act text for any amendment."
+    ],
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "will-drafting-essentials-guide",
+    "topic_title": "Drafting a Will in India: Essential Clauses Every Testator Should Get Right",
+    "angle": "For individuals writing their first will, focused on drafting fundamentals, required formalities and common mistakes - a companion piece to the site's existing 'contesting a will' guide, written from the testator's rather than the challenger's perspective.",
+    "key_points": [
+      "Governed by the Indian Succession Act, 1925; Section 2(h) defines a will as the legal declaration of a testator's intention regarding disposal of property, effective after death and freely revocable during the testator's lifetime.",
+      "Under Section 63, a valid will requires: the testator to be of sound mind and not a minor, the testator's signature or mark, and attestation by at least two witnesses who each either saw the testator sign or received personal acknowledgment of the signature.",
+      "Essential clauses to include: a declaration clause confirming sound mind and revoking all prior wills; specific bequest clauses identifying each asset and beneficiary with a contingency for a beneficiary predeceasing the testator; a residuary/catch-all clause covering any assets not specifically named (without it, unlisted assets pass by intestate succession rules instead of the will); and an executor-appointment clause naming both a primary and a backup executor.",
+      "Registration of a will is optional, not mandatory - a properly executed, duly attested but unregistered will is fully legally valid; registration under the Registration Act, 1908 adds an evidentiary safeguard and prevents loss/tampering of the document, but does not cure a defectively executed will.",
+      "Depending on where the testator is domiciled and what the estate includes, the executor may later need to obtain probate (a court-granted certificate under the Indian Succession Act confirming the will's validity) before administering the estate - historically a stricter requirement for wills executed within the former presidency towns of Kolkata, Chennai and Mumbai.",
+      "Common defects that invite later challenge (to be covered distinctly from the site's existing 'contesting a will' article, which addresses grounds for challenge): vague or ambiguous asset descriptions, missing or incompetent witnesses, absence of a residuary clause, and failure to account for jointly-held or nominee-designated assets (bank/insurance nominations) that do not automatically pass under the terms of a will."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Confirmed across multiple sources (Finnovate, Getyellow, Sansa Legal, Kapil Dixit & Co, Vakiltech): Section 2(h)'s definition, Section 63's attestation requirements, and that registration is optional rather than mandatory.",
+      "The presidency-town probate requirement (traditionally tied to Section 57 and its applicability schedules) should be re-verified for precise current scope before drafting, as its territorial application is a frequently misstated nuance.",
+      "Confirm the article's framing is clearly differentiated in the CMS from the existing 'contesting a will' article to avoid topical overlap for readers and SEO."
     ],
     "added_on": "2026-09-19"
   }
