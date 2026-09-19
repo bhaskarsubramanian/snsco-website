@@ -496,5 +496,106 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-18"
+  },
+  {
+    "id": "cci-trustees-association-debenture-cartel",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "Muthoot Finance Ltd. (Informant) v. Trustees' Association of India, IDBI Trusteeship Services Ltd., Axis Trustee Services Ltd. & SBICAP Trustee Company Ltd.",
+    "citation": "Competition Commission of India, order dated 02.09.2026",
+    "court": "Competition Commission of India",
+    "date": "2026-09-02",
+    "holding_summary": "The CCI held that the Trustees' Association of India (TAI) and three major debenture trustees -- IDBI Trusteeship Services, Axis Trustee Services and SBICAP Trustee Company -- violated Sections 3(3)(a) and 3(3)(b) of the Competition Act, 2002 by collectively fixing a minimum benchmark fee for debenture trusteeship services during FY 2020-21 and FY 2021-22, after TAI decided in March 2021 that members would not price below a common floor and monitored quotations to enforce it. The complaint was triggered by Muthoot Finance after its long-standing trustee quoted a sharply higher fee for a proposed NCD issuance. The Commission issued a cease-and-desist order but imposed no monetary penalty, noting the trustees had abandoned the benchmark-alignment practice once the investigation began, while warning that any recurrence would be treated as aggravated recidivism.",
+    "why_it_matters": "Confirms that professional/intermediary trade associations in India's debt-capital-markets ecosystem can be held liable for price-fixing under the Competition Act even absent a formal cartel agreement, and signals to issuers and trustees that association-driven fee benchmarking carries real antitrust exposure despite the no-penalty outcome here.",
+    "sources": [
+      "https://www.business-standard.com/industry/news/cci-asks-three-debenture-trustees-and-association-not-to-cartelise-126090301344_1.html",
+      "https://www.moneylife.in/article/cci-holds-trustees-association-of-india-3-debenture-trustees-guilty-of-cartelisation-for-fixing-minimum-fees/81550.html",
+      "https://www.barandbench.com/news/litigation/cci-holds-trustees-association-of-india-guilty-of-cartelisation-for-fixing-minimum-fees",
+      "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-finds-trustees-association-three-debenture-trustees-fixed-benchmark-fees-orders-cease-desist-548385"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "rani-gupta-maheshwari-school-termination-compensation",
+    "practice_area": "Employment & Labour",
+    "case_name": "Rani Gupta v. Management Committee, Maheshwari Public School & Anr.",
+    "citation": "Rajasthan High Court (Jaipur Bench), order dated August 2026",
+    "court": "Rajasthan High Court",
+    "date": "2026-08-20",
+    "holding_summary": "Justice Anuroop Singhi enhanced compensation payable to a Hindi teacher, illegally terminated in 2015 after roughly 20 years of unblemished service on the ground that there were no students for Hindi, from Rs. 1 lakh to Rs. 20 lakh. The Rajasthan Non-Government Educational Institutions Tribunal had found the termination bad in law but, since the teacher had since reached superannuation, awarded only Rs. 1 lakh in lieu of reinstatement; the High Court called that amount 'shockingly disproportionate' given her permanent status, clean service record, and the 67-plus months she remained without employment before superannuation, and directed payment of Rs. 20 lakh within two months.",
+    "why_it_matters": "Signals that Rajasthan courts will substantially scale up lump-sum compensation in lieu of reinstatement for long-serving private-school and institutional employees found to be illegally terminated, raising the litigation exposure for educational trusts and other non-government institutional employers on wrongful termination claims.",
+    "sources": [
+      "https://www.livelaw.in/high-court/rajasthan-high-court/teacher-illegal-termination-compensation-enhanced-1-lakh-inadequate-546803",
+      "https://www.etvbharat.com/hi/state/rajasthan-highcourt-relief-for-woman-in-class-iv-recruitment-rs-20-lakh-compensation-to-teacher-rjs26082007608"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "nclat-genius-exports-resolution-applicant-death",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Arun Kumar Singh v. Genius Exports Private Limited & Ors.",
+    "citation": "Company Appeal (AT) (Insolvency) Nos. 1699, 1700, 1701 & 1702 of 2025, NCLAT New Delhi",
+    "court": "National Company Law Appellate Tribunal, New Delhi (Principal Bench)",
+    "date": "2026-09-09",
+    "holding_summary": "The NCLAT held that the death of a successful/settling resolution applicant before formal approval of a resolution plan does not, by itself, justify liquidation of the corporate debtor -- particularly where a Section 12A withdrawal application based on an underlying settlement remained pending before the Adjudicating Authority. The Tribunal set aside the NCLT's liquidation order dated 17 September 2025, revived the CIRP of Genius Exports Pvt. Ltd., and directed the NCLT to take up and decide the pending Section 12A withdrawal application on its merits.",
+    "why_it_matters": "Gives resolution professionals, creditors and settling parties clarity that the death of an individual applicant or promoter mid-process is not an automatic trigger for liquidation, preserving the possibility of a negotiated exit or revived resolution even after such an intervening event.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/can-a-resolution-plan-under-ibc-survive-the-death-of-its-maker-nclat-answers",
+      "https://www.livelawbiz.com/ibc/nclat-revives-cirp-holds-resolution-applicants-demise-not-ground-for-liquidation-549584"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "energy-beverages-sabran-clear-aqua-trademark",
+    "practice_area": "Intellectual Property",
+    "case_name": "Energy Beverages Pvt. Ltd. v. Sabran Enterprises & Ors.",
+    "citation": "Interim Application (L) No. 12425 of 2026 in Commercial IP Suit (L) No. 11510 of 2026, Bombay High Court",
+    "court": "Bombay High Court",
+    "date": "2026-09-03",
+    "holding_summary": "Justice Madhav J. Jamdar restrained a Karnataka-based business from manufacturing or selling packaged drinking water under the 'CLEAR/CLEAR AQUA IND' mark, after physically comparing the rival products at an earlier hearing and finding them prima facie counterfeit -- with identical bottle shapes, label design, colour scheme and feature placement, and 'AQUA IND' rendered in negligible font while 'CLEAR' was given disproportionate prominence. The interim order followed Energy Beverages' claims of trademark infringement, copyright infringement of its label artwork, and passing off.",
+    "why_it_matters": "Reinforces that courts will readily grant interim injunctions against close packaging/get-up copying in the FMCG and packaged-water sector where side-by-side comparison shows deliberate imitation, a useful precedent for brand owners pursuing fast interim relief against counterfeit look-alikes.",
+    "sources": [
+      "https://www.legaleraonline.com/from-the-courts/bombay-high-court-restrains-sale-of-counterfeit-clear-packaged-drinking-water-989498",
+      "https://www.livelawbiz.com/trademark/bombay-high-court-restrains-sale-of-counterfeit-clear-packaged-drinking-water-549084"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "premium-sugars-union-india-export-ban",
+    "practice_area": "Agricultural Industries",
+    "case_name": "Premium Sugars v. Union of India & Ors.",
+    "citation": "Writ Petition (L) No. 18701 of 2026, Bombay High Court",
+    "court": "Bombay High Court",
+    "date": "2026-08-03",
+    "holding_summary": "A Division Bench of Justices Suman Shyam and Advait M. Sethna dismissed a batch of petitions by merchant sugar exporters challenging the DGFT's 13 May 2026 notification that changed sugar's export status from 'Restricted' to 'Prohibited' until 30 September 2026. The exporters, who held pre-existing private contracts and had received full advance payment from overseas buyers between 14 April and 4 May 2026, argued the ban retrospectively defeated vested and legitimate expectation rights; the Court held that private bilateral contracts and advance payments do not confer a legal right capable of overriding a subsequent statutory export policy issued under the Foreign Trade (Development and Regulation) Act, 1992 in the larger public interest, invoking the maxim salus populi est suprema lex.",
+    "why_it_matters": "Confirms that exporters cannot rely on already-executed private sale contracts or advance payments to resist a subsequent government export restriction on an essential commodity, an important risk allocation point for trading houses and commodity exporters structuring cross-border sugar and other agri-commodity contracts.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/domestic-interest-matters-bombay-hc-upholds-dgfts-ban-on-sugar-export-despite-exporters-financial-loss-1449863",
+      "https://www.verdictum.in/bombay-high-court/premium-sugars-v-union-of-india-writ-petition-l-no-18701-of-2026-exporters-challenge-to-sugar-export-ban-1619177",
+      "https://www.chinimandi.com/bombay-high-court-upholds-centres-sugar-export-ban-till-september-30/",
+      "https://www.jurishour.in/indirect-taxes/private-contracts-and-advance-payments/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
+  },
+  {
+    "id": "state-haryana-faridabad-gurgaon-minerals-royalty",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "State of Haryana & Ors. v. M/s Faridabad Gurgaon Minerals & Anr. (with State of Haryana & Ors. v. M/s Ganpati Enterprises Slate Mines)",
+    "citation": "2026 INSC 690",
+    "court": "Supreme Court of India",
+    "date": "2026-07-13",
+    "holding_summary": "A Bench of Justices Dipankar Datta and Satish Chandra Sharma held that a mining lessee cannot claim a vested right to pay a static royalty or dead rent for the entire lease term merely because the lease deed is silent on revision, where the State's statutory power to revise such levies flows independently from Section 15 of the Mines and Minerals (Development and Regulation) Act, 1957 and rules made thereunder. The Court set aside a 2016 Punjab and Haryana High Court judgment that had quashed a Haryana government notification enhancing royalty and dead rent on minor-mineral leases originally auctioned in 2001, allowing the State's appeals.",
+    "why_it_matters": "Confirms that mining lessees across India cannot rely on silence in a lease deed to resist statutory royalty revisions, giving state governments a strong precedent to enforce revised royalty and dead-rent notifications against minor-mineral and other lessees mid-lease.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/state-of-haryana-ors-v-ms-faridabad-gurgaon-minerals-anr-with-state-of-haryana-ors-v-ms-ganpati-enterprises-slate-mines-2026-insc-690-1617782",
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-673-the-state-of-haryana-ors-versus-ms-faridabad-gurgaon-minerals-anr-541159",
+      "https://theindianlawyer.in/supreme-court-holds-government-can-revise-royalty-rate-in-mining-leases-despite-lease-deed-being-silent-on-royalty-revision/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-19"
   }
 ]
