@@ -1,22 +1,5 @@
 [
   {
-    "id": "hari-dutta-sharma-rbi-nbfc-vehicle-repossession-compliance",
-    "practice_area": "Banking & Finance",
-    "case_name": "Hari Dutta Sharma v. State of U.P. & Ors.",
-    "citation": "2026 INSC 998",
-    "court": "Supreme Court of India",
-    "date": "2026-09-16",
-    "holding_summary": "In a case arising from the unauthorised repossession of a financed commercial vehicle, the Supreme Court found that RBI's Fair Practices Code and the successive Master Circulars, Guidelines and Clarifications issued to banks and NBFCs since 2008 on recovery-agent conduct, repossession procedure and grievance redressal have 'existed only on paper', with no mechanism to verify actual compliance. The Court directed the RBI to take effective steps to secure genuine compliance by Non-Banking Financial Companies and Scheduled Commercial Banks with these instruments, rather than treating their issuance alone as sufficient.",
-    "why_it_matters": "Banks and NBFCs engaged in vehicle and asset financing should expect closer regulatory scrutiny of their actual repossession practices on the ground, not merely the existence of a compliant-looking recovery policy.",
-    "sources": [
-      "https://www.verdictum.in/supreme-court/hari-dutta-sharma-v-state-of-up-ors-2026-insc-998-loan-recovery-rbi-1622130",
-      "https://www.livelaw.in/supreme-court/supreme-court-asks-rbi-to-issue-directions-to-prevent-forcible-repossession-of-vehicles-by-banks-nbfcs-550376",
-      "https://www.livelawbiz.com/top-stories/supreme-court-reserve-bank-of-india-recovery-guidelines-exist-only-on-paper-directs-effective-compliance-banks-nbfc-550353"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-19"
-  },
-  {
     "id": "aayush-agarwal-epic-yarns-nclat-section-12a-three-phase-withdrawal",
     "practice_area": "IBC & Insolvency",
     "case_name": "Aayush Prashant Agarwal v. Uma Exports Ltd. & Klass Insolvency Resolution Professionals Pvt. Ltd.",
@@ -47,23 +30,6 @@
       "https://www.bananaip.com/intellepedia/toyota-alphard-trademark-trans-border-reputation/",
       "https://www.livelawbiz.com/trademark/delhi-high-court-orders-cancellation-of-indian-firms-alphard-trademark-registrations-in-favour-of-toyota-533055",
       "https://indiankanoon.org/doc/163516424/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-19"
-  },
-  {
-    "id": "nsdc-surya-wires-personal-guarantor-arbitration-clause",
-    "practice_area": "Arbitration & Dispute Resolution",
-    "case_name": "National Skill Development Corporation v. Surya Wires Private Limited & Ors.",
-    "citation": "2026 INSC 977",
-    "court": "Supreme Court of India",
-    "date": "2026-09-08",
-    "holding_summary": "The parties had executed a cluster of interconnected documents on 20 December 2016 — a Service Level Agreement, a Loan Agreement for over Rs. 7.17 crore, and several Facility Agreements — with Surya Wires' Managing Director executing a separate Personal Guarantee a week later that contained no arbitration clause of its own. The Supreme Court, per Justices P.S. Narasimha and Alok Aradhe, held that the Loan Agreement's arbitration clause stood incorporated into the Personal Guarantee because the guarantee was expressly integrated into the loan documentation as part of a single composite transaction, setting aside a Delhi High Court ruling that had excluded the guarantor from the arbitral proceedings.",
-    "why_it_matters": "Lenders can pursue personal guarantors in the same arbitration as the principal borrower without a standalone arbitration clause in the guarantee itself, provided the guarantee is drafted as an integral part of the same lending transaction — a point worth checking in existing guarantee documentation.",
-    "sources": [
-      "https://www.verdictum.in/supreme-court/national-skill-development-corporation-v-surya-wires-private-limited-2026-insc-977-guarantor-bound-arbitration-clause-loan-agreement-1621640",
-      "https://www.livelawbiz.com/arbitration/personal-guarantor-bound-by-arbitration-clause-in-loan-agreement-where-transaction-is-composite-supreme-court-549336",
-      "https://theindianlawyer.in/when-does-an-arbitration-clause-bind-a-personal-guarantor-supreme-court-clarifies-the-law/"
     ],
     "queued_full_page": true,
     "added_on": "2026-09-19"
@@ -118,5 +84,56 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-19"
+  },
+  {
+    "id": "zara-zora-inditex-trademark-well-known-cancellation",
+    "practice_area": "Intellectual Property",
+    "case_name": "Industria de Diseño Textil, S.A. v. Registrar of Trade Marks & Anr.",
+    "citation": "2026 SCC OnLine Del 5181; C.A. (COMM.IPD-TM) 52/2024",
+    "court": "Delhi High Court",
+    "date": "2026-07-06",
+    "holding_summary": "Inditex, owner of the ZARA mark, appealed the Trade Marks Registry's refusal to cancel a third party's registration of ZORA (Registration No. 4310686 in Class 24). Justice Jyoti Singh held that a mark need not first be formally declared 'well-known' under Section 11(6)-(9) before its owner can invoke the cross-category protection in Section 11(2) of the Trade Marks Act, 1999, and, applying the anti-dissection rule, found ZORA phonetically and structurally similar enough to ZARA that its adoption was without due cause and would take unfair advantage of ZARA's distinctive character and repute. The Court ordered cancellation of the ZORA registration and directed the Registrar to remove it from the Register within two months.",
+    "why_it_matters": "Owners of globally recognised brands do not need a separate, formal 'well-known mark' declaration in hand before invoking Section 11(2) to block a similar mark in an unrelated goods category — reputation and distinctiveness evidence placed before the court can suffice on its own.",
+    "sources": [
+      "https://www.scconline.com/blog/post/2026/07/20/delhi-hc-zara-trademark-well-known-section-11-2-zora-cancelled/",
+      "https://www.bananaip.com/intellepedia/zara-vs-zora-trademark-case-delhi-hc-cancels-zora-registration/",
+      "https://www.legalserviceindia.com/Legal-Articles/delhi-high-court-protects-zara-trademark-rejects-zora-registration-landmark-trademark-judgment-2026/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-20"
+  },
+  {
+    "id": "ongc-suryakand-lad-contract-worker-gratuity-controlling-authority",
+    "practice_area": "Employment & Labour",
+    "case_name": "M/s Oil and Natural Gas Corporation Ltd. v. Suryakand D. Lad & Ors.",
+    "citation": "2026 LiveLaw (SC) 961",
+    "court": "Supreme Court of India",
+    "date": "2026-09-09",
+    "holding_summary": "Workers engaged through a contractor at ONGC claimed gratuity directly from ONGC as principal employer; the Controlling Authority under the Payment of Gratuity Act, 1972 and, on appeal, the Bombay High Court had held ONGC liable to pay. A bench of Justices Ahsanuddin Amanullah and Manmohan set that aside, holding that a Controlling Authority's jurisdiction under the Act is limited to computing the gratuity due to an already-established employee — it has no power to first adjudicate the disputed, anterior question of who the real employer is. Since ONGC had already paid the workers the disputed amount, the Court directed that no recovery be made from them.",
+    "why_it_matters": "Principal employers facing a gratuity claim from contract workers should raise the employer-identity dispute at the earliest stage and be prepared to contest jurisdiction, since a Controlling Authority's order fixing them as the liable employer is now vulnerable to challenge as being outside its statutory power to decide.",
+    "sources": [
+      "https://www.livelaw.in/supreme-court/principal-employer-not-liable-to-pay-gratuity-to-contractual-workmen-controlling-authority-cant-decide-who-must-pay-supreme-court-550928",
+      "https://www.indianpaycalculator.in/govt-news/contract-staff-gratuity-who-pays-supreme-court-2026",
+      "https://www.casemine.com/judgement/in/65a4bfa35de3251386f2b27d"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-20"
+  },
+  {
+    "id": "sebi-vedanta-buyback-escrow-release-pfutp-fraud-inquiry",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "Securities and Exchange Board of India v. Vedanta Limited & Ors.",
+    "citation": "2026 INSC 978; Civil Appeal Nos. 25-26 of 2024",
+    "court": "Supreme Court of India",
+    "date": "2026-09-09",
+    "holding_summary": "Vedanta had announced a buyback of 17.09 crore equity shares at up to Rs. 335 per share but ultimately bought back only about 3.67 crore shares for Rs. 1,225.45 crore; SEBI alleged the announcement was misleading and made without genuine intent to complete it, invoking the PFUTP Regulations, while Vedanta argued SEBI's own release of its buyback escrow showed there was no fraud. A bench of Justices J.B. Pardiwala and K.V. Viswanathan held that release of the cash escrow deposited under Regulation 15B(8) of the Buyback Regulations does not bar a separate, independent fraud inquiry under the PFUTP Regulations, but remanded the fraud question itself to the Securities Appellate Tribunal for fresh decision within six months, since neither the Adjudicating Officer nor SAT had engaged with disputed discrepancies in the underlying trading data.",
+    "why_it_matters": "Companies cannot treat SEBI's release of a buyback escrow as closing the door on fraud scrutiny of the same buyback announcement — a PFUTP inquiry into the company's true intent at the time of announcement can proceed independently and on its own evidentiary track.",
+    "sources": [
+      "https://www.livelaw.in/top-stories/supreme-court-release-escrow-sebi-buyback-regulations-bar-separate-fraud-inquiry-549425",
+      "https://www.livelawbiz.com/top-stories/supreme-court-remands-fraud-allegations-in-vedantas-cairn-india-5725-crore-buyback-to-sat-549389",
+      "https://theindianlawyer.in/supreme-court-on-fraud-in-share-buybacks-escrow-release-does-not-end-sebi-proceedings/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-20"
   }
 ]

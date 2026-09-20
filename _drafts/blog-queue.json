@@ -155,5 +155,45 @@
       "Reduced fees for natural persons, startups and small entities under the 2014 Amendment Rules: confirmed generally at research time - verify the current exact fee table (which may have been revised since 2014) against the Designs Rules in force at drafting time"
     ],
     "added_on": "2026-09-19"
+  },
+  {
+    "id": "deemed-conveyance-housing-society-guide",
+    "topic_title": "Deemed Conveyance: How a Housing Society Gets Land Title When the Builder Won't Convey It",
+    "angle": "A practical guide for a housing society or flat owners' association whose builder has failed to execute a conveyance deed, explaining the deemed conveyance mechanism under Section 11 of RERA (for RERA-registered projects) and Section 11 of MOFA (for older Maharashtra projects), the application process before the Competent Authority, and how it differs from a voluntary conveyance.",
+    "key_points": [
+      "A promoter is legally obligated to convey title/land to the association of allottees - under RERA, within three months of the occupancy certificate being issued; under Maharashtra's MOFA, within four months of the flat purchasers' organisation being formed",
+      "Where the promoter fails or refuses to execute a conveyance deed, allottees/the association need not sue in a civil court - they can apply for a unilateral 'deemed conveyance' before the Competent Authority (in Maharashtra, the District Deputy Registrar of Cooperative Societies), which can register the conveyance without the promoter's participation",
+      "The application is made in a prescribed form (Form VII under the MOFA Rules) with the requisite court-fee stamp, enclosing true copies of members' registered agreements for sale, society registration certificate, and other project documents",
+      "A deemed conveyance under RERA/MOFA passes title to the land and building to the society, but does NOT by itself resolve outstanding disputes over additional FSI, unauthorised construction, or amenities the builder failed to provide - those typically need to be pursued separately",
+      "Recent amendments and case law have addressed the status of deemed conveyance orders passed before statutory changes, and societies should confirm the current procedural rules in their state (the mechanism and its exact procedural details are Maharashtra-specific under MOFA; other states rely primarily on RERA's Section 11 framework, which may be procedurally thinner)",
+      "Practical tip: societies should apply for deemed conveyance promptly after formation rather than waiting - delay does not defeat the right, but it does delay the society's ability to raise its own redevelopment, loans, or repairs requiring clear title"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "RERA Section 11 three-month conveyance timeline from occupancy certificate: confirmed via TaxGuru and IBC Laws' summaries of Section 11 at research time",
+      "MOFA Section 11 four-month timeline from formation of the flat purchasers' organisation, and the Form VII/Rule 12 deemed conveyance application process with a Rs. 2,000 court-fee stamp: confirmed via Chambers and Partners and Mondaq coverage at research time - this MOFA mechanism is Maharashtra-specific; verify whether the state where the guide will be primarily used has an equivalent state-level deemed-conveyance procedure or relies solely on RERA Section 11 remedies",
+      "2025 MOFA amendment and its effect on deemed conveyance orders passed before the amendment (flagged as still valid by Bombay High Court per LiveLawBiz coverage at research time): treat as a live, evolving area and verify the current state of the law before drafting rather than treating pre-amendment orders' validity as settled",
+      "Deemed conveyance not resolving separate disputes over additional FSI/unauthorised construction: general practitioner consensus at research time, not tied to a specific statutory provision - present as practical guidance rather than a citation"
+    ],
+    "added_on": "2026-09-20"
+  },
+  {
+    "id": "contract-farming-agreement-legal-guide",
+    "topic_title": "Contract Farming Agreements in India: What Agribusinesses and Farmers Should Get Right",
+    "angle": "A practical guide for an agribusiness (processor, exporter, or aggregator) or farmer entering a contract farming/produce-purchase arrangement, explaining the current legal landscape after the 2020 central farm laws were repealed in 2021 - what governs these contracts today, what the advisory 2018 Model Act recommends, and the drafting points that matter most given the absence of a uniform national statute.",
+    "key_points": [
+      "The Farmers (Empowerment and Protection) Agreement on Price Assurance and Farm Services Act, 2020 - which had created a specific central legal framework for contract farming - was repealed by Parliament in 2021 along with the other two farm laws, so there is currently no dedicated central contract-farming statute in force",
+      "In the absence of that repealed framework, a contract farming arrangement today is governed primarily by ordinary principles of the Indian Contract Act, 1872, together with whatever state-specific APMC Act amendments or standalone contract-farming provisions the relevant state has separately enacted (several states had amended their APMC Acts to permit and register contract farming even before the 2020 central law)",
+      "The Ministry of Agriculture's Model Agriculture Produce and Livestock Contract Farming and Services (Promotion & Facilitation) Act, 2018 remains a non-binding template that states may draw on - it recommended registering contracts with a Registering and Agreement Recording Committee, keeping contract farming outside ordinary APMC market-fee obligations, and a tiered local dispute-resolution mechanism (Sub-Divisional Authority and Appellate Authority) - but it has no force of law unless a state has actually adopted it",
+      "Because the legal landscape varies significantly by state, businesses should first confirm whether the state(s) where the farming will occur have their own contract-farming registration/dispute-resolution provisions (via APMC Act amendments or separate legislation) before assuming any particular procedure applies",
+      "Essential drafting points regardless of jurisdiction: a clear pricing/price-assurance formula (including how quality specifications and grading disputes will be resolved), delivery and quality-acceptance terms, provision for force majeure/crop failure, and an express dispute-resolution clause (arbitration or a named local forum) - since without a dedicated statutory forum, disputes will otherwise default to ordinary civil litigation",
+      "Sponsors should also be careful that the agreement does not purport to transfer, encumber, or create any interest in the farmer's land itself - a core protection that was a central point of the repealed 2020 Act and remains good drafting practice regardless of which framework technically governs the state"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Repeal of the 2020 farm laws (including the Farmers (Empowerment and Protection) Agreement Act) in 2021: settled, well-documented fact",
+      "Current absence of a dedicated central contract-farming statute, with the field reverting to the Indian Contract Act plus state APMC frameworks: consistent with PRS India and Wikipedia summaries at research time - verify the specific state(s) the guide will target for any state-level contract farming provisions before drafting, since this varies considerably state to state and should not be generalised as uniform",
+      "2018 Model Contract Farming Act's registration, market-fee exemption, and tiered dispute-resolution features: confirmed via PRS India and PIB press releases at research time - it is explicitly a non-binding model/template, not an enacted central law, and this distinction must be preserved in the guide",
+      "Recommendation against agreements creating interest in farmer's land: reflects a core protective feature Parliament built into the now-repealed 2020 Act - present as best-practice drafting advice, not as a currently binding statutory requirement"
+    ],
+    "added_on": "2026-09-20"
   }
 ]
