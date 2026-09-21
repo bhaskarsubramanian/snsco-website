@@ -195,5 +195,139 @@
       "Recommendation against agreements creating interest in farmer's land: reflects a core protective feature Parliament built into the now-repealed 2020 Act - present as best-practice drafting advice, not as a currently binding statutory requirement"
     ],
     "added_on": "2026-09-20"
+  },
+  {
+    "id": "consumer-complaint-filing-forum-jurisdiction-guide",
+    "topic_title": "How to File a Consumer Complaint in India: Choosing the Right Forum and Filing Online via e-Daakhil",
+    "angle": "A practical step-by-step guide for a consumer with a grievance against a seller, service provider, builder or insurer, walking through how to identify the correct forum by pecuniary and territorial jurisdiction, what a complaint must contain, and how to file it on the e-Daakhil portal.",
+    "key_points": [
+      "Three-tier structure under the Consumer Protection Act, 2019: District Consumer Disputes Redressal Commission, State Commission, and the National Commission (NCDRC)",
+      "Pecuniary jurisdiction is now based on the value of consideration paid for the goods or services, not the total claim including interest/compensation - District Commission handles claims up to Rs. 50 lakh, State Commission from Rs. 50 lakh to Rs. 2 crore, and National Commission above Rs. 2 crore (figures per the Consumer Protection (Jurisdiction) Rules currently in force - verify exact slabs and any subsequent revision at drafting time)",
+      "Territorial jurisdiction lies where the opposite party resides or carries on business, or where the cause of action wholly or partly arose - and, for the complainant's convenience, also where the complainant resides or personally works for gain",
+      "Limitation: a complaint must be filed within two years from the date the cause of action arises, though delay can be condoned for sufficient cause",
+      "e-Daakhil is the official portal for online filing; both consumers and advocates can register (advocates must provide Bar Council enrolment details), upload the complaint, evidence and pay the fee digitally",
+      "A complaint should set out the parties' details, facts constituting the deficiency in service or unfair trade practice, the relief claimed, and be supported by an affidavit and documentary evidence"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Pecuniary jurisdiction slabs (Rs 50 lakh / Rs 2 crore / above Rs 2 crore) and the shift to 'value of consideration paid' basis: confirmed via SCC Online Blog and JuriGram commentary on the Consumer Protection (Jurisdiction) Rules at research time - re-verify against the current official notification when drafting, since these thresholds have been amended before",
+      "Two-year limitation period under Section 69 of the Consumer Protection Act, 2019: well-settled and confirmed",
+      "e-Daakhil portal registration and filing process: confirmed via multiple 2026 step-by-step guides at research time"
+    ],
+    "added_on": "2026-09-21"
+  },
+  {
+    "id": "gst-appeal-commissioner-appeals-apl-01-guide",
+    "topic_title": "How to File a GST Appeal Before the Commissioner (Appeals): Form APL-01, Pre-Deposit and Timelines",
+    "angle": "A practical guide for a taxpayer who has received an adverse GST demand or order at the first (adjudicating authority) level, explaining the first-appeal route to the Commissioner (Appeals) under Section 107 of the CGST Act - distinct from the GST Appellate Tribunal (GSTAT) guide already covered on the site, which deals with the next stage of appeal.",
+    "key_points": [
+      "An appeal against an order of an adjudicating authority lies to the Commissioner (Appeals) under Section 107(1) of the CGST Act, 2017, filed electronically in FORM GST APL-01 within three months of communication of the order (extendable by one further month on sufficient cause shown)",
+      "Mandatory pre-deposit under Section 107(6): the full amount of tax, interest, fine, fee and penalty admitted as due, plus 10% of the remaining disputed tax amount, subject to a cap (verify current cap, reported as Rs. 20 crore at research time, at drafting)",
+      "Once the pre-deposit is made and the appeal is admitted, recovery proceedings for the balance disputed amount are automatically stayed",
+      "The appeal must be verified and accompanied by a certified copy of the decision/order appealed against and relevant supporting documents; a cross-objection can be filed by the respondent within 45 days",
+      "The Commissioner (Appeals) can confirm, modify or annul the order but cannot refer the case back to the adjudicating authority for a fresh decision, and cannot enhance a penalty or fee or demand without giving the appellant a reasonable opportunity of being heard",
+      "A further appeal from the Commissioner (Appeals)'s order lies to the GST Appellate Tribunal (GSTAT) - the next stage, already covered in a separate guide on this site"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Three-month filing window (extendable by one month) and FORM GST APL-01 as the prescribed form: well-settled under Section 107 CGST Act, confirmed via ClearTax, GST portal user manual and Vakilsearch guides at research time",
+      "10% pre-deposit of disputed tax with a monetary cap, and the April 2026 GST portal fix making the pre-deposit percentage field editable: confirmed via multiple 2026 sources at research time - verify the current cap amount and any further portal changes at drafting time",
+      "Commissioner (Appeals) barred from remanding the matter back to the adjudicating authority: confirmed under the proviso to Section 107(11) of the CGST Act"
+    ],
+    "added_on": "2026-09-21"
+  },
+  {
+    "id": "mining-lease-application-mmdr-act-guide",
+    "topic_title": "Applying for a Mining Lease in India: The Process Under the MMDR Act",
+    "angle": "A practical guide for a business seeking to mine minerals in India, walking through the application process to the state government under the Mines and Minerals (Development and Regulation) Act, 1957 and the Mineral Concession Rules - covering major vs minor minerals, the auction-based grant regime for major minerals, and the compliance obligations (mining plan, DMF, environmental/forest clearances) that follow grant.",
+    "key_points": [
+      "Mining of 'major minerals' is governed by the MMDR Act, 1957 (as substantially amended in 2015 and thereafter) and is granted primarily through competitive auction by the state government, while 'minor minerals' are regulated by state governments under their own rules",
+      "An application for a mining lease over notified/auctioned blocks proceeds through the state government's e-auction process; areas not yet auctioned may in limited circumstances still involve applications in the prescribed Form under the Mineral Concession Rules, 1960",
+      "Grant of lease requires the area to have been prospected and reserves established, an approved Mining Plan (and Mine Closure Plan) sanctioned by the Indian Bureau of Mines or state authority, and, for coal/lignite, prior Central Government approval",
+      "A mining lessee must contribute to the District Mineral Foundation (DMF) and the National Mineral Exploration Trust (NMET) as prescribed under the Act and Rules",
+      "Environmental Clearance (under the EIA Notification, 2006) and, where forest land is involved, Forest Clearance under the Forest (Conservation) Act are separate, mandatory pre-conditions before mining operations can commence, in addition to the lease itself",
+      "Maximum lease period and renewal norms, and state-specific procedural variations (especially for minor minerals), should be checked against the applicable state's mineral concession rules at drafting time"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Auction-based grant regime for major minerals introduced by the 2015 MMDR Amendment: well-settled, confirmed via Ministry of Mines and PRS Legislative Research sources at research time",
+      "DMF and NMET contribution obligations under Rule 9B of the MMDR framework: confirmed at research time",
+      "Central Government approval requirement for coal/lignite leases: confirmed via Ministry of Mines sources - verify current lease tenure figures and any 2026 amendments to the MMDR Act/Rules at drafting time, since this area has seen frequent legislative change"
+    ],
+    "added_on": "2026-09-21"
+  },
+  {
+    "id": "geographical-indication-registration-india-guide",
+    "topic_title": "Registering a Geographical Indication (GI) in India: Process, Eligibility and Who Can Apply",
+    "angle": "A practical guide for a producer association, farmers' collective, or state agency seeking to protect a regional product (agricultural, food, handicraft or industrial) under the Geographical Indications of Goods (Registration and Protection) Act, 1999 - distinct from the site's existing trademark/patent/copyright/industrial-design guides.",
+    "key_points": [
+      "Only an association of persons, producers, or an organisation/authority representing the interests of producers of the goods (not an individual trader in most cases) can apply for GI registration, by filing Form GI-1A to GI-1D (as applicable) with the Geographical Indications Registry in Chennai",
+      "The application must be filed in triplicate with a statement of how the goods' quality, reputation or characteristics are essentially attributable to their geographical origin, supported by maps, production process details and a list of producers",
+      "Government fee is charged per class (reported as Rs. 5,000 for individuals/associations, Rs. 10,000 for government/other applicants at research time - verify current GI Rules, 2002 fee schedule at drafting), and the process includes examination, a two-month window to respond to objections, advertisement in the GI Journal, and (if unopposed or after opposition is resolved) entry in the GI Register",
+      "The full registration process typically takes many months to a couple of years depending on objections and the examiner's queries",
+      "A registered GI is valid for 10 years from the date of registration and can be renewed indefinitely for further 10-year periods on payment of the renewal fee",
+      "Registration confers the right to exclude others from using the GI on goods not originating in the defined region, and authorised users (registered separately from the GI itself) can use the GI logo/tag; unauthorised use can attract infringement action"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Applicant eligibility restricted to associations/producer bodies rather than individuals: confirmed under Section 11 of the GI Act, 1999 at research time",
+      "Forms GI-1A-GI-1D, Chennai registry, two-month objection response window, 10-year validity and renewal: confirmed via IP India's official registration-process page and S.S. Rana & Co. fee schedule at research time - verify current fee amounts against the GI Rules, 2002 (as amended) at drafting time",
+      "Typical processing timeline (12-24 months) is an approximation from practitioner sources, not a statutory deadline - present as indicative only"
+    ],
+    "added_on": "2026-09-21"
+  },
+  {
+    "id": "related-party-transactions-section-188-guide",
+    "topic_title": "Related Party Transactions Under Section 188: When Your Company Needs Board or Shareholder Approval",
+    "angle": "A practical compliance guide for company directors and CFOs on identifying a 'related party transaction' under Section 188 of the Companies Act, 2013, and navigating the board- and shareholder-approval thresholds - a distinct governance/compliance topic not covered by the site's existing Section 447 (director fraud liability) or NCLT oppression-and-mismanagement guides.",
+    "key_points": [
+      "Section 188 covers specified transactions (sale/purchase of goods or property, leasing of property, availing/rendering of services, appointment of agents, and certain appointments to office or place of profit) between a company and its 'related parties' as defined in Section 2(76)",
+      "All covered related-party transactions require prior Board approval by resolution passed at a duly convened Board meeting - approval by circular resolution is not permitted, and an interested director must not be present or vote on that agenda item",
+      "Beyond Board approval, transactions exceeding the materiality thresholds prescribed under Rule 15 of the Companies (Meetings of Board and its Powers) Rules, 2014 (e.g., a percentage of annual turnover or net worth for sale/purchase of goods, property, leasing, etc.) additionally require prior approval of shareholders by an ordinary or special resolution, with related-party shareholders barred from voting on the resolution",
+      "For listed companies, SEBI's LODR Regulations impose materiality thresholds and audit-committee approval requirements for related-party transactions that are separate from, and often stricter than, the Companies Act thresholds",
+      "A contract or arrangement entered into without the required Board or shareholder approval is voidable at the Board's option, and any director or employee who authorised it may be required to indemnify the company for any resulting loss and can face a penalty",
+      "Certain transactions in the 'ordinary course of business' and made on an 'arm's length basis' are exempt from the shareholder-approval requirement, though not from disclosure and Board-approval obligations - correctly characterising a transaction as arm's length/ordinary course is often the crux of practical disputes"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 188 scope, mandatory Board approval with interested-director recusal, and voidability for non-compliance: well-settled, confirmed via iPleaders, TaxGuru and CAIRR commentary at research time",
+      "Rule 15 materiality thresholds triggering shareholder approval: confirmed at research time - verify exact current percentage/turnover figures against the Companies (Meetings of Board and its Powers) Rules, 2014 (as amended) at drafting time, since these thresholds have been revised before",
+      "Penalty range (reported as Rs. 25,000 to Rs. 5,00,000) should be re-verified against the current Section 188 penalty provision at drafting time"
+    ],
+    "added_on": "2026-09-21"
+  },
+  {
+    "id": "retrenchment-compensation-industrial-relations-code-guide",
+    "topic_title": "Retrenching an Employee in India: Notice, Compensation and Process Under the Industrial Relations Code",
+    "angle": "A practical guide for an employer needing to retrench workers (as distinct from disciplinary termination or resignation), explaining the notice and compensation requirements that were under Section 25F of the Industrial Disputes Act, 1947 and now sit in the Industrial Relations Code, 2020 following the four Labour Codes coming into force on 21 November 2025 - a distinct, process-focused companion to the site's existing broad 'India's New Labour Codes' overview article.",
+    "key_points": [
+      "'Retrenchment' is termination of a workman's service for reasons other than disciplinary punishment (e.g., surplus staff, business reasons) - it does not cover voluntary resignation, retirement, or non-renewal of a fixed-term contract on expiry",
+      "A workman in continuous service for not less than one year cannot be retrenched until given one month's written notice (or wages in lieu), payment of retrenchment compensation equal to 15 days' average pay for every completed year of continuous service (or part exceeding six months), and notice to the appropriate Government in the prescribed manner",
+      "References to the old Section 25F of the Industrial Disputes Act are now to be read as the corresponding provision of the Industrial Relations Code, 2020, which came into force along with the other three Labour Codes on 21 November 2025",
+      "For industrial establishments employing 300 or more workers (a threshold raised from the earlier 100-worker cap under the old law), prior permission of the appropriate Government is additionally required before retrenchment, layoff or closure under the Code's Chapter on special provisions",
+      "'Last come, first go' (retrenching the most recently hired workman in a category first) is the general principle employers are expected to follow absent a contrary agreement, though it is not an absolute rule in all circumstances",
+      "A retrenched workman has re-employment preference if the employer proposes to take on workers again within a prescribed period, and failure to follow the mandatory notice/compensation/permission requirements can expose the employer to reinstatement and back-wages claims"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 25F requirements (one month notice/wages in lieu, 15 days' average pay per completed year, government notice) carried forward into the Industrial Relations Code, 2020: confirmed via multiple 2026 practitioner sources at research time",
+      "300-worker threshold for the prior-permission requirement under the new Code (up from 100 under the old Industrial Disputes Act): commonly reported figure - verify the exact current threshold and whether any state-specific variation applies at drafting time, since states have historically set differing thresholds via amendment",
+      "21 November 2025 commencement date for the four Labour Codes: confirmed, consistent with the site's existing labour-codes coverage"
+    ],
+    "added_on": "2026-09-21"
+  },
+  {
+    "id": "npa-classification-challenge-borrower-guide",
+    "topic_title": "How Banks Classify a Loan as an NPA — and How Borrowers Can Challenge a Wrongful Classification",
+    "angle": "A practical guide for a borrower whose account has been tagged as a Non-Performing Asset, explaining RBI's 90-day IRAC classification rule, the procedural safeguards a bank must follow, and the legal remedies available before and after a SARFAESI notice - a distinct topic from the site's existing SARFAESI Section 13(2) response guide, focused on contesting the NPA tag itself rather than responding to enforcement.",
+    "key_points": [
+      "Under RBI's Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), an account is classified as an NPA when interest or principal remains overdue for more than 90 days, with classification treated as valid once made on or after the 90th day of continuing irregularity",
+      "RBI's fair practices expectations require banks to follow their Board-approved recovery policy, including adequate notice/intimation to the borrower, before and around NPA classification - though classification itself is a prudential/accounting determination, not a quasi-judicial order requiring a personal hearing at that stage",
+      "A borrower who believes classification was premature or procedurally flawed (e.g., the 90-day overdue period was wrongly computed, or payments were misapplied) can raise this directly with the bank's grievance/nodal officer and, if unresolved, escalate to the Banking Ombudsman under the RBI Integrated Ombudsman Scheme",
+      "Once a Section 13(2) SARFAESI demand notice follows an NPA classification, a borrower who disputes the classification or the measures taken under Section 13(4) can file a Securitisation Application under Section 17 of the SARFAESI Act before the Debts Recovery Tribunal",
+      "Courts have upheld classification made strictly on the 90th day of continuing default as lawful and not 'premature', so a challenge succeeds only by showing an actual computational, procedural or documentary error - not by disputing the 90-day rule itself",
+      "Distinguish NPA classification (an internal prudential tag with credit-reporting consequences) from 'wilful defaulter' classification and from SARFAESI enforcement action - each carries different consequences and different procedural safeguards"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "90-day overdue threshold under RBI's IRACP Master Circular/Directions: well-settled and confirmed at research time",
+      "Judicial recognition that classification on the exact 90th day is valid and not premature: confirmed via a 2025-26 Delhi High Court ruling (Canara Bank v. M/s Krishna Enterprises) reported by Verdictum and Taxscan at research time - verify exact citation at drafting time",
+      "Section 17 SARFAESI Act as the remedy once enforcement measures follow: well-settled",
+      "Banking Ombudsman/RBI Integrated Ombudsman Scheme as a grievance-escalation route for classification disputes prior to SARFAESI action: general regulatory framework, confirmed at research time - verify current scheme name/coverage at drafting time"
+    ],
+    "added_on": "2026-09-21"
   }
 ]
