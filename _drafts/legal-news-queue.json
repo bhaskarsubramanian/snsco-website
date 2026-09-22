@@ -152,5 +152,141 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-21"
+  },
+  {
+    "id": "national-seeds-corporation-national-agro-seed-court-deposit-interest-arbitral-award",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "National Seeds Corporation Ltd. v. National Agro Seed Corporation (India)",
+    "citation": "2026 INSC 1017; Civil Appeal arising out of SLP (C) No. 5710 of 2025",
+    "court": "Supreme Court of India",
+    "date": "2026-09-18",
+    "holding_summary": "An arbitral award dated 13 June 2019 directed National Seeds Corporation to pay Rs. 1,46,40,005.02 with 12% annual interest from 26 August 2017; NSC deposited money in court while contesting the award and argued this stopped interest from accruing. A bench of Justices Pamidighantam Sri Narasimha and Alok Aradhe held that a deposit in court is not synonymous with payment and does not by itself discharge the award-debtor's interest liability unless the deposit is unconditional and freely accessible to the award-holder in accordance with Order XXI Rule 1 CPC; since NSC's deposits were not so made, interest continued to run. The Court separately asked the Law Commission of India to examine a uniform framework for where court/tribunal deposits should be kept, how they should earn interest, and how deposits and interest should be adjusted between parties on appeal.",
+    "why_it_matters": "An award-debtor cannot stop post-award interest from running merely by depositing the award amount in court while an appeal or Section 34 challenge is pending — the deposit must be made unconditionally available to the award-holder, or interest keeps accruing regardless of the deposit.",
+    "sources": [
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-958-national-seeds-corporation-ltd-versus-national-agro-seed-corporation-india-550854",
+      "https://rawlaw.in/a-deposit-is-not-synonymous-with-payment-supreme-court-says-court-deposit-does-not-discharge-award-debtor-unless-creditor-can-access-money/",
+      "https://www.livelawbiz.com/arbitration/arbitration-supreme-court-asks-law-commission-to-examine-uniform-framework-for-award-deposits-in-appeals-550809"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "isds-khemka-food-products-trademark-jurisdiction-commercial-courts-larger-bench",
+    "practice_area": "Intellectual Property",
+    "case_name": "I.S.D.S. Private Limited v. M/s Khemka Food Products Private Limited",
+    "citation": "Supreme Court of India (referred to a larger Bench)",
+    "court": "Supreme Court of India",
+    "date": "2026-09-21",
+    "holding_summary": "Section 134 of the Trade Marks Act, 1999 bars the institution of specified trademark suits before any court inferior to a District Court, yet several High Courts, exercising powers under the Commercial Courts Act, 2015, have notified Courts of Civil Judge (Senior Division) as Commercial Courts for disputes within particular pecuniary limits — including trademark suits. A bench of Justices J.B. Pardiwala and K. Vinod Chandran found an apparent conflict between the two statutory regimes and referred to a larger Bench the question whether a State notification under the Commercial Courts Act can empower a Civil Judge below the District Court to hear trademark infringement suits, so that the law can be applied uniformly across states.",
+    "why_it_matters": "Trademark litigants across India face inconsistent answers, state by state, on whether their infringement suit can validly be heard by a Commercial Court judge below District Court rank — this reference should produce a single, nationwide rule on which forum has jurisdiction.",
+    "sources": [
+      "https://www.livelaw.in/supreme-court/can-civil-judge-notified-as-commercial-court-hear-trademark-infringement-suits-supreme-court-refers-to-larger-bench-551142",
+      "https://www.barandbench.com/news/litigation/can-civil-courts-hear-trademark-suits-supreme-court-refers-issue-to-larger-bench",
+      "https://www.verdictum.in/supreme-court/isds-private-limited-v-ms-khemka-food-products-pvt-ltd-state-notification-commercial-courts-1622446"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "sail-british-marine-maritime-arbitrator-issue-conflict-disqualification",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Steel Authority of India Limited v. British Marine Plc",
+    "citation": "2026:DHC:7953-DB",
+    "court": "Delhi High Court, Division Bench",
+    "date": "2026-09-17",
+    "holding_summary": "SAIL challenged an arbitral award on the ground that its maritime arbitrators, who had ruled on similarly worded clauses in an earlier, unrelated arbitration, were disqualified for 'issue conflict', despite SAIL having known of the arbitrators' dual appointments since 2014 without objecting within the mandatory 15-day period under Section 13 of the Arbitration and Conciliation Act and the applicable maritime arbitration rules. The Delhi High Court held that an arbitrator's prior ruling on a similar clause in another dispute does not, without more, raise justifiable doubts as to independence or impartiality, that rigid conflict rules would cause an unworkable scarcity of qualified arbitrators in specialised fields, and that SAIL had in any event waived its objection by failing to raise it in time.",
+    "why_it_matters": "Parties to specialised (e.g. maritime) arbitrations cannot rely on an arbitrator's prior ruling on a similar contractual clause, standing alone, to disqualify them for bias, and must raise any conflict objection within the statutory window or risk being held to have waived it.",
+    "sources": [
+      "https://www.verdictum.in/delhi-high-court/steel-authority-of-india-limited-v-british-marine-2026dhc7953-db-maritime-arbitrators-clause-1622274",
+      "https://www.barandbench.com/news/issue-conflict-not-an-automatic-ground-to-disqualify-arbitrator-delhi-high-court",
+      "https://www.livelawbiz.com/arbitration/maritime-arbitration-needs-domain-experts-prior-similar-case-no-ground-for-disqualification-delhi-high-court-551039"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "national-insurance-thungala-dhana-laxmi-four-layer-motor-policy-nationwide-directions",
+    "practice_area": "Consumer Protection",
+    "case_name": "National Insurance Co. Ltd. v. Smt. Thungala Dhana Laxmi & Ors.",
+    "citation": "2026 INSC 793; Civil Appeal No. 14369 of 2025",
+    "court": "Supreme Court of India",
+    "date": "2026-08-04",
+    "holding_summary": "Examining non-compliance with Section 146 of the Motor Vehicles Act, 1988 (mandatory third-party insurance) and inconsistent motor policy structures across insurers, a bench of Justices Sanjay Karol and Prashant Kumar Mishra held that a comprehensive/package motor policy covers vehicle occupants and cannot be equated with a bare third-party policy. Finding that 56% of vehicles on Indian roads are uninsured, the Court issued nationwide directions including ANPR-linked automatic e-challans for uninsured vehicles, a fuel-insurance linkage pilot, and extension of mandatory third-party cover from one year to four years for new cars and six years for new two-wheelers, with compliance affidavits due from stakeholders and further review hearings to follow.",
+    "why_it_matters": "Vehicle owners will need to budget for a longer, prepaid block of mandatory third-party insurance at the time of purchase, and insurers/regulators face court-mandated enforcement infrastructure (ANPR e-challans, fuel-linkage) aimed at closing India's large uninsured-vehicle gap.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/national-insurance-co-ltd-v-thungala-dhana-laxmi-citation-2026-insc-793-four-layer-policy-structure-motor-insurance-enforcement-1619216",
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-759-national-insurance-co-ltd-v-smt-thungala-dhana-laxmi-544307",
+      "https://theindianlawyer.in/comprehensive-package-motor-insurance-covers-vehicle-occupants-supreme-court-explains-different-types-of-policies/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "kavitha-kuruganti-pepsico-india-plant-variety-farmers-rights-section-39",
+    "practice_area": "Agricultural Industries",
+    "case_name": "Kavitha Kuruganti v. PepsiCo India Holdings Pvt. Ltd.",
+    "citation": "2026 INSC 811; Special Leave Petition (C) Nos. 10320-10321 of 2024",
+    "court": "Supreme Court of India",
+    "date": "2026-08-05",
+    "holding_summary": "PepsiCo held registration for its FL 2027 potato variety under the Protection of Plant Varieties and Farmers' Rights Act, 2001, and had sued Gujarat farmers for infringement; the farmers' rights activist sought revocation of PepsiCo's registration under Section 34(h) of the Act on the ground that suing farmers itself showed the registration was obtained wrongfully. A bench of Justices J.B. Pardiwala and K. Vinod Chandran held that filing suits to protect a validly registered breeder's rights is not, by itself, 'intimidatory or vexatious' conduct justifying revocation under Section 34(h), but clarified that individual farmers sued by a registered-variety holder can still invoke the statutory protection under Section 39(1)(iv) of the Act, which safeguards a farmer's right to save, use, sow, exchange and sell farm produce, including seed of a protected variety.",
+    "why_it_matters": "A plant-breeder's registration under the PPVFR Act survives even if the breeder sues farmers for infringement, but every sued farmer retains an independent statutory shield under Section 39(1)(iv) — the fight over an individual farmer's liability must be decided farmer-by-farmer, not by attacking the seed company's registration itself.",
+    "sources": [
+      "https://www.downtoearth.org.in/agriculture/sc-upholds-pepsicos-potato-variety-registration-says-sued-farmers-can-invoke-statutory-protection",
+      "https://www.verdictum.in/supreme-court/kavitha-kuruganti-v-pepsico-india-holdings-pvt-ltd-2026-insc-811-infringement-farmers-rights-1619412",
+      "https://www.jurishour.in/supreme-court/farmers-claim-protection-use-of-protected-seeds/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "exclusive-capital-satya-prakash-bagla-kanta-agarwala-nclat-oppression-rbi-leverage",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "Satya Prakash Bagla & Anr. v. Kanta Agarwala & Ors. (In the matter of Exclusive Capital Ltd.)",
+    "citation": "2026 TAXSCAN (NCLAT) 211; Comp. App. (AT) No. 161 of 2024",
+    "court": "National Company Law Appellate Tribunal, Principal Bench, New Delhi",
+    "date": "2026-08-25",
+    "holding_summary": "Exclusive Capital Limited, an RBI-registered NBFC, came under appellant Satya Prakash Bagla's control in September 2021; between October 2021 and March 2022 the company took in Rs. 315 crore through Optionally Convertible Debentures against owned funds of only about Rs. 2.34 crore, pushing its leverage ratio to 117.77 against RBI's prescribed ceiling of 7, and the OCDs were later converted into Compulsorily Convertible Preference Shares. The NCLAT rejected the appellants' challenge to the NCLT's interim interference in the company's affairs, holding that the scale of the RBI leverage-norm breach and the debt-to-equity conversion were themselves evidence supporting the oppression-and-mismanagement findings, and remanded the main petition to the NCLT for independent adjudication.",
+    "why_it_matters": "An NBFC's own regulatory (RBI leverage-ratio) violations can independently support a minority shareholder's oppression-and-mismanagement case at the NCLT — promoters cannot dismiss such findings as purely a regulatory compliance matter separate from company-law oppression proceedings.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/315-cr-ocd-against-234-cr-owned-funds-nclat-upholds-oppression-findings-over-massive-rbi-leverage-norm-breach-read-order-1450927",
+      "https://taxguru.in/company-law/nclat-upholds-oppression-mismanagement-findings-exclusive-capital-nbfc-dispute.html",
+      "https://ibclaw.in/exclusive-capital-ltd-and-ors-vs-kanta-agarwala-and-anr-nclat-principal-bench-new-delhi/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "anup-vikal-state-maharashtra-posh-icc-threshold-rejection-appealable-section-18",
+    "practice_area": "Employment & Labour",
+    "case_name": "Anup Vikal & Ors. v. State of Maharashtra & Ors.",
+    "citation": "WP-7430 of 2026 (with connected petitions)",
+    "court": "Bombay High Court",
+    "date": "2026-08-21",
+    "holding_summary": "An Internal Committee, on a POSH complaint filed by an employee in October 2023, communicated that the allegations did not contain a 'sexual element' and therefore fell outside its jurisdiction; the Industrial Court later went further and set aside the IC's communication on merits, remanding the complaint for a fresh inquiry. The Bombay High Court held that an IC's threshold determination that a complaint lacks a sexual element and warrants no inquiry is itself a 'recommendation' under Section 13(2) of the POSH Act and is therefore appealable under Section 18, upheld the appeal's maintainability on that basis, but set aside the Industrial Court's own merits findings and remanded the matter with directions to decide only whether the complaint contains an element of sexual harassment.",
+    "why_it_matters": "An employee whose sexual harassment complaint is summarily rejected at the threshold by an Internal Committee is not left without recourse — that threshold rejection itself can be appealed under Section 18 of the POSH Act, rather than requiring a fresh complaint or writ petition.",
+    "sources": [
+      "https://www.verdictum.in/bombay-high-court/anup-vikal-v-state-of-maharashtra-wp-7430-of-2026-iccs-threshold-rejection-of-sexual-harassment-posh-act-1620456",
+      "https://www.livelaw.in/high-court/bombay-high-court/posh-act-icc-decline-sexual-harassment-complaint-at-threshold-appealable-546823",
+      "https://rawlaw.in/bombay-high-court-holds-iccs-threshold-rejection-of-posh-complaint-appealable-sets-aside-industrial-courts-merits-decision-and-remands-appeal-for-fresh-hearing/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "cg-tollway-union-india-gst-bot-toll-collection-rights-consideration",
+    "practice_area": "Infrastructure & PPP",
+    "case_name": "CG Tollway Ltd. v. Union of India",
+    "citation": "Rajasthan High Court judgment under Supreme Court appeal (notice issued 3 September 2026)",
+    "court": "Rajasthan High Court; on appeal before the Supreme Court of India",
+    "date": "2026-05-22",
+    "holding_summary": "CG Tollway, a BOT concessionaire operating a national highway stretch, contested a GST demand exceeding Rs. 16.36 crore on the ground that its right to collect toll from road users was not 'consideration' for the construction services it rendered to NHAI. A Division Bench of the Rajasthan High Court held that the concessionaire had received commercially valuable rights (the toll-collection right) in place of direct monetary payment, that the arrangement bore the characteristics of a barter transaction, and upheld the GST demand with interest and penalty as taxable consideration for works-contract services. CG Tollway has appealed to the Supreme Court, which issued notice and an interim stay application on 3 September 2026 without expressing any view on the merits.",
+    "why_it_matters": "BOT/HAM concessionaires and their lenders across the highway, airport, port and mining PPP sectors face a live risk that toll or other collection rights granted under a concession agreement could be treated as taxable GST consideration for the underlying construction — a Supreme Court ruling either way will directly affect how such projects are bid, financed and priced.",
+    "sources": [
+      "https://www.mondaq.com/india/sales-taxes-vat-gst/1805798/gst-impact-on-highway-bot-toll-concessions-an-overview-of-rajasthan-hcs-ruling",
+      "https://www.jurishour.in/gst/notice-in-gst-dispute-bot-toll-projects/",
+      "https://www.jurishour.in/gst/toll-collection-rights-gst-consideration/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-22"
   }
 ]

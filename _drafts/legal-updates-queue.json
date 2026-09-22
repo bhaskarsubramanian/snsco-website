@@ -80,5 +80,138 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-09-21"
+  },
+  {
+    "id": "telangana-hc-adv-industrial-services-gst-refund-itc-appellate-order-operative",
+    "practice_area": "Tax Litigation",
+    "case_name": "ADV Industrial Services Pvt. Ltd. v. Union of India & Ors.",
+    "citation": "Telangana High Court",
+    "court": "Telangana High Court",
+    "date": "2026-09-14",
+    "holding_summary": "The GST refund authority declined to release a Rs. 19.33 crore ITC refund that an appellate authority had already sanctioned, on the ground that the Department intended to challenge the appellate order. The Telangana High Court held that an appellate order remains operative unless stayed, modified or set aside, that merely proposing or subsequently filing an appeal does not suspend it, and that Section 54(11) of the CGST Act lets a refund be withheld only where the Commissioner forms an opinion — after giving the taxpayer a hearing — that release is likely to adversely affect revenue because of malfeasance or fraud, not merely because the Department disagrees with the appellate order.",
+    "why_it_matters": "Taxpayers who win a GST refund at the first appellate stage cannot be made to wait indefinitely merely because the Department says it plans to appeal — the refund authority must actually invoke Section 54(11)'s malfeasance/fraud test, with a hearing, or release the money.",
+    "sources": [
+      "https://www.livelawbiz.com/gst-vat-cst/gst-refund-cannot-be-rejected-merely-because-department-plans-to-challenge-appellate-order-telangana-high-court-550718",
+      "https://www.jurishour.in/gst/gst-refund-be-denied-merely-appeal/",
+      "https://taxo.online/latest-news/14-09-2026consequential-refund-cannot-be-denied-merely-because-department-proposes-to-challenge-appellate-order-telangana-high-court/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "jcb-india-krishna-auto-riders-anonymous-parties-trademark-false-arrest-injunction",
+    "practice_area": "Intellectual Property",
+    "case_name": "JCB India Ltd. v. Anonymous Persons/Entities & Anr. (arising from dispute with Krishna Auto Riders Pvt. Ltd.)",
+    "citation": "Delhi High Court",
+    "court": "Delhi High Court",
+    "date": "2026-09-15",
+    "holding_summary": "After JCB India's dealership dispute with Krishna Auto Riders Pvt. Ltd. (KARPL) was referred to arbitration, anonymous online accounts allegedly linked to KARPL began using JCB's name, logos and other brand identifiers, and circulated videos and Instagram reels falsely claiming two JCB India officers had been arrested. Justice Jyoti Singh found JCB had established a prima facie case and that the balance of convenience favoured relief, granted an ex parte ad interim injunction restraining the anonymous parties from using JCB's marks and logos in a manner suggesting affiliation, and directed Google and Meta to take down the offending videos and reels.",
+    "why_it_matters": "Brand owners facing anonymous online accounts that misuse their trademarks and spread false claims tied to an underlying commercial dispute can secure fast ex parte injunctive relief plus platform-level takedown directions against Google and Meta, without first identifying the individuals behind the accounts.",
+    "sources": [
+      "https://www.livelawbiz.com/trademark/delhi-high-court-restrains-former-jcb-dealer-from-using-jcb-marks-logos-after-dealership-expiry-551030"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "payu-visa-banks-irf-delhi-hc-rbi-mediation-escrow-status-quo",
+    "practice_area": "Banking & Finance",
+    "case_name": "PayU Payments Pvt. Ltd. v. Visa Worldwide Pte. Ltd., Yes Bank, ICICI Bank & Ors.",
+    "citation": "Delhi High Court",
+    "court": "Delhi High Court",
+    "date": "2026-09-14",
+    "holding_summary": "PayU challenged acquiring banks' and Visa's deductions aggregating Rs. 68.82 crore from its settlement amounts as Interchange Reimbursement Fee (IRF), arising from a dispute over merchant category code classification, and questioned the validity of Visa's private IRF compliance mechanism under Section 24 of the Payment and Settlement Systems Act, 2007. Justice Subramonium Prasad directed the Reserve Bank of India to nominate a senior payments-sector officer to mediate (not adjudicate) the dispute within 30 days, ordered status quo on past disputed transactions, restrained further deductions from PayU's settlements during mediation, and barred Visa from issuing final IRF determinations on the disputed claims pending the process; the matter was listed for further hearing on 27 October 2026.",
+    "why_it_matters": "Payment aggregators facing unilateral interchange-fee deductions by card networks and acquiring banks now have a judicial template for freezing further deductions and securing RBI-facilitated mediation before the dispute is finally determined, rather than having to accept the network's own private compliance mechanism as final.",
+    "sources": [
+      "https://www.business-standard.com/india-news/delhi-hc-asks-rbi-to-mediate-payu-banks-visa-row-over-merchant-codes-126091501282_1.html",
+      "https://www.barandbench.com/news/delhi-high-court-asks-rbi-to-mediate-payus-dispute-with-banks-and-visa-over-merchant-codes",
+      "https://www.livelawbiz.com/high-court/delhi-high-court/delhi-high-court-asks-reserve-bank-of-india-mediate-payu-payments-dispute-over-deductions-interchange-reimbursement-fee-550124"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "aptel-siwana-solar-hppc-herc-tariff-ppa-binding-rate",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "Haryana Power Purchase Centre v. Siwana Solar Power Projects Ltd. (and connected petition)",
+    "citation": "Appellate Tribunal for Electricity",
+    "court": "Appellate Tribunal for Electricity",
+    "date": "2026-09-18",
+    "holding_summary": "Siwana Solar Power Projects, operating a 5 MW solar plant in Bhiwani, Haryana under a February 2014 Power Purchase Agreement, obtained a Haryana Electricity Regulatory Commission order in May 2026 directing HPPC to pay a higher tariff of Rs. 6.44/kWh; HPPC appealed. A bench of Officiating Chairperson Seema Gupta and Judicial Member Virender Bhat set aside HERC's May 2026 order and held Rs. 5.68/kWh — the rate fixed in the original PPA — to be the binding tariff between the parties, relieving HPPC from paying the higher rate and associated differential amounts with interest.",
+    "why_it_matters": "Discoms and renewable generators disputing a tariff revision should scrutinise whether a state regulator's enhanced rate is actually supported by the underlying PPA terms — APTEL will enforce the contractually agreed tariff over a regulator's own revised figure where the PPA itself does not justify the increase.",
+    "sources": [
+      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/",
+      "https://www.mercomindia.com/aptel-rejects-solar-developers-claim-for-higher-tariff",
+      "https://www.pandwsolar.com/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "rajesh-kumar-union-india-arbitral-fees-section-38-no-waiver-indigent",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Rajesh Kumar v. Union of India & Ors.",
+    "citation": "W.P.(C) 13882/2026",
+    "court": "Delhi High Court",
+    "date": "2026-09-21",
+    "holding_summary": "After an arbitrator was appointed under Section 11 of the Arbitration and Conciliation Act, 1996 through the Delhi International Arbitration Centre, the arbitral proceedings were terminated because the petitioner could not pay the DIAC's fees; the petitioner sought a judicial waiver or deferment of arbitral fees on grounds of financial incapacity, and a direction to frame a support mechanism for indigent claimants. The Delhi High Court dismissed the petitions, holding that Section 38 of the Arbitration and Conciliation Act does not contemplate any exception for a party's financial incapacity, that the statutory framework permits suspension or termination of proceedings when the required deposit is unpaid without carving out an indigence exception, and that creating financial-support mechanisms for indigent arbitration parties is a policy matter for the legislature, not the courts.",
+    "why_it_matters": "A claimant or counter-claimant who cannot afford an arbitral tribunal's fees has no judicial recourse to a fee waiver or deferment under the current law — arbitral proceedings can lawfully terminate for non-payment regardless of the party's financial capacity, until Parliament legislates otherwise.",
+    "sources": [
+      "https://advocategandhi.com/indigent-claimants-allege-that-arbitral-fees-bar-access-to-justice-delhi-high-court-holds-section-38-does-not-permit-waiver-for-financial-inability/",
+      "https://www.livelawbiz.com/arbitration/financial-hardship-not-a-ground-for-exemption-from-paying-arbitral-fees-delhi-high-court-551207"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "haryana-rera-bptp-park-spacio-pre-possession-maintenance-refund-unfair-trade-practice",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "[Homebuyer] v. BPTP Ltd. (Park Spacio, Sector 37D, Gurugram)",
+    "citation": "Haryana Real Estate Regulatory Authority, Gurugram Bench",
+    "court": "Haryana Real Estate Regulatory Authority (Gurugram)",
+    "date": "2026-07-03",
+    "holding_summary": "BPTP had collected Rs. 1,16,545 in maintenance charges from a homebuyer in its Park Spacio project before handing over physical possession, and had withheld possession despite full payment of the sale consideration; the builder-buyer agreement contained no clause authorising advance maintenance collection. The Gurugram bench of the Haryana RERA ordered BPTP to refund the full amount with 11% annual interest from the date of collection, awarded Rs. 1 lakh for mental agony and harassment plus Rs. 50,000 in litigation costs, and held that a promoter cannot make pre-possession maintenance payment a precondition for handing over a unit, characterising BPTP's conduct as an unfair trade practice.",
+    "why_it_matters": "Homebuyers asked to pay maintenance charges before they receive possession — with no such clause in their builder-buyer agreement — have a clear RERA precedent to recover the amount with interest, plus compensation, rather than treating the payment as a valid precondition to possession.",
+    "sources": [
+      "https://constrofacilitator.com/haryana-rera-directs-bptp-to-refund-maintenance-charges/",
+      "https://www.thefinancialworld.com/gurugram-rera-holds-bptps-conduct-an-unfair-trade-practice-for-withholding-flat-possession-awards-buyer-%E2%82%B91-lakh-for-mental-agony/",
+      "https://www.thefinancialworld.com/hrera-orders-bptp-to-pay-11-interest-on-ifms-to-homebuyer/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "sharan-bihari-agarwal-mk-gupta-food-adulteration-central-food-laboratory-right",
+    "practice_area": "Food Safety (FSSAI)",
+    "case_name": "Sharan Bihari Agarwal & Ors. v. M.K. Gupta",
+    "citation": "2026:MPHC-JBP:41541",
+    "court": "Madhya Pradesh High Court, Jabalpur Bench",
+    "date": "2026-06-15",
+    "holding_summary": "A Food Inspector had seized coriander powder from a train pantry car in 2004 on suspicion of adulteration; the accused were prosecuted under the Prevention of Food Adulteration Act, 1954 but were never informed of their statutory right under Section 13(2) of the Act to have the counterpart sample independently analysed by the Central Food Laboratory. Justice Vivek Agarwal held that Section 13(2) confers a valuable, substantive right on an accused whose exercise depends on being informed of it, that failure to so inform vitiates the prosecution, and invoked Section 482 CrPC to quash the criminal case and set aside the charges.",
+    "why_it_matters": "A food adulteration prosecution can be quashed outright if the accused was never told of the statutory right to get the sample independently tested at the Central Food Laboratory — prosecuting authorities must build this notice into their procedure or risk losing the case regardless of the sample's actual contents.",
+    "sources": [
+      "https://www.livelaw.in/high-court/madhya-pradesh-high-court/food-adulteration-act-section-132-accused-right-sample-testing-central-lab-538380",
+      "https://www.mondaq.com/india/white-collar-crime-anti-corruption-fraud/1806688/quashing-of-food-adulteration-prosecution-for-want-of-specific-allegations-and-non-compliance-with-section-132-the-madhya-pradesh-high-court-ruling-in-sharan-bihari-agarwal-v-mk-gupta",
+      "https://lawbeat.in/news-updates/food-adulteration-case-cannot-continue-without-compliance-of-statutory-safeguards-mp-high-court-1604299"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "singla-traders-state-haryana-food-safety-officer-no-power-seize-machinery",
+    "practice_area": "Food Safety (FSSAI)",
+    "case_name": "M/s Singla Traders v. State of Haryana & Ors.",
+    "citation": "Punjab and Haryana High Court",
+    "court": "Punjab and Haryana High Court",
+    "date": "2026-04-16",
+    "holding_summary": "A Food Safety Officer in Kaithal seized plant and machinery worth about Rs. 17.20 lakh from Singla Traders, a milk-products manufacturer, on 14 November 2025; the firm challenged the seizure by writ petition. Justice Jagmohan Bansal held that Food Safety Officers acting under Sections 33-42 of the Food Safety and Standards Act, 2006 have no power to seize plant and machinery — such power vests solely in a court, exercisable after conviction, or with a Designated Officer following the Act's precise statutory protocol — and quashed the seizure.",
+    "why_it_matters": "Food business operators facing seizure of their processing equipment by a Food Safety Officer (rather than through a court or the statutorily prescribed Designated Officer process) have a clear precedent to have the seizure quashed as exceeding the officer's statutory authority.",
+    "sources": [
+      "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-food-safety-officer-cannot-seize-plant-machinery-under-food-safety-act-such-power-vests-with-court-531370",
+      "https://www.mondaq.com/india/food-and-drugs-law/1778708/interpreting-penal-provisions-strictly-high-court-ruling-on-plant-machinery-seizure-under-fssai-act",
+      "https://supremetoday.ai/p-h-hc-fsso-no-power-seize-machinery-fss-act-20260423030"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
   }
 ]
