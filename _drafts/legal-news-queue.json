@@ -1,22 +1,5 @@
 [
   {
-    "id": "aayush-agarwal-epic-yarns-nclat-section-12a-three-phase-withdrawal",
-    "practice_area": "IBC & Insolvency",
-    "case_name": "Aayush Prashant Agarwal v. Uma Exports Ltd. & Klass Insolvency Resolution Professionals Pvt. Ltd.",
-    "citation": "2026 LLBiz NCLAT 338; I.A. No. 5601 of 2026 in Company Appeal (AT) (Insolvency) No. 1366 of 2024",
-    "court": "National Company Law Appellate Tribunal, Principal Bench, New Delhi",
-    "date": "2026-08-24",
-    "holding_summary": "Ruling on an appeal by the suspended director of Epic Yarns Private Limited (admitted into CIRP on an application by operational creditor Uma Exports Limited, with Klass Insolvency Resolution Professionals appointed IRP), the NCLAT set out a three-phase withdrawal framework under Section 12A of the IBC as substituted by the IBC (Amendment) Act, 2026. Withdrawal is barred outright before the Committee of Creditors is constituted, permitted only with 90% CoC voting-share approval after CoC constitution and before the Resolution Professional issues the Form G invitation for resolution plans, and permanently barred once Form G has been issued, regardless of any settlement.",
-    "why_it_matters": "Corporate debtors and creditors negotiating a settlement after a CIRP has commenced must now time their withdrawal application precisely around CoC constitution and the Form G invitation — missing either window closes off the settlement-exit route entirely under the tightened 2026 regime.",
-    "sources": [
-      "https://ibclaw.in/nclat-allows-irp-to-seek-withdrawal-of-cirp-under-section-12a-of-ibc-after-settlement-post-admission/",
-      "https://www.livelawbiz.com/ibc/post-2026-ibc-amendment-cirp-withdrawal-barred-before-coc-formation-or-after-plan-invitation-nclat-548683",
-      "https://www.sansalegal.com/post/nclat-confirms-cirp-withdrawal-barred-before-coc-constitution-and-after-form-g-invitation-under-ibc"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-19"
-  },
-  {
     "id": "toyota-alphard-tech-square-transborder-reputation",
     "practice_area": "Intellectual Property",
     "case_name": "Toyota Jidosha Kabushiki Kaisha v. Tech Square Engineering Pvt. Ltd. & Anr.",
@@ -154,23 +137,6 @@
     "added_on": "2026-09-21"
   },
   {
-    "id": "national-seeds-corporation-national-agro-seed-court-deposit-interest-arbitral-award",
-    "practice_area": "Arbitration & Dispute Resolution",
-    "case_name": "National Seeds Corporation Ltd. v. National Agro Seed Corporation (India)",
-    "citation": "2026 INSC 1017; Civil Appeal arising out of SLP (C) No. 5710 of 2025",
-    "court": "Supreme Court of India",
-    "date": "2026-09-18",
-    "holding_summary": "An arbitral award dated 13 June 2019 directed National Seeds Corporation to pay Rs. 1,46,40,005.02 with 12% annual interest from 26 August 2017; NSC deposited money in court while contesting the award and argued this stopped interest from accruing. A bench of Justices Pamidighantam Sri Narasimha and Alok Aradhe held that a deposit in court is not synonymous with payment and does not by itself discharge the award-debtor's interest liability unless the deposit is unconditional and freely accessible to the award-holder in accordance with Order XXI Rule 1 CPC; since NSC's deposits were not so made, interest continued to run. The Court separately asked the Law Commission of India to examine a uniform framework for where court/tribunal deposits should be kept, how they should earn interest, and how deposits and interest should be adjusted between parties on appeal.",
-    "why_it_matters": "An award-debtor cannot stop post-award interest from running merely by depositing the award amount in court while an appeal or Section 34 challenge is pending — the deposit must be made unconditionally available to the award-holder, or interest keeps accruing regardless of the deposit.",
-    "sources": [
-      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-958-national-seeds-corporation-ltd-versus-national-agro-seed-corporation-india-550854",
-      "https://rawlaw.in/a-deposit-is-not-synonymous-with-payment-supreme-court-says-court-deposit-does-not-discharge-award-debtor-unless-creditor-can-access-money/",
-      "https://www.livelawbiz.com/arbitration/arbitration-supreme-court-asks-law-commission-to-examine-uniform-framework-for-award-deposits-in-appeals-550809"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-22"
-  },
-  {
     "id": "isds-khemka-food-products-trademark-jurisdiction-commercial-courts-larger-bench",
     "practice_area": "Intellectual Property",
     "case_name": "I.S.D.S. Private Limited v. M/s Khemka Food Products Private Limited",
@@ -188,23 +154,6 @@
     "added_on": "2026-09-22"
   },
   {
-    "id": "sail-british-marine-maritime-arbitrator-issue-conflict-disqualification",
-    "practice_area": "Arbitration & Dispute Resolution",
-    "case_name": "Steel Authority of India Limited v. British Marine Plc",
-    "citation": "2026:DHC:7953-DB",
-    "court": "Delhi High Court, Division Bench",
-    "date": "2026-09-17",
-    "holding_summary": "SAIL challenged an arbitral award on the ground that its maritime arbitrators, who had ruled on similarly worded clauses in an earlier, unrelated arbitration, were disqualified for 'issue conflict', despite SAIL having known of the arbitrators' dual appointments since 2014 without objecting within the mandatory 15-day period under Section 13 of the Arbitration and Conciliation Act and the applicable maritime arbitration rules. The Delhi High Court held that an arbitrator's prior ruling on a similar clause in another dispute does not, without more, raise justifiable doubts as to independence or impartiality, that rigid conflict rules would cause an unworkable scarcity of qualified arbitrators in specialised fields, and that SAIL had in any event waived its objection by failing to raise it in time.",
-    "why_it_matters": "Parties to specialised (e.g. maritime) arbitrations cannot rely on an arbitrator's prior ruling on a similar contractual clause, standing alone, to disqualify them for bias, and must raise any conflict objection within the statutory window or risk being held to have waived it.",
-    "sources": [
-      "https://www.verdictum.in/delhi-high-court/steel-authority-of-india-limited-v-british-marine-2026dhc7953-db-maritime-arbitrators-clause-1622274",
-      "https://www.barandbench.com/news/issue-conflict-not-an-automatic-ground-to-disqualify-arbitrator-delhi-high-court",
-      "https://www.livelawbiz.com/arbitration/maritime-arbitration-needs-domain-experts-prior-similar-case-no-ground-for-disqualification-delhi-high-court-551039"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-22"
-  },
-  {
     "id": "national-insurance-thungala-dhana-laxmi-four-layer-motor-policy-nationwide-directions",
     "practice_area": "Consumer Protection",
     "case_name": "National Insurance Co. Ltd. v. Smt. Thungala Dhana Laxmi & Ors.",
@@ -217,23 +166,6 @@
       "https://www.verdictum.in/supreme-court/national-insurance-co-ltd-v-thungala-dhana-laxmi-citation-2026-insc-793-four-layer-policy-structure-motor-insurance-enforcement-1619216",
       "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-759-national-insurance-co-ltd-v-smt-thungala-dhana-laxmi-544307",
       "https://theindianlawyer.in/comprehensive-package-motor-insurance-covers-vehicle-occupants-supreme-court-explains-different-types-of-policies/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-22"
-  },
-  {
-    "id": "kavitha-kuruganti-pepsico-india-plant-variety-farmers-rights-section-39",
-    "practice_area": "Agricultural Industries",
-    "case_name": "Kavitha Kuruganti v. PepsiCo India Holdings Pvt. Ltd.",
-    "citation": "2026 INSC 811; Special Leave Petition (C) Nos. 10320-10321 of 2024",
-    "court": "Supreme Court of India",
-    "date": "2026-08-05",
-    "holding_summary": "PepsiCo held registration for its FL 2027 potato variety under the Protection of Plant Varieties and Farmers' Rights Act, 2001, and had sued Gujarat farmers for infringement; the farmers' rights activist sought revocation of PepsiCo's registration under Section 34(h) of the Act on the ground that suing farmers itself showed the registration was obtained wrongfully. A bench of Justices J.B. Pardiwala and K. Vinod Chandran held that filing suits to protect a validly registered breeder's rights is not, by itself, 'intimidatory or vexatious' conduct justifying revocation under Section 34(h), but clarified that individual farmers sued by a registered-variety holder can still invoke the statutory protection under Section 39(1)(iv) of the Act, which safeguards a farmer's right to save, use, sow, exchange and sell farm produce, including seed of a protected variety.",
-    "why_it_matters": "A plant-breeder's registration under the PPVFR Act survives even if the breeder sues farmers for infringement, but every sued farmer retains an independent statutory shield under Section 39(1)(iv) — the fight over an individual farmer's liability must be decided farmer-by-farmer, not by attacking the seed company's registration itself.",
-    "sources": [
-      "https://www.downtoearth.org.in/agriculture/sc-upholds-pepsicos-potato-variety-registration-says-sued-farmers-can-invoke-statutory-protection",
-      "https://www.verdictum.in/supreme-court/kavitha-kuruganti-v-pepsico-india-holdings-pvt-ltd-2026-insc-811-infringement-farmers-rights-1619412",
-      "https://www.jurishour.in/supreme-court/farmers-claim-protection-use-of-protected-seeds/"
     ],
     "queued_full_page": true,
     "added_on": "2026-09-22"

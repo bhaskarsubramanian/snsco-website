@@ -213,5 +213,39 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-09-22"
+  },
+  {
+    "id": "nsdc-surya-wires-personal-guarantor-composite-arbitration",
+    "practice_area": "Banking & Finance",
+    "case_name": "National Skill Development Corporation v. Surya Wires Private Limited & Ors.",
+    "citation": "2026 INSC 977",
+    "court": "Supreme Court of India",
+    "date": "2026-09-08",
+    "holding_summary": "NSDC, as implementing agency for the 'Pradhan Mantri Kaushal Kendra' scheme, disbursed loans to Surya Wires Private Limited and Disha Education Society under contemporaneous Loan Agreements and Personal Guarantees executed in December 2016 and August 2017; the personal guarantee itself contained no arbitration clause, but the loan agreement's definitional and miscellaneous clauses deemed all 'Facility Agreements', including personal guarantees, to be part of the principal agreement. A bench of Justices P.S. Narasimha and Alok Aradhe held that this deeming fiction incorporated the loan agreement's arbitration clause into the personal guarantee under Section 7(5) of the Arbitration and Conciliation Act, binding the guarantor to the same arbitral proceedings, and set aside the Delhi High Court and Sole Arbitrator's orders that had deleted the guarantor from the arbitration.",
+    "why_it_matters": "Lenders structuring loan-plus-guarantee documentation as one composite transaction can hold a personal guarantor to arbitration even where the guarantee deed itself contains no arbitration clause, so long as the loan agreement's own terms make the guarantee an integral part of the facility.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/national-skill-development-corporation-v-surya-wires-private-limited-2026-insc-977-guarantor-bound-arbitration-clause-loan-agreement-1621640",
+      "https://rawlaw.in/supreme-court-binds-personal-guarantor-to-arbitration-despite-guarantee-having-no-arbitration-clause-holds-integrated-loan-documents-form-one-composite-transaction-under-section-75/",
+      "https://www.livelawbiz.com/arbitration/personal-guarantor-bound-by-arbitration-clause-in-loan-agreement-where-transaction-is-composite-supreme-court-549336"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "pb-agro-vimal-union-of-india-fssai-territorial-jurisdiction",
+    "practice_area": "Food Safety (FSSAI)",
+    "case_name": "P B Agro LLP v. Union of India & Ors.",
+    "citation": "2026:DHC:7810",
+    "court": "Delhi High Court",
+    "date": "2026-09-14",
+    "holding_summary": "P B Agro LLP, master licensee of the VIMAL brand, filed a writ petition in Delhi after the Assistant Commissioner (Food), FDA Greater Mumbai, issued a show-cause notice under the Food Safety and Standards Act, 2006 to three of its brand ambassadors over an advertising campaign for its Elaichi and Pan Masala products; the petitioner argued Delhi jurisdiction on the basis that it operated from Delhi, paid the ambassadors from Delhi, and that FSSAI and the Central Consumer Protection Authority are headquartered in Delhi. The Delhi High Court dismissed the petition for want of territorial jurisdiction, holding that neither the petitioner's own presence in Delhi nor FSSAI's location there could confer jurisdiction, that mere impleadment of FSSAI without any relief sought against it or action attributable to it does not suffice, and that Maharashtra courts were the appropriate forum under forum conveniens since the impugned notice was issued there.",
+    "why_it_matters": "A food business cannot manufacture Delhi jurisdiction over a state FDA's show-cause notice merely by suing from its Delhi office or naming FSSAI as a party — the challenge must be filed where the notice was actually issued.",
+    "sources": [
+      "https://www.verdictum.in/delhi-high-court/p-b-agro-llp-v-union-of-india-2026dhc7810-fssais-presence-in-delhi-vimal-pan-masala-elaichi-endorsers-1622014",
+      "https://www.scconline.com/blog/post/2026/09/16/delhi-hc-vimal-elaichi-fda-notice-ajay-devgn-shah-rukh-khan-tiger-shroff/",
+      "https://lawchakra.in/high-court/delhi-high-court-territorial-jurisdiction-fssai-vimal-elaichi-fda-mumbai/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-22"
   }
 ]

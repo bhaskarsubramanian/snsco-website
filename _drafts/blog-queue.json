@@ -197,25 +197,6 @@
     "added_on": "2026-09-20"
   },
   {
-    "id": "consumer-complaint-filing-forum-jurisdiction-guide",
-    "topic_title": "How to File a Consumer Complaint in India: Choosing the Right Forum and Filing Online via e-Daakhil",
-    "angle": "A practical step-by-step guide for a consumer with a grievance against a seller, service provider, builder or insurer, walking through how to identify the correct forum by pecuniary and territorial jurisdiction, what a complaint must contain, and how to file it on the e-Daakhil portal.",
-    "key_points": [
-      "Three-tier structure under the Consumer Protection Act, 2019: District Consumer Disputes Redressal Commission, State Commission, and the National Commission (NCDRC)",
-      "Pecuniary jurisdiction is now based on the value of consideration paid for the goods or services, not the total claim including interest/compensation - District Commission handles claims up to Rs. 50 lakh, State Commission from Rs. 50 lakh to Rs. 2 crore, and National Commission above Rs. 2 crore (figures per the Consumer Protection (Jurisdiction) Rules currently in force - verify exact slabs and any subsequent revision at drafting time)",
-      "Territorial jurisdiction lies where the opposite party resides or carries on business, or where the cause of action wholly or partly arose - and, for the complainant's convenience, also where the complainant resides or personally works for gain",
-      "Limitation: a complaint must be filed within two years from the date the cause of action arises, though delay can be condoned for sufficient cause",
-      "e-Daakhil is the official portal for online filing; both consumers and advocates can register (advocates must provide Bar Council enrolment details), upload the complaint, evidence and pay the fee digitally",
-      "A complaint should set out the parties' details, facts constituting the deficiency in service or unfair trade practice, the relief claimed, and be supported by an affidavit and documentary evidence"
-    ],
-    "facts_to_verify_or_confirmed": [
-      "Pecuniary jurisdiction slabs (Rs 50 lakh / Rs 2 crore / above Rs 2 crore) and the shift to 'value of consideration paid' basis: confirmed via SCC Online Blog and JuriGram commentary on the Consumer Protection (Jurisdiction) Rules at research time - re-verify against the current official notification when drafting, since these thresholds have been amended before",
-      "Two-year limitation period under Section 69 of the Consumer Protection Act, 2019: well-settled and confirmed",
-      "e-Daakhil portal registration and filing process: confirmed via multiple 2026 step-by-step guides at research time"
-    ],
-    "added_on": "2026-09-21"
-  },
-  {
     "id": "gst-appeal-commissioner-appeals-apl-01-guide",
     "topic_title": "How to File a GST Appeal Before the Commissioner (Appeals): Form APL-01, Pre-Deposit and Timelines",
     "angle": "A practical guide for a taxpayer who has received an adverse GST demand or order at the first (adjudicating authority) level, explaining the first-appeal route to the Commissioner (Appeals) under Section 107 of the CGST Act - distinct from the GST Appellate Tribunal (GSTAT) guide already covered on the site, which deals with the next stage of appeal.",
@@ -401,7 +382,7 @@
     ],
     "facts_to_verify_or_confirmed": [
       "Rules' effective date (23 July 2020), scope covering both marketplace and inventory models, and seller/marketplace disclosure obligations: well-settled, confirmed via Trilegal, Lexology and official consumerprotection.in sources at research time",
-       "48-hour acknowledgment and one-month redressal timeline for grievance officers: confirmed at research time - re-verify against the current Rules (as they have seen proposed amendments) at drafting time",
+      "48-hour acknowledgment and one-month redressal timeline for grievance officers: confirmed at research time - re-verify against the current Rules (as they have seen proposed amendments) at drafting time",
       "Note that amendments to these Rules have been proposed/discussed since 2021 - confirm whether any amendment has actually been notified and is in force as of drafting time, rather than assuming the 2020 text is unchanged"
     ],
     "added_on": "2026-09-22"
@@ -518,6 +499,26 @@
       "100 kW threshold for green energy open access (down from 1 MW general threshold): confirmed via PIB and industry sources on the Green Energy Open Access Rules at research time",
       "26% equity / 51% consumption captive-status threshold and its CSS/AS exemption: well-settled under the Electricity Rules, confirmed at research time",
       "Charge stack composition (wheeling, CSS, AS, banking/standby): confirmed at research time - note that exact rates are state-specific and change periodically via SERC orders, so present rates as illustrative/state-dependent rather than fixed figures"
+    ],
+    "added_on": "2026-09-22"
+  },
+  {
+    "id": "mediation-act-2023-section-12a-pre-litigation-guide",
+    "topic_title": "Pre-Litigation Mediation in India: The Mediation Act, 2023 and Section 12A of the Commercial Courts Act",
+    "angle": "A practical guide for a prospective commercial plaintiff (or a party served with a mediation notice) explaining when pre-litigation mediation is mandatory before filing suit, how the process actually runs, what happens if a party skips it, and how a settlement reached in mediation is enforced.",
+    "key_points": [
+      "The Mediation Act, 2023 (Act No. 32 of 2023) creates a unified, staged framework for mediation in India, brought into force progressively from September 2023 onward, but pre-institution mediation for commercial disputes of 'specified value' continues to be governed specifically by Section 12A of the Commercial Courts Act, 2015, now read alongside the Mediation Act's enforcement provisions",
+      "Section 12A applies to commercial suits above the 'specified value' threshold (Rs. 3 lakh) and requires a plaintiff who is not seeking any urgent interim relief to first attempt mediation through the prescribed authority before instituting the suit",
+      "The Supreme Court's ruling in Patil Automation v. Rakheja Engineers (2022) held Section 12A mandatory, not directory — a suit filed without first exhausting pre-institution mediation, where no urgent interim relief is genuinely sought, is liable to be rejected under Order VII Rule 11 CPC",
+      "A plaintiff who does seek urgent interim relief can bypass pre-institution mediation, but courts scrutinise whether the urgency plea is genuine or merely a device to dodge Section 12A — a colourable claim for interim relief will not save the suit",
+      "The mediation process itself must ordinarily be completed within three months from the date of the application, extendable by a further two months with the parties' consent, before the plaintiff is free to institute the suit if mediation fails",
+      "A settlement reached in mediation must be reduced to writing and signed by the parties and the mediator; once so recorded, it carries the same status and effect as an arbitral award on agreed terms under Section 30(4) of the Arbitration and Conciliation Act, 1996, making it directly enforceable as a decree rather than merely a private contract"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Mediation Act, 2023 (Act No. 32 of 2023) and its staged commencement from September 2023: confirmed via Wikipedia and multiple practitioner sources at research time",
+      "Section 12A Commercial Courts Act mandatory pre-institution mediation, Rs. 3 lakh specified-value threshold, and the Patil Automation v. Rakheja Engineers Supreme Court ruling making it mandatory: well-settled, confirmed via Maheshwari & Co., Lexology and Legal Service India commentary at research time",
+      "3-month plus 2-month extendable mediation timeline: confirmed via multiple sources at research time - verify current timeline text against the Mediation Act, 2023 and any 2026 procedural amendment referenced by Jus Corpus at research time, since a 2026 Parliament update to the pre-institution mediation framework was flagged but not fully detailed in sources reviewed",
+      "Mediated settlement having the same status as an arbitral award on agreed terms under Section 30(4) of the Arbitration and Conciliation Act: confirmed via Vakilsearch and Legal Service India guides at research time - verify against the exact enforcement provision (Sections 27-28) of the Mediation Act, 2023 at drafting time"
     ],
     "added_on": "2026-09-22"
   }
