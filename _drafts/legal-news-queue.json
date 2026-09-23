@@ -171,23 +171,6 @@
     "added_on": "2026-09-22"
   },
   {
-    "id": "exclusive-capital-satya-prakash-bagla-kanta-agarwala-nclat-oppression-rbi-leverage",
-    "practice_area": "Corporate Law & M&A",
-    "case_name": "Satya Prakash Bagla & Anr. v. Kanta Agarwala & Ors. (In the matter of Exclusive Capital Ltd.)",
-    "citation": "2026 TAXSCAN (NCLAT) 211; Comp. App. (AT) No. 161 of 2024",
-    "court": "National Company Law Appellate Tribunal, Principal Bench, New Delhi",
-    "date": "2026-08-25",
-    "holding_summary": "Exclusive Capital Limited, an RBI-registered NBFC, came under appellant Satya Prakash Bagla's control in September 2021; between October 2021 and March 2022 the company took in Rs. 315 crore through Optionally Convertible Debentures against owned funds of only about Rs. 2.34 crore, pushing its leverage ratio to 117.77 against RBI's prescribed ceiling of 7, and the OCDs were later converted into Compulsorily Convertible Preference Shares. The NCLAT rejected the appellants' challenge to the NCLT's interim interference in the company's affairs, holding that the scale of the RBI leverage-norm breach and the debt-to-equity conversion were themselves evidence supporting the oppression-and-mismanagement findings, and remanded the main petition to the NCLT for independent adjudication.",
-    "why_it_matters": "An NBFC's own regulatory (RBI leverage-ratio) violations can independently support a minority shareholder's oppression-and-mismanagement case at the NCLT — promoters cannot dismiss such findings as purely a regulatory compliance matter separate from company-law oppression proceedings.",
-    "sources": [
-      "https://www.taxscan.in/top-stories/315-cr-ocd-against-234-cr-owned-funds-nclat-upholds-oppression-findings-over-massive-rbi-leverage-norm-breach-read-order-1450927",
-      "https://taxguru.in/company-law/nclat-upholds-oppression-mismanagement-findings-exclusive-capital-nbfc-dispute.html",
-      "https://ibclaw.in/exclusive-capital-ltd-and-ors-vs-kanta-agarwala-and-anr-nclat-principal-bench-new-delhi/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-22"
-  },
-  {
     "id": "anup-vikal-state-maharashtra-posh-icc-threshold-rejection-appealable-section-18",
     "practice_area": "Employment & Labour",
     "case_name": "Anup Vikal & Ors. v. State of Maharashtra & Ors.",
@@ -220,5 +203,41 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-22"
+  },
+  {
+    "id": "arth-micro-finance-shivalik-small-finance-bank-unilateral-arbitrator-non-est",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Arth Micro Finance Private Ltd. & Ors. v. Shivalik Small Finance Bank Ltd.",
+    "citation": "2026 INSC 1014; Civil Appeal No. 13015 of 2026 (arising out of SLP (C) No. 26596 of 2026)",
+    "court": "Supreme Court of India",
+    "date": "2026-09-17",
+    "holding_summary": "Shivalik Small Finance Bank had constituted an arbitral tribunal against Arth Micro Finance and its guarantors, who objected that the tribunal had close links to the bank and that its appointment lacked their proven consent. A Bench of Justices J.B. Pardiwala and K. Vinod Chandran held that an arbitral tribunal's appointment without proven consent of the opposite party, made in the face of a bias objection, is non est in law and renders the initiation of arbitration itself invalid. The Court set aside a High Court order that had dismissed the borrower's challenge on the technical ground of limitation, quashed three coercive interim orders passed by the tribunal, and directed immediate restoration of properties and restitution of funds.",
+    "why_it_matters": "The ruling gives parties facing a tribunal constituted without their proven consent, or amid unaddressed bias objections, a clear route to have the entire arbitration declared void even after interim orders have been passed, and warns institutional claimants against constituting panels unilaterally.",
+    "sources": [
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-963-arth-micro-finance-private-ltd-and-ors-versus-shivalik-small-finance-bank-ltd-551073",
+      "https://www.barandbench.com/news/arbitration-may-rhyme-with-arbitrary-but-arbitral-proceedings-cant-be-arbitrary-supreme-court",
+      "https://taxguru.in/corporate-law/arbitration-initiated-without-consent-held-non-est-law-supreme-court.html",
+      "https://indiankanoon.org/doc/156255483/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "interdigital-transsion-delhi-hc-pro-tem-security-sep-frand",
+    "practice_area": "Intellectual Property",
+    "case_name": "InterDigital Patent Holdings Inc. & Anr. v. Shenzhen Transsion Holdings Co. Ltd. & Ors.",
+    "citation": "CS(COMM) 1045/2025",
+    "court": "Delhi High Court",
+    "date": "2026-07-01",
+    "holding_summary": "InterDigital sued Transsion (which sells phones under the Itel, Infinix and Tecno brands) for infringing its Standard Essential Patents covering 3G, 4G, 5G and HEVC video-coding technology, alleging unlicensed use since at least 2016 despite licensing talks since 2019. In a 100-page order — the longest of the Delhi High Court's SEP ad-interim orders — Justice Tushar Rao Gedela directed Transsion to deposit pro tem security with the Registrar General, holding that the threshold for ordering pro tem security is significantly lower than for an interim injunction: prima facie essentiality and validity of the SEPs suffice, and production of comparable licences is not a mandatory precondition.",
+    "why_it_matters": "The order gives SEP holders a lower evidentiary bar to secure pro tem security from unlicensed implementers early in litigation, without first conclusively proving validity, essentiality or infringement, shaping FRAND litigation strategy in India's growing SEP docket.",
+    "sources": [
+      "https://spicyip.com/2026/07/interdigital-v-transsion-a-comparatively-better-pro-tem-order.html",
+      "https://www.iam-media.com/article/interdigital-prevails-delhi-high-court-orders-pro-tem-security-measures",
+      "https://ipfray.com/delhi-high-court-orders-transsion-to-pay-pro-tem-security-to-interdigital/",
+      "https://www.livelawbiz.com/patent/delhi-high-court-orders-itel-infinix-tecno-phones-maker-to-deposit-pro-tem-security-in-interdigital-patent-suit-540003"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-23"
   }
 ]

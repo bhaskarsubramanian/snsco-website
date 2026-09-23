@@ -215,23 +215,6 @@
     "added_on": "2026-09-22"
   },
   {
-    "id": "nsdc-surya-wires-personal-guarantor-composite-arbitration",
-    "practice_area": "Banking & Finance",
-    "case_name": "National Skill Development Corporation v. Surya Wires Private Limited & Ors.",
-    "citation": "2026 INSC 977",
-    "court": "Supreme Court of India",
-    "date": "2026-09-08",
-    "holding_summary": "NSDC, as implementing agency for the 'Pradhan Mantri Kaushal Kendra' scheme, disbursed loans to Surya Wires Private Limited and Disha Education Society under contemporaneous Loan Agreements and Personal Guarantees executed in December 2016 and August 2017; the personal guarantee itself contained no arbitration clause, but the loan agreement's definitional and miscellaneous clauses deemed all 'Facility Agreements', including personal guarantees, to be part of the principal agreement. A bench of Justices P.S. Narasimha and Alok Aradhe held that this deeming fiction incorporated the loan agreement's arbitration clause into the personal guarantee under Section 7(5) of the Arbitration and Conciliation Act, binding the guarantor to the same arbitral proceedings, and set aside the Delhi High Court and Sole Arbitrator's orders that had deleted the guarantor from the arbitration.",
-    "why_it_matters": "Lenders structuring loan-plus-guarantee documentation as one composite transaction can hold a personal guarantor to arbitration even where the guarantee deed itself contains no arbitration clause, so long as the loan agreement's own terms make the guarantee an integral part of the facility.",
-    "sources": [
-      "https://www.verdictum.in/supreme-court/national-skill-development-corporation-v-surya-wires-private-limited-2026-insc-977-guarantor-bound-arbitration-clause-loan-agreement-1621640",
-      "https://rawlaw.in/supreme-court-binds-personal-guarantor-to-arbitration-despite-guarantee-having-no-arbitration-clause-holds-integrated-loan-documents-form-one-composite-transaction-under-section-75/",
-      "https://www.livelawbiz.com/arbitration/personal-guarantor-bound-by-arbitration-clause-in-loan-agreement-where-transaction-is-composite-supreme-court-549336"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-09-22"
-  },
-  {
     "id": "pb-agro-vimal-union-of-india-fssai-territorial-jurisdiction",
     "practice_area": "Food Safety (FSSAI)",
     "case_name": "P B Agro LLP v. Union of India & Ors.",
@@ -247,5 +230,58 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-09-22"
+  },
+  {
+    "id": "tata-capital-neel-motors-bombay-hc-section-96-4-guarantor-moratorium-retroactive",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Tata Capital Financial Services Ltd. v. Neel Motors LLP & Ors.",
+    "citation": "Commercial Arbitration Petition No. 620 of 2021",
+    "court": "Bombay High Court",
+    "date": "2026-07-24",
+    "holding_summary": "After Neel Motors LLP went into liquidation, Tata Capital sought to proceed with arbitration against the individual personal guarantors, who argued that pending Section 95 insolvency applications against them triggered an interim moratorium under Section 96 of the IBC. Justice Somasekhar Sundaresan held that Section 96(4), inserted with effect from 26 May 2026 to exclude personal guarantors to corporate debtors from the interim moratorium, applies retroactively to Section 95 applications that were already pending as of that date, since the phrase 'where an application is filed' covers anything filed and still under adjudication on the effective date.",
+    "why_it_matters": "Lenders holding personal guarantees can resume or continue arbitration and recovery action against guarantors even where a Section 95 insolvency application predating the May 2026 amendment is still pending, closing off a moratorium that guarantors had used to stall recovery.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/ibc-amendment-excluding-personal-guarantors-from-moratorium-applies-to-pending-insolvency-cases-bombay-hc-allows-tata-capital-arbitration-1449897",
+      "https://ibclaw.in/bombay-high-court-clarifies-section-964-ibc-moratorium-scope-for-personal-guarantors-in-arbitration-petition/",
+      "https://rawlaw.in/personal-guarantors-cannot-use-pending-insolvency-petitions-to-stall-bank-recovery-bombay-high-court-makes-new-section-964-ibc-rule-applicable-to-pending-cases/",
+      "https://www.jurishour.in/company-pmla/ibc-s-96-4-amendment-pending-proceedings/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "rukhmani-keshwani-raju-agarbatti-works-delhi-hc-ecommerce-territorial-jurisdiction",
+    "practice_area": "Intellectual Property",
+    "case_name": "Rukhmani Keshwani (Trading as Vishwas Agarbatti Store) v. Raju Agarbatti Works & Anr.",
+    "citation": "FAO (COMM) 99/2024",
+    "court": "Delhi High Court, Division Bench",
+    "date": "2026-07-01",
+    "holding_summary": "The plaintiff, claiming prior use since 1995 of the 'RADHEY KRISHNA' trademark and trade dress for agarbattis, had her infringement suit returned by a Trial Court for want of territorial jurisdiction since both parties operated from Rajasthan. A Division Bench of Justices C. Hari Shankar and Om Prakash Shukla restored the suit, holding that the Rajasthan-based defendants' IndiaMart listings (complete with GST details) that were accessible and enabled purchase from Delhi amounted to purposeful availment and targeting of the Delhi market, sufficient to confer territorial jurisdiction — mere accessibility of a website is not enough, but purposeful digital targeting is.",
+    "why_it_matters": "Plaintiffs in IP suits can found territorial jurisdiction in a forum based on a defendant's online marketplace listings and evidence of actual purchases there, even where neither party is physically based in that forum, expanding the reach of e-commerce-era jurisdiction doctrine.",
+    "sources": [
+      "https://www.legalserviceindia.com/Legal-Articles/delhi-high-court-territorial-jurisdiction-trademark-copyright-ecommerce-rukhmani-keshwani-2026/",
+      "https://www.legalserviceindia.com/Legal-Articles/territorial-jurisdiction-digital-era-rukmani-keshwani-raju-agarbatti-works-delhi-high-court-2026/",
+      "https://www.livelawbiz.com/amp/digests/monthly-digests/livelawbiz-ipr-monthly-digest-july-2026-544039"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-23"
+  },
+  {
+    "id": "spherion-solutions-delhi-hc-rule-86a-blocked-itc-not-pre-deposit",
+    "practice_area": "Tax Litigation",
+    "case_name": "Spherion Solutions Private Limited v. Additional Commissioner Adjudication CGST Delhi North & Ors.",
+    "citation": "W.P.(C) 3418/2026",
+    "court": "Delhi High Court",
+    "date": "2026-09-03",
+    "holding_summary": "Ruling on a challenge to a GST DRC-07 summary demand order, a Bench of Justices Anil Kshetarpal and Shail Jain held that input tax credit blocked under Rule 86A of the CGST Rules remains legally unavailable for debit and so cannot be treated as 'payment' satisfying the mandatory pre-deposit for a GST appeal under Section 107(6) of the CGST Act — blocking merely immobilises credit, whereas Section 107(6) requires actual appropriation. The Court allowed the petitioner to file its statutory appeal within four weeks without rejection on limitation, and clarified the pre-deposit need not come solely from the Electronic Cash Ledger but may be met from any lawfully available, debitable amount in the Electronic Credit Ledger.",
+    "why_it_matters": "Taxpayers whose ITC has been blocked under Rule 86A cannot use that blocked credit to satisfy the GST appeal pre-deposit and must arrange payment from the cash ledger or other available credit, though genuine appeals will not be time-barred purely because of an ITC block.",
+    "sources": [
+      "https://taxguru.in/goods-and-service-tax/blocked-itc-cannot-satisfy-gst-appeal-pre-deposit-rule-86a-delhi-hc.html",
+      "https://www.taxscan.in/top-stories/itc-blocked-under-rule-86a-cannot-be-treated-as-gst-appeal-pre-deposit-unless-restriction-is-removed-or-modified-delhi-hc-1451114",
+      "https://rawlaw.in/delhi-high-court-allows-appeal-but-rejects-blocked-itc-as-pre-deposit-holds-rule-86a-credit-cannot-satisfy-section-1076-until-restriction-is-removed-or-modified/",
+      "https://indiankanoon.org/doc/99098448/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-23"
   }
 ]
