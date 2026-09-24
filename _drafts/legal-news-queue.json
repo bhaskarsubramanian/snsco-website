@@ -121,5 +121,22 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-24"
+  },
+  {
+    "id": "dharma-productions-bombay-hc-gst-cinematographic-film-not-it-software",
+    "practice_area": "Tax Litigation",
+    "case_name": "Dharma Productions Pvt. Ltd. & Anr. v. State of Maharashtra & Ors.",
+    "citation": "2026:BHC-OS:20584-DB",
+    "court": "Bombay High Court",
+    "date": "2026-09-10",
+    "holding_summary": "Dharma Productions and Dharmatic Entertainment challenged GST demands totalling over ₹79.7 crore for FY 2017-18 to 2020-21, where tax authorities had classified their licensing of copyright in cinematographic films as licensing of 'information technology software' under SAC 998340, attracting 18% GST. A Division Bench of Justices M.S. Karnik and Sandesh D. Patil held that a cinematographic film — a passive audio-visual work incapable of execution, manipulation or interactivity — cannot satisfy the statutory definition of 'information technology software' merely because it is delivered digitally, and quashed the assessment and appellate orders.",
+    "why_it_matters": "Confirms that the mode of digital delivery cannot itself reclassify content for GST purposes, protecting film producers, OTT licensors and other digital-content businesses from being taxed at software rates or under software classification codes for licensing audio-visual works.",
+    "sources": [
+      "https://www.verdictum.in/bombay-high-court/dharma-productions-pvt-ltd-v-state-of-maharashtra-2026bhc-os20584-db-information-technology-software-films-copyright-1622400",
+      "https://www.medianama.com/2026/09/223-dharma-productions-gst-case-bombay-hc/",
+      "https://www.livelawbiz.com/gst/high-court/digital-film-delivery-does-not-make-it-it-software-bombay-hc-quashes-gst-demand-against-dharma-productions-550820"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-24"
   }
 ]

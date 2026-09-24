@@ -190,5 +190,98 @@
       "Scope-limitation on later expanding the inquiry's issues or period once initiated: confirmed via the same EPFO guidelines coverage at research time — verify no subsequent EPFO circular has modified these 2020 guidelines before drafting"
     ],
     "added_on": "2026-09-24"
+  },
+  {
+    "id": "indrp-domain-name-dispute-resolution-guide",
+    "topic_title": "Resolving a .IN Domain Name Dispute: The INDRP Process Explained",
+    "angle": "A practical guide for trademark owners and domain registrants on filing or defending an INDRP complaint against cybersquatting or bad-faith .in domain registrations.",
+    "key_points": [
+      "Legal basis: NIXI's .IN Domain Name Dispute Resolution Policy (INDRP), modelled on ICANN's UDRP",
+      "Three elements a complainant must prove: identical/confusingly similar mark, no rights or legitimate interest of the registrant, registration or use in bad faith",
+      "Procedure: complaint to the .IN Registry, forwarded to respondent within 3 working days, arbitrator appointed by NIXI within 5 days",
+      "Timeline: arbitrator must render an award within 60 days of commencement, extendable by up to 30 days by reasoned order",
+      "Remedies: cancellation or transfer of the domain name; governed procedurally by the Arbitration and Conciliation Act, 1996",
+      "How this differs from a trademark infringement suit in civil court, and when to use each"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "INDRP timelines (3 working days forwarding, 5 days arbitrator appointment, 60+30 day award window): confirmed via registry.in, ssrana.in, thelaw.institute",
+      "INDRP proceedings conducted under the Arbitration and Conciliation Act, 1996 framework: confirmed via multiple sources"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "drt-debt-recovery-tribunal-process-guide",
+    "topic_title": "Recovering a Debt Through the DRT: How the RDDBFI Act Process Works",
+    "angle": "A guide for banks, NBFCs and borrowers on when a lender can approach the Debts Recovery Tribunal, the pecuniary threshold, and how DRT proceedings differ from a SARFAESI sale.",
+    "key_points": [
+      "DRTs are constituted under the Recovery of Debts and Bankruptcy Act, 1993 (RDDBFI Act) for banks and financial institutions to recover dues outside ordinary civil courts",
+      "Pecuniary threshold: banks/FIs can file an Original Application before a DRT only for debts of ₹20 lakh or above (raised from ₹10 lakh by a 2018 notification; no upper cap)",
+      "Procedure: filing an Original Application, written statement, evidence and final Recovery Certificate/order, followed by execution via the Recovery Officer",
+      "How DRT proceedings interact with a parallel SARFAESI Section 13(2)/13(4) enforcement action against the same secured asset",
+      "Appeal route to the Debts Recovery Appellate Tribunal (DRAT) and the pre-deposit requirement",
+      "Borrower defences commonly raised before a DRT and where they typically fail"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "₹20 lakh pecuniary threshold effective from Notification S.O. 4312(E) dated 6 September 2018: confirmed; underlying Section 1(4) text still literally says ten lakh because the change was made by notification, not re-enactment",
+      "No upper monetary cap on DRT jurisdiction: confirmed"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "dark-patterns-consumer-protection-ecommerce-compliance-guide",
+    "topic_title": "Dark Patterns Under Consumer Protection Law: A Compliance Guide for E-Commerce Businesses",
+    "angle": "Explains what counts as a 'dark pattern' under the 2023 Guidelines and the newly notified Consumer Protection (E-Commerce) (Amendment) Rules, 2026, and what online sellers/marketplaces must do to comply before the rules take effect.",
+    "key_points": [
+      "Dark patterns are deceptive UI/UX designs that manipulate a consumer into a choice they would not otherwise make (e.g., forced continuity, confirm-shaming, false urgency, hidden costs, drip pricing)",
+      "The Consumer Protection (E-Commerce) (Amendment) Rules, 2026 were notified on 9 September 2026 and expressly link E-Commerce Rules compliance to the Guidelines for Prevention and Regulation of Dark Patterns, 2023",
+      "New mandatory yearly self-audit requirement, with a compliance certificate to be prominently displayed on the platform",
+      "Related new requirements: no manipulation of search/ranking results without disclosure, clear labelling of sponsored listings, and disclosure of the lowest price offered in the preceding 30 days during promotional sales",
+      "Effective date and transition planning for e-commerce entities",
+      "Enforcement: role of the Central Consumer Protection Authority (CCPA) and penalties for non-compliance"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Notification date 9 September 2026, rules to come into force 1 January 2027: confirmed via scconline.com, drishtiias.com, azbpartners.com summaries",
+      "Yearly self-audit and certificate display requirement: confirmed via multiple sources",
+      "30-day lowest-price disclosure requirement: confirmed"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "ppirp-pre-packaged-insolvency-msme-guide",
+    "topic_title": "Pre-Packaged Insolvency Resolution (PPIRP): A Faster IBC Route for Stressed MSMEs",
+    "angle": "A practical explainer for MSME promoters and creditors on eligibility, the debtor-in-possession structure, and how PPIRP differs from ordinary CIRP.",
+    "key_points": [
+      "Introduced by the IBC (Amendment) Act, 2021 as Chapter III-A (Sections 54A-54P), available only to corporate debtors classified as MSMEs",
+      "Default threshold: minimum ₹10 lakh, subject to the ceiling notified by the Ministry of Corporate Affairs; debtor must not be barred under Section 29A",
+      "Debtor-in-possession, creditor-in-control model: unlike CIRP, existing management typically continues to run the business under RP oversight",
+      "Eligibility conditions: no PPIRP or completed CIRP in the preceding 3 years, base resolution plan prepared before filing, approval of unrelated financial creditors required before filing",
+      "120-day overall timeline from the pre-packaged insolvency commencement date, materially faster than CIRP's statutory outer limits",
+      "Why PPIRP has seen very low uptake in practice and what founders should weigh before choosing it over CIRP or an informal restructuring"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Default threshold minimum ₹10 lakh as notified by MCA: confirmed via enterslice.com, ibbi.gov.in materials",
+      "120-day timeline from commencement date: confirmed",
+      "3-year cooling-off from prior PPIRP/CIRP: confirmed via lawbhoomi.com and enterslice.com"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "joint-development-agreement-real-estate-tax-guide",
+    "topic_title": "Joint Development Agreements in Real Estate: Structuring, Tax and RERA Compliance",
+    "angle": "A guide for landowners and developers entering a JDA on how to structure the agreement, when capital gains tax is triggered, GST treatment of development rights, and RERA registration obligations for the resulting project.",
+    "key_points": [
+      "What a JDA is: landowner contributes land, developer constructs and typically shares built-up area/revenue with the landowner",
+      "Section 45(5A) of the Income Tax Act: for individual/HUF landowners, capital gains on the transfer of land under a JDA are taxed in the year the completion certificate is issued, not the year of transfer, provided consideration includes a share in the constructed property",
+      "GST: transfer of development rights by the landowner to the developer generally attracts GST under reverse charge on the developer, exempt to the extent of units sold before the completion certificate",
+      "TDS under Section 194-IC: developer must deduct 10% TDS on any cash component paid to a resident landowner under a JDA, with no threshold exemption",
+      "RERA registration obligations that attach to the developer once the JDA project qualifies as a 'real estate project'",
+      "Common drafting pitfalls: revenue-share vs area-share models, possession/handover timelines, indemnity for pre-existing title defects, and what happens on developer default"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 45(5A) capital gains timing rule and its applicability limited to individuals/HUFs: confirmed via cleartax.in, adityabirlacapital.com",
+      "Section 194-IC 10% TDS with no threshold: confirmed",
+      "GST reverse charge on development rights, exemption tied to units sold pre-completion-certificate: confirmed"
+    ],
+    "added_on": "2026-09-24"
   }
 ]

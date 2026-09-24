@@ -162,5 +162,39 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-09-24"
+  },
+  {
+    "id": "manash-ghosh-calcutta-hc-gst-itc-gstr-3b-retrospective-relief",
+    "practice_area": "Tax Litigation",
+    "case_name": "Manash Ghosh v. Assistant Commissioner of Revenue, Baharampur Charge & Ors.",
+    "citation": "WPA 19240 of 2024",
+    "court": "Calcutta High Court",
+    "date": "2026-09-10",
+    "holding_summary": "The petitioner's GSTR-3B returns for April 2018 to March 2019 were filed belatedly but before 30 November 2021, and Input Tax Credit was denied for the delay under a Section 73 adjudication order confirming a ₹1.18 crore GST demand. Justice Smita Das De quashed the order, holding the petitioner entitled to the benefit of the retrospectively inserted Section 16(5) of the CGST Act, and directed the Joint Commissioner to re-adjudicate within six weeks after verifying the actual GSTR-3B filing date.",
+    "why_it_matters": "Taxpayers who filed delayed GSTR-3B returns before the extended cut-off can invoke Section 16(5)'s retrospective relief to recover ITC that was earlier denied purely for late filing, without needing a fresh writ for every assessment year.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/calcutta-hc-quashes-118-crore-gst-demand-grants-retrospective-itc-relief-for-delay-in-filing-gstr-3b-read-order-1451459",
+      "https://taxguru.in/goods-and-service-tax/delayed-gstr-3b-filing-cannot-bar-itc-without-section-16-5-review.html",
+      "https://blog.saginfotech.com/calcutta-hc-sets-aside-1-18-crore-gst-demand-provides-itc-relief-delay-filing-gstr-3b"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "eco-green-buildtech-vikartan-infrastructure-delhi-hc-conciliation-confidentiality",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Eco Green Buildtech Pvt. Ltd. v. Vikartan Infrastructure Pvt. Ltd.",
+    "citation": "",
+    "court": "Delhi High Court",
+    "date": "2026-09-10",
+    "holding_summary": "In a Section 34 challenge arising from a Greater Noida construction project dispute, Justice Avneesh Jhingan set aside an arbitral award (and additional award) after finding the tribunal had relied on admissions made during a failed conciliation to decide the arbitration, holding that conciliation proceedings remain confidential even once settlement talks fail. The Court also held that an arbitrator's personal experience of trade practice cannot substitute a party's burden to prove actual loss, setting aside a ₹1.04 crore award for idling of rented resources for want of evidence of rent actually paid.",
+    "why_it_matters": "Parties who move from conciliation into arbitration on the same dispute cannot have concessions or positions taken during the failed conciliation used against them, and tribunals cannot estimate damages like idling costs or lost profit from expertise alone without documentary proof.",
+    "sources": [
+      "https://www.livelawbiz.com/arbitration/delhi-high-court-says-failed-conciliation-talks-cannot-be-used-to-decide-arbitration-claims-549700",
+      "https://rawlaw.in/delhi-high-court-sets-aside-arbitration-award-over-reliance-on-conciliation-admissions-and-unsupported-damages-holds-arbitrators-personal-experience-cannot-substitute-proof-of-actual-loss/",
+      "https://indiankanoon.org/doc/182734292/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
   }
 ]
