@@ -1,1 +1,166 @@
-[]
+[
+  {
+    "id": "in-vogue-creations-sbi-lost-title-documents-compensation",
+    "practice_area": "Banking & Finance",
+    "case_name": "In Vogue Creations v. State Bank of India",
+    "citation": "2026:BHC-AS:36037-DB",
+    "court": "Bombay High Court, Division Bench",
+    "date": "2026-09-02",
+    "holding_summary": "Acting Chief Justice Ravindra V. Ghuge and Justice Gautam A. Ankhad allowed a writ petition directing SBI to compensate a borrower at Rs. 5,000 per day for the bank's admitted loss of original title documents deposited as loan security, running from 1 December 2023 until the bank provides certified copies and reconstructs the title record. The Court held that a borrower who has fully repaid a loan may legitimately expect the bank to preserve and return the original title documents, and that the borrower's delay in demanding their return does not absolve the bank of that preservation duty.",
+    "why_it_matters": "Banks that lose a borrower's original title documents face an open-ended daily compensation liability that runs until the record is actually reconstructed, giving borrowers a strong incentive and remedy where a bank cannot produce deposited security documents on full repayment.",
+    "sources": [
+      "https://www.verdictum.in/bombay-high-court/in-vogue-creations-v-state-bank-of-india-2026bhc-as36037-db-security-documents-bank-loan-1621392",
+      "https://www.legalserviceindia.com/Legal-Articles/bombay-high-court-sbi-lost-title-deeds-5000-per-day-2026/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "srinibas-goradia-arvind-kumar-sahu-workman-dominant-nature-test",
+    "practice_area": "Employment & Labour",
+    "case_name": "Srinibas Goradia v. Arvind Kumar Sahu & Ors.",
+    "citation": "2025 INSC 1467",
+    "court": "Supreme Court of India",
+    "date": "2025-12-17",
+    "holding_summary": "A cashier designated 'Front Office Manager' and later 'Executive' was terminated, and the High Court reversed the Labour Court's reinstatement award on the basis of his managerial designation. Justices Prashant Kumar Mishra and N.V. Anjaria restored the Labour Court's award, holding that the 'dominant nature of duties' test — not the employer's chosen designation — determines workman status under Section 2(s) of the Industrial Disputes Act, 1947, and rejecting the employer's bare assertion of supervisory capacity for lack of evidence of any independent authority to hire, fire, or sanction leave.",
+    "why_it_matters": "Employers cannot defeat a termination challenge merely by giving an employee a managerial-sounding title — courts will look at the substance of the duties actually performed, so job titles alone offer no protection against a workman-status finding.",
+    "sources": [
+      "https://www.verdictum.in/court-updates/supreme-court/srinibas-goradia-v-arvind-kumar-sahu-ors-2025-insc-1467-orissa-high-court-1601955",
+      "https://esploralegal.com/managerial-workman-status-a-critical-analysis-of-the-srinibas-goradia-v-arvind-kumar-sahu-judgment-and-the-modern-application-of-the-dominant-nature-of-duties-test/",
+      "https://www.advocatekhoj.com/library/judgments/announcement.php?WID=19825"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "siddharth-agro-state-maharashtra-fssai-licence-suspension-revoke",
+    "practice_area": "Food Safety (FSSAI)",
+    "case_name": "Siddharth Agro v. State of Maharashtra & Ors.",
+    "citation": "Bombay High Court",
+    "court": "Bombay High Court, Division Bench",
+    "date": "2026-09-09",
+    "holding_summary": "After the FDA, Pune suspended Siddharth Agro's food licences following a surprise inspection on 15 July 2026, a Division Bench of Acting Chief Justice Ravindra V. Ghuge and Justice Gautam A. Ankhad held that the FDA must promptly revoke a licence suspension or cancellation once the establishment fixes the deficiencies identified, warning that prolonged suspensions cause financial losses to businesses, employees and supply chains and can lead to unnecessary litigation. The Court directed a fresh inspection.",
+    "why_it_matters": "Food business operators who rectify identified deficiencies have a clear judicial basis to demand prompt revocation of a licence suspension, rather than being left to litigate an open-ended suspension while compliance is no longer in question.",
+    "sources": [
+      "https://www.livelaw.in/high-court/bombay-high-court/maharashtra-fda-revoke-food-license-suspension-after-compliance-548963",
+      "https://www.freepressjournal.in/mumbai/bombay-hc-directs-fda-to-promptly-revoke-licence-suspensions-once-deficiencies-are-rectified",
+      "https://www.business-standard.com/industry/news/food-safety-law-can-authorities-suspend-a-restaurant-licence-immediately-126091100545_1.html"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "jsw-hydro-energy-cerc-aptel-idc-equity-infusion",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "JSW Hydro Energy Limited v. Central Electricity Regulatory Commission",
+    "citation": "Appellate Tribunal for Electricity",
+    "court": "Appellate Tribunal for Electricity",
+    "date": "2026-09-18",
+    "holding_summary": "APTEL set aside a CERC order dated 17 March 2022 that had disallowed notional Interest During Construction (IDC) on equity infused beyond the normative 30% during the construction phase of JSW Hydro Energy's project, allowing the company's IDC claim. The Tribunal held that carrying cost on the claim should be reckoned from the date of filing of the true-up petition until its eventual adjustment, and remanded the matter to CERC to verify audited data and quantify the admissible amount.",
+    "why_it_matters": "Generating companies that infuse equity above the normative 30% threshold during construction have a tribunal-endorsed basis to claim carrying cost on notional IDC from the true-up filing date, even though CERC must still verify and quantify the actual recoverable amount on remand.",
+    "sources": [
+      "https://www.whalesbook.com/corporate-news/English/energy/JSW-Energy-Wins-APTEL-Relief-In-Tariff-IDC-Dispute/6aae506df2017017ae6de671",
+      "https://lapaasvoice.com/jsw-hydro-aptel-idc-claim"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "piccadily-hotels-pail-herc-aptel-captive-status-denied",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "Piccadily Agro Industries Ltd. & Piccadily Hotels Pvt. Ltd. v. Haryana Electricity Regulatory Commission",
+    "citation": "Appellate Tribunal for Electricity",
+    "court": "Appellate Tribunal for Electricity",
+    "date": "2026-09-17",
+    "holding_summary": "Judicial Member Virender Bhat and Technical Member Ajay Talegaonkar upheld HERC's denial of captive power status to Piccadily Hotels Private Limited (PHPL) under a 2020 power-banking arrangement with Piccadily Agro Industries Ltd.'s (PAIL) 17 MW biomass co-generation plant in Karnal. Applying the Supreme Court's Chhattisgarh State Power Distribution Co. precedent, APTEL held that PHPL's 14.57% equity stake in PAIL fell below the mandatory 26% ownership threshold for captive status, upholding notices requiring restoration of banking benefits worth Rs. 68,03,220.",
+    "why_it_matters": "Group captive power arrangements structured through inter-company power-banking agreements must still independently satisfy the 26% equity ownership threshold for each consuming entity — a banking arrangement between affiliated companies does not substitute for the statutory ownership test.",
+    "sources": [
+      "https://solarquarter.com/2026/09/18/aptel-upholds-denial-of-captive-power-status-over-26-ownership-rule/",
+      "https://www.mercomindia.com/aptel-rejects-captive-power-status-over-26-ownership-requirement",
+      "https://www.energetica-india.net/news/aptel-clarifies-captive-power-plant-compliance-rules-and-cross-subsidy-dispute"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "sobha-ltd-karnataka-rera-promoter-delay-compensation-title-issue",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "Sobha Ltd. & Anr. v. Karnataka Real Estate Regulatory Authority & Anr.",
+    "citation": "(2026) ibclaw.in 475 REAT",
+    "court": "Karnataka Real Estate Appellate Tribunal",
+    "date": "2026-09-10",
+    "holding_summary": "In an appeal arising from allottee complaints over possession delay, the Karnataka Real Estate Appellate Tribunal held that a promoter cannot absolve itself of liability to pay delay compensation to an allottee merely on the ground that a landowner is internally responsible for a title issue that caused the delay. The Tribunal held that a homebuyer is protected under the RERA framework regardless of which party — the promoter or the landowner — is internally responsible for resolving the title dispute.",
+    "why_it_matters": "Allottees pursuing delay compensation need not get drawn into a promoter's internal dispute with its landowner over who is at fault for a title problem — the promoter remains directly liable to the homebuyer under RERA irrespective of that internal allocation of responsibility.",
+    "sources": [
+      "https://ibclaw.in/sobha-ltd-and-anr-vs-karnataka-real-estate-regulatory-authority-and-anr-karnataka-reat/",
+      "https://www.livelawbiz.com/rera/livelawbiz-rera-cases-weekly-digest-14th-september-19th-september-2026-551028"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "welspring-universal-cenvat-refund-cestat-order-ignored",
+    "practice_area": "Tax Litigation",
+    "case_name": "Welspring Universal v. Additional Commissioner of Central GST",
+    "citation": "Delhi High Court",
+    "court": "Delhi High Court, Division Bench",
+    "date": "2026-09-14",
+    "holding_summary": "Justices Anil Kshetarpal and Shail Jain quashed a demand confirming recovery of a Rs. 76.72 lakh CENVAT credit refund (Order-in-Original dated 24.03.2025, arising from a Show Cause Notice dated 10.12.2019), holding that the Additional Commissioner could not ignore a subsequent CESTAT order that had expressly upheld the petitioner's entitlement to the refund under Rule 5 of the CENVAT Credit Rules, 2004. The Court directed refund of the Rs. 7,67,200 pre-deposit made while filing the CESTAT appeal, together with applicable interest.",
+    "why_it_matters": "An adjudicating authority cannot confirm a recovery demand while disregarding an operative appellate order in the taxpayer's favour on the same refund claim — taxpayers holding a favourable CESTAT or appellate order have a strong basis to have a contrary demand quashed.",
+    "sources": [
+      "https://indiankanoon.org/doc/58359741/",
+      "https://taxguru.in/excise-duty/adjudicating-authority-cannot-ignore-operative-cestat-refund-order-delhi-high-court.html"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "mukesh-goyal-santanu-brahma-aanchal-ispat-nclt-approval-date",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Mukesh Goyal v. CA Santanu Brahma & Anr. (In re: Aanchal Ispat Ltd.)",
+    "citation": "(2026) ibclaw.in 3394 NCLT",
+    "court": "National Company Law Tribunal, Kolkata Bench",
+    "date": "2026-08-25",
+    "holding_summary": "In a dispute over when implementation timelines under an approved resolution plan for Aanchal Ispat Ltd. began to run, the applicant sought a direction that the 'NCLT Approval Date' for commencement and implementation under Clause (oo) of the plan be treated as 11.08.2025, the date the successful resolution applicant's own appeal (limited to observations in the approval order) was filed. The NCLT Kolkata Bench held that a bona fide appellate challenge which in fact impedes implementation — even without a formal stay — can determine the relevant approval date, since the impugned observations created uncertainty over contingent liabilities and affected the applicant's ability to secure financing.",
+    "why_it_matters": "Resolution applicants whose ability to raise financing or proceed with implementation is genuinely impaired by a pending appellate challenge to the approval order — even one limited to specific observations, and even without a formal stay — have a basis to have the plan's implementation clock adjusted accordingly.",
+    "sources": [
+      "https://ibclaw.in/mukesh-goyal-vs-ca-santanu-brahma-and-anr-nclt-kolkata-bench/",
+      "https://nclt.gov.in/gen_pdf.php?filepath=%2FEfile_Document%2Fncltdoc%2Fcasedoc%2F1908134077102023%2F04%2FOrder-Challenge%2F04_order-Challange_004_171447899513224052186630df937af20.pdf"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "ram-lakhan-shukla-hintek-electronics-employment-not-commercial-dispute",
+    "practice_area": "Commercial Litigation",
+    "case_name": "Ram Lakhan Shukla v. Hintek Electronics Private Limited & Anr.",
+    "citation": "RFA(COMM) 47/2025",
+    "court": "Delhi High Court, Division Bench",
+    "date": "2026-08-07",
+    "holding_summary": "Justices Prathiba M. Singh and Vikas Mahajan held that disputes arising from an employment contract — including claims for salary arrears and increments — do not qualify as a 'commercial dispute' under Section 2(c) of the Commercial Courts Act, 2015. The Bench upheld the finding that the underlying dispute between the employee and Hintek Electronics was not commercial in nature, but modified the order below to direct that the plaint be returned for presentation before the appropriate court rather than dismissing the suit outright, since dismissal would have unfairly saddled the litigant with fresh court fees.",
+    "why_it_matters": "Employees and employers should not attempt to litigate salary and increment disputes in the Commercial Division, and a Commercial Court faced with such a suit should return the plaint for filing in the correct forum rather than dismiss it outright, sparing the litigant the cost of starting over from scratch.",
+    "sources": [
+      "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-rules-employment-disputes-cannot-be-characterised-as-commercial-disputes-dismisses-plea-to-bar-civil-suit-311956",
+      "https://lawstreet.co/judiciary/delhi-hc-holds-employment-disputes-cannot-be-treated-as-commercial-disputes-under-commercial-courts-act",
+      "https://www.livelawbiz.com/commercial-court-act/employeremployee-salary-dispute-not-a-commercial-suit-delhi-hc-545087"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "sapphire-land-development-nclat-form-g-coc-approval-liquidation",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "In re: Sapphire Land Development Private Limited",
+    "citation": "National Company Law Appellate Tribunal",
+    "court": "National Company Law Appellate Tribunal",
+    "date": "2026-09-09",
+    "holding_summary": "The NCLAT upheld liquidation of Sapphire Land Development Private Limited after its CIRP period expired without a resolution plan, holding that Section 33(1)(a) of the IBC leaves limited scope to decline liquidation merely because delays were attributable to stakeholder conduct. Examining Section 25(2)(h), the Tribunal held that publication of Form G inviting prospective resolution applicants requires prior approval of the Committee of Creditors on the eligibility criteria to be applied, and that the Resolution Professional could not publish Form G without that approval.",
+    "why_it_matters": "Resolution professionals must secure CoC approval of eligibility criteria before publishing a fresh Form G invitation, and stakeholders cannot resist liquidation after CIRP has run its course by pointing to delays caused by their own or others' conduct during the process.",
+    "sources": [
+      "https://taxguru.in/corporate-law/approved-resolution-plan-cannot-indefinitely-deferred-nclt-orders-liquidation.html",
+      "https://ibclaw.in/nclat-upholds-liquidation-after-5-year-cirp-holds-form-g-cannot-be-published-without-coc-approval/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-24"
+  }
+]

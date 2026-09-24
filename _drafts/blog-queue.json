@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "id": "msme-delayed-payment-msmed-act-section-15-16-guide",
+    "topic_title": "Delayed Payments to MSME Suppliers: Interest Under Section 16 and the MSEFC Route",
+    "angle": "A practical guide for an MSME supplier owed overdue payment by a buyer, and for buyers seeking to understand their exposure, covering the Section 15 payment deadline, the steep Section 16 compound-interest consequence for delay, and the MSEFC conciliation/arbitration route.",
+    "key_points": [
+      "Section 15 of the MSMED Act, 2006 requires a buyer to pay an MSME supplier within the period agreed, and in any event within 45 days from the date of acceptance or deemed acceptance of goods or services",
+      "Section 16 imposes compound interest with monthly rests on delayed payment, calculated at three times the Bank Rate notified by the RBI — a materially higher rate than ordinary commercial interest, intended to deter delay",
+      "The current RBI Bank Rate feeds directly into the applicable interest rate, so the effective statutory rate moves with RBI policy changes rather than being a fixed figure — suppliers and buyers should check the current Bank Rate before calculating exposure",
+      "A supplier can file a reference with the Micro and Small Enterprise Facilitation Council (MSEFC), which first attempts conciliation and, failing that, refers the matter to arbitration, with a target of deciding the reference within 90 days",
+      "Interest under Section 16 accrues automatically by operation of law once payment is delayed beyond the Section 15 period — it does not depend on the buyer having agreed to pay interest in the underlying contract",
+      "Registration as a 'micro' or 'small' enterprise under the Udyam Registration framework is a precondition for a supplier to invoke these protections — a supplier that is not so registered at the time of the transaction cannot claim Section 15/16 protection retroactively for that transaction"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 15's 45-day payment deadline and Section 16's compound interest at three times the RBI Bank Rate: confirmed via SCC Online Blog, LiveLaw law-firm articles and multiple MSME interest calculator tools at research time",
+      "MSEFC conciliation-then-arbitration route with a 90-day target for deciding references: confirmed via multiple practitioner sources at research time",
+      "Udyam registration as a precondition for invoking Section 15/16 protection: well-settled interpretation confirmed via multiple sources — verify against the current MSMED Act text and any 2026 amendment at drafting time"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "company-winding-up-voluntary-compulsory-guide",
+    "topic_title": "Winding Up a Company in India: Voluntary Liquidation Versus the IBC Route",
+    "angle": "A practical guide for directors and shareholders of a solvent or insolvent company considering closure, distinguishing voluntary liquidation under the IBC (for solvent companies) from creditor-driven winding up/liquidation under the IBC's insolvency process, and from the simpler strike-off route already covered on this site for defunct companies with no liabilities.",
+    "key_points": [
+      "Strike-off under Section 248 of the Companies Act (already covered in this site's own guide) is only available to a company that has no assets or liabilities and has been inoperative — it is not a mechanism for winding up a company that still has business, assets or creditors to settle",
+      "Voluntary liquidation of a solvent company is governed by Section 59 of the IBC and the IBBI (Voluntary Liquidation Process) Regulations, 2017 — the company's directors must first make a declaration of solvency, supported by an auditor's report, confirming the company has no debts or will be able to pay its debts in full from the proceeds of asset sale within a specified period, generally not exceeding twelve months from commencement",
+      "Voluntary liquidation requires a special resolution of shareholders (or, where the company owes debt, prior approval of creditors representing two-thirds in value) approving the liquidation and appointing an insolvency professional as liquidator",
+      "Where a company is unable to pay its debts, creditors (or, in limited circumstances, the company itself) can initiate the Corporate Insolvency Resolution Process under the IBC, which may culminate in liquidation under Chapter III of the Code if no resolution plan is approved within the statutory timeline",
+      "The liquidator in either route takes custody of the company's assets, settles claims from creditors in the statutory order of priority under Section 53 (in involuntary liquidation) or a broadly similar waterfall (in voluntary liquidation), and applies for dissolution of the company once the process concludes",
+      "Choosing the wrong route can cost significant time and professional fees — a genuinely solvent company should pursue voluntary liquidation rather than waiting for a creditor to force it into CIRP, since voluntary liquidation is generally faster and keeps the process under the company's own control"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 248 strike-off's limited availability only to companies with no assets/liabilities: consistent with this site's own existing strike-off guide, cross-referenced rather than restated",
+      "Section 59 IBC voluntary liquidation framework, declaration of solvency, and the general 12-month asset-realisation timeline: well-settled, confirmed via IBBI's own Voluntary Liquidation Process Regulations, 2017 and multiple practitioner sources at research time",
+      "Two-thirds creditor-value approval requirement where the company owes debt: confirmed under Section 59(3)(c) of the IBC at research time",
+      "Section 53 priority waterfall applying primarily to involuntary/CIRP-triggered liquidation: settled — note that voluntary liquidation follows a broadly similar but not identical distribution scheme under the Voluntary Liquidation Regulations, and this distinction should be preserved rather than conflated when drafting"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "vigil-mechanism-whistleblower-policy-section-177-guide",
+    "topic_title": "Setting Up a Vigil Mechanism: Section 177 Whistleblower Policy Requirements for Companies",
+    "angle": "A compliance guide for a company determining whether it must establish a vigil mechanism under Section 177 of the Companies Act, and what that mechanism must actually provide for, distinct from this site's existing POSH internal committee and Section 447 director-fraud-liability guides.",
+    "key_points": [
+      "Section 177 of the Companies Act, 2013 requires every listed company, every company that accepts deposits from the public, and every company that has borrowed money from banks and public financial institutions in excess of Rs. 50 crore to establish a vigil mechanism for directors and employees to report genuine concerns",
+      "The vigil mechanism must be established in the manner prescribed by rules made under the Act, and must provide adequate safeguards against victimisation of any director or employee who uses it to raise a protected disclosure",
+      "The mechanism must also provide for direct access to the Chairperson of the Audit Committee in appropriate or exceptional cases — a safeguard against a whistleblower's concern being suppressed at a lower level of the organisation, particularly where the concern touches senior management",
+      "For listed companies, SEBI's LODR Regulations impose their own, generally more detailed, vigil-mechanism and whistleblower-policy requirements that operate alongside the Companies Act obligation — a listed company must satisfy both frameworks, not just the Companies Act minimum",
+      "A company's Audit Committee is responsible for overseeing the functioning of the vigil mechanism, and details of the mechanism are required to be disclosed on the company's website and in its Board's report",
+      "Companies that fall within the Section 177 thresholds but have not yet formalised a vigil mechanism should treat this as a governance gap to close promptly — the obligation is not discretionary once a company crosses the listed, public-deposit, or Rs. 50 crore borrowing threshold"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 177 applicability thresholds (listed companies, deposit-accepting companies, companies with borrowings exceeding Rs. 50 crore from banks/PFIs): well-settled, confirmed via CAclubindia's Section 177 explainer and multiple compliance guides at research time",
+      "Direct access to the Audit Committee Chairperson in exceptional cases as a mandatory safeguard: confirmed via Section 177(10) and standard vigil mechanism policy templates at research time",
+      "SEBI LODR's additional, listed-company-specific whistleblower requirements operating alongside Section 177: confirmed at research time — verify the current LODR provision numbers and any amendment effective from April 2025 referenced in some sources, against the current SEBI LODR Regulations at drafting time"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "ibc-avoidance-transactions-pufe-guide",
+    "topic_title": "Avoidance of Transactions Under the IBC: Preferential, Undervalued, Extortionate and Fraudulent Transactions",
+    "angle": "A guide for a resolution professional, liquidator, or a party that received payment or a transfer from a company that has since gone into CIRP, explaining the PUFE categories the IBC allows a tribunal to unwind, the look-back periods, and what a recipient of an avoided transaction risks.",
+    "key_points": [
+      "The IBC allows an Adjudicating Authority to avoid four categories of pre-insolvency transactions, collectively known as PUFE transactions: preferential (Sections 43-44), undervalued (Sections 45-48), extortionate credit (Sections 50-51), and fraudulent or wrongful trading (Sections 49 and 66)",
+      "A preferential transaction under Section 43 involves a transfer of the corporate debtor's property for the benefit of a creditor, surety or guarantor on account of an antecedent debt, which places that recipient in a materially better position than it would have received in a Section 53 liquidation distribution",
+      "The look-back period for preferential transactions is two years before the insolvency commencement date for transactions with a related party, and one year for transactions with an unrelated party — transactions outside these windows generally cannot be avoided as preferential",
+      "An undervalued transaction under Section 45 involves a gift, or a transfer for consideration significantly below the asset's true market value, made by the corporate debtor without a legitimate commercial rationale",
+      "Section 66 empowers the Adjudicating Authority to direct any person knowingly party to fraudulent or wrongful trading — carrying on the corporate debtor's business with intent to defraud creditors, or without a reasonable prospect of avoiding insolvency — to contribute to the corporate debtor's assets",
+      "A resolution professional or liquidator identifying a potential avoidance transaction must make the required application to the Adjudicating Authority within the statutory timeline, since courts have held that a resolution plan cannot ordinarily extinguish avoidance applications that were not disposed of before the plan's approval"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Four PUFE categories and their governing sections (43-44 preferential, 45-48 undervalued, 50-51 extortionate, 49/66 fraudulent/wrongful trading): well-settled statutory framework, confirmed via Bar and Bench, IBC Laws and multiple practitioner guides at research time",
+      "Two-year (related party) / one-year (unrelated party) look-back periods for preferential transactions under Section 46: well-settled, confirmed at research time",
+      "Treatment of avoidance applications surviving a resolution plan's approval where not yet disposed of: an evolving, judicially contested area per SCC Online Blog's 'doctrinal gaps' commentary at research time — present as a developing area of law rather than a settled, uniform rule, and verify the current judicial position (including any 2025 IBC amendment referenced by sources) at drafting time"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "gst-anti-profiteering-section-171-sunset-guide",
+    "topic_title": "GST Anti-Profiteering After the Sunset: What Businesses With Pending Cases Need to Know",
+    "angle": "A guide for a business currently facing, or previously subject to, a GST anti-profiteering investigation, explaining that the Central Government has stopped accepting new anti-profiteering complaints from 1 April 2025, what happens to complaints and investigations already underway, and which forum now decides them.",
+    "key_points": [
+      "The Central Government notified 1 April 2025 as the sunset date for the anti-profiteering provisions under GST — no new anti-profiteering complaints or investigations can be initiated after that date",
+      "Section 171 of the CGST Act itself remains on the statute book unchanged, continuing to require that any reduction in GST rate or benefit of additional input tax credit be passed on to the recipient by way of a commensurate reduction in price — the sunset affects new enforcement, not the underlying substantive obligation",
+      "The anti-profiteering enforcement function has passed through three institutional homes over time: the erstwhile National Anti-Profiteering Authority (NAA), then the Competition Commission of India (which took over jurisdiction from 1 October 2024), and now the Principal Bench of the GST Appellate Tribunal (GSTAT)",
+      "Complaints and investigations that were already underway — meaning a DGAP investigation report or a hearing notice had already issued — before the 1 April 2025 sunset continue to be adjudicated to conclusion by the GSTAT Principal Bench, regardless of the sunset date",
+      "A business currently defending a pending anti-profiteering matter should confirm the current procedural stage of its case and the GSTAT Principal Bench's applicable timelines, since the Bench has continued issuing final orders on legacy cases through 2026",
+      "Businesses should not assume the sunset means Section 171's substantive price-pass-through obligation has disappeared — pricing decisions around a GST rate reduction should still account for the statutory pass-through requirement, even though the enforcement mechanism for new complaints has closed"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "1 April 2025 sunset date for new anti-profiteering complaints/investigations: confirmed via ClearTax and ICSI journal coverage at research time",
+      "Institutional transition from NAA to CCI (from 1 October 2024) to GSTAT Principal Bench: confirmed via CAalley's explainer and TaxGuru coverage at research time",
+      "Pending pre-sunset cases (with an issued DGAP report or hearing notice) continuing to be decided by GSTAT Principal Bench: confirmed via research-time sources — verify the current GSTAT Principal Bench operational status and any further procedural notification at drafting time, since GSTAT's own rollout has been a live, evolving process"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "trademark-licensing-registered-user-agreement-guide",
+    "topic_title": "Licensing a Trademark in India: Registered User Agreements Under Sections 48 and 49",
+    "angle": "A practical guide for a brand owner licensing a trademark to a manufacturer, franchisee or distributor, and for the licensee itself, explaining the 'registered user' mechanism under the Trade Marks Act, why registering the licence matters even though it is not mandatory, and what the licence agreement should cover.",
+    "key_points": [
+      "Section 48 of the Trade Marks Act, 1999 defines a 'registered user' as a person, other than the registered proprietor, who has been granted permitted use of the mark and is registered as such under Section 49, with use limited to the scope of goods or services for which the mark is registered",
+      "Registering the licence is not mandatory for the licence to be valid — an unregistered licence agreement is not void merely for want of registration — but registration carries a significant practical benefit: use of the mark by a registered user counts as use by the proprietor itself, protecting the mark against a non-use rectification or cancellation challenge",
+      "To register, the registered proprietor and the proposed registered user must jointly apply on Form TM-U, supported by the licence agreement (or an affidavit setting out its particulars) covering the relationship between the parties, the goods or services covered, the duration of permitted use, and the territory",
+      "A well-drafted trademark licence agreement should specify quality-control mechanisms — since the proprietor's ability to control the quality of goods sold under its mark is central to maintaining the mark's distinctiveness and reputation — alongside consideration/royalty terms, exclusivity, sub-licensing rights, and termination triggers",
+      "Because unauthorised or uncontrolled use of a licensed mark can weaken the proprietor's rights or create confusion in the market, proprietors should build in periodic quality audits and clear termination rights for non-compliance rather than treating the licence as a one-time formality",
+      "Licensees should equally confirm the scope of permitted use precisely — using a licensed mark outside the registered goods/services or territory exceeds the licence and can itself expose the licensee to an infringement claim from the very proprietor who granted the licence"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 48 'registered user' definition and Section 49 registration procedure via Form TM-U: well-settled statutory framework, confirmed via TheLegalSchool, Mondaq and Vakilsearch guides at research time",
+      "Registration not being mandatory for licence validity, but conferring non-use protection: confirmed via multiple practitioner sources including Mondaq's 'dichotomy of registered and permitted users' analysis at research time",
+      "Quality-control as the doctrinal basis for licensing without abandoning distinctiveness: well-settled trademark-law principle, confirmed at research time"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "pmla-reporting-entity-compliance-guide",
+    "topic_title": "PMLA Compliance for Businesses: Who Is a 'Reporting Entity' and What Must They Do",
+    "angle": "A compliance guide for a business in a sector covered by the Prevention of Money Laundering Act — banks, NBFCs, payment aggregators, real estate agents, precious-metals dealers and similar covered persons — explaining reporting-entity obligations, KYC/beneficial-ownership requirements, and suspicious-transaction reporting.",
+    "key_points": [
+      "A 'reporting entity' under PMLA includes banking companies, financial institutions and intermediaries in the securities market, as well as persons carrying on specifically notified designated businesses or professions, such as real estate agents and dealers in precious metals and stones — the definition extends well beyond traditional banks to cover NBFCs, payment aggregators, fintech platforms, crypto exchanges and insurance companies",
+      "Sections 11A to 15 of PMLA impose the core reporting-entity obligations: verifying the identity of clients and beneficial owners, maintaining records of transactions, and reporting specified and suspicious transactions to the Financial Intelligence Unit-India (FIU-IND)",
+      "A beneficial-ownership identification threshold under the PMLA Rules has been reduced from 25% to 10%, meaning reporting entities must now identify and verify a materially larger set of individuals holding an ownership or controlling interest in a client entity",
+      "Reporting entities must retain records for five years from the date of the transaction or the closure of the account, whichever is later, to preserve traceability well after a transaction has concluded",
+      "Where a transaction appears suspicious, the reporting entity must report it to the FIU-IND within the prescribed period, generally understood as seven working days of forming the relevant opinion or being satisfied of its suspicious nature",
+      "Reporting entities are required to upload customer KYC records to the Central KYC Records Registry (CKYCR) operated by CERSAI, and recent regulatory updates have tightened video-based customer identification process (V-CIP) requirements and formalised banking-correspondent-led KYC"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Reporting entity definition covering banks, NBFCs, payment aggregators, real estate agents and precious-metals dealers: confirmed via Lexology's AML snapshot and Taxmann's PMLA obligations explainer at research time",
+      "Reduction of the beneficial ownership identification threshold from 25% to 10%: confirmed via multiple 2025-26 AML compliance sources at research time — verify the exact effective date and current threshold against the PMLA Rules as amended, at drafting time",
+      "Seven-day suspicious transaction reporting timeline to FIU-IND: general figure cited in research-time sources — verify the current prescribed period under the PMLA Rules, since some sources describe this in slightly different terms, before stating it as a fixed number in the final guide",
+      "Five-year record retention period: well-settled under the PMLA Rules, confirmed at research time"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "power-purchase-agreement-ppa-essentials-guide",
+    "topic_title": "Power Purchase Agreement Essentials for Renewable Energy Projects in India",
+    "angle": "A practical guide for a renewable energy developer or a corporate/discom buyer negotiating a PPA, covering the core clauses that determine risk allocation — tariff structure, delivery obligations, change in law, and termination/compensation — as a companion to this site's existing captive-power and open-access guides, focused specifically on PPA drafting.",
+    "key_points": [
+      "A Power Purchase Agreement's tariff clause fixes how the generator is paid — a fixed price for the contract term, an escalating price to account for inflation, or a price indexed to market rates — and utility-scale solar tariffs discovered through SECI/CPSU reverse auctions have generally trended toward the lower end of the pricing spectrum in recent years, which developers should factor into their own bid economics",
+      "The energy-delivery clause specifies what the generator must actually deliver, whether structured as a guaranteed minimum output with penalties for underperformance, or a more flexible arrangement tied to the plant's actual generation capacity — this allocation of generation-shortfall risk is one of the most heavily negotiated parts of a PPA",
+      "A Change in Law clause addresses how a legislative or regulatory change affecting the project's costs or revenues will be handled, typically by allowing a tariff or other term adjustment to neutralise the financial impact — developers should ensure this clause captures both central and state-level regulatory changes given India's federal energy-regulatory structure",
+      "Termination clauses set out the circumstances triggering termination — contractual breach, force majeure, or regulatory change — and the compensation payable; a buyer-initiated voluntary early termination typically triggers a termination payment calculated as the net present value of the developer's lost future revenue over the remaining term",
+      "Definitions and interpretation clauses, while often treated as boilerplate, are foundational — key terms like 'Delivered Energy', 'Tariff', 'Force Majeure' and 'Termination Compensation' should be defined precisely, since ambiguity here is a common source of later disputes",
+      "Developers negotiating a PPA should also confirm the regulatory approval and connectivity/open-access sequencing required before the PPA becomes fully bankable, since lenders will typically require these approvals to be in place, or clearly sequenced, before financial close"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Core PPA clause categories (tariff, energy delivery, change in law, termination/compensation, definitions): general industry-standard PPA structure, confirmed via K&S Partners' legal-considerations guide and multiple industry PPA FAQs at research time",
+      "Termination payment on voluntary early termination calculated as net present value of lost future revenue: confirmed via industry PPA guidance at research time — present as a common approach rather than a universally mandated formula, since exact termination-payment mechanics vary by contract and by SECI/state-specific model PPA terms",
+      "Current utility-scale solar tariff ranges from SECI/CPSU auctions: noted as illustrative and time-sensitive at research time — should be described generally or flagged as varying, rather than citing a specific rupee figure that will quickly go stale"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "property-title-due-diligence-checklist-guide",
+    "topic_title": "Property Title Due Diligence Checklist Before Buying Real Estate in India",
+    "angle": "A practical guide for an individual or business buyer verifying a property's title before purchase, distinct from this site's existing property-registration/stamp-duty guide and its M&A business due-diligence checklist, focused specifically on the documents and checks needed to confirm clean title to land or a built property.",
+    "key_points": [
+      "Title verification starts with tracing the chain of title — ideally examining ownership documents for at least the preceding thirty years — to confirm continuity of ownership and identify any gaps, inconsistencies or defective prior transfers that could undermine the seller's right to sell",
+      "An Encumbrance Certificate (EC), obtained directly from the sub-registrar's office (or the relevant state's online portal, where available) rather than relying on a copy supplied by the seller, records registered transactions affecting the property — including mortgages, charges and prior transfers — over a specified period, and should show a 'nil encumbrance' position before a buyer proceeds",
+      "Beyond title and encumbrance documents, a buyer should verify property tax payment receipts or the latest assessment notice, the sanctioned building plan and any occupancy certificate for a constructed property, and, where the project is covered by RERA, the project's RERA registration status",
+      "For under-construction or newly constructed property, cross-checking the sanctioned building plan against the actual construction through a physical site visit helps identify unauthorised deviations that could later create regularisation problems or affect resale value",
+      "Where the property is agricultural land, additional checks apply — including confirming the land's revenue records (mutation entries) are updated in the actual owner's name and, in many states, confirming the buyer's own eligibility to purchase agricultural land under state-specific land ceiling or tenancy laws",
+      "A buyer should treat title and encumbrance verification as a precondition to paying any substantial advance or booking amount, since defects discovered after part-payment are considerably harder and costlier to unwind than defects caught before any money changes hands"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Thirty-year title chain review as a standard due-diligence practice: confirmed via AuthBridge's due-diligence checks guide and Global Law Experts' title due-diligence guide at research time",
+      "Encumbrance Certificate scope, sub-registrar/online-portal availability, and the 'nil encumbrance' expectation: confirmed via Vakilsearch's property verification guide and CleanDeals' due-diligence checklist at research time",
+      "State-specific restrictions on purchase of agricultural land (land ceiling/tenancy law eligibility): general principle confirmed at research time — since this varies materially by state, present as a state-dependent check rather than a uniform national rule, and note the buyer should confirm the specific state's requirements before proceeding"
+    ],
+    "added_on": "2026-09-24"
+  },
+  {
+    "id": "epf-section-7a-inquiry-assessment-guide",
+    "topic_title": "EPF Section 7A Inquiries: How Provident Fund Assessment Proceedings Against Employers Work",
+    "angle": "A practical guide for an employer facing (or wanting to understand the risk of) an EPFO inquiry under Section 7A of the EPF Act, covering when such an inquiry can be initiated, the procedural safeguards EPFO's own guidelines require, and how an employer should respond.",
+    "key_points": [
+      "Section 7A of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 authorises a Provident Fund Commissioner to hold an inquiry to determine amounts due from an employer under the Act — essentially a quasi-judicial assessment proceeding, not a routine administrative step",
+      "EPFO's own guidelines confine initiation of a Section 7A inquiry to two grounds: a dispute over whether the Act applies to the establishment at all, and determination of the adequacy of dues from an employer — an inquiry should not be opened on some other, unrelated basis",
+      "The threshold for commencing an inquiry is the existence of a prima facie case; the assessing officer is required to record, in writing, the reasons for initiating the inquiry and the intended time period the inquiry will cover, and to share this with the employer along with the notice",
+      "Every inquiry must be issued with a computer-generated diary number through EPFO's compliance e-proceedings portal — a notice served without a diary number is treated as non est and does not validly initiate the inquiry",
+      "Once an inquiry is initiated, the issues and the default period specified in the notice cannot later be expanded, and document requests to the employer must be reasonably confined to that specified scope — an employer facing an overbroad information request has a basis to object",
+      "An employer served with a Section 7A notice should promptly verify the notice's diary number and stated scope, gather payroll and contribution records for the specified period, and engage with the inquiry rather than ignore it, since an ex parte order determining dues can otherwise be passed in the employer's absence"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 7A's two permissible grounds for inquiry (applicability dispute; adequacy of dues) and the prima facie case threshold: confirmed via PSA Legal Counsellors' and AZB Partners' Section 7A guidance at research time, reflecting EPFO's February 2020 guidelines",
+      "Mandatory computer-generated diary number requirement, with a notice lacking one being non est: confirmed via Khaitan & Co.'s and Greythr's coverage of the EPFO circular at research time",
+      "Scope-limitation on later expanding the inquiry's issues or period once initiated: confirmed via the same EPFO guidelines coverage at research time — verify no subsequent EPFO circular has modified these 2020 guidelines before drafting"
+    ],
+    "added_on": "2026-09-24"
+  }
+]
