@@ -138,5 +138,41 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-24"
+  },
+  {
+    "id": "mahanadi-coalfields-gsco-infrastructure-arbitration-seat-conduct",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Mahanadi Coalfields Ltd. & Ors. v. M/S GSCO (Gurmeet Singh and Company) Infrastructure Pvt. Ltd.",
+    "citation": "2026 INSC 1038",
+    "court": "Supreme Court of India",
+    "date": "2026-09-23",
+    "holding_summary": "In a dispute arising from a 2012 heavy-earth-moving-machinery contract for Mahanadi Coalfields' Kulda Open Cast Project that contained no arbitration clause, the parties later consented to a High Court-appointed sole arbitrator under Section 11(6) of the Arbitration and Conciliation Act, 1996. After the Orissa High Court dismissed Mahanadi Coalfields' Section 34 challenge to the resulting award as non-maintainable before the District Judge, the Supreme Court held that the mere conduct of arbitral proceedings at a particular place does not, by itself, determine the juridical seat of arbitration absent an express designation or agreement, and that a State High Court's territorial jurisdiction under Section 34 extends to every Commercial Court or District Court within it unless the parties have fixed a seat or agreed otherwise. The Court set aside the Orissa High Court's order and restored the Section 34 petition to the District Judge, Sundargarh.",
+    "why_it_matters": "Parties whose contract lacks an express seat clause, and whose award challenge is dismissed as filed in the 'wrong' court merely because hearings were held elsewhere, now have Supreme Court authority that the place of conduct of proceedings is not itself determinative of the arbitration's seat or of which court has supervisory jurisdiction.",
+    "sources": [
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-978-mahanadi-coalfields-ltd-ors-versus-ms-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd-551525",
+      "https://www.supremecourtcases.com/mahanadi-coalfields-ltd-and-others-v-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd/",
+      "https://ibclaw.in/mahanadi-coalfields-ltd-and-ors-vs-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd-supreme-court/",
+      "https://www.intolegalworld.com/post/supreme-court-restores-mahanadi-coalfields-arbitration-challenge-clarifies-seat-versus-venue"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "puneet-batra-union-of-india-gst-search-advocate-office-privilege",
+    "practice_area": "Tax Litigation",
+    "case_name": "Puneet Batra v. Union of India & Ors.",
+    "citation": "W.P.(C) 11021/2025",
+    "court": "Delhi High Court, Division Bench",
+    "date": "2026-09-18",
+    "holding_summary": "An advocate who had provided professional services to Martkarma Technology Pvt. Ltd., a gaming company under GST investigation, challenged a GST Department search of his office and the seizure of his computer and documents. Justices Anil Kshetarpal and Shail Jain held that advocate-client privilege cannot operate as an absolute bar to an investigation into the advocate's own conduct where the authorities have prima facie material indicating he may have acted beyond the role of a legal adviser, and upheld the search. The Court directed the authorities to use the cloned data under safeguards, expressly barring them from opening, accessing or examining data belonging to any of the advocate's other, unrelated clients.",
+    "why_it_matters": "Tax and investigating authorities can lawfully search a lawyer's office and access client-related data where there is prima facie material that the lawyer himself was complicit in the alleged evasion, but the ruling also gives law firms a concrete safeguard to invoke — a court-ordered ring-fence protecting unrelated clients' confidential data from being accessed during such a search.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/delhi-high-court-allows-gst-search-of-advocates-office-says-privilege-cant-bar-probe-into-lawyers-conduct",
+      "https://taxguru.in/goods-and-service-tax/advocate-privilege-cannot-bar-gst-search-lawyers-conduct-delhi-hc.html",
+      "https://www.aninews.in/news/national/general-news/delhi-hc-upholds-gst-search-of-advocate8217s-office-directs-authorities-to-use-cloned-data-with-safeguards20260918162413/",
+      "https://rawlaw.in/gst-searches-advocates-office-and-seizes-computer-containing-client-data-delhi-high-court-upholds-search-but-bars-access-to-unrelated-clients-confidential-information/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-25"
   }
 ]

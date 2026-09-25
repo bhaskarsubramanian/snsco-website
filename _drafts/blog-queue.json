@@ -283,5 +283,43 @@
       "GST reverse charge on development rights, exemption tied to units sold pre-completion-certificate: confirmed"
     ],
     "added_on": "2026-09-24"
+  },
+  {
+    "id": "gst-search-seizure-section-67-taxpayer-rights-guide",
+    "topic_title": "GST Search and Seizure Under Section 67: What Businesses and Their Advisors Should Know",
+    "angle": "A practical guide for a business (or its tax advisor/counsel) facing a GST department search or inspection, covering when Section 67 can be invoked, the authorisation and panchnama procedure, and the safeguards a taxpayer can insist on — topical given the Delhi High Court's September 2026 ruling upholding a GST search of an advocate's office.",
+    "key_points": [
+      "Section 67 of the CGST Act empowers a proper officer, on 'reasons to believe' that goods liable to confiscation or documents relevant to a proceeding are secreted at a place, to authorise inspection, search and seizure — the authorisation must be in writing, on Form GST INS-01, and issued by an officer not below the rank of Joint Commissioner",
+      "Search and seizure must be documented through a Panchnama/Mahazar prepared on the spot, listing all goods and documents found and seized, with signatures of independent witnesses and the person in charge of the premises, a copy of which must be handed to that person",
+      "Section 67 is an investigative tool aimed at evasion, not a mechanism for revenue recovery — officers are expected to seize only goods, books or documents actually relevant to the investigation, not to conduct a wholesale removal of records",
+      "Seized documents/books not relied on for a notice must be returned within a statutory period, and the taxpayer is entitled to take copies or extracts of seized documents during the investigation, subject to the officer's opinion that this will not prejudice the proceedings",
+      "Provisions of the Code of Criminal Procedure (now the BNSS) governing search and seizure apply to GST searches so far as they are not inconsistent with the CGST Act, importing established procedural safeguards into the GST search process",
+      "A September 2026 Delhi High Court ruling confirms that a lawyer's office is not immune from a GST search merely on grounds of advocate-client privilege where there is prima facie material that the lawyer himself acted beyond providing legal advice — though the Court also required authorities to ring-fence and not access data belonging to the lawyer's other, unrelated clients, a safeguard businesses and professionals facing a similar search can invoke"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 67 authorisation requirements (Form GST INS-01, Joint Commissioner rank) and panchnama procedure: confirmed via Masters India, GST Gyaan and Taxguru explainers at research time",
+      "CrPC/BNSS procedural safeguards applying to GST searches via Section 67(10): well-settled statutory cross-reference, confirmed at research time",
+      "Puneet Batra v. Union of India (Delhi HC, 18 September 2026) upholding a GST search of an advocate's office with a data ring-fence for unrelated clients: confirmed via Bar and Bench, TaxGuru and ANI coverage at research time — verify no further appeal or stay has altered this position before citing it as final"
+    ],
+    "added_on": "2026-09-25"
+  },
+  {
+    "id": "essential-commodities-act-stock-limits-agri-traders-guide",
+    "topic_title": "Essential Commodities Act, 1955: Stock Limits and Licensing Compliance for Agri-Traders and Wholesalers",
+    "angle": "A compliance guide for traders, wholesalers, millers and importers dealing in food grains, pulses, edible oils and other notified commodities, explaining when the Central or State Government can impose stock limits and licensing conditions under the Essential Commodities Act, and what a trader should do to stay compliant and respond to an inspection.",
+    "key_points": [
+      "The Essential Commodities Act, 1955 allows the Central Government to declare a commodity 'essential' and to regulate or prohibit its production, supply, distribution, and to impose stock limits, primarily to make an essential commodity available at fair prices and to prevent hoarding and black-marketing",
+      "The Essential Commodities (Amendment) Act, 2020 narrowed the ordinary scope of regulation for cereals, pulses, edible oilseeds and oils, onion and potato, permitting government-imposed stock limits and other regulatory action on these items only in specified extraordinary circumstances such as war, famine, an extraordinary price rise, or a natural calamity of grave nature",
+      "Even where a stock limit order is validly issued, an order can (and typically does) provide exemptions for a value chain participant's normal operating requirements, such as processors, exporters, and government-registered entities — traders should check the specific exemption categories in the order applicable to their commodity before assuming a blanket limit applies to them",
+      "State Governments issue their own control orders (often under delegated powers) prescribing licensing, stock-holding limits and movement restrictions for specific commodities within the state, so a trader operating across states should check each state's applicable order rather than relying only on the central notification",
+      "Contravention of a stock limit or licensing order under the Act can attract imprisonment ranging up to seven years along with fines, and can also result in confiscation of the stock held in excess of the prescribed limit — a trader found holding excess stock should be prepared to demonstrate the stock is either within an exempted category or has been disclosed as required",
+      "Traders should maintain contemporaneous stock registers and be ready to produce them to an inspecting authority, since much enforcement activity under the Act proceeds through surprise inspections of godowns and warehouses rather than prior notice"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "2020 Amendment's narrowed regulation of cereals, pulses, edible oilseeds/oils, onion and potato to specified extraordinary circumstances: confirmed via Drishti IAS, Vajiram & Ravi and Wikipedia summaries at research time",
+      "Penalty range up to seven years' imprisonment plus fine and confiscation for contravention: confirmed via multiple UPSC/current-affairs explainers at research time — verify exact penalty provisions under Section 7 of the Act against the current statutory text at drafting time",
+      "Recent 2025-26 invocations of the Act (e.g., August 2025 wheat stock direction) as illustrative, time-sensitive examples: confirmed via Shankar IAS Parliament coverage at research time — present as illustrative rather than current in the final guide, since such directions are typically time-bound and commodity-specific"
+    ],
+    "added_on": "2026-09-25"
   }
 ]
