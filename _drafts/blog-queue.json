@@ -416,5 +416,23 @@
       "Supreme Court's pending examination of the notice regime's constitutionality on privacy grounds: confirmed via India Legal and LiveLaw coverage of the SMA privacy litigation at research time — verify the current status/outcome of that pending matter before citing it as resolved in the final guide"
     ],
     "added_on": "2026-09-26"
+  },
+  {
+    "id": "sarfaesi-recovery-loans-assigned-from-nbfc-guide",
+    "topic_title": "Can a Bank Use SARFAESI to Recover a Loan It Acquired From an NBFC? A Borrower's Guide",
+    "angle": "Explains, for borrowers and lenders alike, when a bank or ARC can invoke SARFAESI on a loan account it acquired or took over by assignment from an NBFC or other financier that was itself not a notified 'financial institution' under the Act at the time the loan was made — the issue the Supreme Court settled in Kotak Mahindra Bank Ltd. v. Trupti Sanjay Mehta & Ors. (2026 INSC 943).",
+    "key_points": [
+      "What makes an entity a 'bank' or 'financial institution' under Section 2(1)(c)/2(1)(m) of the SARFAESI Act, and why that status matters for who can invoke the Act",
+      "How assignment or securitisation of a loan account changes (or doesn't change) the borrower's rights and the enforcing entity's SARFAESI powers",
+      "The Kotak Mahindra Bank v. Trupti Sanjay Mehta ruling and why 'the loan wasn't originally with a SARFAESI-covered lender' is no longer a valid defence once a covered bank holds it",
+      "Practical steps for a borrower served with a Section 13(2) notice by an assignee bank: what to verify, what can still be challenged, and what can't",
+      "How this interacts with the borrower's separate right to challenge the underlying assignment itself (as opposed to the mode of recovery)"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Kotak Mahindra Bank Limited v. Trupti Sanjay Mehta & Ors., 2026 INSC 943, decided 2026-09-02 by the Supreme Court — confirmed via verdictum.in, livelaw.in and ibclaw.in",
+      "Definition of 'bank' under Section 2(1)(c) and 'financial institution' under Section 2(1)(m) of the SARFAESI Act, 2002 — to be confirmed against the bare Act text when drafting",
+      "Standard 60-day timeline and remedies under Sections 13(2)-13(4) of the SARFAESI Act for a borrower after notice — already confirmed in the site's existing SARFAESI 13(2) guide, to be cross-referenced rather than re-verified"
+    ],
+    "added_on": "2026-09-26"
   }
 ]

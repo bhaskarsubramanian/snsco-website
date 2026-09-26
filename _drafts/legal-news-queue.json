@@ -228,5 +228,59 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-25"
+  },
+  {
+    "id": "pannalal-bhansali-bharti-telecom-section-66-capital-reduction-squeeze-out",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "Pannalal Bhansali v. Bharti Telecom Limited & Ors.",
+    "citation": "2026 INSC 213",
+    "court": "Supreme Court of India",
+    "date": "2026-03-10",
+    "holding_summary": "Deciding a batch of appeals arising from Bharti Telecom's selective reduction of share capital, the Supreme Court held that Section 66 of the Companies Act, 2013 can lawfully be used to selectively extinguish the shareholding of a class of minority shareholders, provided the statutory conditions in Section 66 are satisfied and the affected shareholders are not prejudiced. The Court clarified that a formal valuation report is not a mandatory precondition under Section 66 itself, and laid down that judicial and NCLT scrutiny of such a capital reduction must focus on the fairness of the process and the reasonableness of the valuation offered, rather than second-guessing the commercial wisdom of the reduction.",
+    "why_it_matters": "The judgment settles, for the first time at the Supreme Court level, whether Section 66 can be used as a minority squeeze-out mechanism, giving companies structuring exits or restructurings a clearer roadmap while also fixing the fairness and valuation standards minority shareholders can invoke to resist such reductions.",
+    "sources": [
+      "https://www.mondaq.com/india/shareholders/1764686/supreme-court-clarifies-minority-shareholder-buyouts-and-valuation-guidelines-under-section-66",
+      "https://theleaflet.in/relief-pending/squeezed-out-supreme-court-upholds-selective-capital-reduction-targeting-minority-shareholders-under-section-66-of-the-companies-act-in-bharti-telecom-case",
+      "https://www.casemine.com/judgement/in/69b0010de86f475d4fe815e3",
+      "https://www.supremecourtcases.com/pannalal-bhansali-v-bharti-telecom-limited-and-others/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-26"
+  },
+  {
+    "id": "kotak-mahindra-bank-trupti-sanjay-mehta-sarfaesi-nbfc-assigned-debt",
+    "practice_area": "Banking & Finance",
+    "case_name": "Kotak Mahindra Bank Limited v. Trupti Sanjay Mehta & Ors.",
+    "citation": "2026 INSC 943",
+    "court": "Supreme Court of India",
+    "date": "2026-09-02",
+    "holding_summary": "Ruling on appeals concerning loan accounts that Kotak Mahindra Bank had acquired from City Financial Consumer Finance Ltd. (an NBFC not covered as a 'financial institution' under the SARFAESI Act when the loans were advanced), the Supreme Court set aside a Bombay High Court judgment that had barred the bank from invoking SARFAESI for these accounts. The Court held that a bank within the meaning of Section 2(1)(c) of the SARFAESI Act, 2002 can take recourse to the Act to recover a debt assigned to or taken over by it, even if the original lender was not governed by the Act at the time the debt was created, so long as the debt is later held by an entity covered by the Act.",
+    "why_it_matters": "The ruling removes a significant defence borrowers had been raising against SARFAESI proceedings on loans that originated with non-notified NBFCs and were later assigned to or securitised by banks, materially strengthening banks' and asset-reconstruction companies' ability to enforce security over such acquired loan portfolios.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/kotak-mahindra-bank-limited-v-trupti-sanjay-mehta-and-2026-insc-943-sarfaesi-1621223",
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-886-kotak-mahindra-bank-limited-versus-trupti-sanjay-mehta-and-others-with-connected-matters-548336",
+      "https://ibclaw.in/supreme-court-clarifies-sarfaesi-act-applies-to-assigned-debts-originating-from-non-notified-nbfcs/",
+      "https://www.supremecourtcases.com/kotak-mahindra-bank-limited-v-trupti-sanjay-mehta-and-others/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-26"
+  },
+  {
+    "id": "hindware-google-llc-keyword-advertising-trademark-infringement",
+    "practice_area": "Intellectual Property",
+    "case_name": "Hindware Ltd. v. Google LLC & Ors.",
+    "citation": "CS(COMM) 591/2017 & 592/2017",
+    "court": "Delhi High Court",
+    "date": "2026-05-22",
+    "holding_summary": "Justice Mini Pushkarna held that Google's practice of auctioning the registered, coined trademark 'HINDWARE' as a keyword in its Ads programme, to trigger competitors' advertisements, amounts to use of the mark 'in advertising' and constitutes infringement under Section 29(8) of the Trade Marks Act, 1999, even where the mark never visibly appears in the advertisement text. The Court permanently restrained Google LLC and Google India from using 'HINDWARE' or its variants as an advertising keyword and awarded Rs. 30 lakh in damages to Hindware Limited.",
+    "why_it_matters": "The judgment is among the first in India to hold a search-advertising platform itself liable for trademark infringement over keyword auctioning (rather than only the advertiser), materially narrowing what competitors and platforms can do with a rival's brand name in digital advertising and giving brand owners a concrete precedent to restrain such use.",
+    "sources": [
+      "https://www.livelawbiz.com/trademark/delhi-high-court-restrains-google-from-using-hindware-trademark-as-ad-keyword-awards-30-lakh-535551",
+      "https://www.barandbench.com/news/delhi-high-court-imposes-30-lakh-fine-on-google-for-misuse-of-hindware-trademark-as-keyword-in-google-ads",
+      "https://theprint.in/judiciary/indian-sanitaryware-brand-took-google-to-court-won-rivals-can-no-longer-bid-on-its-trademark/2941303/",
+      "https://www.exchange4media.com/marketing-news/delhi-hcs-hindware-verdict-challenges-googles-keyword-auction-model-155086.html"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-26"
   }
 ]
