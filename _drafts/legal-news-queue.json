@@ -1,21 +1,57 @@
 [
   {
-    "id": "v-sumitra-reddy-ranganadha-reddy-partnership-dissolution-valuation",
-    "practice_area": "Commercial Litigation",
-    "case_name": "V. Sumitra Reddy & Anr. v. K. Ranganadha Reddy & Ors.",
-    "citation": "2026 INSC 979",
+    "id": "xxx-yyy-article-142-dead-marriage-5-crore-alimony-vexatious-litigation",
+    "practice_area": "Matrimonial Matters",
+    "case_name": "XXX v. YYY",
+    "citation": "2026 INSC 334",
     "court": "Supreme Court of India",
-    "date": "2026-09-09",
-    "holding_summary": "In a dispute over a partnership at will (M/s Viraj Constructions, a railway-construction firm formed in 1964), the Supreme Court held that an outgoing partner's proportionate share in the dissolved firm's assets must be valued close to the date of actual settlement or sale, not frozen at the historical date of dissolution. The Court also held that a reconstituted firm has no right to use the dissolved firm's assets in the interim without first settling accounts with the outgoing partner, upholding a 25% share in the present value of the property and ordering a public auction where the partners fail to settle accounts themselves.",
-    "why_it_matters": "Outgoing partners in a dissolved partnership are entitled to have their share valued at current, not historical, values — a significant financial protection where dissolution and final accounting are separated by years or decades, as is common in long-running family or construction partnerships.",
+    "date": "2026-04-09",
+    "holding_summary": "In a decade-long, acrimonious matrimonial dispute in which the husband, a practising advocate, had filed more than 80 proceedings against the wife, her relatives and her lawyers while repeatedly disobeying maintenance orders, the Supreme Court invoked its extraordinary power under Article 142 of the Constitution to dissolve the marriage over the wife's opposition, holding that the marriage had irretrievably broken down after more than nine years of separation. The Court granted the wife custody of both children with structured visitation for the father, awarded a consolidated Rs. 5 crore towards permanent alimony, maintenance, child support and litigation costs payable within a year, and restrained the husband from initiating further proceedings against the wife, her relatives or her lawyers.",
+    "why_it_matters": "The Supreme Court continues to use its Article 142 power to end marriages that have irretrievably broken down even without the consent of one spouse, and is increasingly willing to combine that relief with a large, consolidated financial settlement and an injunction against a litigious spouse's pattern of vexatious proceedings.",
     "sources": [
-      "https://www.verdictum.in/supreme-court/v-sumitra-reddy-v-k-ranganadha-reddy-2026-insc-979-reconstituted-partnership-firm-1621761",
-      "https://www.legalbites.in/law-of-partnership/value-of-outgoing-partners-share-cannot-be-frozen-on-date-of-dissolution-supreme-court-1359886",
-      "https://theindianlawyer.in/valuation-of-partnership-assets-on-dissolution-supreme-court-clarifies-the-rights-of-an-outgoing-partner/",
-      "https://rawlaw.in/supreme-court-upholds-25-share-in-present-value-of-dissolved-partnership-property-rejects-1983-valuation-and-orders-public-auction-where-partners-fail-to-settle-accounts/"
+      "https://www.verdictum.in/court-updates/supreme-court/xxx-v-yyy-2026-insc-334-matrimonial-battle-of-mahabharata-article-142-dissolve-matrimonial-dispute-1611678",
+      "https://www.scconline.com/blog/post/2026/04/09/supreme-court-quashes-over-80-cases-divorce-article-142/",
+      "https://www.caseciter.com/2026insc334/",
+      "https://www.shoneekapoor.com/legal-news/alimony-5-cr-divorce-mahabharata/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-26"
+  },
+  {
+    "id": "kk-bansal-philips-dvd-sep-patent-exhaustion-royalty-set-aside",
+    "practice_area": "Intellectual Property",
+    "case_name": "K.K. Bansal v. Koninklijke Philips Electronics N.V.",
+    "citation": "RFA(OS)(COMM) 17/2018; 2026 LLBiz HC(DEL) 509",
+    "court": "Delhi High Court, Division Bench",
+    "date": "2026-05-18",
+    "holding_summary": "A Division Bench of Justices C. Hari Shankar and Om Prakash Shukla set aside a 2018 single-judge decree that had directed two small DVD player makers to pay FRAND royalty to Philips for alleged infringement of a Standard Essential Patent covering DVD decoding technology. In a 150-page judgment, the Court held that Philips failed to prove the essentiality of the patent (IN-184753) and failed to establish infringement based on admissible evidence, and further held that the Bansals' acquisition of the patented components from market-authorised dealers constituted exhaustion of Philips' patent rights under Section 107A(b) of the Patents Act, 1970.",
+    "why_it_matters": "SEP holders must independently prove essentiality and infringement with admissible evidence rather than relying on assumptions carried over from earlier proceedings, and downstream assemblers who source components from authorised dealers have a strong patent-exhaustion defence against royalty claims on those components.",
+    "sources": [
+      "https://chambers.com/articles/delhi-high-court-sets-aside-philips-dvd-sep-royalty-decree-essentiality-frand-patent-exhaustion",
+      "https://www.mondaq.com/india/patent/1813732/delhi-high-court-sets-aside-philips-dvd-sep-royalty-decree-essentiality-frand-patent-exhaustion-clarified",
+      "https://www.barandbench.com/news/litigation/here-is-why-delhi-high-court-rejected-philips-royalty-claim-in-the-dvd-patent-case",
+      "https://www.livelawbiz.com/patent/delhi-high-court-sets-aside-rs-5-lakh-punitive-damages-royalty-decree-against-dvd-makers-in-philips-sep-dispute-534624"
     ],
     "queued_full_page": true,
     "added_on": "2026-09-24"
+  },
+  {
+    "id": "sheetal-vasant-thakur-chirag-arora-child-psychological-evaluation-guidelines",
+    "practice_area": "Matrimonial Matters",
+    "case_name": "Sheetal Vasant Thakur v. Chirag Arora",
+    "citation": "2026 INSC 638",
+    "court": "Supreme Court of India",
+    "date": "2026-06-11",
+    "holding_summary": "In a custody and visitation dispute where the mother alleged the father had sexually abused their daughter (then about two years old) and later returned to India with the child after an alleged domestic assault, Justices Sanjay Karol and N. Kotiswar Singh laid down 19 guidelines governing when and how courts may order psychological evaluation of a minor child in custody, visitation and POCSO-adjacent proceedings. The Court held that such evaluation cannot be ordered routinely, must be justified by specific, recorded reasons showing necessity, must follow a principle of minimum intrusion, should ordinarily be conducted by a single independent expert rather than a panel, and must never be used as an adversarial tool to vindicate either parent's claims, given the risk of re-traumatisation from repeated evaluation.",
+    "why_it_matters": "Family courts across India now have a binding, 19-point framework limiting when a child in a custody or visitation dispute can be subjected to psychological evaluation, giving parents (and children) a concrete basis to resist repeated or unjustified evaluation requests used as litigation tactics.",
+    "sources": [
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-618-sheetal-vasant-thakur-v-chirag-arora-537531",
+      "https://theindianlawyer.in/courts-must-order-psychological-assessment-of-child-only-if-necessary-minimum-intrusion-should-be-norm/",
+      "https://www.legalbites.in/landmark-judgements/repeated-psychological-evaluation-of-child-victims-may-cause-re-traumatisation-supreme-court-1317696",
+      "https://lawbeat.in/supreme-court-judgments/child-welfare-first-supreme-court-says-psychological-evaluation-cannot-be-routine-in-custody-access-cases-1601552"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-26"
   },
   {
     "id": "columbia-pictures-ghostbusters-registrar-trademarks-well-known-cross-class",
@@ -31,24 +67,6 @@
       "https://www.barandbench.com/news/litigation/ghostbuster-row-trademark-need-not-be-formally-declared-well-known-to-get-cross-class-protection-says-delhi-hc",
       "https://www.bananaip.com/intellepedia/well-known-marks-ghostbusters-delhi-high-court-bad-faith/",
       "https://sunslegal.com/2026/07/22/delhi-high-court-clarifies-well-known-trademark-protection-in-columbia-pictures-ghostbusters-case/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-24"
-  },
-  {
-    "id": "consumer-protection-ecommerce-amendment-rules-2026-dark-patterns",
-    "practice_area": "Consumer Protection",
-    "case_name": "Consumer Protection (E-Commerce) (Amendment) Rules, 2026",
-    "citation": "Notified 9 September 2026, Ministry of Consumer Affairs, Food and Public Distribution",
-    "court": "Ministry of Consumer Affairs, Food and Public Distribution (Government of India)",
-    "date": "2026-09-09",
-    "holding_summary": "The Central Government notified the Consumer Protection (E-Commerce) (Amendment) Rules, 2026, amending the 2020 Rules to formally integrate the 2023 Guidelines for Prevention and Regulation of Dark Patterns into binding law, requiring e-commerce entities to conduct an annual self-audit and display a compliance certificate. The amendment overhauls algorithmic ranking rules, bans misleading search manipulation, mandates sponsored-listing disclosure, tightens grievance timelines to 48-hour acknowledgment and 30-day resolution, and requires sellers to disclose fuller product and transaction details including country of origin and return-shipping costs. The Rules take effect on 1 January 2027.",
-    "why_it_matters": "E-commerce marketplaces and sellers have a defined runway to January 2027 to build dark-pattern self-audit processes, revise ranking algorithms and update seller disclosures — non-compliance from that date will be a binding regulatory breach rather than a voluntary guideline lapse.",
-    "sources": [
-      "https://www.scconline.com/blog/post/2026/09/14/consumer-protection-e-commerce-amendment-rules-2026-explained/",
-      "https://www.indialaw.in/blog/consumer/consumer-protection-e-commerce-amendment-rules-2026/",
-      "https://amlegals.com/the-consumer-protection-e-commerce-amendment-rules-2026-regulatory-overview-and-data-consent-implications/",
-      "https://pjlaw.in/blog-post/consumer-protection-e-commerce-amendment-rules-2026-strengthening-transparency-and-accountability-in-e-commerce/"
     ],
     "queued_full_page": true,
     "added_on": "2026-09-24"
@@ -71,37 +89,55 @@
     "added_on": "2026-09-24"
   },
   {
-    "id": "kk-bansal-philips-dvd-sep-patent-exhaustion-royalty-set-aside",
-    "practice_area": "Intellectual Property",
-    "case_name": "K.K. Bansal v. Koninklijke Philips Electronics N.V.",
-    "citation": "RFA(OS)(COMM) 17/2018; 2026 LLBiz HC(DEL) 509",
-    "court": "Delhi High Court, Division Bench",
-    "date": "2026-05-18",
-    "holding_summary": "A Division Bench of Justices C. Hari Shankar and Om Prakash Shukla set aside a 2018 single-judge decree that had directed two small DVD player makers to pay FRAND royalty to Philips for alleged infringement of a Standard Essential Patent covering DVD decoding technology. In a 150-page judgment, the Court held that Philips failed to prove the essentiality of the patent (IN-184753) and failed to establish infringement based on admissible evidence, and further held that the Bansals' acquisition of the patented components from market-authorised dealers constituted exhaustion of Philips' patent rights under Section 107A(b) of the Patents Act, 1970.",
-    "why_it_matters": "SEP holders must independently prove essentiality and infringement with admissible evidence rather than relying on assumptions carried over from earlier proceedings, and downstream assemblers who source components from authorised dealers have a strong patent-exhaustion defence against royalty claims on those components.",
+    "id": "lokesh-bh-state-karnataka-498a-live-in-relationship-intent-to-marry",
+    "practice_area": "Matrimonial Matters",
+    "case_name": "Dr. Lokesh B.H. & Ors. v. State of Karnataka & Anr.",
+    "citation": "2026 INSC 784",
+    "court": "Supreme Court of India",
+    "date": "2026-08-03",
+    "holding_summary": "In a cruelty prosecution arising from a relationship where the parties had cohabited and held themselves out as married, Justices Sanjay Karol and N. Kotiswar Singh held that the protection against cruelty under Section 498A of the Indian Penal Code, 1860 is not confined to legally valid marriages, and extends to a live-in relationship that qualifies as a 'relationship in the nature of marriage' between consenting adults where an intent to marry formed an intrinsic part of the relationship. The Court reasoned that excluding women in such relationships from Section 498A's protection would be inconsistent with the provision's object of curbing cruelty against women and could offend Article 14, while clarifying that its ruling was confined to Section 498A and should not automatically govern the interpretation of other penal provisions.",
+    "why_it_matters": "A woman in a long-term live-in relationship that functions as a marriage, with a genuine intent between the parties to marry, can now invoke Section 498A's cruelty protection against her partner even without a legally solemnised marriage, though the ruling stops short of extending this reasoning to every matrimonial-law provision.",
     "sources": [
-      "https://chambers.com/articles/delhi-high-court-sets-aside-philips-dvd-sep-royalty-decree-essentiality-frand-patent-exhaustion",
-      "https://www.mondaq.com/india/patent/1813732/delhi-high-court-sets-aside-philips-dvd-sep-royalty-decree-essentiality-frand-patent-exhaustion-clarified",
-      "https://www.barandbench.com/news/litigation/here-is-why-delhi-high-court-rejected-philips-royalty-claim-in-the-dvd-patent-case",
-      "https://www.livelawbiz.com/patent/delhi-high-court-sets-aside-rs-5-lakh-punitive-damages-royalty-decree-against-dvd-makers-in-philips-sep-dispute-534624"
+      "https://www.verdictum.in/supreme-court/dr-lokesh-bh-ors-v-state-of-karnataka-anr-neutral-citation-2026-insc-784-1619094",
+      "https://www.scconline.com/blog/post/2026/08/04/sc-section-498-a-ipc-extends-to-live-in-relationships/",
+      "https://www.legalserviceindia.com/Legal-Articles/supreme-court-section-498a-live-in-relationship-lokesh-bh-judgment/",
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/cruelty-in-live-in-relationships/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-26"
+  },
+  {
+    "id": "v-sumitra-reddy-ranganadha-reddy-partnership-dissolution-valuation",
+    "practice_area": "Commercial Litigation",
+    "case_name": "V. Sumitra Reddy & Anr. v. K. Ranganadha Reddy & Ors.",
+    "citation": "2026 INSC 979",
+    "court": "Supreme Court of India",
+    "date": "2026-09-09",
+    "holding_summary": "In a dispute over a partnership at will (M/s Viraj Constructions, a railway-construction firm formed in 1964), the Supreme Court held that an outgoing partner's proportionate share in the dissolved firm's assets must be valued close to the date of actual settlement or sale, not frozen at the historical date of dissolution. The Court also held that a reconstituted firm has no right to use the dissolved firm's assets in the interim without first settling accounts with the outgoing partner, upholding a 25% share in the present value of the property and ordering a public auction where the partners fail to settle accounts themselves.",
+    "why_it_matters": "Outgoing partners in a dissolved partnership are entitled to have their share valued at current, not historical, values — a significant financial protection where dissolution and final accounting are separated by years or decades, as is common in long-running family or construction partnerships.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/v-sumitra-reddy-v-k-ranganadha-reddy-2026-insc-979-reconstituted-partnership-firm-1621761",
+      "https://www.legalbites.in/law-of-partnership/value-of-outgoing-partners-share-cannot-be-frozen-on-date-of-dissolution-supreme-court-1359886",
+      "https://theindianlawyer.in/valuation-of-partnership-assets-on-dissolution-supreme-court-clarifies-the-rights-of-an-outgoing-partner/",
+      "https://rawlaw.in/supreme-court-upholds-25-share-in-present-value-of-dissolved-partnership-property-rejects-1983-valuation-and-orders-public-auction-where-partners-fail-to-settle-accounts/"
     ],
     "queued_full_page": true,
     "added_on": "2026-09-24"
   },
   {
-    "id": "noida-rajveer-singh-section-28a-land-acquisition-limitation",
-    "practice_area": "Real Estate & RERA",
-    "case_name": "New Okhla Industrial Development Authority (NOIDA) v. Rajveer Singh & Ors.",
-    "citation": "Civil Appeal arising out of SLP (C) No. 18801 of 2025",
-    "court": "Supreme Court of India",
-    "date": "2026-09-21",
-    "holding_summary": "In a land acquisition matter concerning an award passed on 15 February 1977, where connected first appeals concerning the same notification were decided by the High Court on different dates (8 July 2019 and 18 April 2022), a Bench of Justices J.B. Pardiwala and K. Vinod Chandran held that successive High Court orders in first appeals do not confer a fresh cause of action or extend the three-month limitation period for landowners to seek redetermination of compensation under Section 28A of the Land Acquisition Act, 1894. The Court allowed NOIDA's appeal and rejected the landowners' Section 28A application as time-barred.",
-    "why_it_matters": "Landowners seeking enhanced compensation under Section 28A after a connected first appeal enhances compensation for similarly placed land must file within three months of the original Reference Court award — a later, unrelated appellate order on the same notification does not reset that limitation clock.",
+    "id": "consumer-protection-ecommerce-amendment-rules-2026-dark-patterns",
+    "practice_area": "Consumer Protection",
+    "case_name": "Consumer Protection (E-Commerce) (Amendment) Rules, 2026",
+    "citation": "Notified 9 September 2026, Ministry of Consumer Affairs, Food and Public Distribution",
+    "court": "Ministry of Consumer Affairs, Food and Public Distribution (Government of India)",
+    "date": "2026-09-09",
+    "holding_summary": "The Central Government notified the Consumer Protection (E-Commerce) (Amendment) Rules, 2026, amending the 2020 Rules to formally integrate the 2023 Guidelines for Prevention and Regulation of Dark Patterns into binding law, requiring e-commerce entities to conduct an annual self-audit and display a compliance certificate. The amendment overhauls algorithmic ranking rules, bans misleading search manipulation, mandates sponsored-listing disclosure, tightens grievance timelines to 48-hour acknowledgment and 30-day resolution, and requires sellers to disclose fuller product and transaction details including country of origin and return-shipping costs. The Rules take effect on 1 January 2027.",
+    "why_it_matters": "E-commerce marketplaces and sellers have a defined runway to January 2027 to build dark-pattern self-audit processes, revise ranking algorithms and update seller disclosures — non-compliance from that date will be a binding regulatory breach rather than a voluntary guideline lapse.",
     "sources": [
-      "https://taxguru.in/corporate-law/supreme-court-clarifies-section-28a-limitation-high-court-compensation-enhancement.html",
-      "https://rawlaw.in/noida-challenges-redetermination-of-decades-old-land-compensation-supreme-court-allows-appeal-and-rejects-landowners-section-28a-application/",
-      "https://www.jurishour.in/supreme-court/supreme-court-s-28a-land-acquisition-limitation/",
-      "https://lawtrend.in/successive-high-court-orders-in-first-appeal-do-not-grant-fresh-limitation-for-section-28a-land-acquisition-claims-supreme-court/"
+      "https://www.scconline.com/blog/post/2026/09/14/consumer-protection-e-commerce-amendment-rules-2026-explained/",
+      "https://www.indialaw.in/blog/consumer/consumer-protection-e-commerce-amendment-rules-2026/",
+      "https://amlegals.com/the-consumer-protection-e-commerce-amendment-rules-2026-regulatory-overview-and-data-consent-implications/",
+      "https://pjlaw.in/blog-post/consumer-protection-e-commerce-amendment-rules-2026-strengthening-transparency-and-accountability-in-e-commerce/"
     ],
     "queued_full_page": true,
     "added_on": "2026-09-24"
@@ -140,24 +176,6 @@
     "added_on": "2026-09-24"
   },
   {
-    "id": "mahanadi-coalfields-gsco-infrastructure-arbitration-seat-conduct",
-    "practice_area": "Arbitration & Dispute Resolution",
-    "case_name": "Mahanadi Coalfields Ltd. & Ors. v. M/S GSCO (Gurmeet Singh and Company) Infrastructure Pvt. Ltd.",
-    "citation": "2026 INSC 1038",
-    "court": "Supreme Court of India",
-    "date": "2026-09-23",
-    "holding_summary": "In a dispute arising from a 2012 heavy-earth-moving-machinery contract for Mahanadi Coalfields' Kulda Open Cast Project that contained no arbitration clause, the parties later consented to a High Court-appointed sole arbitrator under Section 11(6) of the Arbitration and Conciliation Act, 1996. After the Orissa High Court dismissed Mahanadi Coalfields' Section 34 challenge to the resulting award as non-maintainable before the District Judge, the Supreme Court held that the mere conduct of arbitral proceedings at a particular place does not, by itself, determine the juridical seat of arbitration absent an express designation or agreement, and that a State High Court's territorial jurisdiction under Section 34 extends to every Commercial Court or District Court within it unless the parties have fixed a seat or agreed otherwise. The Court set aside the Orissa High Court's order and restored the Section 34 petition to the District Judge, Sundargarh.",
-    "why_it_matters": "Parties whose contract lacks an express seat clause, and whose award challenge is dismissed as filed in the 'wrong' court merely because hearings were held elsewhere, now have Supreme Court authority that the place of conduct of proceedings is not itself determinative of the arbitration's seat or of which court has supervisory jurisdiction.",
-    "sources": [
-      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-978-mahanadi-coalfields-ltd-ors-versus-ms-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd-551525",
-      "https://www.supremecourtcases.com/mahanadi-coalfields-ltd-and-others-v-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd/",
-      "https://ibclaw.in/mahanadi-coalfields-ltd-and-ors-vs-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd-supreme-court/",
-      "https://www.intolegalworld.com/post/supreme-court-restores-mahanadi-coalfields-arbitration-challenge-clarifies-seat-versus-venue"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-09-25"
-  },
-  {
     "id": "puneet-batra-union-of-india-gst-search-advocate-office-privilege",
     "practice_area": "Tax Litigation",
     "case_name": "Puneet Batra v. Union of India & Ors.",
@@ -176,39 +194,39 @@
     "added_on": "2026-09-25"
   },
   {
-    "id": "sheetal-vasant-thakur-chirag-arora-child-psychological-evaluation-guidelines",
-    "practice_area": "Matrimonial Matters",
-    "case_name": "Sheetal Vasant Thakur v. Chirag Arora",
-    "citation": "2026 INSC 638",
+    "id": "noida-rajveer-singh-section-28a-land-acquisition-limitation",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "New Okhla Industrial Development Authority (NOIDA) v. Rajveer Singh & Ors.",
+    "citation": "Civil Appeal arising out of SLP (C) No. 18801 of 2025",
     "court": "Supreme Court of India",
-    "date": "2026-06-11",
-    "holding_summary": "In a custody and visitation dispute where the mother alleged the father had sexually abused their daughter (then about two years old) and later returned to India with the child after an alleged domestic assault, Justices Sanjay Karol and N. Kotiswar Singh laid down 19 guidelines governing when and how courts may order psychological evaluation of a minor child in custody, visitation and POCSO-adjacent proceedings. The Court held that such evaluation cannot be ordered routinely, must be justified by specific, recorded reasons showing necessity, must follow a principle of minimum intrusion, should ordinarily be conducted by a single independent expert rather than a panel, and must never be used as an adversarial tool to vindicate either parent's claims, given the risk of re-traumatisation from repeated evaluation.",
-    "why_it_matters": "Family courts across India now have a binding, 19-point framework limiting when a child in a custody or visitation dispute can be subjected to psychological evaluation, giving parents (and children) a concrete basis to resist repeated or unjustified evaluation requests used as litigation tactics.",
+    "date": "2026-09-21",
+    "holding_summary": "In a land acquisition matter concerning an award passed on 15 February 1977, where connected first appeals concerning the same notification were decided by the High Court on different dates (8 July 2019 and 18 April 2022), a Bench of Justices J.B. Pardiwala and K. Vinod Chandran held that successive High Court orders in first appeals do not confer a fresh cause of action or extend the three-month limitation period for landowners to seek redetermination of compensation under Section 28A of the Land Acquisition Act, 1894. The Court allowed NOIDA's appeal and rejected the landowners' Section 28A application as time-barred.",
+    "why_it_matters": "Landowners seeking enhanced compensation under Section 28A after a connected first appeal enhances compensation for similarly placed land must file within three months of the original Reference Court award — a later, unrelated appellate order on the same notification does not reset that limitation clock.",
     "sources": [
-      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-618-sheetal-vasant-thakur-v-chirag-arora-537531",
-      "https://theindianlawyer.in/courts-must-order-psychological-assessment-of-child-only-if-necessary-minimum-intrusion-should-be-norm/",
-      "https://www.legalbites.in/landmark-judgements/repeated-psychological-evaluation-of-child-victims-may-cause-re-traumatisation-supreme-court-1317696",
-      "https://lawbeat.in/supreme-court-judgments/child-welfare-first-supreme-court-says-psychological-evaluation-cannot-be-routine-in-custody-access-cases-1601552"
+      "https://taxguru.in/corporate-law/supreme-court-clarifies-section-28a-limitation-high-court-compensation-enhancement.html",
+      "https://rawlaw.in/noida-challenges-redetermination-of-decades-old-land-compensation-supreme-court-allows-appeal-and-rejects-landowners-section-28a-application/",
+      "https://www.jurishour.in/supreme-court/supreme-court-s-28a-land-acquisition-limitation/",
+      "https://lawtrend.in/successive-high-court-orders-in-first-appeal-do-not-grant-fresh-limitation-for-section-28a-land-acquisition-claims-supreme-court/"
     ],
     "queued_full_page": true,
-    "added_on": "2026-09-26"
+    "added_on": "2026-09-24"
   },
   {
-    "id": "xxx-yyy-article-142-dead-marriage-5-crore-alimony-vexatious-litigation",
-    "practice_area": "Matrimonial Matters",
-    "case_name": "XXX v. YYY",
-    "citation": "2026 INSC 334",
+    "id": "mahanadi-coalfields-gsco-infrastructure-arbitration-seat-conduct",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Mahanadi Coalfields Ltd. & Ors. v. M/S GSCO (Gurmeet Singh and Company) Infrastructure Pvt. Ltd.",
+    "citation": "2026 INSC 1038",
     "court": "Supreme Court of India",
-    "date": "2026-04-09",
-    "holding_summary": "In a decade-long, acrimonious matrimonial dispute in which the husband, a practising advocate, had filed more than 80 proceedings against the wife, her relatives and her lawyers while repeatedly disobeying maintenance orders, the Supreme Court invoked its extraordinary power under Article 142 of the Constitution to dissolve the marriage over the wife's opposition, holding that the marriage had irretrievably broken down after more than nine years of separation. The Court granted the wife custody of both children with structured visitation for the father, awarded a consolidated Rs. 5 crore towards permanent alimony, maintenance, child support and litigation costs payable within a year, and restrained the husband from initiating further proceedings against the wife, her relatives or her lawyers.",
-    "why_it_matters": "The Supreme Court continues to use its Article 142 power to end marriages that have irretrievably broken down even without the consent of one spouse, and is increasingly willing to combine that relief with a large, consolidated financial settlement and an injunction against a litigious spouse's pattern of vexatious proceedings.",
+    "date": "2026-09-23",
+    "holding_summary": "In a dispute arising from a 2012 heavy-earth-moving-machinery contract for Mahanadi Coalfields' Kulda Open Cast Project that contained no arbitration clause, the parties later consented to a High Court-appointed sole arbitrator under Section 11(6) of the Arbitration and Conciliation Act, 1996. After the Orissa High Court dismissed Mahanadi Coalfields' Section 34 challenge to the resulting award as non-maintainable before the District Judge, the Supreme Court held that the mere conduct of arbitral proceedings at a particular place does not, by itself, determine the juridical seat of arbitration absent an express designation or agreement, and that a State High Court's territorial jurisdiction under Section 34 extends to every Commercial Court or District Court within it unless the parties have fixed a seat or agreed otherwise. The Court set aside the Orissa High Court's order and restored the Section 34 petition to the District Judge, Sundargarh.",
+    "why_it_matters": "Parties whose contract lacks an express seat clause, and whose award challenge is dismissed as filed in the 'wrong' court merely because hearings were held elsewhere, now have Supreme Court authority that the place of conduct of proceedings is not itself determinative of the arbitration's seat or of which court has supervisory jurisdiction.",
     "sources": [
-      "https://www.verdictum.in/court-updates/supreme-court/xxx-v-yyy-2026-insc-334-matrimonial-battle-of-mahabharata-article-142-dissolve-matrimonial-dispute-1611678",
-      "https://www.scconline.com/blog/post/2026/04/09/supreme-court-quashes-over-80-cases-divorce-article-142/",
-      "https://www.caseciter.com/2026insc334/",
-      "https://www.shoneekapoor.com/legal-news/alimony-5-cr-divorce-mahabharata/"
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-978-mahanadi-coalfields-ltd-ors-versus-ms-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd-551525",
+      "https://www.supremecourtcases.com/mahanadi-coalfields-ltd-and-others-v-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd/",
+      "https://ibclaw.in/mahanadi-coalfields-ltd-and-ors-vs-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd-supreme-court/",
+      "https://www.intolegalworld.com/post/supreme-court-restores-mahanadi-coalfields-arbitration-challenge-clarifies-seat-versus-venue"
     ],
     "queued_full_page": true,
-    "added_on": "2026-09-26"
+    "added_on": "2026-09-25"
   }
 ]

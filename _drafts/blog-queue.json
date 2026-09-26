@@ -378,5 +378,43 @@
       "Guiding factors for 'relationship in the nature of marriage' (duration, shared household, public acknowledgment, absence of legal impediment): drawn from the Supreme Court's D. Velusamy v. D. Patchaiammal line of cases, confirmed via multiple practitioner sources at research time — present as guiding, non-exhaustive factors rather than a rigid test, since courts apply them contextually"
     ],
     "added_on": "2026-09-26"
+  },
+  {
+    "id": "section-498a-bns-85-cruelty-arrest-safeguards-guide",
+    "topic_title": "Section 498A IPC / Section 85 BNS: Cruelty Charges, Arrest Safeguards and Anticipatory Bail",
+    "angle": "A practical guide for a person accused of matrimonial cruelty, and for a complainant considering a complaint, explaining the elements of the offence under its new BNS numbering, the Arnesh Kumar arrest safeguards now built into the BNSS, and the anticipatory bail route — distinct from this site's existing family-law and DV Act guides, which do not cover this criminal-law dimension of matrimonial disputes.",
+    "key_points": [
+      "Cruelty to a wife by her husband or his relatives, previously punishable under Section 498A of the Indian Penal Code, is now an offence under Section 85 of the Bharatiya Nyaya Sanhita, 2023, with 'cruelty' itself defined in Section 86 BNS; the punishment remains imprisonment up to three years plus fine, and the offence remains cognizable, non-bailable and non-compoundable",
+      "Because the offence is cognizable, an FIR ordinarily triggers a police investigation and potential arrest, but the Supreme Court's Arnesh Kumar v. State of Bihar guidelines require that, for offences punishable with up to seven years' imprisonment (which includes Section 85 BNS), police may not arrest mechanically merely because an FIR has been registered",
+      "An arresting officer must record reasons showing the arrest is actually necessary, applying the checklist under the arrest-necessity provision of the Code of Criminal Procedure/BNSS (such as preventing further offences, ensuring proper investigation, or preventing the accused from tampering with evidence or influencing witnesses)",
+      "This safeguard is now built into Section 35 of the BNSS, 2023, which requires police to issue a notice of appearance instead of arresting in appropriate cases, rather than relying solely on judicial guidelines layered on top of an unchanged arrest power",
+      "An accused who genuinely apprehends arrest on a Section 85 BNS complaint can seek anticipatory bail under Section 482 of the BNSS (the successor to Section 438 CrPC) before the Sessions Court or the High Court, and courts will examine factors such as the nature of the allegations, the accused's antecedents, and the risk of tampering with evidence or fleeing",
+      "An accused facing a cruelty complaint should promptly gather documentary and witness evidence bearing on the specific allegations, since Indian courts have also recognised that these provisions can be misused in matrimonial disputes, and a well-documented, fact-specific defence at the bail stage is more effective than a general denial"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 85/86 BNS as the successor to Section 498A IPC, with unchanged punishment and cognizable/non-bailable/non-compoundable status: confirmed via iPleaders, Vakilsearch and multiple practitioner BNS explainers at research time",
+      "Arnesh Kumar v. State of Bihar arrest-necessity guidelines and their incorporation into Section 35 BNSS's notice-of-appearance mechanism: well-settled, confirmed via Wikipedia's Arnesh Kumar Guidelines summary and multiple practitioner sources at research time",
+      "Anticipatory bail under Section 482 BNSS (successor to Section 438 CrPC) as the applicable route: confirmed via multiple 2025-26 BNSS transition guides at research time — verify the exact corresponding section number against the current BNSS text before citing it in the final guide, since BNSS section numbering has been a common source of practitioner error during the transition"
+    ],
+    "added_on": "2026-09-26"
+  },
+  {
+    "id": "special-marriage-act-interfaith-marriage-notice-privacy-guide",
+    "topic_title": "Interfaith and Inter-Caste Marriage Under the Special Marriage Act: The 30-Day Notice Requirement Explained",
+    "angle": "A practical guide for a couple from different religions or castes planning to marry under the Special Marriage Act, 1954, covering the registration procedure, the 30-day public notice and objection process, and the privacy concerns that have led courts to question whether that notice period should be mandatory.",
+    "key_points": [
+      "The Special Marriage Act, 1954 allows two people to marry irrespective of religion, through a civil ceremony before a Marriage Officer, without either party having to convert — making it the primary route for interfaith and many inter-caste marriages in India",
+      "A party must give notice of the intended marriage to the Marriage Officer of the district where at least one party has resided for a specified period; the Officer publishes the notice and invites objections during a thirty-day period before the marriage can be solemnised",
+      "This public notice and thirty-day objection window has drawn sustained judicial and public criticism because it exposes the couple's personal details and marriage intention to public scrutiny, often inviting family pressure, community harassment, or in serious cases, threats of violence against interfaith couples",
+      "The Allahabad High Court (Lucknow Bench) has held that the thirty-day notice period should be read as optional rather than mandatory, since compelling its publication intrudes on the couple's fundamental right to privacy and liberty under Article 21, and other High Courts have taken a similarly protective approach in specific cases",
+      "The Supreme Court has itself agreed to examine whether the Special Marriage Act's notice-and-objection regime, insofar as it makes couples' personal details publicly available before marriage, violates the constitutional right to privacy",
+      "Couples concerned about safety during the notice period should be aware that courts have granted protection orders to interfaith and inter-caste couples facing threats, and should consider consulting counsel about whether their jurisdiction's Marriage Officer or courts have adopted the more protective, notice-optional approach before filing notice"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Special Marriage Act's civil marriage route without requiring conversion, and the thirty-day notice/objection procedure: well-settled statutory framework, confirmed via the Act's own text and multiple practitioner explainers (Bhatt & Joshi Associates, LawCrust) at research time",
+      "Allahabad High Court (Lucknow Bench) ruling treating the notice period as optional rather than mandatory: confirmed via India TV News and Vidhi Centre for Legal Policy coverage at research time — note this is a High Court position that individual Marriage Officers and other High Courts may not uniformly follow, so present it as a significant but not universally binding precedent",
+      "Supreme Court's pending examination of the notice regime's constitutionality on privacy grounds: confirmed via India Legal and LiveLaw coverage of the SMA privacy litigation at research time — verify the current status/outcome of that pending matter before citing it as resolved in the final guide"
+    ],
+    "added_on": "2026-09-26"
   }
 ]
