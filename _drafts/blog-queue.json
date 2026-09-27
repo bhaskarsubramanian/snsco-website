@@ -434,5 +434,64 @@
       "Standard 60-day timeline and remedies under Sections 13(2)-13(4) of the SARFAESI Act for a borrower after notice — already confirmed in the site's existing SARFAESI 13(2) guide, to be cross-referenced rather than re-verified"
     ],
     "added_on": "2026-09-26"
+  },
+  {
+    "id": "pmfby-crop-insurance-claim-rejection-guide",
+    "topic_title": "Filing a PMFBY Crop Insurance Claim: Process, Timelines and Common Rejection Grounds",
+    "angle": "A practical guide for a farmer or farmer-collective dealing with a Pradhan Mantri Fasal Bima Yojana claim, covering the loss-intimation window, common documentary rejection grounds, and the appeal route — a companion to this site's existing PMFBY-related case coverage (data-entry-error denials) and its ENWR/agricultural-commodities guide, focused specifically on the claims process itself.",
+    "key_points": [
+      "A farmer must intimate crop loss within 72 hours of the loss event through the insurer, the toll-free helpline, the Crop Insurance App, or the local agriculture/revenue department — missing this window is the single most common reason claims are rejected, regardless of the actual extent of loss",
+      "Claims are also commonly rejected for data-mismatch reasons entirely outside the farmer's control at the time of the loss: incorrect IFSC or Aadhaar-bank seeding, sowing/crop data entered incorrectly at enrolment, outdated Khasra/Khatauni land records, and name mismatches across Aadhaar, bank passbook and land records",
+      "Premium must be paid, and enrolment completed, before the state- and crop-specific cut-off date — this date varies by season, state, district and notified crop, so a farmer should confirm the applicable date locally rather than assuming a fixed national deadline",
+      "Yield-based claims are settled using Crop Cutting Experiment (CCE) data at the notified insurance unit (village/village-panchayat) level, while 'localised risk' claims (for events like hailstorm, landslide and inundation) are assessed on an individual, farm-level basis and require prompt on-site intimation and inspection",
+      "A farmer whose claim is rejected can raise a grievance through the insurance company's own grievance cell, the PMFBY National Grievance Portal, or the district-level Grievance Redressal Committee, and courts have shown willingness to direct disbursal where rejection was based on an administrative or data-entry error rather than a genuine absence of loss",
+      "Because disbursal is routed through the Direct Benefit Transfer system into an Aadhaar-seeded bank account, a farmer should proactively verify that bank and Aadhaar details are correctly linked well before a loss event occurs, rather than discovering a mismatch only when a claim is processed"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "72-hour loss intimation window and its channels (insurer, toll-free number, Crop Insurance App, local agriculture/revenue office): confirmed via multiple 2026 PMFBY practitioner/farmer-guide sources at research time",
+      "State/district/crop-specific (not fixed national) cut-off dates for enrolment and premium payment: confirmed via PMFBY operational guidelines and multiple 2026 guide sources at research time",
+      "CCE-based yield-index settlement at notified-unit level versus individual farm-level assessment for localised risks: well-settled PMFBY design, confirmed at research time — verify current notified-unit definitions for the relevant state/season before citing a specific unit size",
+      "Grievance routes (insurer grievance cell, National Grievance Portal, District Grievance Redressal Committee): confirmed via PMFBY operational guidelines at research time"
+    ],
+    "added_on": "2026-09-27"
+  },
+  {
+    "id": "renewable-purchase-obligation-rec-trading-guide",
+    "topic_title": "Renewable Purchase Obligation (RPO) Compliance and REC Trading: A Guide for Obligated Entities",
+    "angle": "A compliance guide for a distribution licensee, open-access consumer, or captive power plant classified as an 'obligated entity' under RPO regulations, explaining the legal basis, compliance routes (direct PPA, in-house generation, REC purchase), and the penalty for shortfall — as a companion to this site's existing captive-power and open-access-procurement guides, focused specifically on the RPO/REC compliance mechanism.",
+    "key_points": [
+      "Section 86(1)(e) of the Electricity Act, 2003 empowers State Electricity Regulatory Commissions to specify the percentage of total electricity consumption that distribution licensees, large open-access consumers and captive power plants (the 'obligated entities') must source from renewable energy sources each year",
+      "The Ministry of Power's 2022 notification set a uniform national RPO trajectory (split between solar and non-solar categories) rising year on year through FY 2029-30, which SERCs are expected to align their own state-level RPO regulations to, though obligated entities should confirm their specific state's currently notified trajectory rather than assume the national figure applies verbatim",
+      "An obligated entity can meet its RPO in more than one way: entering a direct power purchase agreement with a renewable generator, setting up or contracting in-house renewable generation, or purchasing Renewable Energy Certificates (RECs) on a CERC-authorised power exchange to cover any shortfall",
+      "One REC represents the environmental attributes of 1 MWh of renewable generation and can be traded separately from the underlying physical power, allowing an obligated entity without direct access to renewable generation to still demonstrate compliance by purchasing certificates within the CERC-notified floor and forbearance price band",
+      "RECs are currently traded only on CERC-authorised power exchanges (the Indian Energy Exchange and the Power Exchange of India), and an obligated entity should reconcile its own consumption and generation data against exchange trading records before relying on purchased RECs to demonstrate compliance",
+      "Failure to meet the RPO target exposes an obligated entity to a penalty typically computed on the shortfall (in MWh) at a marginal renewable purchase cost set by the regulator, so obligated entities should track their trajectory against the applicable state RPO regulations well before the compliance year closes rather than attempting to true up only at the deadline"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 86(1)(e) as the statutory basis for RPO and SERCs' role in specifying the percentage: well-settled, confirmed via ksandk.com's RPO legal framework explainer and multiple sources at research time",
+      "2022 Ministry of Power notification setting the national RPO trajectory through FY 2029-30 (solar/non-solar split): confirmed via reccessary.com, resiindia.org and testbook.com at research time — verify the current year's specific percentage figures against the applicable state SERC regulation at drafting time, since national trajectory and state-notified figures can differ",
+      "REC mechanism (1 MWh = 1 REC), CERC-authorised exchange trading (IEX, PXIL) within a floor/forbearance price band: confirmed via heavengreenenergy.com and veritect.ai at research time",
+      "Penalty computed as shortfall MWh times marginal renewable purchase cost: confirmed via research-time sources — present as the general mechanism, and note the exact penalty formula/rate is set by each SERC's own regulations rather than uniformly nationally"
+    ],
+    "added_on": "2026-09-27"
+  },
+  {
+    "id": "rera-section-18-delay-interest-calculation-guide",
+    "topic_title": "Calculating Delay Compensation Under RERA Section 18: How the Interest Actually Works",
+    "angle": "A practical guide for a homebuyer or promoter working out what is actually owed under Section 18 of RERA once possession is delayed, distinct from this site's existing general RERA-complaint-filing and RERA-vs-consumer-forum guides, focused specifically on how the interest rate and computation period are determined.",
+    "key_points": [
+      "Section 18 of RERA entitles an allottee, where a promoter fails to complete or hand over possession by the date stated in the agreement, to either withdraw from the project and claim a refund of the amount paid with interest, or to remain in the project and claim interest for every month of delay until possession",
+      "The prescribed interest rate under most states' RERA Rules is pegged to the State Bank of India's Marginal Cost of Funds-based Lending Rate (MCLR) plus an additional two percentage points, applying the MCLR rate as published on the first day of the relevant month rather than a rate fixed once at the start of the delay",
+      "Interest is calculated as simple interest, not compound interest, using the formula: (amount paid x annual rate x number of days of delay) / 365 — MahaRERA and other authorities have consistently rejected attempts to claim compound interest under Section 18",
+      "A materially more accurate (and usually higher) computation runs interest separately on each instalment from the date that specific instalment was actually paid, rather than applying a single rate to the cumulative total paid from the agreement date — allottees should ask their RERA authority to compute compensation instalment-wise rather than accepting a lump-sum approximation",
+      "The delay period runs from the promoter's committed possession date under the agreement (not any later, informally extended date the promoter may claim) until the date actual, habitable possession is offered — supported by a valid occupancy certificate — or, for a withdrawing allottee, until the refund is actually paid",
+      "Because the applicable MCLR changes over time, an allottee or promoter should not assume a single interest rate applies for the entire delay period — the computation should apply the rate notified for each relevant month across the full delay window, which is why a month-by-month calculation (or a purpose-built RERA delay-interest calculator) is more reliable than a single blended-rate estimate"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "SBI MCLR + 2% as the prescribed Section 18 interest rate under most states' RERA Rules: confirmed via lexireview.in, reraexam.com and multiple 2026 RERA-interest-calculator sources at research time — note this is set by each state's own RERA Rules, so confirm the specific state's notified rate before applying it",
+      "Simple (not compound) interest computation, and MahaRERA's consistent rejection of compound-interest claims: confirmed via reraexam.com at research time",
+      "Instalment-wise computation (interest running from each payment date) producing a higher recovery than a lump-sum blended calculation: confirmed via reraexam.com and khannaandassociates.com at research time — present as the more allottee-favourable approach various RERA authorities have applied, rather than a universally mandated method, since practice can vary by state authority"
+    ],
+    "added_on": "2026-09-27"
   }
 ]

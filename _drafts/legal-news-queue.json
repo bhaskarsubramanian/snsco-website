@@ -282,5 +282,43 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-26"
+  },
+  {
+    "id": "swapan-dey-vifor-international-cci-patent-jurisdiction-stay",
+    "practice_area": "Intellectual Property",
+    "case_name": "Vifor International AG & Anr. v. Competition Commission of India & Ors. (Swapan Dey complaint)",
+    "citation": "Special Leave Petition; stay granted 2 February 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-02-02",
+    "holding_summary": "In a complaint by Dr. Swapan Dey (CEO of a dialysis hospital) alleging that Vifor International's licensing, pricing and supply practices for its patented drug Ferric Carboxymaltose amounted to abuse of dominance under Sections 3 and 4 of the Competition Act, the NCLAT had held that the Patents Act, 1970 operates as a complete code excluding the Competition Act, so the CCI lacked jurisdiction to examine conduct arising from the exercise of patent rights. The Supreme Court stayed this NCLAT finding, holding that whether the CCI can exercise jurisdiction over anti-competitive conduct that arises from the exercise of patent rights is a question requiring authoritative determination, and confined the appeal to that jurisdictional question alone.",
+    "why_it_matters": "Until the Supreme Court finally decides the jurisdictional question, patent holders in India cannot rely on the NCLAT's 'complete code' reasoning to categorically shut out a CCI investigation into licensing, pricing or supply conduct tied to a patent, leaving open the risk of parallel competition-law scrutiny of patent-licensing practices.",
+    "sources": [
+      "https://spicyip.com/2025/11/another-one-bites-the-dust-nclat-ousts-ccis-jurisdiction-in-patent-matters.html",
+      "https://lawchakra.in/supreme-court/cci-jurisdiction-patent-competition-law/",
+      "https://www.courtkutchehry.com/pages/blog/supreme-court-cci-patent-disputes-competition-law-jurisdiction/",
+      "https://www.ipandlegalfilings.com/cci-jurisdiction-over-patent-related-anti-competitive-conduct",
+      "https://knallp.com/navigating-the-jurisdictional-tug-of-war-between-the-cci-and-the-patents-act/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-27"
+  },
+  {
+    "id": "up-scdrc-members-pay-article-142-hc-judges-consumer-commission",
+    "practice_area": "Consumer Protection",
+    "case_name": "In re: Pay and Allowances of the Members of the U.P. State Consumer Disputes Redressal Commission",
+    "citation": "2026 Supreme(Online)(SC) 308",
+    "court": "Supreme Court of India",
+    "date": "2026-02-11",
+    "holding_summary": "Confronted with States finding it financially unviable to constitute full-fledged State Consumer Disputes Redressal Commissions where consumer-case pendency is very low, a Bench comprising the Chief Justice of India and Justice Joymalya Bagchi invoked Article 142 of the Constitution to direct that, in such low-pendency States and Union Territories, a sitting High Court judge shall function as the deemed Chairperson of the State Commission and adjudicate pending consumer complaints and appeals. The Court further directed that any party aggrieved by such a deemed-Commission order may have its further appeal heard personally by the President of the National Consumer Disputes Redressal Commission, given that the order under challenge would have been passed by a sitting High Court judge, and listed States' applications for modification of the directions for further hearing on 26 February 2026.",
+    "why_it_matters": "Consumers and businesses litigating in smaller States and Union Territories that have not constituted a full State Commission now have a functioning, judge-led forum for consumer appeals instead of an indefinite institutional vacuum, though parties should confirm the current status of their specific State's arrangement given the ongoing modification applications.",
+    "sources": [
+      "https://arunachaltimes.in/index.php/2026/02/12/sc-invokes-article-142-asks-hcs-to-take-over-consumer-cases-in-states-with-low-pendency/",
+      "https://www.livelaw.in/top-stories/supreme-court-allows-high-courts-to-hear-consumer-appeals-in-states-where-state-commission-not-formed-523159",
+      "https://www.courtkutchehry.com/pages/blog/supreme-court-high-courts-consumer-appeals-article-142-2026/",
+      "https://supremetoday.ai/sc-art142-hc-judges-as-consumer-commission-heads-20260214031",
+      "https://lawstreet.co/judiciary/sc-invokes-article-142-to-ensure-functioning-of-consumer-commissions-in-smaller-states-seeks-sgs-assistance"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-27"
   }
 ]
