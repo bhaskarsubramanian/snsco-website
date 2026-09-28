@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "id": "registered-vs-unregistered-wills-guide",
+    "topic_title": "Registered vs Unregistered Wills: Does Registration Actually Change Anything?",
+    "angle": "A guide for someone drafting or relying on a Will who is unsure whether registration under the Registration Act, 1908 is necessary, distinct from this site's existing will-drafting-essentials guide, focused specifically on what registration does and doesn't do to a Will's validity and evidentiary weight.",
+    "key_points": [
+      "A Will is one of the very few documents under Indian law that is valid even if never registered — Section 18 of the Registration Act, 1908 makes registration of a Will optional, not compulsory, unlike a sale deed or gift deed of immovable property",
+      "The Supreme Court has repeatedly reaffirmed, including in Parvathi Nairthi v. Laxmi Nairthy (2026 INSC 521), that an unregistered Will is just as legally valid as a registered one provided it is properly executed and attested under Section 63 of the Indian Succession Act, 1925",
+      "Registration's real value is evidentiary and practical, not legal validity — a registered Will is harder to allege was fabricated or tampered with after the testator's death, since the Sub-Registrar's office retains a dated, witnessed copy",
+      "A Will can also be deposited (not registered) with the Registrar under Section 42 of the Registration Act in a sealed cover, which preserves confidentiality during the testator's lifetime while still creating an official, dated record of its existence",
+      "Registration does not cure a Will that was executed with genuine suspicious circumstances — undue influence, lack of testamentary capacity, or an unnatural exclusion combined with other red flags can still be challenged regardless of registration",
+      "Testators should weigh registration primarily against the risk profile of their family situation — where a contested or high-value estate is likely, the evidentiary comfort of registration is usually worth the modest cost and effort, even though it is not legally required"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 18 of the Registration Act, 1908 making Will registration optional: well-settled, confirmed via multiple practitioner sources at research time",
+      "Parvathi Nairthi v. Laxmi Nairthy (2026 INSC 521) reaffirming unregistered Wills are valid: confirmed via legalbites.in, veritect.ai and caseciter.com at research time",
+      "Section 42 deposit-of-sealed-cover Will procedure: well-settled under the Registration Act, confirmed via multiple practitioner sources at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "nominee-vs-legal-heir-bank-demat-insurance-guide",
+    "topic_title": "Nominee vs Legal Heir: Why a Bank or Demat Nominee Isn't the Final Owner",
+    "angle": "A guide for a family member relying on a bank, demat or insurance nomination, or a nominee themselves, explaining that a nomination does not override succession law, drawing on the Supreme Court's Shakti Yezdani ruling and the 2026 Orissa High Court decision in Snigdha Patnaik v. Susama Mohanty.",
+    "key_points": [
+      "A nominee recorded on a bank account, demat holding, mutual fund folio or insurance policy is not thereby made the legal owner of those assets — the Supreme Court held in Shakti Yezdani v. Jayanand Jayant Salgaonkar that nomination under the Companies Act does not constitute an alternative mode of succession",
+      "The consistent legal position, reaffirmed by the Orissa High Court in Snigdha Patnaik v. Susama Mohanty (2026), is that a nominee merely holds the asset as a trustee for the legal heirs, who retain the actual entitlement under the deceased's Will or, absent a Will, under the applicable succession law",
+      "This means a bank or company can validly discharge itself by paying the nominee, but that payment does not settle the underlying dispute between the nominee and the legal heirs — the heirs can still pursue the nominee for their rightful share",
+      "For a Hindu male dying intestate, Class I heirs (including the widow, children and mother) inherit ahead of any nominee under the Hindu Succession Act, 1956 — a nomination cannot be used to route assets around Class I heirs",
+      "Because nomination doesn't settle ownership, anyone with meaningful bank, demat, insurance or mutual fund holdings should have a Will that expressly addresses these assets rather than relying on account-level nominations to reflect their actual wishes",
+      "A nominee who has already received funds should treat them as held for the estate's benefit rather than as their own — resisting a legitimate heir's claim after having received nominee payouts can expose the nominee to being ordered to disgorge the funds"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Shakti Yezdani v. Jayanand Jayant Salgaonkar (Supreme Court, December 2023) holding nomination does not override succession law: well-settled landmark ruling, confirmed via bhattandjoshiassociates.com and argus-p.com at research time",
+      "Snigdha Patnaik v. Susama Mohanty (Orissa HC, 20 January 2026) reaffirming the principle for bank nominees: confirmed via courtkutchehry.com and lawtrend.in at research time",
+      "Class I heirs' priority under the Hindu Succession Act, 1956 for intestate succession: well-settled statutory framework, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "intestate-succession-personal-laws-comparison-guide",
+    "topic_title": "Who Inherits When There's No Will? Intestate Succession Under Each Personal Law",
+    "angle": "A guide for a family dealing with a death where the deceased left no Will, explaining that the applicable inheritance rules depend entirely on the deceased's personal law, and giving a comparative overview across the Hindu Succession Act, Muslim personal law, the Indian Succession Act (for Christians and Parsis), and inter-faith marriages.",
+    "key_points": [
+      "There is no single 'default' inheritance law in India — which rules apply to an intestate estate depends on the deceased's religion (or, for an inter-faith couple married under the Special Marriage Act, on the secular Indian Succession Act instead)",
+      "Under the Hindu Succession Act, 1956 (applicable to Hindus, Sikhs, Jains and Buddhists), a male's intestate property devolves first upon Class I heirs — including the widow, sons, daughters and mother — in equal shares, with Class II heirs and agnates/cognates inheriting only in the absence of any Class I heir",
+      "Under Muslim personal law, inheritance follows fixed Quranic shares for specified heirs, and the distribution differs materially between Sunni (Hanafi) and Shia schools of jurisprudence — a spouse, children and parents typically all take a defined fractional share rather than the Hindu-law model of equal division among a single class",
+      "For Christians and Parsis, intestate succession is governed by the Indian Succession Act, 1925, which allocates a fixed share to the widow (commonly one-third where there are children, or a larger share where there are none) with the remainder divided among the children or other kindred",
+      "A couple married under the Special Marriage Act, 1954 — including most interfaith and inter-caste couples — has their intestate succession governed by the Indian Succession Act, 1925 rather than either spouse's personal law, regardless of their individual religions",
+      "Because the applicable law turns on a factual question (the deceased's religion or the statute under which the marriage was solemnised), a family should confirm which regime governs before assuming a particular inheritance outcome, especially in mixed-faith or remarried families"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Hindu Succession Act Class I heir priority for male intestate succession: well-settled statutory framework, confirmed at research time",
+      "Sunni/Shia differences in Islamic inheritance shares: well-settled area of Muslim personal law, confirmed via multiple practitioner explainers at research time — present as a general comparative point rather than exhaustive share calculations, which are fact- and school-specific",
+      "Indian Succession Act, 1925 governing Christians, Parsis and Special Marriage Act couples for intestate succession: well-settled statutory framework, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "revoking-gift-deed-senior-citizens-act-guide",
+    "topic_title": "Revoking a Gift Deed: When Can Elderly Parents Reclaim Property Under the Senior Citizens Act?",
+    "angle": "A guide for an elderly parent who transferred property to a child in exchange for care that never materialised, or for a family member defending such a transfer, explaining Section 23 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007 and the 2026 Karnataka High Court ruling in Sri Venkataiah v. State of Karnataka.",
+    "key_points": [
+      "Section 23 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007 allows a senior citizen to have a gift or other property transfer declared void if it was made subject to the condition that the transferee would provide basic amenities and physical needs, and the transferee then fails to do so",
+      "The Karnataka High Court held in Sri Venkataiah v. State of Karnataka (2026:KHC:6283) that the maintenance condition need not be expressly written into the gift deed — an implied assurance of care can still support revocation under Section 23, particularly where the transferor is elderly, illiterate or otherwise vulnerable",
+      "The Supreme Court has separately clarified that failure to maintain the donor does not, by itself, entitle revocation under Section 126 of the Transfer of Property Act, 1882 unless the document expressly reserves a right of revocation — Section 23 of the Senior Citizens Act is a distinct, more protective route specifically available to senior citizens",
+      "The Karnataka High Court has also held that a transferee's own legal representatives cannot resist annulment of the gift deed by raising defences that were not available to the original transferee once the Section 23 conditions are otherwise satisfied",
+      "The remedy is pursued before the Maintenance Tribunal constituted under the Act, with an appeal to the Appellate Tribunal (typically the Deputy Commissioner) and thereafter to the High Court by writ petition, rather than through an ordinary civil suit",
+      "A parent considering transferring property to a child during their lifetime should document any care-related conditions clearly in the transfer deed itself, since doing so removes any dispute over whether an implied assurance existed and makes a future Section 23 claim, if needed, considerably more straightforward to establish"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 23 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007 and its conditions for revocation: well-settled statutory framework, confirmed at research time",
+      "Sri Venkataiah v. State of Karnataka (2026:KHC:6283, decided 2 February 2026) on implied maintenance assurance: confirmed via verdictum.in and casemine.com at research time",
+      "Maintenance Tribunal / Appellate Authority / High Court writ route for Section 23 claims: well-settled procedural framework under the Act, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "testamentary-trust-minor-special-needs-beneficiary-guide",
+    "topic_title": "Testamentary Trusts: Structuring a Will for a Minor or Special-Needs Beneficiary",
+    "angle": "A guide for a parent or guardian drafting a Will where a beneficiary is a minor or has a disability that affects their ability to manage inherited property directly, explaining how a testamentary trust works and why it is often preferable to a direct bequest.",
+    "key_points": [
+      "A testamentary trust is a trust created by a Will that comes into existence only on the testator's death, governed by the Indian Trusts Act, 1882, and it allows the testator to direct how and when a beneficiary actually receives the benefit of an inheritance rather than handing over the asset outright",
+      "For a minor beneficiary, a direct bequest technically vests immediately but is managed by a natural or court-appointed guardian until majority — a testamentary trust instead lets the testator name a chosen trustee and set specific conditions (such as staggered distributions at ages 21, 25 and 30) rather than leaving the entire inheritance to be handed over at 18",
+      "For a beneficiary with a disability, a properly structured trust can preserve eligibility for any means-tested government benefits or schemes while still providing for the beneficiary's care, and can appoint a trustee experienced in managing funds for a dependent who cannot manage them independently",
+      "The Will should clearly identify the trust corpus (which specific assets fund the trust), name both a primary trustee and a successor trustee in case the first is unable to serve, and set out the trustee's powers — including whether they may invest, sell trust property, or make discretionary distributions for education, medical care or maintenance",
+      "A testamentary trust differs from simply naming a guardian for a minor's property under the Guardians and Wards Act, 1890 — a guardian manages the minor's existing assets under court oversight, while a trust structures how a specific inheritance is to be held and distributed according to the testator's own instructions",
+      "Because a poorly drafted testamentary trust clause can create ambiguity that invites later litigation among family members, the trust terms should be drafted with the same precision as a standalone trust deed, even though they appear within the Will itself"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Indian Trusts Act, 1882 governing testamentary trusts created by Will: well-settled statutory framework, confirmed at research time",
+      "Guardians and Wards Act, 1890 as the distinct framework for guardianship of a minor's existing property: well-settled, confirmed at research time — present as a contrast to testamentary trusts rather than conflating the two mechanisms",
+      "General practice of staggered/age-based distribution clauses in testamentary trusts: standard private-client drafting practice, confirmed via general estate-planning literature at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "mutual-joint-wills-guide",
+    "topic_title": "Mutual and Joint Wills: Can Two People Make One Will Together, and Can It Be Changed Later?",
+    "angle": "A guide for a couple (typically spouses) considering a joint or mutual Will, explaining the difference between the two, their legal validity in India, and the practical problem of revocability that makes them less common than separate Wills.",
+    "key_points": [
+      "A 'joint Will' is a single document executed by two people disposing of both their properties, while a 'mutual Will' involves two separate Wills made pursuant to an agreement that neither will be revoked without the other's consent — Indian courts recognise both, but they are markedly less common than individual Wills",
+      "The Supreme Court has upheld the validity of a joint and mutual Will where it is proved to have been validly executed by both testators, confirming there is no statutory bar under the Indian Succession Act, 1925 to two people disposing of their property through a single instrument",
+      "The central practical problem with joint or mutual Wills is revocability — because a Will is, by its nature, revocable during the testator's lifetime, a survivor who wishes to change their mutual Will after the first testator's death can face a dispute over whether they remain bound by the earlier agreement not to revoke",
+      "A joint Will typically 'operates' at two points — first on the death of the first testator (usually leaving everything to the survivor), and then again on the survivor's own death (usually to the couple's agreed final beneficiaries, often their children)",
+      "Because of the revocability problem, many estate planners recommend that spouses execute separate, coordinated Wills (mirroring each other's intentions) rather than a single joint Will, since separate Wills are more straightforward to update individually as circumstances change",
+      "Where a couple does want the binding assurance of a mutual arrangement — for example, to ensure children from a first marriage are not disinherited by a stepparent's later Will — a mutual Will coupled with a separate, clearly drafted agreement not to revoke gives more legal traction than an informal understanding alone"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Supreme Court recognition of joint and mutual Wills as valid where properly executed: confirmed via mondaq.com and courtkutchehry.com's coverage of relevant precedent at research time",
+      "Distinction between joint Wills (single document) and mutual Wills (separate documents with an agreement not to revoke): well-settled estate-planning terminology, confirmed at research time",
+      "Revocability tension in mutual Wills and the practitioner preference for coordinated separate Wills: general private-client practice guidance, confirmed via multiple estate-planning sources at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "executor-duties-liabilities-guide",
+    "topic_title": "An Executor's Duties and Liabilities: What You're Agreeing to When You Accept the Role",
+    "angle": "A guide for someone named as executor in a Will (or asked to act as one) explaining the legal duties involved, the personal liability risk, and how to properly discharge the role — distinct from this site's existing probate/succession guides, focused specifically on the executor's own obligations.",
+    "key_points": [
+      "An executor named in a Will is responsible for collecting and protecting the deceased's assets, paying off legitimate debts and taxes from the estate, and distributing the remainder to the beneficiaries strictly according to the Will's terms — accepting the role is a fiduciary undertaking, not a formality",
+      "An executor should apply for probate of the Will where required (mandatory in the Presidency towns of Mumbai, Chennai and Kolkata for wills of Hindus, and generally advisable elsewhere for a Will affecting immovable property) before dealing with estate assets, since probate is the court's confirmation of the Will's validity and the executor's authority to act",
+      "Executors owe a duty of reasonable care and can be held personally liable for loss caused to the estate through negligence, self-dealing, or distributing assets before properly settling the deceased's genuine debts — an executor who distributes too early and then finds insufficient funds to pay a legitimate creditor may have to make up the shortfall personally",
+      "An executor is entitled to reimbursement of reasonable expenses incurred in administering the estate, and may be entitled to remuneration only if the Will itself provides for it — acting as executor is not automatically a paid role under Indian law",
+      "A person who does not wish to act as executor can renounce the role (before starting to act) rather than simply ignoring the appointment, since once someone begins acting as executor (an 'executor de son tort' situation for someone acting without formal appointment carries its own risks) they can become bound by the associated duties",
+      "Where an estate is complex — multiple properties, business interests, or likely family disputes — an executor should engage a lawyer to guide the probate and administration process, since personal liability for missteps makes this an area where professional guidance materially reduces risk"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Mandatory probate requirement for Wills of Hindus, Buddhists, Sikhs or Jains within the ordinary original civil jurisdiction of the Bombay, Calcutta and Madras High Courts (Section 213, Indian Succession Act): well-settled statutory requirement, confirmed at research time",
+      "Executor's fiduciary duty and personal liability for maladministration: well-settled principle under the Indian Succession Act, 1925 and general trust/fiduciary law, confirmed at research time",
+      "Right to renounce executorship before acting, and the concept of 'executor de son tort': well-settled succession-law concepts, confirmed via general practitioner literature at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "domicile-applicable-succession-law-guide",
+    "topic_title": "Which Succession Law Applies to You? Domicile, Religion and the Indian Succession Act",
+    "angle": "A guide for a family with a cross-border or interfaith element to their estate, explaining how Indian law determines which succession regime applies — by religion for most Indians, but by domicile for movable property in some cross-border cases — as a conceptual companion to this site's existing NRI succession guide.",
+    "key_points": [
+      "For most Indians, the applicable succession law is determined by religion — Hindus, Sikhs, Jains and Buddhists fall under the Hindu Succession Act, 1956; Muslims under their applicable school of Islamic personal law; and Christians and Parsis under the Indian Succession Act, 1925",
+      "For movable property, Indian conflict-of-laws principles generally apply the law of the deceased's domicile at death (not merely their nationality or residence) — meaning an NRI domiciled abroad may have their movable Indian assets (bank balances, securities) governed by the succession law of their country of domicile rather than Indian personal law, subject to the specific facts",
+      "Immovable property in India, by contrast, is generally governed by Indian law regardless of the deceased's domicile — the situs (location) of immovable property determines the applicable succession rules for that specific asset",
+      "Domicile is a distinct legal concept from citizenship or tax residency — it turns on where a person has their permanent home with the intention to remain, and a person retains their domicile of origin until they demonstrably acquire a new domicile of choice",
+      "A person married under the Special Marriage Act, 1954 has their succession governed by the Indian Succession Act, 1925 regardless of their individual religion, which can produce a different outcome than if the same person's estate were governed by their personal law",
+      "Because domicile-based conflict-of-laws questions can produce genuinely different outcomes for movable assets, an NRI or foreign-domiciled person of Indian origin with meaningful movable assets in India should get jurisdiction-specific advice on which country's succession law actually governs those assets, rather than assuming Indian personal law automatically applies"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Religion-based applicability of Hindu Succession Act, Muslim personal law, and Indian Succession Act: well-settled, confirmed at research time",
+      "Domicile-based choice-of-law for movable property vs situs-based rule for immovable property in Indian private international law: well-settled conflict-of-laws principle, confirmed via general practitioner and academic sources at research time — present as a general principle, since exact outcomes are fact- and treaty-specific",
+      "Special Marriage Act couples governed by the Indian Succession Act for succession: well-settled, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "challenging-family-settlement-deed-guide",
+    "topic_title": "Challenging a Family Settlement Deed: Grounds and Limitation Period",
+    "angle": "A guide for a family member who signed (or wants to challenge) a family settlement dividing an estate among heirs without going through formal probate or partition litigation, explaining when such settlements are binding and when they can be reopened.",
+    "key_points": [
+      "A family settlement is an agreement among family members to divide or resolve disputed claims over an estate or joint property, and Indian courts have long favoured such settlements as a means of avoiding prolonged litigation, giving them a presumption of validity once acted upon",
+      "A family settlement need not be executed by every party in a single formal deed — courts have recognised oral family settlements and settlements recorded through correspondence or conduct, provided the essential facts of a genuine settlement (a real dispute or possible dispute, and a bona fide compromise) are established",
+      "A family settlement can be challenged on grounds including fraud, coercion, undue influence, or a fundamental mistake as to material facts — but courts are reluctant to unsettle a settlement that has been acted upon for years, particularly where third parties have since dealt with the property in reliance on it",
+      "Where a family settlement deed involves an actual transfer or relinquishment of an existing right in immovable property (rather than simply recording or acknowledging pre-existing rights), stamp duty and registration requirements under the Registration Act, 1908 may apply, and a document that should have been registered but wasn't can face admissibility problems in later litigation",
+      "The limitation period for challenging a family settlement generally runs from when the aggrieved party had knowledge of the ground for challenge (such as discovering the fraud), typically three years under the Limitation Act, 1963 for a suit to set aside an instrument — delay in challenging a settlement, once its basis is known, significantly weakens the claim",
+      "Anyone asked to sign a family settlement should treat it with the same seriousness as any other property document — get independent legal advice before signing, since courts will hold a party to a settlement they later regret absent one of the recognised grounds for challenge"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Judicial favour toward family settlements and recognition of oral/informal settlements: well-settled principle from Supreme Court precedent (including Kale v. Deputy Director of Consolidation), confirmed via general practitioner literature at research time",
+      "Grounds for challenge (fraud, coercion, undue influence, mistake) and reluctance to unsettle acted-upon settlements: well-settled, confirmed at research time",
+      "Three-year limitation period under the Limitation Act, 1963 for a suit to set aside an instrument, running from knowledge of the ground: well-settled statutory framework — verify the precise applicable Article of the Limitation Act against the specific relief sought at drafting time, since limitation periods vary by the nature of relief claimed"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "guardianship-minor-property-guardians-wards-act-guide",
+    "topic_title": "Guardianship of a Minor's Property: The Guardians and Wards Act Explained",
+    "angle": "A guide for a parent, relative or trustee managing property inherited by or belonging to a minor, explaining when a natural guardian's authority is sufficient and when court appointment under the Guardians and Wards Act, 1890 is required.",
+    "key_points": [
+      "A minor's natural guardian (ordinarily the father, and in his absence the mother, under Hindu law, subject to the Supreme Court's clarification that a mother can be the natural guardian even during the father's lifetime in appropriate circumstances) can manage the minor's property for day-to-day purposes without a court order",
+      "However, a natural or other guardian needs prior permission of the court under Section 29 of the Hindu Minority and Guardianship Act, 1956 (for Hindus) or under the Guardians and Wards Act, 1890 more generally, before selling, mortgaging, leasing for more than five years, or otherwise transferring the minor's immovable property",
+      "Where there is no natural guardian available or willing to act, or where the property is substantial and likely to require active management, an interested party can apply to the District Court for appointment as the minor's guardian of property under the Guardians and Wards Act, 1890",
+      "A court-appointed guardian of property is subject to ongoing court oversight — they may be required to furnish accounts, and any significant transaction involving the minor's property typically still requires specific court permission even after appointment",
+      "Guardianship of property is distinct from guardianship of the person (custody) — a court can appoint different guardians for a minor's person and their property where circumstances warrant, though in practice the same person often holds both roles",
+      "A transaction involving a minor's immovable property carried out without the required court permission is voidable at the instance of the minor on attaining majority, so a buyer, lender or lessee dealing with a minor's property through a guardian should always verify that any necessary court permission was actually obtained"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 29 of the Hindu Minority and Guardianship Act, 1956 requiring court permission for transfer of a minor's immovable property: well-settled statutory requirement, confirmed at research time",
+      "Guardians and Wards Act, 1890 as the general framework for court-appointed guardianship of property: well-settled, confirmed at research time",
+      "Voidability of unauthorised transactions involving a minor's property at the minor's instance on majority: well-settled principle, confirmed via general practitioner literature at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "nri-property-purchase-fema-rules-guide",
+    "topic_title": "NRI Property Purchase in India: What You Can and Cannot Buy Under FEMA",
+    "angle": "A practical guide for an NRI or OCI cardholder looking to buy property in India, explaining what property types are permitted under FEMA, the agricultural-land restriction and its inheritance exception, and payment-channel requirements.",
+    "key_points": [
+      "NRIs and OCI cardholders can freely purchase residential and commercial property in India under the Foreign Exchange Management (Non-debt Instruments) Rules, 2019, without needing prior RBI approval for most such purchases",
+      "NRIs and OCIs are prohibited from purchasing agricultural land, plantation property or a farmhouse anywhere in India — this restriction applies to the class of property itself, not the source of funds, so remitting the purchase money from abroad does not make an otherwise-prohibited purchase permissible",
+      "The one exception is inheritance: an OCI or NRI can acquire agricultural land by inheritance from a person resident in India, or by gift from a resident Indian relative, even though they could not have purchased the same land outright",
+      "Inherited agricultural land held by an OCI or NRI can only be sold to a person resident in India who is an Indian citizen — it cannot be sold on to another NRI or OCI, which limits the pool of eligible buyers if the holder later wants to liquidate the asset",
+      "Payment for a permitted property purchase must be made through normal banking channels — funds held in an NRE, NRO or FCNR(B) account, or inward remittance through banking channels — and not through traveller's cheques or foreign currency notes",
+      "Purchasing agricultural land in violation of the FEMA restriction is a contravention regardless of intent, and penalties can run to multiples of the purchase price — an NRI or OCI unsure whether a specific parcel counts as 'agricultural' or 'plantation' property under local land records should confirm its classification before purchase, not after"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "FEMA (Non-debt Instruments) Rules, 2019 permitting NRI/OCI purchase of residential/commercial property without prior RBI approval: well-settled, confirmed via whytecroftford.com, assetlyhq.com and hkllawoffices.com at research time",
+      "Prohibition on agricultural land/plantation/farmhouse purchase, with inheritance and resident-relative-gift exceptions: well-settled FEMA framework, confirmed at research time",
+      "Restriction on OCI/NRI reselling inherited agricultural land only to a resident Indian citizen: confirmed via hkllawoffices.com at research time",
+      "Penalty exposure for contravention (illustrative Martin Jebarathna Doss Antonisamy enforcement precedent): confirmed via research-time sources — present as illustrative of enforcement risk rather than a guaranteed penalty formula, since FEMA penalties are case-specific"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "power-of-attorney-nri-drafting-fraud-prevention-guide",
+    "topic_title": "Power of Attorney for NRIs: Drafting It Right to Avoid Property Fraud",
+    "angle": "A guide for an NRI who needs to authorise someone in India to manage or sell property on their behalf, covering how to draft and execute a valid Power of Attorney safely, informed by the 2026 Punjab and Haryana High Court ruling in Sarabjit Kaur v. State of Punjab on NRI property fraud.",
+    "key_points": [
+      "A Power of Attorney (PoA) executed by an NRI must generally be executed before the Indian Consulate/Embassy in their country of residence (or notarised and then adjudicated/stamped in India) to be accepted for property-related transactions before Indian sub-registrars",
+      "A PoA is not itself an instrument of transfer of title in immovable property — the Supreme Court held in Suraj Lamp & Industries v. State of Haryana that a sale, mortgage or lease of immovable property can only be validly effected by a registered conveyance, not by a power of attorney alone, so a so-called 'GPA sale' does not actually transfer ownership",
+      "NRI property fraud through impersonation — where fraudsters produce imposters to pose as the actual owners at registration — is a recurring problem specifically because the genuine NRI owner cannot be physically present to verify the transaction, as seen in the 2026 Punjab and Haryana High Court case of Sarabjit Kaur v. State of Punjab",
+      "A narrowly scoped, specific Power of Attorney (limited to a particular transaction, with an expiry date, and revocable) is considerably safer than a broad, open-ended general power of attorney that gives the agent sweeping authority over all of the NRI's affairs indefinitely",
+      "An NRI granting a PoA should register the revocation with the same sub-registrar's office and publish a public notice if they ever wish to cancel it, since an agent or a third-party buyer dealing in good faith may otherwise be unaware the authority has been withdrawn",
+      "Practical safeguards include periodically verifying property records (encumbrance certificate, mutation records) remotely, restricting the PoA holder's authority to specific acts rather than blanket powers, and where possible visiting India periodically to personally verify that no unauthorised dealing has occurred"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Consular/notarisation and adjudication requirements for an NRI-executed PoA to be valid for Indian property transactions: well-settled procedural requirement, confirmed via general NRI legal practitioner sources at research time — note exact consular procedure varies by country and should be confirmed against the specific Indian mission's current requirements at drafting time",
+      "Suraj Lamp & Industries v. State of Haryana holding a PoA is not an instrument of transfer: well-settled Supreme Court precedent, confirmed via multiple sources at research time, including its citation in Sarabjit Kaur v. State of Punjab (2026)",
+      "Sarabjit Kaur v. State of Punjab (CRM-M-66240-2025, decided 9 March 2026) as illustrative of impersonation-based NRI property fraud: confirmed via tribuneindia.com and assetlyhq.com at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "foreign-divorce-decree-recognition-india-guide",
+    "topic_title": "When Will an Indian Court Recognise a Foreign Divorce Decree?",
+    "angle": "A guide for an NRI who obtained a divorce abroad, or whose spouse did, explaining the framework under Section 13 of the CPC for when a foreign divorce decree is (and isn't) recognised in India, distinct from this site's general family law and matrimonial guides.",
+    "key_points": [
+      "A foreign divorce decree is not automatically valid in India merely because a competent foreign court granted it — its recognition is tested against Section 13 of the Code of Civil Procedure, 1908, which lists specific grounds on which a foreign judgment will not be treated as conclusive",
+      "The most common ground on which Indian courts refuse to recognise a foreign divorce decree is that it was granted on a basis not available under the Indian personal law actually applicable to the marriage — for example, a US decree granted on 'irretrievable breakdown of marriage' is not enforceable in India for a Hindu-law marriage, since irretrievable breakdown is not (absent Article 142 relief) a statutory ground for divorce under the Hindu Marriage Act, 1955",
+      "A foreign decree is also vulnerable to non-recognition where the Indian spouse was not properly served notice of the foreign proceedings, or did not genuinely submit to that court's jurisdiction — a decree obtained essentially ex parte, without the other spouse's real participation, is a frequent basis for challenge",
+      "The foreign court must also have had proper jurisdiction recognised under Indian conflict-of-laws principles — ordinarily this requires the parties to have been domiciled within that foreign court's jurisdiction, not merely present there temporarily or for the purpose of obtaining a quick divorce",
+      "Where a foreign decree is not recognised in India, the marriage remains legally subsisting under Indian law even though one or both parties may believe themselves divorced — this has serious downstream consequences for remarriage (risking bigamy), inheritance and maintenance claims",
+      "An NRI spouse should not assume a foreign divorce automatically closes the matter in India — obtaining a corresponding decree (or at minimum an unambiguous legal opinion on recognition) under the applicable Indian personal law is the only way to be certain the marriage is validly dissolved for all purposes in India"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 13 CPC framework for recognition of foreign judgments, including grounds for non-recognition: well-settled statutory framework, confirmed via legalserviceindia.com and multiple practitioner sources at research time",
+      "Foreign decree on 'irretrievable breakdown' not enforceable for a Hindu Marriage Act marriage: confirmed via livelaw.in and newsgram.com coverage of a 2026 Supreme Court ruling on point at research time",
+      "Consequences of non-recognition (continuing subsistence of the marriage, bigamy risk on remarriage): well-settled principle, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "black-money-act-nri-undisclosed-foreign-asset-guide",
+    "topic_title": "The Black Money Act and NRIs: What Counts as an 'Undisclosed Foreign Asset'?",
+    "angle": "A compliance guide for an NRI, returning NRI, or resident with foreign holdings, explaining the Black Money (Undisclosed Foreign Income and Assets) Act, 2015's disclosure obligations and what recent ITAT rulings say counts (and doesn't count) as an undisclosed asset.",
+    "key_points": [
+      "The Black Money Act, 2015 applies to a person who is a resident (other than 'not ordinarily resident') under the Income Tax Act, and requires disclosure of foreign assets and income in Schedule FA of the income tax return, with steep penalties — including a flat Rs. 10 lakh penalty per undisclosed asset and up to 10 years' imprisonment — for non-disclosure",
+      "A foreign bank account cannot be left off Schedule FA merely because it has few transactions or a low balance — the Delhi Bench of the ITAT held in Ashok Shankar v. ACIT (2026) that non-disclosure of a foreign bank account, along with a foreign shareholding, attracted Black Money Act penalties regardless of how modest the account activity was",
+      "However, the Act is not limitless in reach — the Delhi Bench of the ITAT held in Sarvesh Naidu v. DDIT (Investigation) that maturity proceeds from a foreign life insurance policy taken out while the taxpayer was genuinely a non-resident, and properly claimed as exempt under Section 10(10D) of the Income Tax Act, could not be treated as an undisclosed foreign asset merely because the insurer was foreign",
+      "The critical distinction in recent rulings is between an asset that was genuinely never disclosed anywhere, versus income that was reported through the ordinary tax return even if the specific foreign-asset disclosure schedule was incomplete — the latter has fared better before tribunals, though it remains a risk best avoided by complete disclosure in the first place",
+      "A returning NRI transitioning from non-resident to resident status should specifically review all foreign accounts, foreign company shareholdings, foreign real estate and foreign insurance policies opened while abroad, and ensure each is properly reflected in Schedule FA from the first tax return filed as a resident",
+      "Given the severity of Black Money Act penalties compared to ordinary Income Tax Act penalties for the same non-disclosure, an NRI or returning NRI with any foreign holdings should treat Schedule FA compliance as a distinct, higher-stakes exercise rather than an afterthought to their regular tax filing"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Black Money Act, 2015 applicability to 'resident' (excluding RNOR) taxpayers, and Schedule FA disclosure requirement: well-settled statutory framework, confirmed via cleartax.in and multiple practitioner sources at research time",
+      "Penalty structure (illustrative Rs. 10 lakh per-asset penalty, imprisonment exposure): well-settled statutory framework, confirmed at research time — verify current penalty figures against the Act as amended at drafting time",
+      "Ashok Shankar v. ACIT (2026 TAXSCAN (ITAT) 1233, 5 August 2026) and Sarvesh Naidu v. DDIT (Investigation) as illustrative contrasting ITAT outcomes: confirmed via taxscan.in, bdo.global, thetaxcorp.in and tradingview.com at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "rnor-returning-nri-fema-tax-residency-guide",
+    "topic_title": "Returning to India? Why Your Tax Residency Isn't the Same as Your FEMA Residency",
+    "angle": "A guide for an NRI planning to return to India, or one who has recently returned, explaining the RNOR (Resident but Not Ordinarily Resident) status under the Income Tax Act and why it can diverge sharply from residency status under FEMA — a distinct, narrower angle from this site's general NRI succession guides.",
+    "key_points": [
+      "Under the Income Tax Act, a returning NRI generally qualifies for RNOR status if they were a non-resident in 9 of the preceding 10 financial years, or spent 729 days or fewer in India over the preceding 7 financial years — RNOR status means only India-sourced income (and income from a business controlled from India) is taxed, while genuine foreign income stays outside India's tax net during the RNOR window",
+      "FEMA uses an entirely different test from the Income Tax Act's day-count rule — it looks at the purpose and intention behind a person's presence in or absence from India, meaning a person can simultaneously be a 'resident' under the Income Tax Act's day-count and a 'non-resident' under FEMA, or vice versa, in the very same year",
+      "This divergence matters practically because FEMA residency (not tax residency) determines when NRE/NRO/FCNR accounts must be reclassified as resident accounts, and when certain FEMA-specific permissions or restrictions apply — a returning NRI who is a tax resident but still a FEMA non-resident can find themselves in a genuine procedural limbo on account reclassification",
+      "The RNOR window is time-limited — once a returning NRI accumulates enough years of Indian residence to no longer meet the 9-of-10 or 729-day tests, they become an ordinarily resident taxpayer whose worldwide income is taxable in India, so RNOR status should be treated as a planning window rather than a permanent arrangement",
+      "A returning NRI should plan the timing of major foreign-income events — bonus payouts, sale of foreign assets, foreign retirement account withdrawals — to fall within the RNOR window where possible, since the same transaction can be entirely outside India's tax net during RNOR but fully taxable once ordinarily resident status begins",
+      "Because FEMA and tax residency are assessed independently and can each change on a different timeline, a returning NRI should get residency status confirmed under both frameworks separately rather than assuming one determination settles the other"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "RNOR qualifying conditions (9-of-10-years non-resident test; 729-days-or-fewer-in-7-years test) under the Income Tax Act: well-settled statutory framework, confirmed via cleartax.in and incometaxindia.gov.in materials at research time",
+      "FEMA's distinct, intention/purpose-based residency test diverging from the Income Tax Act's day-count test: confirmed via rashminsanghvi.com, casahuja.com and legalclarity.org at research time",
+      "NRE/NRO/FCNR account reclassification triggered by FEMA (not tax) residency status: confirmed via nriglobe.com's FEMA compliance guide for returning NRIs and casahuja.com's discussion of the 2026 tribunal ruling at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "dtaa-nri-double-taxation-form-10f-trc-guide",
+    "topic_title": "DTAA Relief for NRIs: Claiming Tax Residency Certificate and Form 10F Benefits Correctly",
+    "angle": "A guide for an NRI earning India-sourced income (rent, interest, dividends, capital gains) who wants to claim reduced withholding tax under a Double Taxation Avoidance Agreement, explaining the TRC and Form 10F/Form 41 procedural requirements.",
+    "key_points": [
+      "India has DTAAs with over 90 countries, and each treaty fixes reduced tax rates or exemptions for specific categories of India-sourced income (such as interest, dividends, royalties and capital gains) earned by a resident of the treaty partner country, compared to the higher rates that would otherwise apply under the Income Tax Act alone",
+      "Under Section 90(4) of the Income Tax Act, an NRI can claim DTAA relief only if they first obtain a Tax Residency Certificate (TRC) from the tax authority of their country of residence, confirming they are in fact a tax resident there for the relevant period",
+      "Historically, NRIs also had to submit Form 10F to the Indian payer alongside the TRC whenever the TRC itself did not contain all the prescribed particulars — under the Income-tax Act, 2025 (effective 1 April 2026), Form 41 has replaced Form 10F as the prescribed form for this purpose, so NRIs and their Indian payers/deductors should confirm they are using the current form",
+      "DTAA relief must be claimed at the point of withholding (so the Indian payer deducts tax at the treaty rate rather than the higher domestic rate) wherever practicable, since claiming a refund of excess TDS later through the tax return, while possible, ties up funds and adds a filing and processing delay",
+      "TRC and Form 10F/41 are not a one-time filing — they generally need to be furnished at least once for each relevant tax year and income stream, so an NRI receiving recurring India-sourced income (such as rental income or FD interest) should renew their TRC annually rather than relying on a certificate from a prior year",
+      "An NRI who fails to furnish the required TRC and form will have Indian tax withheld at the higher domestic rate (or the rate under Section 195 for the specific income type) regardless of what the underlying DTAA actually permits — the treaty benefit is not applied automatically by the payer without the required paperwork"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 90(4) TRC requirement for claiming DTAA relief: well-settled statutory requirement, confirmed via incometaxindia.gov.in and multiple practitioner sources at research time",
+      "Form 41 replacing Form 10F under the Income-tax Act, 2025 effective 1 April 2026: confirmed via taxfetchindia.com and taxpremia.com at research time — flagged as a recent legislative change to verify against the current prescribed form at drafting time, since transitional guidance may still be evolving",
+      "Annual/per-income-stream renewal requirement for TRC and Form 10F/41: confirmed via skla.in and taxpremia.com at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "oci-cardholder-property-rights-guide",
+    "topic_title": "Buying Property in India as an OCI Cardholder: Rules, Restrictions and Documentation",
+    "angle": "A guide specifically for an OCI (Overseas Citizen of India) cardholder distinct from a standard NRI, covering what property rights an OCI card actually confers, how they differ (or don't) from an NRI's, and the recurring agricultural-land trap.",
+    "key_points": [
+      "For most property-purchase purposes, OCI cardholders are treated the same as NRIs under the Foreign Exchange Management (Non-debt Instruments) Rules, 2019 — both can freely purchase residential and commercial property in India through normal banking channels",
+      "Like NRIs, OCI cardholders cannot purchase agricultural land, plantation property or a farmhouse anywhere in India — this is a blanket restriction on the property type, and funding the purchase with foreign remittance does not make an otherwise-prohibited agricultural land purchase permissible",
+      "An OCI cardholder can acquire agricultural land by inheritance from a person resident in India, or receive it as a gift from a resident Indian relative, even though a direct purchase of the same land would be prohibited — but if they later wish to sell that inherited land, the buyer must be a person resident in India who is an Indian citizen",
+      "OCI status is distinct from citizenship — an OCI cardholder does not have the same property rights or protections as an Indian citizen in every context, and OCI status itself can be cancelled under Section 7D of the Citizenship Act on specified grounds, which would also affect the holder's ongoing eligibility to deal with Indian property as an OCI",
+      "Contravening the agricultural-land restriction, even unknowingly, exposes an OCI cardholder to serious FEMA enforcement consequences, including penalties that can run to multiples of the purchase price — local land records should always be checked for the property's actual classification (which is not always obvious from a builder's or seller's description) before purchase",
+      "An OCI cardholder buying property should keep clear documentation of the funding source (remittance through an NRE/NRO/FCNR account) and retain proof that the property is not agricultural/plantation land at the time of purchase, since both points can become relevant if the transaction is later scrutinised"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "OCI cardholders treated equivalently to NRIs for residential/commercial property purchase under the FEMA Non-debt Instruments Rules, 2019: well-settled, confirmed via indianembassyqatar.gov.in and lukeandluka.in at research time",
+      "Agricultural land/plantation/farmhouse restriction and inheritance/resident-relative-gift exceptions for OCIs specifically: confirmed via whytecroftford.com and hkllawoffices.com at research time",
+      "Section 7D Citizenship Act grounds for OCI cancellation as a distinct risk from ordinary citizenship: well-settled statutory framework, confirmed at research time — presented as a general point about OCI status's distinctness from citizenship, not tied to any specific pending cancellation dispute"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "inter-country-adoption-nri-cara-hague-convention-guide",
+    "topic_title": "Inter-Country Adoption and Relocation: The CARA NOC and Hague Convention Process for NRI Families",
+    "angle": "A guide for NRI or foreign-resident prospective adoptive parents, or a family that has already adopted a child under Indian personal law and now needs to relocate the child abroad, explaining CARA's role and the 2026 Delhi High Court ruling in Gur Kaur v. Union of India, distinct from this site's general adoption guide.",
+    "key_points": [
+      "The Central Adoption Resource Authority (CARA) is the statutory body regulating both in-country and inter-country adoption of Indian children, and India's inter-country adoption process is governed by compliance with the Hague Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, to which India is a party",
+      "A family that has already completed a registered adoption of a minor under personal law (such as the Hindu Adoption and Maintenance Act, 1956) — rather than through CARA's own inter-country adoption process — can still face a gap when they later need to relocate the child abroad, since the destination country's immigration process typically requires Hague Convention-compliant documentation",
+      "The Delhi High Court held in Gur Kaur (Minor) & Ors. v. Union of India & Anr. (2026:DHC:3264) that CARA is statutorily obligated under the Adoption Regulations to actively facilitate Hague Convention compliance for such relocations, and cannot leave adoptive parents without effective recourse by issuing only an informal support letter instead of the required NOC",
+      "Separately, the Supreme Court has in 2026 questioned CARA's practice of opposing inter-country adoption or relocation by close family members (such as an NRI aunt or uncle) where the underlying adoption was already validly completed under personal law, signalling potential further relief for relative adoptions, though that matter remains pending",
+      "Prospective NRI adoptive parents planning from the outset to relocate a child abroad should consider pursuing CARA's own inter-country adoption process (rather than a personal-law adoption followed by a later relocation application) where eligible, since it is purpose-built for Hague Convention compliance and avoids the documentation gap that HAMA-based adoptions can face",
+      "Families already in the HAMA-adoption-then-relocation situation should apply to CARA for the actual NOC (not merely a support letter) and be prepared, based on the Gur Kaur precedent, to seek High Court intervention if CARA does not process the Hague Convention documentation the destination country's immigration authorities require"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "CARA's statutory role and the Hague Convention on Intercountry Adoption's applicability to India: well-settled, confirmed via cara.wcd.gov.in-referenced practitioner sources and Wikipedia's Hague Adoption Convention/CARA entries at research time",
+      "Gur Kaur (Minor) & Ors. v. Union of India & Anr. (2026:DHC:3264, decided 21 April 2026): confirmed via verdictum.in, mondaq.com and lawtrend.in at research time",
+      "Pending Supreme Court matter on CARA's opposition to relative-based inter-country adoption (as of the hearing on 22 June 2026): confirmed via livelaw.in, etvbharat.com and deccanherald.com at research time — presented as a pending, not yet finally decided, development"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "rera-nri-homebuyer-filing-hearing-abroad-guide",
+    "topic_title": "RERA for NRI Homebuyers: Filing a Complaint and Attending Hearings From Abroad",
+    "angle": "A practical guide for an NRI who has booked a flat or commercial unit in an Indian real estate project and needs to pursue a delayed-possession or refund complaint under RERA without being physically present in India, as a companion to this site's existing RERA guides with an NRI-specific procedural focus.",
+    "key_points": [
+      "An NRI homebuyer has the same substantive rights under the Real Estate (Regulation and Development) Act, 2016 as a resident buyer — including the right to a refund with interest or continued possession with delay compensation under Section 18 — RERA does not distinguish between resident and non-resident allottees on entitlement",
+      "Most State RERA Authorities and Appellate Tribunals now permit video-conference hearings, which materially reduces the practical burden on an NRI complainant who previously had to travel to India or rely entirely on counsel to attend every hearing in person",
+      "An NRI complainant can authorise an India-based representative — typically through a Power of Attorney — to file the complaint, submit documents, and represent them at hearings where personal video appearance isn't feasible due to time-zone or travel constraints, provided the authority is properly executed",
+      "Complaints are filed on the relevant state RERA's online portal, and payment records, the sale agreement, and correspondence with the promoter about delay should be assembled as scanned documents in advance, since an NRI complainant is less able to produce originals on short notice than a resident buyer",
+      "Where an NRI has already remitted funds from abroad for the purchase, keeping clear records of the foreign remittance (in addition to the domestic payment receipts) can be useful in the RERA proceeding, both to establish the amounts paid and, separately, to support any later FEMA-compliant repatriation of a refund",
+      "An NRI awarded a refund by a RERA Authority should specifically confirm the repatriation route for those funds — a refund credited to an NRO account is subject to the ordinary NRO repatriation process (including the USD 1 million annual cap and supporting documentation) rather than being automatically freely remittable"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "RERA's equal substantive treatment of resident and non-resident allottees under Section 18: well-settled, since the Act does not distinguish by residency status, confirmed at research time",
+      "Video-conference hearing availability at State RERA Authorities/Appellate Tribunals: general practice confirmed via nrilegalworld.com and raizadaassociates.com at research time — note availability and format can vary by state, so confirm the specific state RERA's current hearing practice at drafting time",
+      "NRO account repatriation subject to the USD 1 million annual cap and documentation requirements for a RERA refund credited there: well-settled FEMA/RBI framework, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "nre-nro-fcnr-accounts-comparison-guide",
+    "topic_title": "NRE, NRO and FCNR Accounts Explained: Which One for Which Purpose",
+    "angle": "A foundational guide for a new or prospective NRI choosing between the three main NRI bank account types, explaining the repatriation, taxation and currency differences that determine which account fits which situation.",
+    "key_points": [
+      "An NRE (Non-Resident External) account holds foreign earnings converted to and maintained in Indian rupees, is fully and freely repatriable at any time with no RBI approval needed and no upper limit, and its interest is completely tax-free in India — making it the natural choice for parking genuinely foreign income the NRI wants to be able to move back out freely",
+      "An NRO (Non-Resident Ordinary) account is also rupee-denominated but is designed to hold India-sourced income — rent, dividends, pension, or sale proceeds of Indian property — and its interest is taxed at 30% (plus applicable cess) with TDS deducted at source, reflecting its Indian-income character",
+      "Repatriating funds out of an NRO account is subject to the standard NRO repatriation process — a Chartered Accountant's certificate (Form 15CB) and the account holder's own declaration (Form 15CA), plus a cap of USD 1 million per financial year covering all NRO remittances combined",
+      "An FCNR (Foreign Currency Non-Resident) account holds a fixed deposit in a foreign currency itself (such as USD, GBP or EUR) rather than in rupees, eliminating currency-conversion risk for the depositor, and is fully repatriable on maturity or premature withdrawal without a cap, with interest also tax-free in India",
+      "The practical choice generally follows the money's source and purpose — genuinely foreign income destined to possibly leave India again belongs in an NRE or FCNR account, while India-sourced income (which will attract Indian tax regardless) is properly routed through an NRO account",
+      "An NRI who becomes a resident again (on return to India) must have their NRE and NRO accounts redesignated as resident accounts, and FCNR deposits can typically run to maturity at the NRI rate even after return — getting this redesignation done promptly on change of residential status avoids inadvertent FEMA non-compliance"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "NRE account full repatriability, no cap, and tax-free interest: well-settled RBI/FEMA framework, confirmed via cafornri.com, finpracto.com and bookmyforex.com at research time",
+      "NRO account 30% (plus cess) TDS on interest and USD 1 million annual repatriation cap with Form 15CA/15CB requirement: well-settled framework, confirmed via savetaxs.com and cafornri.com at research time",
+      "FCNR account foreign-currency-denominated deposit, full repatriability without cap, tax-free interest: well-settled framework, confirmed via nriglobe.com and finpracto.com at research time",
+      "Redesignation requirement for NRE/NRO accounts on return to resident status: well-settled RBI/FEMA requirement, confirmed via nriglobe.com's returning-NRI FEMA guide at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "cross-border-child-custody-relocation-guide",
+    "topic_title": "Cross-Border Child Custody: What Happens When One Parent Relocates Abroad With a Child",
+    "angle": "A guide for a parent facing or contemplating an international relocation dispute involving a child — where one NRI parent wants to take a child abroad, or has already done so, without the other parent's consent — explaining how Indian courts approach jurisdiction and the child's best interests, since India is not a party to the Hague Convention on child abduction.",
+    "key_points": [
+      "India is not a signatory to the 1980 Hague Convention on the Civil Aspects of International Child Abduction, which means there is no automatic, treaty-based mechanism for the swift return of a child brought to or retained in India (or removed from India) in violation of a foreign custody order — each case is decided on its own facts by Indian courts",
+      "Indian courts, including the Supreme Court, have developed a 'best interests and welfare of the child' standard for cross-border custody and relocation disputes rather than mechanically enforcing a foreign court's custody order, though a foreign order and the reasons a parent left that jurisdiction are relevant factors the Indian court will weigh",
+      "Where a parent has taken a child to India in apparent violation of a foreign custody order, the aggrieved parent can seek a writ of habeas corpus before the relevant Indian High Court, which examines whether the child's continued presence with the parent in India is in the child's best interests, rather than treating the case as a simple contempt of the foreign order",
+      "Conversely, a parent in India seeking to relocate abroad with a child (for work, remarriage or family reasons) generally needs either the other parent's consent or a court order permitting relocation, particularly where custody or visitation arrangements are already governed by an Indian court order or a settlement",
+      "Given the absence of Hague Convention protection, the most effective safeguard is preventive — a consent order or settlement agreement on custody and travel that explicitly addresses international relocation, passport control, and a clear dispute-resolution mechanism, agreed while both parents are amicable, rather than relying on litigation after a unilateral relocation has already occurred",
+      "A parent genuinely concerned about a unilateral cross-border removal should consider requesting the court to direct that both parents' consent (or a specific court order) is needed before either parent can take the child outside India, and should keep the child's passport arrangements documented as part of any custody or visitation order"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "India's non-accession to the 1980 Hague Convention on child abduction: well-settled and widely reported fact, confirmed at research time",
+      "Habeas corpus as the primary Indian judicial remedy for cross-border child custody/retention disputes, decided on a best-interests standard: well-settled, confirmed via general family-law practitioner and Supreme Court precedent sources at research time",
+      "Preventive consent-order/passport-control safeguards as standard practitioner guidance for cross-border custody risk: general practice guidance, confirmed via general family-law literature at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "nri-cross-border-wills-guide",
+    "topic_title": "NRI Wills: Should You Have One Will for Indian Assets and Another for Foreign Assets?",
+    "angle": "A guide for an NRI with assets in both India and abroad, addressing the practical drafting question of whether to make a single global Will or separate Wills for each jurisdiction, as a companion to this site's existing NRI succession-law guide with a specifically drafting-focused angle.",
+    "key_points": [
+      "An NRI with meaningful assets in more than one country faces a genuine choice between a single Will covering all worldwide assets, or separate Wills — one for Indian assets, one for assets in each other relevant jurisdiction — and the right answer depends on the number of jurisdictions, asset types, and how those jurisdictions treat a foreign Will",
+      "Separate Wills for Indian and foreign assets are often preferred in practice because each Will can be drafted to comply cleanly with the specific execution, witnessing and (where applicable) registration requirements of its own jurisdiction, reducing the risk that a single document valid in one country is challenged as improperly executed under another's law",
+      "Where separate Wills are used, each Will should expressly state that it deals only with assets in that specific jurisdiction and should not revoke Wills made for other jurisdictions — a poorly worded revocation clause in a later-executed foreign Will can accidentally revoke an earlier Indian Will covering entirely different assets, creating an unintended partial intestacy",
+      "Probate of an Indian Will for an NRI's Indian assets is obtained from the Indian court having jurisdiction (typically based on where the immovable property is situated, or where the deceased had assets), and a foreign grant of probate or letters of administration is not automatically recognised in India — a 'resealing' or fresh Indian probate process is usually required for a foreign-jurisdiction Will covering Indian assets",
+      "Executors and beneficiaries should be chosen with practical administration in mind — an executor who is not resident in or familiar with India can find it genuinely difficult to administer Indian assets remotely, so many NRIs name a trusted India-based co-executor or attorney specifically for the Indian-assets Will even where the NRI's foreign Will names someone else entirely",
+      "Because coordinating multiple Wills across jurisdictions is easy to get wrong in ways that only surface after death, an NRI with cross-border assets should have the Wills reviewed together by lawyers competent in each relevant jurisdiction, rather than drafting each Will in isolation without cross-checking for unintended overlap or revocation"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Practitioner preference for jurisdiction-specific separate Wills for NRIs with multi-country assets: general private-client practice guidance, confirmed via general NRI estate-planning literature at research time",
+      "Risk of a later foreign Will's revocation clause inadvertently revoking an earlier Indian Will: general drafting-risk point, well-recognised in private-client practice, confirmed at research time",
+      "Non-automatic recognition of foreign probate/letters of administration in India, requiring resealing or fresh Indian probate: well-settled under the Indian Succession Act, 1925 framework (Part IX, resealing provisions), confirmed via general practitioner sources at research time — note the resealing route depends on whether the foreign jurisdiction is a notified 'reciprocating territory', which should be confirmed for the specific country at drafting time"
+    ],
+    "added_on": "2026-09-28"
+  }
+]

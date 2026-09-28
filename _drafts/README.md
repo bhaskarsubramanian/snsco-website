@@ -8,6 +8,16 @@ listens to `main`, and no branch-deploy is configured for this branch.
 - `legal-news-queue.json` — verified candidates for full Legal News articles
 - `legal-updates-queue.json` — verified candidates for compact Legal Updates cards
 - `blog-queue.json` — evergreen blog guide topics with confirmed factual outline
+- `practice-areas/` — DRAFT practice-area page(s) not yet added to the live 15-area
+  set on `main`. Each file is a fully rendered page ready to be moved into the live
+  `practice-areas/` directory (and wired into its nav/footer/sitemap/index listings,
+  the same way `family-law.html` was) on a future publish cycle. As of 2026-09-28
+  this holds two drafts: `wills-estate-planning-succession.html` and
+  `nri-legal-services.html`, requested ahead of the news/updates/blog queue items
+  for those two areas so publishing can add all three (practice page + articles)
+  together. Their internal links to specific blog/legal-news article pages will
+  only resolve once those queued items are actually built — check the queue for
+  matching ids before publishing.
 
 ## Workflow
 - **Daily curation routine** (runs ~3am IST daily): researches, verifies (2+ independent
