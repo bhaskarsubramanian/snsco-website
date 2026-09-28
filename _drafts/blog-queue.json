@@ -608,5 +608,98 @@
       "TCS applicability and purpose-dependent rate variation (e.g., lower for education-loan-funded remittances) on LRS remittances above specified thresholds: well-settled, confirmed at research time — verify current threshold and rate figures against the applicable Finance Act provisions at drafting time, since TCS rates and thresholds have changed across recent years"
     ],
     "added_on": "2026-09-28"
+  },
+  {
+    "id": "ibc-section-29a-resolution-applicant-ineligibility-guide",
+    "topic_title": "Section 29A of the IBC: Who Is Ineligible to Submit a Resolution Plan",
+    "angle": "A practical guide for prospective resolution applicants, promoters and creditors on the Section 29A ineligibility categories — wilful defaulters, undischarged insolvents, disqualified directors, NPA account holders and connected persons — and how the 'connected person' test and cure periods actually work.",
+    "key_points": [
+      "Section 29A of the IBC bars specified categories of persons from submitting a resolution plan, including undischarged insolvents, wilful defaulters, persons with NPA accounts they haven't cured, persons convicted of certain offences, and disqualified or debarred directors",
+      "The 'connected person' concept extends ineligibility beyond the applicant itself to related parties and persons acting jointly or in concert with the applicant, which is frequently where disputes arise",
+      "An applicant with an NPA account can cure ineligibility by paying overdue amounts with interest and other charges before submission of the resolution plan",
+      "Promoters of the corporate debtor are not automatically barred — the bar turns on whether they fall within one of the specific disqualifying categories, not on their status as promoter alone",
+      "The Committee of Creditors and Resolution Professional are required to verify eligibility under Section 29A before a plan is considered, and an ineligible plan cannot be approved even with CoC support",
+      "Courts have consistently read Section 29A purposively to keep out those responsible for the corporate debtor's insolvency, while avoiding an overbroad reading that would shrink the pool of genuine bidders"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 29A categories and the NPA cure mechanism: well-settled under the IBC as amended, confirmed via standard IBC commentary and case law at research time",
+      "Connected person test and purposive judicial interpretation: confirmed via established Supreme Court jurisprudence (e.g., Arcelormittal, Swiss Ribbons lines of authority) at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "patent-opposition-pre-grant-post-grant-guide",
+    "topic_title": "Patent Opposition in India: Pre-Grant and Post-Grant Under Sections 25(1) and 25(2)",
+    "angle": "A guide for a business that wants to challenge a rival's pending or granted patent, or that is defending its own patent application against opposition, distinct from this site's existing patent-registration guide, focused specifically on the two-stage opposition mechanism and how the grounds and procedure differ.",
+    "key_points": [
+      "Pre-grant opposition under Section 25(1) can be filed by 'any person' at any time after publication of the application and before grant, without needing to show a personal interest",
+      "Post-grant opposition under Section 25(2) can only be filed by a 'person interested' within 12 months of the date of publication of the grant, and follows a more adversarial, Opposition Board-driven process",
+      "Both provisions share largely overlapping grounds — including lack of novelty, obviousness, insufficient disclosure, wrongful obtainment and non-patentability under Sections 3 and 4 — but the procedural track and evidentiary stages differ",
+      "A pre-grant opposition is decided by the Controller directly, often without an oral hearing being mandatory in every case, while a post-grant opposition is examined by a three-member Opposition Board that submits a recommendation before the Controller decides",
+      "Recent Delhi High Court rulings have reinforced that a pre-grant opposition hearing cannot substitute an applicant's separate statutory right to a Section 14 hearing on objections raised during examination",
+      "Opposing a patent is often faster and cheaper than infringement litigation later, making early monitoring of published applications in a competitor's technology space a practical filing-stage strategy"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 25(1)/25(2) timelines and 'any person' vs 'person interested' standing distinction: well-settled under the Patents Act, 1970, confirmed via standard IP practitioner commentary at research time",
+      "Opposition Board's role in post-grant opposition under Rule 56: well-settled under the Patent Rules, 2003, confirmed at research time",
+      "Delhi HC ruling on pre-grant opposition hearing not substituting a Section 14 hearing: consistent with this site's own already-published July 2026 Delhi High Court coverage on the same point"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "rbi-wilful-defaulter-classification-2024-framework-guide",
+    "topic_title": "Wilful Defaulter Classification: How RBI's 2024 Framework Works and a Borrower's Rights",
+    "angle": "A guide for a borrower or guarantor facing wilful-defaulter classification, or a lender applying the framework, explaining the identification and review committee process, personal hearing rights and cure options under RBI's Master Direction on Treatment of Wilful Defaulters and Large Defaulters.",
+    "key_points": [
+      "RBI's Master Direction on Treatment of Wilful Defaulters and Large Defaulters was issued on 30 July 2024 and took effect from 28 October 2024, applying to banks, NBFCs in the middle layer and above, and All-India Financial Institutions",
+      "Lenders must examine NPA accounts of Rs. 25 lakh and above for wilful default within six months of the account being classified as NPA",
+      "The framework requires a properly constituted identification committee and a separate review committee, and expressly recognises the borrower's and guarantor's right to a personal hearing and to make written submissions before both committees before a final wilful-defaulter classification is made",
+      "A show-cause notice must be issued and a written order served by an authorised official before classification is finalised, and lenders' board-approved policies must set out the constitution of these committees and the terms on which compromise settlements with wilful defaulters can be considered",
+      "Wilful default carries serious consequences beyond credit blacklisting, including restrictions on raising further finance and potential criminal exposure in appropriate cases, making the personal-hearing stage a critical point for a borrower to contest the classification on facts",
+      "The 2024 framework was itself a response to earlier judicial criticism that lenders were classifying borrowers as wilful defaulters without adequate procedural safeguards, and it significantly strengthens those safeguards compared to the pre-2024 position"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Master Direction dated 30 July 2024, effective 28 October 2024: confirmed via azbpartners.com and elplaw.in practitioner summaries at research time",
+      "Rs. 25 lakh NPA threshold and 6-month examination window: confirmed via multiple practitioner sources (Lexology, Vinod Kothari) at research time",
+      "Identification and review committee structure with personal hearing rights: confirmed via azbpartners.com and metalegal.in summaries at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "executing-money-decree-order-xxi-cpc-guide",
+    "topic_title": "Executing a Money Decree in India: The Process Under Order XXI CPC",
+    "angle": "A practical guide for a decree-holder who has won a money suit but still needs to actually recover the amount, and for a judgment-debtor facing execution proceedings, walking through the Order XXI CPC modes of execution and common obstruction tactics.",
+    "key_points": [
+      "A money decree does not enforce itself — the decree-holder must file a separate execution petition under Order XXI of the Civil Procedure Code, typically before the court that passed the decree or, if assets are elsewhere, a court to which the decree is transferred for execution",
+      "Order XXI provides several modes of execution for a money decree, including attachment and sale of the judgment-debtor's movable or immovable property, attachment of salary or bank accounts, and, in limited circumstances, arrest and detention in civil prison",
+      "A limitation period of 12 years from the date the decree becomes enforceable generally applies to filing an execution petition, under the Limitation Act, 1963",
+      "Judgment-debtors commonly resist execution by filing objections under Section 47 CPC disputing questions relating to execution, discharge or satisfaction of the decree, or by claiming exemption for specific categories of property from attachment",
+      "Courts have repeatedly emphasised that execution proceedings should not be allowed to become a fresh round of litigation on the merits already decided, and have encouraged executing courts to dispose of execution petitions expeditiously",
+      "A decree-holder can also seek execution against a corporate judgment-debtor's directors or officers in limited circumstances, and can combine execution with other statutory recovery routes (such as SARFAESI or IBC, where applicable) depending on the nature of the underlying debt"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Order XXI CPC modes of execution (attachment, sale, arrest/detention) and Section 47 objections: well-settled procedural law under the CPC, confirmed via standard civil procedure commentary at research time",
+      "12-year limitation period for execution under Article 136 of the Limitation Act, 1963: well-settled, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "ppp-concession-termination-compensation-model-concession-agreement-guide",
+    "topic_title": "PPP Concession Termination: How Compensation Works Under a Model Concession Agreement",
+    "angle": "A guide for a concessionaire, lender or government authority involved in a PPP infrastructure project (roads, ports, power) facing possible early termination, explaining how Model Concession Agreements structure termination payments differently depending on who is at fault and when termination occurs.",
+    "key_points": [
+      "Model Concession Agreements used for NHAI and other PPP infrastructure projects classify termination into three broad categories: concessionaire default, authority (government) default, and force majeure, each carrying a different compensation formula",
+      "Where the concessionaire defaults before the Commercial Operations Date (COD), termination payment is generally tied to physical progress — if progress exceeds a specified threshold (commonly 40% of project cost), a payout applies to the extent of debt due; below that threshold, little or no termination payment is typically due",
+      "Where the authority is in material default before COD, compensation typically covers the concessionaire's direct costs and loss of fee or toll revenue, but generally excludes repayment of the concessionaire's debt for that pre-COD period",
+      "After COD, authority-default compensation typically shifts to cover interest on debt due and operating and maintenance expenses for the relevant period, reflecting the project's transition to an operating asset",
+      "Lenders to PPP projects usually negotiate a direct 'substitution' right allowing them to step in and cure a concessionaire default before termination compensation formulas are triggered, since a termination event significantly affects debt recovery prospects",
+      "Disputes over termination payment quantification are a recurring source of arbitration and Section 34 challenges in Indian infrastructure contracts, particularly where a concessionaire relies on a financial-model-based loss-of-profits claim rather than documented, verifiable costs"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Three-category termination classification (concessionaire default, authority default, force majeure) and COD-linked compensation formulas: confirmed via Nishith Desai Associates and SNR Law practitioner summaries of Model Concession Agreements at research time",
+      "40% physical-progress threshold for pre-COD concessionaire-default termination payouts: confirmed via practitioner commentary on amended Model Concession Agreements at research time",
+      "Lender substitution rights as a standard PPP financing feature: well-settled market practice, confirmed via practitioner sources at research time"
+    ],
+    "added_on": "2026-09-28"
   }
 ]
