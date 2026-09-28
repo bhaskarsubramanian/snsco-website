@@ -119,14 +119,14 @@
     "angle": "A guide for someone named as executor in a Will (or asked to act as one) explaining the legal duties involved, the personal liability risk, and how to properly discharge the role — distinct from this site's existing probate/succession guides, focused specifically on the executor's own obligations.",
     "key_points": [
       "An executor named in a Will is responsible for collecting and protecting the deceased's assets, paying off legitimate debts and taxes from the estate, and distributing the remainder to the beneficiaries strictly according to the Will's terms — accepting the role is a fiduciary undertaking, not a formality",
-      "An executor should apply for probate of the Will where required (mandatory in the Presidency towns of Mumbai, Chennai and Kolkata for wills of Hindus, and generally advisable elsewhere for a Will affecting immovable property) before dealing with estate assets, since probate is the court's confirmation of the Will's validity and the executor's authority to act",
+      "Probate used to be mandatory in the Presidency towns of Mumbai, Chennai and Kolkata for Wills of Hindus, Sikhs, Jains and Buddhists, but the Repealing and Amending Act, 2025 (Presidential assent 20 December 2025) omitted Section 213 of the Indian Succession Act, 1925 and ended that mandatory requirement nationwide — probate is now optional everywhere, though an executor dealing with immovable property or a bank/company that insists on it may still find it the most practical way to establish authority beyond doubt",
       "Executors owe a duty of reasonable care and can be held personally liable for loss caused to the estate through negligence, self-dealing, or distributing assets before properly settling the deceased's genuine debts — an executor who distributes too early and then finds insufficient funds to pay a legitimate creditor may have to make up the shortfall personally",
       "An executor is entitled to reimbursement of reasonable expenses incurred in administering the estate, and may be entitled to remuneration only if the Will itself provides for it — acting as executor is not automatically a paid role under Indian law",
       "A person who does not wish to act as executor can renounce the role (before starting to act) rather than simply ignoring the appointment, since once someone begins acting as executor (an 'executor de son tort' situation for someone acting without formal appointment carries its own risks) they can become bound by the associated duties",
       "Where an estate is complex — multiple properties, business interests, or likely family disputes — an executor should engage a lawyer to guide the probate and administration process, since personal liability for missteps makes this an area where professional guidance materially reduces risk"
     ],
     "facts_to_verify_or_confirmed": [
-      "Mandatory probate requirement for Wills of Hindus, Buddhists, Sikhs or Jains within the ordinary original civil jurisdiction of the Bombay, Calcutta and Madras High Courts (Section 213, Indian Succession Act): well-settled statutory requirement, confirmed at research time",
+      "Section 213 repeal via the Repealing and Amending Act, 2025 (assent 20 December 2025), ending mandatory probate for Hindus/Sikhs/Jains/Buddhists in the former Presidency towns: confirmed via mondaq.com, ssrana.in, barandbench.com, khaitanco.com, trilegal.com and theprint.in at research time — corrects an earlier draft of this guide that had described probate as still mandatory there",
       "Executor's fiduciary duty and personal liability for maladministration: well-settled principle under the Indian Succession Act, 1925 and general trust/fiduciary law, confirmed at research time",
       "Right to renounce executorship before acting, and the concept of 'executor de son tort': well-settled succession-law concepts, confirmed via general practitioner literature at research time"
     ],
@@ -416,6 +416,196 @@
       "Practitioner preference for jurisdiction-specific separate Wills for NRIs with multi-country assets: general private-client practice guidance, confirmed via general NRI estate-planning literature at research time",
       "Risk of a later foreign Will's revocation clause inadvertently revoking an earlier Indian Will: general drafting-risk point, well-recognised in private-client practice, confirmed at research time",
       "Non-automatic recognition of foreign probate/letters of administration in India, requiring resealing or fresh Indian probate: well-settled under the Indian Succession Act, 1925 framework (Part IX, resealing provisions), confirmed via general practitioner sources at research time — note the resealing route depends on whether the foreign jurisdiction is a notified 'reciprocating territory', which should be confirmed for the specific country at drafting time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "karta-huf-powers-limits-guide",
+    "topic_title": "HUF and a Karta's Powers: What a Karta Can and Cannot Do With Joint Family Property",
+    "angle": "A guide for a family managing a Hindu Undivided Family's joint property, or a coparcener concerned about a Karta's dealings with it, explaining the scope and limits of a Karta's authority, informed by 2026 rulings on Karta acquisitions and gifts.",
+    "key_points": [
+      "A Karta — ordinarily the senior-most male member, though the Supreme Court has recognised a female coparcener can also act as Karta — manages the day-to-day affairs of a Hindu Undivided Family and can bind the family in ordinary transactions without needing every coparcener's individual consent",
+      "A Karta can alienate (sell, mortgage or otherwise transfer) joint family property for 'legal necessity' — which courts have read to include family debts, taxes, litigation expenses and even a daughter's marriage expenses — and such alienation, once linked to legal necessity, binds all coparceners including minors",
+      "However, a Karta has no authority to make a unilateral gift or settlement of the whole or a substantial portion of joint family property to a single coparcener — the Madras High Court held in Murugan Asari v. Minor Coparceners (2026) that such a transfer amounts to a 'virtual partition by gift', a concept unknown to Hindu law, and is void ab initio",
+      "Property acquired by a Karta while the joint family remains intact is presumed to be joint family property once an income-yielding ancestral nucleus is shown to have existed — the Supreme Court held in Dorairaj v. Doraisamy (2026 INSC 126) that the burden then shifts to whoever claims the acquisition as self-acquired property to prove it with cogent evidence",
+      "Not every property held by family members is coparcenary property subject to a Karta's management at all — the Supreme Court clarified in Darubai v. Kamalabai (2026 INSC 613) that property inherited by multiple heirs under Section 8 of the Hindu Succession Act is held as tenants-in-common in individual shares, so no heir (even one informally treated as the family head) can act as 'Karta' over the whole",
+      "A coparcener concerned about a Karta's proposed or completed dealing with joint family property should first establish whether the property is genuinely coparcenary property at all, and if so, whether the transaction is linked to a genuine legal necessity — both questions materially affect whether the transaction can be challenged"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Karta's authority to alienate joint family property for legal necessity, including a daughter's marriage expenses: well-settled Hindu law principle, confirmed via multiple practitioner sources at research time",
+      "Murugan Asari v. Minor Coparceners (2026 LiveLaw (MD) 145, 12 February 2026): confirmed via livelaw.in and thelawcommunicants.com at research time",
+      "Dorairaj v. Doraisamy (2026 INSC 126, 5 February 2026) and Darubai v. Kamalabai (2026 INSC 613, 1 June 2026): confirmed via verdictum.in, scobserver.in and lawtrend.in at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "probate-after-section-213-repeal-guide",
+    "topic_title": "Probate After the Section 213 Repeal: What Executors Should Do Now That It's Optional",
+    "angle": "A guide for an executor or beneficiary navigating estate administration after the Repealing and Amending Act, 2025 ended mandatory probate in the former Presidency towns, explaining what changed, what didn't, and whether seeking probate voluntarily still makes sense.",
+    "key_points": [
+      "Until the Repealing and Amending Act, 2025 took effect (Presidential assent 20 December 2025), Section 213 of the Indian Succession Act, 1925 made it mandatory for a legatee under the Will of a Hindu, Sikh, Jain or Buddhist to first obtain probate before establishing any right under the Will, wherever the Will was made in — or concerned immovable property within — the former Presidency towns of Mumbai, Chennai and Kolkata",
+      "That mandatory requirement is now gone nationwide — a beneficiary or executor can, in principle, act on a validly executed Will without first obtaining court probate, bringing these testators' Wills in line with the position that always applied elsewhere in India and to Wills of Christians, Parsis and Muslims",
+      "The repeal removes a legal compulsion, but it does not change how banks, land registries, share registrars and other institutions actually behave in practice — many will still ask for probate, letters of administration, or another court-sanctioned document before releasing significant assets, simply as their own internal risk-management practice rather than a statutory requirement",
+      "Probate still carries real, if now optional, value for a disputed, high-value or complex estate — it gives an executor a court-tested, publicly recorded confirmation of the Will's validity that is far harder for a disgruntled relative to reopen later than an unprobated Will standing entirely on its own",
+      "For simple, uncontested estates without significant immovable property or institutional gatekeeping, skipping probate can now genuinely save time and cost — but the executor should first confirm, institution by institution, whether probate (or an equivalent court document) will actually be demanded before assuming it can be skipped",
+      "Executors currently mid-way through a probate application that is no longer legally required should still generally see it through once filed, since withdrawing risks looking like an admission of a defect in the Will, and the benefits of a probate order — clear title, reduced future challenge risk — remain available for the asking"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 213 repeal via the Repealing and Amending Act, 2025 (assent 20 December 2025): confirmed via mondaq.com, ssrana.in, barandbench.com, khaitanco.com, trilegal.com and theprint.in at research time",
+      "Institutional practice of still requesting probate/letters of administration despite the statutory requirement being removed: general practitioner observation, confirmed via khaitanco.com and trilegal.com's discussion of practical implications at research time",
+      "Pre-repeal position for Wills outside the former Presidency towns and for Christians/Parsis/Muslims (probate never mandatory there): well-settled, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "wasiyat-muslim-law-one-third-bequest-guide",
+    "topic_title": "Wasiyat Under Muslim Law: The One-Third Bequest Rule and What Happens to the Rest",
+    "angle": "A guide for a Muslim testator or heir dealing with a Wasiyat (Will) under Muslim personal law, explaining the one-third bequest limit, the consent requirement for bequests to an heir, and how it differs from the Hindu/Indian Succession Act frameworks covered elsewhere on this site.",
+    "key_points": [
+      "Muslim personal law in India, applied through the Muslim Personal Law (Shariat) Application Act, 1937, allows a testator to freely bequeath only up to one-third of their net estate — calculated after funeral expenses and debts are paid — by Wasiyat (Will); the remaining two-thirds must pass according to the fixed Quranic rules of inheritance regardless of what the Will says",
+      "A bequest to someone who is already a legal heir requires the consent of the other heirs to take effect, under Sunni (Hanafi) law — without that consent, a bequest to an heir is invalid even if it falls within the one-third limit, since the concern is that favouring one heir over others by Will would upset the Quranic distribution scheme",
+      "Shia law takes a different approach — a bequest to an heir is valid up to the one-third limit even without the other heirs' consent, reflecting a doctrinal difference between the two schools that materially changes what a testator can achieve by Will depending on which school applies to them",
+      "A Wasiyat can be oral or written and does not need to follow the formal execution and attestation requirements of the Indian Succession Act, 1925 that apply to Hindu, Christian or Parsi Wills — though a written, clearly dated document is obviously far easier to prove after the testator's death",
+      "Because two-thirds of the estate is fixed by Quranic rules regardless of the testator's wishes, Muslim estate planning is less about redirecting the bulk of an estate and more about using the available one-third strategically — commonly to provide for a person who is not a Quranic heir at all, such as a stepchild, a charitable cause, or a particular grandchild whose parent predeceased the testator",
+      "A testator or heir unsure whether a specific bequest falls within the permissible one-third, or whether heir consent is required, should get this calculated and confirmed before relying on the Wasiyat, since an invalid bequest beyond the limit (or an unconsented bequest to an heir) simply fails and the asset reverts to the ordinary inheritance shares"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "One-third net-estate limit on a Wasiyat's free disposition: well-settled principle under Muslim personal law, confirmed via patraslawchambers.com, testbook.com and veritect.ai at research time",
+      "Sunni law requiring heir consent for a bequest to an heir, versus Shia law not requiring it: well-settled doctrinal difference, confirmed via testbook.com and multiple practitioner sources at research time",
+      "No formal execution/attestation requirement for a Wasiyat under Muslim law (contrasted with the Indian Succession Act's Section 63 requirements for other faiths): well-settled, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "will-contest-testamentary-capacity-sound-mind-guide",
+    "topic_title": "Will Contests: Proving (or Disproving) Testamentary Capacity and Sound Mind",
+    "angle": "A guide for a family disputing a Will on the basis that the testator lacked capacity when it was made, or defending a Will against such a challenge, explaining the 'sound disposing mind' standard and how courts actually assess it.",
+    "key_points": [
+      "Section 59 of the Indian Succession Act, 1925 requires only that a testator be of sound mind (and not a minor) to make a valid Will — 'sound mind' does not mean perfect mental health, but the capacity to understand the nature of the act of making a Will, the extent of the property being disposed of, and who the natural objects of the testator's bounty are",
+      "Courts have repeatedly held that a Will executed during a testator's final illness, or by an elderly or infirm person, is not automatically suspicious merely because of the circumstances of failing health — the question is whether the testator had a genuine, sound disposing mind at the specific moment of execution, not whether they were in perfect health generally",
+      "The burden of proving due execution and the testator's sound mind rests on the person propounding (relying on) the Will, and Indian courts require that at least one attesting witness be examined to prove the Will's execution under Section 68 of the Indian Evidence Act, 1872 — a Will cannot simply be produced and assumed genuine",
+      "Where a challenger alleges lack of capacity, courts look for objective evidence — contemporaneous medical records, the testator's conduct and communications around the time of execution, and the attesting witnesses' own account of the testator's demeanour — rather than accepting a bare assertion that the testator 'wasn't in their right mind'",
+      "A genuinely suspicious circumstance (an unexplained departure from a testator's prior expressed intentions, an unusual role played by a beneficiary in procuring the Will, or a signature inconsistent with known specimens) shifts the evidentiary burden more heavily onto the propounder to affirmatively dispel the suspicion, over and above ordinary proof of execution",
+      "Families anticipating a possible capacity challenge — for instance, where a testator is elderly or has a diagnosed cognitive condition — should consider contemporaneous safeguards at the time of execution: a doctor's capacity assessment on the same day, a video recording of the execution, or an independent witness with no interest in the estate, since this evidence is far more persuasive obtained at the time than reconstructed afterward"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 59 Indian Succession Act 'sound mind' standard and its interpretation as capacity to understand the nature of the act, the property, and natural beneficiaries: well-settled, confirmed via restthecase.com and multiple Supreme Court precedent summaries at research time",
+      "Requirement to examine at least one attesting witness under Section 68 Indian Evidence Act to prove a Will's execution: well-settled, confirmed via verdictum.in's coverage of Parvathi Nairthi v. Laxmi Nairthy (2026 INSC 521) at research time",
+      "Shifting evidentiary burden where a genuine suspicious circumstance is shown: well-settled principle from a long line of Supreme Court precedent, confirmed via legalserviceindia.com and restthecase.com at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "codicils-amending-a-will-guide",
+    "topic_title": "Codicils: Amending a Will Without Rewriting It From Scratch",
+    "angle": "A practical guide for a testator who wants to make a change to an existing Will — adding a bequest, removing a beneficiary, or updating an executor — explaining when a codicil is the right tool versus when a fresh Will is needed.",
+    "key_points": [
+      "A codicil is a supplementary document that amends, adds to, or partially revokes an existing Will, without replacing the whole document — it must itself satisfy the same execution and attestation requirements as a Will under Section 63 of the Indian Succession Act, 1925 (signed by the testator, attested by at least two witnesses)",
+      "A codicil works well for small, discrete changes — updating a bequest amount, adding a new beneficiary such as a grandchild born after the original Will, changing an executor, or correcting an address or spelling — where the bulk of the original Will's dispositions remain exactly as intended",
+      "For a substantial change — a fundamentally different distribution scheme, removing a major beneficiary, or several accumulated changes over time — executing a fresh Will (expressly revoking all prior Wills and codicils) is generally cleaner than layering multiple codicils, since each additional codicil increases the risk of internal inconsistency and makes the overall testamentary scheme harder to read as a whole",
+      "A codicil must clearly identify the Will it amends (by date and, ideally, by referencing distinguishing features of the original document) and state precisely which clauses are being added, deleted or changed — a vague or ambiguous codicil can itself become a source of dispute rather than resolving one",
+      "Both the original Will and any codicils must be kept together and produced together when probate (where still sought) or estate administration occurs — a codicil found separately from the Will it amends, or a Will produced without a codicil the family knows exists, invites exactly the kind of suspicion that undermines an otherwise straightforward estate",
+      "As a rule of thumb, one or two minor, well-drafted codicils over a Will's lifetime is manageable; beyond that, or where personal circumstances (marriage, divorce, a business sale, a significant change in wealth) have shifted materially since the original Will, redrafting a clean, consolidated Will is usually the better and safer course"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Codicil execution requirements mirroring those for a Will under Section 63, Indian Succession Act: well-settled statutory position, confirmed at research time",
+      "Practitioner guidance favouring a fresh Will over multiple accumulated codicils for substantial changes: standard private-client drafting practice, confirmed via general estate-planning literature at research time",
+      "Requirement to keep and produce a Will and its codicils together for probate/administration: well-settled practical requirement, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "digital-assets-estate-planning-crypto-guide",
+    "topic_title": "Digital Assets in Estate Planning: What Happens to Crypto, Online Accounts and Digital Property When You Die",
+    "angle": "A guide for someone with meaningful digital assets — cryptocurrency, online accounts, cloud storage, digital business assets — who wants their Will to actually address what happens to them, given India's current lack of a dedicated digital-inheritance statute.",
+    "key_points": [
+      "India has no dedicated statute governing digital inheritance — the Hindu Succession Act, 1956, the Indian Succession Act, 1925 and Muslim personal law all predate the digital economy and make no specific provision for cryptocurrency, online accounts or other digital property, so digital assets are dealt with under the same general Will and succession-law principles as any other property",
+      "Unlike a bank account, demat holding or insurance policy, there is no statutory nominee system for cryptocurrency in India — an heir seeking to claim a deceased person's crypto holdings will typically need a death certificate, a succession certificate or a probated Will, KYC documents, and an indemnity or legal heir declaration to satisfy the exchange or wallet provider's own internal process",
+      "Most major online platforms — email providers, social media, streaming services — treat an account as a personal, non-transferable licence under their own terms of service rather than as property that passes to an heir, meaning even a valid bequest of 'my digital assets' in a Will may not entitle an heir to actually log in and use the deceased's account, whatever the underlying data or value",
+      "Some platforms offer their own limited tools — such as an inactive-account manager or an account-memorialisation feature — that let a user designate what happens to that specific account after death, but these are platform-level conveniences the user must set up in advance, not legal succession rights created by a Will",
+      "A Will (or a separate, securely stored letter of instruction referenced by the Will but not forming part of the public probate record) should specifically identify categories of digital assets — cryptocurrency exchange accounts, domain names, monetised online business accounts, digital intellectual property — and name an executor with the technical ability, or authority to engage someone with that ability, to actually locate and access them",
+      "Because listing exact passwords or private keys directly in a Will is a serious security risk (a probated Will becomes a public document), the safer approach is to reference a separate, securely stored access document — held by a trusted person, a password manager with emergency-access features, or a solicitor — and give the executor clear authority and instructions to obtain and use it"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Absence of a dedicated Indian digital-inheritance statute and reliance on general succession law: confirmed via legalbites.in, taxtmi.com and ijllr.com at research time",
+      "Lack of a statutory crypto nominee system comparable to banks/demat/insurance, and typical exchange documentation requirements: confirmed via finnovate.in and cryptotimes.io at research time",
+      "Major platforms treating accounts as non-transferable personal licences under their terms of service, with limited platform-level tools (inactive account manager, memorialisation): confirmed via legalbites.in and primelegal.in at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "nri-startup-investment-fdi-fcgpr-guide",
+    "topic_title": "NRI Investment in Indian Startups: FDI Compliance, FC-GPR and the Automatic Route",
+    "angle": "A guide for an NRI investing in an Indian startup, or a founder raising money from NRI investors, covering how NRI investment is classified under FEMA, the FC-GPR filing obligation, and the automatic versus approval route.",
+    "key_points": [
+      "An NRI or OCI investing in an Indian company on a repatriation basis (intending to be able to bring the money back out later) is treated as foreign direct investment (FDI) and follows the same automatic or government-approval route that applies to any other foreign investor, depending on the sector",
+      "An NRI investing on a non-repatriation basis under Schedule 4 of the FEMA Non-debt Instruments Rules is instead treated as domestic investment — not counted against FDI sectoral caps or entry-route restrictions — which can be a materially simpler route for an NRI who does not need to repatriate the investment later",
+      "Most startup-relevant sectors — technology, e-commerce, fintech, SaaS, and most manufacturing and services — permit up to 100% foreign investment under the automatic route, meaning no prior government approval is needed before the investment is made, though post-investment reporting is still mandatory",
+      "Once shares are allotted to the NRI or foreign investor, the Indian company must file Form FC-GPR with the RBI (via the FIRMS portal) within 30 days of allotment, reporting the investment — a delay in filing can itself become a separate compliance issue requiring late-submission fees or compounding",
+      "Where the invested Indian company itself then invests further into another Indian entity (a 'downstream investment'), that subsequent investment is subject to its own FDI-linked conditions, pricing guidelines and reporting — a company with NRI/foreign investment cannot assume its own onward investments are automatically outside FEMA's reach",
+      "A 2026 amendment to Press Note 3 eased the framework for passive, non-controlling foreign stakes — portfolio investments below a 10% stake are now permitted under the automatic route without government approval — which is relevant for NRI angel investors and others making smaller, non-controlling startup investments rather than taking a board seat or control"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "NRI/OCI repatriation-basis investment treated as FDI, non-repatriation-basis under Schedule 4 treated as domestic investment: confirmed via masllp.com and rashminsanghvi.com at research time",
+      "Form FC-GPR filing within 30 days of share allotment: well-settled FEMA reporting requirement, confirmed at research time",
+      "2026 amendment to Press Note 3 permitting sub-10% passive foreign stakes under the automatic route: confirmed via general 2026 FDI-policy coverage at research time — verify the current precise threshold and any sector carve-outs against the notified rules at drafting time, since this is a live area of policy refinement (see also the draft FEMA Foreign Investment Rules, 2026)"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "cross-border-alimony-enforcement-nri-guide",
+    "topic_title": "Cross-Border Alimony Enforcement: Getting an NRI Spouse to Actually Pay",
+    "angle": "A guide for a spouse trying to enforce an Indian maintenance or alimony order against an NRI ex-spouse who has relocated abroad, covering the practical enforcement mechanisms available in India and their real-world limits.",
+    "key_points": [
+      "An Indian maintenance or alimony order does not become unenforceable merely because the paying spouse has moved abroad — Indian courts can and do enforce such orders against NRI spouses, including through attachment of any Indian assets, bank accounts or property the NRI spouse still holds in India",
+      "Where an NRI respondent fails to comply with a maintenance order, Indian courts have used coercive measures including impounding the passport (restricting the ability to travel internationally) and, in appropriate cases, treating persistent wilful non-compliance as inviting criminal consequences under the applicable maintenance statute",
+      "Direct cross-border enforcement — actually compelling payment from assets or income located entirely abroad — depends heavily on the specific destination country's own law and any applicable bilateral arrangement; some countries (including several with significant Indian diaspora populations) recognise and assist in enforcing Indian family court orders under specified conditions, while others offer little to no direct assistance",
+      "Where an NRI spouse retains any interest in Indian property — including inherited or ancestral property — Indian courts have shown willingness to order the sale of that specific share to satisfy accumulated maintenance arrears, giving a recipient spouse a concrete Indian-asset-based enforcement route even where the NRI spouse's foreign income and assets are out of reach",
+      "A recipient spouse should, from the outset of matrimonial proceedings, document the NRI spouse's known Indian assets — property, bank accounts, investments, any interest in ancestral property — since enforcement options against identified Indian assets are considerably more practical to pursue than trying to reach assets located entirely abroad",
+      "Given the genuine limits on directly enforcing an Indian order against purely foreign assets, a negotiated settlement (potentially including a lump-sum payment or a charge over identified Indian property, agreed while both parties are still willing to negotiate) is often more reliable in practice than relying entirely on litigation-based enforcement after the NRI spouse has already relocated and stopped paying"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Enforcement against Indian assets, passport impoundment, and criminal consequences for wilful non-compliance with maintenance orders against NRI spouses: confirmed via general practitioner sources (sheokandlegal.com, legalfirm.in) at research time — present enforcement measures as within courts' available toolkit rather than automatic outcomes, since actual relief is fact- and forum-specific",
+      "Variable, country-dependent recognition of Indian family court orders abroad, with no universal treaty framework: general, well-recognised limitation, confirmed at research time",
+      "Courts ordering sale of an NRI spouse's share in Indian property to satisfy maintenance arrears as an available (not universal) remedy: consistent with the general pattern in reported cases at research time, presented as illustrative rather than guaranteed in every case"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "nri-health-insurance-medical-emergency-india-guide",
+    "topic_title": "NRI Health Insurance and Medical Emergencies: What's Actually Covered When You're Visiting India",
+    "angle": "A practical guide for an NRI visiting India who wants to understand their health insurance coverage gaps, the difference between an NRI-specific health policy and a standard resident policy, and what to arrange before a trip.",
+    "key_points": [
+      "A standard health insurance policy purchased by an NRI in their country of residence typically does not extend meaningful coverage for treatment received in India — most foreign health plans are geographically limited to the country of issue or exclude India-based treatment specifically, leaving a real coverage gap during visits",
+      "Several Indian insurers offer NRI-specific health insurance products designed to cover treatment received during visits to India, distinct from both a standard resident Indian policy and the NRI's foreign home-country policy — these are generally the most reliable way to ensure actual India-based hospitalisation is covered",
+      "An NRI can also purchase or maintain a standard Indian resident health insurance policy in many cases, but should specifically confirm with the insurer whether NRI status affects eligibility, premium, claim settlement process, or renewal while residing abroad, since practices vary by insurer",
+      "Pre-existing condition waiting periods are a particular trap for NRIs buying a new India-specific policy shortly before a planned visit — a genuine medical need arising from a pre-existing condition during that visit may not be covered if the policy's waiting period hasn't yet run, so coverage should ideally be arranged well before travel, not immediately before or after",
+      "For a medical emergency during a visit, an NRI's family in India should be prepared to act as the immediate point of coordination with hospitals and insurers — a Power of Attorney or at least a clear, written authorisation naming a specific India-based family member to make treatment and payment decisions can materially speed up emergency care where the NRI patient cannot immediately communicate",
+      "NRIs planning an extended stay in India (rather than a short visit) should specifically evaluate whether their FEMA residential status is likely to change during the stay, since a shift from non-resident to resident status can itself affect which insurance products and premium structures they remain eligible for"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Geographic coverage gaps in foreign health policies for India-based treatment, and the existence of dedicated NRI-visitor health insurance products from Indian insurers: general, well-recognised market feature, confirmed via general insurance-industry sources at research time",
+      "Pre-existing condition waiting periods applying to newly purchased India-specific policies: standard insurance-policy feature, confirmed via general practitioner literature at research time — note exact waiting periods vary by insurer and policy, so should be confirmed against the specific product at drafting time",
+      "Practical value of a Power of Attorney/written authorisation for a family member to coordinate emergency treatment decisions: general practical guidance, not a specific statutory requirement, confirmed at research time"
+    ],
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "liberalised-remittance-scheme-family-abroad-guide",
+    "topic_title": "Liberalised Remittance Scheme: How Resident Indians Can Send Money to NRI Family Abroad",
+    "angle": "A guide for a resident Indian wanting to send money to a family member abroad — tuition support, a gift, or investment — explaining the RBI's Liberalised Remittance Scheme, its limits, and how it interacts with (and differs from) the NRI-side repatriation rules covered elsewhere on this site.",
+    "key_points": [
+      "The Liberalised Remittance Scheme (LRS), administered under FEMA, allows a resident Indian individual to remit up to USD 250,000 per financial year (April to March) abroad for a wide range of permitted purposes, without needing case-by-case RBI approval",
+      "The USD 250,000 limit is cumulative across all LRS purposes combined in a given year — education, travel, medical treatment, gifts to relatives abroad, investment in foreign shares or property, and emigration-related expenses all draw down against the same single annual limit, not separate limits for each purpose",
+      "LRS is available only to resident individuals — including minors, whose remittances are made through a guardian — and is not available to partnership firms, trusts, or NRIs themselves for their own outward remittances; an NRI moving money abroad instead uses the separate NRE/NRO/FCNR repatriation framework, not LRS",
+      "Each family member has their own independent USD 250,000 annual LRS limit — a family sending money to a relative abroad can, in principle, combine each member's individual limit (each completing their own paperwork) rather than being confined to a single household limit",
+      "Remittances under LRS above specified thresholds attract Tax Collected at Source (TCS), with the applicable rate varying by purpose — for example, a lower rate typically applies to remittances for education funded by an education loan, while other purposes such as outward investment or overseas tour packages can attract a materially higher rate",
+      "A resident planning a large one-time remittance (such as helping an NRI child buy property abroad, or funding a significant investment) should plan the timing and, where family members are jointly contributing, the allocation across each person's own LRS limit and TCS position well in advance, rather than attempting the transfer at the last minute through a single remitter's limit"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "USD 250,000 per financial year LRS limit, cumulative across all purposes: well-settled RBI/FEMA framework, confirmed via tickertape.in, xflowpay.com and nobroker.in at research time",
+      "LRS availability restricted to resident individuals (including minors via guardians), excluding NRIs, partnership firms and trusts: confirmed via multiple sources at research time",
+      "TCS applicability and purpose-dependent rate variation (e.g., lower for education-loan-funded remittances) on LRS remittances above specified thresholds: well-settled, confirmed at research time — verify current threshold and rate figures against the applicable Finance Act provisions at drafting time, since TCS rates and thresholds have changed across recent years"
     ],
     "added_on": "2026-09-28"
   }

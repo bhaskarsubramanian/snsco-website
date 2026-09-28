@@ -81,5 +81,71 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-09-28"
+  },
+  {
+    "id": "murugan-asari-minor-coparceners-madras-hc-karta-gift-void",
+    "practice_area": "Wills, Estate Planning & Succession",
+    "case_name": "Murugan Asari v. Minor Coparceners",
+    "citation": "2026 LiveLaw (MD) 145",
+    "court": "Madras High Court",
+    "date": "2026-02-12",
+    "holding_summary": "A Karta of a Hindu joint family had unilaterally executed a settlement/gift deed transferring an entire item of ancestral property to one coparcener, without the consent of the other coparcerners, including minors. Dr. Justice A.D. Maria Clete held that a Karta has no absolute authority to make such a unilateral gift of the whole or a substantial portion of joint family property, describing it as a 'virtual partition by gift' — a concept unknown to Hindu law and wholly outside a Karta's competence — and declared the settlement deed void ab initio.",
+    "why_it_matters": "A Karta cannot use a gift or settlement deed to informally favour one coparcener with the family's joint property over the others — any such unilateral transfer of a substantial portion of joint family property is void from the outset and can be challenged by the excluded coparceners regardless of how long it has stood.",
+    "sources": [
+      "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-karta-cannot-unilaterally-gift-joint-family-property-to-coparcener-529230",
+      "https://thelawcommunicants.com/karta-cannot-unilaterally-gift-substantial-joint-family-property-to-one-coparcener-madras-high-court-reinforces-mitakshara-limitations/",
+      "https://lawyerenews.com/legal_detail/karta-cannot-gift-entire-joint-family-property-to-one-coparcener-without-consent-settlement-void-ab-initio-madras-high-court"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "dorairaj-doraisamy-karta-acquisitions-presumed-joint-family-property",
+    "practice_area": "Wills, Estate Planning & Succession",
+    "case_name": "Dorairaj v. Doraisamy (Dead) Thr. LRs & Ors.",
+    "citation": "2026 INSC 126",
+    "court": "Supreme Court of India",
+    "date": "2026-02-05",
+    "holding_summary": "In a long-running partition dispute over 79 items of agricultural property in Perambalur Taluk, Tiruchirappalli District, originating from a 1987 suit, a Bench of Justices Sanjay Karol and Satish Chandra Sharma held that once the existence of an ancestral, income-yielding nucleus of property is established, acquisitions subsequently made by the family's Karta during the subsistence of the joint Hindu family are ordinarily presumed to be joint family property. The burden then shifts to the person claiming the acquisition was instead the Karta's self-acquired, individual property to discharge that burden with cogent evidence, rather than the other coparceners having to prove the acquisition was made with joint family funds.",
+    "why_it_matters": "A coparcener seeking a share of property acquired by the family's Karta during the joint family's existence does not need to trace the exact funds used for that specific acquisition — once an income-yielding ancestral nucleus is shown to have existed, the burden shifts to the Karta (or whoever claims the property as self-acquired) to prove it with solid evidence, not mere assertion.",
+    "sources": [
+      "https://www.verdictum.in/court-updates/supreme-court/dorairaj-v-doraisamy-2026-insc-126-ancestral-property-will-joint-family-1606659",
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/presumption-of-properties-acquired-by-karta/",
+      "https://www.mondaq.com/india/wills-intestacy-estate-planning/1770356/kartas-acquisitions-may-be-treated-as-joint-family-property-upon-proof-of-adequate-ancestral-nucleus-supreme-court"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "govindaraja-iyengar-sampathkumar-bombay-hc-probate-1998-will-forgery-rejected",
+    "practice_area": "Wills, Estate Planning & Succession",
+    "case_name": "Dr. Govindaraja Venkatesh Iyengar v. A.R. Sampathkumar (Deceased) Thr. LRs & Ors.",
+    "citation": "Testamentary Suit No. 42 of 2012 in Testamentary Petition No. 64 of 2011",
+    "court": "Bombay High Court",
+    "date": "2026-08-21",
+    "holding_summary": "The executor named in a Will dated 22 December 1998 of Rajalakshmi Gopal Ayengar sought probate nearly two decades later, facing objections alleging fraud, forgery and invalid execution, alongside the nine-year delay between the testator's death and the probate petition being pursued to hearing. Justice N.J. Jamadar granted probate, holding the case was supported by unusually strong direct evidence — both attesting witnesses confirmed the testator signed the Will in their presence — and that the objectors had failed to substantiate the forgery and suspicious-circumstances allegations, while the delay itself, though noted, did not defeat an otherwise well-proved Will.",
+    "why_it_matters": "Neither a long delay in seeking probate nor a bare allegation of forgery will defeat an otherwise properly executed and well-evidenced Will — objectors challenging a Will need to actually substantiate forgery or suspicious circumstances with real evidence, not merely raise the allegation and rely on the passage of time.",
+    "sources": [
+      "https://rawlaw.in/bombay-high-court-grants-probate-of-1998-will-despite-nine-year-delay-finds-due-execution-sound-mind-and-rejects-forgery-and-suspicious-circumstances-challenge-as-unproved/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-28"
+  },
+  {
+    "id": "gagan-bothra-senthil-kumar-nclt-chennai-overseas-guarantor-no-bar",
+    "practice_area": "NRI Legal Services",
+    "case_name": "M. Gagan Bothra v. Senthil Kumar & Anr.",
+    "citation": "2026 LLBiz NCLT(CHE) 903; CP(IB)/96(CHE)/2025",
+    "court": "National Company Law Tribunal, Chennai (Division Bench-I)",
+    "date": "2026-09-07",
+    "holding_summary": "After a resolution plan for corporate debtor PRC International Hotels Private Limited left Rs. 14.92 crore of a personal guarantee outstanding, the guarantor argued he was now a permanent resident of New Jersey, USA and held no assets in India. Judicial Member Sanjiv Jain and Technical Member Venkataraman Subramaniam admitted the Section 95 IBC petition against him regardless, holding that the Code's provisions on personal guarantor insolvency do not restrict their applicability based on the guarantor's nationality, citizenship or place of residence, and appointed a Resolution Professional.",
+    "why_it_matters": "An Indian personal guarantee does not become unenforceable simply because the guarantor later relocates abroad, changes citizenship, or holds no assets in India at the time of the claim — lenders can pursue Section 95 insolvency proceedings against an overseas guarantor in the same way as a resident one, and prospective guarantors abroad should treat an Indian personal guarantee as following them regardless of where they later live.",
+    "sources": [
+      "https://www.sansalegal.com/post/nclt-holds-foreign-residence-and-citizenship-do-not-bar-personal-guarantor-insolvency-under-section",
+      "https://www.livelawbiz.com/nclt/national-company-law-tribunal-chennai-personal-guanator-overseas-residence-no-bar-proceedings-insolvency-and-bankruptcy-code-550160",
+      "https://ibclaw.in/m-gagan-bothra-vs-senthil-kumar-anr-nclt-chennai-bench/?print=print"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-28"
   }
 ]
