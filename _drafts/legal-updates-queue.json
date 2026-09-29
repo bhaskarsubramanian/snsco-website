@@ -212,5 +212,89 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-09-28"
+  },
+  {
+    "id": "canara-bank-kavita-chowdhary-stale-cheque-deficiency-service",
+    "practice_area": "Consumer Protection",
+    "case_name": "Canara Bank v. Kavita Chowdhary",
+    "citation": "2026 INSC 363",
+    "court": "Supreme Court of India",
+    "date": "2026-04-15",
+    "holding_summary": "A customer deposited two cheques worth over Rs. 1.06 crore with Canara Bank on 29 May 2018, but the bank failed to present them for clearance within their validity period, so they were returned as stale. A Bench of Justices B.V. Nagarathna and Ujjal Bhuyan upheld the NCDRC's finding that this delay amounted to deficiency in service under the Consumer Protection Act, while reducing the compensation awarded from 10% to 6% of the cheque amount with interest, holding banks to a duty of timely presentation absent any reasonable explanation for delay.",
+    "why_it_matters": "Banks that sit on deposited cheques past their validity period without a genuine justification face consumer-forum liability for the resulting loss — account holders whose cheques lapse into staleness due to a bank's own delay have a clear Supreme Court precedent to rely on, though the compensation actually awarded may be moderated rather than matched fully to the cheque value.",
+    "sources": [
+      "https://www.verdictum.in/court-updates/supreme-court/canara-bank-v-kavita-chowdhary-2026-insc-363-failure-to-present-cheques-within-validity-period-banks-negligence-1612198",
+      "https://www.scconline.com/blog/post/2026/04/17/delayed-cheque-presentation-without-reason-deficiency-in-service-sc/",
+      "https://www.legalbites.in/negotiable-instruments/case-summary-canara-bank-v-kavita-chowdhary-2026-bank-liable-for-delay-in-cheque-clearance-1283501"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-29"
+  },
+  {
+    "id": "n-balakrishnan-tnrera-title-dispute-registration-madras-hc",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "N. Balakrishnan v. Tamil Nadu Real Estate Regulatory Authority & Ors.",
+    "citation": "2026:MHC:3769",
+    "court": "Madras High Court",
+    "date": "2026-09-19",
+    "holding_summary": "A Thiruneermalai resident who claimed ownership of land in Tambaram challenged TNRERA's registration of a rival developer's project over the same land. Justice D. Bharatha Chakravarthy held that TNRERA cannot adjudicate a disputed question of title while examining a project registration application, and that a party disputing ownership of land underlying a registered project must approach the competent civil court instead.",
+    "why_it_matters": "A landowner who believes a builder has registered a RERA project over land they actually own cannot expect RERA itself to resolve that ownership dispute — registration proceeds on the developer's declared title, and a genuine title contest has to be litigated separately in a civil suit, which can leave the project registered and moving forward while the title question is still pending.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/rera-cannot-decide-disputed-questions-of-title-parties-must-approach-civil-court-madras-high-court",
+      "https://www.verdictum.in/madras-high-court/nbalakrishnan-v-tamil-nadu-real-estate-regulatory-authority-2026mhc3769-title-civil-court-1622132",
+      "https://www.moneylife.in/article/rera-cannot-decide-disputed-questions-of-title-parties-must-approach-civil-court-madras-hc/81667.html"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-29"
+  },
+  {
+    "id": "goodluck-india-union-india-rule-96-10-cgst-omission-pending-refunds",
+    "practice_area": "Tax Litigation",
+    "case_name": "M/s Goodluck India Limited & Anr. v. Union of India & Ors.",
+    "citation": "2026 INSC 821",
+    "court": "Supreme Court of India",
+    "date": "2026-08-06",
+    "holding_summary": "Rule 96(10) of the CGST Rules, 2017, which had restricted exporters from claiming IGST refunds on exports where inputs were procured using specified concessional-duty benefits, was omitted with effect from 8 October 2024 by Notification No. 20/2024-Central Tax without any saving clause. A Bench of Justices J.B. Pardiwala and K. Vinod Chandran dismissed the Revenue's appeals and held that, in the absence of a saving clause, the omission of Rule 96(10) applies to every refund proceeding that was still pending on the date of omission, effectively ending such proceedings in the exporters' favour.",
+    "why_it_matters": "Exporters with IGST refund claims that were held up or denied under the now-omitted Rule 96(10) should revisit those pending proceedings — the Supreme Court's ruling that the omission applies retrospectively to pending matters (absent a saving clause) gives them a clear basis to press for the refund rather than accept a denial issued under the repealed restriction.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/ms-goodluck-india-limited-v-union-of-india-2026-insc-821-rule-96-10-cgst-1619628",
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-781-ms-goodluck-india-limited-anr-versus-union-of-india-ors-545144",
+      "https://taxguru.in/goods-and-service-tax/pending-rule-96-10-gst-notices-exporters-cannot-continue.html"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-29"
+  },
+  {
+    "id": "nikhil-rai-vcare-technologies-nclat-oppression-commercial-necessity",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "Nikhil Rai & Anr. v. VCare Technologies Pvt. Ltd. & Ors.",
+    "citation": "Company Appeal (AT) No. 280 of 2026",
+    "court": "NCLAT, Principal Bench, New Delhi",
+    "date": "2026-09-25",
+    "holding_summary": "The NCLT had dismissed, on 9 July 2026, a petition alleging oppression and mismanagement in VCare Technologies Pvt. Ltd. after the respondents defended the impugned restructuring as commercially necessary. A Bench of Justice Sharad Kumar Sharma, Arun Baroka and Indevar Pandey set aside that dismissal and remanded the matter, holding that a respondent's detailed commercial justification for a restructuring does not by itself dispense with the adjudicating authority's duty to examine an oppression and mismanagement petition on the entire material on record.",
+    "why_it_matters": "A company facing an oppression and mismanagement petition cannot expect a restructuring to be waved through merely by offering a plausible commercial rationale for it — the NCLT must still weigh the minority shareholder's actual evidence and grievance against that rationale, rather than treating a commercial explanation as an automatic defence.",
+    "sources": [
+      "https://www.livelawbiz.com/amp/company-law/commercial-necessity-of-restructuring-cannot-dispense-with-nclts-adjudication-of-oppression-claims-nclat-552104",
+      "https://ibclaw.in/nikhil-rai-and-anr-vs-vcare-technologies-pvt-ltd-and-ors-nclat-principal-bench-new-delhi-2/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-29"
+  },
+  {
+    "id": "lachchappa-special-lao-bagalkot-compensation-parity-delay-article-142",
+    "practice_area": "Agricultural Industries",
+    "case_name": "Lachchappa and Others v. Special Land Acquisition Officer, UKP, Bagalkot and Others",
+    "citation": "2026 INSC 535",
+    "court": "Supreme Court of India",
+    "date": "2026-08-07",
+    "holding_summary": "Farmers whose agricultural land in Mudhol Village, Bagalkot District, Karnataka was acquired under a 1999 notification for a resettlement project sought the same enhanced compensation rate the reference court had already awarded to other landowners covered by the identical notification, despite a long delay in pursuing their own claim. A Bench of Justices S.V.N. Bhatti and N.V. Anjaria invoked Article 142 to hold that abnormal delay in claiming compensation is not, by itself, a bar to compensation parity among landowners whose land was acquired under the very same acquisition notification, and enhanced the appellants' compensation to Rs. 6,50,000 per acre with statutory benefits.",
+    "why_it_matters": "Farmers and other landowners whose agricultural land was acquired years ago under a notification that has since yielded a higher compensation rate for their neighbours should not assume a long delay in raising their own claim is fatal — the Supreme Court's parity principle gives them a real basis to seek the same enhanced rate, even after considerable delay, where the acquisition notification is common.",
+    "sources": [
+      "https://www.deccanherald.com/india/karnataka/supreme-court-grants-parity-in-land-compensation-to-karnataka-farmers-despite-delays-4104952",
+      "https://lawtrend.in/abnormal-delay-no-bar-to-compensation-parity-in-land-acquisition-case-supreme-court-invokes-article-142/",
+      "https://www.advocatekhoj.com/library/judgments/2026/august/23.php"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-29"
   }
 ]
