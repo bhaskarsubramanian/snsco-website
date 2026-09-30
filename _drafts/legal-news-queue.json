@@ -176,5 +176,69 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-09-29"
+  },
+  {
+    "id": "asj-finsolutions-vikram-bajaj-ibc-liquidation-emd-forfeiture",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "M/s ASJ Finsolutions Pvt. Ltd. v. Vikram Bajaj (Liquidator of Best Foods Ltd.) & Ors.",
+    "citation": "2026 INSC 1062",
+    "court": "Supreme Court of India",
+    "date": "2026-09-28",
+    "holding_summary": "ASJ Finsolutions was the successful bidder in a liquidation e-auction conducted by the liquidator of Best Foods Ltd. under the IBC, depositing its EMD and part of the sale consideration, but then failed to pay the balance within the stipulated 90 days. The liquidator forfeited the entire Rs. 6.39 crore deposited, including the Rs. 2.55 crore EMD, and the NCLT/NCLAT upheld this. On appeal, the Supreme Court (Justices J.B. Pardiwala and K. Vinod Chandran) held that the IBBI (Liquidation Process) Regulations, 2016 do not expressly provide for forfeiture beyond the EMD, but that this silence is not decisive where the e-auction notice itself contains an express forfeiture clause covering the entire deposit, which the bidder accepted and paid against without protest.",
+    "why_it_matters": "Bidders in IBC liquidation e-auctions cannot rely on the Liquidation Process Regulations' silence on forfeiture to claw back sums paid beyond the 10% EMD -- the specific terms of the auction notice control, so prospective bidders and their counsel must scrutinise forfeiture clauses closely before participating and paying.",
+    "sources": [
+      "https://www.livelaw.in/supreme-court/ibc-failure-to-pay-balance-sale-consideration-invites-emd-forfeiture-if-auction-terms-so-provide-supreme-court-552292",
+      "https://www.verdictum.in/supreme-court/ms-asj-finsolutions-pvt-ltd-v-vikram-bajaj-2026-insc-1062-insolvency-liquidation-1622989"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "itc-philip-morris-heated-tobacco-patent-delhi-hc",
+    "practice_area": "Intellectual Property",
+    "case_name": "ITC Limited v. Philip Morris Products S.A.",
+    "citation": "C.A. (COMM.IPD-PAT) 24/2025 with W.P.(C)-IPD 25/2025",
+    "court": "Delhi High Court",
+    "date": "2026-09-10",
+    "holding_summary": "Philip Morris holds an Indian patent (granted December 2021, running to 2034) for a 'heated aerosol generating article' -- the heat-not-burn device technology used in products like IQOS. ITC's post-grant opposition to the patent was rejected by the Patent Office, and ITC challenged that rejection before the Delhi High Court by both a writ petition and a statutory appeal, arguing the invention lacked novelty and was an obvious combination of ten cited prior-art smoking/vaping devices. Justice Jyoti Singh dismissed both the writ petition and the appeal, holding that the cited prior art's disclosure of conductive metal wrappers did not establish the specific claimed heating function, so the combination was not obvious to a person skilled in the art.",
+    "why_it_matters": "The ruling upholds patent protection for heat-not-burn tobacco technology in India and sets a marker on how the Delhi High Court will assess novelty and obviousness challenges to complex mechanical/device patents in post-grant opposition appeals -- relevant to pharma, tobacco and device manufacturers facing similar validity challenges.",
+    "sources": [
+      "https://www.livelawbiz.com/patent/delhi-high-court-dismisses-itc-challenge-to-philip-morris-heat-not-burn-cigarette-patent-551498",
+      "https://www.bananaip.com/intellepedia/patent-opposition-smoking-tobacco-foiling-obviousness/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "satya-prakash-bagla-kanta-agarwala-nclat-exclusive-capital-oppression",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "Satya Prakash Bagla & Ors. v. Kanta Agarwala & Anr. (Exclusive Capital Ltd.)",
+    "citation": "NCLAT order dated 13 September 2026",
+    "court": "National Company Law Appellate Tribunal, New Delhi",
+    "date": "2026-09-13",
+    "holding_summary": "Minority shareholders of Exclusive Capital Ltd., an NBFC, alleged oppression and mismanagement by the promoters, pointing to Rs. 315 crore of optionally convertible debentures issued against owned funds of only Rs. 2.34 crore, related-party transactions including the purchase of a Bentley Mulsanne, breach of RBI leverage-ratio norms, non-implementation of an RBI-approved expansion arrangement, mass resignations of senior personnel and removal of independent directors. NCLAT dismissed the promoters' appeals, upheld the NCLT's oppression-mismanagement findings and the appointment of an Administrator/Observer, and remanded the main petition to the NCLT for independent adjudication on the merits.",
+    "why_it_matters": "The ruling confirms that the NCLT retains broad jurisdiction under Sections 241-242 to examine governance failures at NBFCs even where regulatory (RBI) approvals or leverage breaches are contested, and that stark related-party spending combined with RBI norm breaches can by themselves support interim protective orders such as appointment of an Observer/Administrator pending final adjudication.",
+    "sources": [
+      "https://taxguru.in/company-law/nclat-upholds-oppression-mismanagement-findings-exclusive-capital-nbfc-dispute.html",
+      "https://www.taxscan.in/top-stories/315-cr-ocd-against-234-cr-owned-funds-nclat-upholds-oppression-findings-over-massive-rbi-leverage-norm-breach-read-order-1450927"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "antriksh-developers-shyam-sunder-agrawal-allahabad-hc-rera-delay-interest",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "Antriksh Developers and Promoters Pvt. Ltd. v. Shyam Sunder Agrawal",
+    "citation": "Allahabad High Court (Lucknow Bench), judgment dated 24 September 2026",
+    "court": "Allahabad High Court (Lucknow Bench)",
+    "date": "2026-09-24",
+    "holding_summary": "A homebuyer booked a flat in 2010 with possession promised by November 2012, but the developer offered possession only in May 2017, without an occupancy certificate. The RERA Appellate Tribunal had directed the developer to pay interest on the deposited amount for the entire December 2012-May 2017 delay period at 1% above the MCLR. The developer argued that the buyer's acceptance of possession, and the passage of time since, extinguished the right to claim that interest. Justice Prashant Kumar dismissed the developer's appeal, holding that accepting delayed possession does not waive a homebuyer's statutory right to claim interest for the delay period, and that RERA prescribes no specific limitation period for such interest claims.",
+    "why_it_matters": "Homebuyers who have already taken possession of a delayed flat -- even years after the promised date -- are not thereby barred from separately pursuing their statutory interest claim for the delay, giving buyers who accepted possession under practical pressure a continuing route to compensation.",
+    "sources": [
+      "https://www.deccanherald.com/india/uttar-pradesh/accepting-delayed-flat-possession-does-not-bar-homebuyer-from-claiming-interest-allahabad-hc-4157671",
+      "https://theprint.in/india/accepting-delayed-flat-possession-does-not-bar-homebuyer-from-claiming-interest-allahabad-hc/3051815/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-09-30"
   }
 ]

@@ -701,5 +701,264 @@
       "Lender substitution rights as a standard PPP financing feature: well-settled market practice, confirmed via practitioner sources at research time"
     ],
     "added_on": "2026-09-28"
+  },
+  {
+    "id": "section-9-interim-measures-arbitration-practical-guide",
+    "topic_title": "Interim Measures Under Section 9 of the Arbitration Act: A Practical Guide Before and During Arbitration",
+    "angle": "Explain when a party can approach a court for interim relief (injunctions, asset preservation, security) before an arbitral tribunal is even constituted, versus once it exists, and the 'efficacy' test courts apply.",
+    "key_points": [
+      "Section 9 lets a party seek interim measures from a court before, during, or after arbitral proceedings but before enforcement of the award",
+      "Once a tribunal is constituted, courts entertain a Section 9 application only if Section 17 relief would not be efficacious",
+      "Common reliefs: attachment of assets, injunctions restraining disposal of property, appointment of a receiver, interim custody of goods",
+      "Difference between Section 9 (court) and Section 17 (tribunal) interim measures and their enforceability",
+      "Limitation and urgency considerations, and interplay with an emergency arbitrator's order"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 9 applications lie before, during arbitral proceedings, or after the award but before enforcement under Section 36",
+      "confirmed: courts apply CPC Order XXXIX-type principles (prima facie case, balance of convenience, irreparable injury) by analogy"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "multi-tier-dispute-resolution-clauses-enforceability",
+    "topic_title": "Multi-Tier Dispute Resolution Clauses: Is Pre-Arbitration Mediation or Negotiation Actually Enforceable?",
+    "angle": "Practical guide on drafting and enforcing escalation clauses (negotiation -> mediation -> arbitration) common in commercial and infrastructure contracts, and what happens if a party skips a tier.",
+    "key_points": [
+      "Courts generally treat pre-arbitration negotiation/mediation steps as directory rather than a bar to arbitration unless the clause is unambiguous and mandatory",
+      "How Section 12A of the Commercial Courts Act's mandatory pre-institution mediation interacts with a contractual multi-tier clause",
+      "Drafting tips: clear timelines, defined trigger events, and consequences of non-compliance",
+      "Risk of a tribunal or court finding a claim premature if a mandatory tier was skipped"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 12A Commercial Courts Act mandates pre-institution mediation for commercial suits not seeking urgent interim relief",
+      "varies: whether skipping a contractual pre-arbitration tier renders a notice invoking arbitration premature depends on whether the tier is framed as mandatory ('shall') or directory ('may') in the specific clause"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "invoking-personal-loan-guarantee-independent-liability",
+    "topic_title": "Invoking a Personal Loan Guarantee: Why a Guarantor's Liability Is Independent of the Borrower's Defences",
+    "angle": "Distinct from the site's existing bank-guarantee (performance/LC-type) article -- this covers a co-obligant/guarantor's personal liability under a loan guarantee deed under the Indian Contract Act, common in MSME and retail lending.",
+    "key_points": [
+      "Sections 128-140 of the Indian Contract Act: a guarantor's liability is coextensive with the principal debtor's unless the contract says otherwise",
+      "Lender need not exhaust remedies against the borrower first before proceeding against the guarantor",
+      "Discharge of guarantor: material variance in loan terms without consent, release of security, or lender's own conduct",
+      "Guarantor's rights after paying: subrogation to the lender's rights and remedies against the borrower",
+      "How a guarantor can be pulled into SARFAESI and IBC Part III personal guarantor proceedings"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Sections 128 and 133-139 of the Indian Contract Act, 1872 govern surety liability and discharge",
+      "confirmed: Supreme Court has repeatedly held a creditor can proceed against the guarantor without first suing the principal debtor"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "summary-judgment-order-13a-cpc-commercial-suits",
+    "topic_title": "Summary Judgment Under Order XIII-A CPC: When a Commercial Suit Can Skip a Full Trial",
+    "angle": "Practical guide for businesses on using the summary judgment mechanism unique to the Commercial Courts Act to get a quick decree or dismissal without going through evidence and cross-examination.",
+    "key_points": [
+      "Order XIII-A applies only to commercial disputes under the Commercial Courts Act, 2015 and is not available in ordinary civil suits",
+      "Either party can apply after summons but before framing of issues, on the ground the other side has no real prospect of succeeding/defending and no other compelling reason for trial",
+      "Standard applied: 'no real prospect of success', higher than a demurrer but short of a full trial",
+      "What evidence a court will and won't consider at the summary judgment stage",
+      "Consequences of an unsuccessful summary judgment application (costs, case management timelines)"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Order XIII-A CPC was introduced by the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "confirmed: Delhi High Court has issued practical guidelines clarifying when summary judgment is appropriate in commercial suits (2026)"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "consumer-mediation-cell-pre-litigation-court-referred",
+    "topic_title": "Consumer Mediation Cell: How Pre-Litigation and Court-Referred Mediation Works Under the 2019 Act",
+    "angle": "Explain the lesser-known mediation route attached to each District/State/National Consumer Commission under the Consumer Protection Act, 2019, as an alternative to a full adversarial complaint.",
+    "key_points": [
+      "Every Consumer Commission is required to establish or have access to a Consumer Mediation Cell",
+      "Mediation can happen only with consent of both parties, and only after the Commission is satisfied there is a possibility of settlement",
+      "Mediation is confidential and settlement terms are recorded and have the same effect as a Commission order",
+      "How this differs from the mandatory pre-institution mediation applicable to commercial suits",
+      "When mediation is unsuitable (e.g., allegations of fraud or unfair trade practice needing public adjudication)"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Consumer Protection Act, 2019 (Sections 74-81) establishes Consumer Mediation Cells attached to each Commission",
+      "confirmed: mediation requires consent of both parties and is referred by the Commission, not automatic"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "slump-sale-vs-asset-sale-vs-share-sale-ma-structuring",
+    "topic_title": "Slump Sale vs Asset Sale vs Share Sale: Choosing the Right M&A Structure Under Tax and Company Law",
+    "angle": "A founder/buyer-facing guide comparing the three common ways to acquire an Indian business, focused on tax treatment, liability transfer, and regulatory approvals for each structure.",
+    "key_points": [
+      "Slump sale (Section 2(42C) Income Tax Act): transfer of an entire undertaking for a lump sum without itemising individual assets/liabilities, taxed as capital gains on net worth",
+      "Asset sale: cherry-picking specific assets, each attracting its own stamp duty, GST and transfer formalities; liabilities generally don't transfer unless assumed",
+      "Share sale: buyer acquires the target company itself including all liabilities (known and contingent); simpler transfer mechanics (share transfer/demat) but higher diligence stakes",
+      "Regulatory triggers: CCI notification thresholds, sectoral FDI approvals, and stamp duty differences across structures",
+      "How indemnities and escrow are typically used to bridge the liability-transfer gap between structures"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: 'slump sale' is defined under Section 2(42C) of the Income Tax Act, 1961 as transfer of one or more undertakings for a lump sum consideration without values assigned to individual assets and liabilities",
+      "confirmed: capital gains on a slump sale are computed on the 'net worth' of the undertaking under Section 50B"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "model-standing-orders-factories-large-establishments",
+    "topic_title": "Model Standing Orders: When Factories and Large Establishments Must Certify Their Own Standing Orders",
+    "angle": "A compliance guide for employers on when the Industrial Employment (Standing Orders) Act applies, what Model Standing Orders cover by default, and the process to get establishment-specific standing orders certified.",
+    "key_points": [
+      "Original threshold: applies to industrial establishments with 100 or more workmen (some states/Central Government have reduced this to 50)",
+      "The Industrial Relations Code, 2020 (once in force in a state) raises the standing-orders threshold to 300 workers and consolidates the certification process",
+      "Until an employer's own standing orders are certified, the statutory Model Standing Orders apply by default and govern classification of workers, shift timings, leave, termination and disciplinary action",
+      "Certification process: draft submission to the Certifying Officer, workman representations, appeal to the appellate authority",
+      "Consequences of operating without certified standing orders where the Act applies"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: original threshold under the 1946 Act is 100 or more workmen, with several states and the Central Government having reduced it to 50 by amendment",
+      "confirmed: the Industrial Relations Code, 2020 raises the threshold to 300 workers for the standing-orders requirement",
+      "varies: exact applicable threshold and whether the Industrial Relations Code is in force depends on the state and its notified rules"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "fssai-health-supplements-nutraceuticals-licensing-claims",
+    "topic_title": "Health Supplements and Nutraceuticals: FSSAI's Separate Licensing and Claims Regime",
+    "angle": "A compliance guide for manufacturers of health supplements, nutraceuticals and 'novel foods', which sit under a distinct FSSAI regulation (FSS Health Supplements Regulations, 2016) with different labelling and claims rules than ordinary packaged food.",
+    "key_points": [
+      "The Food Safety and Standards (Health Supplements, Nutraceuticals, Foods for Special Dietary Use, Foods for Special Medical Purpose, Functional Foods and Novel Food) Regulations, 2016 govern this category separately",
+      "Products under this category cannot claim to cure, mitigate, treat or prevent disease (that would make them a 'drug')",
+      "Specific labelling requirements: recommended dosage, safety warnings, and a mandatory statement that the product is not a substitute for a balanced diet",
+      "Product approval/notification process before a new ingredient or health claim can be marketed",
+      "Overlap and boundary issues with the Drugs and Cosmetics Act where a product's claims cross into 'drug' territory"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: FSS (Health Supplements, Nutraceuticals...) Regulations, 2016 is the operative regulation for this category, distinct from general packaged food labelling regulations",
+      "confirmed: such products are barred from disease prevention/cure/treatment claims under the regulations"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "ibc-liquidation-e-auction-bidder-guide-emd-forfeiture",
+    "topic_title": "Bidding in an IBC Liquidation E-Auction: EMD, Forfeiture Risk and What Bidders Must Check Before Paying",
+    "angle": "A practical guide for prospective bidders in liquidation e-auctions under the IBC, prompted by recent case law upholding forfeiture of amounts well beyond the standard 10% EMD where the auction notice itself provided for it.",
+    "key_points": [
+      "IBBI (Liquidation Process) Regulations, 2016 set baseline EMD and process norms (Schedule I) but liquidators can impose stricter auction-specific terms",
+      "Courts have held that silence in the Regulations on forfeiture beyond EMD does not protect a defaulting bidder where the auction notice itself has an express forfeiture clause",
+      "Practical due diligence: reading the e-auction notice's forfeiture, timeline for balance payment (commonly 90 days), and default consequences before bidding",
+      "What happens to sums paid beyond the EMD if the bidder later defaults on the balance sale consideration",
+      "Remedies (or lack thereof) for a bidder who wants to challenge forfeiture after the fact"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court in M/s ASJ Finsolutions Pvt. Ltd. v. Vikram Bajaj (2026 INSC 1062) upheld forfeiture of an entire deposit beyond the EMD where the e-auction notice expressly so provided",
+      "confirmed: Schedule I of the IBBI (Liquidation Process) Regulations, 2016 sets out the standard e-auction process, which liquidators may supplement with stricter terms"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "force-majeure-infrastructure-power-contracts-india",
+    "topic_title": "Force Majeure in Infrastructure and Power Contracts: What Indian Courts Actually Accept",
+    "angle": "A guide for EPC contractors, concessionaires and power generators on how narrowly Indian courts and tribunals construe force majeure clauses, and what evidence is needed to actually invoke one.",
+    "key_points": [
+      "Force majeure clauses in commercial and infrastructure contracts are construed strictly against the party invoking them -- foreseeable events generally do not qualify",
+      "Distinction between a contractual force majeure clause and the doctrine of frustration under Section 56 of the Indian Contract Act",
+      "What Indian courts/APTEL have accepted or rejected as force majeure in power and EPC disputes (e.g., ordinary regulatory or tax changes typically do not qualify unless specifically listed as a 'change in law' event)",
+      "Notice requirements: most contracts require prompt written notice and evidence of mitigation efforts to preserve a force majeure claim",
+      "Drafting tips: defining specific triggering events and a clear cap on relief (time extension vs cost compensation)"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: courts and APTEL have held that force majeure clauses in power contracts are construed strictly and those relying on them must show the event was genuinely unforeseeable and beyond their control",
+      "confirmed: 'change in law' is typically treated as a separate, specifically defined relief mechanism in PPAs/EPC contracts rather than a subset of force majeure"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "recording-trademark-patent-assignment-process",
+    "topic_title": "Recording a Trademark or Patent Assignment: The Recordal Process and Why Skipping It Is Risky",
+    "angle": "Distinct from the site's existing trademark-licensing (registered user agreement) article -- this covers the separate process of recording a change of ownership (assignment) of a trademark or patent with the Registry/Patent Office.",
+    "key_points": [
+      "Difference between a licence (registered user) and an assignment (change of ownership) and why each needs a different Registry filing",
+      "Trademark assignment: Form TM-P application, deed of assignment, and the requirement to advertise certain assignments (assignment without goodwill) under Section 42",
+      "Patent assignment: Form 16 application to record the assignee as the new patentee, required for the assignee to sue for infringement or enforce the patent",
+      "Consequences of an unrecorded assignment: the assignee may be unable to enforce the IP right or claim damages until recordal, and third parties dealing in good faith with the registered owner may prevail",
+      "Typical timelines and common defects that cause recordal applications to be objected to"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: trademark assignment is recorded via Form TM-P under the Trade Marks Act, 1999 and Rules, 2017",
+      "confirmed: patent assignment is recorded via Form 16 under the Patents Act, 1970 and an unrecorded assignee's ability to sue for infringement can be restricted until recordal"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "electricity-dispute-arbitration-vs-regulatory-commission-section-79",
+    "topic_title": "When Can an Electricity Dispute Go to Arbitration Instead of the Regulatory Commission? Section 79 Explained",
+    "angle": "A guide for generators, distribution licensees and their counsel on the boundary between disputes that must go to the regulatory commission (CERC/SERC) under Section 79/86 of the Electricity Act and those that can be arbitrated.",
+    "key_points": [
+      "Section 79(1)(a)-(d) of the Electricity Act, 2003 gives CERC exclusive jurisdiction over specific matters like tariff regulation and inter-state transmission",
+      "Tribunal and court rulings have distinguished 'non-tariff' disputes between a generating company and a licensee, which can be referred to arbitration under Section 79(1)(f)/86(1)(f) or a contractual arbitration clause, from tariff-determination disputes which cannot",
+      "How a PPA's own arbitration clause interacts with the regulatory commission's jurisdiction",
+      "Why getting this characterisation wrong can mean years lost litigating in the wrong forum",
+      "Practical drafting guidance for dispute resolution clauses in PPAs and power project contracts"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 79(1) of the Electricity Act, 2003 lists CERC's specific regulatory functions in clauses (a) to (f), with clause (f) covering adjudication and referral to arbitration of generator-licensee disputes",
+      "confirmed: APTEL has held that non-tariff disputes between a generating company and a distribution licensee can fall outside the regulatory commission's exclusive domain and go to arbitration (subject to ongoing clarification, including a 2026 review ruling)"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "carpet-area-vs-super-built-up-area-rera-disclosure",
+    "topic_title": "Carpet Area vs Super Built-Up Area Under RERA: What Builders Must Disclose and How to Verify It",
+    "angle": "A homebuyer-facing guide on RERA's mandatory switch to selling on carpet area, how to independently verify a builder's carpet-area figure, and what to do if the delivered carpet area falls short.",
+    "key_points": [
+      "RERA requires builders to quote and sell on 'carpet area' (defined under Section 2(k)) rather than the older, larger 'super built-up area' that included undivided common area share",
+      "How to cross-check the carpet area stated in the Agreement for Sale against the sanctioned building plan filed with the authority",
+      "Remedies if the actual carpet area delivered is less than what was disclosed -- refund of the proportionate amount with interest under the RERA Rules",
+      "Common builder tactics: bundling balcony/terrace area, or quoting 'saleable area' inconsistently across marketing brochures and the Agreement for Sale",
+      "What the RERA registration certificate and project disclosures on the state RERA portal reveal about actual carpet area"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 2(k) of RERA, 2016 defines 'carpet area' and requires sale consideration to be based on it",
+      "confirmed: RERA Rules require refund of excess amount paid (with interest) if delivered carpet area is less than disclosed, subject to a tolerance threshold prescribed by the state rules"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "gst-section-73-74-74a-demand-notices-penalty-classification",
+    "topic_title": "Section 73 vs Section 74 (and the New Section 74A) GST Demand Notices: Why the Classification Changes Your Penalty",
+    "angle": "A practical guide for GST-registered businesses on how to read a demand notice, why the department's choice of section drastically changes penalty exposure and limitation, and how to contest a wrongful Section 74 (fraud) classification.",
+    "key_points": [
+      "Section 73 (no fraud/suppression): 3-year limitation, penalty capped at 10% of tax or Rs. 10,000, nil penalty if paid before SCN",
+      "Section 74 (fraud, wilful misstatement or suppression to evade tax): 5-year limitation, penalty escalating up to 100% of tax depending on when payment is made",
+      "Section 74A, inserted for periods from FY 2024-25 onwards, merges the two into a common procedure with a unified limitation and graded penalty regardless of fraud allegation, for that prospective period",
+      "How to contest a department's use of Section 74 where the underlying facts don't support fraud or suppression, since the extended limitation and higher penalty ride on that classification",
+      "Practical steps on receiving a notice: reconciling the demand, responding within timelines, and the effect of voluntary payment before SCN"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 73 carries a 3-year limitation and capped 10% penalty (or Rs.10,000, whichever higher) for non-fraud short payment/erroneous refund",
+      "confirmed: Section 74 carries a 5-year limitation and up to 100% penalty for fraud/wilful misstatement/suppression cases",
+      "confirmed: Section 74A (Finance Act, 2024) applies prospectively from FY 2024-25 onward and unifies the two provisions into a common procedure"
+    ],
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "non-farmer-agricultural-land-purchase-state-wise-rules",
+    "topic_title": "Can a Non-Farmer Buy Agricultural Land in India? State-by-State Rules Compared",
+    "angle": "A practical guide comparing how differently Indian states restrict agricultural land purchase by non-agriculturists, since this is a state (not central) subject and the rules vary sharply.",
+    "key_points": [
+      "Land is a State subject, so agricultural land purchase restrictions vary significantly by state tenancy/land-reform legislation",
+      "Maharashtra (under the Maharashtra Tenancy and Agricultural Lands Act, 1948): generally only an 'agriculturist' can buy agricultural land, though holding agricultural land anywhere in India can qualify a buyer",
+      "Karnataka: 2020 amendment repealed the old bars (Sections 79A/79B/79C) and the non-farm-income cap, opening agricultural land purchase to non-agriculturists and companies, subject to land ceiling limits",
+      "Telangana: permits any Indian citizen to buy agricultural land without an agriculturist certificate or income test, subject to the family ceiling",
+      "Land ceiling limits (under state Land Ceiling Acts) continue to cap how much agricultural land any single buyer -- farmer or not -- can hold",
+      "Practical due diligence: checking the state's current tenancy/land-reform rules and any recent amendments before structuring a purchase"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Maharashtra restricts agricultural land purchase to 'agriculturists' under the Maharashtra Tenancy and Agricultural Lands Act, 1948, with limited exceptions",
+      "confirmed: Karnataka's 2020 amendment opened agricultural land purchase to non-agriculturists by repealing Sections 79A-79C of the Karnataka Land Reforms Act",
+      "confirmed: Telangana permits any Indian citizen to purchase agricultural land without an agriculturist certificate",
+      "varies: exact rules, ceiling limits and any pending amendments should be checked per state at the time of a specific transaction"
+    ],
+    "added_on": "2026-09-30"
   }
 ]

@@ -296,5 +296,53 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-09-29"
+  },
+  {
+    "id": "termico-engineers-calcutta-hc-gst-registration-suspension-itc-mismatch",
+    "practice_area": "Tax Litigation",
+    "case_name": "Termico Engineers & Erectors Pvt. Ltd. v. Deputy Commissioner of Revenue, State Tax, Baharampur Charge & Ors.",
+    "citation": "Calcutta High Court, order dated 15 September 2026",
+    "court": "Calcutta High Court",
+    "date": "2026-09-15",
+    "holding_summary": "The tax department suspended Termico's GST registration from 1 April 2023 and issued a show cause notice (dated 22 May 2026) proposing cancellation, based on an alleged ITC mismatch of over Rs. 8.04 crore across three financial years, without first verifying or quantifying the mismatch against the supplier details and documents the taxpayer had already furnished. The Calcutta High Court quashed and set aside the show cause notice, holding that registration cannot be suspended or proposed for cancellation over an unquantified ITC mismatch before the department has verified the suppliers named by the taxpayer.",
+    "why_it_matters": "Taxpayers facing GST registration suspension over ITC mismatches now have a clear precedent that the department must first verify supplier-side details the taxpayer has furnished before acting on an unquantified mismatch -- a useful defence against premature registration suspensions that can cripple a business's ability to operate.",
+    "sources": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-suspension-itc-mismatch-adjudication-quashed-calcutta-hc.html",
+      "https://www.jurishour.in/gst/gst-registration-cancellation-itc-mismatch-verification-suppliers/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "tata-power-guvnl-aptel-review-cerc-arbitration-powers-section-79",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "Tata Power Company Ltd. v. Gujarat Urja Vikas Nigam Ltd. & Ors. (Review Petition)",
+    "citation": "APTEL order dated 17 September 2026, in review of judgment in Appeal No. 348 of 2025 dated 25 February 2026",
+    "court": "Appellate Tribunal for Electricity",
+    "date": "2026-09-17",
+    "holding_summary": "Tata Power sought review of APTEL's own February 2026 judgment, contending it had wrongly treated a key holding of the earlier Damodar Valley Corporation (DVC) ruling -- that non-tariff disputes involving a generating company or distribution licensee fall outside Section 79(1)(f) of the Electricity Act, 2003 and can be referred to arbitration -- as a mere 'stray sentence', thereby narrowing CERC's power to refer disputes to arbitration to only clauses (a)-(d) of Section 79(1). APTEL (Judicial Member Virender Bhat and Technical Member Ajay Talegaonkar) partly allowed the review, correcting its interpretation of the DVC precedent, while reiterating that review jurisdiction under Order XLVII Rule 1 CPC remains confined to errors apparent on the face of the record.",
+    "why_it_matters": "The clarification restores a broader reading of when electricity-sector disputes involving generators and distribution licensees can be pushed to arbitration rather than kept within the regulatory commissions' exclusive domain -- relevant to PPA dispute-resolution strategy for generators, distribution licensees and their counsel.",
+    "sources": [
+      "https://windinsider.com/2026/09/22/aptel-clarifies-cerc-arbitration-powers-and-corrects-dvc-judgment-interpretation/",
+      "https://www.saurenergy.com/solar-energy-news/arbitration-vs-regulatory-jurisdiction-aptels-february-2026-ruling-draws-a-line-11170847"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-30"
+  },
+  {
+    "id": "hari-prakash-ndmc-delhi-hc-abandonment-service-workman",
+    "practice_area": "Employment & Labour",
+    "case_name": "Hari Prakash v. New Delhi Municipal Council",
+    "citation": "Delhi High Court, judgment dated 15 September 2026",
+    "court": "Delhi High Court",
+    "date": "2026-09-15",
+    "holding_summary": "NDMC challenged a Labour Court award holding that a workman's services were illegally terminated, arguing that the workman had voluntarily abandoned service. The Delhi High Court dismissed NDMC's challenge and upheld the Rs. 75,000 compensation awarded, holding that abandonment requires proof of the employee's actual intention to abandon service, established through evidence such as attendance records or a proper domestic enquiry -- a bare assertion that the workman stopped reporting for duty is not enough. NDMC had failed to produce attendance records or the domestic enquiry proceedings, or examine its Enquiry Officers.",
+    "why_it_matters": "Employers relying on 'abandonment of service' as a defence to a termination claim must be able to produce contemporaneous evidence (attendance records, a proper domestic enquiry) -- an unsupported assertion will not survive Labour Court or High Court scrutiny.",
+    "sources": [
+      "https://indiankanoon.org/doc/176485165/",
+      "https://advocategandhi.com/employee-cannot-be-treated-as-having-abandoned-service-without-adequate-evidence-delhi-high-court-upholds-%E2%82%B975000-compensation/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-09-30"
   }
 ]
