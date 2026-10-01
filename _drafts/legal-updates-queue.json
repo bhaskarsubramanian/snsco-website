@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "id": "sc-nclat-e-filing-portal-glitch-limitation-mamta-binani",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Regional Provident Fund Commissioner-II v. Ms. Mamta Binani",
+    "citation": "2026 INSC 1003, decided 10 September 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-09-10",
+    "holding_summary": "In the Rolta India Limited CIRP, the Regional Provident Fund Commissioner's appeal against the NCLT's plan-approval order was dismissed by NCLAT as time-barred because it was e-filed one day beyond the maximum 45-day period (30 days plus 15 condonable days) under Section 61(2) of the IBC. The appellant showed its first attempt to e-file, on 29 January 2026, failed because of a technical defect on the NCLAT's own portal backend, and the appeal only went through the next day. The Supreme Court held a litigant should not be shown the door because of the tribunal's own e-filing system failure, and restored the matter to NCLAT to decide afresh whether sufficient cause exists to condone the delay, treating the first bona fide attempt as the effective date of presentation.",
+    "why_it_matters": "Gives litigants a concrete precedent to invoke when a tribunal's own e-filing portal causes a marginal delay in a limitation-sensitive IBC appeal, without needing to separately prove the glitch was anything more than a bona fide, documented first attempt.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/litigant-cannot-be-shown-the-door-for-nclat-portal-failure-supreme-court-restores-appeal-filed-one-day-late",
+      "https://knnindia.co.in/news/newsdetails/sectors/legal/sc-sets-aside-nclat-order-says-portal-failure-cannot-defeat-right-to-appeal",
+      "https://www.verdictum.in/supreme-court/regional-provident-fund-commissioner-ii-v-ms-mamta-binani-2026-insc-1003-e-filing-nclat-1622164"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-01"
+  },
+  {
+    "id": "chhattisgarh-hc-rera-jurisdiction-no-written-allotment-aggrieved-person",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "Fortune Resources and Properties LLP v. Y.P. Goel and Associates and Anr.",
+    "citation": "MA No. 105 of 2025, Chhattisgarh High Court, decided 21 August 2026",
+    "court": "Chhattisgarh High Court",
+    "date": "2026-08-21",
+    "holding_summary": "A complainant alleged an oral agreement to buy a shop in a Raipur commercial project for Rs. 75 lakh, with part payment later refunded after possession and a sale deed never materialised. RERA dismissed the complaint for want of a written allotment agreement and held it lacked jurisdiction; REAT reversed, holding the complainant was still an 'aggrieved person' and remanding for fresh consideration. The Chhattisgarh High Court, dismissing the builder's appeal under Section 58 of RERA, held that the term 'aggrieved person' under Section 31 of the Act and Rule 35 of the Rules is of wide amplitude, and the mere absence of a written allotment document or agreement does not by itself oust RERA's jurisdiction over a real estate complaint.",
+    "why_it_matters": "Prevents developers from defeating a RERA complaint on a pure documentation technicality, and signals that buyers who paid on the strength of an oral or informal booking can still invoke RERA rather than being pushed into ordinary civil litigation.",
+    "sources": [
+      "https://ibclaw.in/fortune-resources-and-properties-llp-vs-y-p-goel-and-associates-and-anr-chhattisgarh-high-court/",
+      "https://www.livelawbiz.com/rera/lack-of-written-allotment-or-agreement-cannot-oust-rera-jurisdiction-chhattisgarh-high-court-549849"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-01"
+  },
+  {
+    "id": "aptel-siwana-solar-tariff-haryana-5-68-kwh",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "Siwana Solar Power Projects Ltd. v. Haryana Power Purchase Centre / Haryana Electricity Regulatory Commission",
+    "citation": "APTEL, decided 18 September 2026",
+    "court": "Appellate Tribunal for Electricity (APTEL)",
+    "date": "2026-09-18",
+    "holding_summary": "HERC had directed HPPC to pay a higher tariff of Rs. 6.44/kWh to Siwana Solar Power Projects Ltd. for its 5 MW solar project in Bhiwani, Haryana, operating under a February 2014 power purchase agreement. APTEL, per Officiating Chairperson Seema Gupta and Judicial Member Virender Bhat, set aside HERC's order and held that Rs. 5.68/kWh was the binding tariff applicable to the project under the governing PPA and tariff regulations.",
+    "why_it_matters": "A reminder to solar developers and procurers that APTEL will hold parties to the tariff fixed under the originally governing PPA/regulations rather than a later, more favourable state commission redetermination, with real cash-flow consequences on a per-unit basis across a project's life.",
+    "sources": [
+      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/",
+      "https://www.pandwsolar.com/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-01"
+  }
+]

@@ -350,5 +350,23 @@
       "varies: exact rules, ceiling limits and any pending amendments should be checked per state at the time of a specific transaction"
     ],
     "added_on": "2026-09-30"
+  },
+  {
+    "id": "captive-power-plant-status-ownership-consumption-tests-guide",
+    "topic_title": "Captive Power Plant Status in India: The 26% Ownership and 51% Consumption Tests Explained",
+    "angle": "A compliance guide for industrial groups and generating companies seeking or maintaining 'captive generating plant' status under the Electricity Act and Electricity Rules, 2005, prompted by a 2026 APTEL ruling denying captive status over a shortfall in actual self-consumption despite adequate shareholding.",
+    "key_points": [
+      "To qualify as a captive generating plant, a unit must satisfy both a shareholding test (specified captive users must hold not less than 26% of the equity share capital of the generating company) and an actual self-consumption test (captive users must consume not less than 51% of the aggregate electricity generated, determined on an annual basis) under Rule 3 of the Electricity Rules, 2005",
+      "Both thresholds must be independently satisfied for the plant to retain captive status in a given year -- adequate equity ownership alone does not cure a shortfall in actual consumption, and vice versa",
+      "Captive status drives significant benefits, including exemption from certain open-access and cross-subsidy surcharges and the ability to 'bank' surplus generation with the distribution licensee for later drawal",
+      "A shortfall in the 51% consumption test in any year can lead to retrospective denial of captive benefits for that year, including recovery of banking benefits already availed, as seen in recent APTEL rulings",
+      "Practical compliance steps: tracking actual unit-wise consumption data annually (not just at the time captive arrangements are structured), maintaining documentation of equity holding across the relevant users, and promptly flagging any year in which the 51% threshold is at risk",
+      "Multi-unit or group captive arrangements (where several group companies jointly hold equity and draw power) require particular care, since a single underperforming unit's consumption shortfall can jeopardise the whole arrangement's captive status for that year"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Rule 3 of the Electricity Rules, 2005 prescribes the 26% equity ownership and 51% self-consumption (on an annual basis) tests for captive generating plant status",
+      "confirmed: APTEL has upheld denial of captive status, and consequent recovery of banking benefits, where annual self-consumption fell below 51% despite the ownership test being met (e.g., Piccadily Agro Industries Ltd./Piccadily Hotels Pvt. Ltd. v. DHBVNL, APTEL Appeal No. 76 of 2024, decided September 2026)"
+    ],
+    "added_on": "2026-10-01"
   }
 ]
