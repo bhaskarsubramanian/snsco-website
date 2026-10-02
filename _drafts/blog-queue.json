@@ -368,5 +368,62 @@
       "confirmed: APTEL has upheld denial of captive status, and consequent recovery of banking benefits, where annual self-consumption fell below 51% despite the ownership test being met (e.g., Piccadily Agro Industries Ltd./Piccadily Hotels Pvt. Ltd. v. DHBVNL, APTEL Appeal No. 76 of 2024, decided September 2026)"
     ],
     "added_on": "2026-10-01"
+  },
+  {
+    "id": "ibc-related-party-coc-voting-exclusion-section-21-2-guide",
+    "topic_title": "Related Parties on the Committee of Creditors: Why Some Financial Creditors Don't Get a Vote Under IBC Section 21(2)",
+    "angle": "A guide for financial creditors, resolution professionals and corporate debtors on how the Section 21(2) proviso excludes related-party financial creditors from CoC representation, participation and voting, and the narrow statutory exception that lets some of them back in.",
+    "key_points": [
+      "The proviso to Section 21(2) of the IBC bars a financial creditor that is a 'related party' of the corporate debtor (as defined in Section 5(24)) from any right of representation, participation or voting in CoC meetings",
+      "Related-party status for this purpose can arise from equity/voting control, common directorship or management, or other relationships listed in Section 5(24), and courts have read the exclusion purposively to catch disguised or collusive related-party financing used to influence CoC outcomes",
+      "A second proviso carves out an exception: a financial creditor regulated by a financial sector regulator is not excluded merely because it became a related party solely through conversion of debt into equity (or instruments convertible into equity) before the insolvency commencement date",
+      "The test for exclusion looks at the relationship existing as of the insolvency commencement date in most judicial readings, with courts scrutinising last-minute restructurings designed to artificially gain or escape related-party status",
+      "A resolution professional who wrongly admits a related party to CoC voting (or wrongly excludes a genuine arm's-length creditor as related) exposes the CoC's decisions, including plan approval, to challenge before the NCLT/NCLAT",
+      "Practical steps for creditors and RPs: documenting the actual ownership/control chain and transaction history behind any financial debt claim, and flagging related-party questions early rather than after a contested CoC vote"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: the proviso to Section 21(2) of the IBC excludes a related-party financial creditor from CoC representation, participation and voting, with 'related party' defined in Section 5(24)",
+      "confirmed: a second proviso exempts financial-sector-regulated creditors that became related parties solely through pre-insolvency debt-to-equity conversion",
+      "confirmed: courts (including the Supreme Court) have applied a purposive interpretation to prevent related parties from being included in or manipulating the CoC through collusive transactions"
+    ],
+    "added_on": "2026-10-02"
+  },
+  {
+    "id": "order-vii-rule-11-cpc-rejection-of-plaint-guide",
+    "topic_title": "When Can a Plaint Be Rejected Under Order VII Rule 11 CPC? A Practical Guide",
+    "angle": "A guide for both plaintiffs and defendants in civil and commercial suits on the narrow, plaint-averments-only test courts apply when a defendant seeks early rejection of a suit under Order VII Rule 11, and when such an application will (and won't) succeed.",
+    "key_points": [
+      "Order VII Rule 11 CPC lists specific grounds for rejecting a plaint at the threshold: no disclosed cause of action, undervaluation of relief, insufficient stamping, the suit being barred by law, failure to file in duplicate, and non-compliance with Order VII Rule 9 on documents",
+      "Courts decide such an application by looking only at the averments in the plaint itself (and documents filed with it) -- the defendant's written statement, defence or external evidence cannot be relied on to reject a plaint",
+      "No evidence or merits of the underlying controversy can be examined at this stage; the court must assume the plaint's factual averments are true for the limited purpose of deciding whether a cause of action or a legal bar is disclosed on the face of the plaint",
+      "Where limitation or another legal bar is obvious and glaring from the plaint's own averments, courts have held they should reject the plaint at the threshold rather than let a hopeless suit proceed to trial",
+      "If a plaint claims several reliefs and at least one is properly pleaded and maintainable, the entire plaint cannot be rejected merely because other reliefs may not be maintainable",
+      "Strategic use: a well-prepared Order VII Rule 11 application can end a suit at an early, inexpensive stage, but a plaintiff can often defeat it by ensuring the plaint itself pleads enough facts to disclose a cause of action and to show the claim isn't ex facie time-barred"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Order VII Rule 11(a)-(f) CPC sets out the six specific grounds for rejection of a plaint",
+      "confirmed: Supreme Court has repeatedly held that only the plaint's own averments (not the defence or external evidence) are considered on an Order VII Rule 11 application, and that evidence/merits cannot be examined at that stage",
+      "confirmed: Supreme Court has held a plaint can be rejected at the threshold where the limitation bar is obvious from the pleadings, and that partial rejection is not permitted where at least one pleaded relief is maintainable"
+    ],
+    "added_on": "2026-10-02"
+  },
+  {
+    "id": "msp-legal-enforceability-farmers-guide",
+    "topic_title": "Is Minimum Support Price (MSP) Legally Enforceable? What Farmers Can and Cannot Claim in Court",
+    "angle": "A guide for farmers, FPOs and agri-businesses on the actual legal status of MSP in India -- a policy announcement rather than a statutory entitlement -- what limited remedies currently exist, and the pending litigation seeking to make it a legal right.",
+    "key_points": [
+      "MSP is announced by the Government on the recommendation of the Commission for Agricultural Costs and Prices (CACP) as a policy/administrative price-support mechanism; it has no dedicated statute making it a legally enforceable right, and government procurement agencies are not under a statutory obligation to buy every farmer's produce at MSP",
+      "A farmer cannot, as matters currently stand, sue to compel payment of MSP for produce sold in the open market to a private buyer below the announced MSP, since there is no law mandating private buyers pay MSP or making the floor price legally binding",
+      "Where the government or a designated procurement agency (e.g., for paddy, wheat, cotton) does operate a procurement scheme, farmers can seek remedies tied to that specific scheme's procurement guidelines (e.g., unjustified rejection on quality grounds, procurement centre access) rather than a freestanding 'right to MSP'",
+      "A batch of petitions is pending before the Supreme Court seeking a legally guaranteed MSP for all notified crops computed on a cost-of-cultivation-plus-50%-profit (C2+50%) formula based on the Swaminathan Commission Report, with the Court seeking the Centre's response -- this remains unresolved and should be tracked rather than treated as settled law",
+      "Separately, the Essential Commodities Act and state APMC/agricultural produce marketing laws regulate where and how produce can be sold and what licensing traders need, which is distinct from and does not itself guarantee a floor price",
+      "Practical guidance for farmers and FPOs: document produce quality and procurement-centre interactions carefully when relying on a government scheme, since remedies currently run through the specific scheme's own grievance mechanism rather than a general MSP enforcement right"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: there is no central statute making MSP a legally enforceable right; MSP is fixed by government policy on CACP's recommendation and procurement is scheme-based",
+      "confirmed: a plea seeking a legally guaranteed MSP based on the Swaminathan Commission's C2+50% formula is pending before the Supreme Court, which has sought a response from the Centre -- this is an open/unresolved matter, not decided law",
+      "varies: specific procurement scheme guidelines, grievance mechanisms and which crops have active government procurement vary by state and by crop season"
+    ],
+    "added_on": "2026-10-02"
   }
 ]

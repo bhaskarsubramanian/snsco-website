@@ -47,5 +47,53 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-01"
+  },
+  {
+    "id": "n-balakrishnan-v-tnrera-title-dispute-jurisdiction",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "N. Balakrishnan v. Tamil Nadu Real Estate Regulatory Authority & Ors.",
+    "citation": "2026:MHC:3769",
+    "court": "Madras High Court",
+    "date": "2026-09-17",
+    "holding_summary": "The petitioner sought to quash a TNRERA order granting project registration over a Thiruneermalai, Tambaram property that he claimed to own. Justice D. Bharatha Chakravarthy held that TNRERA cannot adjudicate disputed questions of title while examining a project registration application, and that a party disputing ownership must approach the competent civil court; TNRERA may refuse registration only where the absence of title or an encumbrance is apparent on the face of the record.",
+    "why_it_matters": "Clarifies that RERA project registration is not a judicial finding of clear title, so a person disputing a developer's ownership cannot rely on RERA proceedings to resolve the title question and must pursue a separate civil suit.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/rera-cannot-decide-disputed-questions-of-title-parties-must-approach-civil-court-madras-high-court",
+      "https://www.verdictum.in/madras-high-court/nbalakrishnan-v-tamil-nadu-real-estate-regulatory-authority-2026mhc3769-title-civil-court-1622132"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-02"
+  },
+  {
+    "id": "hari-prakash-v-ndmc-abandonment-of-service-labour-court",
+    "practice_area": "Employment & Labour",
+    "case_name": "Hari Prakash v. New Delhi Municipal Council",
+    "citation": "Delhi High Court, decided 15 September 2026",
+    "court": "Delhi High Court",
+    "date": "2026-09-15",
+    "holding_summary": "NDMC challenged a Labour Court award holding that its Driver-cum-Field Worker's services were illegally terminated, awarding Rs. 75,000 compensation. The Delhi High Court dismissed the challenge, reiterating that an employer cannot establish that a workman has abandoned service merely by alleging he stopped reporting for duty; voluntary abandonment requires proof of actual intention to abandon, established through adequate evidence and surrounding circumstances placed before the Labour Court.",
+    "why_it_matters": "Reinforces that employers bear the burden of affirmatively proving intention to abandon employment with evidence, not bare assertion, before they can treat an absent workman as having abandoned service rather than being illegally terminated.",
+    "sources": [
+      "https://advocategandhi.com/employee-cannot-be-treated-as-having-abandoned-service-without-adequate-evidence-delhi-high-court-upholds-%E2%82%B975000-compensation/",
+      "https://indiankanoon.org/doc/176485165/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-02"
+  },
+  {
+    "id": "asr-market-ventures-v-fitship-fitfeast-trademark-rectification",
+    "practice_area": "Intellectual Property",
+    "case_name": "ASR Market Ventures Private Limited v. Fitship Private Limited & Anr.",
+    "citation": "C.O. (COMM.IPD-TM) 93/2025, Delhi High Court, decided 31 August 2026",
+    "court": "Delhi High Court",
+    "date": "2026-08-31",
+    "holding_summary": "ASR Market Ventures (owner of FITPASS) sought rectification of Fitship's registered 'FITFEAST' mark and an interim injunction in a connected passing-off suit, claiming it had coined FITFEAST in 2017. Justice Jyoti Singh dismissed the rectification petition and refused the interim injunction, holding ASR's own records showed it had consistently promoted its business under the umbrella mark FITPASS, with only scant, non-source-identifying references to FITFEAST, so ASR failed to establish goodwill in FITFEAST as a standalone mark.",
+    "why_it_matters": "Shows that merely coining or occasionally using a term alongside a dominant house mark is not enough to claim standalone trademark rights in it — a business must show the secondary mark was itself used to identify source before it can rely on that mark against a later, independently adopted registration.",
+    "sources": [
+      "https://www.livelawbiz.com/trademark/delhi-high-court-refuses-to-cancel-fitship-fitfeast-mark-says-asr-failed-to-prove-independent-use-548633",
+      "https://www.livelawbiz.com/amp/digests/monthly-digests/livelawbiz-ipr-monthly-digest-september-2026-552734"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-02"
   }
 ]
