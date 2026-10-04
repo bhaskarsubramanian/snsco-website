@@ -425,5 +425,80 @@
       "varies: specific procurement scheme guidelines, grievance mechanisms and which crops have active government procurement vary by state and by crop season"
     ],
     "added_on": "2026-10-02"
+  },
+  {
+    "id": "emergency-arbitrator-enforceability-india-guide",
+    "topic_title": "Emergency Arbitrators in India: When Can You Get Urgent Relief Before a Tribunal Even Exists?",
+    "angle": "A guide for parties facing an urgent pre-tribunal crisis (asset dissipation, an imminent breach) on using an emergency arbitrator under institutional rules (SIAC, ICC, etc.), what the Amazon v. Future Retail line of authority actually settled, and its limits for foreign-seated arbitrations.",
+    "key_points": [
+      "An emergency arbitrator (EA) is a mechanism under institutional rules (SIAC, ICC, LCIA, and increasingly Indian institutions) that lets a party obtain urgent interim relief before the main arbitral tribunal is even constituted",
+      "In Amazon.com NV Investment Holdings LLC v. Future Retail Ltd. (2021), the Supreme Court of India held that an emergency arbitrator's order in an India-seated arbitration qualifies as an order under Section 17(1) of the Arbitration and Conciliation Act, 1996, and is enforceable as such under Section 17(2)",
+      "This means an EA order in an India-seated arbitration can be enforced through court process in the same manner as an interim order of the arbitral tribunal itself, without needing a fresh Section 9 application",
+      "Critical limitation: an EA order made in a foreign-seated arbitration does not benefit from this ruling and is not directly enforceable in India in the same way -- a party may instead need to approach an Indian court under Section 9 for equivalent relief",
+      "Practical drafting point: parties who want EA availability should ensure their chosen institutional rules provide for it and that the arbitration clause doesn't inadvertently exclude emergency relief",
+      "An EA order remains subject to being varied, suspended or terminated by the tribunal once properly constituted"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court in Amazon.com NV Investment Holdings LLC v. Future Retail Ltd. & Ors. (2021) held an EA order in an India-seated arbitration is an order under Section 17(1) of the Arbitration Act and enforceable under Section 17(2)",
+      "confirmed: EA orders made in arbitrations seated outside India do not directly benefit from this ruling and are not presently enforceable in India on the same footing"
+    ],
+    "added_on": "2026-10-04"
+  },
+  {
+    "id": "benami-transactions-prohibition-act-confiscation-guide",
+    "topic_title": "Benami Transactions: How Attachment and Confiscation Actually Work Under the 2016 Amendment Act",
+    "angle": "A guide for property owners, family members on a property title, and anyone structuring a purchase in another's name, explaining the enforcement machinery under the Benami Transactions (Prohibition) Amendment Act, 2016 and the real risk of losing the property without compensation.",
+    "key_points": [
+      "The Benami Transactions (Prohibition) Amendment Act, 2016, in force from 1 November 2016, substantially overhauled the original 1988 Act, defining 'benami transaction' and creating a dedicated enforcement machinery: an Initiating Officer, an Approving Authority, an Adjudicating Authority, and an Appellate Tribunal",
+      "Under Section 24, the Initiating Officer who has reason to believe a person holds benami property issues notice to both the benamidar (the name-holder) and the beneficial owner, where known, and may provisionally attach the property (with Approving Authority approval) for up to 90 days to prevent it being alienated during the inquiry",
+      "Within 15 days of a provisional attachment order, the Initiating Officer must refer the matter to the Adjudicating Authority, which decides, after hearing the affected persons, whether to confirm the attachment",
+      "Where the Adjudicating Authority ultimately confirms the property is benami, it passes a confiscation order; on confiscation, all rights and title vest absolutely in the Central Government free of encumbrances, and no compensation is payable",
+      "The Act also carries criminal exposure -- rigorous imprisonment and a fine -- for entering into a benami transaction to defeat the law or evade creditors or statutory dues, separate from the confiscation proceedings against the property itself",
+      "Common exceptions preserved under the Act include property held by a person in a fiduciary capacity, and property purchased in the name of a spouse or unmarried daughter for which consideration is traceable to known sources of the person providing it -- though these exceptions are narrowly construed and fact-dependent"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Benami Transactions (Prohibition) Amendment Act, 2016 in force from 1 November 2016, establishing the Initiating Officer/Adjudicating Authority/Appellate Tribunal structure",
+      "confirmed: Section 24 provisional attachment (up to 90 days) and the 15-day reference requirement to the Adjudicating Authority",
+      "confirmed: confiscation under a confirmed order vests the property in the Central Government free of encumbrances with no compensation payable"
+    ],
+    "added_on": "2026-10-04"
+  },
+  {
+    "id": "ngt-appeal-environmental-clearance-section-16-guide",
+    "topic_title": "Challenging an Environmental Clearance at the NGT: The Section 16 Appeal Process and Its Tight Deadlines",
+    "angle": "A guide for a project proponent defending a granted EC, or a community/objector challenging one, on how an environmental clearance appeal actually works before the National Green Tribunal and why missing the limitation window is usually fatal.",
+    "key_points": [
+      "An order granting or refusing environmental clearance can be appealed to the National Green Tribunal under Section 16(h) of the NGT Act, 2010, and the appeal can be filed by any person aggrieved, including on environmental-interest grounds, not only a direct commercial rival",
+      "The limitation period is a strict 30 days from the date the EC order is communicated or otherwise made known to the appellant, calculated from the earliest date of effective public disclosure (such as upload on the relevant authority's website)",
+      "The NGT has power to condone a further delay of up to 60 days on sufficient cause being shown, making 90 days the absolute outer limit",
+      "Following an NGT Principal Bench practice direction, appeals filed beyond the 90-day outer limit are virtually always dismissed as time-barred, regardless of the merits of the environmental objections raised",
+      "Because the clock runs from disclosure rather than actual knowledge, a project proponent should ensure proper, timely publication of the EC to start and close the limitation window, while an intending objector must monitor clearance portals proactively rather than waiting for formal personal notice",
+      "On a successful appeal, the NGT can modify conditions, remand for fresh consideration by the authority, or quash the clearance outright, with significant practical consequences for a project already underway"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 16(h) of the NGT Act, 2010 provides the right of appeal against an order granting or refusing environmental clearance",
+      "confirmed: 30-day limitation period from communication, condonable by a further 60 days (90-day outer limit), as applied via NGT Principal Bench practice (order dated 12 August 2024) under which appeals beyond 90 days are virtually always dismissed",
+      "confirmed: limitation runs from the earliest date of effective communication/public disclosure of the EC order, not from a party's actual subjective knowledge"
+    ],
+    "added_on": "2026-10-04"
+  },
+  {
+    "id": "pledge-of-shares-invocation-lender-rights-guide",
+    "topic_title": "Invoking a Pledge of Shares: What a Lender Can (and Can't) Do on Borrower Default",
+    "angle": "A guide for lenders and promoters on how a share pledge -- a common security structure in promoter-financing and acquisition-finance deals -- is actually invoked on default, distinct from the site's existing personal-guarantee and bank-guarantee content.",
+    "key_points": [
+      "A pledge of shares as loan security is governed by a combination of the Indian Contract Act, 1872 (pledge/bailment provisions), the Companies Act, 2013 (charge registration), the Depositories Act, 1996 and SEBI's depository regulations, and, where applicable, the SARFAESI Act, 2002",
+      "Under the Companies Act, 2013, a company creating a pledge over its shares is required to have the charge registered, and an unregistered charge cannot be enforced against the company by a creditor",
+      "On default, a pledgee-lender's core contract-law options are to sue for recovery while retaining the pledge as security, or to sell the pledged shares after giving the borrower reasonable notice of the intended sale",
+      "On proper invocation, a pledgee (or its assignee) can get itself registered as beneficial owner of the dematerialised pledged shares, entitling it to exercise voting and other shareholder rights attached to those shares -- a point affirmed by Bombay High Court authority",
+      "The pledgor's right of redemption survives invocation and registration as beneficial owner -- it is only extinguished once the shares are actually sold to a third party, so a borrower retains a window to redeem by clearing the debt even after the pledge is invoked",
+      "Practical lender diligence: confirming the charge is duly registered, that depository/DP-level invocation formalities are correctly followed, and that notice requirements are satisfied before relying on invoked pledged shares as the primary recovery route"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Companies Act, 2013 charge-registration requirement applies to a pledge of a company's shares, and an unregistered charge is unenforceable against the company",
+      "confirmed: Bombay High Court authority affirms a pledgee/assignee's right to be registered as beneficial owner of invoked dematerialised pledged shares and to exercise voting rights as such",
+      "confirmed: the pledgor's right of redemption continues until actual sale of the shares to a third party, under general pledge/bailment principles"
+    ],
+    "added_on": "2026-10-04"
   }
 ]
