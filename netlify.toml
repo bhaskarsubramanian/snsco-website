@@ -338,6 +338,46 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/online-payment-fraud-deficiency-service-bank-consumer.html"
+  to = "/blog/online-payment-fraud-deficiency-service-bank-consumer.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/performance-security-bank-guarantee-invocation-infra-contract-bombay-hc.html"
+  to = "/blog/performance-security-bank-guarantee-invocation-infra-contract-bombay-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/permanent-alimony-section-25-hma-lump-sum-quantum-high-court.html"
+  to = "/blog/permanent-alimony-section-25-hma-lump-sum-quantum-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/permanent-injunction-settled-possession-burden-proof-high-court.html"
+  to = "/blog/permanent-injunction-settled-possession-burden-proof-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/pmfby-state-premium-subsidy-arrears-insurer-writ.html"
+  to = "/blog/pmfby-state-premium-subsidy-arrears-insurer-writ.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/prescriptive-easement-twenty-year-user-high-court.html"
+  to = "/blog/prescriptive-easement-twenty-year-user-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/registered-gift-deed-irrevocable-fraud-exception-high-court.html"
+  to = "/blog/registered-gift-deed-irrevocable-fraud-exception-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/restitution-conjugal-rights-decree-execution-limits-high-court.html"
+  to = "/blog/restitution-conjugal-rights-decree-execution-limits-high-court.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
