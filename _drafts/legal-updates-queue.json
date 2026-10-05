@@ -1,22 +1,5 @@
 [
   {
-    "id": "sc-nclat-e-filing-portal-glitch-limitation-mamta-binani",
-    "practice_area": "IBC & Insolvency",
-    "case_name": "Regional Provident Fund Commissioner-II v. Ms. Mamta Binani",
-    "citation": "2026 INSC 1003, decided 10 September 2026",
-    "court": "Supreme Court of India",
-    "date": "2026-09-10",
-    "holding_summary": "In the Rolta India Limited CIRP, the Regional Provident Fund Commissioner's appeal against the NCLT's plan-approval order was dismissed by NCLAT as time-barred because it was e-filed one day beyond the maximum 45-day period (30 days plus 15 condonable days) under Section 61(2) of the IBC. The appellant showed its first attempt to e-file, on 29 January 2026, failed because of a technical defect on the NCLAT's own portal backend, and the appeal only went through the next day. The Supreme Court held a litigant should not be shown the door because of the tribunal's own e-filing system failure, and restored the matter to NCLAT to decide afresh whether sufficient cause exists to condone the delay, treating the first bona fide attempt as the effective date of presentation.",
-    "why_it_matters": "Gives litigants a concrete precedent to invoke when a tribunal's own e-filing portal causes a marginal delay in a limitation-sensitive IBC appeal, without needing to separately prove the glitch was anything more than a bona fide, documented first attempt.",
-    "sources": [
-      "https://www.barandbench.com/news/litigation/litigant-cannot-be-shown-the-door-for-nclat-portal-failure-supreme-court-restores-appeal-filed-one-day-late",
-      "https://knnindia.co.in/news/newsdetails/sectors/legal/sc-sets-aside-nclat-order-says-portal-failure-cannot-defeat-right-to-appeal",
-      "https://www.verdictum.in/supreme-court/regional-provident-fund-commissioner-ii-v-ms-mamta-binani-2026-insc-1003-e-filing-nclat-1622164"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-01"
-  },
-  {
     "id": "chhattisgarh-hc-rera-jurisdiction-no-written-allotment-aggrieved-person",
     "practice_area": "Real Estate & RERA",
     "case_name": "Fortune Resources and Properties LLP v. Y.P. Goel and Associates and Anr.",
@@ -33,22 +16,6 @@
     "added_on": "2026-10-01"
   },
   {
-    "id": "aptel-siwana-solar-tariff-haryana-5-68-kwh",
-    "practice_area": "Power/Energy/Mining",
-    "case_name": "Siwana Solar Power Projects Ltd. v. Haryana Power Purchase Centre / Haryana Electricity Regulatory Commission",
-    "citation": "APTEL, decided 18 September 2026",
-    "court": "Appellate Tribunal for Electricity (APTEL)",
-    "date": "2026-09-18",
-    "holding_summary": "HERC had directed HPPC to pay a higher tariff of Rs. 6.44/kWh to Siwana Solar Power Projects Ltd. for its 5 MW solar project in Bhiwani, Haryana, operating under a February 2014 power purchase agreement. APTEL, per Officiating Chairperson Seema Gupta and Judicial Member Virender Bhat, set aside HERC's order and held that Rs. 5.68/kWh was the binding tariff applicable to the project under the governing PPA and tariff regulations.",
-    "why_it_matters": "A reminder to solar developers and procurers that APTEL will hold parties to the tariff fixed under the originally governing PPA/regulations rather than a later, more favourable state commission redetermination, with real cash-flow consequences on a per-unit basis across a project's life.",
-    "sources": [
-      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/",
-      "https://www.pandwsolar.com/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-01"
-  },
-  {
     "id": "n-balakrishnan-v-tnrera-title-dispute-jurisdiction",
     "practice_area": "Real Estate & RERA",
     "case_name": "N. Balakrishnan v. Tamil Nadu Real Estate Regulatory Authority & Ors.",
@@ -60,22 +27,6 @@
     "sources": [
       "https://www.barandbench.com/news/litigation/rera-cannot-decide-disputed-questions-of-title-parties-must-approach-civil-court-madras-high-court",
       "https://www.verdictum.in/madras-high-court/nbalakrishnan-v-tamil-nadu-real-estate-regulatory-authority-2026mhc3769-title-civil-court-1622132"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-02"
-  },
-  {
-    "id": "hari-prakash-v-ndmc-abandonment-of-service-labour-court",
-    "practice_area": "Employment & Labour",
-    "case_name": "Hari Prakash v. New Delhi Municipal Council",
-    "citation": "Delhi High Court, decided 15 September 2026",
-    "court": "Delhi High Court",
-    "date": "2026-09-15",
-    "holding_summary": "NDMC challenged a Labour Court award holding that its Driver-cum-Field Worker's services were illegally terminated, awarding Rs. 75,000 compensation. The Delhi High Court dismissed the challenge, reiterating that an employer cannot establish that a workman has abandoned service merely by alleging he stopped reporting for duty; voluntary abandonment requires proof of actual intention to abandon, established through adequate evidence and surrounding circumstances placed before the Labour Court.",
-    "why_it_matters": "Reinforces that employers bear the burden of affirmatively proving intention to abandon employment with evidence, not bare assertion, before they can treat an absent workman as having abandoned service rather than being illegally terminated.",
-    "sources": [
-      "https://advocategandhi.com/employee-cannot-be-treated-as-having-abandoned-service-without-adequate-evidence-delhi-high-court-upholds-%E2%82%B975000-compensation/",
-      "https://indiankanoon.org/doc/176485165/"
     ],
     "queued_full_page": false,
     "added_on": "2026-10-02"

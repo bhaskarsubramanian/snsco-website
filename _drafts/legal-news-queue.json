@@ -1,21 +1,5 @@
 [
   {
-    "id": "epfo-v-rachna-jhunjhunwala-uncrystallised-interest-damages-resolution-plan",
-    "practice_area": "IBC & Insolvency",
-    "case_name": "Employees Provident Fund Organisation v. Rachna Jhunjhunwala & Anr.",
-    "citation": "Civil Appeal No. 9768 of 2026 @ Diary No. 18254 of 2026; 2026 LiveLaw (SC) 749; 2026 SCC OnLine SC 1668",
-    "court": "Supreme Court of India",
-    "date": "2026-07-28",
-    "holding_summary": "EPFO challenged an NCLAT order upholding a resolution plan that excluded its claims for interest under Section 7Q and damages under Section 14B of the EPF & MP Act, 1952, on the ground that these amounts had not been determined or crystallised before the insolvency commencement date. The Supreme Court, per Justices Manoj Misra and Vijay Bishnoi, dismissed EPFO's appeal, holding that such undetermined interest and damages claims are contingent liabilities that need not be provided for in an approved resolution plan. The Court reasoned that a successful resolution applicant must know with certainty the liabilities it will have to meet, and an unquantified, un-adjudicated claim cannot be revived after plan approval.",
-    "why_it_matters": "Clarifies that the IBC's 'clean slate' protection extends to EPFO's own interest and damages claims unless they were quantified before CIRP commencement, giving resolution applicants more certainty on legacy EPF exposure even though PF principal dues themselves remain protected.",
-    "sources": [
-      "https://www.livelaw.in/top-stories/ibc-pf-dues-protected-but-uncrystallised-interest-damages-can-be-excluded-from-resolution-plan-supreme-court-543870",
-      "https://ibclaw.in/employees-provident-fund-organisation-vs-rachna-jhunjhunwala-chairperson-of-the-monitoring-committee-of-power-max-india-pvt-ltd-nclat-new-delhi/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-10-01"
-  },
-  {
     "id": "delhi-hc-section-122-1a-cgst-penalty-prospective-non-taxable-persons",
     "practice_area": "Tax Litigation",
     "case_name": "Batch of petitions arising from show cause notices/order-in-original concerning Worlds Window Impex India Pvt. Ltd. (and connected matters) v. Union of India & GST authorities",
@@ -81,74 +65,6 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-01"
-  },
-  {
-    "id": "kotak-mahindra-bank-v-trupti-sanjay-mehta-sarfaesi-assigned-nbfc-debt",
-    "practice_area": "Banking & Finance",
-    "case_name": "Kotak Mahindra Bank Limited v. Trupti Sanjay Mehta & Ors.",
-    "citation": "2026 INSC 943",
-    "court": "Supreme Court of India",
-    "date": "2026-09-02",
-    "holding_summary": "Kotak Mahindra Bank had acquired a secured, non-performing loan account originally advanced by an NBFC that was not itself notified under the SARFAESI Act, 2002, and sought to enforce the security by resorting to the Act. The Bombay High Court held the Bank could not invoke SARFAESI because the debt originated with an unnotified NBFC. The Supreme Court reversed, holding that once a secured loan account is validly assigned to a bank to which SARFAESI applies, the debt assumes the attributes of a 'secured debt' in the assignee bank's hands under the Act, regardless of whether the originating lender was itself covered by SARFAESI at the time of disbursement.",
-    "why_it_matters": "Removes a significant obstacle for banks that acquire stressed loan portfolios from NBFCs and other unnotified originators, confirming they can use SARFAESI's summary enforcement machinery rather than being pushed into ordinary civil suits to recover assigned secured debts.",
-    "sources": [
-      "https://www.livelaw.in/supreme-court/banks-can-invoke-sarfaesi-for-loans-acquired-from-nbfcs-not-covered-under-act-supreme-court-548335",
-      "https://www.verdictum.in/supreme-court/kotak-mahindra-bank-limited-v-trupti-sanjay-mehta-and-2026-insc-943-sarfaesi-1621223",
-      "https://ibclaw.in/supreme-court-clarifies-sarfaesi-act-applies-to-assigned-debts-originating-from-non-notified-nbfcs/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-10-02"
-  },
-  {
-    "id": "new-india-assurance-v-hemkund-duplex-fire-insurance-claim-repudiation",
-    "practice_area": "Consumer Protection",
-    "case_name": "M/s New India Assurance Company Ltd. v. M/s Hemkund Duplex and Board Pvt. Ltd.",
-    "citation": "2026 INSC 1023; 2026 LiveLaw (SC) 969",
-    "court": "Supreme Court of India",
-    "date": "2026-09-21",
-    "holding_summary": "The insured had claimed over Rs. 7.31 crore for a fire loss, but the insurer's final surveyor computed the net loss at only Rs. 46,09,722 and found the insured had manipulated its books to inflate the claim, including by demolishing its own shed with a JCB. The NCDRC nonetheless directed New India Assurance to pay Rs. 2.4 crore plus interest and additional compensation. The Supreme Court, per Justices Sanjay Kumar and Sanjeev Sachdeva, set aside the NCDRC's award, holding that a consumer forum cannot brush aside a detailed surveyor's report without identifying a specific deficiency in it, and that the insured's false declarations and policy breaches justified repudiation of the claim.",
-    "why_it_matters": "Reaffirms that surveyor reports carry significant evidentiary weight before consumer commissions in insurance claims, and that a consumer forum must engage with and specifically discredit a surveyor's findings before awarding a sum at odds with them — relevant for any policyholder or insurer litigating a large fire or property claim.",
-    "sources": [
-      "https://www.livelaw.in/top-stories/fire-doesnt-seem-accidental-supreme-court-upholds-repudiation-of-rs-24-crore-fire-insurance-claim-551172",
-      "https://www.verdictum.in/supreme-court/ms-new-india-assurance-company-limited-v-ms-hemkund-duplex-and-board-private-limited-2026-insc-1023-1622489",
-      "https://lawchakra.in/supreme-court/supreme-court-insurance-false-claim-surveyor-reports-ncdrc-award-set-aside/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-10-02"
-  },
-  {
-    "id": "hari-dutta-sharma-v-state-of-up-illegal-vehicle-repossession-rbi",
-    "practice_area": "Banking & Finance",
-    "case_name": "Hari Dutta Sharma v. State of U.P. & Ors.",
-    "citation": "2026 INSC 998",
-    "court": "Supreme Court of India",
-    "date": "2026-09-16",
-    "holding_summary": "A truck financed by Cholamandalam Investment and Finance Company under a hypothecation loan was seized from a godown at 1 a.m. by unidentified men, without the seven-day notice required under the loan agreement. The Supreme Court, per Justices Pamidighantam Sri Narasimha and Alok Aradhe, held the repossession unlawful in its manner and inconsistent with RBI's Fair Practices Code, holding that a financier's contractual right to repossess cannot become a licence to seize property by force, stealth or at an inappropriate hour. It awarded the borrower Rs. 10 lakh compensation and directed RBI to take effective steps to secure genuine compliance with repossession norms by NBFCs and banks.",
-    "why_it_matters": "Gives borrowers a strong, RBI-Fair-Practices-Code-backed precedent against strong-arm or notice-less vehicle/asset repossession by financiers, and signals that courts will award substantial compensation and seek systemic RBI follow-through rather than treating a single bad repossession as an isolated lapse.",
-    "sources": [
-      "https://lawstreet.co/judiciary/financiers-cannot-repossess-vehicles-by-force-or-without-contractual-notice-sc",
-      "https://courtbook.in/posts/financiers-cannot-repossess-vehicles-without-due-process-orders-10-lakh-compensation-supreme-court",
-      "https://vinodkothari.com/2026/09/from-repossession-to-redress-drawing-the-line-on-self-help-recovery/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-10-02"
-  },
-  {
-    "id": "mahanadi-coalfields-v-gsco-infrastructure-seat-vs-venue-arbitration",
-    "practice_area": "Arbitration & Dispute Resolution",
-    "case_name": "Mahanadi Coalfields Ltd. & Ors. v. M/s GSCO (Gurmeet Singh and Company) Infrastructure Pvt. Ltd.",
-    "citation": "2026 INSC 1038",
-    "court": "Supreme Court of India",
-    "date": "2026-09-23",
-    "holding_summary": "A contract for excavation and allied work at MCL's Kulda Open Cast Project in Sundargarh, Odisha contained no arbitration clause; a sole arbitrator was later appointed by the Odisha High Court at Cuttack and the arbitration proceeded there. When MCL filed Section 34 petitions before the District Court, Sundargarh, the respondent argued Cuttack was the juridical seat and only the Cuttack courts had jurisdiction. The Supreme Court, per Justices Sanjay Kumar and Sanjeev Sachdeva, held that mere conduct of proceedings at a location for administrative convenience does not make it the juridical seat absent an express or implied designation, and restored the Section 34 petitions to the District Judge, Sundargarh, also confirming that a Section 34 challenge can proceed before a District Court where no dedicated Commercial Court has been constituted.",
-    "why_it_matters": "A clear, practical illustration of how seat and venue diverge in ad hoc arbitrations without an express seat clause, and a reminder that the location where hearings happen to occur is not determinative — directly relevant to parties deciding where to file a Section 34 challenge.",
-    "sources": [
-      "https://www.scconline.com/blog/post/2026/09/30/supreme-court-seat-of-arbitration-section-34-sundargarh-court/",
-      "https://www.verdictum.in/supreme-court/mahanadi-coalfields-ltd-ors-v-ms-gsco-infrastructure-pvt-ltd-2026-insc-1038-commercial-district-courts-1622645",
-      "https://ibclaw.in/mahanadi-coalfields-ltd-and-ors-vs-gsco-gurmeet-singh-and-company-infrastructure-pvt-ltd-supreme-court/"
-    ],
-    "queued_full_page": true,
-    "added_on": "2026-10-02"
   },
   {
     "id": "mahareat-ra-residences-fsi-alteration-conveyance-penalty",
