@@ -378,6 +378,56 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/rfctlarr-2013-act-land-acquisition-compensation-mp-hc-market-value.html"
+  to = "/blog/rfctlarr-2013-act-land-acquisition-compensation-mp-hc-market-value.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/right-of-way-linear-infrastructure-pipeline-easement-punjab-hc.html"
+  to = "/blog/right-of-way-linear-infrastructure-pipeline-easement-punjab-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/senior-citizens-maintenance-act-eviction-son-property-tribunal.html"
+  to = "/blog/senior-citizens-maintenance-act-eviction-son-property-tribunal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/specific-performance-suit-readiness-willingness-supreme-court.html"
+  to = "/blog/specific-performance-suit-readiness-willingness-supreme-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-consumer-complaint-limitation-discovery-of-defect.html"
+  to = "/blog/supreme-court-consumer-complaint-limitation-discovery-of-defect.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-partition-suit-co-sharers-residing-abroad.html"
+  to = "/blog/supreme-court-partition-suit-co-sharers-residing-abroad.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/tds-default-section-271c-reasonable-cause-itat.html"
+  to = "/blog/tds-default-section-271c-reasonable-cause-itat.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/telecom-service-deficiency-billing-consumer-complaint.html"
+  to = "/blog/telecom-service-deficiency-billing-consumer-complaint.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/up-tenant-ejectment-zamindari-abolition-act-limitation.html"
+  to = "/blog/up-tenant-ejectment-zamindari-abolition-act-limitation.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/void-marriage-bigamy-section-11-hma-distinguished-voidable-high-court.html"
+  to = "/blog/void-marriage-bigamy-section-11-hma-distinguished-voidable-high-court.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
