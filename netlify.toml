@@ -258,6 +258,46 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/medical-negligence-deficiency-service-consumer-forum.html"
+  to = "/blog/medical-negligence-deficiency-service-consumer-forum.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/mental-cruelty-false-criminal-complaints-divorce-ground-high-court.html"
+  to = "/blog/mental-cruelty-false-criminal-complaints-divorce-ground-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/metro-rail-ppp-concessionaire-viability-gap-dispute-nclat.html"
+  to = "/blog/metro-rail-ppp-concessionaire-viability-gap-dispute-nclat.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/mutation-entry-no-title-supreme-court.html"
+  to = "/blog/mutation-entry-no-title-supreme-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/na-permission-retrospective-conversion-fee-demand-quashed.html"
+  to = "/blog/na-permission-retrospective-conversion-fee-demand-quashed.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-2026-ibc-amendment-timeline-extension-strict-application.html"
+  to = "/blog/nclat-2026-ibc-amendment-timeline-extension-strict-application.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-coc-commercial-wisdom-minority-creditor-challenge.html"
+  to = "/blog/nclat-coc-commercial-wisdom-minority-creditor-challenge.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-group-company-insolvency-substantive-consolidation-denied.html"
+  to = "/blog/nclat-group-company-insolvency-substantive-consolidation-denied.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
