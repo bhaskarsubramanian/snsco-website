@@ -58,6 +58,46 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/airline-flight-delay-consumer-complaint-compensation.html"
+  to = "/blog/airline-flight-delay-consumer-complaint-compensation.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/airport-concession-revenue-share-dispute-delhi-hc-aai.html"
+  to = "/blog/airport-concession-revenue-share-dispute-delhi-hc-aai.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/anti-dumping-duty-sunset-review-continuation-cestat.html"
+  to = "/blog/anti-dumping-duty-sunset-review-continuation-cestat.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/apmc-mandi-fee-direct-farm-gate-purchase-high-court.html"
+  to = "/blog/apmc-mandi-fee-direct-farm-gate-purchase-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/benami-transaction-recovery-suit-restriction-supreme-court.html"
+  to = "/blog/benami-transaction-recovery-suit-restriction-supreme-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/boundary-encroachment-commissioner-report-evidentiary-value-high-court.html"
+  to = "/blog/boundary-encroachment-commissioner-report-evidentiary-value-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/builder-possession-delay-consumer-complaint-compensation.html"
+  to = "/blog/builder-possession-delay-consumer-complaint-compensation.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/cbic-circular-gst-liquidated-damages-penalty-clauses.html"
+  to = "/blog/cbic-circular-gst-liquidated-damages-penalty-clauses.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
