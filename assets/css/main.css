@@ -380,3 +380,23 @@ footer{background:#060f1e;padding:30px 60px;display:flex;justify-content:space-b
 @media(max-width:768px){
   .blog-grid{grid-template-columns:1fr!important;}
 }
+
+/* Newsletter signup */
+.nl-band{background:var(--wh);padding:56px 60px;border-top:1px solid var(--br);border-bottom:1px solid var(--br);text-align:center;}
+.nl-in{max-width:660px;margin:0 auto;}
+.nl-band .stitle{color:var(--nv);margin-bottom:12px;}
+.nl-sub{font-size:16.5px;color:var(--mu);line-height:1.75;font-weight:300;margin-bottom:24px;}
+.nl-form{display:flex;flex-direction:column;gap:14px;text-align:left;}
+.nl-row{display:flex;gap:10px;flex-wrap:wrap;}
+.nl-form input[type=email]{flex:1 1 260px;min-width:0;padding:14px 16px;border:1px solid rgba(0,35,70,.25);background:#fff;font-family:'Jost',sans-serif;font-size:15px;color:var(--nv);border-radius:0;}
+.nl-form input[type=email]:focus{outline:2px solid var(--gd);outline-offset:1px;}
+.nl-form .btn-p{justify-content:center;}
+.nl-consent{display:flex;gap:10px;align-items:flex-start;font-size:12.5px;line-height:1.6;color:var(--mu);cursor:pointer;}
+.nl-consent input{margin-top:3px;flex:0 0 auto;width:16px;height:16px;accent-color:var(--gd);}
+.nl-consent a{color:var(--nv);text-decoration:underline;}
+.nl-lbl{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;}
+.nl-hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;}
+.nl-card{background:#fff;border:1px solid var(--br);padding:28px;margin:8px 0 12px;}
+.nl-card .nl-form{margin:0;}
+.content-main .nl-consent a{color:var(--nv);}
+@media(max-width:768px){.nl-band{padding:44px 20px;}.nl-form .btn-p{width:100%;}.nl-card{padding:20px;}}
