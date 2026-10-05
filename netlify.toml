@@ -218,6 +218,46 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/huf-partition-daughter-coparcenary-rights-reaffirmed-high-court.html"
+  to = "/blog/huf-partition-daughter-coparcenary-rights-reaffirmed-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/income-tax-reassessment-section-148a-monetary-threshold-hc.html"
+  to = "/blog/income-tax-reassessment-section-148a-monetary-threshold-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/income-tax-search-seizure-section-132-reason-to-believe-hc.html"
+  to = "/blog/income-tax-search-seizure-section-132-reason-to-believe-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/insurance-claim-repudiation-deficiency-service-consumer-commission.html"
+  to = "/blog/insurance-claim-repudiation-deficiency-service-consumer-commission.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/ipa-disciplinary-action-insolvency-professional-non-compliance.html"
+  to = "/blog/ipa-disciplinary-action-insolvency-professional-non-compliance.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/judicial-separation-conversion-divorce-section-13-1a-high-court.html"
+  to = "/blog/judicial-separation-conversion-divorce-section-13-1a-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/khatauni-mutation-correction-limitation-revenue-appeal.html"
+  to = "/blog/khatauni-mutation-correction-limitation-revenue-appeal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/lis-pendens-transfer-during-suit-void-supreme-court.html"
+  to = "/blog/lis-pendens-transfer-during-suit-void-supreme-court.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
