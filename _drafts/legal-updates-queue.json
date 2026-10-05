@@ -129,5 +129,73 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-04"
+  },
+  {
+    "id": "pvcon-engineering-sc-gstat-appeal-without-pre-deposit",
+    "practice_area": "Tax Litigation",
+    "case_name": "PVCON Engineering Co. v. CGST and Central Excise, Bhopal",
+    "citation": "SLP (C) No. 28059 of 2026, Supreme Court, order dated 21 September 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-09-21",
+    "holding_summary": "PVCON Engineering, a road/construction contractor, received a penalty-only Order-in-Original dated 3 October 2024 (pursuant to a Show Cause Notice dated 26 July 2024 concerning alleged passing-on of irregular ITC without actual supply), and its Section 107 appeal was dismissed as time-barred. Challenging the Madhya Pradesh High Court's dismissal of its writ, PVCON argued the amended pre-deposit requirement for appeals before the GST Appellate Tribunal (GSTAT) could not apply to proceedings initiated before 1 October 2025. Justices K.V. Viswanathan and Arun Palli permitted PVCON to file its GSTAT appeal without the mandatory pre-deposit, expressly subject to the outcome of the pending SLP, and kept the jurisdictional challenge to the issuing DGGI officer open for adjudication.",
+    "why_it_matters": "Gives taxpayers facing a penalty-only GST order issued before the 1 October 2025 pre-deposit amendment a concrete basis to seek interim relief from the pre-deposit condition when approaching GSTAT, pending a final ruling on the amendment's retrospective reach.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/sc-permits-to-file-appeal-before-gstat-without-pre-deposit-as-scn-was-issued-before-amendment-on-1st-october-2025-read-order-1451271",
+      "https://www.taxheal.com/k-v-viswanathan-and-arun-palli-jj-4.html",
+      "https://a2ztaxcorp.net/pre-deposit-on-penalty-order-cannot-be-demanded-merely-because-the-gstat-appeal-is-filed-after-october-01-2025-and-question-of-jurisdiction-kept-open-for-adjudication-proceedings-u-s-122/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-05"
+  },
+  {
+    "id": "orissa-hc-writ-maintainable-section-37-district-judge-order",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "State of Odisha and Others v. Dhanurdhar Champatiray",
+    "citation": "Orissa High Court, decided 21 September 2026 (Routray, J.)",
+    "court": "Orissa High Court",
+    "date": "2026-09-21",
+    "holding_summary": "Nine writ petitions challenged orders of District Judges, sitting as appellate authorities under Section 37(1) of the Arbitration and Conciliation Act, 1996. The respondents raised a common preliminary objection that, since the Arbitration Act bars a second appeal against such orders (an appeal lying only to the Supreme Court), the writ petitions were an impermissible substitute for a second appeal. Justice B.P. Routray rejected the objection, holding that the High Court's constitutional jurisdiction under Articles 226 and 227 is not an appellate remedy and cannot be curtailed by a statutory bar on second appeals, though he confirmed that such supervisory jurisdiction over a Section 37 order remains confined to cases of egregious illegality, perversity or a patent lack of jurisdiction.",
+    "why_it_matters": "Confirms that a party left without a further statutory appeal after a Section 37 order is not without recourse and can still invoke the High Court's limited supervisory writ jurisdiction, though only in cases of serious jurisdictional or legal error rather than as a routine further round of merits review.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/writ-petitions-maintainable-against-order-of-the-district-judge-passed-us-371-of-arbitration-and-conciliation-act-orissa-hc-1451944",
+      "https://taxguru.in/corporate-law/writ-against-district-judges-section-37-arbitration-order-maintainable-orissa-hc.html",
+      "https://www.livelawbiz.com/arbitration/high-court/writ-petition-can-be-entertained-against-order-passed-under-section-37-despite-bar-on-second-appeal-orissa-high-court-551426"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-05"
+  },
+  {
+    "id": "allahabad-hc-nbfc-premature-repayment-nclt-exclusive-jurisdiction",
+    "practice_area": "Banking & Finance",
+    "case_name": "Shivam Traders and Hire Purchase Pvt. Ltd. v. Madhusudan Vehicles Pvt. Ltd.",
+    "citation": "2026:AHC:67074, Allahabad High Court, decided 31 March 2026",
+    "court": "Allahabad High Court",
+    "date": "2026-03-31",
+    "holding_summary": "Shivam Traders, an NBFC, had received a long-term loan of Rs. 19.25 crore from Madhusudan Vehicles under a nine-year facility in 2019, and alleged the lender began pressing for premature repayment after only a year, prompting RBI complaints; Shivam Traders' civil suit for an injunction against premature recovery was rejected at the plaint stage, and its first appeal also failed. The Allahabad High Court dismissed its further appeal, holding that under Section 45QA of the RBI Act, 1934 read with Section 430 of the Companies Act, 2013, only the NCLT has jurisdiction over a dispute concerning the premature repayment of a deposit or loan from an NBFC, and a civil court has no jurisdiction to grant an injunction restraining such recovery.",
+    "why_it_matters": "Confirms that a borrower cannot use an ordinary civil suit or injunction to resist an NBFC's premature-recovery demand, and must instead raise any such dispute before the NCLT under Section 45QA -- relevant to any business financed by an NBFC that wants to contest early-repayment pressure.",
+    "sources": [
+      "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/shivam-traders-and-hire-purchase-pvt-ltd-v-madhusudan-vehicles-pvt-ltd-2026ahc67074-nclt-exclusive-domain-us-45-qa-1611706",
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-nclt-dispute-premature-repayment-loan-civil-court-jurisdiction-barred-529157",
+      "https://www.courtkutchehry.com/pages/blog/allahabad-hc-nclt-loan-repayment-jurisdiction/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-05"
+  },
+  {
+    "id": "aptel-siwana-solar-tariff-finality-reopening",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "M/s Siwana Solar Power Projects Ltd. v. Haryana Power Purchase Centre & Anr.",
+    "citation": "APTEL, decided 18 September 2026",
+    "court": "Appellate Tribunal for Electricity (APTEL)",
+    "date": "2026-09-18",
+    "holding_summary": "In a dispute over the generic tariff applicable to Siwana's 5 MW solar project in Haryana, the Haryana Electricity Regulatory Commission had directed the Haryana Power Purchase Centre to pay a higher tariff of Rs. 6.44/kWh. APTEL, per Officiating Chairperson Seema Gupta and Judicial Member Virender Bhat, set aside that direction, holding the applicable-tariff question had already been finally decided in earlier proceedings between the same parties and could not be reopened, and restored Rs. 5.68/kWh as the binding rate for the project.",
+    "why_it_matters": "Reinforces that a solar generator or distribution utility cannot relitigate a tariff question already settled in a prior round of proceedings between the same parties, underscoring the finality of earlier SERC/APTEL tariff determinations in long-term power purchase arrangements.",
+    "sources": [
+      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/",
+      "https://www.pandwsolar.com/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/",
+      "https://kalpapower.com/aptel-rejects-solar-developers-claim-for-higher-tariff/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-05"
   }
 ]
