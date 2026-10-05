@@ -178,6 +178,46 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/grandparents-visitation-rights-recognised-high-court.html"
+  to = "/blog/grandparents-visitation-rights-recognised-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gst-eway-bill-expiry-penalty-proportionality-tribunal.html"
+  to = "/blog/gst-eway-bill-expiry-penalty-proportionality-tribunal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gst-itc-rule-86a-blocking-reasons-to-believe-hc.html"
+  to = "/blog/gst-itc-rule-86a-blocking-reasons-to-believe-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gst-refund-rejection-without-hearing-set-aside-hc.html"
+  to = "/blog/gst-refund-rejection-without-hearing-set-aside-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gstat-penalty-only-order-section-74-misapplied-modified.html"
+  to = "/blog/gstat-penalty-only-order-section-74-misapplied-modified.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/ham-annuity-payment-delay-arbitral-award-orissa-hc.html"
+  to = "/blog/ham-annuity-payment-delay-arbitral-award-orissa-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/haryana-land-ceiling-surplus-declaration-tribunal.html"
+  to = "/blog/haryana-land-ceiling-surplus-declaration-tribunal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/hospital-billing-dispute-consumer-commission-overcharging.html"
+  to = "/blog/hospital-billing-dispute-consumer-commission-overcharging.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
