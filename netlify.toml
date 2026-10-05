@@ -138,6 +138,46 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/desertion-ground-divorce-animus-deserendi-high-court.html"
+  to = "/blog/desertion-ground-divorce-animus-deserendi-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/drb-recommendation-binding-until-superseded-karnataka-hc.html"
+  to = "/blog/drb-recommendation-binding-until-superseded-karnataka-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/epc-contractor-payment-certificate-dispute-madras-hc-injunction.html"
+  to = "/blog/epc-contractor-payment-certificate-dispute-madras-hc-injunction.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/execution-decree-possession-resistance-order-21-high-court.html"
+  to = "/blog/execution-decree-possession-resistance-order-21-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/faceless-assessment-denial-personal-hearing-natural-justice-hc.html"
+  to = "/blog/faceless-assessment-denial-personal-hearing-natural-justice-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/food-delivery-platform-consumer-complaint-deficiency.html"
+  to = "/blog/food-delivery-platform-consumer-complaint-deficiency.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/force-majeure-infra-contract-flood-disruption-gujarat-arbitral-tribunal.html"
+  to = "/blog/force-majeure-infra-contract-flood-disruption-gujarat-arbitral-tribunal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/geac-field-trial-approval-challenge-gm-mustard-ngt.html"
+  to = "/blog/geac-field-trial-approval-challenge-gm-mustard-ngt.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
