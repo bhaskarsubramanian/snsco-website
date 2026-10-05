@@ -1,0 +1,766 @@
+{
+  "source_branch": "claude/magical-cannon-w7h1ty",
+  "generated_on": "2026-10-05",
+  "note": "Candidate blog topics from this branch were screened ONLY for title-level duplication against origin/main's published blog/ and this session's research-draft blog-queue.json. They have NOT been fact-verified against primary sources yet. The branch's legal-news/ and legal-updates/ content was separately reviewed and discarded in full -- it contained fabricated/templated case content (placeholder party names, unverifiable 'as reported in trade press' sourcing, explicit anonymisation disclaimers) and must not be used, queued, or revisited.",
+  "instructions": "For each candidate below: read the full draft at `git show origin/claude/magical-cannon-w7h1ty:<path>` (read-only, do NOT merge or checkout that branch). Treat its text only as a starting draft/angle, not as a verified fact source. Independently confirm the topic's key legal/procedural facts (section numbers, thresholds, timelines, case law cited) via WebSearch against 2+ independent sources, the same bar used for this session's normal daily blog-queue entries. Re-check each surviving topic against origin/main's current blog/index.html and the current _drafts/blog-queue.json (things may have changed since this manifest was generated) before adding it, to avoid re-introducing a duplicate. Append only topics that check out to _drafts/blog-queue.json using the existing schema (id, topic_title, angle, key_points, facts_to_verify_or_confirmed, added_on). Skip anything that doesn't verify cleanly -- it is fine to finish with fewer than 164 queued. Commit and push to research-draft when done (never touch main or any other file outside _drafts/).",
+  "already_flagged_as_likely_duplicate_do_not_requeue": [
+    {
+      "path": "blog/consumer-mediation-2019-act-guide.html",
+      "title": "Consumer Mediation Under the 2019 Act: How It Works and When to Opt for It",
+      "overlaps_with": "QUEUE:consumer-mediation-cell-pre-litigation-court-referred"
+    },
+    {
+      "path": "blog/slump-sale-asset-sale-share-sale-structuring-guide.html",
+      "title": "Slump Sale, Asset Sale or Share Sale? Choosing the Right Structure for a Business Transfer in India",
+      "overlaps_with": "QUEUE:slump-sale-vs-asset-sale-vs-share-sale-ma-structuring"
+    },
+    {
+      "path": "blog/ibc-section-29a-resolution-applicant-eligibility-guide.html",
+      "title": "Section 29A Eligibility: Who Is Barred From Submitting a Resolution Plan Under the IBC",
+      "overlaps_with": "QUEUE:ibc-section-29a-resolution-applicant-ineligibility-guide"
+    },
+    {
+      "path": "blog/bank-fraud-classification-rbi-reporting-guide.html",
+      "title": "Bank Fraud Account Classification in India: The RBI Framework and a Borrower's Rights",
+      "overlaps_with": "QUEUE:rbi-wilful-defaulter-classification-2024-framework-guide"
+    },
+    {
+      "path": "blog/wilful-defaulter-classification-consequences-guide.html",
+      "title": "Wilful Defaulter Classification in India: Process, Consequences and How to Respond",
+      "overlaps_with": "QUEUE:rbi-wilful-defaulter-classification-2024-framework-guide"
+    },
+    {
+      "path": "blog/ibc-resolution-plan-section-30-2-compliance-checklist-guide.html",
+      "title": "Section 30(2) Compliance: A Checklist for What Every IBC Resolution Plan Must Contain",
+      "overlaps_with": "QUEUE:ibc-section-29a-resolution-applicant-ineligibility-guide"
+    },
+    {
+      "path": "blog/ibc-section-7-9-10-admission-defenses-guide.html",
+      "title": "Admission of Section 7, 9 and 10 Applications Under the IBC: What Every Corporate Debtor and Creditor Should Know",
+      "overlaps_with": "MAIN:blog/ibc-timelines-creditor-debtor-guide.html"
+    },
+    {
+      "path": "blog/real-estate-agent-registration-rera-compliance-guide.html",
+      "title": "Real Estate Agent Registration Under RERA: A Compliance Guide for Brokers",
+      "overlaps_with": "MAIN:blog/joint-development-agreement-real-estate-tax-guide.html"
+    },
+    {
+      "path": "blog/ecommerce-return-refund-policy-compliance-guide.html",
+      "title": "E-Commerce Return and Refund Policies: What Platforms Must Disclose Under the 2020 Rules",
+      "overlaps_with": "MAIN:blog/ecommerce-consumer-protection-rules-2020-guide.html"
+    },
+    {
+      "path": "blog/section-12a-prospective-application-mediation-guide.html",
+      "title": "Does Section 12A Pre-Institution Mediation Apply to a Commercial Suit Filed Before 2022?",
+      "overlaps_with": "MAIN:blog/mediation-act-2023-section-12a-pre-litigation-guide.html"
+    },
+    {
+      "path": "blog/contested-divorce-grounds-hma-sma-guide.html",
+      "title": "Grounds for Contested Divorce in India: Hindu Marriage Act and Special Marriage Act Compared",
+      "overlaps_with": "MAIN:blog/mutual-consent-divorce-section-13b-cooling-period-waiver-guide.html"
+    },
+    {
+      "path": "blog/fdi-compliance-company-structuring-guide.html",
+      "title": "Structuring a Company for Foreign Investment: FDI Compliance Basics Under FEMA",
+      "overlaps_with": "MAIN:blog/fema-fdi-reporting-fcgpr-fctrs-guide.html"
+    },
+    {
+      "path": "blog/fssai-fbo-compliance-obligations-checklist-guide.html",
+      "title": "FSSAI Compliance Obligations for a Food Business Operator: A Practical Checklist",
+      "overlaps_with": "MAIN:blog/fssai-food-recall-procedure-guide.html"
+    },
+    {
+      "path": "blog/ibc-homebuyers-financial-creditors-section-5-8-f-guide.html",
+      "title": "Homebuyers as Financial Creditors Under Section 5(8)(f) of the IBC: What Allottees Need to Know",
+      "overlaps_with": "QUEUE:ibc-related-party-coc-voting-exclusion-section-21-2-guide"
+    },
+    {
+      "path": "blog/ibc-resolution-timelines-guide.html",
+      "title": "A Guide to IBC Resolution Timelines: From Admission to a Resolution Plan",
+      "overlaps_with": "QUEUE:ibc-section-29a-resolution-applicant-ineligibility-guide"
+    },
+    {
+      "path": "blog/insurance-claim-repudiation-consumer-rights-guide.html",
+      "title": "What to Do When an Insurance Claim Is Repudiated: A Consumer's Guide",
+      "overlaps_with": "MAIN:blog/medical-negligence-claim-routes-guide.html"
+    },
+    {
+      "path": "blog/posh-compliance-multiple-offices-factories-apex-committee-guide.html",
+      "title": "POSH Compliance Across Multiple Offices: One Committee Per Location, or an Apex Structure?",
+      "overlaps_with": "MAIN:blog/posh-internal-committee-setup-guide.html"
+    },
+    {
+      "path": "blog/posh-icc-external-member-role-qualifications-guide.html",
+      "title": "The External Member on a POSH Internal Committee: Role, Qualifications and Why Independence Matters",
+      "overlaps_with": "MAIN:blog/posh-internal-committee-setup-guide.html"
+    },
+    {
+      "path": "blog/posh-icc-inquiry-procedure-step-by-step-guide.html",
+      "title": "Conducting a POSH Inquiry: The Procedure an Internal Committee Must Follow, Step by Step",
+      "overlaps_with": "MAIN:blog/posh-internal-committee-setup-guide.html"
+    },
+    {
+      "path": "blog/posh-icc-training-capacity-building-obligations-guide.html",
+      "title": "Training the Internal Committee: What the POSH Rules Require and Why It Matters",
+      "overlaps_with": "MAIN:blog/posh-internal-committee-setup-guide.html"
+    }
+  ],
+  "candidates": [
+    {
+      "path": "blog/dispute-resolution-clauses-government-infra-tenders-gfr-guide.html",
+      "draft_title": "Dispute Resolution Clauses in Government Infrastructure Tenders: What the GFR Actually Requires"
+    },
+    {
+      "path": "blog/inter-country-parental-child-custody-disputes-guide.html",
+      "draft_title": "Child Custody in Inter-Country Parental Disputes: How Indian Courts Approach Cross-Border Cases"
+    },
+    {
+      "path": "blog/banking-service-deficiency-consumer-complaint-guide.html",
+      "draft_title": "Banking Service Deficiencies: When Can You File a Consumer Complaint Against Your Bank?"
+    },
+    {
+      "path": "blog/benami-transactions-property-disputes-guide.html",
+      "draft_title": "Benami Transactions and Property Disputes: What the Law Actually Restricts"
+    },
+    {
+      "path": "blog/buyback-of-shares-section-68-compliance-guide.html",
+      "draft_title": "Buying Back Your Company's Own Shares: A Compliance Guide to Section 68 of the Companies Act"
+    },
+    {
+      "path": "blog/concession-agreement-termination-compensation-drafting-guide.html",
+      "draft_title": "Termination Payment Clauses in Indian PPP Concession Agreements: A Drafting Guide"
+    },
+    {
+      "path": "blog/ibc-fast-track-cirp-guide.html",
+      "draft_title": "Fast-Track Corporate Insolvency Resolution Process Under the IBC: Eligibility and Timelines"
+    },
+    {
+      "path": "blog/ip-assignment-vs-licensing-guide.html",
+      "draft_title": "IP Assignment vs. Licensing: Choosing the Right Structure for Your Intellectual Property"
+    },
+    {
+      "path": "blog/loan-restructuring-resolution-framework-rbi-guide.html",
+      "draft_title": "Loan Restructuring Under RBI's Resolution Framework: A Borrower's and Lender's Guide"
+    },
+    {
+      "path": "blog/medical-negligence-consumer-complaint-guide.html",
+      "draft_title": "Medical Negligence as a Consumer Complaint: A Guide for Patients and Healthcare Providers"
+    },
+    {
+      "path": "blog/na-permission-agricultural-land-conversion-process-guide.html",
+      "draft_title": "Converting Agricultural Land for Non-Agricultural Use: The NA Permission Process Explained"
+    },
+    {
+      "path": "blog/ppa-disputes-curtailment-compensation-guide.html",
+      "draft_title": "Power Purchase Agreement Disputes and Curtailment Compensation: What Generators Should Know"
+    },
+    {
+      "path": "blog/rera-vs-consumer-forum-election-remedies-guide.html",
+      "draft_title": "RERA or the Consumer Forum? Why Homebuyers Should Choose Carefully, Not Sequentially"
+    },
+    {
+      "path": "blog/section-29a-extension-after-award-guide.html",
+      "draft_title": "Is an Arbitral Award Void If It Comes After the Section 29A Deadline? What the Supreme Court Actually Said"
+    },
+    {
+      "path": "blog/section-9-vs-section-17-interim-relief-guide.html",
+      "draft_title": "Section 9 or Section 17? Choosing the Right Forum for Interim Relief in Arbitration"
+    },
+    {
+      "path": "blog/stay-of-demand-pending-appeal-income-tax-gst-guide.html",
+      "draft_title": "Getting a Stay of Demand Pending Appeal: How It Works Under Income Tax and GST"
+    },
+    {
+      "path": "blog/food-safety-appellate-tribunal-appeal-procedure-guide.html",
+      "draft_title": "Appealing to the Food Safety Appellate Tribunal: A Step-by-Step Procedural Guide"
+    },
+    {
+      "path": "blog/gi-enforcement-infringement-guide.html",
+      "draft_title": "Enforcing a Geographical Indication: What GI Registration Actually Protects and How Infringement Is Proved"
+    },
+    {
+      "path": "blog/gst-show-cause-notice-procedural-defects-natural-justice-guide.html",
+      "draft_title": "GST Show Cause Notices: Common Procedural Defects and the Natural Justice Safeguards Taxpayers Can Invoke"
+    },
+    {
+      "path": "blog/lis-pendens-property-buyers-guide.html",
+      "draft_title": "What Is Lis Pendens, and Why It Matters When Buying Property in India"
+    },
+    {
+      "path": "blog/payment-of-bonus-act-entitlement-guide.html",
+      "draft_title": "Who Is Entitled to a Statutory Bonus Under the Payment of Bonus Act?"
+    },
+    {
+      "path": "blog/revoking-registered-gift-deed-property-guide.html",
+      "draft_title": "Can a Registered Gift Deed of Property Be Revoked? Grounds and Procedure"
+    },
+    {
+      "path": "blog/section-48-public-policy-foreign-award-guide.html",
+      "draft_title": "Resisting Enforcement of a Foreign Award in India: The Narrow Public Policy Ground Under Section 48"
+    },
+    {
+      "path": "blog/agricultural-land-ceiling-laws-state-variation-guide.html",
+      "draft_title": "Agricultural Land Ceiling Laws in India: How the Permissible Holding Limit Varies by State"
+    },
+    {
+      "path": "blog/carpet-area-calculation-disputes-homebuyer-guide.html",
+      "draft_title": "Carpet Area Disclosure Under RERA: What Homebuyers Should Check Before and After Booking"
+    },
+    {
+      "path": "blog/force-majeure-frustration-contract-india-business-guide.html",
+      "draft_title": "Force Majeure and Frustration of Contract: When Can an Indian Business Actually Walk Away From a Deal?"
+    },
+    {
+      "path": "blog/fssai-health-nutrition-claims-substantiation-guide.html",
+      "draft_title": "Substantiating Health and Nutrition Claims on Food Labels: What FSSAI Expects"
+    },
+    {
+      "path": "blog/gst-demand-section-73-vs-section-74-differences-guide.html",
+      "draft_title": "Section 73 vs Section 74 of the CGST Act: Why the Difference Matters for Every GST Demand"
+    },
+    {
+      "path": "blog/ibc-coc-voting-thresholds-commercial-wisdom-guide.html",
+      "draft_title": "Committee of Creditors Voting Thresholds and the Commercial Wisdom Doctrine Under the IBC"
+    },
+    {
+      "path": "blog/notice-pay-garden-leave-clause-guide.html",
+      "draft_title": "Notice Pay and Garden Leave Clauses: What Employees and Employers Should Know Before Resignation or Termination"
+    },
+    {
+      "path": "blog/rbi-co-lending-2025-and-sarfaesi-assigned-loans-business-guide.html",
+      "draft_title": "Co-Lending Rules and Assigned Loan Recoveries in 2026: What Businesses Borrowing From Banks and NBFCs Should Know"
+    },
+    {
+      "path": "blog/rerat-appeal-procedure-guide.html",
+      "draft_title": "Appealing a RERA Order: A Guide to the Real Estate Appellate Tribunal Procedure"
+    },
+    {
+      "path": "blog/section-13-advance-payment-restriction-guide.html",
+      "draft_title": "Advance Payment Restrictions Under Section 13 of RERA: What Developers and Buyers Should Know"
+    },
+    {
+      "path": "blog/unfair-contract-terms-consumer-agreements-guide.html",
+      "draft_title": "Unfair Contract Terms in Consumer Agreements: What the 2019 Act Changed"
+    },
+    {
+      "path": "blog/arbitrator-bias-independence-section-12-guide.html",
+      "draft_title": "Challenging an Arbitrator for Bias: How Section 12 Disclosure and Independence Standards Actually Work"
+    },
+    {
+      "path": "blog/confidentiality-arbitration-proceedings-guide.html",
+      "draft_title": "Is Arbitration in India Actually Confidential? What the Law Protects, and What It Doesn't"
+    },
+    {
+      "path": "blog/consumer-complaint-filing-faq-guide.html",
+      "draft_title": "FAQs on Filing a Consumer Complaint in India: Forum, Limitation and Relief"
+    },
+    {
+      "path": "blog/executing-decree-for-possession-guide.html",
+      "draft_title": "You Won Your Possession Suit: Now What? A Guide to Executing a Decree for Possession"
+    },
+    {
+      "path": "blog/execution-money-decree-garnishee-proceedings-creditor-guide.html",
+      "draft_title": "Execution of a Money Decree and Garnishee Proceedings: A Creditor's Guide"
+    },
+    {
+      "path": "blog/fssai-imported-food-noc-clearance-procedure-guide.html",
+      "draft_title": "Clearing Imported Food Consignments Through FSSAI: The NOC Procedure Explained"
+    },
+    {
+      "path": "blog/gst-anti-profiteering-interest-refund-consumer-welfare-fund-guide.html",
+      "draft_title": "GST Refunds and the Consumer Welfare Fund After Union of India v. Torrent Power: A Guide for Businesses"
+    },
+    {
+      "path": "blog/guardianship-vs-custody-distinction-guide.html",
+      "draft_title": "Guardianship vs. Custody of a Child in India: Understanding the Legal Distinction"
+    },
+    {
+      "path": "blog/income-tax-penalty-proceedings-section-270a-guide.html",
+      "draft_title": "Penalty for Under-Reporting and Misreporting of Income Under Section 270A: A Guide"
+    },
+    {
+      "path": "blog/indemnity-vs-guarantee-clause-distinction-guide.html",
+      "draft_title": "Indemnity Clauses vs Guarantee Clauses: Why the Difference Matters in Commercial Contracts"
+    },
+    {
+      "path": "blog/insecticides-act-pesticide-fertilizer-compliance-guide.html",
+      "draft_title": "Pesticide and Fertiliser Regulatory Compliance Under the Insecticides Act: A Guide for Agri-Input Dealers"
+    },
+    {
+      "path": "blog/ip-due-diligence-ma-transactions-guide.html",
+      "draft_title": "IP Due Diligence in M&A Transactions: What Acquirers Need to Verify Before Closing"
+    },
+    {
+      "path": "blog/jurisdiction-clauses-forum-selection-commercial-contracts-guide.html",
+      "draft_title": "Jurisdiction Clauses in Commercial Contracts: Drafting and Enforcing Forum Selection in India"
+    },
+    {
+      "path": "blog/liquidation-auction-finality-ibc-guide.html",
+      "draft_title": "Why a Higher Offer After an IBC Liquidation Auction Usually Doesn't Reopen the Sale"
+    },
+    {
+      "path": "blog/posh-annual-report-filing-practical-guide.html",
+      "draft_title": "Filing the POSH Annual Report: A Practical Guide to the Section 21 Obligation"
+    },
+    {
+      "path": "blog/posh-compliance-factories-industrial-establishments-guide.html",
+      "draft_title": "POSH Compliance in Factories and Industrial Establishments: What Is Different From a Typical Office"
+    },
+    {
+      "path": "blog/standing-orders-disciplinary-proceedings-guide.html",
+      "draft_title": "Standing Orders and Disciplinary Proceedings: The Process an Employer Must Follow Before Dismissing an Employee"
+    },
+    {
+      "path": "blog/terminating-distributor-dealership-agreement-legal-risks-guide.html",
+      "draft_title": "Terminating a Distributor or Dealership Agreement: Legal Risks Every Business Should Know"
+    },
+    {
+      "path": "blog/transfer-pricing-dispute-resolution-apa-guide.html",
+      "draft_title": "Resolving a Transfer Pricing Dispute: Litigation Track vs the Advance Pricing Agreement Route"
+    },
+    {
+      "path": "blog/transmission-licensing-cerc-compliance-guide.html",
+      "draft_title": "Transmission Licensing Under the Electricity Act: CERC Regulations and Ongoing Compliance Obligations"
+    },
+    {
+      "path": "blog/related-party-lending-restrictions-section-185-186-guide.html",
+      "draft_title": "Loans, Guarantees and Investments to Related Parties: Understanding Sections 185 and 186 of the Companies Act"
+    },
+    {
+      "path": "blog/agricultural-income-tax-exemption-disputes-guide.html",
+      "draft_title": "Agricultural Income Tax Exemption: What Qualifies and Why Disputes Arise"
+    },
+    {
+      "path": "blog/agricultural-tenant-rights-state-tenancy-acts-guide.html",
+      "draft_title": "Tenancy Rights of Agricultural Tenants Under State Tenancy Acts: A Practical Guide"
+    },
+    {
+      "path": "blog/builder-buyer-agreement-unfair-clauses-guide.html",
+      "draft_title": "Red Flags in a Builder-Buyer Agreement: Clauses RERA Authorities Have Found One-Sided"
+    },
+    {
+      "path": "blog/child-custody-best-interest-factors-guide.html",
+      "draft_title": "How Indian Courts Decide Child Custody: The Best Interest of the Child Standard Explained"
+    },
+    {
+      "path": "blog/deadlock-resolution-mechanisms-joint-ventures-guide.html",
+      "draft_title": "Breaking a 50:50 Deadlock: Deadlock Resolution Mechanisms in Indian Joint Venture Agreements"
+    },
+    {
+      "path": "blog/defective-goods-replacement-refund-rights-guide.html",
+      "draft_title": "Defective Goods: Your Right to Repair, Replacement or Refund Under Consumer Law"
+    },
+    {
+      "path": "blog/demerger-scheme-legal-structuring-considerations-guide.html",
+      "draft_title": "Structuring a Demerger: Key Legal Considerations Under the Companies Act"
+    },
+    {
+      "path": "blog/emergency-arbitrator-india-enforceability-guide.html",
+      "draft_title": "Emergency Arbitrators in India: What They Can Order, and Whether the Order Actually Sticks"
+    },
+    {
+      "path": "blog/employer-background-check-employee-data-privacy-guide.html",
+      "draft_title": "Employee Background Checks and the DPDP Act: What Employers Can and Cannot Do"
+    },
+    {
+      "path": "blog/environmental-clearance-power-mining-projects-guide.html",
+      "draft_title": "Environmental Clearance for Power and Mining Projects: The EIA Process and Common Compliance Pitfalls"
+    },
+    {
+      "path": "blog/family-succession-disputes-will-challenge-guide.html",
+      "draft_title": "Succession Disputes Among Family Members: Common Grounds for Challenging Inheritance"
+    },
+    {
+      "path": "blog/fssai-adjudication-section-68-defending-penalty-notice-guide.html",
+      "draft_title": "Defending a Section 68 Penalty Notice Before an FSSAI Adjudicating Officer: A Procedural Guide"
+    },
+    {
+      "path": "blog/fssai-consumer-complaints-food-safety-violations-guide.html",
+      "draft_title": "Consumer Complaints for Food Safety Violations: How the FSSAI and Consumer Protection Routes Differ"
+    },
+    {
+      "path": "blog/gratuity-payment-dispute-employer-refusal-guide.html",
+      "draft_title": "Payment of Gratuity Act: When Can an Employer Lawfully Withhold or Forfeit Gratuity?"
+    },
+    {
+      "path": "blog/ibc-section-12a-withdrawal-cirp-guide.html",
+      "draft_title": "Withdrawing an Admitted CIRP Under Section 12A of the IBC: Process and Requirements"
+    },
+    {
+      "path": "blog/income-tax-reassessment-section-147-148-post-2021-guide.html",
+      "draft_title": "Income Tax Reassessment Under Sections 147/148: A Guide to the Post-2021 Procedure"
+    },
+    {
+      "path": "blog/institutional-vs-ad-hoc-arbitration-guide.html",
+      "draft_title": "Institutional or Ad Hoc? Choosing an Arbitration Framework for Your Commercial Contracts"
+    },
+    {
+      "path": "blog/mediation-matrimonial-disputes-guide.html",
+      "draft_title": "Mediation in Matrimonial Disputes: How It Works and When Courts Refer Couples to It"
+    },
+    {
+      "path": "blog/mental-cruelty-divorce-ground-explained-guide.html",
+      "draft_title": "Mental Cruelty as a Ground for Divorce in India: What Courts Actually Look For"
+    },
+    {
+      "path": "blog/msmed-act-facilitation-council-arbitration-guide.html",
+      "draft_title": "Statutory Arbitration Under the MSMED Act: How the Facilitation Council Route Works"
+    },
+    {
+      "path": "blog/secretarial-audit-compliance-certification-guide.html",
+      "draft_title": "Secretarial Audit and Compliance Certification: What Companies Need to Know"
+    },
+    {
+      "path": "blog/section-14-3-structural-defect-liability-guide.html",
+      "draft_title": "Structural Defect Liability Under Section 14(3): A Homebuyer&#x27;s Guide to the Five-Year Window"
+    },
+    {
+      "path": "blog/section-37-appeal-arbitration-guide.html",
+      "draft_title": "Appealing an Arbitration-Related Order Under Section 37: What Can, and Cannot, Be Appealed"
+    },
+    {
+      "path": "blog/seed-certification-ppvfra-compliance-guide.html",
+      "draft_title": "Seed Certification and PPV&FR Act Compliance: A Guide for Seed Companies and Farmers"
+    },
+    {
+      "path": "blog/specific-performance-agreement-to-sell-guide.html",
+      "draft_title": "Specific Performance of an Agreement to Sell Immovable Property: A Practical Guide"
+    },
+    {
+      "path": "blog/well-known-trademark-protection-2026-rule-124-business-guide.html",
+      "draft_title": "Protecting a Well-Known Brand in India: What the Delhi High Court's Columbia Pictures Ruling Means for Businesses"
+    },
+    {
+      "path": "blog/agricultural-irrigation-water-rights-disputes-guide.html",
+      "draft_title": "Water Rights and Irrigation Disputes for Agricultural Land: What Farmers Need to Know"
+    },
+    {
+      "path": "blog/agricultural-land-pooling-scheme-legal-guide.html",
+      "draft_title": "Land Pooling Schemes for Agricultural Land: How They Work and What Landowners Should Check"
+    },
+    {
+      "path": "blog/airline-railway-passenger-rights-consumer-guide.html",
+      "draft_title": "Airline and Railway Passenger Rights: Filing a Consumer Complaint for Service Deficiency"
+    },
+    {
+      "path": "blog/anti-suit-injunctions-cross-border-commercial-disputes-guide.html",
+      "draft_title": "Anti-Suit Injunctions in Cross-Border Commercial Disputes: A Guide for Indian Businesses"
+    },
+    {
+      "path": "blog/change-in-law-change-in-scope-concession-agreement-guide.html",
+      "draft_title": "Change in Law and Change in Scope Clauses in Indian Concession Agreements: A Drafting and Claims Guide"
+    },
+    {
+      "path": "blog/copyright-fair-dealing-exceptions-guide.html",
+      "draft_title": "Fair Dealing Under the Copyright Act: When Using Someone Else's Work Isn't Infringement"
+    },
+    {
+      "path": "blog/court-fees-valuation-property-suits-guide.html",
+      "draft_title": "Court Fees and Valuation in Property Suits: What to Expect Before You File"
+    },
+    {
+      "path": "blog/deficiency-service-vs-unfair-trade-practice-guide.html",
+      "draft_title": "Deficiency in Service vs Unfair Trade Practice: What's the Difference Under Consumer Law?"
+    },
+    {
+      "path": "blog/fssai-hygiene-rating-scheme-restaurant-compliance-guide.html",
+      "draft_title": "FSSAI's Hygiene Rating Scheme: What Restaurants and Food Delivery Outlets Should Know"
+    },
+    {
+      "path": "blog/ibc-insolvency-professional-agency-ipa-compliance-guide.html",
+      "draft_title": "Insolvency Professional Agency (IPA) Oversight: Compliance Obligations Every Insolvency Professional Should Know"
+    },
+    {
+      "path": "blog/kyc-aml-compliance-banks-guide.html",
+      "draft_title": "KYC and Anti-Money Laundering Compliance for Banks in India: A Practical Overview"
+    },
+    {
+      "path": "blog/liquidated-damages-vs-penalty-clause-drafting-guide.html",
+      "draft_title": "Liquidated Damages vs Penalty Clauses: Drafting Delay and Breach Clauses That Actually Hold Up"
+    },
+    {
+      "path": "blog/mine-closure-plan-compliance-guide.html",
+      "draft_title": "Mine Closure Plan Compliance: Progressive and Final Closure Obligations for Mining Lessees"
+    },
+    {
+      "path": "blog/minimum-wages-act-employee-rights-guide.html",
+      "draft_title": "Minimum Wages Act, 1948: What Employees and Employers Should Know About Scheduled Employment Rates"
+    },
+    {
+      "path": "blog/mutation-of-property-records-guide.html",
+      "draft_title": "Mutation of Property Records: What It Does, and Does Not, Prove"
+    },
+    {
+      "path": "blog/patent-infringement-litigation-claim-construction-guide.html",
+      "draft_title": "How Patent Infringement Litigation Works in India: Claim Construction and What You Need to Prove"
+    },
+    {
+      "path": "blog/prenuptial-postnuptial-agreement-enforceability-india-guide.html",
+      "draft_title": "Are Prenuptial and Postnuptial Agreements Enforceable in India?"
+    },
+    {
+      "path": "blog/recovering-unpaid-commercial-dues-civil-suit-guide.html",
+      "draft_title": "Recovering Unpaid Commercial Dues in India: The Civil Suit Route, Step by Step"
+    },
+    {
+      "path": "blog/reduction-of-capital-procedure-companies-act-guide.html",
+      "draft_title": "Reducing Share Capital Under the Companies Act: The NCLT Procedure Explained"
+    },
+    {
+      "path": "blog/rera-vs-civil-court-jurisdiction-guide.html",
+      "draft_title": "RERA or Civil Court? Understanding Section 79&#x27;s Jurisdiction Bar"
+    },
+    {
+      "path": "blog/seat-vs-venue-arbitration-guide.html",
+      "draft_title": "Seat vs Venue of Arbitration: Why Two Words in Your Contract Can Decide Which Court Has Jurisdiction"
+    },
+    {
+      "path": "blog/striking-off-revival-restoration-company-guide.html",
+      "draft_title": "My Company Was Struck Off the Register: Can It Be Revived? A Guide to NCLT Restoration"
+    },
+    {
+      "path": "blog/trademark-infringement-vs-passing-off-guide.html",
+      "draft_title": "Trademark Infringement vs. Passing Off: What's the Difference and Which Remedy Applies?"
+    },
+    {
+      "path": "blog/unstamped-arbitration-agreement-validity-guide.html",
+      "draft_title": "Is an Unstamped Arbitration Agreement Still Valid? What NN Global Actually Decided"
+    },
+    {
+      "path": "blog/e-nam-electronic-agriculture-market-compliance-guide.html",
+      "draft_title": "e-NAM Compliance for Agricultural Traders: A Practical Guide to the Electronic National Agriculture Market"
+    },
+    {
+      "path": "blog/electricity-theft-section-135-139-guide.html",
+      "draft_title": "Electricity Theft and Unauthorised Use: Understanding Sections 135 to 139 of the Electricity Act"
+    },
+    {
+      "path": "blog/fssai-food-safety-audit-third-party-certification-guide.html",
+      "draft_title": "Food Safety Audits and Third-Party Certification Under FSSAI's Risk-Based Framework: A Guide for FBOs"
+    },
+    {
+      "path": "blog/ibc-cross-border-insolvency-uncitral-model-law-guide.html",
+      "draft_title": "Cross-Border Insolvency Under Indian Law: The UNCITRAL Model Law&#x27;s Adoption Status and What It Means Today"
+    },
+    {
+      "path": "blog/illegal-mining-dmf-penalty-compliance-guide.html",
+      "draft_title": "Illegal Mining Penalties and District Mineral Foundation Compliance: What Lessees Need to Know"
+    },
+    {
+      "path": "blog/upi-digital-payment-fraud-liability-guide.html",
+      "draft_title": "Who Bears the Loss in UPI and Digital Payment Fraud? A Guide to RBI's Liability Framework"
+    },
+    {
+      "path": "blog/customs-duty-classification-disputes-guide.html",
+      "draft_title": "Customs Duty Classification Disputes: How Goods Are Classified and Where Disputes Commonly Arise"
+    },
+    {
+      "path": "blog/design-piracy-registered-designs-guide.html",
+      "draft_title": "Protecting a Registered Design From Piracy: What Counts as Infringement Under the Designs Act"
+    },
+    {
+      "path": "blog/distribution-licensee-universal-service-obligations-guide.html",
+      "draft_title": "Distribution Licensee Obligations and Universal Service Under the Electricity Act: A Guide"
+    },
+    {
+      "path": "blog/electricity-tariff-true-up-serc-guide.html",
+      "draft_title": "Electricity Tariff Determination and True-Up Petitions: A Guide for Generators and Discoms"
+    },
+    {
+      "path": "blog/faceless-assessment-scheme-procedural-challenges-guide.html",
+      "draft_title": "The Faceless Assessment Scheme: How It Works and the Procedural Grounds Taxpayers Commonly Raise"
+    },
+    {
+      "path": "blog/fssai-hotel-hospitality-food-safety-compliance-guide.html",
+      "draft_title": "Food Safety Compliance for Hotels and the Hospitality Sector: A Practical Overview"
+    },
+    {
+      "path": "blog/land-acquisition-infrastructure-projects-rfctlarr-2013-guide.html",
+      "draft_title": "Land Acquisition for Infrastructure Projects Under the RFCTLARR Act, 2013: A Process Guide"
+    },
+    {
+      "path": "blog/letter-of-credit-ucp-600-guide.html",
+      "draft_title": "Letters of Credit and UCP 600: A Practical Guide for Indian Exporters, Importers and Banks"
+    },
+    {
+      "path": "blog/loan-emi-deduction-spousal-maintenance-guide.html",
+      "draft_title": "Does Paying EMIs or a Home Loan Reduce How Much Maintenance a Spouse Must Pay?"
+    },
+    {
+      "path": "blog/mca-2026-ibc-amendment-secured-creditor-corporate-guide.html",
+      "draft_title": "Incorporation Paperwork and Secured Creditor Status in 2026: Two Compliance Changes Companies Should Not Miss"
+    },
+    {
+      "path": "blog/occupancy-certificate-homebuyer-consumer-rights-guide.html",
+      "draft_title": "Possession Without an Occupancy Certificate: What a Homebuyer Can Do"
+    },
+    {
+      "path": "blog/partition-suits-india-guide.html",
+      "draft_title": "How Partition Suits Work in India: A Practical Guide for Co-Owners"
+    },
+    {
+      "path": "blog/penal-charges-interest-rate-disputes-rbi-guide.html",
+      "draft_title": "Penal Charges on Loan Defaults: What RBI's Fair Lending Rules Actually Allow"
+    },
+    {
+      "path": "blog/ppp-appraisal-viability-gap-funding-vgf-compliance-guide.html",
+      "draft_title": "Viability Gap Funding (VGF) for Indian PPP Projects: Appraisal, Compliance and Disbursement Conditions"
+    },
+    {
+      "path": "blog/priority-sector-lending-guide.html",
+      "draft_title": "Priority Sector Lending in India: What It Means and Why It Matters"
+    },
+    {
+      "path": "blog/rera-project-registration-developer-guide.html",
+      "draft_title": "RERA Project Registration: A Practical Guide for Developers"
+    },
+    {
+      "path": "blog/sub-contractor-payment-disputes-infrastructure-projects-guide.html",
+      "draft_title": "Sub-Contractor Payment Disputes on Indian Infrastructure Projects: Remedies and Practical Safeguards"
+    },
+    {
+      "path": "blog/surrogacy-regulation-act-2021-guide.html",
+      "draft_title": "Surrogacy Law in India: A Guide to the Surrogacy (Regulation) Act, 2021"
+    },
+    {
+      "path": "blog/tds-tcs-default-compliance-disputes-guide.html",
+      "draft_title": "TDS/TCS Default and Compliance Disputes: A Guide for Deductors and Collectors"
+    },
+    {
+      "path": "blog/temporary-permanent-injunction-property-disputes-faq-guide.html",
+      "draft_title": "Temporary vs Permanent Injunctions in Property Disputes: An FAQ Guide"
+    },
+    {
+      "path": "blog/tenant-cannot-claim-ownership-adverse-possession-guide.html",
+      "draft_title": "Can a Long-Term Tenant Ever Become the Owner of Rented Property?"
+    },
+    {
+      "path": "blog/visitation-rights-parenting-plans-guide.html",
+      "draft_title": "Visitation Rights and Parenting Plans in India: A Practical Guide for Separated Parents"
+    },
+    {
+      "path": "blog/adverse-possession-india-guide.html",
+      "draft_title": "Adverse Possession in India: What Twelve Years of Possession Can and Cannot Get You"
+    },
+    {
+      "path": "blog/agricultural-cooperative-society-law-governance-guide.html",
+      "draft_title": "Cooperative Society Law in Agriculture: Governance, Member Rights and Registrar's Powers Explained"
+    },
+    {
+      "path": "blog/anti-counterfeiting-john-doe-orders-guide.html",
+      "draft_title": "Anti-Counterfeiting Enforcement in India: How 'John Doe' / Ashok Kumar Orders Work"
+    },
+    {
+      "path": "blog/arc-asset-reconstruction-transaction-guide.html",
+      "draft_title": "How Asset Reconstruction Companies Work: A Guide to Stressed Loan Sales in India"
+    },
+    {
+      "path": "blog/boundary-encroachment-disputes-guide.html",
+      "draft_title": "Boundary and Encroachment Disputes Between Neighbours: How They're Resolved"
+    },
+    {
+      "path": "blog/breach-of-contract-remedies-damages-specific-performance-guide.html",
+      "draft_title": "Breach of Contract in India: Choosing Between Damages and Specific Performance"
+    },
+    {
+      "path": "blog/celebrity-personality-rights-india-guide.html",
+      "draft_title": "Personality Rights in India: What the Law Protects and How Celebrities Enforce It"
+    },
+    {
+      "path": "blog/coal-linkage-fuel-supply-agreement-guide.html",
+      "draft_title": "Coal Linkage and Fuel Supply Agreements: A Guide for Thermal Power Generators"
+    },
+    {
+      "path": "blog/easement-rights-india-guide.html",
+      "draft_title": "Easement Rights in India: Right of Way and Other Easements Explained"
+    },
+    {
+      "path": "blog/gst-rule-86a-itc-blocking-taxpayer-remedies-guide.html",
+      "draft_title": "ITC Blocked Under Rule 86A: What It Means and the Remedies Available to a Taxpayer"
+    },
+    {
+      "path": "blog/housing-society-redevelopment-state-policy-guide.html",
+      "draft_title": "Redevelopment of Housing Societies: A Guide to State Redevelopment Policies and Member Rights"
+    },
+    {
+      "path": "blog/hybrid-annuity-model-ham-road-projects-structuring-guide.html",
+      "draft_title": "The Hybrid Annuity Model (HAM) for Indian Road Projects: Structure, Payment Mechanics and Recurring Dispute Points"
+    },
+    {
+      "path": "blog/ibc-liquidation-section-53-waterfall-guide.html",
+      "draft_title": "The Section 53 Liquidation Waterfall: Order of Priority for Distribution of a Corporate Debtor&#x27;s Assets"
+    },
+    {
+      "path": "blog/infrastructure-asset-monetisation-nmp-legal-structuring-guide.html",
+      "draft_title": "Legal Structuring of Infrastructure Asset Monetisation Under the National Monetisation Pipeline: A Primer"
+    },
+    {
+      "path": "blog/misleading-advertisement-ccpa-penalties-guide.html",
+      "draft_title": "Misleading Advertisements and CCPA Penalties: A Guide for Businesses and Consumers"
+    },
+    {
+      "path": "blog/nda-breach-remedies-confidential-information-misuse-guide.html",
+      "draft_title": "When a Business Partner Breaches Your NDA: Remedies Available Under Indian Law"
+    },
+    {
+      "path": "blog/posh-inquiry-respondent-rights-process-guide.html",
+      "draft_title": "What Happens During a POSH Inquiry: A Guide From the Respondent's Perspective"
+    },
+    {
+      "path": "blog/toll-user-fee-disputes-highway-projects-guide.html",
+      "draft_title": "Toll and User Fee Disputes on Indian Highway Projects: Revision, Suspension and Recovery"
+    },
+    {
+      "path": "blog/trade-union-registration-recognition-guide.html",
+      "draft_title": "How Trade Unions Are Registered and Recognised Under Indian Labour Law"
+    },
+    {
+      "path": "blog/working-journalists-act-dues-reference-delegation-guide.html",
+      "draft_title": "Can a Labour Department Delegate Its Power to Refer a Dues Dispute? What the Dainik Bhaskar Ruling Means"
+    },
+    {
+      "path": "blog/workplace-bullying-constructive-dismissal-guide.html",
+      "draft_title": "What Is 'Constructive Dismissal' and How Is It Different From an Ordinary Resignation?"
+    },
+    {
+      "path": "blog/wrongful-termination-employee-remedies-guide.html",
+      "draft_title": "Wrongfully Terminated? The Legal Remedies Available to an Employee in India"
+    },
+    {
+      "path": "blog/bess-battery-energy-storage-regulatory-guide.html",
+      "draft_title": "Battery Energy Storage Systems (BESS) in India: The Emerging Regulatory Framework"
+    },
+    {
+      "path": "blog/equitable-mortgage-enforcement-guide.html",
+      "draft_title": "Equitable Mortgage by Deposit of Title Deeds: How It Works and How Lenders Enforce It"
+    },
+    {
+      "path": "blog/esop-employee-stock-option-dispute-guide.html",
+      "draft_title": "Employee Stock Options in India: What Happens to Vested and Unvested ESOPs on Resignation or Termination?"
+    },
+    {
+      "path": "blog/group-of-companies-doctrine-non-signatory-guide.html",
+      "draft_title": "The Group of Companies Doctrine: When Can an Arbitration Clause Bind a Company That Never Signed It?"
+    },
+    {
+      "path": "blog/right-of-way-disputes-linear-infrastructure-projects-guide.html",
+      "draft_title": "Right of Way Disputes for Linear Infrastructure in India: Pipelines, Transmission Lines and Corridors"
+    },
+    {
+      "path": "blog/trade-secret-protection-india-guide.html",
+      "draft_title": "Protecting Trade Secrets in India: What the Law Covers Without a Dedicated Statute"
+    },
+    {
+      "path": "blog/cci-merger-notification-combination-requirements-guide.html",
+      "draft_title": "Does Your Deal Need CCI Approval? A Guide to Merger Notification (Combination) Requirements in India"
+    },
+    {
+      "path": "blog/deemed-completion-occupancy-certificate-guide.html",
+      "draft_title": "Deemed Date of Completion and the Occupancy Certificate: A Homebuyer&#x27;s FAQ"
+    },
+    {
+      "path": "blog/fssai-gm-novel-food-approval-process-guide.html",
+      "draft_title": "Bringing a Novel Food or GM-Derived Ingredient to Market in India: The Regulatory Approval Process"
+    }
+  ]
+}
