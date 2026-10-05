@@ -298,6 +298,46 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/nclat-irp-resolution-professional-transition-duties-dispute.html"
+  to = "/blog/nclat-irp-resolution-professional-transition-duties-dispute.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-resolution-professional-related-party-claims-verification.html"
+  to = "/blog/nclat-resolution-professional-related-party-claims-verification.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-statutory-dues-government-claims-resolution-plan-treatment.html"
+  to = "/blog/nclat-statutory-dues-government-claims-resolution-plan-treatment.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclt-admission-delay-condonation-section-7-listing-challenge.html"
+  to = "/blog/nclt-admission-delay-condonation-section-7-listing-challenge.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclt-essential-supplies-section-14-2-moratorium-utility-disconnection.html"
+  to = "/blog/nclt-essential-supplies-section-14-2-moratorium-utility-disconnection.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclt-related-party-transaction-scrutiny-suspended-board-preadmission.html"
+  to = "/blog/nclt-related-party-transaction-scrutiny-suspended-board-preadmission.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclt-set-off-netting-master-agreement-during-cirp.html"
+  to = "/blog/nclt-set-off-netting-master-agreement-during-cirp.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nwr-double-pledge-fraud-wdra-warehouse-negligence.html"
+  to = "/blog/nwr-double-pledge-fraud-wdra-warehouse-negligence.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
