@@ -1,0 +1,53 @@
+/* Search + subject filter for the blog and legal-news listings, and the /search/ page */
+.lf{margin:0 0 28px;font-family:'Jost',sans-serif;}
+.lf[hidden]{display:none;}
+.lf-row{display:flex;gap:12px;flex-wrap:wrap;}
+.lf-s{flex:1 1 320px;min-width:0;}
+.lf-c{flex:0 1 280px;min-width:0;}
+.lf-t{flex:0 1 200px;}
+.lf-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;}
+.lf input[type=search],.lf select{width:100%;box-sizing:border-box;height:48px;padding:0 16px;font:400 15px 'Jost',sans-serif;border-radius:2px;border:1px solid rgba(0,35,70,.18);background:#fff;color:var(--nv);appearance:none;-webkit-appearance:none;}
+.lf select{padding-right:40px;cursor:pointer;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23b57560' stroke-width='1.6'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 16px center;}
+.lf input::placeholder{color:#7b8aa0;}
+.lf input:focus-visible,.lf select:focus-visible,.lf button:focus-visible,.lf a:focus-visible,.lf-more:focus-visible{outline:2px solid var(--gd);outline-offset:2px;}
+.lf-meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-top:12px;font-size:13px;color:var(--mu);}
+.lf-links{display:flex;gap:18px;align-items:center;flex-wrap:wrap;}
+.lf-links a{color:var(--gd);text-decoration:none;font-weight:500;}
+.lf-links a:hover{text-decoration:underline;}
+.lf-reset{background:none;border:0;padding:0;font:500 13px 'Jost',sans-serif;color:var(--nv);text-decoration:underline;cursor:pointer;}
+.lf-more{display:inline-block;margin:28px auto 0;padding:14px 34px;font:600 11px 'Jost',sans-serif;letter-spacing:2px;text-transform:uppercase;background:transparent;color:var(--gd);border:1px solid var(--gd);cursor:pointer;transition:background .2s,color .2s;}
+.lf-more:hover{background:var(--gd);color:var(--nv);}
+.lf-more[hidden]{display:none;}
+.lf-empty{grid-column:1/-1;background:var(--nv2);color:rgba(255,255,255,.7);padding:36px 28px;font-size:16px;text-align:center;}
+.lf-news-empty{background:var(--cr);color:var(--nv);padding:28px;text-align:center;margin:0 0 24px;border:1px solid rgba(0,35,70,.08);}
+
+/* blog listing: dark section */
+.lf-blog{max-width:1200px;margin:0 auto 28px;}
+.lf-blog input[type=search],.lf-blog select{background-color:rgba(255,255,255,.06);border-color:rgba(181,117,96,.4);color:#fff;}
+.lf-blog select option{color:var(--nv);background:#fff;}
+.lf-blog input::placeholder{color:rgba(255,255,255,.45);}
+.lf-blog .lf-meta{color:rgba(255,255,255,.6);}
+.lf-blog .lf-reset{color:#fff;}
+.pr-grid .prc[hidden],.uc[hidden]{display:none!important;}
+.lf-blogwrap{text-align:center;}
+
+/* news listing: hide empty practice-area blocks while filtering */
+.lf-hide{display:none!important;}
+
+/* search page results */
+.sr-list{list-style:none;margin:0;padding:0;}
+.sr-item{border-bottom:1px solid rgba(0,35,70,.1);padding:20px 0;}
+.sr-meta{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:8px;font-size:12px;color:var(--mu);}
+.sr-badge{font-size:9px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;padding:3px 8px;background:rgba(181,117,96,.1);border:1px solid rgba(181,117,96,.28);color:var(--gd);}
+.sr-badge.n{background:rgba(0,35,70,.06);border-color:rgba(0,35,70,.2);color:var(--nv);}
+.sr-title{font-family:'Fraunces',serif;font-size:20px;font-weight:500;line-height:1.3;margin:0 0 6px;}
+.sr-title a{color:var(--nv);text-decoration:none;}
+.sr-title a:hover{color:var(--gd);}
+.sr-desc{font-size:16px;line-height:1.7;color:#5a6478;font-weight:300;margin:0;}
+.sr-item mark{background:rgba(181,117,96,.25);color:inherit;padding:0 1px;}
+.sr-more{text-align:center;}
+
+@media (max-width:640px){
+  .lf-c,.lf-t{flex:1 1 100%;}
+  .lf-meta{font-size:12.5px;}
+}
