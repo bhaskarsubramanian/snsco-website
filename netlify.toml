@@ -98,6 +98,46 @@
   status = 301
 
 [[redirects]]
+  from = "/legal-news/celebrity-endorser-liability-misleading-advertisement-ccpa.html"
+  to = "/blog/celebrity-endorser-liability-misleading-advertisement-ccpa.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/child-custody-best-interest-relocation-mother-high-court.html"
+  to = "/blog/child-custody-best-interest-relocation-mother-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/concession-termination-compensation-vidharba-highways-dispute.html"
+  to = "/blog/concession-termination-compensation-vidharba-highways-dispute.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/court-fee-valuation-possession-suit-high-court.html"
+  to = "/blog/court-fee-valuation-possession-suit-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/customs-svb-related-party-valuation-loading-cestat.html"
+  to = "/blog/customs-svb-related-party-valuation-loading-cestat.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/dairy-cooperative-board-supersession-registrar-order-set-aside.html"
+  to = "/blog/dairy-cooperative-board-supersession-registrar-order-set-aside.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/deficiency-service-vs-unfair-trade-practice-distinction.html"
+  to = "/blog/deficiency-service-vs-unfair-trade-practice-distinction.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/delhi-hc-section-9-post-tribunal-constitution.html"
+  to = "/blog/delhi-hc-section-9-post-tribunal-constitution.html"
+  status = 301
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
