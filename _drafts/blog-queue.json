@@ -132,5 +132,24 @@
       "confirmed: a mid-term review may be sought by an interested party one year after imposition of the duty"
     ],
     "added_on": "2026-10-05"
+  },
+  {
+    "id": "comparative-advertising-disparagement-india-guide",
+    "topic_title": "Comparative Advertising and Product Disparagement in India: Where Puffery Ends and Disparagement Begins",
+    "angle": "A guide for brands, marketers and in-house counsel on the line Indian courts draw between permissible comparative advertising and actionable disparagement, and the interim-injunction playbook used to fight (or defend) these suits.",
+    "key_points": [
+      "Comparative advertising is itself lawful in India -- a business may truthfully claim its product is better than a competitor's -- but the manner of the comparison matters: showing one's own product favourably is permissible 'puffery', while ridiculing, mocking or falsely denigrating a rival's product crosses into disparagement",
+      "Courts have long held that disparagement should border on defamation of the competitor's goods to be actionable, and look at the overall impact of the advertisement on an ordinary consumer rather than parsing isolated words or frames",
+      "Where a registered trademark is referenced or implied in a comparative ad, Section 30(1) of the Trade Marks Act, 1999 permits referential use in accordance with honest industrial or commercial practices, but protection is lost where the use takes unfair advantage of, or is detrimental to, the distinctive character or repute of the rival's mark",
+      "The usual relief sought is an urgent interim injunction restraining telecast/publication of the advertisement, often obtained within days given the fast-moving commercial harm, with the final disparagement question decided later at trial",
+      "An undertaking given to the court to withdraw or modify an advertisement is strictly enforced -- releasing a 'revised' ad that a court finds creates no perceptible difference in overall impact from the original can expose the advertiser to contempt proceedings, not just a fresh injunction application",
+      "Practical guidance for brands: legal review of comparative and rival-referencing campaigns before release should test manner (mocking vs. merely favourable), factual accuracy of any claims, and whether a rival's mark or trade dress is used beyond what honest comparison requires"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Indian courts permit truthful comparative advertising/puffery but treat ridicule or denigration of a rival's goods, bordering on defamation, as actionable disparagement (settled since Dabur India v. Wipro Ltd. and the line of Delhi High Court disparagement cases)",
+      "confirmed: Section 30(1) of the Trade Marks Act, 1999 permits referential/comparative use of a registered mark only where it accords with honest practices and does not take unfair advantage of or harm the mark's distinctive character or repute",
+      "confirmed: breach of an undertaking given to a court to withdraw/modify an advertisement can found a contempt application, as recently illustrated in the Gillette India v. Visage Lines Personal Care (Bombay Shaving Company) 'Switch4' ad dispute before the Delhi High Court (September 2026)"
+    ],
+    "added_on": "2026-10-06"
   }
 ]
