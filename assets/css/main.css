@@ -400,3 +400,5 @@ footer{background:#060f1e;padding:30px 60px;display:flex;justify-content:space-b
 .nl-card .nl-form{margin:0;}
 .content-main .nl-consent a{color:var(--nv);}
 @media(max-width:768px){.nl-band{padding:44px 20px;}.nl-form .btn-p{width:100%;}.nl-card{padding:20px;}}
+/* top-bar Search link only where the nav has room; mobile menu and footer always carry it */
+@media(min-width:769px) and (max-width:1199px){.nav-links li.nav-search{display:none;}}
