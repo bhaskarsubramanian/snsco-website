@@ -562,5 +562,82 @@
       "https://indialaw.in/blog/civil/draft-amendments-food-safety-labelling"
     ],
     "note": "Matches FSSAI's Feb 20, 2025 draft FSS (Labelling and Display) Amendment Regulations requiring bold-font nutritional disclosures for added sugar, saturated fat and sodium."
+  },
+  {
+    "id": 71,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No specific 'multiple High Courts, Jan 2025' ruling confirming online food platforms as co-liable FBOs was found; only regulatory directives (2018, 2026) and an unrelated consumer-commission case turned up."
+  },
+  {
+    "id": 72,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-seeks-clarity-from-centre-fssai-on-phased-front-of-pack-warning-labels/",
+      "https://www.verdictum.in/supreme-court/3s-and-our-health-society-v-union-of-india-2026-insc-988-red-hexagon-labels-non-veg-colour-clash-fssai-1621756"
+    ],
+    "note": "Matches the Sep 10, 2026 SC hearing (3S and Our Health Society v. Union of India) questioning FSSAI's phased, multi-nutrient-threshold red-hexagon warning label proposal."
+  },
+  {
+    "id": 73,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No Nov 2025 FSSAI clarificatory advisory on basic registration vs. licensing was found; the only closely related material is the Mar 2026 turnover-threshold amendment and its implementation advisory, a different trigger/date."
+  },
+  {
+    "id": 74,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "The Hygiene Rating Scheme itself is real, but no evidence of a specific expanded-rollout announcement across more states/municipal bodies in Jan 2026 was found."
+  },
+  {
+    "id": 75,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.storyboard18.com/amp/how-it-works/fssai-scraps-mandatory-bis-mark-for-packaged-water-rolls-out-stricter-testing-regime-from-january-2026-86193.htm",
+      "https://www.freyrsolutions.com/consumer-industry-news/fssai-removes-mandatory-bis-certification-for-packaged-drinking-water-and-mineral-water-introduces-new-testing-scheme-from-january-2026"
+    ],
+    "note": "FSSAI in fact removed mandatory BIS certification for packaged/mineral water (effective Jan 2026), replacing it with its own testing scheme \u2014 the opposite of the card's claim that dual FSSAI-BIS compliance was reaffirmed."
+  },
+  {
+    "id": 76,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.freepressjournal.in/india/fssai-cracks-down-on-dabur-india-bars-sale-of-food-products-carrying-misleading-100-claims-flags-organic-labelling-violations"
+    ],
+    "note": "Matches real 2026 FSSAI enforcement against unauthorised Jaivik Bharat organic-logo use (Dabur, Organic Wisdom, Shine Organic, Two Brothers Organic Farms), though the clearest documented action is from around Aug 2026 rather than Apr 2026."
+  },
+  {
+    "id": 77,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://velcolegalindia.com/blog/fssai-food-fortification-standards-india",
+      "https://food.chemlinked.com/news/food-news/india-now-requires-fortification-logo-fortified-foods"
+    ],
+    "note": "Matches the real, standing +F logo mandate under the Food Safety and Standards (Fortification of Foods) Regulations, 2017 for fortified staples (atta, rice, oil, milk)."
+  },
+  {
+    "id": 78,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.indialaw.in/md/blog/food/fssai-2026-amendments-new-rules-for-food-businesses/",
+      "https://taxguru.in/?p=1031206"
+    ],
+    "note": "FSSAI's implementation advisory/FAQs on deemed registration of street vendors under the 2026 Amendment was issued around Mar 27, 2026, not Jul 2026 as the card states."
+  },
+  {
+    "id": 79,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "The risk-based third-party audit framework is real (effective Mar 2026), but no evidence of a specific Aug 2026 expansion of the empanelled third-party audit agency list was found."
+  },
+  {
+    "id": 80,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.indialaw.in/blog/food/fssai-spice-crackdown-october-2025-factory-inspections/",
+      "https://fssai.gov.in/upload/advisories/2025/09/68cbc72c20968Oct Enforcement Drive_Spices_letter dated 17th September, 2025.pdf"
+    ],
+    "note": "Matches FSSAI's recurring (festive-season) spice/condiment adulteration surveillance drives directed at state food commissioners, consistent with the card's description even if the precise month cited differs by a year."
   }
 ]
