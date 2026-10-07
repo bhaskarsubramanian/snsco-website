@@ -958,5 +958,90 @@
       "https://supremetoday.ai/kerala-high-court-rera-cannot-decide-complaints-on-merit-before-numbering-hearing-20260818011"
     ],
     "note": "Confirmed Kerala HC (Justice Ziyad Rahman A.A.), 23 Jul 2026, quashed K-RERA's pre-numbering dismissal of Renney Geo Varghese's complaint without a hearing, matching card exactly."
+  },
+  {
+    "id": 121,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/amp/rera/mandatory-rera-pre-deposit-applies-even-to-delay-condonation-plea-cannot-be-treated-separately-from-appeal-bombay-high-court-547918"
+    ],
+    "note": "Duplicate card of id 113; same confirmed Bombay HC ruling in Neumec Developers v Chirag Jain on RERA Section 43(5) pre-deposit."
+  },
+  {
+    "id": 122,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/rera/rera-registration-extension-does-not-extend-agreed-possession-date-telangana-reat-dismisses-31-vasavi-realtors-appeals-550127"
+    ],
+    "note": "Confirmed Telangana REAT, 9 Sep 2026, dismissed 31 appeals by Vasavi Realtors holding registration extension doesn't extend agreed possession date, matching card exactly."
+  },
+  {
+    "id": 123,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.khuranaandkhurana.com/doctrine-of-election-after-kabra-why-choosing-rera-now-forecloses-the-consumer-forum"
+    ],
+    "note": "Duplicate card of id 101; same confirmed SC ruling in Kabra and Associates v Rekha Rajkumar Hemdev applying doctrine of election."
+  },
+  {
+    "id": 124,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://corporate.cyrilamarchandblogs.com/2026/01/supreme-courts-landmark-ruling-a-tenant-can-never-become-an-owner-based-on-adverse-possession/",
+      "https://lawsathi.in/?p=1637"
+    ],
+    "note": "Confirmed SC (Justices J.K. Maheshwari, K. Vinod Chandran), Jan 2026, held tenant's permissive possession can never ripen into adverse possession in Jyoti Sharma v Vishnu Goyal, matching card exactly."
+  },
+  {
+    "id": 125,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/sebi-closes-case-against-religare-rashmi-saluja-for-non-cooperation-with-burman-open-offer"
+    ],
+    "note": "Confirmed SEBI closed non-cooperation proceedings against Religare, Rashmi Saluja and directors over the Burman open offer since the offer had since been completed, matching card exactly."
+  },
+  {
+    "id": 126,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.thenewsminute.com/news/why-sebi-banned-actor-arshad-warsi-maria-goretti-securities-market-174035",
+      "https://www.theweek.in/wire-updates/business/2025/05/30/dcm17-biz-sebi-sadhna-broadcast.html"
+    ],
+    "note": "Confirmed SEBI barred Arshad Warsi (with Maria Goretti and others) from securities markets over YouTube-driven pump-and-dump manipulation of Sadhna Broadcast stock, matching card."
+  },
+  {
+    "id": 127,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://indiacorplaw.in/2026/03/02/the-evasion-principle-and-piercing-the-corporate-veil-in-the-execution-of-arbitral-awards/",
+      "https://filminformation.com/news/imax-wins-contract-dispute-with-e-city-entertainment-13-january-2026/"
+    ],
+    "note": "Duplicate card of id 17; case and holding confirmed (corporate veil pierced at enforcement stage) but reported judgment date is Dec 2025/Jan 2026, not May 2025 as this card states."
+  },
+  {
+    "id": 128,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://indiacorplaw.in/2025/04/21/protection-of-minority-shareholder-rights-addressing-shareholder-deadlocks/",
+      "https://www.livelaw.in/amp/ibc-cases/nclt-hyderabad-lays-out-structured-buy-out-mechanism-to-resolve-deadlock-between-shareholders-in-escentia-group-case-287278"
+    ],
+    "note": "Case and 21 Mar 2025 structured buy-out holding under Sections 241-242 confirmed for Escientia Life Sciences v Escientia Advanced Sciences, but decided by NCLT Hyderabad, not NCLT New Delhi as the card states."
+  },
+  {
+    "id": 129,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.outlookbusiness.com/markets/sebi-clears-nses-1491-cr-co-location-settlement-removing-major-ipo-hurdle",
+      "https://www.moneylife.in/article/sc-disposes-of-sebis-pleas-against-nse-after-1500-crore-settlement-report/81559.html"
+    ],
+    "note": "Confirmed Supreme Court disposed of SEBI's pleas against NSE after approving the ~Rs.1,491 crore co-location/dark-fibre settlement, matching card exactly."
+  },
+  {
+    "id": 130,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/company-law/commercial-necessity-of-restructuring-cannot-dispense-with-nclts-adjudication-of-oppression-claims-nclat-552104"
+    ],
+    "note": "Confirmed NCLAT (Justice Sharad Kumar Sharma, Arun Baroka, Indevar Pandey), 25 Sep, set aside NCLT's dismissal of Nikhil Rai's oppression petition against VCare Technologies, matching card exactly."
   }
 ]
