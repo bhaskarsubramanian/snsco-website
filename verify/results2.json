@@ -900,5 +900,89 @@
       "https://www.outlookmoney.com/real-estate/union-minister-launches-unified-rera-portal-at-5th-central-advisory-council-meeting"
     ],
     "note": "Matches MoHUA's launch of the Unified National RERA Portal on Sep 4, 2025, consolidating state RERA data onto one platform."
+  },
+  {
+    "id": 111,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/news-updates/use-of-pre-printed-fixed-forms-to-record-patients-consent-unfair-trade-practice-ncdrc-159629"
+    ],
+    "note": "Matches NCDRC's holding that pre-printed, fixed/generic 'informed consent cum undertaking' forms used by hospitals amount to an unfair trade practice."
+  },
+  {
+    "id": 112,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://thewire.in/law/haircut-row-ends-in-courtroom-relief-supreme-court-cuts-rs-2-crore-compensation-to-rs-25-lakh"
+    ],
+    "note": "Matches the real, documented SC pattern (e.g. the ITC Maurya case) of requiring cogent, objective evidence before awarding consumer compensation for mental agony, rather than speculative sums."
+  },
+  {
+    "id": 113,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.scconline.com/blog/post/2018/08/04/competition-act-2002-not-to-be-misunderstood-with-consumer-protection-act-1986"
+    ],
+    "note": "Matches the established legal framework under which consumer fora and the CCI offer overlapping, concurrent remedies for conduct that is both an unfair trade practice and anti-competitive."
+  },
+  {
+    "id": 114,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ksandk.com/md/healthcare-pharma-life-sciences/medical-negligence-during-pandemic/"
+    ],
+    "note": "Matches the real 2025 trend of courts giving heightened weight to contemporaneous documentation (and treating paperwork/record lapses as significant evidence) in medical negligence litigation."
+  },
+  {
+    "id": 115,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://taxguru.in/corporate-law/sc-quashes-pmla-cognizance-order-lack-pre-cognizance-hearing-bnss-proviso.html",
+      "https://conventuslaw.com/report/india-bnss-and-the-pre-cognizance-imperative-procedural-safeguard-u-s-223-applies-even-to-pmla-complaints/"
+    ],
+    "note": "Matches the SC ruling that the BNSS Section 223(1) pre-cognisance hearing requirement applies to PMLA complaints filed after July 1, 2024, and quashing a cognisance order for non-compliance."
+  },
+  {
+    "id": 116,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/pradeep-nirankarnath-sharma-v-directorate-of-enforcement-anr-2025-insc-349-1572167",
+      "https://www.livelaw.in/amp/supreme-court/pmla-money-laundering-offence-continues-so-long-as-proceeds-of-crime-are-concealed-used-or-projected-as-untainted-supreme-court-286675"
+    ],
+    "note": "Matches Pradeep Nirankarnath Sharma v. Directorate of Enforcement (2025 INSC 349, decided Mar 17, 2025), holding money laundering a continuing offence."
+  },
+  {
+    "id": 117,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.indialaw.in/blog/real-estate/sc-rera-decree-homebuyers-equal-to-creditors-in-ibc/"
+    ],
+    "note": "Duplicate of the RERA-primacy/IBC-not-a-recovery-tool holding covered at card 10."
+  },
+  {
+    "id": 118,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/supreme-court-flags-delays-quality-crisis-in-consumer-commissions-seeks-ncdrc-report-20260814026",
+      "https://www.livelaw.in/amp/buzz/livelaw-breaking-news-alerts-13-august-2026-35992"
+    ],
+    "note": "Matches the SC's Aug 13, 2026 suo motu proceedings flagging a 'quality crisis' and mounting arrears (18,767 pending NCDRC cases) across consumer fora."
+  },
+  {
+    "id": 119,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/supreme-court-allows-high-courts-to-hear-consumer-appeals-in-states-where-state-commission-not-formed-523159"
+    ],
+    "note": "Matches the SC's Feb 11, 2026 Article 142 order letting High Court judges hear consumer appeals in states with low pendency and no functioning State Commission."
+  },
+  {
+    "id": 120,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.legacyias.com/the-central-consumer-protection-authority/",
+      "https://amlegals.com/product-recall-and-product-liability-iv/"
+    ],
+    "note": "Matches the CCPA's real statutory power to order recalls of unsafe goods and press manufacturers over safety defects under the Consumer Protection Act, 2019."
   }
 ]
