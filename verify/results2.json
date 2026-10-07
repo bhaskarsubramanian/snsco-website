@@ -1145,5 +1145,76 @@
       "https://taxo.online/latest-news/22-07-2026-no-gst-on-assignment-of-industrial-leasehold-rights-supreme-court-affirms-gujarat-high-courts-landmark-verdict/"
     ],
     "note": "Matches the SC's July 21, 2026 dismissal of Revenue's SLPs, confirming assignment of GIDC industrial leasehold rights is a transfer of immovable property not subject to GST."
+  },
+  {
+    "id": 141,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/amp/high-court/karnataka-high-court/rera-orders-not-decrees-cannot-be-executed-through-civil-courts-karnataka-high-court-311806",
+      "https://www.mondaq.com/india/trials-appeals-compensation/1718604/rera-update-%7c-karnataka-high-court-rules-that-rera-orders-cannot-be-executed-through-civil-courts"
+    ],
+    "note": "Matches the Karnataka HC (Justice M. Nagaprasanna) ruling, arising from Bengaluru homebuyers' execution petitions against Mantri Developers, that RERA orders are not civil-court decrees and must be enforced via the statutory recovery route."
+  },
+  {
+    "id": 142,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-land-acquisition-void-notification-published-repeal-1894act-541712",
+      "https://www.barandbench.com/news/land-acquisition-1894-lapse-2013-act-allahabad-hc"
+    ],
+    "note": "Matches the Allahabad HC's July 2026 ruling that land acquisition notifications published after the 1894 Act's repeal are void ab initio regardless of the notification's stated date."
+  },
+  {
+    "id": 143,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No specific RERA authority circular standardising a Section 14(3) structural-defect-liability notice format was found; the card names no specific state/authority, making it too vague to verify further."
+  },
+  {
+    "id": 144,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No specific RERA authority guideline tightening force-majeure documentary standards under Section 6 was found; the card names no specific state/authority."
+  },
+  {
+    "id": 145,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "The general RERA statutory obligation for promoters to hand over common-area documents to the allottees' association is real, but no specific High Court ruling on an association's inspection right was found."
+  },
+  {
+    "id": 146,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://rawlaw.in/madras-high-court-rules-alterations-in-sanctioned-plans-require-consent-of-two-thirds-allottees-rejects-developers-unilateral-modifications-under-rera/",
+      "https://ksandk.com/newsletter/hiranandani-chennai-case-rera/"
+    ],
+    "note": "Matches real rulings (Madras HC/Hiranandani Chennai; MahaREAT's Sep 2026 penalty on RA Associates) enforcing RERA S.14(2)'s two-thirds allottee consent requirement for sanctioned-plan alterations."
+  },
+  {
+    "id": 147,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ssrana.in/articles/real-estate-change-in-layout-usage-project/"
+    ],
+    "note": "Matches the well-established RERA model-agreement/earnest-money cap framework (echoing Maula Bux v. UOI) limiting a promoter's forfeiture on buyer-initiated cancellation."
+  },
+  {
+    "id": 148,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No specific RERA authority circular tightening subvention-scheme interest-cost disclosure was found; the card names no specific state/authority."
+  },
+  {
+    "id": 149,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "Real TDR case law was found (estoppel against denying/withholding TDR grants), but no High Court ruling specifically requiring a hearing before revoking an already-issued TDR certificate was found."
+  },
+  {
+    "id": 150,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No specific state ready-reckoner-rate notification affecting stamp duty on construction-linked bookings was found; the card names no specific state."
   }
 ]
