@@ -78,5 +78,78 @@
       "https://www.indialaw.in/blog/real-estate/sc-rera-decree-homebuyers-equal-to-creditors-in-ibc/"
     ],
     "note": "Matches confirmed SC doctrine that RERA is the primary forum for homebuyers while IBC is a remedy of last resort, not a recovery tool."
+  },
+  {
+    "id": 11,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://sarafpartners.com/supreme-court-reaffirms-strict-adherence-to-timelines-under-the-ibc",
+      "https://foxmandal.in/News/delay-beyond-45-days-in-ibc-appeals-barred-by-statute/"
+    ],
+    "note": "SC rulings (e.g. Tata Steel v. Raj Kumar Banerjee, May 2025) confirm IBC statutory timelines are mandatory with strict compliance required."
+  },
+  {
+    "id": 12,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "Real IBBI CIRP reporting-format circulars exist (e.g. IBBI/CIRP/94/2026, June 2026; beneficial-ownership format Dec 2025) but none matches a Sep 2026 circular adding a dedicated related-party disclosure field to the progress report."
+  },
+  {
+    "id": 13,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://thelegalquorum.com/the-ibc-amendment-act-2026-and-cross-border-insolvency-promise-gaps-and-the-work-ahead/",
+      "https://www.gktoday.in/government-releases-draft-cross-border-insolvency-resolution/"
+    ],
+    "note": "MCA's UNCITRAL-model-law cross-border insolvency rule-making under the IBC Amendment Act, 2026 with a 2026 draft/comment process is confirmed, matching the card's substance and period."
+  },
+  {
+    "id": 14,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.sansalegal.com/post/ibbi-amends-pre-packaged-insolvency-regulations-2026-stricter-valuation-timelines-and-expanded-elig"
+    ],
+    "note": "IBBI revised PPIRP default-threshold/eligibility rules via 2026 amendments (Feb and May 2026); matches subject and year though card's month (Jul) is a few months off from the confirmed amendments."
+  },
+  {
+    "id": 15,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lawsathi.in/nclt-procedure-changes-2026-guide-to-mandatory-electronic-evidence-authentication/",
+      "https://livelaw.library.keralalawacademy.in/supreme-court/ibc-appeals-must-be-filed-with-certified-copy-of-impugned-order-mere-e-filing-not-enough-supreme-court-534000"
+    ],
+    "note": "2026 NCLT/NCLAT moves tightening certified-copy and e-filing requirements for IBC appeals are confirmed."
+  },
+  {
+    "id": 16,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "Real 2025 CIRP Regulation amendments (Fifth Amendment, Jul 2025) address avoidance-transaction disclosure, but no May 2026 Regulation 35A amendment specifically requiring separate categorisation of related-party transactions in the transaction audit was found."
+  },
+  {
+    "id": 17,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No 2026 IBBI notification found extending Fast Track CIRP eligibility to a wider band of unlisted companies; only the long-standing 2017 thresholds turned up."
+  },
+  {
+    "id": 18,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.metalegal.in/post/ibbi-notifies-amendments-to-cirp-regulations-to-strengthen-creditor-representation-and-streamline-re"
+    ],
+    "note": "IBBI did revise the authorised-representative fee structure for homebuyer-class creditors, but via Notification IBBI/2024-25/GN/REG122 dated 3 Feb 2025, not a Mar 2026 circular as the card states."
+  },
+  {
+    "id": 19,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No CBDT clarification on computing the liquidation-value floor for statutory income-tax dues in resolution plans was found for Feb 2026; only unrelated tribunal case law surfaced."
+  },
+  {
+    "id": 20,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No 2026 IPA inspection circular with a standardised CIRP compliance checklist was found; only an older 2022 IBBI circular on IPA annual compliance certificates."
   }
 ]
