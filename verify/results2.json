@@ -233,5 +233,78 @@
       "https://depenning.com/blog/intellectual-guardians-in-the-deal-room-ip-due-diligence-in-indian-mergers-and-acquisitions-ma-and-fundraising/"
     ],
     "note": "Matches the widely-documented recurring IP-ownership-gap issues (founder-held marks, unassigned employee/contractor IP) flagged in Indian M&A due diligence commentary."
+  },
+  {
+    "id": 31,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.mondaq.com/india/copyright/1806932/establishing-authorship-in-ai-assisted-works-the-copyright-office-of-indias-updated-form-xiv-requirements-and-the-substantial-human-creative-direction-test",
+      "https://www.worldtrademarkreview.com/article/copyright-office-finds-dabus-artwork-original-draws-line-ai-authorship"
+    ],
+    "note": "Matches the Copyright Office's updated Form XIV requirements for AI-assisted works and the Aug 31, 2026 DABUS order addressing AI-assisted authorship."
+  },
+  {
+    "id": 32,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "Higher-pension implementation is a real ongoing EPFO process, but by mid-2026 EPS-95 had been replaced by the new EPS 2026 scheme; no specific Jul 2026 'EPS-95 implementation guidance' circular was found."
+  },
+  {
+    "id": 33,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://bhattandjoshiassociates.com/esic-wage-ceiling-increase-proposed-hike-to-\u20b925000-\u20b930000-and-its-impact-on-workers/"
+    ],
+    "note": "Matches reporting that an ESI wage-ceiling hike (to \u20b925,000-30,000) is proposed/under lobbying but not yet formally notified as of mid-2026."
+  },
+  {
+    "id": 34,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "Real POSH annual-report deadlines exist (31 Jan or district-specific dates like Gurugram's 28 Feb) but no Mar 2026 reiteration by MWCD/Labour Ministry matching the card was found."
+  },
+  {
+    "id": 35,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://khaitanco.com/thought-leadership/maharashtra-and-telangana-state-governments-mandate-registration-of-internal-committee-constituted-under-POSH-Act",
+      "https://teamleaseregtech.com/updates/article/56126/labour-department-dnhdd-direction-issued-for-mandatory-constitution-of-iccs-under-posh-act/"
+    ],
+    "note": "Matches the real, documented trend of states (Maharashtra, Telangana, DNHDD) launching/mandating online SHE-Box ICC registration portals through 2025-2026."
+  },
+  {
+    "id": 36,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.freepressjournal.in/amp/education/maharashtra-revises-posh-act-panel-with-updated-district-wise-list-of-external-members-for-workplace-safety"
+    ],
+    "note": "Matches Maharashtra WCD's July 20, 2026 circular clarifying/revising the external-member panel and engagement terms under POSH."
+  },
+  {
+    "id": 37,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No evidence of a national 'Model ICC Training Curriculum' circulated to states by MWCD; only isolated, unrelated state-level POSH training events were found."
+  },
+  {
+    "id": 38,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "A real Maharashtra POSH compliance/inspection circular was found, but dated May 14, 2026 and scoped broadly to all establishments, not a Feb 2026 factory/multi-shift-specific circular as the card describes."
+  },
+  {
+    "id": 39,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.outlookmoney.com/retirement/pension/employee-unions-seek-higher-gratuity-ceiling-under-retirement-benefit-review",
+      "https://law.asia/tax-free-gratuity-limit-may-be-raised/"
+    ],
+    "note": "Matches real reporting that a gratuity-ceiling increase is under consideration/tripartite discussion, consistent with the card's 'proposed revision under consideration' framing."
+  },
+  {
+    "id": 40,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "By 2026 the Contract Labour Act had already been repealed into the OSH Code (rules notified May 2026); no Jan 2026 state amendment to standalone Contract Labour Act rules was found."
   }
 ]
