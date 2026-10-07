@@ -813,5 +813,92 @@
       "https://www.taxmann.com/post/blog/analysis-rbis-guidelines-on-penal-charges-ensure-responsible-lending-practices/"
     ],
     "note": "Matches RBI's real Fair Lending Practice \u2013 Penal Charges framework (2023) and its documented concern over banks disguising penal interest as penal charges, consistent with a continuing supervisory review finding."
+  },
+  {
+    "id": 101,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ksandk.com/newsletter/rbi-issues-final-co-lending-arrangements-directions-2025/",
+      "https://www.nextias.com/ca/current-affairs/11-08-2025/rbi-new-co-lending-rules"
+    ],
+    "note": "Matches RBI's Co-Lending Arrangements Directions, 2025 (effective 1 Jan 2026), which require disclosed, standardised grievance redressal mechanisms."
+  },
+  {
+    "id": 102,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.azbpartners.com/bank/rbi-issues-consolidated-reserve-bank-of-india-regulation-of-payment-aggregators-directions-2025/",
+      "https://www.outlookbusiness.com/news/rbi-issues-new-master-directions-for-payment-aggregators-rules-take-effect-immediately"
+    ],
+    "note": "Matches RBI's Regulation of Payment Aggregators Directions, 2025, tightening net-worth thresholds and escrow-account/settlement norms."
+  },
+  {
+    "id": 103,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ksandk.com/newsletter/rbi-fema-export-import-regulations-2026/",
+      "https://www.majmudarindia.com/rbi-overhauls-indias-trade-framework/"
+    ],
+    "note": "Matches RBI's 2026 FEMA reporting overhaul for cross-border trade (new Export and Import Regulations, 2026 effective Oct 1, 2026), which tightens reporting granularity for Authorised Dealer banks."
+  },
+  {
+    "id": 104,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ksandk.com/newsletter/rbi-asset-reconstruction-companies-2025/",
+      "https://taxguru.in/rbi/rbi-commercial-banks-transfer-distribution-credit-risk-amendment-directions-2026.html"
+    ],
+    "note": "Matches RBI's ARC Directions, 2025 and the 2026 Transfer and Distribution of Credit Risk Amendment Directions, which strengthen valuation/disclosure norms for bank-to-ARC stressed loan transfers."
+  },
+  {
+    "id": 105,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://dicgc.org.in/sites/default/files/2025-02/comprehensive-guidelines-for-liquidators-of-urban-cooperative-banks-repayment-of-dicgc-dues_0.pdf"
+    ],
+    "note": "Matches DICGC's statutory timelines for disbursing insured deposit claims after bank liquidation/AID (e.g. 2-month and 90-day frameworks)."
+  },
+  {
+    "id": 106,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.livelaw.in/amp/consumer-cases/ncdrc-dismisses-consumer-complaint-filed-nearly-10-years-after-possession-holds-claim-barred-by-limitation-525056"
+    ],
+    "note": "A 2026 NCDRC ruling found is the opposite of the card's claim: it held limitation runs from possession/purchase and dismissed a complaint filed years later over defects discovered later, rather than running limitation from discovery."
+  },
+  {
+    "id": 107,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/supreme-court-cuts-compensation-order-against-itc-maurya-from-2-crore-to-25-lakh-in-botched-haircut-case-522322",
+      "https://storyboard18.com/amp/trending/damages-cant-be-based-on-whims-and-fancies-sc-cuts-rs-2-crore-compensation-to-model-in-itc-maurya-haircut-case-to-rs-25-lakh-89248.htm"
+    ],
+    "note": "Matches the real ITC Maurya 'bad haircut' litigation, where the SC (2023, then finally Feb 2026) cut the NCDRC's \u20b92 crore award for lack of reliable proof of career loss."
+  },
+  {
+    "id": 108,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.storyboard18.com/amp/brand-marketing/delhi-consumer-court-raps-airtel-upholds-rs-5-lakh-penalty-36358.htm",
+      "https://trai.gov.in/sites/default/files/2026-06/CUTS_13062026.pdf"
+    ],
+    "note": "Matches the real, recurring pattern of consumer fora awarding significant damages for telecom/banking service deficiency (e.g. Rs 5 lakh Airtel penalty), amid 2026 telecom consumer-grievance regulatory updates."
+  },
+  {
+    "id": 109,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/amp/rera/supreme-court-allows-himachal-government-to-shift-rera-office-from-shimla-to-dharamshala-stays-hc-order-522990"
+    ],
+    "note": "Matches the SC's Feb 13, 2026 order allowing Himachal Pradesh to shift its RERA office from Shimla to Dharamshala and directing that appellate powers shift correspondingly."
+  },
+  {
+    "id": 110,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://moneylife.in/article/govt-unveils-unified-rera-portal-concern-remains-over-maharashtras-redevelopment-law/78200.html",
+      "https://www.outlookmoney.com/real-estate/union-minister-launches-unified-rera-portal-at-5th-central-advisory-council-meeting"
+    ],
+    "note": "Matches MoHUA's launch of the Unified National RERA Portal on Sep 4, 2025, consolidating state RERA data onto one platform."
   }
 ]
