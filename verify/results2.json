@@ -389,5 +389,92 @@
       "https://www.india-briefing.com/news/karnataka-menstrual-leave-employer-guide-india-41036.html/"
     ],
     "note": "Matches Karnataka's Nov 2025 government order mandating 12 days/year of paid menstrual leave for women employees."
+  },
+  {
+    "id": 51,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/supreme-court/posh-act-woman-can-approach-icc-of-her-department-against-harassment-by-employee-of-another-workplace-supreme-court-312917",
+      "https://www.scconline.com/blog/post/2025/12/12/supreme-court-landmark-posh-act-ruling-icc-jurisdiction-explained/"
+    ],
+    "note": "Matches Dr. Sohail Malik v. Union of India (SC, decided Dec 10, 2025), holding the aggrieved woman's IC has jurisdiction over perpetrators from a different organisation."
+  },
+  {
+    "id": 52,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lexplosion.in/edli-scheme-amended-to-introduce-fifty-thousand-rupees-minimum-benefit-and-ease-eligibility-conditions-for-employees/",
+      "https://www.scconline.com/blog/?p=353950"
+    ],
+    "note": "Matches the EDLI (Amendment) Scheme, 2025, notified 18 Jul 2025, which enhanced the minimum death-benefit assurance and eased eligibility."
+  },
+  {
+    "id": 53,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://indiacorplaw.in/?p=12642",
+      "https://ksandk.com/newsletter/maternity-benefits-must-extend-beyond-contract-sc/"
+    ],
+    "note": "The ruling (Dr. Kavita Yadav v. Secretary, Ministry of Health and Family Welfare) is real and matches the holding, but it was decided on Aug 17, 2023, not 2025 as the card states."
+  },
+  {
+    "id": 54,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.taxmann.com/post/blog/govt-notifies-enforcement-of-industrial-relations-code"
+    ],
+    "note": "Matches the real 2025 run-up of government readiness announcements ahead of the Labour Codes' Nov 21, 2025 enforcement."
+  },
+  {
+    "id": 55,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.etvbharat.com/en/bharat/fssai-registration-and-licences-renewal-news-enn26031306831",
+      "https://fssai.gov.in/upload/uploadfiles/files/Press%20Release_FSSAI%20Reforms_130326.pdf"
+    ],
+    "note": "Matches FSSAI's 2026 reform making licences/registrations perpetually valid effective April 1, 2026, with deemed registration for municipally-registered street vendors."
+  },
+  {
+    "id": 56,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://theprint.in/health/front-of-pack-food-labels-must-be-notified-soon-offer-at-a-glance-nutrition-info-house-panel-to-fssai/2995251/",
+      "https://www.newkerala.com/news/a/parliament-committee-seeks-stricter-monitoring-packaged-food-listings-974.htm"
+    ],
+    "note": "Matches the Parliamentary Standing Committee on Consumer Affairs, Food & Public Distribution's 2026 report urging FSSAI to finally notify front-of-pack labelling norms after years of delay."
+  },
+  {
+    "id": 57,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://teamleaseregtech.com/updates/article/55041/food-safety-and-standards-labelling-and-display-first-amendment-regulations-2026/"
+    ],
+    "note": "Matches the Food Safety and Standards (Labelling and Display) First Amendment Regulations, 2026, notified ~Mar 24, 2026, tightening natural claims, nutrition disclosures and infant-nutrition labelling."
+  },
+  {
+    "id": 58,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.jurishour.in/?p=1455312",
+      "https://deccanherald.com/india/do-you-not-want-your-people-to-be-healthy-supreme-court-to-centre-on-front-of-pack-warning-labels-for-packaged-foods-4109927"
+    ],
+    "note": "Matches the ongoing 2026 SC proceedings where FSSAI vacillated between pictorial warning labels and a tabular nutrition-table approach for front-of-pack labelling."
+  },
+  {
+    "id": 59,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://visionias.in/current-affairs/upsc-daily-news-summary/article/2026-08-14/business-standard/society/supreme-court-pulls-up-fssai-over-delay-in-front-of-pack-warning-labels"
+    ],
+    "note": "SC's active, increasingly impatient monitoring of FSSAI on front-of-pack labelling in 2026 (including a final-deadline warning) is confirmed, but no evidence ties nutraceutical regulations into this same monitoring track as the card claims."
+  },
+  {
+    "id": 60,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://moneylife.in/article/supreme-court-pushes-fssai-to-consider-sugar-salt-fat-warnings-on-packaged-foods/79720.html",
+      "https://foxmandal.in/News/sc-urges-fssai-to-consider-front-of-pack-warning-labels/"
+    ],
+    "note": "Matches the SC bench of Justices Pardiwala and Viswanathan directing FSSAI to evaluate a warning-label model for high-sugar/salt/fat packaged foods around early-mid 2026."
   }
 ]
