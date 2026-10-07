@@ -882,5 +882,81 @@
     "verdict": "NOT_FOUND",
     "evidence": [],
     "note": "No search result reports an NCDRC case between Consumer Association of Buyers and Regal Retail Marketplace on e-commerce marketplace liability."
+  },
+  {
+    "id": 111,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports an NCDRC case between Residents' Welfare Consumer Forum and Uniform Services Contractor Pvt. Ltd."
+  },
+  {
+    "id": 112,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "Card names no actual case/parties (a generic 'High Court Practice' topic summary), so there is nothing specific to verify as a real case; treated as not found."
+  },
+  {
+    "id": 113,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/amp/rera/mandatory-rera-pre-deposit-applies-even-to-delay-condonation-plea-cannot-be-treated-separately-from-appeal-bombay-high-court-547918"
+    ],
+    "note": "Confirmed Bombay HC (Justice N.J. Jamadar), 5 Aug 2026, dismissed Neumec Developers' second appeals holding RERA Section 43(5) pre-deposit cannot be dispensed with for delay condonation, matching card exactly."
+  },
+  {
+    "id": 114,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/rera/broad-wording-in-settlement-deed-does-not-waive-claims-for-construction-defects-discovered-later-karnataka-reat-548392"
+    ],
+    "note": "Confirmed Karnataka REAT, 1 Sep 2026, dismissed Goyal Hariyana Realty's appeal and upheld Rs.6 lakh compensation order for construction defects despite a settlement deed, matching card exactly."
+  },
+  {
+    "id": 115,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/rera/voluntary-flat-booking-cancellation-does-not-end-homebuyers-allottee-status-until-full-refund-telangana-reat-542333"
+    ],
+    "note": "Confirmed Telangana REAT (T.A. No. 8 of 2026) held cancellation of booking doesn't end allottee status until full refund in Aliens Developers matter, matching card exactly."
+  },
+  {
+    "id": 116,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lawtrend.in/?p=360063"
+    ],
+    "note": "Confirmed Allahabad HC (Lucknow Bench, Justice Prashant Kumar) dismissed Aims Max Gardenia Developers' plea to condone a 721-day delay, upholding possession/interest order for Pratibha Gupta, matching card exactly."
+  },
+  {
+    "id": 117,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/rera/k-rera-says-23-allottee-consent-needed-for-changes-beyond-sale-agreement-549783"
+    ],
+    "note": "Confirmed K-RERA ruled two-thirds allottee consent only required for changes beyond the sale agreement in Raintree Boulevard Apartment Owners Association v L&T Realty (Elara Celestia), matching card exactly."
+  },
+  {
+    "id": 118,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://realtynmore.com/?p=114459"
+    ],
+    "note": "Confirmed Haryana RERA Gurugram ordered BPTP to refund Rs.1,16,545 in maintenance charges collected before possession in Park Spacio, declaring it an unfair trade practice, matching card exactly."
+  },
+  {
+    "id": 119,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/rera/homebuyers-entitled-to-full-disclosure-and-refund-for-title-defects-karnataka-reat-529916"
+    ],
+    "note": "Confirmed Karnataka REAT held Sobha Ltd cannot escape delay-compensation liability by blaming the landowner for a title dispute, matching card exactly."
+  },
+  {
+    "id": 120,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/kerala-high-court-rera-cannot-decide-complaints-on-merit-before-numbering-hearing-20260818011"
+    ],
+    "note": "Confirmed Kerala HC (Justice Ziyad Rahman A.A.), 23 Jul 2026, quashed K-RERA's pre-numbering dismissal of Renney Geo Varghese's complaint without a hearing, matching card exactly."
   }
 ]
