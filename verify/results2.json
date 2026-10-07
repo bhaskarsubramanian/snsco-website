@@ -306,5 +306,88 @@
     "verdict": "NOT_FOUND",
     "evidence": [],
     "note": "By 2026 the Contract Labour Act had already been repealed into the OSH Code (rules notified May 2026); no Jan 2026 state amendment to standalone Contract Labour Act rules was found."
+  },
+  {
+    "id": 41,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No Dec 2025 Ministry of Labour 'renewed emphasis' on cr\u00e8che compliance was found; only a 2017 corrigendum and general 2026 Labour-Code maternity/cr\u00e8che compliance guides."
+  },
+  {
+    "id": 42,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.jsalaw.com/articles-publications/services-sector-employment-rules-take-shape-model-standing-orders-2026-under-the-industrial-relations-code-2020/",
+      "https://www.india-briefing.com/news/model-standing-orders-2026-india-compliance-guide-44800.html"
+    ],
+    "note": "The Model Standing Orders (covering fixed-term employees) were in fact notified on 8 May 2026, not Nov 2025 as the card states."
+  },
+  {
+    "id": 43,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://teamleaseregtech.com/updates/article/59059/mole-determines-21000-wage-ceiling-for-bonus-eligibility-under-code-on-wages-2019/"
+    ],
+    "note": "Matches the real transition of Payment of Bonus Act eligibility ceiling (\u20b921,000) into the Code on Wages framework; card's Oct 2025 'notification watch' framing predates MoLE's actual Aug 2026 notification, consistent with ongoing anticipation."
+  },
+  {
+    "id": 44,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ksandk.com/newsletter/central-govt-revises-vda-for-scheduled-jobs-from-oct-2025/",
+      "https://www.staffnews.in/2025/10/minimum-wages-for-construction-and-maintenance-workers-w-e-f-1st-oct-2025.html"
+    ],
+    "note": "Matches the real biannual VDA revision cycle for minimum wages (effective Oct 1, 2025); card's Sep 2025 date is close to this routine revision."
+  },
+  {
+    "id": 45,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.angelone.in/news/personal-finance/new-labour-codes-2025-how-does-the-reskilling-fund-help-retrenched-employees",
+      "https://www.taxmann.com/post/blog/govt-notifies-enforcement-of-industrial-relations-code"
+    ],
+    "note": "Matches the real Re-Skilling Fund contribution requirement (15 days' wages) under the Industrial Relations Code, effective with the Nov 2025 Labour Code rollout."
+  },
+  {
+    "id": 46,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.outlookmoney.com/retirement/will-the-new-labour-codes-be-operational-from-april-1-2026",
+      "https://blog.ipleaders.in/labour-codes-2026-implementation/"
+    ],
+    "note": "The four Labour Codes became legally effective and repealed 29 statutes on Nov 21, 2025, not Apr 1, 2026; central rules under all four codes were in fact notified around May 8-9, 2026, not Apr 1."
+  },
+  {
+    "id": 47,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No matching Bombay HC ruling that acceptance of a full-and-final settlement bars a subsequent challenge to termination legality was found for Dec 2025."
+  },
+  {
+    "id": 48,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.scconline.com/blog/post/2025/12/18/del-hc-upholds-epf-scheme-international-workers/",
+      "https://www.azbpartners.com/bank/delhi-high-court-upholds-validity-of-provident-fund-law-provisions-on-international-workers/"
+    ],
+    "note": "Matches the Delhi HC Division Bench ruling (SpiceJet/LG Electronics, decided Nov 4 2025, reported mid-Dec 2025) upholding the constitutional validity of EPF provisions for international workers."
+  },
+  {
+    "id": 49,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.mondaq.com/india/employee-benefits-compensation/1730372/cracking-the-code-the-new-labour-laws-at-a-glance",
+      "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2025/government-of-india-notifies-the-labour-codes-ushers-a-new-era-of-compliances"
+    ],
+    "note": "Matches the Central Government's notification bringing all four Labour Codes into force on Nov 21, 2025, repealing 29 central labour statutes."
+  },
+  {
+    "id": 50,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://news.careers360.com/karnataka-government-issues-order-mandating-one-day-menstrual-leave-per-month-for-working-women/amp",
+      "https://www.india-briefing.com/news/karnataka-menstrual-leave-employer-guide-india-41036.html/"
+    ],
+    "note": "Matches Karnataka's Nov 2025 government order mandating 12 days/year of paid menstrual leave for women employees."
   }
 ]
