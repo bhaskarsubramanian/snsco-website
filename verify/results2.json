@@ -151,5 +151,87 @@
     "verdict": "NOT_FOUND",
     "evidence": [],
     "note": "No 2026 IPA inspection circular with a standardised CIRP compliance checklist was found; only an older 2022 IBBI circular on IPA annual compliance certificates."
+  },
+  {
+    "id": 21,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.india-briefing.com/news/india-ibbi-streamlines-and-fast-tracks-the-voluntary-liquidation-process-24711.html",
+      "https://foxmandal.in/News/ibbi-amends-liquidation-process-regulations/"
+    ],
+    "note": "IBBI did amend the Voluntary Liquidation Process Regulations to tighten reporting timelines, but via the Second Amendment notified 28 Jan 2025, not Dec 2025 as the card states."
+  },
+  {
+    "id": 22,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/gloster-limited-v-gloster-cables-limited-2026-insc-81-title-trademark-ibc-1605293",
+      "https://ssrana.in/articles/ibc-is-not-an-ip-court-supreme-court-restricts-nclt-from-deciding-trademark-title/"
+    ],
+    "note": "Matches Gloster Limited v. Gloster Cables Limited (2026 INSC 81), where SC held NCLT's s.60(5)(c) jurisdiction cannot extend to deciding trademark title disputes."
+  },
+  {
+    "id": 23,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/personality-rights/delhi-high-court-grants-swami-ramdev-injunction-protecting-personality-rights-against-ai-deepfakes-524521",
+      "https://www.barandbench.com/news/litigation/delhi-high-court-protects-baba-ramdevs-personality-rights"
+    ],
+    "note": "Matches the 18 Feb 2026 Delhi HC ex-parte John Doe injunction protecting Swami Ramdev's personality rights against AI deepfakes and fake endorsements."
+  },
+  {
+    "id": 24,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.barandbench.com/law-firms/view-point/revised-cri-guidelines-2025",
+      "https://ipindia.gov.in/uploads/52c49fb5-31ee-4630-bb7d-52bddc4fb827_Public%20Notice.pdf"
+    ],
+    "note": "CGPDTM published revised CRI Guidelines 2025, finalised around July 29, 2025, matching the card."
+  },
+  {
+    "id": 25,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.theweek.in/wire-updates/national/2025/07/04/bom8-mh-hc-kolhapuri-pil.html"
+    ],
+    "note": "Matches the July 2025 Bombay HC PIL alleging Prada's unauthorised use/appropriation of the GI-protected Kolhapuri chappal design (later dismissed, which the card does not contradict)."
+  },
+  {
+    "id": 26,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/supreme-court/supreme-court-lays-down-twin-test-to-resolve-copyrightdesign-conflict-under-s152-of-copyright-act-289433",
+      "https://spicyip.com/2025/04/part-i-cryogas-judgment-supreme-court-stops-copyright-from-gaslighting-design.html"
+    ],
+    "note": "Matches Cryogas Equipment v. Inox India (SC, Apr 15 2025) on Section 15(2) Copyright Act and the 50-times industrial reproduction threshold."
+  },
+  {
+    "id": 27,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.worldtrademarkreview.com/article/bombay-high-court-clamps-down-wilful-contempt-in-pharmaceutical-infringement-dispute"
+    ],
+    "note": "Matches the Bombay HC's Feb 3, 2025 contempt ruling against Allegra trademark infringers, imposing a Rs 5 lakh fine with imprisonment directions for non-payment."
+  },
+  {
+    "id": 28,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "Form 27/compulsory-licensing compliance scrutiny is a real ongoing theme, but no specific Patent Office circular or enforcement notice dated Feb 18, 2026 was found."
+  },
+  {
+    "id": 29,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No evidence of an Indian SICLD Registry practice note dated Jul 14 2026 on layout-design documentary requirements; search only surfaced China's CNIPA/State Council layout-design rule revisions."
+  },
+  {
+    "id": 30,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ssrana.in/ma-and-transactions/ip-due-diligence/",
+      "https://depenning.com/blog/intellectual-guardians-in-the-deal-room-ip-due-diligence-in-indian-mergers-and-acquisitions-ma-and-fundraising/"
+    ],
+    "note": "Matches the widely-documented recurring IP-ownership-gap issues (founder-held marks, unassigned employee/contractor IP) flagged in Indian M&A due diligence commentary."
   }
 ]
