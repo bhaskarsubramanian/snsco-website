@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.vaishlaw.com/alert-section-9-of-arbitration-and-conciliation-act-1996-cannot-be-invoked-in-a-foreign-seated-arbitration-after-constitution-of-arbitral-tribunal/",
+      "https://www.nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/interim-relief-in-foreign-seated-arbitrations-efficacious-remedy-and-implied-exclusion-4336"
+    ],
+    "note": "Delhi HC's efficacy-proviso test under S.9(3) matches established and recent case law on this exact point."
+  },
+  {
+    "id": 2,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://legalblogs.wolterskluwer.com/arbitration-blog/the-article-142-blackhole-is-gayatri-balasamy-the-much-needed-push-to-finally-trigger-legislative-intervention/",
+      "https://www.ibanet.org/balasamy-judgment-fading-principle-of-finality-in-arbitration"
+    ],
+    "note": "Gayatri Balasamy judgment is real (decided 30 Apr 2025 on award-modification power) but it did not itself urge passage of a 2024 Bill and is not 'pending' in Jan 2026 as the card states; that link is only commentators' speculation."
+  },
+  {
+    "id": 3,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.scconline.com/blog/post/2026/07/08/calcutta-high-court-review-binding-supreme-court-precedent-commercial-appeal/",
+      "https://www.livelaw.in/amp/arbitration-cases/calcutta-high-court-single-judge-of-commercial-division-jurisdiction-original-applications-international-commercial-arbitration-264012"
+    ],
+    "note": "Matches reported Calcutta HC recall of its own jurisdictional finding after Balaji Industrial Engg. v. SAIL was found to have escaped consideration."
+  },
+  {
+    "id": 4,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No official or reputable source confirms enactment of a 2026 Commercial Courts Act amendment; only a floated/draft bill and unreliable SEO content turned up."
+  },
+  {
+    "id": 5,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No record of a 'Lotus Ventures Joint Development Group' case at Calcutta High Court; searches returned unrelated entities only."
+  },
+  {
+    "id": 6,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No NCLAT ruling matching this exact holding/date found; similar but distinct NCLT/NCLAT rulings on claim verification exist."
+  },
+  {
+    "id": 7,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/top-stories/supreme-court-says-alleged-hallucinated-citations-by-nclt-in-essel-infraprojects-case-being-examined-on-its-administrative-side-by-committee-534776",
+      "https://www.livelawbiz.com/top-stories/livelawbiz-ibc-weekly-digest-may-18-may-23-535490"
+    ],
+    "note": "Supreme Court's scrutiny of hallucinated/non-existent citations in the Essel Infraprojects NCLT-NCLAT insolvency order is well-documented."
+  },
+  {
+    "id": 8,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://swarajyamag.com/amp/story/news-brief/supreme-court-flags-deep-rooted-nexus-between-banks-arcs-and-borrowers-over-1537-crore-debt-settlement",
+      "https://www.livelawbiz.com/top-stories/pil-in-supreme-court-seeks-court-monitored-probe-into-alleged-1537-crore-jkm-infra-bank-fraud-and-arc-settlements-537182"
+    ],
+    "note": "SC issued notice to Centre and RBI on PIL flagging bank-ARC nexus over steep haircut settlement (JKM Infra matter)."
+  },
+  {
+    "id": 9,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/supreme-court/very-unfortunate-supreme-court-flags-nclt-delay-in-approving-resolution-plan-calls-for-nationwide-report-530923",
+      "https://moneylife.in/article/supreme-court-initiates-suo-motu-case-to-address-delays-by-nclt-in-approving-resolution-plans/80339.html"
+    ],
+    "note": "SC suo motu case on NCLT resolution-plan approval delays, including the AVJ Developers matter, is confirmed with nationwide data sought."
+  },
+  {
+    "id": 10,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.indialaw.in/blog/real-estate/sc-rera-decree-homebuyers-equal-to-creditors-in-ibc/"
+    ],
+    "note": "Matches confirmed SC doctrine that RERA is the primary forum for homebuyers while IBC is a remedy of last resort, not a recovery tool."
+  }
+]
