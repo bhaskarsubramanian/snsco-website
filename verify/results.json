@@ -296,5 +296,87 @@
       "https://www.supremecourtcases.com/catalyst-trusteeship-ltd-v-ecstasy-realty-pvt-ltd/amp/"
     ],
     "note": "Confirmed SC set aside NCLT/NCLAT rulings as perverse/unsustainable in Rs 600 crore Section 7 case, informal restructuring negotiations rejected as defense, matching card exactly."
+  },
+  {
+    "id": 41,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.scconline.com/blog/post/2025/08/02/supreme-court-recalls-bhushan-steel-liquidation-judgment-jsw-resolution-plan-for-bpsl/",
+      "https://lawfullegal.in/kalyani-transco-v-m-s-bhushan-power-and-steel-ltd-ors-a-legal-dissection-of-indias-most-protracted-insolvency-battle/"
+    ],
+    "note": "Confirmed SC final judgment Sep 26, 2025 (CJI Gavai) setting aside liquidation order and reinstating JSW's resolution plan in Kalyani Transco v BPSL saga, matching card exactly."
+  },
+  {
+    "id": 42,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/amp/ibc/post-2026-ibc-amendment-cirp-withdrawal-barred-before-coc-formation-or-after-plan-invitation-nclat-548683"
+    ],
+    "note": "Confirmed NCLAT Principal Bench matter re Epic Yarns/Uma Exports, Aayush Prashant Agarwal and Klass Insolvency RP, addressing 2026-tightened Section 12A withdrawal regime, matching card."
+  },
+  {
+    "id": 43,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/bombay-high-court-holds-interim-moratorium-for-personal-guarantors-ceased-from-may-26-2026-20260926047",
+      "https://www.livelawbiz.com/ibc/high-court/bombay-high-court-insolvency-and-bankruptcy-code-amendment-excluding-personal-guarantor-interim-moratorium-applies-pending-section-95-cases-544259"
+    ],
+    "note": "Confirmed Bombay HC (Justice Sundaresan) held Section 96(4) amendment applies to pending Section 95 cases in Tata Capital v Neel Motors, matching card exactly."
+  },
+  {
+    "id": 44,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.ibbi.gov.in/uploads/claims/2023-12-12 13:13:11-604f3416c5cfafe253591768c8319485.pdf"
+    ],
+    "note": "Confirmed real NCLAT order dated Dec 23, 2025 (CA(AT)(Ins) No.1708/2025) in Bank of Baroda v IDBI Bank re Reliance Communications Infrastructure Ltd, matching parties/court/date; specific distribution-formula holding not independently confirmed but case is real."
+  },
+  {
+    "id": 45,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/bombay-high-court-holds-interim-moratorium-for-personal-guarantors-ceased-from-may-26-2026-20260926047",
+      "https://www.livelawbiz.com/ibc/high-court/bombay-high-court-insolvency-and-bankruptcy-code-amendment-excluding-personal-guarantor-interim-moratorium-applies-pending-section-95-cases-544259"
+    ],
+    "note": "Duplicate card of id 42/Tata Capital v Neel Motors case; same confirmed holding on Section 96(4) retroactive application to pending cases."
+  },
+  {
+    "id": 46,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/nclt/appellate-challenge-affecting-resolution-plan-implementation-automatically-extends-implementation-timeline-nclt-kolkata-552113",
+      "https://supremetoday.ai/appellate-challenge-affecting-resolution-plan-can-extend-timeline-under-plan-terms-nclt-kolkata-20260929021"
+    ],
+    "note": "Confirmed NCLT Kolkata ruling that a pending appellate challenge can extend/shift a resolution plan's implementation clock per Clause (oo), without a formal stay, in Aanchal Ispat matter; matches card though source date extraction shows some ambiguity (2025 vs 2026)."
+  },
+  {
+    "id": 47,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/nclat-upholds-replacement-of-resolution-professional-s-viswanathan-respecting-cocs-commercial-wisdom-20260927037",
+      "https://www.livelawbiz.com/ibc/cocs-decision-to-replace-rp-protected-by-commercial-wisdom-unless-contrary-to-ibc-nclat-chennai-551971"
+    ],
+    "note": "Confirmed NCLAT Chennai (Justice Seshasayee) upheld CoC's replacement of RP S. Viswanathan as protected by commercial wisdom, matching card exactly (Canara Bank was the moving creditor)."
+  },
+  {
+    "id": 48,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "A real, long-running SBI v Maithan Alloys NCLAT liquidation dispute exists (CA(AT)(Ins) 1245-1247/2019) but no search result confirms an Oct 2026 ruling on reopening a concluded auction for a higher offer in this specific matter."
+  },
+  {
+    "id": 49,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.scconline.com/blog/post/2025/11/26/birkin-and-hermes-declared-well-known-trade-marks-del-hc/",
+      "https://ssrana.in/articles/hermes-secures-well-known-trademark-status-in-india/"
+    ],
+    "note": "Confirmed Delhi HC (Justice Tejas Karia) declared Birkin bag shape and HERMES marks well-known, decided 24 Nov 2025, matching card."
+  },
+  {
+    "id": 50,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Delhi HC case between DS Intellectual Properties LLP and Abhinav Singh declaring DS Group marks well-known."
   }
 ]
