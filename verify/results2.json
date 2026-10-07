@@ -1062,5 +1062,88 @@
       "https://rawlaw.in/kerala-high-court-on-grant-of-temporary-injunction-in-property-disputes-court-must-balance-competing-rights-and-prevent-irreversible-harm/"
     ],
     "note": "Matches the well-established Order XXXIX CPC jurisprudence treating ex-parte interim injunctions as exceptional, requiring recorded exceptional circumstances."
+  },
+  {
+    "id": 131,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.indialaw.in/blog/family-law/burden-of-proof-in-will/"
+    ],
+    "note": "Matches the well-established Indian succession-law doctrine that a will's propounder must dispel suspicious circumstances beyond merely proving due execution under S.63 Succession Act/S.68 Evidence Act."
+  },
+  {
+    "id": 132,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.casemine.com/in/column/the-legal-efficacy-and-evidentiary-challenges-of-oral-partitions-in-india/view"
+    ],
+    "note": "Matches settled law (incl. Roshan Singh v. Zile Singh) that a memorandum merely recording an already-completed oral partition does not require registration/stamping."
+  },
+  {
+    "id": 133,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://rawlaw.in/buyer-cannot-enforce-property-sale-without-proving-funds-and-continuous-readiness-supreme-court-rejects-specific-performance-claim/"
+    ],
+    "note": "Matches settled specific-performance doctrine requiring continuous readiness and willingness from contract to decree, not merely at the date of filing."
+  },
+  {
+    "id": 134,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.casemine.com/in/column/the-jurisprudence-of-demolition:-a-scholarly-analysis-of-mandatory-injunctions-in-indian-law/view"
+    ],
+    "note": "Matches the established Specific Relief Act framework (Ss. 38-39) under which mandatory injunctions remain available to remove clearly-established encroaching construction."
+  },
+  {
+    "id": 135,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://vidhijudicial.com/tpa-section52-lis-pendens-.html"
+    ],
+    "note": "Matches settled law that lis pendens under S.52 TPA operates on the pendency of the suit itself (on grounds of necessity/public policy), independent of any registered notice."
+  },
+  {
+    "id": 136,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://theindianlawyer.in/a-name-in-the-records-not-a-title-in-law-mutation-wills-and-the-limits-of-revenue-jurisdiction/",
+      "https://advocatetanwar.com/mutation-entry-does-not-itself-confer-title-sc"
+    ],
+    "note": "Matches the established principle (SC/HC authority) that mutation is a fiscal act subordinate to civil adjudication of title, and is often kept pending a civil title suit."
+  },
+  {
+    "id": 137,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.lawweb.in/2018/10/whether-it-is-mandatory-for-licensor-to.html"
+    ],
+    "note": "Matches settled law that once a licence is revoked, continued occupation is unlawful and no notice to quit is required before suing the licensee for possession."
+  },
+  {
+    "id": 138,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://moneylife.in/article/better-to-abolish-rera-it-only-helps-builders-supreme-court/79654.html"
+    ],
+    "note": "Matches the SC bench's Feb 2026 remark (in the Himachal Pradesh RERA-office-relocation matter) that it may be 'better to abolish RERA' given its builder-favouring record."
+  },
+  {
+    "id": 139,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ksandk.com/newsletter/rera-section-68-amendment/",
+      "https://www.sansalegal.com/post/rera-decriminalisation-under-the-jan-vishwas-act-2026-allottee-penalties-revised-and-imprisonment-p"
+    ],
+    "note": "Matches the Jan Vishwas (Amendment of Provisions) Act, 2026 (effective 7 May 2026), which replaces imprisonment under RERA S.68 with monetary penalties while retaining some penal exposure."
+  },
+  {
+    "id": 140,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://taxguru.in/goods-and-service-tax/sc-dismissed-revenue-slp-gst-levy-gidc-leasehold-rights-transfer.html",
+      "https://taxo.online/latest-news/22-07-2026-no-gst-on-assignment-of-industrial-leasehold-rights-supreme-court-affirms-gujarat-high-courts-landmark-verdict/"
+    ],
+    "note": "Matches the SC's July 21, 2026 dismissal of Revenue's SLPs, confirming assignment of GIDC industrial leasehold rights is a transfer of immovable property not subject to GST."
   }
 ]
