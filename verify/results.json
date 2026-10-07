@@ -552,5 +552,76 @@
       "https://supremetoday.ai/delhi-high-court-restrains-herbawish-use-finds-mark-deceptively-similar-to-herbalife-20260926050"
     ],
     "note": "Confirmed Delhi HC (Justice Jyoti Singh), 15 Sep, restrained Ashish Kumar's 'Herbawish' marks as deceptively similar to Herbalife, matching card exactly."
+  },
+  {
+    "id": 71,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Nova Chemtech v Opposition Board case at any IP Appellate Division on Section 25(2) post-grant opposition delay."
+  },
+  {
+    "id": 72,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports an Innoview Analytics v Rajat Malhotra case on post-employment confidentiality over proprietary algorithms."
+  },
+  {
+    "id": 73,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Vantage Lifestyle Brands John Doe/Ashok Kumar order; other, unrelated brands (VANS, Skechers) obtained similar orders, confirming the generic fact pattern but not this party."
+  },
+  {
+    "id": 74,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Zenith Materials Technologies v Prakash Industrial Coatings case on a royalty clause in a technology transfer agreement."
+  },
+  {
+    "id": 75,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Codeforge Systems v Aditya Ranjan Pillai case on unauthorised source code reproduction."
+  },
+  {
+    "id": 76,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Radiant Consumer Brands v Kavya Distributors case on IP assignment versus licence."
+  },
+  {
+    "id": 77,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/trademark/delhi-high-court-restrains-social-circle-restaurant-for-infringing-impresario-well-known-social-trademark-551634",
+      "https://www.barandbench.com/news/litigation/delhi-high-court-social-a-well-known-trademark"
+    ],
+    "note": "Confirmed Delhi HC (Justice Vikas Mahajan) restrained Dehradun's 'Social Circle' as infringing Impresario's well-known 'SOCIAL' mark (declared well-known Jan 2026), matching card; a source snippet's '2025' date appears to be an extraction artifact given the chronology."
+  },
+  {
+    "id": 78,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.scconline.com/blog/post/2026/04/28/ker-hc-industrial-relations-code-amendment-act-2026-upheld-continuation-of-labour-tribunals-not-arbitrary/"
+    ],
+    "note": "Confirmed M.K. Suresh Kumar & another's writ petition at Kerala HC challenging IR Code (Amendment) Act 2026 was dismissed applying Shayara Bano manifest-arbitrariness doctrine, matching card exactly."
+  },
+  {
+    "id": 79,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2025/supreme-court-dismisses-complaint-of-sexual-harassment-barred-by-limitation-on-time",
+      "https://ksandk.com/newsletter/supreme-court-sexual-harassment-complaint-time-barred/"
+    ],
+    "note": "Confirmed SC held Vaneeta Patnaik's POSH complaint against Nirmal Kanti Chakrabarti time-barred under Section 9, while ordering the allegation recorded in his service file, matching card exactly."
+  },
+  {
+    "id": 80,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/supreme-court-of-india-vinod-kumar-v-union-of-india-2024-insc-332-regular-employment-temporary-employment-scheme-specific-initial-engagement-regulaization-of-posts-central-administrative-tribunal-1532383",
+      "https://api.sci.gov.in/supremecourt/2016/21049/21049_2016_8_28_49942_Judgement_30-Jan-2024.pdf"
+    ],
+    "note": "Real case confirmed (Vinod Kumar v Union of India, 2024 INSC 332, Railway Accounts Clerks regularised after 25+ years), but decided 30 Jan 2024, not Jan 2026 as the card states."
   }
 ]
