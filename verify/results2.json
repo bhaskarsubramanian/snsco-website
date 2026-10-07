@@ -639,5 +639,91 @@
       "https://fssai.gov.in/upload/advisories/2025/09/68cbc72c20968Oct Enforcement Drive_Spices_letter dated 17th September, 2025.pdf"
     ],
     "note": "Matches FSSAI's recurring (festive-season) spice/condiment adulteration surveillance drives directed at state food commissioners, consistent with the card's description even if the precise month cited differs by a year."
+  },
+  {
+    "id": 81,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "The general FSSAI-plus-excise dual-requirement for alcoholic beverages is real, but no specific May 2026 FSSAI advisory on this exact point was found."
+  },
+  {
+    "id": 82,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.freyrsolutions.com/consumer-industry-news/fssai-defers-coffee-chicory-labelling-requirements-to-july-2027-and-simplifies-front-of-pack-declarations",
+      "https://food.chemlinked.com/news/food-news/india-publishes-first-amendment-to-food-labelling-and-display-regulations"
+    ],
+    "note": "Matches FSSAI's Mar 30, 2026 Labelling and Display First Amendment Regulations, with a Jul 1, 2027 compliance deadline for non-retail container and other provisions."
+  },
+  {
+    "id": 83,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/top-stories/supreme-court-issues-notice-on-homebuyers-plea-seeking-court-supervised-probe-into-alleged-13833-crore-diversion-of-jaypee-funds-536051",
+      "https://dailypioneer.com/news/sc-seeks-responses-of-centre-ed-rbi-on-plea-alleging-siphoning-of-homebuyers-funds"
+    ],
+    "note": "Matches the SC notice to Centre, ED, RBI and Standard Chartered Bank on a Jaypee homebuyers' PIL alleging \u20b913,833 crore fund diversion."
+  },
+  {
+    "id": 84,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/sarfaesi-timeline-mandatory-supreme-court-cancels-auction-sale-after-16-yrs-over-5-day-delay-in-payment-of-balance-537407",
+      "https://www.mondaq.com/india/trials-appeals-compensation/1810968/supreme-court-held-that-compliance-with-rule-9-of-sarfaesi-rules-is-mandatory-and-goes-to-the-root-of-the-validity-of-sale"
+    ],
+    "note": "Matches the M.R. Vasumathi and E. Muthurathinasabathy SC rulings holding SARFAESI Rule 9 payment timelines mandatory, not directory."
+  },
+  {
+    "id": 85,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://swarajyamag.com/amp/story/news-brief/supreme-court-flags-deep-rooted-nexus-between-banks-arcs-and-borrowers-over-1537-crore-debt-settlement",
+      "https://www.livelawbiz.com/top-stories/pil-in-supreme-court-seeks-court-monitored-probe-into-alleged-1537-crore-jkm-infra-bank-fraud-and-arc-settlements-537182"
+    ],
+    "note": "Duplicate of the JKM Infra PIL covered at card 8; SC issued notice flagging the bank-ARC-borrower nexus over steep-discount settlements."
+  },
+  {
+    "id": 86,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.mondaq.com/india/financial-services/1814686/rbi-amendment-directions-on-nbfc-advertising-marketing-and-sale-of-financial-products",
+      "https://lexplosion.in/rbi-amends-nbfc-responsible-business-conduct-directions-as-well-as-hfc-directions-introducing-requirements-on-advertising-marketing-sale-of-financial-products/"
+    ],
+    "note": "Matches the RBI (NBFC \u2013 Responsible Business Conduct) (Second Amendment) Directions, 2026, issued 15 June 2026, adding a new chapter on marketing/third-party product sales."
+  },
+  {
+    "id": 87,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.jsalaw.com/?p=57596",
+      "https://www.azbpartners.com/bank/no-right-to-personal-hearing-before-classification-of-an-account-as-a-fraud-account-analysis-of-the-judgment-in-state-bank-of-india-v-amit-iron-private-limited/"
+    ],
+    "note": "Matches SBI v. Amit Iron Pvt. Ltd. (2026 INSC 323, decided Apr 7 2026): no mandatory personal hearing before fraud classification, but the forensic audit report must be furnished to the borrower."
+  },
+  {
+    "id": 88,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.businesstoday.in/amp/personal-finance/news/story/rbi-issues-new-guidelines-on-digital-payment-authentication-effective-april-2026-495758-2025-09-25",
+      "https://www.bajajfinserv.in/rbi-new-digital-payment-rules-april-2026"
+    ],
+    "note": "Matches RBI's mandatory two-factor/additional-factor authentication rule for digital payments, effective April 1, 2026."
+  },
+  {
+    "id": 89,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://vajiramandravi.com/current-affairs/rbi-adds-2-5-liquidity-buffer-for-digital-deposits-under-new-lcr-norms/",
+      "https://www.basispointinsight.com/Story/rbi-finalises-lcr-norms--lowers-run-off-rate-for-digital-retail-deposits_db3484a31f0b.html"
+    ],
+    "note": "Matches RBI's revised Basel III LCR framework adding a 2.5% run-off surcharge for internet/mobile-banking-enabled deposits, effective April 1, 2026."
+  },
+  {
+    "id": 90,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.mondaq.com/india/financial-services/1763750/rbis-2026-digital-banking-and-governance-overhaul-key-action-points-for-banks-and-nbfcs"
+    ],
+    "note": "Matches RBI's requirement that banks submit board-approved group-level compliance plans (structurally separating core banking from higher-risk group activities) by March 31, 2026."
   }
 ]
