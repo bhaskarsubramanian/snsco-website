@@ -476,5 +476,91 @@
       "https://foxmandal.in/News/sc-urges-fssai-to-consider-front-of-pack-warning-labels/"
     ],
     "note": "Matches the SC bench of Justices Pardiwala and Viswanathan directing FSSAI to evaluate a warning-label model for high-sugar/salt/fat packaged foods around early-mid 2026."
+  },
+  {
+    "id": 61,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://fssai.gov.in/cms/GeM-FSW.php",
+      "https://www.foodtechbiz.com/food-safety-and-traceability/fssai-expands-testing-infrastructure-and-enforcement-under-fss-act-2006"
+    ],
+    "note": "Matches FSSAI's ongoing Mobile Food Testing Laboratory / Food Safety on Wheels expansion procured via GeM, part of its 2025-2030 five-year plan."
+  },
+  {
+    "id": 62,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://fssai.gov.in/upload/advisories/2026/02/6996b09ea4a20Validity order february.pdf",
+      "https://taxguru.in/corporate-law/fssai-updates-lab-accreditation-list-strengthen-food-testing-network.html"
+    ],
+    "note": "Matches FSSAI's recurring practice of issuing updated NABL-accredited lab validity orders (monthly orders found for Feb, May, Sep 2026) tied to import-sample testing."
+  },
+  {
+    "id": 63,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No record of a '49th Central Advisory Committee' meeting deferring FOPL regulations in Nov 2025; only 47th/48th Food Authority meeting minutes were found, a different body."
+  },
+  {
+    "id": 64,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.storyboard18.com/amp/how-it-works/fssai-withdraws-all-orders-regulating-use-of-ors-in-brand-names-82552.htm",
+      "https://www.freyrsolutions.com/consumer-industry-news/fssai-revokes-all-restrictions-on-ors-in-brand-names-issues-final-clarification"
+    ],
+    "note": "Matches FSSAI's Oct 14, 2025 withdrawal of its prior ORS brand-name restriction orders, followed by a clarifying reiteration the next day."
+  },
+  {
+    "id": 65,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lawtrend.in/?p=308796",
+      "https://blog.primelegal.in/supreme-court-fssai-food-warning-labels-order/"
+    ],
+    "note": "Matches the SC's July 2025 'final' three-month extension (through roughly October 2025) to FSSAI's expert committee on FOPL, with a strong warning of consequences for further delay."
+  },
+  {
+    "id": 66,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://newsable.asianetnews.com/india/delhi-hc-stays-fssai-order-against-dabur-over-100-pure-claims-articleshow-oe50aqy",
+      "https://www.livelaw.in/amp/high-court/calcutta-high-court/risk-factor-higher-than-loss-which-may-be-caused-calcutta-hc-declines-to-stay-fssai-order-against-sale-of-prohibited-batch-of-dabur-honey-289316"
+    ],
+    "note": "Matches the real, recurring pattern of courts scrutinising/staying FSSAI's Section 30 emergency prohibition orders for lacking notice, hearing, or evidentiary basis (Dabur, Nestle and other matters)."
+  },
+  {
+    "id": 67,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://bhattandjoshiassociates.com/food-adulteration-cases-supreme-court-rules-fssa-takes-precedence-over-ipc-in-jurisdictional-conflict/"
+    ],
+    "note": "The underlying SC ruling that Section 59 FSSA (up to life imprisonment) takes precedence over IPC provisions is real, but it was decided on Feb 23, 2024, not 2025 as the card states."
+  },
+  {
+    "id": 68,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://ssrana.in/articles/fssai-targets-misleading-100-claims-a-wake-up-call-for-food-brands/",
+      "https://agronfoodprocessing.com/fssai-cracks-down-on-100-food-label-claims-calls-them-misleading-and-unverifiable/"
+    ],
+    "note": "Matches FSSAI's advisory dated May 28, 2025 cautioning against unverified '100%' claims like '100% natural' or '100% juice'."
+  },
+  {
+    "id": 69,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.business-standard.com/health/fssai-directs-states-curb-synthetic-colouring-fruit-calcium-carbide-125052000950_1.html",
+      "https://www.thehitavada.com/Encyc/2025/5/21/FSSAI-asks-States-to-curb-use-ofillegal-ripening-agents-on-fruits.html"
+    ],
+    "note": "Matches FSSAI's May 20, 2025 directive to States/UTs to intensify enforcement against illegal calcium-carbide fruit ripening and synthetic coatings."
+  },
+  {
+    "id": 70,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://food.chemlinked.com/news/food-news/fssai-releases-draft-fss-labelling-and-display-amendment-regulations-2025-involving-nutrition-information-and-milk-logo",
+      "https://indialaw.in/blog/civil/draft-amendments-food-safety-labelling"
+    ],
+    "note": "Matches FSSAI's Feb 20, 2025 draft FSS (Labelling and Display) Amendment Regulations requiring bold-font nutritional disclosures for added sugar, saturated fat and sodium."
   }
 ]
