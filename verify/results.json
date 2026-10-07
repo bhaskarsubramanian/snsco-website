@@ -58,5 +58,93 @@
     "verdict": "NOT_FOUND",
     "evidence": [],
     "note": "No Bombay HC copyright case between Novelty Prints and Creative Canvas Studio found in search results."
+  },
+  {
+    "id": 11,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/supreme-court-replaces-retired-justice-arun-mishra-as-arbitrator-in-adani-vs-rajasthan-discom-case",
+      "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-replaces-justice-arun-mishra-with-justice-sk-kaul-as-arbitrator-in-pkcl-rrvunl-dispute/"
+    ],
+    "note": "SC replaced Justice Arun Mishra with Justice S.K. Kaul as sole arbitrator by consent in PKCL v RRVUNL, matching card; order dated Aug 3, 2026 (card says Aug 4)."
+  },
+  {
+    "id": 12,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://order.law/library/courts/supreme-court/2026/mar/SCIN010597372025-32bun/steag-energy-services-india-pvt-ltd-v-gspc-pipavav-power-company-ltd-gppc",
+      "https://lawtrend.in/courts-must-exercise-restraint-in-tender-matters-sc-sets-aside-hc-order-interfering-with-loa-in-gppc-contract/"
+    ],
+    "note": "Confirmed: SC set aside HC order interfering with LOA/tender award in O&M contract dispute, matching headline and parties."
+  },
+  {
+    "id": 13,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.supremecourtcases.com/gujarat-water-supply-and-sewerage-board-v-saryu-plastics-pvt-ltd/amp/"
+    ],
+    "note": "Confirmed Civil Appeal Nos. 769-770 of 2026 decided May 26, 2026 by Justices Narasimha and Aradhe between these exact parties, matching card date and bench."
+  },
+  {
+    "id": 14,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/home-care-retail-marts-case-supreme-court-says-losing-party-can-seek-section-9-relief-20260915114"
+    ],
+    "note": "Confirmed SC held a losing/non-award party may seek Section 9 post-award relief, matching headline exactly."
+  },
+  {
+    "id": 15,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lawyerenews.com/legal_detail/venue-alone-cant-confer-jurisdiction-himachal-pradesh-high-court-denies-nhais-bid-to-shift-arbitration-challenge-from-bilaspur-to-mandi",
+      "https://supremetoday.ai/doc/judgement/INDHP00000056765"
+    ],
+    "note": "Confirmed HP High Court ruling in NHAI v Paras Ram, CMPMO 761-767/2025, holding venue/hearing location does not fix seat of arbitration."
+  },
+  {
+    "id": 16,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.scobserver.in/cases/validity-of-judicial-challenges-to-msefc-awards-tamil-nadu-cements-corporation-limited-v-micro-and-small-enterprises-facilitation-council/",
+      "https://lawfoyer.in/m-s-tamil-nadu-cements-corporation-limited-v-micro-and-small-enterprises-facilitation-council-and-another-2025-1-s-c-r-880-2025-insc-91/"
+    ],
+    "note": "Real case (2025 INSC 91) decided Jan 22 2025, not Oct 2025 as card states, and the Court referred the Art 226 maintainability question to a larger bench rather than conclusively holding it maintainable as the card headline claims."
+  },
+  {
+    "id": 17,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://indiacorplaw.in/2026/03/02/the-evasion-principle-and-piercing-the-corporate-veil-in-the-execution-of-arbitral-awards/",
+      "https://filminformation.com/news/imax-wins-contract-dispute-with-e-city-entertainment-13-january-2026/"
+    ],
+    "note": "Case and holding on piercing corporate veil to implead non-parties at enforcement stage are confirmed, but judgment appears to be from Dec 2025/Jan 2026, not Sep 2025 as the card states."
+  },
+  {
+    "id": 18,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://conflictoflaws.net/2026/anti-arbitration-injunction-in-foreign-seated-arbitrations-the-delhi-high-courts-controversial-intervention-in-engineering-projects-india-limited-v-msa-global-llc-oman/",
+      "https://amlegals.com/anti-arbitration-injunction-allowed-in-foreign-seated-arbitration/"
+    ],
+    "note": "Confirmed Delhi HC anti-arbitration injunction against foreign-seated ICC arbitration for undisclosed arbitrator conflict, judgment 25 Jul 2025, matching card closely."
+  },
+  {
+    "id": 19,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://kbssidhu.substack.com/p/supreme-court-clarifies-judicial",
+      "https://www.ibanet.org/balasamy-judgment-fading-principle-of-finality-in-arbitration"
+    ],
+    "note": "Confirmed 5-judge Constitution Bench case on modification of arbitral awards under Sections 34/37; hearings/decision matches card's description."
+  },
+  {
+    "id": 20,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.barandbench.com/news/jindal-ntpc-dispute-delhi-high-court-delivers-split-verdict-on-validity-of-1889-crore-arbitral-award",
+      "https://www.livelawbiz.com/arbitration/delhi-high-court-refers-1889-crore-jindal-itf-ntpc-arbitration-dispute-to-third-judge-548450"
+    ],
+    "note": "Confirmed split verdict by Justices C. Hari Shankar and Om Prakash Shukla on Rs.1,889 crore Jindal ITF v NTPC award, referred to third judge, matching card exactly."
   }
 ]
