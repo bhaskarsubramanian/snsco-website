@@ -378,5 +378,93 @@
     "verdict": "NOT_FOUND",
     "evidence": [],
     "note": "No search result reports a Delhi HC case between DS Intellectual Properties LLP and Abhinav Singh declaring DS Group marks well-known."
+  },
+  {
+    "id": 51,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/amp/trademark/delhi-high-court-upholds-arrest-warrants-against-jain-shikanji-director-for-willful-contempt-in-trademark-dispute-539949"
+    ],
+    "note": "Confirmed Delhi HC (Justice Jyoti Singh), 2 Jul 2026, upheld refusal of unconditional apology and contempt finding against Jain Shikanji director, matching card exactly."
+  },
+  {
+    "id": 52,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/delhi-high-court-upholds-trademark-priority-favoring-earlier-application-over-subsequent-commercial-use-by-parle-20260730073",
+      "https://www.storyboard18.com/amp/brand-marketing/delhi-high-court-dismisses-parle-appeal-in-20-20-trademark-dispute-with-avon-agro-91970.htm"
+    ],
+    "note": "Confirmed Delhi HC (Justice Tushar Rao Gedela) dismissed Parle's appeal in the '20-20' mark dispute, holding earlier filing date prevails, matching card exactly."
+  },
+  {
+    "id": 53,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.scconline.com/blog/post/2026/07/24/del-hc-distinctiveness-governs-registrability-section-9-1-a-trade-marks-act/",
+      "https://www.livelawbiz.com/amp/trademark/uniqueness-not-a-statutory-test-for-refusing-trademark-registration-delhi-high-court-542499"
+    ],
+    "note": "Confirmed Delhi HC (C.A.(COMM.IPD-TM) 8/2026, 21.07.2026) held uniqueness is not the statutory test, distinctiveness under Section 9(1)(a) suffices, matching card exactly."
+  },
+  {
+    "id": 54,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.iam-media.com/article/interdigital-prevails-delhi-high-court-orders-pro-tem-security-measures",
+      "https://ipfray.com/?p=12242"
+    ],
+    "note": "Confirmed Delhi HC ordered Transsion to furnish pro tem security in InterDigital SEP/FRAND suit, matching card exactly."
+  },
+  {
+    "id": 55,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.intepat.com/blog/bolar-exemption-india-section-107a-novartis-venkata-narayana",
+      "https://www.livelawbiz.com/amp/patent/madras-high-court-holds-chennai-api-makers-export-of-diabetes-drug-vildagliptin-to-egypt-infringed-novartis-patent-536917"
+    ],
+    "note": "Confirmed Madras HC held burden of proving Section 107A Bolar exception lies on the party invoking it, ruling against Venkata Narayana Active Ingredients, matching card exactly."
+  },
+  {
+    "id": 56,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://spicyip.com/2025/09/whose-jurisdiction-is-it-anyway-sc-dismisses-ccis-appeal-against-ouster-of-jurisdiction-on-patent-issues.html"
+    ],
+    "note": "The Supreme Court already decided this matter in September 2025, dismissing CCI's appeal and holding the Patents Act ousts CCI jurisdiction; it was not 'pending' with a ruling anticipated in Mar 2026 as the card states."
+  },
+  {
+    "id": 57,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/ipr/madras-high-court-rules-against-7-eleven-in-big-bite-trademark-battle-with-indian-company-522750",
+      "https://ssrana.in/articles/global-brands-local-rights-the-7-eleven-big-bite-trademark-dispute/"
+    ],
+    "note": "Confirmed Madras HC ruled against 7-Eleven, holding international reputation alone cannot establish protectable goodwill in India, matching card exactly."
+  },
+  {
+    "id": 58,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://conventuslaw.com/report/india-calcuttas-new-ip-division-delivers-landmark-judgment-sets-aside-unreasoned-trademark-orders/",
+      "https://corporate.cyrilamarchandblogs.com/2025/06/calcuttas-new-ip-division-delivers-landmark-judgment-sets-aside-unreasoned-trademark-orders/"
+    ],
+    "note": "Confirmed Calcutta HC IP Division set aside unreasoned Deputy Registrar orders allowing 'Dunlop' mark registration, in Sumitomo Rubber/Dunlop International matter; judgment reported as 11 Jun 2025, close to card's 30 Jun 2025."
+  },
+  {
+    "id": 59,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://moneylife.in/article/delhi-hc-orders-amazon-to-pay-nearly-rs340-crore-to-lifestyle-equities-for-trademark-infringement/76489.html",
+      "https://maheshwariandco.com/?p=21148"
+    ],
+    "note": "Confirmed Delhi HC (Justice Singh), 25 Feb 2025, held Amazon liable for hosting infringing Beverly Hills Polo Club listings, matching card's e-commerce intermediary liability theme."
+  },
+  {
+    "id": 60,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.verdictum.in/court-updates/high-courts/delhi-pidilite-industries-ltd-v-sanjay-jain-2024-dhc-2369-fevikwik-kwikheal-trademark-dispute-1527729",
+      "https://lawyerenews.com/legal_detail/distinctive-dissimilarities-in-marks-no-monopoly-over-kwik-and-its-variations-delhi-high-court-rejects-pidilites-rectification-application-against-kwikheal"
+    ],
+    "note": "Case and holding confirmed (Pidilite v Sanjay Jain, Justice Anish Dayal, no monopoly over 'KWIK'), but the judgment is 2024 DHC 2369, not 2025 as the card states."
   }
 ]
