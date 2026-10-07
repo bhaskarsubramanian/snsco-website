@@ -1216,5 +1216,85 @@
     "verdict": "NOT_FOUND",
     "evidence": [],
     "note": "No specific state ready-reckoner-rate notification affecting stamp duty on construction-linked bookings was found; the card names no specific state."
+  },
+  {
+    "id": 151,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://haryanarera.gov.in/assistancecontrol/viewOrderPdf/ODM2MDY=",
+      "https://www.khuranaandkhurana.com/maintenance-charge-litigation-after-possession-legal-framework"
+    ],
+    "note": "Matches RERA Gurugram's order (BPTP Limited) and the S.11(4)(e)/(g) framework holding a promoter cannot collect maintenance charges for the period before actual handover of possession."
+  },
+  {
+    "id": 152,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No Indian state affordable-housing-scheme policy update introducing post-allotment income re-verification was found; search returned only unrelated US/Vietnam housing material."
+  },
+  {
+    "id": 153,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/amp/nclat/nclat-sets-aside-nclt-order-admitting-cirp-of-vikram-solar-539650",
+      "https://powerpeakdigest.com/nclat-sets-aside-insolvency-proceedings-against-vikram-solar/"
+    ],
+    "note": "Matches NCLAT's June 30, 2026 order setting aside the Section 9 CIRP admission against Vikram Solar because the claim (\u20b991.98 lakh) fell below the \u20b91 crore Section 4 threshold."
+  },
+  {
+    "id": 154,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://insolvencytracker.in/2026/05/29/klsr-infratech-gets-sc-relief-as-insolvency-plea-gets-dismissed-courts-flag-pressure-tactics/",
+      "https://lawbeat.in/amp/top-stories/supreme-court-upholds-nclats-decision-setting-aside-malafide-insolvency-proceedings-against-klsr-infratech-1596832"
+    ],
+    "note": "Matches NCLAT's March 23, 2026 order quashing the CIRP admitted by NCLT Hyderabad against KLSR Infratech (later affirmed by the SC); the specific \u20b910 lakh costs figure could not be independently confirmed."
+  },
+  {
+    "id": 155,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://blog.ipleaders.in/independent-director-databank-registration-in-2026-process-fees-and-portal/"
+    ],
+    "note": "Matches real, ongoing MCA/company practice (per MCA Circular 09/2024 and subsequent guidance) around board/compensation-committee approval of ESOP scheme and vesting-schedule amendments."
+  },
+  {
+    "id": 156,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://taxguru.in/company-law/mca-imposes-penalty-failure-convene-subsequent-board-meetings.html",
+      "https://taxguru.in/corporate-law/mca-imposes-penalties-non-compliance-board-meetings-norms.html"
+    ],
+    "note": "Matches a real 2026 pattern of ROC/Adjudicating Officer orders (e.g. ROC Ranchi Feb 2026, ROC Bangalore Mar 2026) penalising directors individually for board-meeting/oversight governance lapses under S.173(4)."
+  },
+  {
+    "id": 157,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No specific SEBI consultation paper focused on drag-along/tag-along disclosure in pre-IPO shareholder agreements was found; only a broader Nov 2025 ICDR simplification consultation and the general Reg 31B LODR framework."
+  },
+  {
+    "id": 158,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lawsikho.com/blog/scheme-of-arrangement-sec-230-232-2026-nclt-guide/"
+    ],
+    "note": "Matches the real 2025-2026 streamlining of Sections 230-232 scheme-of-arrangement filings, including an expanded fast-track route bypassing full NCLT process."
+  },
+  {
+    "id": 159,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://vinodkothari.com/2025/08/rbi-rationalises-guarantee-regulations/"
+    ],
+    "note": "Matches RBI's Non-Fund Based Credit Facilities Directions, 2025 (effective Apr 1, 2026), which tighten guarantee/disclosure norms for NBFCs including a ban on guaranteeing inter-company deposits."
+  },
+  {
+    "id": 160,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://blog.ipleaders.in/independent-director-databank-registration-in-2026-process-fees-and-portal/"
+    ],
+    "note": "Matches the real, tightened Independent Directors' Databank framework (Rule 6(1), two-year proficiency self-assessment deadline)."
   }
 ]
