@@ -623,5 +623,91 @@
       "https://api.sci.gov.in/supremecourt/2016/21049/21049_2016_8_28_49942_Judgement_30-Jan-2024.pdf"
     ],
     "note": "Real case confirmed (Vinod Kumar v Union of India, 2024 INSC 332, Railway Accounts Clerks regularised after 25+ years), but decided 30 Jan 2024, not Jan 2026 as the card states."
+  },
+  {
+    "id": 81,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.onmanorama.com/news/kerala/2024/02/23/military-nurse-army-law-legal-battle-marriage-compensation.html",
+      "https://www.ensureias.com/blog/current-affairs/selina-john-case-marriage-can-t-be-ground-to-sack-woman-2"
+    ],
+    "note": "Real case confirmed (Union of India v Selina John, Justices Sanjiv Khanna and Dipankar Datta, holding dismissal for marriage unconstitutional), but decided in Feb 2024, not Aug 2025 as the card states."
+  },
+  {
+    "id": 82,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.livelaw.in/amp/supreme-court/workers-employed-to-perform-perennialpermanent-nature-of-work-cant-be-treated-as-contractual-workers-supreme-court-allows-regularisation-252130",
+      "https://www.supremecourtcases.com/mahanadi-coalfields-ltd-v-brajrajnagar-coal-mines-workers-union/"
+    ],
+    "note": "Real case confirmed with matching holding, but Supreme Court decided it on 12 March 2024, not Aug 2025 as the card states."
+  },
+  {
+    "id": 83,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://ksandk.com/labour-employment/safety-karnataka-hc-gig-posh-act/",
+      "https://www.thenewsminute.com/karnataka/karnataka-hc-stays-coercive-action-against-swiggy-zomato-zepto-over-gig-workers-act"
+    ],
+    "note": "Real case (Ms. X v Internal Complaints Committee, ANI Technologies/Ola) decided by single judge 30 Sep 2024, not Jun 2025 as card states; a Division Bench also stayed the ruling in Oct 2024, which the card's 'final ruling awaited' framing does not capture."
+  },
+  {
+    "id": 84,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/s28-contract-act-doesnt-bar-exclusive-jurisdiction-clauses-in-contracts-supreme-court-288852",
+      "https://indialaw.in/blog/civil/sc-jurisdiction-clauses-employment"
+    ],
+    "note": "Confirmed SC (Justices Dipankar Datta, Manmohan), 8 Apr 2025, upheld exclusive jurisdiction clauses in HDFC Bank employment contracts in Rakesh Kumar Verma/Deepti Bhatia matters, matching card exactly."
+  },
+  {
+    "id": 85,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://ssrana.in/articles/revisiting-employment-bond-enforceability-in-india-vijaya-bank-vs-prashant-b-narnaware/"
+    ],
+    "note": "Real case confirmed (2025 INSC 691, Rs.2 lakh minimum-service bond upheld), but decided 14 May 2025, not Jan 2025 as the card states."
+  },
+  {
+    "id": 86,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://deccanherald.com/india/employer-can-forfeit-gratuity-only-to-extent-of-proven-loss-supreme-court-4096670",
+      "https://lawbeat.in/supreme-court-judgments/section-46bii-payment-of-gratuity-act-sc-clarifies-when-employer-can-forfeit-gratuity-1624011"
+    ],
+    "note": "Real case confirmed (Prabhat Kumar Singh v Accu Pack Engineering, Justices Prashant Kumar Mishra and Shree Chandrashekhar, gratuity forfeiture limited to proven loss), but multiple sources place this as a 2025 judgment, not Jul 2026 as the card states."
+  },
+  {
+    "id": 87,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/high-court/delhi-high-court/gratuity-can-be-withheld-until-all-judicial-proceedings-including-criminal-appeals-conclude-delhi-hc-549461",
+      "https://courtkutchehry.com/judgments/bhagwan-das-vs-union-of-india-and-ors-2"
+    ],
+    "note": "Confirmed Delhi HC Division Bench (Hari Shankar, Vinod Kumar JJ) held gratuity withholdable through pendency of a criminal appeal in Union of India v Jamuna Dass, matching card exactly."
+  },
+  {
+    "id": 88,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Delhi HC case between Hari Prakash and New Delhi Municipal Council on abandonment-of-service versus illegal termination."
+  },
+  {
+    "id": 89,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/ram-nath-v-the-state-of-uttar-pradesh-2024-insc-138-food-safety-and-standards-act-1522052",
+      "https://www.livelaw.in/amp/supreme-court/food-safety-and-standards-act-overrides-indian-penal-code-simultaneous-prosecution-under-both-acts-not-possible-supreme-court-250555"
+    ],
+    "note": "Confirmed Ram Nath v State of UP, (2024) 3 SCC 502, held FSSA's Section 89 overrides IPC Sections 272/273 barring simultaneous prosecution, matching card's citation exactly."
+  },
+  {
+    "id": 90,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/delhi-high-court-restrains-fssai-from-cancelling-itc-licence-over-100-atta-0-maida-claims",
+      "https://www.verdictum.in/delhi-high-court/fssai-cancelling-licence-itc-over-aashirvaad-attas-100-claim-1620607"
+    ],
+    "note": "Confirmed Delhi HC (Justice Swarana Kanta Sharma) restrained FSSAI from cancelling ITC's licence over '100% Atta'/'0% Maida' claims pending hearing, matching card exactly."
   }
 ]
