@@ -709,5 +709,94 @@
       "https://www.verdictum.in/delhi-high-court/fssai-cancelling-licence-itc-over-aashirvaad-attas-100-claim-1620607"
     ],
     "note": "Confirmed Delhi HC (Justice Swarana Kanta Sharma) restrained FSSAI from cancelling ITC's licence over '100% Atta'/'0% Maida' claims pending hearing, matching card exactly."
+  },
+  {
+    "id": 91,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://develop.patrika.com/en/gwalior-news/are-you-eating-husks-and-sawdust-in-your-spices-major-adulteration-racket-exposed-in-mp-20357723"
+    ],
+    "note": "Real case confirmed (MP HC Jabalpur, Justice Himanshu Joshi, 15 Jun 2026, Sharan Bihari Agarwal v M.K. Gupta), but the actual holding quashed proceedings for lack of specific allegations against partnership individuals under Section 13(2), not for failing to inform the accused of Central Food Laboratory testing rights as the card states."
+  },
+  {
+    "id": 92,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/p&h-hc-fsso-no-power-seize-machinery-fss-act-20260423030",
+      "https://webiis10.mondaq.com/india/food-and-drugs-law/1778708/interpreting-penal-provisions-strictly-high-court-ruling-on-plant-machinery-seizure-under-fssai-act"
+    ],
+    "note": "Confirmed P&H HC (Justice Jagmohan Bansal) held FSO Kaithal had no power to seize Singla Traders' plant/machinery worth Rs.17.20 lakh, matching card exactly."
+  },
+  {
+    "id": 93,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.freepressjournal.in/mumbai/bombay-hc-directs-fda-to-promptly-revoke-licence-suspensions-once-deficiencies-are-rectified",
+      "https://www.livelaw.in/high-court/bombay-high-court/maharashtra-fda-revoke-food-license-suspension-after-compliance-548963"
+    ],
+    "note": "Confirmed Bombay HC (Acting CJ Ghuge, Justice Ankhad) directed FDA to promptly revoke Siddharth Agro's licence suspension once deficiencies fixed, matching card closely (order reported as 28 Aug, close to card's Sep 9, 2026)."
+  },
+  {
+    "id": 94,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/delhi-hc-rejects-vimal-elaichis-plea-against-maharashtra-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff",
+      "https://courtbook.in/posts/delhi-high-court-dismisses-p-b-agros-plea-against-fssai-notice-over-lack-of-territorial-jurisdiction"
+    ],
+    "note": "Confirmed Delhi HC (Justice Swarana Kanta Sharma) dismissed P.B. Agro's (Vimal Elaichi) plea against Maharashtra FDA notice for lack of territorial jurisdiction, matching card exactly."
+  },
+  {
+    "id": 95,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://blog.primelegal.in/?p=60842",
+      "https://www.supremecourtcases.com/hari-dutta-sharma-v-state-of-u-p-and-others/amp/"
+    ],
+    "note": "Confirmed SC (2026 INSC 998, Narasimha & Aradhe JJ, decided 16 Sep 2026) held repossession must be exercised with great circumspection, awarding compensation for forcible vehicle seizure, matching card exactly."
+  },
+  {
+    "id": 96,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/nclat/nclat-dismisses-ibbi-delayed-appeal-section-198-cannot-override-section-61-ibc-525098",
+      "https://www.taxmann.com/post/blog/103-day-delay-in-ibbi-appeal-dismissed-under-ibc-section-61-nclat/"
+    ],
+    "note": "Duplicate card of id 39; same confirmed NCLAT holding that Section 198 IBC cannot condone delay beyond Section 61(2)'s outer limit."
+  },
+  {
+    "id": 97,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://moneylife.in/article/completely-unsustainable-supreme-court-sets-aside-nclt-nclat-rulings-in-600-crore-case/79775.html",
+      "https://www.supremecourtcases.com/catalyst-trusteeship-ltd-v-ecstasy-realty-pvt-ltd/amp/"
+    ],
+    "note": "Duplicate card of id 40; same confirmed SC ruling restoring Catalyst Trusteeship's Rs.600 crore Section 7 insolvency petition."
+  },
+  {
+    "id": 98,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/state-bank-of-india-v-pallabh-bhowmik-and-ors-special-leave-to-appeal-c-no-306772024-1563572",
+      "https://www.livelaw.in/amp/supreme-court/bank-should-remain-vigilant-supreme-court-holds-sbi-liable-to-refund-amount-to-customer-who-reported-fraudulent-transaction-280100"
+    ],
+    "note": "Confirmed SC dismissed SBI's appeal, applying RBI's 6 Jul 2017 zero-liability circular, holding bank liable for unauthorised digital transactions, matching card exactly."
+  },
+  {
+    "id": 99,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.barandbench.com/news/delhi-high-court-asks-rbi-to-mediate-payus-dispute-with-banks-and-visa-over-merchant-codes",
+      "https://lawchakra.in/high-court/delhi-high-court-payu-visa-irf-escrow-rbi-mediator-mcc/"
+    ],
+    "note": "Confirmed Delhi HC (Justice Subramonium Prasad), order of 14 Sep, directed RBI to mediate PayU's interchange-fee dispute with Visa/Yes Bank/ICICI Bank, matching card."
+  },
+  {
+    "id": 100,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/bombay-high-court-directs-sbi-to-pay-compensation-for-lost-title-deeds-despite-borrower-delay-20260907042",
+      "https://www.livelawbiz.com/banking-nbfc/borrower-is-entitled-to-expect-bank-to-safeguard-and-return-title-documents-after-repaying-loan-bombay-high-court-548704"
+    ],
+    "note": "Confirmed Bombay HC Division Bench directed SBI to pay Rs.5,000/day compensation for losing In Vogue Creations' title documents, matching card exactly."
   }
 ]
