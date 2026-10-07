@@ -227,5 +227,74 @@
     "verdict": "NOT_FOUND",
     "evidence": [],
     "note": "No search result reports a Bombay HC case between Ashford Leasing and Greenfield Industries on indemnity versus guarantee."
+  },
+  {
+    "id": 31,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Delhi HC disclosure case between Highgate Pharma and Continental Packaging Co."
+  },
+  {
+    "id": 32,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Karnataka HC case between Zenith Constructions and Falcon Engineering on expert evidence."
+  },
+  {
+    "id": 33,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Madras HC representative suit between Coastal Hardware Dealers' Collective and Union Fasteners Ltd."
+  },
+  {
+    "id": 34,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Delhi HC running-account limitation case between Meritage Traders and Sunrise Wholesalers."
+  },
+  {
+    "id": 35,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Gujarat HC limitation case between Windsor Apparel Exports and Nortex Fabrics."
+  },
+  {
+    "id": 36,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Punjab & Haryana HC Sale of Goods Act case between Amberline Traders and Northgate Distributors."
+  },
+  {
+    "id": 37,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Delhi HC exclusivity-clause case between Continental Fastening Systems and Apex B2B Marketplace."
+  },
+  {
+    "id": 38,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.verdictum.in/app-lite/calcutta-high-court/jones-lang-lasalle-property-consultants-india-private-limited-v-m-a-leasing-and-construction-pvt-ltd-cs-com-1712025-us-141-limitation-act-1613625",
+      "https://knallp.com/can-time-spent-in-a-failed-section-9-proceeding-be-excluded-under-section-14-of-the-limitation-act-calcutta-high-court-clarifies-in-jll-v-m-a-leasing/"
+    ],
+    "note": "Confirmed Calcutta HC Commercial Division (Justice Aniruddha Roy) case, judgment 6 May 2026, excluding time spent in failed Section 9 IBC proceeding under Section 14(1) Limitation Act, matching card exactly."
+  },
+  {
+    "id": 39,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/nclat/nclat-dismisses-ibbi-delayed-appeal-section-198-cannot-override-section-61-ibc-525098",
+      "https://www.taxmann.com/post/blog/103-day-delay-in-ibbi-appeal-dismissed-under-ibc-section-61-nclat/"
+    ],
+    "note": "Confirmed NCLAT held Section 198 IBC cannot be used to condone delay beyond Section 61(2) outer limit in IBBI v Truvisory matter, matching card."
+  },
+  {
+    "id": 40,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://moneylife.in/article/completely-unsustainable-supreme-court-sets-aside-nclt-nclat-rulings-in-600-crore-case/79775.html",
+      "https://www.supremecourtcases.com/catalyst-trusteeship-ltd-v-ecstasy-realty-pvt-ltd/amp/"
+    ],
+    "note": "Confirmed SC set aside NCLT/NCLAT rulings as perverse/unsustainable in Rs 600 crore Section 7 case, informal restructuring negotiations rejected as defense, matching card exactly."
   }
 ]
