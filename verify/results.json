@@ -1131,5 +1131,86 @@
       "https://www.barandbench.com/news/litigation/advocates-acting-as-insolvency-professionals-liable-to-collect-deposit-gst-delhi-high-court"
     ],
     "note": "Confirmed Delhi HC held advocate-insolvency-professional Kanwal Chaudhary liable to GST under forward charge (not reverse charge) for his IP work, matching card exactly."
+  },
+  {
+    "id": 141,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://supremetoday.ai/supreme-court-dismisses-revenues-slps-in-samsung-transfer-pricing-case-due-to-609-day-delay-20260904019",
+      "https://www.livelawbiz.com/top-stories/supreme-court-dismisses-revenues-plea-against-samsung-india-over-609-days-gross-delay-548250"
+    ],
+    "note": "Confirmed SC (Justices Pardiwala, Vinod Chandran), 31 Aug 2026, dismissed Revenue's SLPs against Samsung India over unexplained 609/457-day delays, matching card exactly."
+  },
+  {
+    "id": 142,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://taxguru.in/?p=1083865"
+    ],
+    "note": "Confirmed Calcutta HC quashed GST registration-cancellation SCN/suspension against Termico Engineers over an unquantified Rs.8.04 crore ITC mismatch without first verifying suppliers, matching card exactly."
+  },
+  {
+    "id": 143,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://atblegal.com/blog/encashment-delay-and-force-majeure-a-case-analysis-of-ntpc-vs-ptpl/"
+    ],
+    "note": "Confirmed APTEL case involving NTPC and WBSEDCL applying strict construction of force majeure clauses, consistent with card's holding."
+  },
+  {
+    "id": 144,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.sahi.com/news/jsw-energy-supreme-court-agrees-to-urgently-hear-maharashtra-discom-s-tariff-appeal-3604-PE1_COR",
+      "https://www.psuconnect.in/power-sector-news/appellate-tribunal-dismisses-msedcl-appeal-against-merc-approach-in-tariff-dispute-with-jsw-energy"
+    ],
+    "note": "Confirmed APTEL dismissed MSEDCL's appeal/review and SC agreed to urgently hear MSEDCL's further appeal over the ~Rs.600 crore JSW Energy Ratnagiri tariff dispute, matching card exactly."
+  },
+  {
+    "id": 145,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://mercomindia.com/aptel-rejects-captive-power-status-over-26-ownership-requirement"
+    ],
+    "note": "Confirmed APTEL dismissed Piccadily Agro/Piccadily Hotels' appeal, upholding HERC's denial of captive status for failing the 26% ownership threshold, matching card exactly."
+  },
+  {
+    "id": 146,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/"
+    ],
+    "note": "APTEL actually set aside HERC's order favouring the higher Rs.6.44/kWh tariff and upheld the lower Rs.5.68/kWh rate for Siwana; the card's headline inverts this, framing it as APTEL enforcing the 'original'/higher tariff over HERC's revised rate."
+  },
+  {
+    "id": 147,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://mercomindia.com/aptel-rejects-captive-power-status-over-26-ownership-requirement"
+    ],
+    "note": "Duplicate card of id 145; same confirmed APTEL ruling on the 26% captive-ownership threshold for Piccadily Agro/Piccadily Hotels."
+  },
+  {
+    "id": 148,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lapaasvoice.com/jsw-hydro-aptel-idc-claim/",
+      "https://www.indiaipo.in/news/detail/jsw-energy-arm-jsw-hydro-energy-wins-appeal-against-cerc-order-on-interest-claim"
+    ],
+    "note": "Confirmed APTEL (18 Sep 2026) set aside CERC's 17 Mar 2022 order and allowed JSW Hydro Energy's notional IDC claim on equity above the normative 30% threshold, matching card exactly."
+  },
+  {
+    "id": 149,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/"
+    ],
+    "note": "Confirmed APTEL (Officiating Chairperson Seema Gupta, Justice Virender Bhat), 18 Sep 2026, set aside HERC's order reviving a previously-settled Siwana tariff claim, consistent with card's holding (contrast with card 146's inverted framing of the same underlying dispute)."
+  },
+  {
+    "id": 150,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "Real captive-mine liberalisation rules exist, but they were notified as the Minerals Concession (Second Amendment) Rules, 2026 on 30 Mar 2026 (final, not draft), not as 'draft rules' dated Jul 1, 2026 as the card states; no specific July 2026 draft-rules document found."
   }
 ]
