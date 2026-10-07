@@ -1212,5 +1212,77 @@
     "verdict": "NOT_FOUND",
     "evidence": [],
     "note": "Real captive-mine liberalisation rules exist, but they were notified as the Minerals Concession (Second Amendment) Rules, 2026 on 30 Mar 2026 (final, not draft), not as 'draft rules' dated Jul 1, 2026 as the card states; no specific July 2026 draft-rules document found."
+  },
+  {
+    "id": 151,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://www.mondaq.com/india/oil-gas-electricity/1760414/the-power-of-central-electricity-regulatory-commission-to-refer-disputes-to-arbitration-under-electricity-act-2003-guvnl-v-tata-power-ltd-ors",
+      "https://www.eqmagpro.com/wp-content/uploads/2026/06/13-RP-2026_110626_compressed.pdf"
+    ],
+    "note": "Real ongoing GUVNL v Tata Power dispute over referring non-tariff disputes to arbitration confirmed, but the review petition (RP 13/2026) was filed by GUVNL against Tata Power, not by Tata Power against GUVNL as the card's case caption states."
+  },
+  {
+    "id": 152,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://order.law/library/courts/supreme-court/2026/mar/SCIN010597372025-32bun/steag-energy-services-india-pvt-ltd-v-gspc-pipavav-power-company-ltd-gppc",
+      "https://lawtrend.in/courts-must-exercise-restraint-in-tender-matters-sc-sets-aside-hc-order-interfering-with-loa-in-gppc-contract/"
+    ],
+    "note": "Duplicate card of id 12; same confirmed SC ruling on judicial restraint in reviewing technical tender/contract evaluation in Steag Energy Services v GSPC Pipavav Power."
+  },
+  {
+    "id": 153,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/arbitration/high-court/delhi-hc-upholds-stay-on-encashment-of-bank-guarantees-upon-detailed-reading-of-the-document-537133"
+    ],
+    "note": "Confirmed Delhi HC dismissed NHIDCL's appeal against a stay on bank-guarantee encashment and appointed Justice Arun Mishra as arbitrator in Sadhguru Engineers' NH-37 dispute, matching card broadly; exact date (card: Feb 24, 2026) not independently confirmed (source cites a May 19 ruling)."
+  },
+  {
+    "id": 154,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://rawlaw.in/delhi-high-court-quashes-nhais-two-year-debarment-of-highway-consultant-holds-ordinary-contractual-breach-without-fraud-or-collusion-cannot-justify-such-blacklisting-action/"
+    ],
+    "note": "Confirmed Delhi HC quashed NHAI's two-year debarment of Sai Consulting Engineers over DPR consultancy breaches, holding fraud/collusion is required for blacklisting, matching card exactly."
+  },
+  {
+    "id": 155,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/high-court/allahabad-high-court/livelaw-allahabad-high-court-weekly-round-up-july-27-august-02-2026-544344"
+    ],
+    "note": "Confirmed case citation 2026 LiveLaw (AB) 485 exists for U.P. State Highways Authority v Abhijeet Meerut Karnal Toll Road Limited at Allahabad HC, consistent with card."
+  },
+  {
+    "id": 156,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Delhi HC case between Coastal Waterworks Infra and a State Urban Development Authority on water-PPP user-charge revision."
+  },
+  {
+    "id": 157,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports an NCLAT case between Smart Urban Systems Ltd. and a City Smart City SPV Ltd. resolution professional."
+  },
+  {
+    "id": 158,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Kerala HC case between Backwater Infra Development Corp. and the State Pollution Control Board on environmental clearance relaxation."
+  },
+  {
+    "id": 159,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Bombay HC case between Konkan Railworks Infrastructure Ltd. and a Regional Railway Corporation on track-access rights."
+  },
+  {
+    "id": 160,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No search result reports a Rajasthan HC case between Thar Infraprojects Ltd. and the State Public Works Department on defect liability period."
   }
 ]
