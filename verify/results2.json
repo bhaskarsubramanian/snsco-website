@@ -725,5 +725,93 @@
       "https://www.mondaq.com/india/financial-services/1763750/rbis-2026-digital-banking-and-governance-overhaul-key-action-points-for-banks-and-nbfcs"
     ],
     "note": "Matches RBI's requirement that banks submit board-approved group-level compliance plans (structurally separating core banking from higher-risk group activities) by March 31, 2026."
+  },
+  {
+    "id": 91,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelawbiz.com/amp/high-court/kerala-high-court/pre-deposit-for-filing-appeal-under-sarfaesi-act-must-be-made-before-drat-not-bank-kerala-high-court-518221",
+      "https://www.livelaw.in/amp/high-court/kerala-high-court/kerala-high-court-drat-50-of-debt-due-pre-deposit-appeals-us-18-sarfaesi-act-subject-matter-309689"
+    ],
+    "note": "Matches the Kerala HC Division Bench ruling (Kerala Gramin Bank appeal) that the Section 18 SARFAESI pre-deposit must be made with DRAT, not the lending bank."
+  },
+  {
+    "id": 92,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.businesstoday.in/amp/personal-finance/insurance/story/sabka-bima-sabki-raksha-amendment-of-insurance-laws-bill-passed-in-parliament-key-details-here-507128-2025-12-17",
+      "https://sarafpartners.com/?p=43060"
+    ],
+    "note": "Matches Parliament's passage of the Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025 (Rajya Sabha Dec 17, 2025; assent Dec 20, 2025), close to the card's Jan 2026 date."
+  },
+  {
+    "id": 93,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-stays-direction-mandating-second-level-human-review-of-rejected-rbi-ombudsman-complaints-517299",
+      "https://lawtrend.in/delhi-high-court-stays-direction-requiring-second-level-human-review-of-rbi-ombudsman-rejections/"
+    ],
+    "note": "Matches the Delhi HC division bench staying the single judge's direction requiring second-level human review of RBI-Ombudsman-rejected complaints."
+  },
+  {
+    "id": 94,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.business-standard.com/amp/markets/news/sebi-bars-26-individuals-imposes-1-85-cr-penalty-for-manipulation-126010100719_1.html",
+      "https://caalley.com/news-updates/indian-news/sebi-bars-26-individuals-imposes-1-85-cr-penalty-in-sme-stock-case"
+    ],
+    "note": "Matches SEBI's order barring 26 individuals and imposing a \u20b91.85 crore penalty for coordinated price manipulation in SME-listed DU Digital Global."
+  },
+  {
+    "id": 95,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.taxmann.com/post/blog/rbi-amends-directions-on-commercial-banks-to-cover-nbfcs-and-hfcs-as-group-entities/",
+      "https://vinodkothari.com/2025/12/shastrartha-25-regulations-for-banking-group-entities/"
+    ],
+    "note": "Matches the RBI (Commercial Banks \u2013 Undertaking of Financial Services) (Amendment) Directions, 2025, effective Dec 5, 2025, imposing group-level restrictions."
+  },
+  {
+    "id": 96,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/high-court/kerala-high-court/kerala-high-court-article-226-bank-ots-not-maintainable-303352",
+      "https://rawlaw.in/kerala-high-court-ombudsman-cannot-mandate-one-time-settlement-without-a-valid-scheme-neither-courts-nor-quasi-judicial-authorities-could-compel-financial-institutions-to-provide-ots-terms-when-no/"
+    ],
+    "note": "Matches the Kerala HC ruling (M/s Classic Agencies v. Indian Overseas Bank, 2025 LiveLaw (Ker) 553) dismissing a writ seeking OTS as a matter of right."
+  },
+  {
+    "id": 97,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://mondaq.com/india/financial-services/1513042/directions-for-treatment-of-wilful-and-large-defaulters"
+    ],
+    "note": "Matches RBI's Master Directions on Treatment of Wilful and Large Defaulters (issued Nov 28, 2025), which set out the mandatory two-stage identification and review committee process."
+  },
+  {
+    "id": 98,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://cbcl.nliu.ac.in/banking-law/rbis-prudential-framework-for-resolution-of-stressed-assets-its-modus-operandi-analysis-and-implications/"
+    ],
+    "note": "Matches the continued applicability of RBI's June 2019 Prudential Framework for Resolution of Stressed Assets, unaffected by the 2026 IRAC Directions overhaul (effective 2027)."
+  },
+  {
+    "id": 99,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://hyperverge.co/blog/rbi-kyc-guidelines/",
+      "https://resources.probe42.in/regulatory-updates/rbi-circulars/kyc-updation-guidelines-2025/"
+    ],
+    "note": "Matches RBI's Nov 28, 2025 KYC Master Direction updates, including periodic re-KYC risk-tiered intervals and expanded Video-based Customer Identification Process coverage (e.g., to payment aggregators)."
+  },
+  {
+    "id": 100,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://mas360.moneylife.in/article/rbi-releases-guidelines-for-banks-on-penal-charges-bringing-some-comfort-to-borrowers/4303.html",
+      "https://www.taxmann.com/post/blog/analysis-rbis-guidelines-on-penal-charges-ensure-responsible-lending-practices/"
+    ],
+    "note": "Matches RBI's real Fair Lending Practice \u2013 Penal Charges framework (2023) and its documented concern over banks disguising penal interest as penal charges, consistent with a continuing supervisory review finding."
   }
 ]
