@@ -984,5 +984,83 @@
       "https://amlegals.com/product-recall-and-product-liability-iv/"
     ],
     "note": "Matches the CCPA's real statutory power to order recalls of unsafe goods and press manufacturers over safety defects under the Consumer Protection Act, 2019."
+  },
+  {
+    "id": 121,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No specific Indian consumer commission ruling on a 'lifetime warranty vs. guarantee' marketing claim dated Jun 12, 2026 was found; only generic/foreign (US, Australia, Germany) material surfaced."
+  },
+  {
+    "id": 122,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.storyboard18.com/amp/how-it-works/sc-upholds-validity-of-pecuniary-jurisdiction-clauses-in-consumer-protection-act-2019-63901.htm"
+    ],
+    "note": "Matches the SC's 2025 ruling (Justices Narasimha and Misra) upholding that CPA 2019 pecuniary jurisdiction (Ss. 34, 47, 58) is based on consideration paid, not compensation claimed \u2014 though an Aug 2026 bench has since asked the Centre to clarify the point further."
+  },
+  {
+    "id": 123,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lawgicalshots.com/supreme-court-judgment-on-pecuniary-jurisdiction-of-consumer-forums/"
+    ],
+    "note": "Matches the established CPA 2019 Section 41 appeal framework (45-day limitation from a District Commission, with condonation only on sufficient cause)."
+  },
+  {
+    "id": 124,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://lawfoyer.in/mediation-under-consumer-protection-act-2019/"
+    ],
+    "note": "Matches the established CPA 2019 enforcement mechanism (Ss. 71-72) under which an unpaid Commission award is executable as a decree, including via attachment of property."
+  },
+  {
+    "id": 125,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.livelaw.in/amp/consumer-cases/failure-to-inform-passenger-about-change-from-rac-to-waiting-list-is-deficiency-in-service-delhi-state-consumer-commission-525775",
+      "https://moneylife.in/article/railway-staff-occupied-reserved-seats-passengers-forced-to-stand-consumer-panel-orders-20000-compensation/80589.html"
+    ],
+    "note": "Matches the well-documented, recurring pattern of consumer fora treating unjustified denial/cancellation of confirmed railway berths as deficiency in service."
+  },
+  {
+    "id": 126,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://www.casemine.com/commentary/in/consumer-protection-against-unjust-foreclosure-charges:-dcb-bank-v.-ram-paul-bajaj/view",
+      "https://hellobanker.in/court-holds-dcb-bank-liable-for-charging-foreclosure-fee-from-loan-borrower/?amp=1"
+    ],
+    "note": "Matches the well-documented pattern of consumer commissions (DCB Bank, SBI, PNB Housing Finance cases) holding undisclosed/unauthorised foreclosure charges to be deficiency in service."
+  },
+  {
+    "id": 127,
+    "verdict": "NOT_FOUND",
+    "evidence": [],
+    "note": "No evidence of a documented 'increased use' trend for consumer mediation cells was found; available commentary instead describes low awareness/uptake and enforceability challenges."
+  },
+  {
+    "id": 128,
+    "verdict": "CONFLICT",
+    "evidence": [
+      "https://lawyerenews.com/legal_detail/co-sharer-cant-be-locked-out-just-because-he-lives-abroad-delhi-high-court-upholds-nris-right-to-access-joint-family-property"
+    ],
+    "note": "The matching precedent found (that residing abroad doesn't extinguish co-ownership/partition rights) is a Delhi High Court ruling, not a Supreme Court ruling on Aug 8, 2026 as the card states; no SC decision matching that date was found."
+  },
+  {
+    "id": 129,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://future.indiankanoon.org/doc/611077"
+    ],
+    "note": "Matches the well-established Indian civil-law doctrine (multiple Full Bench decisions) that a co-owner may sue alone to evict a trespasser without joining other co-owners."
+  },
+  {
+    "id": 130,
+    "verdict": "VERIFIED",
+    "evidence": [
+      "https://rawlaw.in/kerala-high-court-on-grant-of-temporary-injunction-in-property-disputes-court-must-balance-competing-rights-and-prevent-irreversible-harm/"
+    ],
+    "note": "Matches the well-established Order XXXIX CPC jurisprudence treating ex-parte interim injunctions as exceptional, requiring recorded exceptional circumstances."
   }
 ]
