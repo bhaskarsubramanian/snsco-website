@@ -623,11 +623,6 @@
   status = 301
 
 [[redirects]]
-  from = "/legal-news/rera-vs-civil-court-section-79-bar-title-dispute.html"
-  to = "/legal-news/"
-  status = 301
-
-[[redirects]]
   from = "/legal-news/rerat-appeal-limitation-condonation-sufficient-cause.html"
   to = "/legal-news/"
   status = 301
@@ -654,11 +649,6 @@
 
 [[redirects]]
   from = "/legal-news/supreme-court-section-11-prima-facie-review-existence.html"
-  to = "/legal-news/"
-  status = 301
-
-[[redirects]]
-  from = "/legal-news/supreme-court-serious-fraud-not-arbitrable.html"
   to = "/legal-news/"
   status = 301
 
