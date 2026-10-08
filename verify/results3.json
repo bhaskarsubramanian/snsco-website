@@ -1,79 +1,594 @@
 [
- {"id": 1, "verdict": "NOT_FOUND", "evidence": [], "note": "No search result reports a case 'State of Odisha v. Dhanurdhar Champatiray' or this Section 37/writ holding by Justice B.P. Routray; only an unrelated Dhanurdhar Champatiray v. Union of India listing turned up."},
- {"id": 2, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/app-lite/supreme-court/jk-economic-reconstruction-agency-v-rash-builders-india-private-limited-2026-insc-368-seat-venue-arbitration-1612216?hasShare=1", "https://www.mondaq.com/india/arbitration-dispute-resolution/1793444/seat-of-arbitration-determines-supervisory-jurisdiction-not-the-venue-where-hearings-are-conducted-supreme-court"], "note": "Confirmed: SC held Srinagar (seat) alone has supervisory jurisdiction over New Delhi (venue), decided Apr 15, 2026, 2026 INSC 368, matches headline/summary."},
- {"id": 3, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/jan-de-nul-dredging-india-pvt-ltd-v-tuticorin-port-trust-2026-insc-34-arbitral-award-1603865", "https://mondaq.com/india/trials-appeals-compensation/1754928/courts-cannot-reassess-merits-or-re-interpret-the-contract-under-sections-34-and-37-of-the-arbitration-act-supreme-court-of-india-reiterates"], "note": "Confirmed: decided Jan 7, 2026, 2026 INSC 34, SC held Section 37 scrutiny cannot exceed Section 34 grounds, matches card exactly."},
- {"id": 4, "verdict": "CONFLICT", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/glencore-international-ag-v-ms-shree-ganesh-metals-and-another-2025-insc-1036-arbitration-and-reconciliation-delhi-high-court-1589327", "https://www.indialaw.in/blog/arbitration-and-conciliation/sc-unsigned-arbitration-agreements-still-enforceable/"], "note": "Case and holding (unsigned arbitration agreement binding via conduct/correspondence) are accurate, but neutral citation is 2025 INSC 1036, not '2025 SCC OnLine SC 1815' as the card states."},
- {"id": 5, "verdict": "VERIFIED", "evidence": ["https://www.barandbench.com/law-firms/view-point/key-takeaways-from-asf-buildtech-vs-shapoorji-pallonji-co", "https://lawsathi.in/judgements/sc/2025/asf-buildtech-private-limited-shapoorji-pallonji-company-private-limited/"], "note": "Citation 2025 INSC 616 and holding (tribunal can implead non-signatory via Group of Companies doctrine) confirmed; decision date appears to be May 2, 2025 rather than Jun 2025, a minor discrepancy."}
-,
- {"id": 6, "verdict": "VERIFIED", "evidence": ["https://www.livelaw.in/amp/supreme-court/tata-steel-ltd-raj-kumar-banerjee-s-612-ibc-appeal-filed-beyond-45-days-not-condonable-by-nclat-291537", "https://foxmandal.in/news/delay-beyond-45-days-in-ibc-appeals-barred-by-statute/"], "note": "Confirmed: decided May 7, 2025, cited as 2025 SCC OnLine SC 1042 (also 2025 INSC 639), SC held NCLAT cannot condone delay beyond 45-day outer limit under Section 61(2), matches card."},
- {"id": 7, "verdict": "CONFLICT", "evidence": ["https://www.scobserver.in/cases/courts-power-to-modify-an-arbitral-award/", "https://arbitrationblog.kluwerarbitration.com/?p=56898"], "note": "Case, 4:1 Constitution Bench holding, and Apr 30, 2025 date confirmed, but the neutral citation is 2025 INSC 605, not '2025 INSC 1057' as the card states."},
- {"id": 8, "verdict": "VERIFIED", "evidence": ["https://lawfoyer.in/adavya-projects-pvt-ltd-v-m-s-vishal-structurals-pvt-ltd-ors-2025-5-s-c-r-243-2025-insc-507/", "https://disputeresolution.cyrilamarchandblogs.com/2025/05/supreme-court-affirms-arbitrators-power-to-implead-non-signatories-another-pro-arbitration-ruling-or-a-step-too-far/"], "note": "Confirmed: decided Apr 17, 2025, 2025 INSC 507, SC held tribunal (not referral court) determines whether non-signatory is bound by arbitration agreement, matching card."},
- {"id": 9, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/bar-to-award-pendente-lite-interest-by-arbitrator-2025-insc-429-ferro-concrete-construction-india-pvt-ltd-v-state-of-rajasthan-1573189", "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/ferro-concrete-construction-india-v-state-of-rajasthanpayment-of-pendente-lite-interest-in-arbitration-m-s-ferro-concrete-construction-india-pvt-ltd-v-the-state-of-rajasthan/"], "note": "Confirmed: decided Apr 2, 2025, 2025 INSC 429, SC restored pendente lite interest (modified to 9%) under 1940 Act, matching card."},
- {"id": 10, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/app-lite/court-updates/supreme-court/disortho-sas-v-meril-life-sciences-private-limited-2025-insc-352-lex-contractus-arbitration-agreement-1571511?hasShare=1", "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/indian-courts-have-jurisdiction-where-arbitration-agreement-is-governed-by-indian-law/"], "note": "Confirmed: decided Mar 18, 2025, 2025 INSC 352, SC held venue (Bogota) does not determine governing law of arbitration agreement, lex contractus (Indian law) governs, matching card."}
-,
- {"id": 11, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/app-lite/court-updates/supreme-court/c-c-constructions-ltd-v-ircon-international-ltd-2025-insc-138-arbitration-act-1566656?hasShare=1", "https://www.livelaw.in/amp/supreme-court/supreme-court-judgment-limited-scope-power-to-review-arbitral-award-section-37-arbitration-act-282832"], "note": "Confirmed: decided Jan 31, 2025, 2025 INSC 138, SC reiterated narrow Section 37 scope mirroring Section 34, matches card."},
- {"id": 12, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/serosoft-solutions-pvt-ltd-v-dexter-capital-advisors-pvt-ltd-2025-insc-26-f-judicial-restraint-interfering-arbitration-agreement-1563367", "https://www.argus-p.com/updates/updates/supreme-court-high-courts-may-interfere-under-article-226227-only-if-the-arbitral-tribunals-order-is-glaringly-perverse/"], "note": "Confirmed: decided Jan 3, 2025, 2025 INSC 26, SC held Art. 226/227 interference requires perversity on face of record, matches card."},
- {"id": 13, "verdict": "VERIFIED", "evidence": ["https://www.scobserver.in/supreme-court-observer-law-reports-scolr/gvv-constructions-v-union-of-india-determination-of-excepted-matters-under-the-arbitration-act/", "https://www.sansalegal.com/post/supreme-court-holds-an-arbitral-tribunal-under-section-16-decides-whether-a-dispute-falls-within-an"], "note": "Confirmed: decided Sep 8, 2026, 2026 INSC 976, SC held tribunal under Section 16 (not a court) decides whether a claim is an 'excepted matter', writ appellate court cannot predetermine jurisdiction; matches card."},
- {"id": 14, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/c-velusamy-v-k-indhera-2026-insc-112-arbitration-statutory-limit-section-29a-technicality-1606443", "https://disputeresolution.cyrilamarchandblogs.com/2026/04/when-the-clock-runs-out-the-supreme-court-reaffirms-courts-power-to-extend-arbitrators-mandate-post-award/"], "note": "Confirmed: decided Feb 3, 2026, 2026 INSC 112, SC held Section 29A(5) extension application maintainable even after mandate expiry and even after an award was rendered, matches card."},
- {"id": 15, "verdict": "VERIFIED", "evidence": ["https://taxguru.in/?p=1072030", "https://www.taxsutra.com/lsi/rulings/competition-law?page=1"], "note": "A CCI order fining JK Tyre/CEAT's dealers Rekha Agencies and SS Marketing for bid-rigging in an HRTC tender while exonerating the manufacturers is corroborated (taxsutra headlines it as an HRTC tender case), though exact tender year (2013 vs. other reports citing a Haryana 2018 tender) could not be fully pinned down."}
-,
- {"id": 16, "verdict": "VERIFIED", "evidence": ["https://www.livelaw.in/amp/supreme-court/commercial-courts-act-documents-being-voluminous-no-excuse-for-their-belated-production-supreme-court-540616", "https://www.barandbench.com/news/litigation/even-a-snail-may-question-the-speed-of-trial-supreme-court-on-delay-in-commercial-suit-before-delhi-hc"], "note": "Confirmed: decided Jul 9, 2026, 2026 INSC 674, SC held voluminous evidence does not excuse belated production under Commercial Courts Act, matches card."},
- {"id": 17, "verdict": "VERIFIED", "evidence": ["https://www.livelaw.in/amp/supreme-court/s138-ni-act-multiple-complaints-can-be-filed-over-dishonour-of-several-cheques-from-same-transaction-supreme-court-518457", "https://taxguru.in/?p=1081434"], "note": "Confirmed: decided Jan 8, 2026, 2026 INSC 40, SC held each dishonoured cheque gives rise to a distinct cause of action under Section 138 NI Act, matches card."},
- {"id": 18, "verdict": "VERIFIED", "evidence": ["https://www.indialaw.in/blog/negotiable-instrument/sc-wrong-amount-in-demand-notice-invalidates-complaint/", "https://www.caseciter.com/kaveri-plastics-v-mahdoom-bawa-bahrudeen-noorul-2025-insc-1133-s-138-ni-act-demand-notice-cheque-amount/"], "note": "Confirmed: decided Sep 19, 2025, 2025 INSC 1133, demand notice sought Rs. 2 crore vs. Rs. 1 crore cheque, complaint quashed, exactly matches card."},
- {"id": 19, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/supreme-court/national-seeds-corporation-ltd-v-national-agro-seed-corporation-india-2026-insc-1017-order-xxi-rule-1-cpc-1622295", "https://www.livelaw.in/supreme-court/conditional-deposit-wont-stop-interest-if-award-holder-cant-freely-withdraw-it-supreme-court-550858"], "note": "Confirmed: decided Sep 18, 2026, 2026 INSC 1017, bench Narasimha & Aradhe JJ, SC held interest stops only on unconditional Order XXI Rule 1 CPC deposit, 12% interest affirmed, matches card."},
- {"id": 20, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/app-lite/court-updates/supreme-court/dhanbad-fuels-private-limited-v-union-of-india-2025-insc-696-commercial-courts-act-1577591?hasShare=1", "https://ksandk.com/newsletter/sc-pre-litigation-mediation-section-12a/"], "note": "Confirmed: decided May 15, 2025, 2025 INSC 696, SC held Section 12A rejection consequence applies prospectively from 20 Aug 2022, matches card."}
-,
- {"id": 21, "verdict": "VERIFIED", "evidence": ["https://supremetoday.ai/nclt-chennai-initiates-insolvency-against-senthil-kumar-us-based-personal-guarantor-of-prc-hotels-20260916062", "https://www.livelawbiz.com/amp/nclt/national-company-law-tribunal-chennai-personal-guanator-overseas-residence-no-bar-proceedings-insolvency-and-bankruptcy-code-550160"], "note": "Confirmed: NCLT Chennai admitted Section 95 petition against US-resident personal guarantor Senthil Kumar on Sep 7, 2026, holding residence abroad is no bar, matches card."},
- {"id": 22, "verdict": "NOT_FOUND", "evidence": [], "note": "No search result mentions a case styled 'Pankaj Chhabildas Sheth v. Abhyudaya Co-Operative Bank' at the NCLAT; only unrelated Abhyudaya Bank personal-guarantor matters (different parties) turned up."},
- {"id": 23, "verdict": "VERIFIED", "evidence": ["https://supremetoday.ai/nclat-holds-personal-guarantors-bound-by-drts-final-liability-under-insolvency-code-20260923035", "https://www.livelawbiz.com/ibc/personal-guarantors-cannot-re-agitate-limited-liability-after-drt-crystallises-entire-debt-nclat-551265"], "note": "Confirmed: NCLAT dismissed appeals by Archon Engicon personal guarantors (~Rs 149.26 crore liability), decided Sep 22, 2026, holding finalised DRT liability cannot be reopened under Section 114 IBC, matches card."},
- {"id": 24, "verdict": "VERIFIED", "evidence": ["https://supremetoday.ai/does-ibc-order-on-property-possession-create-landlord-tenant-dispute-nclat-answers-no-20260926044", "https://psuwatch.com/amp/story/newsupdates/nclat-says-liquidator-can-recover-company-assets-through-nclt-need-not-approach-rent-controller"], "note": "Confirmed: NCLAT (decided ~Sep 24, 2026) upheld liquidator Pramod Kumar Misra's recovery of Venus Garments premises from Duke Fashions, rejecting reliance on East Punjab Urban Rent Restriction Act, 1949, matches card."},
- {"id": 25, "verdict": "NOT_FOUND", "evidence": [], "note": "The case Satinder Singh Bhasin v. Col. Gautam Mullick is confirmed to exist at the Supreme Court (disposed Feb 2, 2026), but no search result reports its holding on the 100-allottee Section 7 threshold or registration-date rule described in the card."}
-,
- {"id": 26, "verdict": "CONFLICT", "evidence": ["https://www.livelaw.in/amp/ibc-cases/penalties-under-section-65-of-the-ibc-code-can-be-imposed-on-those-who-initiate-insolvency-process-nclat-principal-bench-286331", "https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-january-16-january-31-2025"], "note": "Case and Section 65 holding (CIRP terminated for collusive/fraudulent Section 7 application, penalty standard beyond reasonable doubt) confirmed, but decided Jan 16, 2025, not 'Dec 2025' as the card states."},
- {"id": 27, "verdict": "CONFLICT", "evidence": ["https://www.dtnext.in/topic/hinduja-leyland-finance-ltd"], "note": "An NCLAT order titled Avil Menezes v. Hinduja Leyland Finance Ltd (CA(AT)(Ins) No. 555/2024) exists and was 'Allowed', but it is dated Jan 21, 2025, not 'Nov 2025' as the card states, and no source confirms the consortium-charge/NOC holding described."},
- {"id": 28, "verdict": "CONFLICT", "evidence": ["https://lawsathi.in/judgements/sc/2024/state-bank-india-india-power-corporation-limited/"], "note": "The underlying facts (NCLT Hyderabad condoned SBI's rejoinder delay but excluded its factual assertions; SBI's Civil Appeal 8178/2023 against the NCLAT order) are confirmed, and that appeal was marked 'Allowed', but the order is recorded as dated Feb 14, 2025, not 'Jul 2025' as the card states."},
- {"id": 29, "verdict": "CONFLICT", "evidence": ["https://foxmandal.in/news/supreme-court-sets-aside-jsw-steels-resolution-plan-for-bpsl/", "https://www.scconline.com/blog/post/2025/08/02/supreme-court-recalls-bhushan-steel-liquidation-judgment-jsw-resolution-plan-for-bpsl/"], "note": "The SC did set aside JSW's BPSL plan and order liquidation, but on May 2, 2025 (not 'Jun 2025'), and that judgment was recalled by the Supreme Court on review on Jul 31, 2025, with a later Sep 2025 ruling reported as upholding JSW's plan -- so the holding as presented is no longer the operative law."},
- {"id": 30, "verdict": "CONFLICT", "evidence": ["https://legalblogs.wolterskluwer.com/competition-blog/supreme-court-ruling-shakes-up-insolvency-and-competition-approvals-in-india/", "https://www.maheshwariandco.com/press-release/supreme-court-declares-prior-cci-approval-mandatory-for-resolution-plans-involving-combinations-under-ibc/"], "note": "The holding (prior CCI approval under Section 31(4) proviso is mandatory, not directory, reversing NCLT/NCLAT in the Hindustan National Glass/AGI Greenpac matter) is confirmed, but decided Jan 29, 2025, not 'Jun 2025' as the card states."}
-,
- {"id": 31, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/visa-coke-limited-v-mesco-kalinga-steel-limited-2025-insc-597-demand-notice-ibc-1575825", "https://www.livelaw.in/amp/supreme-court/visa-coke-vs-mesco-kalinga-steel-s-8-ibc-service-demand-notice-corporate-debtors-key-managerial-personnel-valid-290772"], "note": "Confirmed: SC (Pardiwala & Mahadevan JJ) held Section 8 demand notice delivered to KMP at registered office is valid deemed service, matches card; neutral citation found was 2025 INSC 597 (card's '2025 ibclaw.in 168 SC' not independently confirmed but not contradicted)."},
- {"id": 32, "verdict": "VERIFIED", "evidence": ["https://www.livelaw.in/amp/supreme-court/tata-steel-ltd-raj-kumar-banerjee-s-612-ibc-appeal-filed-beyond-45-days-not-condonable-by-nclat-291537", "https://foxmandal.in/news/delay-beyond-45-days-in-ibc-appeals-barred-by-statute/"], "note": "Duplicate of card 6: confirmed decided May 7, 2025, 2025 SCC OnLine SC 1042, SC held NCLAT cannot condone delay beyond 45-day Section 61(2) limit, matches card."},
- {"id": 33, "verdict": "VERIFIED", "evidence": ["https://foxmandal.in/news/pre-deposit-not-always-mandatory/", "https://www.scconline.com/blog/?p=348987"], "note": "Confirmed: SC decided Sunshine Builders v. HDFC Bank, CA No. 5290/2025, on Apr 17, 2025, holding Section 18 SARFAESI pre-deposit need not apply mechanically to procedural/interim DRT orders (impleadment, delay condonation), matches card."},
- {"id": 34, "verdict": "CONFLICT", "evidence": ["https://www.indialaw.in/blog/insolvency-bankruptcy/power-of-attorney-validity-clarified-by-nclat-in-2025-judgment/", "https://www.livelawbiz.com/amp/ibc-cases/a-power-of-attorney-can-be-executed-by-officers-nominated-by-designation-not-necessarily-by-name-nclat-new-delhi-301127"], "note": "Case and holding (PoA executed by designation, not name, valid for IBC filings) confirmed, but NCLAT decided it Aug 7, 2025, not 'Mar 2025' as the card states."},
- {"id": 35, "verdict": "VERIFIED", "evidence": ["https://order.law/library/courts/supreme-court/2026/may/SCIN010681282025-58dos/angelwoods-apartment-allottees-association-v-m-lalitha", "https://lawsathi.in/judgements/sc/2026/angelwoods-apartment-allottees-association-lalitha-another/"], "note": "Confirmed: decided May 12, 2026, 2026 INSC 479, case title and bench (Sanjay Kumar, K.V. Chandran JJ) match card exactly; outcome recorded as 'appeal(s) allowed', consistent with the card's framing that the certified-copy-less NCLAT appeal was held incompetent."}
-,
- {"id": 36, "verdict": "VERIFIED", "evidence": ["https://www.barandbench.com/news/litigation/litigant-cannot-be-shown-the-door-for-nclat-portal-failure-supreme-court-restores-appeal-filed-one-day-late", "https://www.livelawbiz.com/top-stories/litigant-cannot-be-rendered-remediless-for-nclat-e-filing-system-failure-in-ibc-appeal-supreme-court-550373"], "note": "Confirmed: decided Sep 10, 2026, 2026 INSC 1003, bench Dipankar Datta & Sheel Nagu JJ, SC restored NCLAT appeal delayed one day by e-filing portal glitch, matches card exactly."},
- {"id": 37, "verdict": "VERIFIED", "evidence": ["https://rawlaw.in/supreme-court-quashes-insolvency-proceedings-over-time-barred-epc-dues-holds-subsisting-contract-cannot-create-continuing-cause-of-action-or-extend-limitation-under-ibc/", "https://lawsenate.com/case-studies/supreme-court-dismisses-timebarred-insolvency-claim-in-epc-contract-dispute.html"], "note": "Confirmed: decided Aug 12, 2026, 2026 INSC 835, SC held subsisting EPC contract for 225 MW gas power station does not extend limitation for stale Section 9 claim, matches card."},
- {"id": 38, "verdict": "VERIFIED", "evidence": ["https://supremetoday.ai/delhi-high-court-rejects-asr-market-ventures-plea-to-cancel-fitships-fitfeast-mark-20260905070", "https://www.livelawbiz.com/trademark/delhi-high-court-refuses-to-cancel-fitship-fitfeast-mark-says-asr-failed-to-prove-independent-use-548633"], "note": "Confirmed: decided Aug 31, 2026, Justice Jyoti Singh, Delhi HC dismissed ASR's (FITPASS) rectification petition against Fitship's FITFEAST mark for lack of standalone goodwill, matches card."},
- {"id": 39, "verdict": "VERIFIED", "evidence": ["https://supremetoday.ai/bombay-high-court-rejects-graviss-foods-trademark-bid-for-ice-cream-rocks-as-too-descriptive-20260918048", "https://www.livelawbiz.com/trademark/bombay-high-court-rejects-baskin-robbins-licensee-graviss-foods-trademark-plea-for-ice-cream-rocks-550471"], "note": "Confirmed: decided Sep 16, 2026, Justice Somasekhar Sundaresan, Bombay HC held 'ICE CREAM ROCKS' too generic/descriptive to register for Baskin Robbins licensee Graviss Foods, matches card."},
- {"id": 40, "verdict": "VERIFIED", "evidence": ["https://theindianlawyer.in/supreme-court-reinforces-arbitration-mandate-in-trademark-dispute/", "https://www.legal500.com/firms/230422-anand-and-anand/c-india/news-and-developments/arbitrating-trademark-disputes-following-mangayarkarasi-the-extent-of-contractual-reach-into-public-law"], "note": "Confirmed: decided May 9, 2025, 2025 INSC 687, SC held trademark disputes arising from contractual assignment deeds are arbitrable (in personam), matches card."}
-,
- {"id": 41, "verdict": "VERIFIED", "evidence": ["https://patentlawyermagazine.com/delhi-high-court-denies-abbvies-anti-cmet-adc-patent/", "https://www.maheshwariandco.com/press-release/delhi-high-court-rejects-abbvies-patent-appeal-over-scope-enlarging-amendments-in-anti-cmet-adc-application/"], "note": "Confirmed: Delhi HC rejected AbbVie's post-filing amendment converting a method-of-treatment antibody claim into a broader product claim as impermissible under Section 59, matches card (exact date/citation not independently verified but holding matches precisely)."},
- {"id": 42, "verdict": "VERIFIED", "evidence": ["https://www.moneylife.in/article/natco-pharma-allowed-to-make-roches-spinal-muscular-atrophy-drug-in-public-interest/76716.html", "https://www.bananaip.com/intellepedia/?p=127688"], "note": "Confirmed: Delhi HC single judge (Justice Mini Pushkarna) refused Roche an interim injunction against Natco's generic Risdiplam (Evrysdi) for SMA on Mar 24, 2025, weighing public health access and a credible patentability challenge, matches card."},
- {"id": 43, "verdict": "VERIFIED", "evidence": ["https://supremetoday.ai/supreme-court-declines-to-interfere-with-hc-order-refusing-itc-interim-relief-in-dakshin-dispute-20260926032", "https://www.livelawbiz.com/amp/top-stories/supreme-court-refuses-to-interfere-with-delhi-hc-order-on-itcs-bid-to-stop-adyar-gate-hotels-use-of-dakshin-mark-551749"], "note": "Confirmed: SC (Nagarathna & Mahadevan JJ) declined to interfere with Delhi HC order refusing ITC interim relief against Adyar Gate Hotels' use of 'DAKSHIN', decided ~Sep 22-26, 2026, matches card."},
- {"id": 44, "verdict": "CONFLICT", "evidence": ["https://www.scobserver.in/supreme-court-observer-law-reports-scolr/arbitrariness-in-regularisation-of-contract-workers/", "https://www.livelaw.in/amp/supreme-court/regularisation-cannot-be-denied-solely-because-initial-appointment-was-not-against-sanctioned-post-supreme-court-535280"], "note": "Case, citation (2026 INSC 523) and Article 14 holding on arbitrary exclusion of muster-roll workers from regularisation confirmed, but decided May 21, 2026, not 'May 2, 2026' as the card states."},
- {"id": 45, "verdict": "CONFLICT", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/dushyant-janbandhu-v-ms-hyundai-autoever-india-pvt-ltd-2024-insc-966-arbitration-act-1560852?hasShare=1", "https://www.livelaw.in/amp/supreme-court/disputes-falling-exclusively-within-jurisdiction-of-statutory-authorities-arent-arbitrable-supreme-court-reiterates-278156"], "note": "Case and holding (wage/termination disputes already before statutory authorities are non-arbitrable) confirmed, but the neutral citation is 2024 INSC 966 (decided ~Dec 11, 2024), not '2024 SCC OnLine SC 3691' decided in '2025' as the card states."}
-,
- {"id": 46, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/supreme-court/ms-kerala-industrial-infrastructure-development-corporation-v-central-board-of-trustees-2026-insc-990-1622055", "https://www.livelaw.in/supreme-court/epf-act-whether-penalty-for-delayed-provident-fund-deposit-is-mandatory-supreme-court-refers-to-larger-bench-550176"], "note": "Confirmed: decided Sep 9, 2026, 2026 INSC 990, SC referred to larger bench whether Section 14B EPF damages are discretionary or mandatory, doubting Horticulture Experiment Station Gonikoppal, matches card."},
- {"id": 47, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/srinibas-goradia-v-arvind-kumar-sahu-ors-2025-insc-1467-orissa-high-court-1601955", "https://www.taxmann.com/post/blog/front-office-manager-without-powers-is-a-workman-sc"], "note": "Confirmed: 2025 INSC 1467, SC restored Labour Court award holding a cashier designated 'Front Office Manager' is a workman under the dominant-nature-of-duties test, matches card."},
- {"id": 48, "verdict": "VERIFIED", "evidence": ["https://akjzwlcfqvecxndxmyih.supabase.co/storage/v1/object/public/judgments/2026_INSC_834.pdf", "https://www.verdictum.in/court-updates/high-courts/2024-dhc-4398-db-the-statesman-ltd-vs-govt-of-nct-of-delhi-ors-1538607"], "note": "Confirmed: 2026 INSC 834, decided ~Aug 11, 2026, bench Dipankar Datta & Sheel Nagu JJ, case concerns whether Section 17(2) of the Working Journalists Act permits delegation, matches card's framing (Dainik Bhaskar Group respondent, Bombay HC origin)."},
- {"id": 49, "verdict": "CONFLICT", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/3s-and-our-health-society-v-union-of-india-fssai-regulation-package-safety-front-label-1574024", "https://deccanchronicle.com/nation/sc-sets-three-month-deadline-for-expert-panel-on-food-warning-labels-1872079"], "note": "The Apr 9, 2025 order (bench Pardiwala & Mahadevan JJ, 3-month deadline to FSSAI) is confirmed, but it concerned front-of-pack sugar/salt/fat warning labels in '3S and Our Health Society v. Union of India' -- no source mentions a nutraceutical-rules ultimatum or a ₹30,000 crore health-supplement market as the card frames it."},
- {"id": 50, "verdict": "VERIFIED", "evidence": ["https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-dismisses-vimal-elaichis-plea-challenging-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-549995", "https://www.livelawbiz.com/top-stories/vimal-elaichi-ad-delhi-high-court-dismisses-plea-challenging-maharashtra-fda-notice-to-actors-holds-maharashtra-court-appropriate-forum-549991"], "note": "Confirmed: Delhi HC (Justice Swarana Kanta Sharma) dismissed P B Agro LLP's (VIMAL) writ on territorial-jurisdiction grounds on Sep 14, 2026, matching the card's facts and holding."}
-,
- {"id": 51, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/shivam-traders-and-hire-purchase-pvt-ltd-v-madhusudan-vehicles-pvt-ltd-2026ahc67074-nclt-exclusive-domain-us-45-qa-1611706", "https://www.livelawbiz.com/amp/company-law/civil-courts-barred-from-deciding-dispute-of-premature-repayment-of-loan-under-rbi-act-allahabad-high-court-529124"], "note": "Confirmed: decided Mar 31, 2026 (Justice Sandeep Jain), Allahabad HC held premature NBFC loan-recovery disputes fall exclusively within NCLT's domain under Section 45QA RBI Act read with Section 430 Companies Act, matches card."},
- {"id": 52, "verdict": "NOT_FOUND", "evidence": [], "note": "A Sep 10, 2026 NCLT Guwahati order sheet mentions a 'Sandeep Kumar Bhagat (deceased) through legal heirs' as a party in a PNB v. Shree Sai Prakash Alloys matter, but no source confirms the Rs. 22.50 crore OTS proposal, three-company liquidation, or the specific holding the card describes."},
- {"id": 53, "verdict": "VERIFIED", "evidence": ["https://api.sci.gov.in/supremecourt/2022/25695/25695_2022_11_1508_62061_Judgement_23-May-2025.pdf", "https://www.indialaw.in/blog/civil/sarfaesi-bank-dispute-sc-arbitration/"], "note": "Confirmed: decided May 23, 2025, 2025 INSC 765, bench Pardiwala & Mithal JJ, SC held Section 11 SARFAESI creates statutory mandatory arbitration for inter-creditor disputes ousting DRT jurisdiction, matches card."},
- {"id": 54, "verdict": "VERIFIED", "evidence": ["https://foxmandal.in/News/sc-clarifies-civil-court-jurisdiction-in-property-disputes-amid-sarfaesi-proceedings/", "https://www.casemine.com/commentary/in/supreme-court-reinforces-limited-ouster-of-civil-court-jurisdiction-under-sarfaesi/view"], "note": "Confirmed: decided Jan 9, 2025, cited as both 2025 SCC OnLine SC 121 and 2025 INSC 95, bench Pardiwala & Mahadevan JJ, SC held civil courts retain title-dispute jurisdiction and directed RBI to standardise Title Clearance Reports, matches card exactly."},
- {"id": 55, "verdict": "VERIFIED", "evidence": ["https://www.livelaw.in/supreme-court/banks-can-invoke-sarfaesi-for-loans-acquired-from-nbfcs-not-covered-under-act-supreme-court-548335", "https://rawlaw.in/supreme-court-allows-banks-to-use-sarfaesi-for-loans-acquired-from-unnotified-nbfcs-holds-assignment-immediately-converts-live-secured-debt-into-sarfaesi-enforceable-asset-for-recovery/"], "note": "Confirmed: decided Sep 2, 2026, 2026 INSC 943, bench Sanjay Kumar & Sanjeev Sachdeva JJ, SC allowed bank to invoke SARFAESI on a loan assigned from an NBFC not originally covered, setting aside Bombay HC, matches card."}
-,
- {"id": 56, "verdict": "CONFLICT", "evidence": ["https://www.mondaq.com/rbi-upper-layer-nbfc-rules-2026-%E2%82%B91-lakh-crore-threshold-mandatory-listing-and-compliance/1832144", "https://thetaxcorp.in/article/rbi-grants-disclosure-exemption-to-government-owned-upper-layer-nbfcs-under"], "note": "Upper Layer NBFCs are subject to enhanced governance/disclosure norms generally, but the specific 2026 regulatory change found was RBI granting a disclosure EXEMPTION/easing for government-owned NBFC-ULs (June 2026 amendment), not a general tightening of timelines as the card frames it."},
- {"id": 57, "verdict": "VERIFIED", "evidence": ["https://www.livelaw.in/amp/consumer-cases/ncdrc-holds-axis-bank-liable-for-refusing-demonetised-cash-deposit-in-kyc-compliant-account-orders-319-crore-compensation-525951", "https://moneylife.in/article/axis-bank-must-pay-319-crore-for-refusing-demonetised-notes-during-2016-window-ncdrc/79954.html"], "note": "Confirmed: NCDRC decided Mar 10, 2026, ordered Axis Bank to pay Rs 3.19 crore with 6% interest from Dec 30, 2016, for refusing demonetised cash deposits into a KYC-compliant account, matches card exactly."},
- {"id": 58, "verdict": "CONFLICT", "evidence": ["https://www.theweek.in/wire-updates/national/2025/05/28/del79-pm-pragati-meeting.html", "https://community.verified.realestate/article/pm-modi-puts-rera-under-scrutiny-calls-for-quality-over-quantity-in-complaint-redressal/"], "note": "A PRAGATI meeting where PM Modi pressed states on RERA complaint quality (and, per one lightly-sourced report, questioned whether 'disposed' means real relief) is confirmed, but it took place in May 2025, not '2026' as the card states; no 2026 PRAGATI RERA session was found."},
- {"id": 59, "verdict": "CONFLICT", "evidence": ["https://www.livelawbiz.com/amp/rera/supreme-court-allows-himachal-government-to-shift-rera-office-from-shimla-to-dharamshala-stays-hc-order-522990", "https://oga-prod.angelone.in/news/economy/supreme-court-criticises-rera-suggests-abolition-if-it-only-helps-builders"], "note": "SLP(C) 5835/2026 State of HP v. Naresh Sharma, before CJI Surya Kant & Justice Bagchi, is confirmed, but the confirmed order allowed relocating the Himachal RERA office from Shimla to Dharamshala; the 'better to abolish this institution' quote appears in only one secondary source and was not found in LiveLaw's coverage of the order, and the Feb 12, 2026 date could not be confirmed (HC order was Dec 30, 2025; next hearing was posted for Apr 6, 2026)."},
- {"id": 60, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/app-lite/court-updates/supreme-court/agreed-compensation-rate-for-delayed-possession-2025-insc-808-gmada-v-anupam-garg-1580430?hasShare=1", "https://desikaanoon.in/gmada-v-anupam-garg-supreme-court-2025/"], "note": "Confirmed: decided Jun 2025, 2025 INSC 808, bench Sanjay Karol & Prasanna B. Varale JJ, SC held developer not liable for buyer's home-loan interest on top of contractual 8% delay compensation, matches card."}
-,
- {"id": 61, "verdict": "VERIFIED", "evidence": ["https://www.verdictum.in/court-updates/supreme-court/the-managing-director-ksrtc-v-p-chandramouli-2026-insc-241-dependants-group-insurance-motor-accident-1610095", "https://www.livelaw.in/amp/supreme-court/motor-accident-claim-no-deduction-of-employer-provided-group-insurance-benefits-from-compensation-reiterates-supreme-court-526679"], "note": "Confirmed: decided Mar 16, 2026, 2026 INSC 241, bench Pankaj Mithal & Prasanna B. Varale JJ, SC held employer group insurance payouts cannot be deducted from motor accident compensation, matches card."},
- {"id": 62, "verdict": "VERIFIED", "evidence": ["https://bharatlaw.ai/blog/bank-cheque-delay-deficiency-in-service-supreme-court-clarifies-liability-and-compensation-principl", "https://www.caseciter.com/2026insc363/"], "note": "Confirmed: decided Apr 15, 2026, 2026 INSC 363, bench Nagarathna & Bhuyan JJ, cheques totaling ~Rs 1.06 crore not presented within validity, SC reduced compensation from 10% to 6% of cheque amount, matches card."},
- {"id": 63, "verdict": "VERIFIED", "evidence": ["https://www.scobserver.in/supreme-court-observer-law-reports-scolr/parsvnath-developers-v-mohit-khirbat-reasonable-compensation-in-delayed-housing-projects/", "https://www.verdictum.in/court-updates/supreme-court/parsvnath-developers-ltd-v-mohit-khirbat-2026-insc-170-homebuyers-developers-residential-possession-oc-1608226"], "note": "Confirmed: 2026 INSC 170, bench Nagarathna & Mahadevan JJ, SC held statutory power to award just compensation cannot be curtailed by one-sided flat buyer agreement clause and detailed mathematical loss calculation is not required, matches card."},
- {"id": 64, "verdict": "CONFLICT", "evidence": ["https://www.livelawbiz.com/rera/lack-of-written-allotment-or-agreement-cannot-oust-rera-jurisdiction-chhattisgarh-high-court-549849", "https://www.livelawbiz.com/rera/livelawbiz-rera-weekly-digest-september-7-september-12-2026-549951"], "note": "Case and holding (oral allotment agreement does not oust RERA jurisdiction) confirmed for Fortune Resources and Properties LLP v. Y.P. Goel and Associates, Chhattisgarh HC, but it was reported in LiveLawBiz's Sep 7-12, 2026 weekly digest, not dated Aug 21, 2026 as the card states."},
- {"id": 65, "verdict": "CONFLICT", "evidence": ["https://www.verdictum.in/madras-high-court/nbalakrishnan-v-tamil-nadu-real-estate-regulatory-authority-2026mhc3769-title-civil-court-1622132", "https://www.barandbench.com/news/litigation/rera-cannot-decide-disputed-questions-of-title-parties-must-approach-civil-court-madras-high-court"], "note": "Case, citation (2026:MHC:3769) and holding (TNRERA cannot adjudicate disputed title while registering a project) confirmed, but decided Sep 9, 2026, not Sep 19, 2026 as the card states."}
+ {
+  "id": 1,
+  "verdict": "NOT_FOUND",
+  "evidence": [],
+  "note": "No search result reports a case 'State of Odisha v. Dhanurdhar Champatiray' or this Section 37/writ holding by Justice B.P. Routray; only an unrelated Dhanurdhar Champatiray v. Union of India listing turned up."
+ },
+ {
+  "id": 2,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/app-lite/supreme-court/jk-economic-reconstruction-agency-v-rash-builders-india-private-limited-2026-insc-368-seat-venue-arbitration-1612216?hasShare=1",
+   "https://www.mondaq.com/india/arbitration-dispute-resolution/1793444/seat-of-arbitration-determines-supervisory-jurisdiction-not-the-venue-where-hearings-are-conducted-supreme-court"
+  ],
+  "note": "Confirmed: SC held Srinagar (seat) alone has supervisory jurisdiction over New Delhi (venue), decided Apr 15, 2026, 2026 INSC 368, matches headline/summary."
+ },
+ {
+  "id": 3,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/jan-de-nul-dredging-india-pvt-ltd-v-tuticorin-port-trust-2026-insc-34-arbitral-award-1603865",
+   "https://mondaq.com/india/trials-appeals-compensation/1754928/courts-cannot-reassess-merits-or-re-interpret-the-contract-under-sections-34-and-37-of-the-arbitration-act-supreme-court-of-india-reiterates"
+  ],
+  "note": "Confirmed: decided Jan 7, 2026, 2026 INSC 34, SC held Section 37 scrutiny cannot exceed Section 34 grounds, matches card exactly."
+ },
+ {
+  "id": 4,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/glencore-international-ag-v-ms-shree-ganesh-metals-and-another-2025-insc-1036-arbitration-and-reconciliation-delhi-high-court-1589327",
+   "https://www.indialaw.in/blog/arbitration-and-conciliation/sc-unsigned-arbitration-agreements-still-enforceable/"
+  ],
+  "note": "Case and holding (unsigned arbitration agreement binding via conduct/correspondence) are accurate, but neutral citation is 2025 INSC 1036, not '2025 SCC OnLine SC 1815' as the card states."
+ },
+ {
+  "id": 5,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.barandbench.com/law-firms/view-point/key-takeaways-from-asf-buildtech-vs-shapoorji-pallonji-co",
+   "https://lawsathi.in/judgements/sc/2025/asf-buildtech-private-limited-shapoorji-pallonji-company-private-limited/"
+  ],
+  "note": "Citation 2025 INSC 616 and holding (tribunal can implead non-signatory via Group of Companies doctrine) confirmed; decision date appears to be May 2, 2025 rather than Jun 2025, a minor discrepancy."
+ },
+ {
+  "id": 6,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.livelaw.in/amp/supreme-court/tata-steel-ltd-raj-kumar-banerjee-s-612-ibc-appeal-filed-beyond-45-days-not-condonable-by-nclat-291537",
+   "https://foxmandal.in/news/delay-beyond-45-days-in-ibc-appeals-barred-by-statute/"
+  ],
+  "note": "Confirmed: decided May 7, 2025, cited as 2025 SCC OnLine SC 1042 (also 2025 INSC 639), SC held NCLAT cannot condone delay beyond 45-day outer limit under Section 61(2), matches card."
+ },
+ {
+  "id": 7,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.scobserver.in/cases/courts-power-to-modify-an-arbitral-award/",
+   "https://arbitrationblog.kluwerarbitration.com/?p=56898"
+  ],
+  "note": "Case, 4:1 Constitution Bench holding, and Apr 30, 2025 date confirmed, but the neutral citation is 2025 INSC 605, not '2025 INSC 1057' as the card states."
+ },
+ {
+  "id": 8,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://lawfoyer.in/adavya-projects-pvt-ltd-v-m-s-vishal-structurals-pvt-ltd-ors-2025-5-s-c-r-243-2025-insc-507/",
+   "https://disputeresolution.cyrilamarchandblogs.com/2025/05/supreme-court-affirms-arbitrators-power-to-implead-non-signatories-another-pro-arbitration-ruling-or-a-step-too-far/"
+  ],
+  "note": "Confirmed: decided Apr 17, 2025, 2025 INSC 507, SC held tribunal (not referral court) determines whether non-signatory is bound by arbitration agreement, matching card."
+ },
+ {
+  "id": 9,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/bar-to-award-pendente-lite-interest-by-arbitrator-2025-insc-429-ferro-concrete-construction-india-pvt-ltd-v-state-of-rajasthan-1573189",
+   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/ferro-concrete-construction-india-v-state-of-rajasthanpayment-of-pendente-lite-interest-in-arbitration-m-s-ferro-concrete-construction-india-pvt-ltd-v-the-state-of-rajasthan/"
+  ],
+  "note": "Confirmed: decided Apr 2, 2025, 2025 INSC 429, SC restored pendente lite interest (modified to 9%) under 1940 Act, matching card."
+ },
+ {
+  "id": 10,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/app-lite/court-updates/supreme-court/disortho-sas-v-meril-life-sciences-private-limited-2025-insc-352-lex-contractus-arbitration-agreement-1571511?hasShare=1",
+   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/indian-courts-have-jurisdiction-where-arbitration-agreement-is-governed-by-indian-law/"
+  ],
+  "note": "Confirmed: decided Mar 18, 2025, 2025 INSC 352, SC held venue (Bogota) does not determine governing law of arbitration agreement, lex contractus (Indian law) governs, matching card."
+ },
+ {
+  "id": 11,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/app-lite/court-updates/supreme-court/c-c-constructions-ltd-v-ircon-international-ltd-2025-insc-138-arbitration-act-1566656?hasShare=1",
+   "https://www.livelaw.in/amp/supreme-court/supreme-court-judgment-limited-scope-power-to-review-arbitral-award-section-37-arbitration-act-282832"
+  ],
+  "note": "Confirmed: decided Jan 31, 2025, 2025 INSC 138, SC reiterated narrow Section 37 scope mirroring Section 34, matches card."
+ },
+ {
+  "id": 12,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/serosoft-solutions-pvt-ltd-v-dexter-capital-advisors-pvt-ltd-2025-insc-26-f-judicial-restraint-interfering-arbitration-agreement-1563367",
+   "https://www.argus-p.com/updates/updates/supreme-court-high-courts-may-interfere-under-article-226227-only-if-the-arbitral-tribunals-order-is-glaringly-perverse/"
+  ],
+  "note": "Confirmed: decided Jan 3, 2025, 2025 INSC 26, SC held Art. 226/227 interference requires perversity on face of record, matches card."
+ },
+ {
+  "id": 13,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/gvv-constructions-v-union-of-india-determination-of-excepted-matters-under-the-arbitration-act/",
+   "https://www.sansalegal.com/post/supreme-court-holds-an-arbitral-tribunal-under-section-16-decides-whether-a-dispute-falls-within-an"
+  ],
+  "note": "Confirmed: decided Sep 8, 2026, 2026 INSC 976, SC held tribunal under Section 16 (not a court) decides whether a claim is an 'excepted matter', writ appellate court cannot predetermine jurisdiction; matches card."
+ },
+ {
+  "id": 14,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/c-velusamy-v-k-indhera-2026-insc-112-arbitration-statutory-limit-section-29a-technicality-1606443",
+   "https://disputeresolution.cyrilamarchandblogs.com/2026/04/when-the-clock-runs-out-the-supreme-court-reaffirms-courts-power-to-extend-arbitrators-mandate-post-award/"
+  ],
+  "note": "Confirmed: decided Feb 3, 2026, 2026 INSC 112, SC held Section 29A(5) extension application maintainable even after mandate expiry and even after an award was rendered, matches card."
+ },
+ {
+  "id": 15,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://taxguru.in/?p=1072030",
+   "https://www.taxsutra.com/lsi/rulings/competition-law?page=1"
+  ],
+  "note": "A CCI order fining JK Tyre/CEAT's dealers Rekha Agencies and SS Marketing for bid-rigging in an HRTC tender while exonerating the manufacturers is corroborated (taxsutra headlines it as an HRTC tender case), though exact tender year (2013 vs. other reports citing a Haryana 2018 tender) could not be fully pinned down."
+ },
+ {
+  "id": 16,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.livelaw.in/amp/supreme-court/commercial-courts-act-documents-being-voluminous-no-excuse-for-their-belated-production-supreme-court-540616",
+   "https://www.barandbench.com/news/litigation/even-a-snail-may-question-the-speed-of-trial-supreme-court-on-delay-in-commercial-suit-before-delhi-hc"
+  ],
+  "note": "Confirmed: decided Jul 9, 2026, 2026 INSC 674, SC held voluminous evidence does not excuse belated production under Commercial Courts Act, matches card."
+ },
+ {
+  "id": 17,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.livelaw.in/amp/supreme-court/s138-ni-act-multiple-complaints-can-be-filed-over-dishonour-of-several-cheques-from-same-transaction-supreme-court-518457",
+   "https://taxguru.in/?p=1081434"
+  ],
+  "note": "Confirmed: decided Jan 8, 2026, 2026 INSC 40, SC held each dishonoured cheque gives rise to a distinct cause of action under Section 138 NI Act, matches card."
+ },
+ {
+  "id": 18,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.indialaw.in/blog/negotiable-instrument/sc-wrong-amount-in-demand-notice-invalidates-complaint/",
+   "https://www.caseciter.com/kaveri-plastics-v-mahdoom-bawa-bahrudeen-noorul-2025-insc-1133-s-138-ni-act-demand-notice-cheque-amount/"
+  ],
+  "note": "Confirmed: decided Sep 19, 2025, 2025 INSC 1133, demand notice sought Rs. 2 crore vs. Rs. 1 crore cheque, complaint quashed, exactly matches card."
+ },
+ {
+  "id": 19,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/supreme-court/national-seeds-corporation-ltd-v-national-agro-seed-corporation-india-2026-insc-1017-order-xxi-rule-1-cpc-1622295",
+   "https://www.livelaw.in/supreme-court/conditional-deposit-wont-stop-interest-if-award-holder-cant-freely-withdraw-it-supreme-court-550858"
+  ],
+  "note": "Confirmed: decided Sep 18, 2026, 2026 INSC 1017, bench Narasimha & Aradhe JJ, SC held interest stops only on unconditional Order XXI Rule 1 CPC deposit, 12% interest affirmed, matches card."
+ },
+ {
+  "id": 20,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/app-lite/court-updates/supreme-court/dhanbad-fuels-private-limited-v-union-of-india-2025-insc-696-commercial-courts-act-1577591?hasShare=1",
+   "https://ksandk.com/newsletter/sc-pre-litigation-mediation-section-12a/"
+  ],
+  "note": "Confirmed: decided May 15, 2025, 2025 INSC 696, SC held Section 12A rejection consequence applies prospectively from 20 Aug 2022, matches card."
+ },
+ {
+  "id": 21,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://supremetoday.ai/nclt-chennai-initiates-insolvency-against-senthil-kumar-us-based-personal-guarantor-of-prc-hotels-20260916062",
+   "https://www.livelawbiz.com/amp/nclt/national-company-law-tribunal-chennai-personal-guanator-overseas-residence-no-bar-proceedings-insolvency-and-bankruptcy-code-550160"
+  ],
+  "note": "Confirmed: NCLT Chennai admitted Section 95 petition against US-resident personal guarantor Senthil Kumar on Sep 7, 2026, holding residence abroad is no bar, matches card."
+ },
+ {
+  "id": 22,
+  "verdict": "NOT_FOUND",
+  "evidence": [],
+  "note": "No search result mentions a case styled 'Pankaj Chhabildas Sheth v. Abhyudaya Co-Operative Bank' at the NCLAT; only unrelated Abhyudaya Bank personal-guarantor matters (different parties) turned up."
+ },
+ {
+  "id": 23,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://supremetoday.ai/nclat-holds-personal-guarantors-bound-by-drts-final-liability-under-insolvency-code-20260923035",
+   "https://www.livelawbiz.com/ibc/personal-guarantors-cannot-re-agitate-limited-liability-after-drt-crystallises-entire-debt-nclat-551265"
+  ],
+  "note": "Confirmed: NCLAT dismissed appeals by Archon Engicon personal guarantors (~Rs 149.26 crore liability), decided Sep 22, 2026, holding finalised DRT liability cannot be reopened under Section 114 IBC, matches card."
+ },
+ {
+  "id": 24,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://supremetoday.ai/does-ibc-order-on-property-possession-create-landlord-tenant-dispute-nclat-answers-no-20260926044",
+   "https://psuwatch.com/amp/story/newsupdates/nclat-says-liquidator-can-recover-company-assets-through-nclt-need-not-approach-rent-controller"
+  ],
+  "note": "Confirmed: NCLAT (decided ~Sep 24, 2026) upheld liquidator Pramod Kumar Misra's recovery of Venus Garments premises from Duke Fashions, rejecting reliance on East Punjab Urban Rent Restriction Act, 1949, matches card."
+ },
+ {
+  "id": 25,
+  "verdict": "NOT_FOUND",
+  "evidence": [],
+  "note": "The case Satinder Singh Bhasin v. Col. Gautam Mullick is confirmed to exist at the Supreme Court (disposed Feb 2, 2026), but no search result reports its holding on the 100-allottee Section 7 threshold or registration-date rule described in the card."
+ },
+ {
+  "id": 26,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.livelaw.in/amp/ibc-cases/penalties-under-section-65-of-the-ibc-code-can-be-imposed-on-those-who-initiate-insolvency-process-nclat-principal-bench-286331",
+   "https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-january-16-january-31-2025"
+  ],
+  "note": "Case and Section 65 holding (CIRP terminated for collusive/fraudulent Section 7 application, penalty standard beyond reasonable doubt) confirmed, but decided Jan 16, 2025, not 'Dec 2025' as the card states."
+ },
+ {
+  "id": 27,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.dtnext.in/topic/hinduja-leyland-finance-ltd"
+  ],
+  "note": "An NCLAT order titled Avil Menezes v. Hinduja Leyland Finance Ltd (CA(AT)(Ins) No. 555/2024) exists and was 'Allowed', but it is dated Jan 21, 2025, not 'Nov 2025' as the card states, and no source confirms the consortium-charge/NOC holding described."
+ },
+ {
+  "id": 28,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://lawsathi.in/judgements/sc/2024/state-bank-india-india-power-corporation-limited/"
+  ],
+  "note": "The underlying facts (NCLT Hyderabad condoned SBI's rejoinder delay but excluded its factual assertions; SBI's Civil Appeal 8178/2023 against the NCLAT order) are confirmed, and that appeal was marked 'Allowed', but the order is recorded as dated Feb 14, 2025, not 'Jul 2025' as the card states."
+ },
+ {
+  "id": 29,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://foxmandal.in/news/supreme-court-sets-aside-jsw-steels-resolution-plan-for-bpsl/",
+   "https://www.scconline.com/blog/post/2025/08/02/supreme-court-recalls-bhushan-steel-liquidation-judgment-jsw-resolution-plan-for-bpsl/"
+  ],
+  "note": "The SC did set aside JSW's BPSL plan and order liquidation, but on May 2, 2025 (not 'Jun 2025'), and that judgment was recalled by the Supreme Court on review on Jul 31, 2025, with a later Sep 2025 ruling reported as upholding JSW's plan -- so the holding as presented is no longer the operative law."
+ },
+ {
+  "id": 30,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://legalblogs.wolterskluwer.com/competition-blog/supreme-court-ruling-shakes-up-insolvency-and-competition-approvals-in-india/",
+   "https://www.maheshwariandco.com/press-release/supreme-court-declares-prior-cci-approval-mandatory-for-resolution-plans-involving-combinations-under-ibc/"
+  ],
+  "note": "The holding (prior CCI approval under Section 31(4) proviso is mandatory, not directory, reversing NCLT/NCLAT in the Hindustan National Glass/AGI Greenpac matter) is confirmed, but decided Jan 29, 2025, not 'Jun 2025' as the card states."
+ },
+ {
+  "id": 31,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/visa-coke-limited-v-mesco-kalinga-steel-limited-2025-insc-597-demand-notice-ibc-1575825",
+   "https://www.livelaw.in/amp/supreme-court/visa-coke-vs-mesco-kalinga-steel-s-8-ibc-service-demand-notice-corporate-debtors-key-managerial-personnel-valid-290772"
+  ],
+  "note": "Confirmed: SC (Pardiwala & Mahadevan JJ) held Section 8 demand notice delivered to KMP at registered office is valid deemed service, matches card; neutral citation found was 2025 INSC 597 (card's '2025 ibclaw.in 168 SC' not independently confirmed but not contradicted)."
+ },
+ {
+  "id": 32,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.livelaw.in/amp/supreme-court/tata-steel-ltd-raj-kumar-banerjee-s-612-ibc-appeal-filed-beyond-45-days-not-condonable-by-nclat-291537",
+   "https://foxmandal.in/news/delay-beyond-45-days-in-ibc-appeals-barred-by-statute/"
+  ],
+  "note": "Duplicate of card 6: confirmed decided May 7, 2025, 2025 SCC OnLine SC 1042, SC held NCLAT cannot condone delay beyond 45-day Section 61(2) limit, matches card."
+ },
+ {
+  "id": 33,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://foxmandal.in/news/pre-deposit-not-always-mandatory/",
+   "https://www.scconline.com/blog/?p=348987"
+  ],
+  "note": "Confirmed: SC decided Sunshine Builders v. HDFC Bank, CA No. 5290/2025, on Apr 17, 2025, holding Section 18 SARFAESI pre-deposit need not apply mechanically to procedural/interim DRT orders (impleadment, delay condonation), matches card."
+ },
+ {
+  "id": 34,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.indialaw.in/blog/insolvency-bankruptcy/power-of-attorney-validity-clarified-by-nclat-in-2025-judgment/",
+   "https://www.livelawbiz.com/amp/ibc-cases/a-power-of-attorney-can-be-executed-by-officers-nominated-by-designation-not-necessarily-by-name-nclat-new-delhi-301127"
+  ],
+  "note": "Case and holding (PoA executed by designation, not name, valid for IBC filings) confirmed, but NCLAT decided it Aug 7, 2025, not 'Mar 2025' as the card states."
+ },
+ {
+  "id": 35,
+  "verdict": "NOT_FOUND",
+  "evidence": [],
+  "note": "SC order dated Jan 29, 2025 (Pardiwala & Mahadevan JJ) in M.S. Sanjay v. Indian Bank exists (guarantor's challenge to an auction, Karnataka HC/DRAT), but no search result confirms the Court actually ruled on or affirmed the Rule 9 30-day mandatory-notice holding the card attributes to this case."
+ },
+ {
+  "id": 36,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://order.law/library/courts/supreme-court/2026/may/SCIN010681282025-58dos/angelwoods-apartment-allottees-association-v-m-lalitha",
+   "https://lawsathi.in/judgements/sc/2026/angelwoods-apartment-allottees-association-lalitha-another/"
+  ],
+  "note": "Confirmed: decided May 12, 2026, 2026 INSC 479, case title and bench (Sanjay Kumar, K.V. Chandran JJ) match card exactly; outcome recorded as 'appeal(s) allowed', consistent with the card's framing that the certified-copy-less NCLAT appeal was held incompetent."
+ },
+ {
+  "id": 37,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/litigant-cannot-be-shown-the-door-for-nclat-portal-failure-supreme-court-restores-appeal-filed-one-day-late",
+   "https://www.livelawbiz.com/top-stories/litigant-cannot-be-rendered-remediless-for-nclat-e-filing-system-failure-in-ibc-appeal-supreme-court-550373"
+  ],
+  "note": "Confirmed: decided Sep 10, 2026, 2026 INSC 1003, bench Dipankar Datta & Sheel Nagu JJ, SC restored NCLAT appeal delayed one day by e-filing portal glitch, matches card exactly."
+ },
+ {
+  "id": 38,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://rawlaw.in/supreme-court-quashes-insolvency-proceedings-over-time-barred-epc-dues-holds-subsisting-contract-cannot-create-continuing-cause-of-action-or-extend-limitation-under-ibc/",
+   "https://lawsenate.com/case-studies/supreme-court-dismisses-timebarred-insolvency-claim-in-epc-contract-dispute.html"
+  ],
+  "note": "Confirmed: decided Aug 12, 2026, 2026 INSC 835, SC held subsisting EPC contract for 225 MW gas power station does not extend limitation for stale Section 9 claim, matches card."
+ },
+ {
+  "id": 39,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://supremetoday.ai/delhi-high-court-rejects-asr-market-ventures-plea-to-cancel-fitships-fitfeast-mark-20260905070",
+   "https://www.livelawbiz.com/trademark/delhi-high-court-refuses-to-cancel-fitship-fitfeast-mark-says-asr-failed-to-prove-independent-use-548633"
+  ],
+  "note": "Confirmed: decided Aug 31, 2026, Justice Jyoti Singh, Delhi HC dismissed ASR's (FITPASS) rectification petition against Fitship's FITFEAST mark for lack of standalone goodwill, matches card."
+ },
+ {
+  "id": 40,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://supremetoday.ai/bombay-high-court-rejects-graviss-foods-trademark-bid-for-ice-cream-rocks-as-too-descriptive-20260918048",
+   "https://www.livelawbiz.com/trademark/bombay-high-court-rejects-baskin-robbins-licensee-graviss-foods-trademark-plea-for-ice-cream-rocks-550471"
+  ],
+  "note": "Confirmed: decided Sep 16, 2026, Justice Somasekhar Sundaresan, Bombay HC held 'ICE CREAM ROCKS' too generic/descriptive to register for Baskin Robbins licensee Graviss Foods, matches card."
+ },
+ {
+  "id": 41,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://theindianlawyer.in/supreme-court-reinforces-arbitration-mandate-in-trademark-dispute/",
+   "https://www.legal500.com/firms/230422-anand-and-anand/c-india/news-and-developments/arbitrating-trademark-disputes-following-mangayarkarasi-the-extent-of-contractual-reach-into-public-law"
+  ],
+  "note": "Confirmed: decided May 9, 2025, 2025 INSC 687, SC held trademark disputes arising from contractual assignment deeds are arbitrable (in personam), matches card."
+ },
+ {
+  "id": 42,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://patentlawyermagazine.com/delhi-high-court-denies-abbvies-anti-cmet-adc-patent/",
+   "https://www.maheshwariandco.com/press-release/delhi-high-court-rejects-abbvies-patent-appeal-over-scope-enlarging-amendments-in-anti-cmet-adc-application/"
+  ],
+  "note": "Confirmed: Delhi HC rejected AbbVie's post-filing amendment converting a method-of-treatment antibody claim into a broader product claim as impermissible under Section 59, matches card (exact date/citation not independently verified but holding matches precisely)."
+ },
+ {
+  "id": 43,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.moneylife.in/article/natco-pharma-allowed-to-make-roches-spinal-muscular-atrophy-drug-in-public-interest/76716.html",
+   "https://www.bananaip.com/intellepedia/?p=127688"
+  ],
+  "note": "Confirmed: Delhi HC single judge (Justice Mini Pushkarna) refused Roche an interim injunction against Natco's generic Risdiplam (Evrysdi) for SMA on Mar 24, 2025, weighing public health access and a credible patentability challenge, matches card."
+ },
+ {
+  "id": 44,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://supremetoday.ai/supreme-court-declines-to-interfere-with-hc-order-refusing-itc-interim-relief-in-dakshin-dispute-20260926032",
+   "https://www.livelawbiz.com/amp/top-stories/supreme-court-refuses-to-interfere-with-delhi-hc-order-on-itcs-bid-to-stop-adyar-gate-hotels-use-of-dakshin-mark-551749"
+  ],
+  "note": "Confirmed: SC (Nagarathna & Mahadevan JJ) declined to interfere with Delhi HC order refusing ITC interim relief against Adyar Gate Hotels' use of 'DAKSHIN', decided ~Sep 22-26, 2026, matches card."
+ },
+ {
+  "id": 45,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/arbitrariness-in-regularisation-of-contract-workers/",
+   "https://www.livelaw.in/amp/supreme-court/regularisation-cannot-be-denied-solely-because-initial-appointment-was-not-against-sanctioned-post-supreme-court-535280"
+  ],
+  "note": "Case, citation (2026 INSC 523) and Article 14 holding on arbitrary exclusion of muster-roll workers from regularisation confirmed, but decided May 21, 2026, not 'May 2, 2026' as the card states."
+ },
+ {
+  "id": 46,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/dushyant-janbandhu-v-ms-hyundai-autoever-india-pvt-ltd-2024-insc-966-arbitration-act-1560852?hasShare=1",
+   "https://www.livelaw.in/amp/supreme-court/disputes-falling-exclusively-within-jurisdiction-of-statutory-authorities-arent-arbitrable-supreme-court-reiterates-278156"
+  ],
+  "note": "Case and holding (wage/termination disputes already before statutory authorities are non-arbitrable) confirmed, but the neutral citation is 2024 INSC 966 (decided ~Dec 11, 2024), not '2024 SCC OnLine SC 3691' decided in '2025' as the card states."
+ },
+ {
+  "id": 47,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/supreme-court/ms-kerala-industrial-infrastructure-development-corporation-v-central-board-of-trustees-2026-insc-990-1622055",
+   "https://www.livelaw.in/supreme-court/epf-act-whether-penalty-for-delayed-provident-fund-deposit-is-mandatory-supreme-court-refers-to-larger-bench-550176"
+  ],
+  "note": "Confirmed: decided Sep 9, 2026, 2026 INSC 990, SC referred to larger bench whether Section 14B EPF damages are discretionary or mandatory, doubting Horticulture Experiment Station Gonikoppal, matches card."
+ },
+ {
+  "id": 48,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/srinibas-goradia-v-arvind-kumar-sahu-ors-2025-insc-1467-orissa-high-court-1601955",
+   "https://www.taxmann.com/post/blog/front-office-manager-without-powers-is-a-workman-sc"
+  ],
+  "note": "Confirmed: 2025 INSC 1467, SC restored Labour Court award holding a cashier designated 'Front Office Manager' is a workman under the dominant-nature-of-duties test, matches card."
+ },
+ {
+  "id": 49,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://akjzwlcfqvecxndxmyih.supabase.co/storage/v1/object/public/judgments/2026_INSC_834.pdf",
+   "https://www.verdictum.in/court-updates/high-courts/2024-dhc-4398-db-the-statesman-ltd-vs-govt-of-nct-of-delhi-ors-1538607"
+  ],
+  "note": "Confirmed: 2026 INSC 834, decided ~Aug 11, 2026, bench Dipankar Datta & Sheel Nagu JJ, case concerns whether Section 17(2) of the Working Journalists Act permits delegation, matches card's framing (Dainik Bhaskar Group respondent, Bombay HC origin)."
+ },
+ {
+  "id": 50,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/3s-and-our-health-society-v-union-of-india-fssai-regulation-package-safety-front-label-1574024",
+   "https://deccanchronicle.com/nation/sc-sets-three-month-deadline-for-expert-panel-on-food-warning-labels-1872079"
+  ],
+  "note": "The Apr 9, 2025 order (bench Pardiwala & Mahadevan JJ, 3-month deadline to FSSAI) is confirmed, but it concerned front-of-pack sugar/salt/fat warning labels in '3S and Our Health Society v. Union of India' -- no source mentions a nutraceutical-rules ultimatum or a \u20b930,000 crore health-supplement market as the card frames it."
+ },
+ {
+  "id": 51,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-dismisses-vimal-elaichis-plea-challenging-fda-notice-to-shah-rukh-khan-ajay-devgn-tiger-shroff-549995",
+   "https://www.livelawbiz.com/top-stories/vimal-elaichi-ad-delhi-high-court-dismisses-plea-challenging-maharashtra-fda-notice-to-actors-holds-maharashtra-court-appropriate-forum-549991"
+  ],
+  "note": "Confirmed: Delhi HC (Justice Swarana Kanta Sharma) dismissed P B Agro LLP's (VIMAL) writ on territorial-jurisdiction grounds on Sep 14, 2026, matching the card's facts and holding."
+ },
+ {
+  "id": 52,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/shivam-traders-and-hire-purchase-pvt-ltd-v-madhusudan-vehicles-pvt-ltd-2026ahc67074-nclt-exclusive-domain-us-45-qa-1611706",
+   "https://www.livelawbiz.com/amp/company-law/civil-courts-barred-from-deciding-dispute-of-premature-repayment-of-loan-under-rbi-act-allahabad-high-court-529124"
+  ],
+  "note": "Confirmed: decided Mar 31, 2026 (Justice Sandeep Jain), Allahabad HC held premature NBFC loan-recovery disputes fall exclusively within NCLT's domain under Section 45QA RBI Act read with Section 430 Companies Act, matches card."
+ },
+ {
+  "id": 53,
+  "verdict": "NOT_FOUND",
+  "evidence": [],
+  "note": "A Sep 10, 2026 NCLT Guwahati order sheet mentions a 'Sandeep Kumar Bhagat (deceased) through legal heirs' as a party in a PNB v. Shree Sai Prakash Alloys matter, but no source confirms the Rs. 22.50 crore OTS proposal, three-company liquidation, or the specific holding the card describes."
+ },
+ {
+  "id": 54,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://api.sci.gov.in/supremecourt/2022/25695/25695_2022_11_1508_62061_Judgement_23-May-2025.pdf",
+   "https://www.indialaw.in/blog/civil/sarfaesi-bank-dispute-sc-arbitration/"
+  ],
+  "note": "Confirmed: decided May 23, 2025, 2025 INSC 765, bench Pardiwala & Mithal JJ, SC held Section 11 SARFAESI creates statutory mandatory arbitration for inter-creditor disputes ousting DRT jurisdiction, matches card."
+ },
+ {
+  "id": 55,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://foxmandal.in/news/pre-deposit-not-always-mandatory/",
+   "https://www.scconline.com/blog/?p=348987"
+  ],
+  "note": "Duplicate of card 33: Confirmed: SC decided Sunshine Builders v. HDFC Bank, CA No. 5290/2025, on Apr 17, 2025, holding Section 18 SARFAESI pre-deposit need not apply mechanically to procedural/interim DRT orders (impleadment, delay condonation), matches card."
+ },
+ {
+  "id": 56,
+  "verdict": "NOT_FOUND",
+  "evidence": [],
+  "note": "Duplicate of card 35: SC order dated Jan 29, 2025 (Pardiwala & Mahadevan JJ) in M.S. Sanjay v. Indian Bank exists (guarantor's challenge to an auction, Karnataka HC/DRAT), but no search result confirms the Court actually ruled on or affirmed the Rule 9 30-day mandatory-notice holding the card attributes to this case."
+ },
+ {
+  "id": 57,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://foxmandal.in/News/sc-clarifies-civil-court-jurisdiction-in-property-disputes-amid-sarfaesi-proceedings/",
+   "https://www.casemine.com/commentary/in/supreme-court-reinforces-limited-ouster-of-civil-court-jurisdiction-under-sarfaesi/view"
+  ],
+  "note": "Confirmed: decided Jan 9, 2025, cited as both 2025 SCC OnLine SC 121 and 2025 INSC 95, bench Pardiwala & Mahadevan JJ, SC held civil courts retain title-dispute jurisdiction and directed RBI to standardise Title Clearance Reports, matches card exactly."
+ },
+ {
+  "id": 58,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.livelaw.in/supreme-court/banks-can-invoke-sarfaesi-for-loans-acquired-from-nbfcs-not-covered-under-act-supreme-court-548335",
+   "https://rawlaw.in/supreme-court-allows-banks-to-use-sarfaesi-for-loans-acquired-from-unnotified-nbfcs-holds-assignment-immediately-converts-live-secured-debt-into-sarfaesi-enforceable-asset-for-recovery/"
+  ],
+  "note": "Confirmed: decided Sep 2, 2026, 2026 INSC 943, bench Sanjay Kumar & Sanjeev Sachdeva JJ, SC allowed bank to invoke SARFAESI on a loan assigned from an NBFC not originally covered, setting aside Bombay HC, matches card."
+ },
+ {
+  "id": 59,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.mondaq.com/rbi-upper-layer-nbfc-rules-2026-%E2%82%B91-lakh-crore-threshold-mandatory-listing-and-compliance/1832144",
+   "https://thetaxcorp.in/article/rbi-grants-disclosure-exemption-to-government-owned-upper-layer-nbfcs-under"
+  ],
+  "note": "Upper Layer NBFCs are subject to enhanced governance/disclosure norms generally, but the specific 2026 regulatory change found was RBI granting a disclosure EXEMPTION/easing for government-owned NBFC-ULs (June 2026 amendment), not a general tightening of timelines as the card frames it."
+ },
+ {
+  "id": 60,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.livelaw.in/amp/consumer-cases/ncdrc-holds-axis-bank-liable-for-refusing-demonetised-cash-deposit-in-kyc-compliant-account-orders-319-crore-compensation-525951",
+   "https://moneylife.in/article/axis-bank-must-pay-319-crore-for-refusing-demonetised-notes-during-2016-window-ncdrc/79954.html"
+  ],
+  "note": "Confirmed: NCDRC decided Mar 10, 2026, ordered Axis Bank to pay Rs 3.19 crore with 6% interest from Dec 30, 2016, for refusing demonetised cash deposits into a KYC-compliant account, matches card exactly."
+ },
+ {
+  "id": 61,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.theweek.in/wire-updates/national/2025/05/28/del79-pm-pragati-meeting.html",
+   "https://community.verified.realestate/article/pm-modi-puts-rera-under-scrutiny-calls-for-quality-over-quantity-in-complaint-redressal/"
+  ],
+  "note": "A PRAGATI meeting where PM Modi pressed states on RERA complaint quality (and, per one lightly-sourced report, questioned whether 'disposed' means real relief) is confirmed, but it took place in May 2025, not '2026' as the card states; no 2026 PRAGATI RERA session was found."
+ },
+ {
+  "id": 62,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.livelawbiz.com/amp/rera/supreme-court-allows-himachal-government-to-shift-rera-office-from-shimla-to-dharamshala-stays-hc-order-522990",
+   "https://oga-prod.angelone.in/news/economy/supreme-court-criticises-rera-suggests-abolition-if-it-only-helps-builders"
+  ],
+  "note": "SLP(C) 5835/2026 State of HP v. Naresh Sharma, before CJI Surya Kant & Justice Bagchi, is confirmed, but the confirmed order allowed relocating the Himachal RERA office from Shimla to Dharamshala; the 'better to abolish this institution' quote appears in only one secondary source and was not found in LiveLaw's coverage of the order, and the Feb 12, 2026 date could not be confirmed (HC order was Dec 30, 2025; next hearing was posted for Apr 6, 2026)."
+ },
+ {
+  "id": 63,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/app-lite/court-updates/supreme-court/agreed-compensation-rate-for-delayed-possession-2025-insc-808-gmada-v-anupam-garg-1580430?hasShare=1",
+   "https://desikaanoon.in/gmada-v-anupam-garg-supreme-court-2025/"
+  ],
+  "note": "Confirmed: decided Jun 2025, 2025 INSC 808, bench Sanjay Karol & Prasanna B. Varale JJ, SC held developer not liable for buyer's home-loan interest on top of contractual 8% delay compensation, matches card."
+ },
+ {
+  "id": 64,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/the-managing-director-ksrtc-v-p-chandramouli-2026-insc-241-dependants-group-insurance-motor-accident-1610095",
+   "https://www.livelaw.in/amp/supreme-court/motor-accident-claim-no-deduction-of-employer-provided-group-insurance-benefits-from-compensation-reiterates-supreme-court-526679"
+  ],
+  "note": "Confirmed: decided Mar 16, 2026, 2026 INSC 241, bench Pankaj Mithal & Prasanna B. Varale JJ, SC held employer group insurance payouts cannot be deducted from motor accident compensation, matches card."
+ },
+ {
+  "id": 65,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://bharatlaw.ai/blog/bank-cheque-delay-deficiency-in-service-supreme-court-clarifies-liability-and-compensation-principl",
+   "https://www.caseciter.com/2026insc363/"
+  ],
+  "note": "Confirmed: decided Apr 15, 2026, 2026 INSC 363, bench Nagarathna & Bhuyan JJ, cheques totaling ~Rs 1.06 crore not presented within validity, SC reduced compensation from 10% to 6% of cheque amount, matches card."
+ },
+ {
+  "id": 66,
+  "verdict": "VERIFIED",
+  "evidence": [
+   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/parsvnath-developers-v-mohit-khirbat-reasonable-compensation-in-delayed-housing-projects/",
+   "https://www.verdictum.in/court-updates/supreme-court/parsvnath-developers-ltd-v-mohit-khirbat-2026-insc-170-homebuyers-developers-residential-possession-oc-1608226"
+  ],
+  "note": "Confirmed: 2026 INSC 170, bench Nagarathna & Mahadevan JJ, SC held statutory power to award just compensation cannot be curtailed by one-sided flat buyer agreement clause and detailed mathematical loss calculation is not required, matches card."
+ },
+ {
+  "id": 67,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.livelawbiz.com/rera/lack-of-written-allotment-or-agreement-cannot-oust-rera-jurisdiction-chhattisgarh-high-court-549849",
+   "https://www.livelawbiz.com/rera/livelawbiz-rera-weekly-digest-september-7-september-12-2026-549951"
+  ],
+  "note": "Case and holding (oral allotment agreement does not oust RERA jurisdiction) confirmed for Fortune Resources and Properties LLP v. Y.P. Goel and Associates, Chhattisgarh HC, but it was reported in LiveLawBiz's Sep 7-12, 2026 weekly digest, not dated Aug 21, 2026 as the card states."
+ },
+ {
+  "id": 68,
+  "verdict": "CONFLICT",
+  "evidence": [
+   "https://www.verdictum.in/madras-high-court/nbalakrishnan-v-tamil-nadu-real-estate-regulatory-authority-2026mhc3769-title-civil-court-1622132",
+   "https://www.barandbench.com/news/litigation/rera-cannot-decide-disputed-questions-of-title-parties-must-approach-civil-court-madras-high-court"
+  ],
+  "note": "Case, citation (2026:MHC:3769) and holding (TNRERA cannot adjudicate disputed title while registering a project) confirmed, but decided Sep 9, 2026, not Sep 19, 2026 as the card states."
+ }
 ]
