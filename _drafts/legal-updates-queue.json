@@ -1,69 +1,5 @@
 [
   {
-    "id": "chhattisgarh-hc-rera-jurisdiction-no-written-allotment-aggrieved-person",
-    "practice_area": "Real Estate & RERA",
-    "case_name": "Fortune Resources and Properties LLP v. Y.P. Goel and Associates and Anr.",
-    "citation": "MA No. 105 of 2025, Chhattisgarh High Court, decided 21 August 2026",
-    "court": "Chhattisgarh High Court",
-    "date": "2026-08-21",
-    "holding_summary": "A complainant alleged an oral agreement to buy a shop in a Raipur commercial project for Rs. 75 lakh, with part payment later refunded after possession and a sale deed never materialised. RERA dismissed the complaint for want of a written allotment agreement and held it lacked jurisdiction; REAT reversed, holding the complainant was still an 'aggrieved person' and remanding for fresh consideration. The Chhattisgarh High Court, dismissing the builder's appeal under Section 58 of RERA, held that the term 'aggrieved person' under Section 31 of the Act and Rule 35 of the Rules is of wide amplitude, and the mere absence of a written allotment document or agreement does not by itself oust RERA's jurisdiction over a real estate complaint.",
-    "why_it_matters": "Prevents developers from defeating a RERA complaint on a pure documentation technicality, and signals that buyers who paid on the strength of an oral or informal booking can still invoke RERA rather than being pushed into ordinary civil litigation.",
-    "sources": [
-      "https://ibclaw.in/fortune-resources-and-properties-llp-vs-y-p-goel-and-associates-and-anr-chhattisgarh-high-court/",
-      "https://www.livelawbiz.com/rera/lack-of-written-allotment-or-agreement-cannot-oust-rera-jurisdiction-chhattisgarh-high-court-549849"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-01"
-  },
-  {
-    "id": "n-balakrishnan-v-tnrera-title-dispute-jurisdiction",
-    "practice_area": "Real Estate & RERA",
-    "case_name": "N. Balakrishnan v. Tamil Nadu Real Estate Regulatory Authority & Ors.",
-    "citation": "2026:MHC:3769",
-    "court": "Madras High Court",
-    "date": "2026-09-17",
-    "holding_summary": "The petitioner sought to quash a TNRERA order granting project registration over a Thiruneermalai, Tambaram property that he claimed to own. Justice D. Bharatha Chakravarthy held that TNRERA cannot adjudicate disputed questions of title while examining a project registration application, and that a party disputing ownership must approach the competent civil court; TNRERA may refuse registration only where the absence of title or an encumbrance is apparent on the face of the record.",
-    "why_it_matters": "Clarifies that RERA project registration is not a judicial finding of clear title, so a person disputing a developer's ownership cannot rely on RERA proceedings to resolve the title question and must pursue a separate civil suit.",
-    "sources": [
-      "https://www.barandbench.com/news/litigation/rera-cannot-decide-disputed-questions-of-title-parties-must-approach-civil-court-madras-high-court",
-      "https://www.verdictum.in/madras-high-court/nbalakrishnan-v-tamil-nadu-real-estate-regulatory-authority-2026mhc3769-title-civil-court-1622132"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-02"
-  },
-  {
-    "id": "asr-market-ventures-v-fitship-fitfeast-trademark-rectification",
-    "practice_area": "Intellectual Property",
-    "case_name": "ASR Market Ventures Private Limited v. Fitship Private Limited & Anr.",
-    "citation": "C.O. (COMM.IPD-TM) 93/2025, Delhi High Court, decided 31 August 2026",
-    "court": "Delhi High Court",
-    "date": "2026-08-31",
-    "holding_summary": "ASR Market Ventures (owner of FITPASS) sought rectification of Fitship's registered 'FITFEAST' mark and an interim injunction in a connected passing-off suit, claiming it had coined FITFEAST in 2017. Justice Jyoti Singh dismissed the rectification petition and refused the interim injunction, holding ASR's own records showed it had consistently promoted its business under the umbrella mark FITPASS, with only scant, non-source-identifying references to FITFEAST, so ASR failed to establish goodwill in FITFEAST as a standalone mark.",
-    "why_it_matters": "Shows that merely coining or occasionally using a term alongside a dominant house mark is not enough to claim standalone trademark rights in it — a business must show the secondary mark was itself used to identify source before it can rely on that mark against a later, independently adopted registration.",
-    "sources": [
-      "https://www.livelawbiz.com/trademark/delhi-high-court-refuses-to-cancel-fitship-fitfeast-mark-says-asr-failed-to-prove-independent-use-548633",
-      "https://www.livelawbiz.com/amp/digests/monthly-digests/livelawbiz-ipr-monthly-digest-september-2026-552734"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-02"
-  },
-  {
-    "id": "nclt-chennai-gagan-bothra-overseas-personal-guarantor-ibc",
-    "practice_area": "IBC & Insolvency",
-    "case_name": "M. Gagan Bothra v. Senthil Kumar",
-    "citation": "CP(IB)/96(CHE)/2025; 2026 LLBiz NCLT(CHE) 903",
-    "court": "National Company Law Tribunal, Chennai Bench",
-    "date": "2026-09-07",
-    "holding_summary": "A financial creditor, M. Gagan Bothra, filed a Section 95 IBC application against Senthil Kumar as personal guarantor of the corporate debtor, PRC International Hotels Private Limited. Senthil Kumar resisted the petition partly on the ground that he resided abroad. The NCLT, Chennai Bench (Judicial Member Sanjiv Jain and Technical Member Venkataraman Subramaniam), admitted the Section 95 petition, holding that the IBC does not restrict its applicability to personal guarantors based on nationality or place of residence, particularly where the guarantee was executed with a Chennai address and the underlying corporate debtor was based in Chennai.",
-    "why_it_matters": "Clarifies that an NRI or overseas-resident personal guarantor cannot resist a Section 95 IBC petition merely by pointing to foreign residence or citizenship, giving financial creditors a clearer basis to pursue personal guarantors who have relocated abroad.",
-    "sources": [
-      "https://www.livelawbiz.com/nclt/national-company-law-tribunal-chennai-personal-guanator-overseas-residence-no-bar-proceedings-insolvency-and-bankruptcy-code-550160",
-      "https://blog.primelegal.in/nclt-chennai-overseas-personal-guarantor-ibc-liability/"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-03"
-  },
-  {
     "id": "pankaj-chhabildas-sheth-abhyudaya-cooperative-bank-section-94-misuse",
     "practice_area": "IBC & Insolvency",
     "case_name": "Pankaj Chhabildas Sheth v. Abhyudaya Co-Operative Bank Ltd.",
@@ -75,23 +11,6 @@
     "sources": [
       "https://www.taxscan.in/top-stories/nclat-rejects-personal-guarantors-plea-as-application-for-personal-insolvency-resolution-cannot-be-used-as-shield-to-stall-sarfaesi-possession-1452079",
       "https://ibclaw.in/pankaj-chhabildas-sheth-vs-abhyudaya-co-operative-bank-ltd-nclat-principal-bench-new-delhi/"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-04"
-  },
-  {
-    "id": "cci-rekha-agencies-ss-marketing-tyre-bid-rigging-hp-tender",
-    "practice_area": "Commercial Litigation",
-    "case_name": "In Re: Cartelisation in the Supply of Tyres to Himachal Pradesh Road Transport Corporation (Rekha Agencies & SS Marketing)",
-    "citation": "Reference Case No. 01 of 2019, CCI order dated 21 August 2026",
-    "court": "Competition Commission of India",
-    "date": "2026-08-21",
-    "holding_summary": "Acting on a reference concerning a 2013 Himachal Pradesh Road Transport Corporation tender for tyre procurement, the CCI found that Rekha Agencies and SS Marketing — authorised dealers of JK Tyre & Industries Ltd. and CEAT Ltd. respectively — had exchanged commercially sensitive bid-price information by email before submission, with the prices ultimately quoted matching to the second decimal place, in contravention of Section 3(3)(d) of the Competition Act, 2002. The Commission imposed modest penalties on the two dealers (Rs. 1,29,901 and Rs. 2,13,274 respectively) but exonerated the tyre manufacturers themselves, including CEAT, finding no evidence the principal companies directed or participated in the bid-rigging.",
-    "why_it_matters": "Shows the CCI will fix bid-rigging liability on an authorised dealer or distributor acting in a principal's name while declining to impute that liability to the manufacturer absent direct evidence of its involvement — a relevant distinction for manufacturers that route tender participation through independent dealer networks.",
-    "sources": [
-      "https://www.etvbharat.com/en/bharat/cci-slaps-fines-on-2-associations-4-individuals-and-penalises-two-entities-for-bid-rigging-activities-enn26082106906",
-      "https://indiaeducationdiary.in/cci-imposes-penalty-on-rekha-agencies-and-ss-marketing-for-indulging-in-anti-competitive-conduct-in-respect-of-himachal-pradesh-tender-2013-for-the-procurement-of-tyres/",
-      "https://blog.axiom5.in/p/keeping-up-with-competition-september-8c7"
     ],
     "queued_full_page": false,
     "added_on": "2026-10-04"
@@ -114,40 +33,6 @@
     "added_on": "2026-10-04"
   },
   {
-    "id": "procure-logistics-axis-bank-demonetised-cash-deposit-ncdrc",
-    "practice_area": "Consumer Protection",
-    "case_name": "Procure Logistics Services Pvt. Ltd. v. Axis Bank Ltd.",
-    "citation": "NCDRC, decided 10 March 2026",
-    "court": "National Consumer Disputes Redressal Commission",
-    "date": "2026-03-10",
-    "holding_summary": "Procure Logistics Services Pvt. Ltd., which had maintained a KYC-compliant current account with Axis Bank since 2011, sought to deposit demonetised Rs. 500 and Rs. 1,000 notes within the window permitted by the Government's November 2016 demonetisation notification. Axis Bank refused further deposits citing suspicion, despite the account being KYC-compliant and the deposits being supported by the company's audited financial records. The NCDRC held Axis Bank liable for deficiency in service, holding that the demonetisation notification did not empower a bank to unilaterally refuse deposits into a KYC-compliant account within the permitted window, and directed the bank to pay the complainant Rs. 3.19 crore with 6% simple interest from 30 December 2016 until payment.",
-    "why_it_matters": "Confirms that during a government-mandated currency-exchange window, a bank cannot invoke generalised suspicion to refuse deposits into an account it has itself certified as KYC-compliant, giving businesses a clear deficiency-of-service precedent where a bank obstructs the exercise of a government-conferred right.",
-    "sources": [
-      "https://www.livelaw.in/amp/consumer-cases/ncdrc-holds-axis-bank-liable-for-refusing-demonetised-cash-deposit-in-kyc-compliant-account-orders-319-crore-compensation-525951",
-      "https://www.business-standard.com/companies/news/consumer-panel-orders-axis-bank-to-pay-3-19-cr-in-demonetisation-case-126031400428_1.html",
-      "https://www.outlookmoney.com/banking/national-consumer-commission-holds-axis-bank-liable-for-refusing-demonetised-notes-directed-to-pay-rs-319-crore"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-04"
-  },
-  {
-    "id": "pvcon-engineering-sc-gstat-appeal-without-pre-deposit",
-    "practice_area": "Tax Litigation",
-    "case_name": "PVCON Engineering Co. v. CGST and Central Excise, Bhopal",
-    "citation": "SLP (C) No. 28059 of 2026, Supreme Court, order dated 21 September 2026",
-    "court": "Supreme Court of India",
-    "date": "2026-09-21",
-    "holding_summary": "PVCON Engineering, a road/construction contractor, received a penalty-only Order-in-Original dated 3 October 2024 (pursuant to a Show Cause Notice dated 26 July 2024 concerning alleged passing-on of irregular ITC without actual supply), and its Section 107 appeal was dismissed as time-barred. Challenging the Madhya Pradesh High Court's dismissal of its writ, PVCON argued the amended pre-deposit requirement for appeals before the GST Appellate Tribunal (GSTAT) could not apply to proceedings initiated before 1 October 2025. Justices K.V. Viswanathan and Arun Palli permitted PVCON to file its GSTAT appeal without the mandatory pre-deposit, expressly subject to the outcome of the pending SLP, and kept the jurisdictional challenge to the issuing DGGI officer open for adjudication.",
-    "why_it_matters": "Gives taxpayers facing a penalty-only GST order issued before the 1 October 2025 pre-deposit amendment a concrete basis to seek interim relief from the pre-deposit condition when approaching GSTAT, pending a final ruling on the amendment's retrospective reach.",
-    "sources": [
-      "https://www.taxscan.in/top-stories/sc-permits-to-file-appeal-before-gstat-without-pre-deposit-as-scn-was-issued-before-amendment-on-1st-october-2025-read-order-1451271",
-      "https://www.taxheal.com/k-v-viswanathan-and-arun-palli-jj-4.html",
-      "https://a2ztaxcorp.net/pre-deposit-on-penalty-order-cannot-be-demanded-merely-because-the-gstat-appeal-is-filed-after-october-01-2025-and-question-of-jurisdiction-kept-open-for-adjudication-proceedings-u-s-122/"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-05"
-  },
-  {
     "id": "orissa-hc-writ-maintainable-section-37-district-judge-order",
     "practice_area": "Arbitration & Dispute Resolution",
     "case_name": "State of Odisha and Others v. Dhanurdhar Champatiray",
@@ -165,90 +50,6 @@
     "added_on": "2026-10-05"
   },
   {
-    "id": "allahabad-hc-nbfc-premature-repayment-nclt-exclusive-jurisdiction",
-    "practice_area": "Banking & Finance",
-    "case_name": "Shivam Traders and Hire Purchase Pvt. Ltd. v. Madhusudan Vehicles Pvt. Ltd.",
-    "citation": "2026:AHC:67074, Allahabad High Court, decided 31 March 2026",
-    "court": "Allahabad High Court",
-    "date": "2026-03-31",
-    "holding_summary": "Shivam Traders, an NBFC, had received a long-term loan of Rs. 19.25 crore from Madhusudan Vehicles under a nine-year facility in 2019, and alleged the lender began pressing for premature repayment after only a year, prompting RBI complaints; Shivam Traders' civil suit for an injunction against premature recovery was rejected at the plaint stage, and its first appeal also failed. The Allahabad High Court dismissed its further appeal, holding that under Section 45QA of the RBI Act, 1934 read with Section 430 of the Companies Act, 2013, only the NCLT has jurisdiction over a dispute concerning the premature repayment of a deposit or loan from an NBFC, and a civil court has no jurisdiction to grant an injunction restraining such recovery.",
-    "why_it_matters": "Confirms that a borrower cannot use an ordinary civil suit or injunction to resist an NBFC's premature-recovery demand, and must instead raise any such dispute before the NCLT under Section 45QA -- relevant to any business financed by an NBFC that wants to contest early-repayment pressure.",
-    "sources": [
-      "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/shivam-traders-and-hire-purchase-pvt-ltd-v-madhusudan-vehicles-pvt-ltd-2026ahc67074-nclt-exclusive-domain-us-45-qa-1611706",
-      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-nclt-dispute-premature-repayment-loan-civil-court-jurisdiction-barred-529157",
-      "https://www.courtkutchehry.com/pages/blog/allahabad-hc-nclt-loan-repayment-jurisdiction/"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-05"
-  },
-  {
-    "id": "aptel-siwana-solar-tariff-finality-reopening",
-    "practice_area": "Power/Energy/Mining",
-    "case_name": "M/s Siwana Solar Power Projects Ltd. v. Haryana Power Purchase Centre & Anr.",
-    "citation": "APTEL, decided 18 September 2026",
-    "court": "Appellate Tribunal for Electricity (APTEL)",
-    "date": "2026-09-18",
-    "holding_summary": "In a dispute over the generic tariff applicable to Siwana's 5 MW solar project in Haryana, the Haryana Electricity Regulatory Commission had directed the Haryana Power Purchase Centre to pay a higher tariff of Rs. 6.44/kWh. APTEL, per Officiating Chairperson Seema Gupta and Judicial Member Virender Bhat, set aside that direction, holding the applicable-tariff question had already been finally decided in earlier proceedings between the same parties and could not be reopened, and restored Rs. 5.68/kWh as the binding rate for the project.",
-    "why_it_matters": "Reinforces that a solar generator or distribution utility cannot relitigate a tariff question already settled in a prior round of proceedings between the same parties, underscoring the finality of earlier SERC/APTEL tariff determinations in long-term power purchase arrangements.",
-    "sources": [
-      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/",
-      "https://www.pandwsolar.com/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/",
-      "https://kalpapower.com/aptel-rejects-solar-developers-claim-for-higher-tariff/"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-05"
-  },
-  {
-    "id": "bombay-hc-graviss-foods-ice-cream-rocks-trademark-generic-descriptive",
-    "practice_area": "Intellectual Property",
-    "case_name": "Graviss Foods Private Limited v. Registrar of Trade Marks",
-    "citation": "Bombay High Court, order dated 16 September 2026 (Sundaresan, J.)",
-    "court": "Bombay High Court",
-    "date": "2026-09-16",
-    "holding_summary": "Graviss Foods, the Indian licensee of Baskin Robbins, challenged the Registrar of Trade Marks' refusal to register 'ICE CREAM ROCKS' for its bite-sized, choco-dipped ice cream treats and related retail services, after the Registrar held the mark was devoid of distinctive character and merely descriptive of the goods under Sections 9(1)(a) and 9(1)(b) of the Trade Marks Act, 1999, and also similar to the existing registered mark 'Ice Cream Works' owned by Prince Creamery. Justice Somasekhar Sundaresan dismissed Graviss Foods' petitions, holding that 'ICE CREAM ROCKS' is too generic and descriptive a phrase to have acquired the distinctive character needed for trademark registration.",
-    "why_it_matters": "Reinforces that a catchy, product-descriptive slogan cannot be monopolised as a trademark merely because a business has used it in marketing — a reminder for food and beverage brands to test a proposed mark for inherent distinctiveness before building a campaign around it.",
-    "sources": [
-      "https://supremetoday.ai/bombay-high-court-rejects-graviss-foods-trademark-bid-for-ice-cream-rocks-as-too-descriptive-20260918048",
-      "https://www.livelawbiz.com/trademark/bombay-high-court-rejects-baskin-robbins-licensee-graviss-foods-trademark-plea-for-ice-cream-rocks-550471",
-      "https://www.worldtrademarkreview.com/article/bombay-high-court-one-cannot-contend-word-generic-and-seek-registration-of-mark-where-word-dominant"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-06"
-  },
-  {
-    "id": "nclat-bhumika-nilay-shah-archon-engicon-personal-guarantors-drt-crystallised-liability",
-    "practice_area": "IBC & Insolvency",
-    "case_name": "Bhumika Nilay R. Shah & Ors. v. Prawincharan Prafulcharan Dwary & Ors.",
-    "citation": "Company Appeal (AT)(Insolvency) Nos. 702, 703 & 704 of 2026, NCLAT Principal Bench, New Delhi, decided 22 September 2026",
-    "court": "National Company Law Appellate Tribunal (Principal Bench, New Delhi)",
-    "date": "2026-09-22",
-    "holding_summary": "Three personal guarantors of Archon Engicon Ltd. appealed an NCLT Ahmedabad order, seeking to contest the extent of their liability under a deed of guarantee notwithstanding that the Debt Recovery Tribunal had already adjudicated the same question by an order dated 3 August 2021 in O.A. No. 83/2017, upholding the guarantee's validity and holding the guarantors jointly and severally liable for the entire outstanding debt of over Rs. 149.26 crore. A bench led by Officiating Chairperson Justice Yogesh Khanna, with Technical Members Ajai Das Mehrotra and Barun Mitra, dismissed the appeals, holding that because the DRT's order had attained finality and was never challenged, the guarantors could not re-agitate the extent of their liability in collateral proceedings under Section 114 of the IBC.",
-    "why_it_matters": "Confirms that a personal guarantor who lets a DRT's liability determination become final cannot later use Section 114 IBC proceedings as a backdoor to relitigate how much they owe — an important limitation for guarantors facing both DRT recovery and IBC personal-insolvency tracks on the same debt.",
-    "sources": [
-      "https://www.livelawbiz.com/ibc/personal-guarantors-cannot-re-agitate-limited-liability-after-drt-crystallises-entire-debt-nclat-551265",
-      "https://supremetoday.ai/nclat-holds-personal-guarantors-bound-by-drts-final-liability-under-insolvency-code-20260923035"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-06"
-  },
-  {
-    "id": "nclat-duke-fashions-venus-garments-liquidator-eviction-not-landlord-tenant",
-    "practice_area": "IBC & Insolvency",
-    "case_name": "Duke Fashions (India) Ltd. & Anr. v. Pramod Kumar Misra (Liquidator of Venus Garments (India) Ltd.) & Ors.",
-    "citation": "Company Appeal (AT)(Insolvency) Nos. 1462 & 1475 of 2026, NCLAT Principal Bench, New Delhi, decided on or about 24 September 2026",
-    "court": "National Company Law Appellate Tribunal (Principal Bench, New Delhi)",
-    "date": "2026-09-24",
-    "holding_summary": "After Venus Garments (India) Ltd. was ordered into liquidation on 22 July 2025, its Liquidator, Pramod Kumar Misra, applied to the NCLT to recover possession of company properties occupied by Duke Fashions (India) Ltd. and UV & W Products Pvt. Ltd., and the NCLT Chandigarh Bench directed them to vacate within two weeks. The occupants argued they could only be evicted under the East Punjab Urban Rent Restriction Act, 1949 and that the NCLT lacked jurisdiction to order their eviction. NCLAT dismissed their appeals, holding that an IBC order's effect on possession of a property does not convert the dispute into a landlord-tenant matter, and that a liquidator may recover a corporate debtor's assets through the NCLT without having to approach a rent controller or civil court.",
-    "why_it_matters": "Confirms that occupants of a liquidated company's premises cannot invoke state rent-control legislation to delay or block a liquidator's recovery of possession, reinforcing the IBC's overriding effect over rent-control law in asset-recovery proceedings.",
-    "sources": [
-      "https://www.livelawbiz.com/ibc/nclat-upholds-eviction-of-occupants-from-venus-garments-properties-through-ibc-proceedings-551669",
-      "https://supremetoday.ai/does-ibc-order-on-property-possession-create-landlord-tenant-dispute-nclat-answers-no-20260926044",
-      "https://www.sansalegal.com/post/nclat-holds-a-liquidator-may-recover-possession-through-the-nclt-without-going-to-the-rent-controlle"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-06"
-  },
-  {
     "id": "nclt-guwahati-sandeep-kumar-bhagat-pnb-ots-cannot-compel-bank",
     "practice_area": "Banking & Finance",
     "case_name": "Sandeep Kumar Bhagat v. Punjab National Bank & Ors.",
@@ -260,23 +61,6 @@
     "sources": [
       "https://www.livelawbiz.com/amp/nclt/national-company-law-tribunal-guwahati-refuses-compel-punjab-national-bank-accept-one-time-settlement-proposa-551651",
       "https://supremetoday.ai/nclt-guwahati-refuses-to-direct-pnb-to-accept-ots-proposal-for-liquidated-companies-20260926046"
-    ],
-    "queued_full_page": false,
-    "added_on": "2026-10-06"
-  },
-  {
-    "id": "ccpa-flipkart-amazon-jiomart-cyclosinone-unregistered-herbicide-penalty",
-    "practice_area": "Agricultural Industries",
-    "case_name": "Central Consumer Protection Authority proceedings against Flipkart Internet Pvt. Ltd., Amazon Seller Services Pvt. Ltd. and JioMart (re: 'Cyclosinone' herbicide listings)",
-    "citation": "Central Consumer Protection Authority, order dated 22 September 2026 (Chief Commissioner Nidhi Khare and Commissioner Anupam Mishra)",
-    "court": "Central Consumer Protection Authority",
-    "date": "2026-09-22",
-    "holding_summary": "Acting on a reference traced to a complaint by the Crop Care Federation of India about the online sale of 'Cyclosinone Herbicide' — a chemical not listed in the Schedule to the Insecticides Act, 1968 and therefore never cleared for safety, bio-efficacy or quality — the Central Consumer Protection Authority held that Flipkart, Amazon and JioMart had listed, advertised and facilitated the sale of an unregistered agrochemical, and that marketing which did not disclose the product's active ingredient or composition amounted to a misleading advertisement and unfair trade practice. The Authority rejected the platforms' argument that their role as intermediaries insulated them from liability, holding that listing and advertising an unregistered agrochemical triggers the platforms' own due-diligence obligations under consumer-protection and e-commerce law. It imposed penalties of Rs. 10 lakh each on Flipkart and Amazon and Rs. 5 lakh on JioMart, and directed all three to stop the impugned advertisements, self-audit their platforms for similar unlawful listings, and report compliance within 15 days.",
-    "why_it_matters": "Confirms that an e-commerce marketplace cannot shelter behind its 'intermediary' status when it lists and advertises an agrochemical never registered under the Insecticides Act — a significant exposure point for platforms selling farm inputs, and a reminder to agri-input sellers that marketplace listings are themselves scrutinised for regulatory compliance, not just the underlying product.",
-    "sources": [
-      "https://www.livelaw.in/consumer-cases/central-consumer-protection-authority-fines-flipkart-misleading-advertisement-herbicide-552193",
-      "https://dailypioneer.com/news/ccpa-fines-amazon-flipkart-jiomart-over-unregistered-herbicide-sales",
-      "https://odishabytes.com/amazon-flipkart-jiomart-penalised-for-selling-unregistered-chemical/"
     ],
     "queued_full_page": false,
     "added_on": "2026-10-06"
@@ -312,5 +96,101 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-08"
+  },
+  {
+    "id": "delhi-hc-amazon-goodluck-buildtech-lease-arbitration-ravindra-bhat",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Amazon Seller Services Private Limited v. Goodluck Buildtech Pvt. Ltd.",
+    "citation": "O.M.P.(I) (COMM.) 443/2026, Delhi High Court, order dated 28 September 2026",
+    "court": "Delhi High Court",
+    "date": "2026-09-28",
+    "holding_summary": "Amazon sought Section 9 interim relief to access and remove its assets from a leased logistics facility (Horizon Urban Logistics Park, Alipur) after terminating its lease with Goodluck Buildtech, which contested the termination citing force majeure. Justice Om Prakash Shukla appointed former Supreme Court judge Justice S. Ravindra Bhat as sole arbitrator for the dispute, which involves an indemnity claim of roughly Rs. 182.50 crore and fixtures/fit-outs worth about Rs. 120 crore, and appointed a Local Commissioner to inspect and inventory Amazon's assets at the premises pending arbitration.",
+    "why_it_matters": "A practical illustration of how courts use a Local Commissioner under Section 9 to preserve and inventory disputed assets at a leased commercial property while a high-value arbitration is set up, rather than leaving a party to self-help remedies.",
+    "sources": [
+      "https://www.livelawbiz.com/arbitration/delhi-high-court-orders-inspection-of-amazons-120-crore-assets-refers-18250-crore-lease-dispute-to-arbitration-552295",
+      "https://delhihighcourt.nic.in/app/showFileJudgment/75228092026OMPICOMM4432026_200526.pdf"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-09"
+  },
+  {
+    "id": "delhi-hc-incyte-melody-healthcare-ruxolitinib-interim-injunction",
+    "practice_area": "Intellectual Property",
+    "case_name": "Incyte Holdings Corporation & Anr. v. Melody Healthcare Pvt. Ltd.",
+    "citation": "CS(COMM) 1054/2026, Delhi High Court, order dated 24 September 2026",
+    "court": "Delhi High Court",
+    "date": "2026-09-24",
+    "holding_summary": "Justice Vikas Mahajan granted Incyte an ex parte ad interim injunction restraining Melody Healthcare from making, selling or exporting products containing ruxolitinib, finding a prima facie case of infringement of Indian Patent No. 269841 (valid until 12 December 2026). The Court relied on Melody's listing of 'Ruxolitinib Phosphate' in its API product list and as a supplier on Pharmacompass, and a September 2026 investigation report showing Melody held a Maharashtra FDA manufacturing licence for the API and had developed a generic in-house, treating this as an offer for sale under Section 48 of the Patents Act even absent an actual launch.",
+    "why_it_matters": "The second ex parte injunction this year over the same ruxolitinib patent (after a similar order against Aurore Life Sciences in July 2026) confirms Delhi High Court's willingness to treat API listings and manufacturing-licence preparations, not just an actual product launch, as sufficient 'offer for sale' infringement to justify an interim injunction ahead of a patent's expiry.",
+    "sources": [
+      "https://www.livelawbiz.com/patent/delhi-hc-temporarily-restrains-melody-healthcare-from-selling-ruxolitinib-products-in-incyte-patent-case-552133",
+      "https://supremetoday.ai/delhi-high-court-grants-interim-injunction-to-incyte-against-melody-healthcare-over-ruxolitinib-patent-20260929038"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-09"
+  },
+  {
+    "id": "karnataka-hc-ashwagandha-fssai-ayush-advisory-stay",
+    "practice_area": "Food Safety (FSSAI)",
+    "case_name": "Sami-Sabinsa Group Ltd. & Ors. and Kerry Inc. v. Union of India, FSSAI & Ministry of AYUSH",
+    "citation": "Karnataka High Court, interim order (vacation bench)",
+    "court": "Karnataka High Court",
+    "date": "2026-04-18",
+    "holding_summary": "Health-supplement manufacturers, including Kerry Inc. and a group led by Sami-Sabinsa, challenged an FSSAI advisory (16 April 2026) and a Ministry of AYUSH directive (15 April 2026) restricting use of ashwagandha leaves in supplements, arguing that a restriction of this kind required a formal amendment to the Food Safety and Standards Regulations, 2016 rather than an advisory, and that the underlying studies did not establish a safety risk. Justice S.R. Krishna Kumar, sitting as vacation bench, granted an interim stay of both the advisory and the directive, preserving the status quo for manufacturers and exporters pending further hearing.",
+    "why_it_matters": "A reminder that FSSAI cannot use an informal advisory to restrict an ingredient already permitted under the 2016 Regulations — any such restriction needs a formal regulatory amendment, giving affected manufacturers a ready administrative-law challenge to similar advisories.",
+    "sources": [
+      "https://www.livelaw.in/law-firms/litigation/karnataka-hc-stays-fssai-advisory-ayush-directive-restricting-use-ashwagandha-leaves-535180",
+      "https://www.deccanherald.com/india/karnataka/karnataka-high-court-stays-fssai-advisory-restricting-use-of-ashwagandha-in-health-supplements-4011608",
+      "https://thesouthfirst.com/health/karnataka-hc-temporarily-stays-fssai-ban-on-ashwagandha-leaves/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-09"
+  },
+  {
+    "id": "aptel-tnpdcl-techno-electric-632-day-delay-condoned-wind-tariff",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "Tamil Nadu Power Distribution Corporation Ltd. (TANGEDCO/TNPDCL) v. Tamil Nadu Electricity Regulatory Commission & Techno Electric & Engineering Co. Ltd.",
+    "citation": "Appellate Tribunal for Electricity, order dated 10 August 2026",
+    "court": "Appellate Tribunal for Electricity (APTEL)",
+    "date": "2026-08-10",
+    "holding_summary": "In a dispute over the Average Power Purchase Cost cap applicable to Techno Electric's 111.90 MW wind capacity in Tamil Nadu, APTEL (Officiating Chairperson Seema Gupta and Judicial Member Virender Bhat) condoned TNPDCL's 632-day delay in filing its appeal against a TNERC order that had ruled for the generator, while directing TNPDCL to pay Rs. 1 lakh in costs to Techno Electric. TNERC had held on 9 July 2024, and clarified on 28 January 2025, that the tariff cap under TNPDCL's April 2022 circular should use the SECI bid tariff of the corresponding year rather than the year of commissioning.",
+    "why_it_matters": "Shows APTEL remains willing to condone even very long delays by a discom in appealing an adverse tariff order, provided costs are imposed — generators should not assume a long-delayed discom appeal is time-barred as a matter of course.",
+    "sources": [
+      "https://windinsider.com/2026/08/12/aptel-condones-tnpdcls-632-day-delay-in-wind-power-tariff-dispute/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-09"
+  },
+  {
+    "id": "nclat-eastern-power-distribution-ap-daulat-counsel-non-appearance",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Eastern Power Distribution Company of Andhra Pradesh Limited v. Daulat",
+    "citation": "NCLAT, Principal Bench, order dated 25 September 2026",
+    "court": "National Company Law Appellate Tribunal (NCLAT)",
+    "date": "2026-09-25",
+    "holding_summary": "NCLAT (Justice Sharad Kumar Sharma, Judicial Member, with Technical Members Arun Baroka and Indevar Pandey) set aside an NCLT order refusing to recall the 2023 dismissal-for-non-prosecution of a Rs. 20.72 crore electricity-dues claim by a statutory power distribution company, holding that the company's engaged counsel could not simply hand the brief to a junior and stop appearing, and that such deliberate non-appearance by counsel — as distinct from ordinary negligence — should not be visited on the litigant. Invoking Section 238A of the IBC read with Section 5 of the Limitation Act, the Tribunal recalled the dismissal and restored the claim to NCLT for a merits decision.",
+    "why_it_matters": "Gives claimants in CIRP/liquidation proceedings a basis to seek recall of a dismissal caused by their own counsel's deliberate default, rather than losing a substantial claim purely to a lawyer's conduct.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/lawyer-engaged-by-statutory-body-cant-hand-over-brief-to-junior-and-stop-appearing-nclat",
+      "https://www.livelawbiz.com/ibc/litigant-cannot-suffer-for-counsels-deliberate-non-appearance-nclat-restores-2072-crore-electricity-dues-claim-552291"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-09"
+  },
+  {
+    "id": "sc-moser-baer-solar-auction-jfc-finance-54-crore-deposit-status-quo",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Moser Baer Solar Ltd. Liquidator v. JFC Finance (India) Ltd. & Ors.",
+    "citation": "Supreme Court, order dated 1 October 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-10-01",
+    "holding_summary": "In the Moser Baer Solar liquidation asset auction, NCLAT had directed the liquidator to immediately refund JFC Finance's Rs. 54 crore deposit after a higher bid (totalling Rs. 168 crore) displaced JFC in a fresh auction, holding the return condition in the auction documents had been triggered. On the liquidator/Committee of Creditors' appeal, a Bench of Justices S.V.N. Bhatti and N.V. Anjaria issued notice and directed the parties to maintain status quo on the deposit pending further hearing, with the dispute centring on whether the liquidator may withhold the deposit until the successful bidder pays the full sale consideration.",
+    "why_it_matters": "An auction participant's deposit in an IBC liquidation sale is not automatically releasable the moment a higher bid displaces them — the liquidator can press to retain it as security until the new bidder actually completes payment, a point now before the Supreme Court.",
+    "sources": [
+      "https://www.livelawbiz.com/top-stories/supreme-court-directs-status-quo-in-moser-baer-solar-auction-dispute-over-54-crore-deposit-552615",
+      "https://www.livelawbiz.com/ibc/nclat-rejects-clarification-plea-directs-refund-of-rs-54-crore-deposit-to-jfc-finance-in-moser-baer-solar-liquidation-551246"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-09"
   }
 ]

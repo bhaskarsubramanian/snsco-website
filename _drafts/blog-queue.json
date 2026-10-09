@@ -1,155 +1,79 @@
 [
   {
-    "id": "ibc-related-party-coc-voting-exclusion-section-21-2-guide",
-    "topic_title": "Related Parties on the Committee of Creditors: Why Some Financial Creditors Don't Get a Vote Under IBC Section 21(2)",
-    "angle": "A guide for financial creditors, resolution professionals and corporate debtors on how the Section 21(2) proviso excludes related-party financial creditors from CoC representation, participation and voting, and the narrow statutory exception that lets some of them back in.",
+    "id": "nclat-e-filing-portal-failure-limitation-ibc-guide",
+    "topic_title": "E-Filing Portal Failures and the Limitation Clock at NCLT/NCLAT: What the Law Actually Excuses",
+    "angle": "A guide for IBC litigants and counsel on when a tribunal's own e-filing system failure can be used to seek exclusion of time from the limitation period for an appeal or application, and the limits of that relief given NCLAT's 45-day outer cap under Section 61(2).",
     "key_points": [
-      "The proviso to Section 21(2) of the IBC bars a financial creditor that is a 'related party' of the corporate debtor (as defined in Section 5(24)) from any right of representation, participation or voting in CoC meetings",
-      "Related-party status for this purpose can arise from equity/voting control, common directorship or management, or other relationships listed in Section 5(24), and courts have read the exclusion purposively to catch disguised or collusive related-party financing used to influence CoC outcomes",
-      "A second proviso carves out an exception: a financial creditor regulated by a financial sector regulator is not excluded merely because it became a related party solely through conversion of debt into equity (or instruments convertible into equity) before the insolvency commencement date",
-      "The test for exclusion looks at the relationship existing as of the insolvency commencement date in most judicial readings, with courts scrutinising last-minute restructurings designed to artificially gain or escape related-party status",
-      "A resolution professional who wrongly admits a related party to CoC voting (or wrongly excludes a genuine arm's-length creditor as related) exposes the CoC's decisions, including plan approval, to challenge before the NCLT/NCLAT",
-      "Practical steps for creditors and RPs: documenting the actual ownership/control chain and transaction history behind any financial debt claim, and flagging related-party questions early rather than after a contested CoC vote"
+      "NCLAT's appeal limitation under Section 61(2) of the IBC is 30 days, extendable by a further 15 days on sufficient cause, with the Supreme Court having held NCLAT has no inherent power to condone delay beyond that 45-day outer limit",
+      "The Supreme Court has nonetheless held that where a litigant makes a bona fide, timely attempt to e-file before the deadline but is prevented by a tribunal's own backend/portal technical glitch, the period the portal was non-functional can be excluded from the limitation computation rather than treated as part of the delay to be condoned",
+      "The operative principle invoked is actus curiae neminem gravabit — an act (or failure) of the court/tribunal itself should not prejudice a litigant who acted diligently",
+      "Practical evidentiary steps: preserving screenshots/error logs of failed OTP or upload attempts, timestamps, and promptly seeking a report from the tribunal's own registry confirming the system issue, since courts have relied on exactly such a registry report to grant relief",
+      "This exclusion-of-time route is distinct from, and does not override, the separate question of whether sufficient cause exists to condone any further, unrelated delay within the 45-day window",
+      "The same reasoning has been applied to e-filing failures in income-tax appellate and other tribunal contexts, so the principle is not confined to IBC appeals"
     ],
     "facts_to_verify_or_confirmed": [
-      "confirmed: the proviso to Section 21(2) of the IBC excludes a related-party financial creditor from CoC representation, participation and voting, with 'related party' defined in Section 5(24)",
-      "confirmed: a second proviso exempts financial-sector-regulated creditors that became related parties solely through pre-insolvency debt-to-equity conversion",
-      "confirmed: courts (including the Supreme Court) have applied a purposive interpretation to prevent related parties from being included in or manipulating the CoC through collusive transactions"
+      "confirmed: NCLAT appeal limitation under IBC Section 61(2) is 30 days plus a further 15 days on sufficient cause, a 45-day outer limit NCLAT cannot extend on equitable grounds (Supreme Court authority)",
+      "confirmed: in Regional Provident Fund Commissioner-II v. Ms. Mamta Binani & Ors. (2026 INSC 1003), the Supreme Court held a tribunal e-filing portal's backend failure on the last day of limitation could be excluded from the limitation period rather than count against the litigant, remitting the matter for NCLAT to decide residual sufficient cause",
+      "confirmed: the Court relied on a registry-submitted report confirming the portal's technical failure as key evidence"
     ],
-    "added_on": "2026-10-02"
+    "added_on": "2026-10-09"
   },
   {
-    "id": "order-vii-rule-11-cpc-rejection-of-plaint-guide",
-    "topic_title": "When Can a Plaint Be Rejected Under Order VII Rule 11 CPC? A Practical Guide",
-    "angle": "A guide for both plaintiffs and defendants in civil and commercial suits on the narrow, plaint-averments-only test courts apply when a defendant seeks early rejection of a suit under Order VII Rule 11, and when such an application will (and won't) succeed.",
+    "id": "patent-revocation-section-64-guide",
+    "topic_title": "Revoking a Granted Patent in India: Section 64 Revocation Petitions Explained",
+    "angle": "A guide for a competitor or any 'person interested' seeking to invalidate an already-granted Indian patent, covering who can file, the forum, the statutory grounds, and how a revocation petition differs from pre/post-grant opposition and from a revocation counterclaim in an infringement suit.",
     "key_points": [
-      "Order VII Rule 11 CPC lists specific grounds for rejecting a plaint at the threshold: no disclosed cause of action, undervaluation of relief, insufficient stamping, the suit being barred by law, failure to file in duplicate, and non-compliance with Order VII Rule 9 on documents",
-      "Courts decide such an application by looking only at the averments in the plaint itself (and documents filed with it) -- the defendant's written statement, defence or external evidence cannot be relied on to reject a plaint",
-      "No evidence or merits of the underlying controversy can be examined at this stage; the court must assume the plaint's factual averments are true for the limited purpose of deciding whether a cause of action or a legal bar is disclosed on the face of the plaint",
-      "Where limitation or another legal bar is obvious and glaring from the plaint's own averments, courts have held they should reject the plaint at the threshold rather than let a hopeless suit proceed to trial",
-      "If a plaint claims several reliefs and at least one is properly pleaded and maintainable, the entire plaint cannot be rejected merely because other reliefs may not be maintainable",
-      "Strategic use: a well-prepared Order VII Rule 11 application can end a suit at an early, inexpensive stage, but a plaintiff can often defeat it by ensuring the plaint itself pleads enough facts to disclose a cause of action and to show the claim isn't ex facie time-barred"
+      "Under Section 64(1) of the Patents Act, 1970, a patent may be revoked on a petition by 'any person interested' or by the Central Government, or on a counterclaim by a defendant in an infringement suit",
+      "Since the IP Appellate Board's abolition in 2021, standalone revocation petitions are filed before the jurisdictional High Court rather than a specialised tribunal",
+      "Where revocation is raised as a counterclaim in an infringement suit filed in a District Court, Section 104 requires the suit together with the counterclaim to be transferred to the High Court",
+      "A person interested who could pursue either route (standalone petition or counterclaim) has a statutory right to choose, and that choice cannot be forced by the opposing party",
+      "Statutory grounds under Section 64(1) include prior claiming by another Indian patent with an earlier priority date, grant to a person not entitled to apply, wrongful obtaining in contravention of the petitioner's own rights, lack of novelty or inventive step, insufficiency of disclosure, and non-compliance with disclosure/working requirements",
+      "Revocation is distinct from pre-grant opposition (Section 25(1), before grant) and post-grant opposition (Section 25(2), within 12 months of grant) — a revocation petition can be filed at any time after grant and after the opposition window has closed, and is the only route once a patent is already granted and unopposed"
     ],
     "facts_to_verify_or_confirmed": [
-      "confirmed: Order VII Rule 11(a)-(f) CPC sets out the six specific grounds for rejection of a plaint",
-      "confirmed: Supreme Court has repeatedly held that only the plaint's own averments (not the defence or external evidence) are considered on an Order VII Rule 11 application, and that evidence/merits cannot be examined at that stage",
-      "confirmed: Supreme Court has held a plaint can be rejected at the threshold where the limitation bar is obvious from the pleadings, and that partial rejection is not permitted where at least one pleaded relief is maintainable"
+      "confirmed: Section 64(1) revocation can be sought by a person interested, the Central Government, or by counterclaim in an infringement suit",
+      "confirmed: post-IPAB abolition (2021), standalone revocation petitions now go to the High Court",
+      "confirmed: Section 104 requires transfer of an infringement suit with a revocation counterclaim to the High Court",
+      "note: exact current statutory text of all Section 64(1) grounds (a) through to the later sub-clauses should be verified against the Patents Act before publication, since some secondary sources still reference the since-abolished Appellate Board as a forum"
     ],
-    "added_on": "2026-10-02"
+    "added_on": "2026-10-09"
   },
   {
-    "id": "msp-legal-enforceability-farmers-guide",
-    "topic_title": "Is Minimum Support Price (MSP) Legally Enforceable? What Farmers Can and Cannot Claim in Court",
-    "angle": "A guide for farmers, FPOs and agri-businesses on the actual legal status of MSP in India -- a policy announcement rather than a statutory entitlement -- what limited remedies currently exist, and the pending litigation seeking to make it a legal right.",
+    "id": "rera-forfeiture-allotment-cancellation-cap-guide",
+    "topic_title": "Can a Builder Cancel Your Allotment and Forfeit Your Payment? RERA's Limits on Forfeiture Clauses",
+    "angle": "A guide for homebuyers facing allotment cancellation (for alleged default on instalments) or who want to withdraw from a project themselves, on how RERA authorities have capped how much of the paid amount a builder can actually forfeit, regardless of what the builder-buyer agreement says.",
     "key_points": [
-      "MSP is announced by the Government on the recommendation of the Commission for Agricultural Costs and Prices (CACP) as a policy/administrative price-support mechanism; it has no dedicated statute making it a legally enforceable right, and government procurement agencies are not under a statutory obligation to buy every farmer's produce at MSP",
-      "A farmer cannot, as matters currently stand, sue to compel payment of MSP for produce sold in the open market to a private buyer below the announced MSP, since there is no law mandating private buyers pay MSP or making the floor price legally binding",
-      "Where the government or a designated procurement agency (e.g., for paddy, wheat, cotton) does operate a procurement scheme, farmers can seek remedies tied to that specific scheme's procurement guidelines (e.g., unjustified rejection on quality grounds, procurement centre access) rather than a freestanding 'right to MSP'",
-      "A batch of petitions is pending before the Supreme Court seeking a legally guaranteed MSP for all notified crops computed on a cost-of-cultivation-plus-50%-profit (C2+50%) formula based on the Swaminathan Commission Report, with the Court seeking the Centre's response -- this remains unresolved and should be tracked rather than treated as settled law",
-      "Separately, the Essential Commodities Act and state APMC/agricultural produce marketing laws regulate where and how produce can be sold and what licensing traders need, which is distinct from and does not itself guarantee a floor price",
-      "Practical guidance for farmers and FPOs: document produce quality and procurement-centre interactions carefully when relying on a government scheme, since remedies currently run through the specific scheme's own grievance mechanism rather than a general MSP enforcement right"
+      "Several state RERA authorities have held that a builder-buyer agreement clause allowing forfeiture of a large percentage (commonly 20% or more) of the sale consideration or paid amount as 'earnest money' is liable to be read down as a one-sided, unconscionable term under the RERA framework",
+      "Haryana RERA has capped forfeiture at 10% of the sale/unit consideration in both builder-initiated cancellations for buyer default and buyer-initiated withdrawals, treating any contrary clause as void, and has applied the same cap even to commercial unit cancellations",
+      "MahaRERA has taken an even stricter line in some orders, capping forfeiture at 2% for homebuyer-initiated cancellations, and has applied this retroactively to already-registered projects",
+      "The underlying consumer-law principle (invoked alongside RERA) is that an unreasonably high forfeiture clause amounts to a penalty rather than genuine pre-estimated liquidated damages, and the Supreme Court has limited builders' ability to forfeit earnest money on this basis in consumer/contract disputes (e.g. the Godrej Projects Development line of cases)",
+      "A buyer facing a cancellation notice or a builder refusing to refund beyond a deducted percentage should check the applicable state RERA's specific orders/circulars on forfeiture caps, since there is no single uniform national percentage — Haryana and Maharashtra positions differ",
+      "Remedy: a buyer can file a RERA complaint seeking refund of the amount withheld beyond the authority's recognised cap, with interest, rather than accepting the agreement's forfeiture clause as final"
     ],
     "facts_to_verify_or_confirmed": [
-      "confirmed: there is no central statute making MSP a legally enforceable right; MSP is fixed by government policy on CACP's recommendation and procurement is scheme-based",
-      "confirmed: a plea seeking a legally guaranteed MSP based on the Swaminathan Commission's C2+50% formula is pending before the Supreme Court, which has sought a response from the Centre -- this is an open/unresolved matter, not decided law",
-      "varies: specific procurement scheme guidelines, grievance mechanisms and which crops have active government procurement vary by state and by crop season"
+      "confirmed: Haryana RERA has held forfeiture cannot exceed 10% of sale consideration, voiding contrary clauses, in both builder-cancellation and buyer-withdrawal scenarios",
+      "confirmed: MahaRERA orders have capped homebuyer-cancellation forfeiture at 2%, applied retroactively to registered projects",
+      "note: there is no single pan-India statutory forfeiture percentage under RERA itself — the caps described are authority-specific orders/practice, which should be described as such rather than as a uniform rule, and the Godrej Projects Development v. Anil Karlekar Supreme Court outcome should be confirmed against the final judgment before citing its holding"
     ],
-    "added_on": "2026-10-02"
+    "added_on": "2026-10-09"
   },
   {
-    "id": "benami-transactions-prohibition-act-confiscation-guide",
-    "topic_title": "Benami Transactions: How Attachment and Confiscation Actually Work Under the 2016 Amendment Act",
-    "angle": "A guide for property owners, family members on a property title, and anyone structuring a purchase in another's name, explaining the enforcement machinery under the Benami Transactions (Prohibition) Amendment Act, 2016 and the real risk of losing the property without compensation.",
+    "id": "pss-mis-pm-aasha-price-support-guide",
+    "topic_title": "Price Support Scheme vs Market Intervention Scheme: How Farmers of Perishable Crops Get Price Protection Without an MSP",
+    "angle": "A guide for farmers and FPOs growing crops that have no announced Minimum Support Price (fruits, vegetables, onions, tomatoes, potatoes) on how the Market Intervention Scheme and the related Price Support Scheme and Price Deficiency Payment Scheme under PM-AASHA actually work, who triggers them, and how a farmer accesses the benefit.",
     "key_points": [
-      "The Benami Transactions (Prohibition) Amendment Act, 2016, in force from 1 November 2016, substantially overhauled the original 1988 Act, defining 'benami transaction' and creating a dedicated enforcement machinery: an Initiating Officer, an Approving Authority, an Adjudicating Authority, and an Appellate Tribunal",
-      "Under Section 24, the Initiating Officer who has reason to believe a person holds benami property issues notice to both the benamidar (the name-holder) and the beneficial owner, where known, and may provisionally attach the property (with Approving Authority approval) for up to 90 days to prevent it being alienated during the inquiry",
-      "Within 15 days of a provisional attachment order, the Initiating Officer must refer the matter to the Adjudicating Authority, which decides, after hearing the affected persons, whether to confirm the attachment",
-      "Where the Adjudicating Authority ultimately confirms the property is benami, it passes a confiscation order; on confiscation, all rights and title vest absolutely in the Central Government free of encumbrances, and no compensation is payable",
-      "The Act also carries criminal exposure -- rigorous imprisonment and a fine -- for entering into a benami transaction to defeat the law or evade creditors or statutory dues, separate from the confiscation proceedings against the property itself",
-      "Common exceptions preserved under the Act include property held by a person in a fiduciary capacity, and property purchased in the name of a spouse or unmarried daughter for which consideration is traceable to known sources of the person providing it -- though these exceptions are narrowly construed and fact-dependent"
+      "PM-AASHA (Pradhan Mantri Annadata Aay Sanrakshan Abhiyan) is the umbrella scheme with three components: Price Support Scheme (PSS), Price Deficiency Payment Scheme (PDPS), and Market Intervention Scheme (MIS)",
+      "PSS applies only to crops with an announced MSP that lack one (oilseeds, pulses, copra) and involves direct government procurement at MSP from registered farmers when market prices fall below it",
+      "MIS is specifically for perishable horticultural/agricultural produce that has no announced MSP at all (e.g. onions, tomatoes, potatoes) and is implemented only on a specific request from the concerned state/UT government, not automatically",
+      "MIS procurement is typically triggered when there is at least a 10% fall in market prices compared to the previous normal season, with losses shared between the Centre and the state (commonly on a 50:50 basis, higher for North-Eastern states), subject to a pre-approved quantity ceiling",
+      "A 2025 revision allows states to instead pay farmers the difference between the Market Intervention Price and the actual selling price directly into their bank accounts, rather than physical procurement",
+      "A farmer/FPO seeking MIS benefit should approach the state agriculture/horticulture department (which requests Central approval) rather than a Central government agency directly, since MIS is state-request-driven, unlike PSS procurement"
     ],
     "facts_to_verify_or_confirmed": [
-      "confirmed: Benami Transactions (Prohibition) Amendment Act, 2016 in force from 1 November 2016, establishing the Initiating Officer/Adjudicating Authority/Appellate Tribunal structure",
-      "confirmed: Section 24 provisional attachment (up to 90 days) and the 15-day reference requirement to the Adjudicating Authority",
-      "confirmed: confiscation under a confirmed order vests the property in the Central Government free of encumbrances with no compensation payable"
+      "confirmed: MIS covers perishable produce without an announced MSP and operates on state/UT request, cost-shared with the Centre",
+      "confirmed: PSS covers oilseeds/pulses/copra procurement at MSP when market price falls below it",
+      "note: the exact current cost-sharing ratio, the price-fall trigger percentage, and the procurement quantity ceiling should be re-confirmed against the latest PM-AASHA/MIS guidelines in force at time of writing, since these parameters are revised periodically"
     ],
-    "added_on": "2026-10-04"
-  },
-  {
-    "id": "ngt-appeal-environmental-clearance-section-16-guide",
-    "topic_title": "Challenging an Environmental Clearance at the NGT: The Section 16 Appeal Process and Its Tight Deadlines",
-    "angle": "A guide for a project proponent defending a granted EC, or a community/objector challenging one, on how an environmental clearance appeal actually works before the National Green Tribunal and why missing the limitation window is usually fatal.",
-    "key_points": [
-      "An order granting or refusing environmental clearance can be appealed to the National Green Tribunal under Section 16(h) of the NGT Act, 2010, and the appeal can be filed by any person aggrieved, including on environmental-interest grounds, not only a direct commercial rival",
-      "The limitation period is a strict 30 days from the date the EC order is communicated or otherwise made known to the appellant, calculated from the earliest date of effective public disclosure (such as upload on the relevant authority's website)",
-      "The NGT has power to condone a further delay of up to 60 days on sufficient cause being shown, making 90 days the absolute outer limit",
-      "Following an NGT Principal Bench practice direction, appeals filed beyond the 90-day outer limit are virtually always dismissed as time-barred, regardless of the merits of the environmental objections raised",
-      "Because the clock runs from disclosure rather than actual knowledge, a project proponent should ensure proper, timely publication of the EC to start and close the limitation window, while an intending objector must monitor clearance portals proactively rather than waiting for formal personal notice",
-      "On a successful appeal, the NGT can modify conditions, remand for fresh consideration by the authority, or quash the clearance outright, with significant practical consequences for a project already underway"
-    ],
-    "facts_to_verify_or_confirmed": [
-      "confirmed: Section 16(h) of the NGT Act, 2010 provides the right of appeal against an order granting or refusing environmental clearance",
-      "confirmed: 30-day limitation period from communication, condonable by a further 60 days (90-day outer limit), as applied via NGT Principal Bench practice (order dated 12 August 2024) under which appeals beyond 90 days are virtually always dismissed",
-      "confirmed: limitation runs from the earliest date of effective communication/public disclosure of the EC order, not from a party's actual subjective knowledge"
-    ],
-    "added_on": "2026-10-04"
-  },
-  {
-    "id": "pledge-of-shares-invocation-lender-rights-guide",
-    "topic_title": "Invoking a Pledge of Shares: What a Lender Can (and Can't) Do on Borrower Default",
-    "angle": "A guide for lenders and promoters on how a share pledge -- a common security structure in promoter-financing and acquisition-finance deals -- is actually invoked on default, distinct from the site's existing personal-guarantee and bank-guarantee content.",
-    "key_points": [
-      "A pledge of shares as loan security is governed by a combination of the Indian Contract Act, 1872 (pledge/bailment provisions), the Companies Act, 2013 (charge registration), the Depositories Act, 1996 and SEBI's depository regulations, and, where applicable, the SARFAESI Act, 2002",
-      "Under the Companies Act, 2013, a company creating a pledge over its shares is required to have the charge registered, and an unregistered charge cannot be enforced against the company by a creditor",
-      "On default, a pledgee-lender's core contract-law options are to sue for recovery while retaining the pledge as security, or to sell the pledged shares after giving the borrower reasonable notice of the intended sale",
-      "On proper invocation, a pledgee (or its assignee) can get itself registered as beneficial owner of the dematerialised pledged shares, entitling it to exercise voting and other shareholder rights attached to those shares -- a point affirmed by Bombay High Court authority",
-      "The pledgor's right of redemption survives invocation and registration as beneficial owner -- it is only extinguished once the shares are actually sold to a third party, so a borrower retains a window to redeem by clearing the debt even after the pledge is invoked",
-      "Practical lender diligence: confirming the charge is duly registered, that depository/DP-level invocation formalities are correctly followed, and that notice requirements are satisfied before relying on invoked pledged shares as the primary recovery route"
-    ],
-    "facts_to_verify_or_confirmed": [
-      "confirmed: Companies Act, 2013 charge-registration requirement applies to a pledge of a company's shares, and an unregistered charge is unenforceable against the company",
-      "confirmed: Bombay High Court authority affirms a pledgee/assignee's right to be registered as beneficial owner of invoked dematerialised pledged shares and to exercise voting rights as such",
-      "confirmed: the pledgor's right of redemption continues until actual sale of the shares to a third party, under general pledge/bailment principles"
-    ],
-    "added_on": "2026-10-04"
-  },
-  {
-    "id": "anti-dumping-duty-sunset-review-cestat-appeal-guide",
-    "topic_title": "Anti-Dumping Duty in India: Sunset Reviews, Imposition and the CESTAT Appeal Route",
-    "angle": "A guide for importers, domestic producers and exporters on how an anti-dumping duty is investigated and imposed by the DGTR, how a five-year duty gets extended through a sunset review, and how an affected party can actually appeal the resulting customs notification.",
-    "key_points": [
-      "An anti-dumping duty is imposed under the Customs Tariff Act, 1975 and the Anti-Dumping Rules following a DGTR (Directorate General of Trade Remedies) investigation into dumping and resulting material injury to the domestic industry; the duty itself takes effect through a customs notification",
-      "A duty normally runs for five years from imposition unless revoked earlier, and can be extended for a further five years through a Sunset Review investigation examining whether expiry would likely lead to recurrence of dumping and injury",
-      "A Sunset Review application must ordinarily be filed with DGTR at least 270 days before the existing duty expires, though DGTR has in practice allowed later filing (down to around 180, and in some circumstances 120, days before expiry) on a showing of genuine difficulty",
-      "A separate Mid-Term Review can be sought by an interested party one year after a duty's imposition, allowing the duty quantum or scope to be revisited without waiting for the five-year sunset point",
-      "An appeal against the customs notification imposing (or continuing) an anti-dumping duty, and against the underlying DGTR findings, lies to the CESTAT (Customs, Excise and Service Tax Appellate Tribunal) and must be filed within 90 days of the notification",
-      "Practical pointers for affected importers and domestic producers: track DGTR's public notices and initiation timelines closely since sunset review windows are rigid, and preserve costing/pricing evidence early since both the original investigation and any CESTAT appeal turn heavily on contemporaneous data"
-    ],
-    "facts_to_verify_or_confirmed": [
-      "confirmed: anti-dumping duties run for an initial five years and can be extended via sunset review under the Customs Tariff Act, 1975 and Anti-Dumping Rules",
-      "confirmed: DGTR's prescribed sunset review filing window is 270 days before expiry, relaxable by DGTR practice to around 180 days (and exceptionally further) on justified delay",
-      "confirmed: appeals against anti-dumping customs notifications/DGTR findings lie to CESTAT within 90 days of the notification",
-      "confirmed: a mid-term review may be sought by an interested party one year after imposition of the duty"
-    ],
-    "added_on": "2026-10-05"
-  },
-  {
-    "id": "comparative-advertising-disparagement-india-guide",
-    "topic_title": "Comparative Advertising and Product Disparagement in India: Where Puffery Ends and Disparagement Begins",
-    "angle": "A guide for brands, marketers and in-house counsel on the line Indian courts draw between permissible comparative advertising and actionable disparagement, and the interim-injunction playbook used to fight (or defend) these suits.",
-    "key_points": [
-      "Comparative advertising is itself lawful in India -- a business may truthfully claim its product is better than a competitor's -- but the manner of the comparison matters: showing one's own product favourably is permissible 'puffery', while ridiculing, mocking or falsely denigrating a rival's product crosses into disparagement",
-      "Courts have long held that disparagement should border on defamation of the competitor's goods to be actionable, and look at the overall impact of the advertisement on an ordinary consumer rather than parsing isolated words or frames",
-      "Where a registered trademark is referenced or implied in a comparative ad, Section 30(1) of the Trade Marks Act, 1999 permits referential use in accordance with honest industrial or commercial practices, but protection is lost where the use takes unfair advantage of, or is detrimental to, the distinctive character or repute of the rival's mark",
-      "The usual relief sought is an urgent interim injunction restraining telecast/publication of the advertisement, often obtained within days given the fast-moving commercial harm, with the final disparagement question decided later at trial",
-      "An undertaking given to the court to withdraw or modify an advertisement is strictly enforced -- releasing a 'revised' ad that a court finds creates no perceptible difference in overall impact from the original can expose the advertiser to contempt proceedings, not just a fresh injunction application",
-      "Practical guidance for brands: legal review of comparative and rival-referencing campaigns before release should test manner (mocking vs. merely favourable), factual accuracy of any claims, and whether a rival's mark or trade dress is used beyond what honest comparison requires"
-    ],
-    "facts_to_verify_or_confirmed": [
-      "confirmed: Indian courts permit truthful comparative advertising/puffery but treat ridicule or denigration of a rival's goods, bordering on defamation, as actionable disparagement (settled since Dabur India v. Wipro Ltd. and the line of Delhi High Court disparagement cases)",
-      "confirmed: Section 30(1) of the Trade Marks Act, 1999 permits referential/comparative use of a registered mark only where it accords with honest practices and does not take unfair advantage of or harm the mark's distinctive character or repute",
-      "confirmed: breach of an undertaking given to a court to withdraw/modify an advertisement can found a contempt application, as recently illustrated in the Gillette India v. Visage Lines Personal Care (Bombay Shaving Company) 'Switch4' ad dispute before the Delhi High Court (September 2026)"
-    ],
-    "added_on": "2026-10-06"
+    "added_on": "2026-10-09"
   }
 ]
