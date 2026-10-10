@@ -600,5 +600,168 @@
       "confirmed: Delhi High Court appointed a Local Commissioner to inspect and inventory a party's assets at a disputed leased property, alongside referring the underlying lease dispute to arbitration, in a Section 9 interim-relief application (Amazon Seller Services v. Goodluck Buildtech, Sept 2026)"
     ],
     "added_on": "2026-10-10"
+  },
+  {
+    "id": "guarantee-cap-interest-beyond-limit-guide",
+    "topic_title": "Your Personal Guarantee Says 'Capped at Rs X Crore' — Why You Could Still Owe More",
+    "angle": "A guide for personal guarantors on why a stated principal-liability cap in a Deed of Guarantee often doesn't cap total exposure, because accruing interest from the date of demand is commonly treated as separate from, and additive to, the capped principal.",
+    "key_points": [
+      "A Deed of Guarantee's cap is frequently drafted to apply only to the principal amount guaranteed, with a separate clause fixing an interest rate running from the date of demand — tribunals have held the two operate independently, so accrued interest is added on top of, not absorbed within, the capped figure",
+      "This means the guarantor's real-world exposure can exceed the headline cap by a significant margin once interest has run for months or years before the guarantee is actually invoked",
+      "Before signing, a guarantor should specifically check whether the cap is drafted as an all-inclusive ceiling (principal + interest + costs) or as a principal-only cap with interest running separately — the two are very different commitments even though both might be marketed as 'a Rs X crore guarantee'",
+      "Where the guarantee is already signed and interest has been accruing, a guarantor negotiating settlement should calculate their exposure using the actual interest clause, not just the headline cap figure, to avoid underestimating the settlement needed to close the matter",
+      "This is a narrower, guarantee-specific companion to general guidance on invoking (or resisting) a personal loan guarantee already on the site"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLAT upheld insolvency proceedings against a personal guarantor whose Deed of Guarantee capped principal liability at Rs 40 crore, holding separately-stipulated interest at 12.70% per annum from the date of demand meant total exposure could exceed the cap (Aug 2026, Nyka Steel/UCO Bank matter)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "regulation-21a-secured-creditor-election-liquidation-guide",
+    "topic_title": "The 30-Day Clock in Liquidation: Why a Secured Creditor Must Elect Fast Under Regulation 21A",
+    "angle": "A guide for secured creditors (including government departments holding customs/excise bonds or bank guarantees as security) on the mandatory 30-day window to elect whether to relinquish or realise security once a corporate debtor enters liquidation, and the consequence of missing it.",
+    "key_points": [
+      "Regulation 21A of the IBBI (Liquidation Process) Regulations, 2016 requires a secured creditor to inform the liquidator of its decision — relinquish the security to the liquidation estate, or realise it independently — within 30 days of the liquidation commencement date",
+      "Tribunals have held that silence within that 30-day window is not neutral: it is treated as a presumed relinquishment, pulling the secured asset (including bank guarantees, FDRs, or bonds held as security) into the liquidation estate for distribution under the Section 53 waterfall",
+      "This has been applied even against government departments (e.g. Customs holding bank guarantees/FDRs as security for duty obligations) — sovereign or regulatory status does not exempt a creditor from the same 30-day election requirement",
+      "A creditor's later attempt to argue the security should stay earmarked or alive (e.g. because underlying obligations remain unfulfilled) does not override a missed election — the window is treated as a hard procedural deadline, not a negotiable one",
+      "Practical point for any secured creditor: liquidation commencement triggers an immediate internal process to identify all security interests held against a corporate debtor and make (and document) the Regulation 21A election well within the 30-day window, rather than treating it as routine paperwork that can wait"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLAT upheld release of bank guarantee FDRs worth Rs 89.16 lakh to a liquidation estate because Customs failed to exercise the non-relinquishment option within 30 days under Regulation 21A, despite Customs' claim the guarantees should remain earmarked for unfulfilled export-obligation duty (2026, Metalite Eco Future Labs matter, Company Appeal (AT)(Insolvency) No. 745 of 2025)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "gst-cancellation-ignored-reply-natural-justice-guide",
+    "topic_title": "GST Registration Cancelled Without Reading Your Reply? Here's Your Strongest Ground to Get It Set Aside",
+    "angle": "A practical guide for a GST-registered business whose registration was cancelled after it filed a substantive reply to the show cause notice, on building and arguing the 'non-application of mind' / natural justice challenge, distinct from challenging the cancellation on its substantive merits.",
+    "key_points": [
+      "Where a taxpayer files a detailed, substantive reply to a GST registration cancellation show cause notice, and the resulting cancellation order shows no engagement with that reply's specific points, High Courts have repeatedly quashed the cancellation for 'non-application of mind' — a distinct, procedural ground from arguing the cancellation is wrong on the facts",
+      "Courts look for concrete signs the reply was actually read and considered: specific reasons addressing the taxpayer's points, not just a templated recitation that a reply was 'received and considered' without engagement",
+      "This ground has succeeded even where the underlying substantive case for cancellation might otherwise be reasonably arguable — the order can still fall purely for failing to show engagement with the reply, independent of whether the department could ultimately justify cancellation on the merits",
+      "Practical step for a taxpayer: when filing a reply to a cancellation SCN, structure it with clearly numbered points addressing each allegation, since a cancellation order's failure to address those same numbered points individually makes the 'non-application of mind' argument far easier to establish on judicial review",
+      "Relief typically granted is a quashing with remand for a fresh, reasoned decision after genuine consideration of the reply — not an automatic final win on the merits, so the taxpayer should still be prepared to substantively defend the registration at the fresh hearing"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Punjab & Haryana High Court quashed a GST registration cancellation for non-application of mind where the department ignored the taxpayer's reply to a 12 February 2026 show cause notice (2026)",
+      "note: this is one of several similar High Court rulings on the same procedural point (Delhi HC, Allahabad HC and others have reached similar results) — the guide should present this as a now-well-established line of authority, not an isolated ruling"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "customs-tariff-classification-accessory-residuary-heading-guide",
+    "topic_title": "Why an 'Accessory' to Your Imported Machine Might Get a Worse Customs Tariff Than the Machine Itself",
+    "angle": "A guide for importers of peripherals, accessories and add-on devices marketed alongside a parent machine (especially diagnostic/medical/industrial equipment), on why customs authorities and courts often push such accessories into a residuary tariff heading rather than letting them ride on the parent machine's classification.",
+    "key_points": [
+      "An accessory or peripheral device is not automatically entitled to the same favourable tariff classification as the parent machine it is sold or marketed alongside — classification turns on the accessory's own independent function, not its marketing bundle",
+      "Where an accessory lacks any independent diagnostic, measuring or other specialised function of its own (for example, a printer or imager that only outputs what another device has already processed), courts have held it cannot be classified under a heading reserved for devices with that independent function, even if the parent machine qualifies for that heading",
+      "Such accessories, compatible with machines that might themselves fall under several different tariff headings, have been pushed into the residuary customs tariff heading (e.g. CTH 9033 for apparatus and appliances not elsewhere specified in Chapter 90) — which can carry a different (often higher) duty rate than the parent machine's own heading",
+      "Practical step before importing: assess the accessory's actual, independent function separately from the parent machine's marketing description, and model the duty impact under both the preferred and the residuary classification before committing to a classification position with customs",
+      "Even a modest percentage-point tariff difference (e.g. 2.5%) can translate into a substantial absolute duty demand on high-value equipment, so the classification question is worth resolving (including, where available, through an advance ruling) before, not after, import"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court upheld classification of imported laser imagers (accessories to diagnostic machines, lacking independent diagnostic capability) under the residuary CTH 9033 rather than under 'other diagnostic instruments', resulting in a differential customs duty demand (Aug 2026, Carestream Health India matter)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "rera-authority-vs-adjudicating-officer-interest-powers-guide",
+    "topic_title": "RERA Authority vs Adjudicating Officer: Who Can Actually Award You Interest on a Refund?",
+    "angle": "A guide for homebuyers and developers on the division of functions within a state RERA structure between the Regulatory Authority (which decides substantive refund/compensation entitlement) and the Adjudicating Officer (who handles enforcement/execution), focused specifically on who has the power to fix interest.",
+    "key_points": [
+      "A state RERA structure typically separates the Regulatory Authority's substantive adjudication function (deciding whether a refund, compensation or interest is owed, and at what rate) from the Adjudicating Officer's role, which is generally confined to quantifying and enforcing compensation claims under Sections 12, 14, 18 and 19",
+      "Courts have held that once the Regulatory Authority has already decided a homebuyer's entitlement to a refund, an Adjudicating Officer cannot independently layer on or re-fix an interest rate at the later enforcement/execution stage — interest, if payable, should be fixed as part of the Authority's substantive order",
+      "This matters practically because interest rates on RERA refunds vary significantly by state and by order (commonly linked to SBI's highest MCLR plus a margin, but not uniformly so) — a homebuyer should ensure the interest rate they expect is actually fixed in the Regulatory Authority's substantive order, not left to be decided later at enforcement",
+      "A developer facing an enforcement proceeding where the Adjudicating Officer has independently added an interest figure not present in the original Authority order has a specific, narrow ground to challenge that interest component (while the underlying refund direction itself may well stand)",
+      "Practical tip for homebuyers: if the original Authority order is silent or unclear on the interest rate, seek clarification or review from the Authority itself promptly, rather than waiting for the Adjudicating Officer to fix a rate at enforcement, since that may not survive challenge"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Madhya Pradesh High Court held a RERA Adjudicating Officer cannot independently award interest while enforcing a refund order once the Regulatory Authority had already decided refund entitlement, setting aside a separately-fixed 10% interest award (July 2026)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "rera-aggrieved-person-locus-title-claimant-guide",
+    "topic_title": "Claiming You Own the Land Under a RERA Project? Why That Alone Won't Give You Standing at RERA",
+    "angle": "A guide explaining why a person who is not an allottee — including someone asserting a competing ownership claim over the project land itself — generally lacks standing ('aggrieved person' status) to challenge a project's RERA registration, and must instead pursue a civil suit over title.",
+    "key_points": [
+      "Section 31(1) of the RERA Act limits who can file a complaint to an 'aggrieved person' — a category tribunals have read as centred on allottees and others with a genuine stake in the project's performance, not merely anyone asserting an interest in the underlying land",
+      "A person who claims to be the true owner of the land on which a registered project sits, but who is not an allottee, has been held to lack standing to seek cancellation of that project's RERA registration on that basis alone — RERA registration proceeds on the developer's declared title and does not itself adjudicate competing ownership claims",
+      "Tribunals have consistently redirected such title disputes to the civil court as the proper forum, even where the land claimant alleges the registration itself was obtained by fraud — the fraud allegation does not convert a title dispute into a RERA-cognisable grievance",
+      "Practical point for a person disputing a developer's title: file (or continue) the civil suit over title promptly rather than routing the dispute through a RERA complaint, since the RERA forum is likely to decline jurisdiction regardless of how the claim is framed",
+      "This sits alongside, and should be read together with, the broader point that RERA registration is not a judicial finding of clear title — already covered in the site's existing guidance on protecting a well-known brand... [cross-reference the site's existing 'RERA cannot decide disputed questions of title' coverage]"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Telangana Real Estate Appellate Tribunal dismissed an appeal by land claimants seeking cancellation of the 'Aparna Sunstone' project's registration, holding they were not 'aggrieved persons' under Section 31(1) absent allottee status, and that their title claim belonged before a civil court (June 2026)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "cirp-expiry-automatic-liquidation-section-33-guide",
+    "topic_title": "CIRP Deadline Passed Without a Resolution Plan? Why Liquidation Follows Automatically",
+    "angle": "A guide for creditors, resolution professionals and corporate debtors on what actually happens when a CIRP's statutory timeline expires without an approved resolution plan, explaining why Section 33(1)(a)'s liquidation consequence is treated as automatic rather than something the Committee of Creditors can vote to avoid.",
+    "key_points": [
+      "If the CIRP period (including any approved extension) lapses without a resolution plan approved under Section 30(6), Section 33(1)(a) of the IBC requires the Adjudicating Authority to order liquidation — tribunals have treated this as an automatic statutory consequence of the deadline passing, not a discretionary outcome",
+      "A failed or deadlocked Committee of Creditors vote on a separate proposal (whether for a further extension or for liquidation itself) does not change this outcome — once the deadline has actually passed without a plan, the liquidation consequence attaches regardless of how, or whether, the CoC voted on liquidation as a distinct resolution",
+      "Expressions of interest or draft resolution plans received only after the CIRP period has already expired cannot revive the process or forestall liquidation — timing relative to the statutory deadline, not the existence of a late-arriving interested party, is what matters",
+      "Practical implication for a Committee of Creditors nearing a CIRP deadline: securing a valid extension (where the statutory conditions for one are met) before the deadline passes is the only way to avoid the automatic liquidation consequence — a vote taken after the deadline has already lapsed is too late regardless of its outcome",
+      "This is distinct from, and should not be confused with, a CoC's voluntary decision to recommend liquidation before the deadline (a Section 33(2) route), which does involve a CoC vote and commercial-wisdom considerations"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLAT held that once a CIRP period lapses without an approved resolution plan or a valid extension, Section 33(1)(a)'s liquidation consequence is automatically attracted, and a failed CoC vote on a separate liquidation proposal (or late expressions of interest) is irrelevant to that outcome (Oct 2026, Syska E-Retails matter)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "scheme-of-arrangement-first-second-motion-guide",
+    "topic_title": "Sections 230-232 Scheme of Arrangement: What Actually Happens Between the First and Second NCLT Motion",
+    "angle": "A practical guide for companies planning a merger, demerger or other scheme of arrangement under Sections 230-232 of the Companies Act, explaining the two-stage NCLT process — the first motion (convening meetings) and the second motion (sanction) — and what happens procedurally in between.",
+    "key_points": [
+      "A scheme of arrangement under Sections 230-232 generally proceeds in two NCLT stages: a first-motion petition seeking directions to convene meetings of the relevant classes of shareholders/creditors (or dispensation of such meetings where consent is already obtained), followed by a second-motion petition seeking the Tribunal's sanction of the scheme itself",
+      "Between the two motions, the company must actually hold (or formally dispense with) the directed meetings, obtain the requisite majority approval from each class, and address any objections or regulatory observations (e.g. from the Registrar of Companies, Income Tax authorities, or sectoral regulators) raised in response to notice of the scheme",
+      "The gap between first-motion admission and the second-motion hearing can be substantial — commonly several weeks to a few months — depending on how quickly meetings are convened and regulatory responses are received, so companies should not treat first-motion admission as a signal the scheme is close to final sanction",
+      "A scheme's effective date and the transfer of assets/liabilities contemplated by it generally only crystallise upon the second-motion sanction order (and compliance with any further filing requirements), not upon first-motion admission — contracts and disclosures referencing the scheme should be drafted with this timing in mind",
+      "This is a practical companion to the site's existing guidance on demerger structuring, focused specifically on the NCLT procedural timeline rather than the substantive structuring choices"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLT Mumbai admitted the first-motion petition for the Larsen & Toubro / L&T Realty Properties scheme of arrangement on 18 August 2026, with the main (second-motion) hearing fixed for 6 October 2026 — illustrating a roughly six-week-plus gap between the two stages in that matter (2026)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "oppression-mismanagement-arbitrability-dressed-up-guide",
+    "topic_title": "Can an Oppression and Mismanagement Petition Be Sent to Arbitration? The 'Dressed Up' Petition Test",
+    "angle": "A narrow companion guide (distinct from the site's existing filing-procedure guide to oppression and mismanagement petitions) focused specifically on when a company dispute that looks like oppression/mismanagement can instead be pushed into arbitration under an arbitration clause in the company's shareholders' or partnership agreement.",
+    "key_points": [
+      "Genuine oppression and mismanagement claims under Sections 241-242 of the Companies Act are generally treated as not arbitrable, since they invoke the NCLT's special statutory powers (akin to in rem relief) that an arbitral tribunal does not possess",
+      "Courts have nonetheless held that a petition merely 'dressed up' as oppression/mismanagement to sidestep an otherwise-applicable arbitration clause, or filed in a vexatious or mala fide manner, will not succeed in avoiding arbitration — the substance of the dispute, not its label, controls",
+      "Relevant factors courts weigh include whether the relief actually sought could equally be obtained through arbitration (e.g. a pure valuation/buy-out dispute between shareholders bound by a shareholders' agreement with an arbitration clause) versus relief that only the NCLT's statutory powers can provide (e.g. altering the company's management structure itself)",
+      "Where a related oppression/mismanagement-type dispute has already been pending before the NCLT/erstwhile CLB for a significant period with interim orders in place, a court has held this can itself render a parallel arbitration agreement inoperative for that dispute, rather than compelling arbitration late in the day",
+      "Practical point for drafting shareholders' agreements: if parties want disputes between themselves to go to arbitration, the agreement should address as specifically as possible which categories of dispute are intended for arbitration versus reserved for the NCLT's statutory jurisdiction, since ambiguity invites exactly this 'dressed up' characterisation fight"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Bombay High Court (Rakesh Malhotra v. Rajinder Kumar Malhotra line of authority) has held oppression/mismanagement claims are generally non-arbitrable but a petition merely dressed up to avoid arbitration, or vexatious/mala fide, will not succeed in avoiding it",
+      "note: the Delhi HC Vikram Bakshi v. McDonald's India authority on an arbitration agreement becoming inoperative due to a long-pending CLB proceeding should be verified for its current date/citation before publication, as the exact year was not confirmed in research"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "esi-contribution-contract-workers-principal-employer-guide",
+    "topic_title": "Using Contract Staff? Why You (Not Just the Contractor) May Owe ESI Contributions",
+    "angle": "A compliance guide for businesses engaging workers through a contractor/staffing agency, on why the principal employer commonly remains liable for ESI contributions on those workers, and the practical steps to manage that exposure.",
+    "key_points": [
+      "Courts have held that routing workers through a contractor does not, by itself, shift ESI contribution liability away from the principal employer — the principal employer (the business where the work is actually performed) remains liable for ESI contributions on contract workers engaged at its premises or in its business",
+      "This mirrors a long-running, partly unsettled debate on the equivalent question under the EPF scheme, where some High Courts have held a contractor with its own independent PF code relieves the principal employer, while others (and EPFO's own 2017 circular) have taken the position that the principal employer retains overall compliance responsibility",
+      "Practical risk management steps for a principal employer: verify the contractor's actual ESI/EPF registration and contribution compliance before and during the engagement (not just at onboarding), retain documentary proof of the contractor's periodic compliance, and build indemnity/compliance-certification clauses into the contractor agreement",
+      "A principal employer that simply assumes the contractor's independent registration absolves it of liability risks a direct ESI demand against itself if the contractor's compliance turns out to be deficient — the statutory liability analysis does not depend on what the commercial contract between principal and contractor says about who is supposed to pay",
+      "This is distinct from, but should be read alongside, the general principal-employer-liability-for-contract-labour-wages guidance already on the site, since ESI/EPF statutory contribution liability and ordinary wage liability are governed by different statutory schemes with their own tests"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Calcutta High Court dismissed a writ challenging ESI authorities' determination of a principal employer's contribution liability for contract-engaged workers (2026, Height Insurance Services matter)",
+      "note: the EPF-side case law conflict (Madras HC vs Delhi HC/BHEL line) should be presented as genuinely unsettled, not resolved, and distinguished clearly from the more settled ESI position"
+    ],
+    "added_on": "2026-10-10"
   }
 ]

@@ -509,5 +509,263 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-10"
+  },
+  {
+    "id": "telangana-reat-aparna-sunstone-aggrieved-person-locus-standi",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "N.L. Ravi Shankar & N. Chandrakala v. Telangana RERA & Aparna Infra Housing (re: 'Aparna Sunstone')",
+    "citation": "Telangana Real Estate Appellate Tribunal, decided 8 June 2026",
+    "court": "Telangana Real Estate Appellate Tribunal (REAT)",
+    "date": "2026-06-08",
+    "holding_summary": "Two individuals claiming ownership of the land underlying the 'Aparna Sunstone' project sought cancellation of its RERA registration alleging fraud. Chairperson Justice A. Santhosh Reddy and Judicial Member P. Pradeep Kumar Reddy dismissed their appeal and upheld the RERA Registry's order returning their complaint as not maintainable, holding they were not 'aggrieved persons' under Section 31(1) of the RERA Act since they were not allottees, and that their competing title claim over the land was a matter for a civil court, not RERA.",
+    "why_it_matters": "Confirms that a person disputing a developer's title to project land cannot use a RERA registration challenge as a shortcut to litigate ownership — only allottees or otherwise genuinely 'aggrieved' persons have standing before RERA, and a title dispute must go through the ordinary civil court route.",
+    "sources": [
+      "https://www.livelawbiz.com/rera/persons-unconnected-to-a-real-estate-project-cannot-seek-relief-under-rera-telangana-reat-537418"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "cestat-delhi-misdeclared-fabric-penalty-section-114a-upheld",
+    "practice_area": "Tax Litigation",
+    "case_name": "[Importer] v. Commissioner of Customs (misdeclared imported fabric)",
+    "citation": "2026 TAXSCAN (CESTAT) 124, CESTAT New Delhi Principal Bench",
+    "court": "CESTAT, New Delhi Principal Bench",
+    "date": "2026-07-01",
+    "holding_summary": "The Tribunal upheld a Rs. 19.53 lakh penalty under Section 114A of the Customs Act, 1962 against an importer found to have misdeclared imported fabric, holding the mandatory penalty provision was correctly applied on the facts.",
+    "why_it_matters": "A reminder that Section 114A's penalty is treated as mandatory, not discretionary, once misdeclaration is established — importers cannot expect the penalty to be waived or reduced merely by contesting the underlying classification dispute.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/cestat-weekly-round-up-1449426"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "cestat-mumbai-baxter-india-cenvat-credit-rule-6-5-exempt-goods",
+    "practice_area": "Tax Litigation",
+    "case_name": "Baxter (India) Private Limited v. Commissioner of Customs",
+    "citation": "2026 TAXSCAN (CESTAT) 345, CESTAT Mumbai Bench",
+    "court": "CESTAT, Mumbai Bench",
+    "date": "2026-06-01",
+    "holding_summary": "The Tribunal allowed full CENVAT credit on specified Rule 6(5) input services even where those services were used in relation to the manufacture of exempt goods, setting aside the demand, interest and penalty the department had raised on the basis that credit should have been proportionately restricted.",
+    "why_it_matters": "Confirms that the Rule 6(5) list of input services carries full, unrestricted CENVAT credit regardless of whether the output is dutiable or exempt — manufacturers should check whether a disputed input service falls within that specified list before accepting a proportionate-reversal demand.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/cestat-weekly-round-up-1448314"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "cestat-allahabad-bis-certification-spare-parts-confiscation-set-aside",
+    "practice_area": "Tax Litigation",
+    "case_name": "[Importer] v. Commissioner of Customs (BIS certification, spare power supply units)",
+    "citation": "CESTAT, Allahabad Bench",
+    "court": "CESTAT, Allahabad Bench",
+    "date": "2026-07-15",
+    "holding_summary": "The Tribunal set aside confiscation and penalty imposed on imported spare power supply units, holding the department had wrongly applied the BIS certification requirement to spare components not intended for independent commercial sale, rather than to the finished product the BIS mark is actually meant to cover.",
+    "why_it_matters": "A useful precedent for importers of spare parts/components used only for repair or as part of a larger finished product: a BIS certification requirement aimed at a finished, independently saleable product should not be mechanically extended to its spares.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/cestat-weekly-round-up-1444591"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "gstat-ernakulam-interest-only-dispute-20-lakh-threshold",
+    "practice_area": "Tax Litigation",
+    "case_name": "[Taxpayer] v. [GST Department] (interest-only dispute, departmental appeal)",
+    "citation": "GSTAT, Ernakulam Bench",
+    "court": "Goods and Services Tax Appellate Tribunal (GSTAT), Ernakulam Bench",
+    "date": "2026-08-01",
+    "holding_summary": "Dismissing a departmental appeal, the Bench held that where a GST dispute relates solely to interest (not tax or penalty), the interest amount itself must be considered for applying the Rs. 20 lakh monetary limit prescribed for departmental appeals before GSTAT, rather than treating interest-only disputes as exempt from the threshold.",
+    "why_it_matters": "Clarifies a procedural point departments might otherwise dispute: an interest-only matter is measured against the monetary appeal threshold using the interest figure itself, giving taxpayers in smaller interest disputes a concrete basis to resist a departmental appeal below that threshold.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/interest-amount-alone-to-be-considered-for-20-lakh-appeal-threshold-in-interest-only-gst-dispute-gstat-dismisses-revenue-appeal-1451451"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "gstat-bengaluru-section-129-mov-09-mandatory-order",
+    "practice_area": "Tax Litigation",
+    "case_name": "[Taxpayer] v. [GST Department] (Section 129 detention penalty)",
+    "citation": "GSTAT, Bengaluru Bench",
+    "court": "Goods and Services Tax Appellate Tribunal (GSTAT), Bengaluru Bench",
+    "date": "2026-07-01",
+    "holding_summary": "The Bench held that failure to issue the mandatory final order in FORM GST MOV-09 under Section 129(3) of the CGST Act vitiates the entire penalty proceedings for detained goods/conveyance, regardless of whether the underlying detention itself was otherwise justified.",
+    "why_it_matters": "A clean procedural defence for a transporter or consignor facing a Section 129 detention penalty: if the department never actually issued the mandatory FORM GST MOV-09 order, the penalty proceedings themselves are vitiated, independent of the merits of the detention.",
+    "sources": [
+      "https://www.taxscan.in/gst/failure-to-issue-mandatory-form-gst-mov-09-vitiates-section-129-gst-penalty-gstat"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "sc-kk-praveen-jm-financial-arc-sarfaesi-overrides-drt-decree",
+    "practice_area": "Banking & Finance",
+    "case_name": "K.K. Praveen v. J.M. Financial Asset Reconstruction Company Ltd.",
+    "citation": "Supreme Court of India, order dated 9 September 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-09-09",
+    "holding_summary": "The borrower argued that an earlier ex parte Debts Recovery Tribunal decree barred fresh SARFAESI recovery proceedings against him, also challenging the SARFAESI Act's constitutional validity. The Supreme Court dismissed the petition at the admission stage, holding Section 35 of the SARFAESI Act gives it overriding effect over inconsistent laws, so principles of res judicata and merger based on the earlier DRT decree could not be invoked to bar the Act's operation.",
+    "why_it_matters": "Confirms that an earlier civil/DRT decree in a lender's favour does not exhaust or bar that lender's separate statutory right to pursue SARFAESI enforcement — borrowers cannot rely on an earlier decree's existence alone to block a fresh SARFAESI action.",
+    "sources": [
+      "https://foxmandal.in/news/earlier-drt-decree-no-bar-to-sarfaesi-action-sc-dismisses-plea-citing-section-35/",
+      "https://lawyerenews.com/legal_detail/sarfaesi-act-provisions-override-other-laws-including-principles-of-res-judicata-supreme-court"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "nclat-metalite-eco-future-labs-bank-guarantee-regulation-21a",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "[Customs Authority] v. [Liquidator], Metalite Eco Future Labs",
+    "citation": "Company Appeal (AT) (Insolvency) No. 745 of 2025, NCLAT",
+    "court": "National Company Law Appellate Tribunal (NCLAT)",
+    "date": "2026-09-25",
+    "holding_summary": "Customs had filed a Form B claim (15 December 2023) and then a Form C claim (30 January 2024) seeking to keep bank guarantees/FDRs worth Rs. 89.16 lakh as security for Rs. 1.81 crore in customs duty over unfulfilled export obligations, arguing the instruments should remain earmarked to keep the guarantee alive. NCLAT upheld the NCLT's direction releasing the FDRs/bonds to the liquidation estate, holding that under Regulation 21A of the IBBI (Liquidation Process) Regulations, 2016, Customs' failure to exercise the non-relinquishment option within 30 days of the liquidation commencement date meant its security was presumed relinquished, regardless of its later claims seeking to preserve it.",
+    "why_it_matters": "A hard deadline warning for any secured creditor (including a government department holding customs/excise bonds as security) in a corporate debtor's liquidation: missing the 30-day Regulation 21A election window presumptively relinquishes the security, however strong the creditor's later arguments for keeping it alive.",
+    "sources": [
+      "https://www.taxscan.in/corporate-laws/nclat-upholds-release-of-8916-l-bank-guarantee-fdrs-customs-failed-to-exercise-non-relinquishment-option-within-30-days-read-order",
+      "https://www.livelawbiz.com/ibc/failure-to-opt-for-non-relinquishment-within-30-days-of-liquidation-makes-bank-guarantees-part-of-liquidation-estate-nclat-552198"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "mp-hc-insurer-scdrc-appeal-pre-deposit-time-extension",
+    "practice_area": "Consumer Protection",
+    "case_name": "[Insurer] v. [Complainant] (SCDRC pre-deposit receipt filing)",
+    "citation": "Madhya Pradesh High Court",
+    "date": "2026-09-05",
+    "court": "Madhya Pradesh High Court",
+    "holding_summary": "The State Consumer Disputes Redressal Commission had dismissed an insurer's appeal for failing to timely file its pre-deposit receipt. The Madhya Pradesh High Court set aside that dismissal, holding the SCDRC should have considered the insurer's request for additional time to file the receipt rather than treating the delay as fatal to the appeal.",
+    "why_it_matters": "Gives an appellant before a State Commission (not just an insurer) a basis to resist outright dismissal where it has sought, but not yet been granted, additional time to complete the mandatory pre-deposit formality — the Commission must actually consider such a request rather than dismissing on the bare fact of delay.",
+    "sources": [
+      "https://cdj.library.keralalawacademy.in/aifulltext.php?id=1023745"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "mp-hc-rera-adjudicating-officer-cannot-independently-award-interest",
+    "practice_area": "Real Estate & RERA",
+    "case_name": "[Developer] v. [Homebuyer] (RERA refund enforcement, interest)",
+    "citation": "Madhya Pradesh High Court, July 2026",
+    "court": "Madhya Pradesh High Court",
+    "date": "2026-07-10",
+    "holding_summary": "The Court held that a RERA Adjudicating Officer cannot independently determine and award interest at the enforcement stage once the Regulatory Authority has already decided a homebuyer's entitlement to a refund, setting aside a 10% interest award the Adjudicating Officer had separately fixed while otherwise preserving the underlying refund direction.",
+    "why_it_matters": "Clarifies the division of functions within a state RERA structure: interest on a refund is for the Regulatory Authority to fix as part of its substantive order, not something an Adjudicating Officer can separately layer on at the enforcement/execution stage.",
+    "sources": [
+      "https://www.livelawbiz.com/rera/rera-adjudicating-officer-cannot-award-interest-while-enforcing-refund-order-madhya-pradesh-high-court-543244"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "nclt-mumbai-lt-lt-realty-scheme-of-arrangement-admitted",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "In re: Scheme of Arrangement between Larsen & Toubro Limited and L&T Realty Properties Pvt. Ltd.",
+    "citation": "NCLT, Mumbai Bench, order dated 18 August 2026",
+    "court": "National Company Law Tribunal (NCLT), Mumbai",
+    "date": "2026-08-18",
+    "holding_summary": "NCLT Mumbai admitted the first-motion Scheme of Arrangement petition between Larsen & Toubro Ltd. and L&T Realty Properties Pvt. Ltd.; the order was uploaded on 1 September 2026, with the main hearing fixed for 6 October 2026.",
+    "why_it_matters": "An early-stage procedural milestone worth tracking for stakeholders of either company — admission of the first-motion petition starts the clock toward the second-motion hearing where the scheme's actual terms are examined and (if approved) sanctioned.",
+    "sources": [
+      "https://www.psuconnect.in/corporate-news/l-t-scheme-of-arrangement-with-l-t-realty",
+      "https://www.investywise.com/?p=113959"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "nclt-bengaluru-puresoftware-happiest-minds-composite-scheme-sanctioned",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "In re: Composite Scheme of Arrangement, PureSoftware Technologies and Happiest Minds Technologies",
+    "citation": "NCLT, Bengaluru Bench, order dated 29 May 2026",
+    "court": "National Company Law Tribunal (NCLT), Bengaluru",
+    "date": "2026-05-29",
+    "holding_summary": "NCLT Bengaluru sanctioned a Composite Scheme of Arrangement between PureSoftware Technologies and Happiest Minds Technologies, completing the merger process between the two companies.",
+    "why_it_matters": "A completed corporate restructuring in the IT services sector, relevant to clients, employees and counterparties of either company tracking the merged entity's post-scheme obligations and continuity of existing contracts.",
+    "sources": [
+      "https://www.livelawbiz.com/company-law/nclt/national-company-law-tribunal-bengaluru-approves-merger-puresoftware-technologies-happiest-minds-technologies-536573"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "delhi-hc-hul-pg-rakesh-goyal-counterfeit-damages",
+    "practice_area": "Intellectual Property",
+    "case_name": "Hindustan Unilever Ltd. & Procter & Gamble v. Rakesh Goyal & Ors.",
+    "citation": "Delhi High Court, decree dated 28 February 2026",
+    "court": "Delhi High Court",
+    "date": "2026-02-28",
+    "holding_summary": "Justice Tejas Karia decreed a long-standing suit against individuals found to be running a large-scale counterfeiting operation in FMCG products bearing HUL and P&G marks, awarding Rs. 2,50,000 in damages along with actual litigation costs and interest. Because exact sales data for the defendants was unavailable, the Court based the damages on the scale of counterfeit goods documented in the search-and-seizure memos rather than the defendants' own (absent) sales records.",
+    "why_it_matters": "Shows how courts quantify damages in a counterfeiting suit where the infringer's actual sales records are never produced — the scale of goods actually seized during a court-ordered search becomes the practical proxy for assessing damages, rather than the claim failing for want of the defendant's own sales data.",
+    "sources": [
+      "https://www.livelawbiz.com/trademark/delhi-high-court-awards-25-lakh-damages-to-hul-and-pg-in-long-standing-counterfeit-suit-525141"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "calcutta-hc-height-insurance-services-esi-corporation-principal-employer",
+    "practice_area": "Employment & Labour",
+    "case_name": "Height Insurance Services Ltd. v. Employees' State Insurance Corporation",
+    "citation": "Calcutta High Court, 2026",
+    "court": "Calcutta High Court",
+    "date": "2026-08-10",
+    "holding_summary": "The Court dismissed a writ petition challenging ESI authorities' show cause notices and a resulting order determining the petitioner's contribution liability, holding the principal employer remains liable for ESI contributions on workers engaged through a contract arrangement.",
+    "why_it_matters": "Reinforces that routing workers through a contractor does not, by itself, shift ESI contribution liability away from the principal employer — businesses relying on contract staffing should budget for this liability rather than assume the contractor alone bears it.",
+    "sources": [
+      "https://taxguru.in/corporate-law/workers-of-contractor-not-eligible-for-esi-benefits.html"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "nclat-uco-bank-asif-ahmed-siddique-guarantee-interest-beyond-cap",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Asif Ahmed Siddique v. UCO Bank (re: Nyka Steel guarantee)",
+    "citation": "NCLAT, order reported 17 August 2026 (upholding NCLT Mumbai order dated 3 February 2026)",
+    "court": "National Company Law Appellate Tribunal (NCLAT)",
+    "date": "2026-08-17",
+    "holding_summary": "Siddique, a personal guarantor, argued his exposure under Deeds of Guarantee dated 12 December 2017 was capped at Rs. 40 crore. NCLAT upheld NCLT Mumbai's admission of UCO Bank's Section 95 petition against him, holding the Rs. 40 crore cap applied only to the principal liability, while the guarantee separately provided for interest at 12.70% per annum running from the date of demand — so the total amount owed could, and did, exceed the capped principal figure.",
+    "why_it_matters": "A guarantor cannot assume a stated principal-liability cap in a Deed of Guarantee limits their total exposure — where the deed separately stipulates an interest rate running from demand, accrued interest is added on top of the cap, not absorbed within it, and can push total liability well past the capped figure.",
+    "sources": [
+      "https://www.outlookbusiness.com/news/nclat-upholds-insolvency-proceedings-against-nyka-steel-guarantor-over-uco-bank-dues"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "ccpa-dial4trade-ammonium-nitrate-facilitation-penalty",
+    "practice_area": "Agricultural Industries",
+    "case_name": "Central Consumer Protection Authority v. Dial4Trade Technologies Private Limited",
+    "citation": "Central Consumer Protection Authority, order dated 1 September 2026",
+    "court": "Central Consumer Protection Authority (CCPA)",
+    "date": "2026-09-01",
+    "holding_summary": "The CCPA fined e-commerce marketplace platform Dial4Trade Technologies Rs. 10 lakh for unfair trade practices, holding it facilitated the listing and sale of ammonium nitrate (a restricted/regulated input with explosive and agricultural-fertiliser uses) on its platform in violation of consumer protection norms.",
+    "why_it_matters": "Another instance (alongside the CCPA's earlier action against Flipkart/Amazon/JioMart over an unregistered herbicide) of marketplaces being held directly liable for facilitating the sale of a regulated agri/chemical input, rather than being shielded by their intermediary status — marketplaces carrying agri-input or chemical listings should audit those categories specifically against sector-specific regulatory restrictions.",
+    "sources": [
+      "https://digitalpolicyalert.org/event/43380-central-consumer-protection-authority-fined-dial4trade-technologies-inr-10-lakh-over-unfair-trade-practices-and-facilitation-of-sale-of-ammonium-nitrate"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "punjab-haryana-hc-gst-cancellation-quashed-ignored-reply",
+    "practice_area": "Tax Litigation",
+    "case_name": "[Taxpayer] v. State of Punjab (GST registration cancellation)",
+    "citation": "Punjab & Haryana High Court, 2026",
+    "court": "Punjab & Haryana High Court",
+    "date": "2026-09-10",
+    "holding_summary": "The Court quashed a GST registration cancellation order, holding the department ignored the taxpayer's written reply to the underlying show cause notice (dated 12 February 2026) before cancelling the registration, which the Court characterised as non-application of mind. Fresh proceedings were permitted only on condition the reply is genuinely considered this time.",
+    "why_it_matters": "A further addition to the growing body of High Court rulings quashing GST cancellations for procedural shortcuts — a taxpayer who files a substantive reply to a cancellation show cause notice, only to have it seemingly ignored, has a strong basis to have the cancellation set aside rather than having to accept it and start fresh registration from scratch.",
+    "sources": [
+      "https://studycafe.in/punjab-haryana-high-court-sets-aside-gst-cancellation-for-ignoring-taxpayers-reply-418530.html"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-10"
   }
 ]
