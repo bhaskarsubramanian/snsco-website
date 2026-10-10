@@ -32,4 +32,26 @@ listens to `main`, and no branch-deploy is configured for this branch.
 Never write directly to any live site file (legal-news/, legal-updates/index.html,
 blog/, sitemap.xml) from this branch — only touch files inside `_drafts/`.
 
+## Open feedback for the publish routine / site owner (2026-10-10)
+
+Raised by the site owner in chat; logged here rather than acted on directly, since
+both items require touching files outside `_drafts/` (and the newsletter item
+touches `main`'s shared header/nav template), which is outside this routine's
+remit:
+
+1. **Article prose should not read as LLM-written.** When the publish routine
+   drafts full article text from a queue item's `holding_summary` /
+   `why_it_matters` / `key_points`, review the prose for grammar, punctuation and
+   generic AI phrasing (e.g. em-dash overuse, "it's important to note",
+   "landscape", "robust", stock transition phrases) before pushing to `main`.
+   The queue notes themselves are research summaries, not final copy, and
+   weren't written to be published verbatim.
+2. **Newsletter subscription should be more prominent.** Currently it's a
+   mid-page band on the homepage (`#newsletter`) plus a footer link to
+   `/newsletter/` — the site owner wants it more visible, e.g. a persistent
+   nav-bar tab, not just a scroll-down section. This means editing the shared
+   header/nav partial used across every page on `main`, so it belongs to
+   whichever session/routine next works on `main`'s templates, not to a
+   research-draft-only session.
+
 <!-- webhook fix verification test: 2026-09-16T15:19:31Z -->
