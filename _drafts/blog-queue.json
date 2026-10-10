@@ -75,5 +75,186 @@
       "note: the exact current cost-sharing ratio, the price-fall trigger percentage, and the procurement quantity ceiling should be re-confirmed against the latest PM-AASHA/MIS guidelines in force at time of writing, since these parameters are revised periodically"
     ],
     "added_on": "2026-10-09"
+  },
+  {
+    "id": "look-out-circular-loan-defaulter-guide",
+    "topic_title": "Look Out Circulars Against Loan Defaulters: When Can a Bank Actually Stop You Leaving India?",
+    "angle": "A guide for guarantors and borrowers facing a bank-initiated Look Out Circular (LOC) on how LOCs are supposed to work, why banks use them as an informal recovery tool, and how to get one lifted — especially once the underlying debt has been settled or resolved.",
+    "key_points": [
+      "An LOC is issued by the Bureau of Immigration on a request from an authorised agency; for public sector banks, RBI/government instructions have at various points allowed LOC requests in large wilful-defaulter cases, but courts have repeatedly stressed it is not a routine debt-recovery tool",
+      "Courts have held that a bank's own internal letter or request cannot by itself operate as 'law' restricting the fundamental right to travel abroad under Article 21 — there must be a proper legal basis and due process",
+      "An LOC issued against a guarantor or borrower does not automatically lapse when the underlying loan account is closed (e.g. via a resolution plan or settlement) — it has to be affirmatively recalled, so borrowers should specifically seek its recall as part of any settlement/closure, not assume it disappears",
+      "Courts have expressed concern that extending LOC powers loosely to bank debt recovery could invite private creditors/NBFCs to seek similar restraints, so judicial scrutiny of the basis for an LOC is relatively strict",
+      "Practical route to challenge: a writ petition before the jurisdictional High Court seeking quashing of the LOC, placing on record proof that the underlying debt is closed/settled and that no other proceeding justifies the restraint",
+      "Distinguish an LOC from a court-ordered travel restraint (e.g. in execution or contempt proceedings) — the legal basis and challenge route differ"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: courts have held a bank's letter to the Bureau of Immigration is not 'law' and cannot restrict the Article 21 right to travel merely on that basis (Madras High Court, Kondepati Ganga Prasad v. Bank of Baroda, Oct 2026)",
+      "note: the precise government/RBI framework governing which categories of bank dues justify an LOC request has been revised over time (various Ministry of Finance/Home Affairs office memoranda) — the current applicable circular and its exact monetary/wilful-defaulter thresholds should be confirmed before publication rather than stated as a fixed figure"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "trademark-renewal-lapse-form-o3-notice-guide",
+    "topic_title": "Your Trademark Lapsed Years Ago — Can You Still Get It Back? The Registry's Form O-3 Notice Requirement",
+    "angle": "A guide for proprietors of a trademark the Registry has removed from the register for non-renewal, explaining the mandatory Form O-3 expiry-notice procedure under Section 25 of the Trade Marks Act and how a defective or unproven notice can let a proprietor revive even a decades-lapsed mark.",
+    "key_points": [
+      "Before removing a mark from the register for non-renewal, the Registry is required to send a notice (Form O-3) of the upcoming expiry, giving the proprietor an opportunity to renew",
+      "Courts have consistently held this notice requirement is mandatory, not merely directory — a mark cannot be validly removed without it (Union of India v. Malhotra Book Depot line of authority)",
+      "An internal Registry dispatch log, by itself, has been held insufficient to prove the notice was actually sent to or received by the proprietor — the Registry must produce reliable evidence of actual dispatch/receipt",
+      "Where the Registry cannot prove compliance, courts have permitted the proprietor to file a fresh renewal application (on payment of the prescribed fee) even decades after the purported lapse — one 2026 Delhi High Court case revived a mark after a roughly 26-year gap",
+      "Practical steps for a proprietor: request the Registry's complete file/correspondence record for the mark, check whether a Form O-3 notice was actually issued (not just logged) and to the then-current registered address, and file a writ petition if the Registry relies only on an internal system entry",
+      "This is a narrow, document-driven remedy — it does not help where the Registry can actually prove the notice was sent and received; practitioners should caution that reviving a long-lapsed mark may also face third-party rights that accrued in the interim"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Form O-3 notice before removal for non-renewal is a mandatory procedural requirement under the Trade Marks Act/Rules, per settled Delhi High Court authority",
+      "confirmed: an internal dispatch log alone has been held insufficient proof of actual dispatch/receipt (Delhi HC, Punam Chand Kedia re: 'HMP' mark, Sept 2026)",
+      "note: exact rule number for Form O-3 under the Trade Marks Rules, 2017 (as amended) should be verified against the current Rules before publication"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "garnishee-order-bank-defences-inoperative-account-guide",
+    "topic_title": "Can a Bank Be Penalised for Not Complying With a Garnishee Order? When 'Inoperative Account' and Similar Defences Work",
+    "angle": "A guide distinct from ordinary decree-execution garnishee proceedings, focused specifically on when a bank can resist, or avoid being branded a defaulter over, a statutory recovery garnishee order (e.g. from EPFO, ESI, or a tax recovery officer) issued against a customer's account.",
+    "key_points": [
+      "A garnishee/attachment order directed at a bank requires the bank to pay over funds in the named account to the recovery officer — but the bank's obligation is limited to what the account actually and lawfully holds at the relevant time",
+      "Courts have quashed 'deemed defaulter' findings against a bank where the targeted account was factually inoperative, frozen, or otherwise unable to be operated — the recovery officer must verify the account's actual status before escalating non-compliance against the bank itself",
+      "A bank facing a garnishee order over an account it has itself frozen (e.g. on fraud/money-mule suspicion) is in a different position from one simply refusing to pay from a functioning account — courts scrutinise the reason for non-payment closely",
+      "Natural justice requires giving the bank a genuine opportunity to explain non-compliance before it is branded a defaulter, rather than a mechanical escalation",
+      "This is distinct from Order XXI CPC garnishee proceedings by an ordinary decree-holder against a judgment-debtor's bank account, which follow a separate civil-procedure framework with their own defences (the bank is a third party there too, but the statutory scheme differs from a tax/statutory-dues recovery garnishee)",
+      "Practical note for banks and customers alike: document the account's operative status and any freeze/restriction at the time the garnishee order is served, since that record is the key evidence in any later challenge"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Calcutta High Court quashed ESI garnishee orders against SBI and a 'deemed defaulter' finding where the targeted account was inoperative, holding the finding was made without application of mind and violated natural justice (Oct 2026)",
+      "note: this guide should clearly flag for readers that it covers statutory-recovery garnishee orders (EPFO/ESI/tax authorities), not Order XXI CPC civil-decree garnishee proceedings, which the site's existing 'Execution of a Money Decree and Garnishee Proceedings' guide already covers"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "fssai-slaughterhouse-meat-processing-licensing-guide",
+    "topic_title": "FSSAI Licensing for Slaughterhouses and Meat Processing Units: Why 'Registration' Isn't Enough Above a Small Capacity",
+    "angle": "A compliance guide for abattoir and meat-processing operators on why the FSSAI's lighter-touch 'registration' route (meant for petty food businesses) is capacity-capped specifically for slaughtering activity, and when a full/regular licence becomes mandatory regardless of turnover.",
+    "key_points": [
+      "FSSAI's three-tier structure (registration / state licence / central licence) is generally turnover-based, but slaughtering and meat-processing activity is treated differently: the 'petty' registration route for slaughtering is capped by daily slaughtering capacity (a small number of large/small animals or poultry per day), not simply by annual turnover",
+      "A slaughterhouse operating above that daily-capacity threshold needs a full/regular FSSAI licence even if its overall turnover would otherwise qualify it for the cheaper registration route — a registration certificate does not authorise large-scale slaughtering",
+      "Courts have upheld enforcement action (closure/penalty) against operators who continued large-scale slaughtering on the strength of a mere registration certificate, rejecting arguments that registration was an adequate stop-gap (Allahabad High Court, Sept 2026)",
+      "Meat Processing and Slaughtering Houses are typically listed as a distinct category in FSSAI's licensing fee schedule, separate from general food manufacturing, reflecting this capacity-based (not purely turnover-based) treatment",
+      "Practical compliance step: an operator planning to scale up slaughtering capacity should apply for the full licence before crossing the capacity threshold, not after, since operating above it without a licence exposes the business to closure and prosecution, not just a penalty",
+      "This sits alongside, and should be read together with, general FSSAI licensing obligations for any food business operator"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Allahabad High Court held a large-scale slaughterhouse needs a regular FSSAI licence and that a petty-business registration certificate is not sufficient, dismissing a challenge to enforcement action (Sept 2026)",
+      "note: the exact current daily-capacity figures defining the 'petty' slaughtering threshold (number of large/small animals or poultry per day) vary across secondary sources and should be confirmed against the current FSSAI Licensing and Registration Regulations before publication rather than stated as a fixed number"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "cci-cartel-bid-rigging-proof-guide",
+    "topic_title": "How the CCI Proves a Cartel: Bid-Rigging, Circumstantial Evidence and the Section 3(3) Presumption",
+    "angle": "A guide for businesses facing a CCI cartel/bid-rigging investigation (or advising clients who are) on how the burden of proof actually works under Section 3(3) of the Competition Act, what kind of circumstantial evidence the CCI relies on in the absence of a written agreement, and what a successful rebuttal looks like.",
+    "key_points": [
+      "Section 3(3) of the Competition Act creates agreements between competitors in four categories (including bid-rigging/collusive bidding) presumed to cause an appreciable adverse effect on competition (AAEC) once the CCI establishes the agreement exists",
+      "The burden is two-staged: the CCI/Director General must first establish the existence of the agreement or concerted practice; only once that is shown does the burden shift to the parties to rebut the presumption of AAEC",
+      "Because cartels are typically concealed, the CCI relies heavily on circumstantial evidence where no written agreement exists — commonly cited indicators include near-identical bid pricing despite differing cost structures, common patterns in bid submission (e.g. shared visitor-register entries at a tender office), and communication trails suggesting prior coordination",
+      "The Competition Act does not prescribe a 'beyond reasonable doubt' criminal standard — cartel contraventions are treated as a civil wrong, and the CCI's own decisional practice has developed what counts as sufficient circumstantial proof",
+      "A rebuttal that merely denies coordination without addressing the specific circumstantial indicators the DG/CCI relied on is unlikely to succeed — successful rebuttals typically show an independent, non-collusive explanation for the pricing/bidding pattern (e.g. genuine common input costs)",
+      "Liability can attach differently up and down a distribution chain — in some CCI orders, only authorised dealers/resellers who actually exchanged bid information were penalised while the principal manufacturer was exonerated for lack of evidence of its own involvement, while in others the principal itself has been penalised directly for cartel conduct"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 3(3) creates a presumption of AAEC for specified categories of horizontal agreement including bid-rigging, rebuttable by the parties once the CCI establishes the agreement's existence",
+      "confirmed: CCI has relied on circumstantial evidence (matching bid prices, shared visitor-register entries) in bid-rigging cases absent a written agreement",
+      "note: whether a particular manufacturer/principal is held liable alongside dealers depends on case-specific evidence of its involvement — this varies by case and should not be stated as a fixed rule"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "posh-appellate-authority-section-18-rule-11-guide",
+    "topic_title": "Your Company's 'POSH Appellate Committee' May Be Illegal: What Section 18 and Rule 11 Actually Require",
+    "angle": "A compliance guide for employers who have set up, or are considering setting up, an internal appellate body to hear appeals from an Internal Committee's POSH findings, explaining why courts have held employers cannot simply invent their own appellate authority, and what the correct appellate route actually is.",
+    "key_points": [
+      "Section 18 of the POSH Act gives a person aggrieved by an Internal Committee's recommendations a right of appeal within 90 days, but the Act itself does not let the employer design its own appellate body",
+      "Rule 11 of the POSH Rules points to the appellate authority as whatever is provided under the employer's applicable service rules; where no service rules apply, the fallback is the authority notified under the Industrial Employment (Standing Orders) Act, 1946",
+      "Courts have held that a combined reading of Section 18 and Rule 11 gives an employer no authority or jurisdiction to constitute its own, self-styled 'Appellate Authority' — doing so can taint the entire disciplinary process that follows and lead to any resulting penalty being quashed in its entirety (Bombay High Court, Ashok Upadhyay v. Union Bank of India, Aug 2026)",
+      "Employers should first check (a) whether applicable service rules already designate an appellate authority, and (b) whether the state government has notified an authority under the Industrial Employment (Standing Orders) Act for establishments of the relevant size — rather than appointing an internal panel or committee of their own choosing",
+      "Where no authority has actually been notified for a given establishment, affected parties have been left to approach the jurisdictional High Court by writ petition as the practical route of appeal",
+      "Practical audit step: every employer's POSH policy should be checked against this framework now, before an appeal is ever filed, since discovering the appellate route was invalid only after a penalty has been imposed and challenged is far costlier to fix"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Bombay High Court held Section 18 read with Rule 11 gives an employer no power to create its own Appellate Authority, quashing a penalty for that reason (Aug 2026)",
+      "note: the exact employee-count threshold for notification of a Standing-Orders appellate authority, and whether a given state has actually notified one, varies and should be checked against the specific state's notification rather than assumed uniform"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "nhai-concession-force-majeure-extension-guide",
+    "topic_title": "Force Majeure Extensions in NHAI Concession Agreements: How a 'Cure Period' Actually Gets Added to Your Concession Term",
+    "angle": "A guide for highway concessionaires and their advisors on how a force majeure event (illustrated by COVID-19 toll suspensions) translates into an actual extension of the concession period, what a concessionaire needs to prove, and why a prior settlement of a related claim can block relitigating it later.",
+    "key_points": [
+      "Most NHAI concession/BOT agreements provide that a force majeure event excusing the concessionaire's performance also entitles it to an extension of the concession period for the duration the event actually disrupted operations/revenue",
+      "The extension claimed is not automatically whatever the concessionaire requests — tribunals have drawn a distinction between full toll-suspension days (clearly compensable) and days of merely 'severely depressed' toll collection (also found compensable where proved), with NHAI sometimes granting only the clearer, shorter period administratively and leaving the balance to be fought out in arbitration",
+      "A settlement agreement recorded during the concession's life that resolves a specific claim (e.g. de-scoping of certain works) closes that issue for good — a party cannot later dress up the same resolved claim as a fresh counterclaim in a subsequent arbitration over an unrelated extension dispute",
+      "Challenges to an arbitral award granting such an extension face the ordinary, narrow Section 34 standard — a court will not interfere merely because it would have read the concession/settlement documents differently, so long as the tribunal's interpretation was a plausible one",
+      "Practical evidentiary point for concessionaires: contemporaneous toll-collection data showing the extent of depression during the claimed disruption period is central to proving entitlement beyond the undisputed suspension days",
+      "This sits alongside broader 'force majeure in infrastructure contracts' guidance already on the site, but focuses specifically on how such claims interact with a concession's extension mechanism and with prior settlements of related claims"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court upheld an arbitral award granting a 53-day concession extension (25 days full suspension + 28 days depressed collection) to a BOT concessionaire for COVID-19 disruption, and rejected NHAI's related counterclaim as already resolved by an earlier settlement (July 2026, Nagpur-Kondhali NH-6 concession)",
+      "note: exact force-majeure/extension clause wording varies by concession agreement vintage and model (BOT vs HAM) — this guide should describe the general mechanism rather than quote one agreement's specific clause as universal"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "rera-review-application-reopen-order-fraud-guide",
+    "topic_title": "Can a RERA Order Be Reopened After It's Final? Review Applications and Fraud Discovered During Execution",
+    "angle": "A guide for homebuyers (and developers) on the limited circumstances in which a RERA authority can revisit its own earlier, final order — particularly where fraud or concealment by a party only comes to light after execution proceedings have already begun.",
+    "key_points": [
+      "A RERA authority's order ordinarily becomes final and executable after the statutory period for appeal/compliance lapses, and is not open to being reopened on a mere second look",
+      "Where a complainant discovers during execution that the respondent concealed material facts from the authority during the original proceedings — such as having already sold the same unit to third parties while the original complaint was pending — RERA authorities have treated this as a proper basis to revisit the earlier order on review, rather than treating the order as closed",
+      "A review on this basis can change the nature of the relief itself — an order originally directing possession can be converted into a refund-with-interest order where possession is no longer achievable because of the respondent's own concealed conduct",
+      "A party's deliberate absence from the original proceedings (rather than genuine lack of notice) does not insulate it from this kind of review once concealment is discovered — if anything, courts/authorities treat staying away while concealing facts as an aggravating factor",
+      "Separately from refund, a developer found to have created third-party rights over a unit already subject to a regulatory direction can face an independent penalty for that conduct, on top of whatever relief is given to the original complainant",
+      "Practical tip for buyers sitting on an old, unenforced possession order: check the property's current ownership/registration records before assuming the order remains capable of being executed as possession, since years of non-enforcement can mean the unit has quietly changed hands"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: MahaRERA converted an original possession order into a refund-with-interest order, plus a separate penalty on the developer, after the buyer discovered during execution that the developer (who had stayed absent from the original proceedings) had already sold the unit to third parties (review order reported July 2026)",
+      "note: the statutory/regulatory basis for a RERA authority's review power (as opposed to an appeal to the Appellate Tribunal) varies by state RERA rules and should be confirmed against the applicable state's RERA regulations before publication"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "court-ordered-deposit-specific-performance-guide",
+    "topic_title": "Suing for Specific Performance and the Seller Resold the Property? How Courts Secure the Sale Price Pending Trial",
+    "angle": "A practical guide for a specific-performance plaintiff who discovers, mid-suit, that the defendant-seller has sold the disputed property to a third party, on the interim relief available to secure the money at stake while the suit over title/performance continues.",
+    "key_points": [
+      "Where a seller sells the suit property to a third party after a specific-performance suit is filed, the doctrine of lis pendens (Section 52, Transfer of Property Act) means the subsequent buyer takes subject to the outcome of the pending suit — but that alone does not guarantee the original plaintiff gets the property back if specific performance is ultimately refused",
+      "Courts have used their interim injunction powers to maintain status quo over the property itself (preventing further alienation or change) while a specific-performance suit is pending, even after a subsequent sale has already occurred",
+      "Separately, where there is a risk the seller may dissipate or place beyond reach the sale proceeds received from the subsequent (second) sale, courts have directed the seller to deposit a substantial sum in court — effectively securing the monetary stake — pending final adjudication, without that direction amounting to a final finding on entitlement",
+      "Such an interim deposit order is explicitly made on a prima facie basis and does not predetermine whether the original plaintiff will ultimately get specific performance, restitution of the deposited sum, or damages — it simply preserves the fund so that whichever remedy is eventually granted is not rendered illusory",
+      "Practical steps for a plaintiff in this position: move promptly for interim relief once the subsequent sale comes to light (rather than waiting for final hearing), and specifically plead the risk of dissipation of sale proceeds, not just the lis pendens point, to support a deposit direction",
+      "This complements, rather than duplicates, general guidance on choosing between specific performance and damages for breach of a sale agreement"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court granted an interim injunction and status quo, and directed a seller to deposit Rs. 20.5 crore in court, after a subsequent sale of a property during a pending specific-performance suit, expressly on a prima facie basis (July 2026, Greater Kailash property)",
+      "note: the availability and quantum of any such deposit direction is discretionary and fact-specific (e.g. depends on amounts actually received by the seller on resale) — this should be presented as an available tool, not a guaranteed or formulaic remedy"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "personal-guarantor-settlement-financial-creditor-status-guide",
+    "topic_title": "You Paid Off the Company's Loan as Guarantor — Does That Make You a 'Financial Creditor' in Its Insolvency?",
+    "angle": "A guide for personal guarantors and promoters who have personally settled or paid down a corporate debtor's debt, on why that payment alone does not make them a financial creditor (or let them block/withdraw an ongoing liquidation), and what formal steps actually would.",
+    "key_points": [
+      "A personal guarantor who pays a company's lender out of pocket under a one-time settlement, and gets the lender to close the account, does not thereby automatically acquire that lender's rights as a 'financial creditor' of the company in its own insolvency/liquidation",
+      "To actually step into the original lender's shoes, the guarantor needs either (a) a formal assignment of the debt in their favour, or (b) a court/tribunal-ordered substitution as the creditor in the insolvency proceedings — payment and an account-closure certificate from the bank are not a substitute for either",
+      "Absent that formal step, a guarantor who has bought the company's assets in connection with the settlement may at most be treated as an asset purchaser/promoter, not as a creditor with standing to seek withdrawal of liquidation or participate in creditor decision-making",
+      "An earlier, unchallenged order rejecting a guarantor's attempt to stop liquidation on the same 'I settled the debt' basis will be treated as final and binding, and cannot be relitigated through a fresh application dressed up differently",
+      "Practical step for a guarantor planning to settle and then seek a role in the insolvency process: negotiate and document a formal assignment of the debt (or apply for substitution) as part of the settlement itself, rather than relying on an account-closure certificate to establish standing later",
+      "This is a narrower, insolvency-specific companion to general guidance on invoking (or resisting) a personal loan guarantee"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLAT held a personal guarantor who settled a company's bank debt did not acquire financial creditor status absent an assignment or ordered substitution, and could at most be seen as an asset purchaser (Oct 2026, S.V. Ramasamy re: Swastik Spinners)"
+    ],
+    "added_on": "2026-10-10"
   }
 ]
