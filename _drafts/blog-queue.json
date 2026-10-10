@@ -256,5 +256,349 @@
       "confirmed: NCLAT held a personal guarantor who settled a company's bank debt did not acquire financial creditor status absent an assignment or ordered substitution, and could at most be seen as an asset purchaser (Oct 2026, S.V. Ramasamy re: Swastik Spinners)"
     ],
     "added_on": "2026-10-10"
+  },
+  {
+    "id": "gst-corporate-guarantee-rule-28-2-related-party-guide",
+    "topic_title": "GST on Corporate Guarantees Between Related Parties: Rule 28(2) and the 1% Deemed Value Explained",
+    "angle": "A guide for corporate groups on when a parent/holding company's guarantee for a subsidiary attracts GST, how the 1% deemed-value rule actually works after being read down, and how to structure guarantee fees to avoid the default valuation.",
+    "key_points": [
+      "A corporate guarantee given by a holding company for its subsidiary is treated as a taxable supply of service under GST even where no separate fee is charged",
+      "Rule 28(2) of the CGST Rules, effective from 26 October 2023, deems the value of such a guarantee at 1% of the amount guaranteed per annum (or the actual consideration, whichever is higher) absent a specific valuation mechanism",
+      "Gujarat High Court has read down the words 'whichever is higher' as arbitrary: where actual, ascertainable consideration is charged (even below 1%), GST applies to that actual consideration, and the 1% deemed value applies only where the guarantee is gratuitous or its value cannot otherwise be determined",
+      "Rule 28(2) cannot be applied to levy GST for any period before 26 October 2023 — guarantees already in force after that date become taxable from that date onward, not retrospectively",
+      "Practical structuring point: a group that charges and can document a genuine, ascertainable guarantee commission (even a modest one) is on stronger ground than one relying on an unstated/gratuitous guarantee that defaults to the 1% figure",
+      "This interacts with Section 15(4) of the CGST Act on related-party valuation generally, so guarantee fee-setting should be reviewed alongside the group's broader related-party transfer pricing/valuation documentation"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Gujarat High Court (Torrent Power Ltd. v. Union of India, Aug 2026) upheld Rule 28(2) and Section 15(4) but read down 'whichever is higher', and held the rule is not retrospective to periods before 26 October 2023",
+      "note: whether this ruling has been appealed or stayed should be checked before publication, and the position in other High Courts should be noted if they diverge"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "order-37-summary-suit-guide",
+    "topic_title": "Order XXXVII Summary Suits: How Banks and NBFCs Recover Debt Faster Than an Ordinary Civil Suit",
+    "angle": "A guide for lenders (and defendants facing one) on when the Order XXXVII summary suit procedure is available, how 'leave to defend' and 'conditional leave to defend' actually work, and what happens if a defendant fails to comply with a conditional leave order.",
+    "key_points": [
+      "Order XXXVII CPC provides a summary procedure for specific classes of suits — principally those founded on a negotiable instrument, or seeking recovery of a debt or liquidated demand in money, including loan/guarantee recovery suits",
+      "Its purpose is to prevent a defendant with no genuine triable defence from dragging out litigation through an ordinary, full-length civil suit",
+      "A defendant must apply for and be granted 'leave to defend'; the court assesses whether the proposed defence is genuinely triable or merely illusory/moonshine",
+      "Courts can grant conditional leave to defend — allowing the defence to proceed only if the defendant deposits the claimed amount (or furnishes equivalent security) in court — particularly where the defence looks triable but weak or vague",
+      "Failure to comply with a conditional leave order (e.g. not depositing the required sum within the time given) is treated as fatal: the defendant is barred from contesting the claim further, and the plaintiff becomes entitled to a decree effectively forthwith",
+      "Loan documents relied on in such a suit must be properly stamped; courts have allowed a plaintiff to cure an insufficient-stamping defect mid-suit by paying the deficit stamp duty and filing the adjudication order, rather than losing the suit outright on that technicality"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Bombay High Court decreed four IL&FS Order XXXVII summary suits (totalling ~Rs 848.80 crore) after defendants failed to comply with a conditional leave to defend deposit condition (Aug 2026)",
+      "note: the exact time limit typically given for compliance with a conditional leave order is case-specific (set by the court in each order), not a fixed statutory period, and should be described as such"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "mining-royalty-revision-mid-lease-guide",
+    "topic_title": "Can the Government Revise Mining Royalty Rates Mid-Lease? What a Silent Lease Deed Doesn't Protect",
+    "angle": "A guide for mining lessees on whether a state government can increase royalty/dead rent during the term of an existing lease, and why a lease deed's silence on royalty revision does not freeze the rate for the full lease term.",
+    "key_points": [
+      "A mining lessee does not acquire a vested right to a static, unchanging royalty rate for the life of the lease merely because the lease deed itself contains no express royalty-revision clause",
+      "The power to revise royalty and dead rent during a subsisting lease derives from the governing mining statute and rules (and any state notification issued under them), not from an express term in the lease deed — so its absence from the deed is not a bar",
+      "The Supreme Court has set aside a High Court order that had blocked a state's royalty/dead-rate enhancement on exactly this reasoning, confirming the government's statutory power to revise survives a silent lease deed",
+      "Lessees should budget for periodic royalty revisions as a matter of regulatory risk, rather than treating the rate fixed at the time of grant as fixed for the lease's duration",
+      "This sits alongside, and should be read together with, the separate question of how stamp duty on a mining lease itself is computed (generally on anticipated royalty yield, not dead rent) — the two are related but distinct cost considerations for a prospective lessee"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court (State of Haryana v. Faridabad Gurgaon Minerals, 2026 INSC 690, July 2026) held a lessee cannot claim a vested right to static royalty merely because the lease deed is silent on revision, and upheld the state's statutory power to revise mid-lease"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "stamp-duty-mining-lease-anticipated-royalty-guide",
+    "topic_title": "Stamp Duty on Mining Leases: Why It's Calculated on Anticipated Royalty, Not Dead Rent",
+    "angle": "A guide for a company negotiating or executing a mining lease on how the upfront stamp duty is actually computed in states that value the lease by reference to anticipated royalty yield rather than the (lower) dead rent figure, and why this materially affects upfront transaction cost.",
+    "key_points": [
+      "Mining leases typically fix both a 'dead rent' (a minimum fixed payment regardless of extraction) and a royalty (payable per unit of mineral actually extracted, usually far exceeding dead rent once production ramps up)",
+      "Several states have notified that stamp duty on a mining lease instrument should be computed by reference to the anticipated royalty yield over the lease term, rather than the much lower dead rent figure — which the Supreme Court has upheld as not ultra vires Section 26 of the Indian Stamp Act, 1899",
+      "This means the stamp duty payable on executing a mining lease can be substantially higher than a dead-rent-based calculation would suggest, and should be factored into deal cost projections before execution, not discovered only at registration",
+      "The validity of a particular state's anticipated-royalty stamp duty notification should be checked against that state's specific notification, since not every state necessarily uses the same valuation basis",
+      "This question is distinct from, though related to, the separate question of whether and when the government can revise the royalty rate itself during the lease term"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court (Birla Corporation Ltd. v. State of Madhya Pradesh, July 2026) upheld Madhya Pradesh's 1993 notification computing mining-lease stamp duty on anticipated royalty rather than dead rent, as not ultra vires Section 26 of the Indian Stamp Act",
+      "note: this guide should flag that the anticipated-royalty basis is confirmed for Madhya Pradesh's specific notification — readers in other states should check their own state's stamp valuation rules for mining leases rather than assume the same basis applies uniformly"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "ibc-vs-rera-homebuyer-conflict-guide",
+    "topic_title": "IBC vs RERA: Which Law Actually Wins When a Homebuyer's Rights Conflict With an Approved Resolution Plan",
+    "angle": "A guide for homebuyers in a real estate company's CIRP on why an approved resolution plan can override individual RERA refund/possession rights, how the homebuyer class votes through its Authorised Representative, and what a dissenting minority buyer can (and cannot) still do.",
+    "key_points": [
+      "Once a real estate corporate debtor enters CIRP, homebuyers participate in the Committee of Creditors as a class through a single Authorised Representative, who votes the class's collective voting share based on instructions from, or the majority view of, represented homebuyers",
+      "Where the class (through its Authorised Representative) approves a resolution plan, individual dissenting homebuyers holding only a small fraction of the class's voting share cannot unilaterally demand a separate exit/refund mechanism for themselves outside the approved plan",
+      "Section 238 of the IBC gives the Code overriding effect over other laws to the extent of any inconsistency — tribunals have relied on this to hold the Code's class-based resolution mechanism prevails over an individual buyer's RERA-based refund expectation once a plan is approved",
+      "A buyer who disagrees with the approved plan's treatment of homebuyers generally has the route of challenging the plan's approval itself (on the ground it is not compliant with the Code, e.g. unfair/discriminatory treatment within the homebuyer class) rather than seeking a standalone refund order outside the plan",
+      "Practical takeaway for buyers: engage actively with the Authorised Representative and the plan approval process itself (objections, voting instructions) rather than waiting to raise refund objections only after the plan is approved, since post-approval individual relief is very difficult to obtain",
+      "This is distinct from the separate question of whether pending RERA proceedings bar admission of an insolvency petition in the first place — that is a threshold question, answered differently from what a buyer can get once CIRP is already underway and a plan is approved"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLT Mumbai dismissed four dissenting homebuyers' (0.22% voting share) bid for an individual refund mechanism after the homebuyer class (22.66% voting share, via its Authorised Representative) had approved the Spenta Enclave resolution plan, holding the Code's provisions prevail over inconsistent individual refund rights (Sept 2026)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "defective-seed-consumer-claim-burden-of-proof-guide",
+    "topic_title": "Suing Over Defective Seeds: What a Farmer Must Prove (and What a Seed Company Can Use as a Defence)",
+    "angle": "A guide for farmers pursuing a consumer complaint over crop failure from allegedly defective seed, and for seed companies defending such claims, on how courts actually weigh a field inspection report and apportion liability between seed defect and natural/weather factors.",
+    "key_points": [
+      "The Seeds Act, 1966 regulates only notified varieties and provides no direct compensation remedy for a farmer suffering loss from poor seed quality — which is why farmers typically pursue relief through consumer fora under the Consumer Protection Act instead",
+      "A district consumer forum/commission will often rely on an independent field inspection report assessing the actual extent of crop development/failure, rather than accepting the farmer's account of total crop loss at face value",
+      "Where an inspection report attributes the shortfall to a mix of causes — partial seed-related failure alongside genuine natural factors such as excessive rainfall — courts have declined to find 'complete deficiency of service' by the seller, and apportioned compensation rather than awarding full claimed loss",
+      "Practical evidentiary point for farmers: a prompt, properly documented field inspection (ideally jointly conducted or at least with notice to the seller) strengthens a claim far more than post-hoc assertions about total yield failure",
+      "Practical point for seed companies: weather/rainfall data and inspection findings showing partial pod/crop development, rather than complete failure, are central to limiting liability to a genuine proportion of loss",
+      "This guide complements, and should be read alongside, general consumer-complaint procedure guidance, since the forum and filing process itself follows the ordinary Consumer Protection Act route"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court (M/s Shyam Beej Bhandar v. Suresh, 2026 INSC 158, Feb 2026) apportioned compensation rather than awarding full relief, based on a field inspection report showing natural factors (excessive rainfall) significantly contributed to groundnut crop shortfall alongside any seed-quality issue"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "privatised-psu-writ-jurisdiction-guide",
+    "topic_title": "Can a Privatised PSU Still Be Sued by Writ Petition? What Air India's Post-Disinvestment Cases Show",
+    "angle": "A guide for employees and other claimants with a pre-disinvestment dispute against a since-privatised public sector company, on when Article 226 writ jurisdiction remains available despite the company no longer being 'State' for constitutional purposes.",
+    "key_points": [
+      "Once a public sector company is fully disinvested/privatised, it generally ceases to be 'State' under Article 12, and ordinary post-privatisation employment or contractual claims against it as a private employer are not amenable to writ jurisdiction",
+      "Courts have drawn a distinction, however, for challenges that target not the privatised company as an employer but a pre-existing tribunal's award or adjudicatory process from a dispute that arose and was being adjudicated before the disinvestment took effect",
+      "Where the writ petition's real target is the earlier Industrial Tribunal's award/process (e.g. an inadequate compensation award for a pre-privatisation termination), courts have held the company's current private ownership does not bar the writ, since the petition is not against the company as a private employer but against the award and the statutory adjudicatory process itself",
+      "Practical implication: a claimant with a stale industrial dispute predating a PSU's privatisation should not assume writ jurisdiction is automatically closed off — the framing of the challenge (tribunal award/process vs. the company's current private conduct) is decisive",
+      "This narrow route does not reopen the broader, settled position that a privatised company's day-to-day employment decisions after disinvestment are not themselves subject to writ review",
+      "Relevant higher authority on the broader question (whether a privatised PSU remains amenable to writ jurisdiction at all) should be checked, since the Supreme Court has separately examined this issue and any later ruling should be read alongside the Air India line of cases"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court (Sauraj Singh v. M/s Indian Airlines Ltd., 2026 DHC 4055, May 2026) held a writ challenging a pre-privatisation CGIT award remains maintainable against the now-privatised Air India, distinguishing ordinary post-privatisation employment claims",
+      "note: this is a narrow, fact-specific line of authority (tribunal-award challenges predating disinvestment) and should not be presented as a general rule that privatised PSUs remain amenable to writ jurisdiction for all purposes"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "nhai-toll-operator-revenue-loss-claim-guide",
+    "topic_title": "NHAI Toll Operator Revenue-Loss Claims: Proving Losses From Incorrect Toll Rates and COD Delays",
+    "angle": "A guide for highway toll concessionaires on how to build and prove a revenue-loss claim against NHAI arising from incorrectly fixed toll rates, delayed declaration of the Commercial Operation Date (COD), or mandated free-pass obligations to local residents.",
+    "key_points": [
+      "Common categories of toll-operator revenue-loss claims against NHAI include: toll rates fixed at an incorrect (too low) level relative to the concession terms, delay in NHAI declaring the Commercial Operation Date (which affects when toll collection and revenue entitlement actually begins), and the cost burden of mandated free monthly passes for local residents near a toll plaza",
+      "Arbitral tribunals assessing such claims look for concrete, quantified evidence of the loss attributable to each specific cause — a bundled, undifferentiated loss figure is harder to sustain than separately evidenced heads of claim",
+      "Courts reviewing a resulting award under Section 34 give the tribunal's factual findings on these questions considerable deference, intervening only where the tribunal's interpretation is not even a plausible reading of the concession agreement — so a well-evidenced award in the concessionaire's favour is difficult for NHAI to overturn on appeal",
+      "Practical evidentiary steps for a concessionaire: maintain contemporaneous toll-collection data broken down by period and cause, document the actual COD declaration timeline against the concession schedule, and separately track the cost of any mandated free-pass obligations",
+      "This is distinct from force-majeure-based concession-extension claims (e.g. for COVID-19 disruption), which involve a different analytical question — extension of the concession term itself, rather than a revenue-loss damages claim for a specific period"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court upheld an arbitral award of about Rs 12.18 crore to a Kerala toll concessionaire (Kochi Aroor Tollways) against NHAI for losses tied to incorrectly fixed toll rates, delayed COD declaration, and free local-resident pass costs (Jan 2026)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "letter-of-comfort-vs-bank-guarantee-guide",
+    "topic_title": "Letter of Comfort vs Bank Guarantee: Why the Difference Decides Whether a Parent Company Actually Pays",
+    "angle": "A guide for lenders and corporate groups on the legal distinction between a letter of comfort and a formal guarantee, when a letter of comfort is nonetheless enforceable, and the drafting choices that determine which a given document actually is.",
+    "key_points": [
+      "A formal guarantee must satisfy the requirements of Section 126 of the Indian Contract Act and typically creates a clear, direct payment obligation enforceable against the guarantor on the principal debtor's default",
+      "A letter of comfort is typically a softer assurance — often issued by a parent company for a subsidiary's borrowing — that does not necessarily satisfy formal guarantee requirements, but courts have nonetheless treated a sufficiently specific letter of comfort as an enforceable promise in its own right, separate from the Contract Act's guarantee formalities",
+      "Courts have invoked the 'group of companies' doctrine to bind a parent company to an arbitration clause in a loan agreement based on its letter of comfort, where the parent was sufficiently involved in the underlying transaction's negotiation and performance",
+      "On the other hand, tribunals have also held that an entity issuing a mere letter of comfort is not thereby a 'corporate debtor' or 'guarantor' for IBC purposes, where the letter does not create an actual financial/operational debt obligation — so the enforceability of a letter of comfort is highly fact- and wording-dependent, not automatic either way",
+      "Practical drafting point for a lender: if a genuine, directly enforceable payment obligation from the parent is wanted, a formal Section 126-compliant guarantee is far more reliable than a letter of comfort, however strongly worded; a letter of comfort leaves real enforceability risk and litigation uncertainty",
+      "Practical point for a parent company: a letter of comfort is not 'risk-free' comfort-only language — depending on its specificity and the surrounding conduct, it can still be read as an enforceable promise or used to bind the parent to an arbitration clause"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court has held a letter of comfort can be enforceable as a promise even without satisfying Section 126 guarantee formalities, and has referred claims under letters of comfort to arbitration via the group-of-companies doctrine (Essel Group matter)",
+      "confirmed: NCLT Delhi has separately held an entity issuing a letter of comfort is not a corporate debtor or guarantor under the IBC where no actual operational debt arises from it",
+      "note: these two lines of authority address different questions (civil/contractual enforceability vs IBC debt characterisation) and should be presented as complementary, not conflicting"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "medical-negligence-case-sheet-production-guide",
+    "topic_title": "Medical Negligence Claims: Why a Hospital's Failure to Produce the Complete Case Sheet Can Decide the Case",
+    "angle": "A guide for patients/families pursuing a medical negligence complaint, and for hospitals defending one, on the evidentiary significance of the hospital's medical records and case sheet, and what an incomplete or withheld record actually does to the burden of proof.",
+    "key_points": [
+      "A complete, contemporaneously maintained case sheet and treatment record is the primary documentary evidence of what was actually done for a patient and why — its completeness (or lack of it) is heavily scrutinised by consumer commissions assessing a negligence complaint",
+      "Where a hospital cannot produce a complete case sheet, or cannot adequately justify a specific clinical decision (such as administering a particular treatment to a patient with a known contraindicating condition) from the records it does produce, commissions have treated this gap itself as supporting a negligence finding, not merely as a procedural shortcoming",
+      "This differs from, but interacts with, the general principle that the complainant bears the initial burden of establishing a deficiency in service — a hospital's inability to produce adequate records can shift the practical weight of that burden once a prima facie concern is raised",
+      "Practical point for hospitals/healthcare providers: maintaining and being able to promptly produce complete, contemporaneous records is not just good clinical practice but a central legal defence — gaps discovered only during litigation are difficult to explain away after the fact",
+      "Practical point for complainants: a formal request for the complete treatment record/case sheet early in the dispute (before filing, if possible) both supports the claim's evidentiary basis and tests whether the hospital can actually produce what it should have maintained",
+      "This guide is distinct from the general 'medical negligence: consumer, civil and criminal routes' overview already on the site — it focuses specifically on the evidentiary weight of record-keeping failures within whichever route is chosen"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Kakinada District Consumer Disputes Redressal Commission held a hospital and treating cardiologist liable for Rs 99 lakh partly because they failed to produce the complete case sheet and treatment records and could not justify administering dialysis to a cardiac patient (Aug 2026)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "gst-fake-itc-writ-maintainability-guide",
+    "topic_title": "When Can a GST Writ Petition Be Dismissed for 'Misleading the Court'? Lessons From Repeat Litigation Over Fake ITC",
+    "angle": "A guide for taxpayers (and their counsel) facing a fake/fraudulent ITC demand under Section 74, on why a writ petition is usually the wrong route when a statutory appeal exists, and the specific litigation-conduct risk of denying or misdescribing an earlier related proceeding to the court.",
+    "key_points": [
+      "Where a statutory appellate remedy under Section 107 of the CGST Act is available and adequate, High Courts have consistently held a writ petition challenging a fake/fraudulent ITC demand is not maintainable merely because the taxpayer would prefer to bypass the appeal route",
+      "Courts treat this especially strictly in fake-ITC matters, given the fact-intensive nature of such disputes, which are generally better suited to the appellate authority's fuller fact-finding process than to writ jurisdiction's limited scope of review",
+      "A litigation-conduct risk distinct from the merits: where counsel denies or misdescribes to the court that an earlier, connected proceeding (e.g. by a sister concern operating from the same premises, challenging the same show cause notice) exists or was withdrawn, and the record contradicts that denial, courts have treated this as the court being misled — an independent, aggravating ground for dismissal",
+      "Practical point for taxpayers with related/group entities facing parallel or connected GST proceedings: disclose the full procedural history of all connected matters to counsel and ensure it is accurately placed before the court, since omissions here can taint an otherwise arguable case",
+      "Practical point generally: before filing a writ in a fake-ITC matter, assess honestly whether the statutory appeal route is genuinely inadequate (e.g. true breach of natural justice) rather than simply less convenient, since 'alternative remedy exists' is likely to be the court's first and dispositive response"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Gujarat High Court (Mahalaxmi Industries v. Union of India, July 2026) dismissed a writ challenging a ~Rs 1.47 crore fake-ITC demand both for the existence of an adequate statutory appeal and because counsel had misled the court about a sister concern's earlier, connected writ petition"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "sebi-settlement-mechanism-guide",
+    "topic_title": "SEBI's Settlement Mechanism: How Proceedings Get Settled Without Admission of Guilt",
+    "angle": "A guide for companies and individuals facing SEBI enforcement action on how the settlement route under the SEBI (Settlement Proceedings) Regulations actually works, what 'without admitting or denying' really means in practice, and the risk that a settled matter can still be revived.",
+    "key_points": [
+      "SEBI's settlement framework lets a person against whom proceedings have been initiated (or are reasonably apprehended) apply to settle by paying a settlement amount and/or undertaking specific actions, without admitting or denying the underlying findings of fact or conclusions of law",
+      "Settlement applications are considered by a panel (typically including Whole-Time Members) which evaluates and approves settlement terms; approval is not automatic and SEBI retains discretion over whether a matter is appropriate for settlement at all",
+      "'Without admitting or denying' matters practically: a settlement order is generally not treated as a factual finding of wrongdoing, which can be relevant to collateral proceedings, but it does not erase the underlying conduct or prevent SEBI's own records of the investigation from existing",
+      "SEBI has expressly retained the power to revive settled proceedings where there is a false representation, breach of the settlement undertaking, or any discrepancy in the settlement terms as actually implemented — settlement is not an unconditional, permanently final closure",
+      "High-value, high-profile respondents have used the settlement route for matters spanning years-long investigations (e.g. minimum public shareholding non-compliance), confirming it is not limited to minor or technical violations",
+      "SEBI issued a 2026 consultation paper proposing a full overhaul of the settlement mechanism through new Settlement of Proceedings Regulations, so the current framework may change — practitioners should check the regulations actually in force at the time of any application"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: four Adani group companies and several individuals settled SEBI MPS proceedings in September 2026 under the current settlement framework, without admission or denial, with SEBI retaining revival power",
+      "confirmed: SEBI issued an August 2026 consultation paper proposing a full overhaul of the settlement regulations",
+      "note: the exact current regulations in force (SEBI (Settlement Proceedings) Regulations, 2018, as amended) versus any newly notified 2026 regulations should be checked at time of publication, since the consultation paper may have since been finalised"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "minimum-public-shareholding-non-compliance-guide",
+    "topic_title": "Minimum Public Shareholding Non-Compliance: What Listed Companies and Promoters Actually Risk",
+    "angle": "A guide for listed companies and their promoters on the consequences of falling short of the minimum public shareholding (MPS) requirement, from SEBI's enforcement escalation path to the recent example of a major group settling MPS proceedings years after the underlying non-compliance.",
+    "key_points": [
+      "Listed companies must maintain a minimum public shareholding (generally 25%, with specific carve-outs/timelines for certain categories) under SEBI's Securities Contracts (Regulation) Rules framework",
+      "Enforcement typically escalates through the stock exchanges first: on finding non-compliance, an exchange issues a notice (generally within a set number of days of discovery) and advises the entity to achieve compliance within a prescribed period",
+      "Consequences for continued non-compliance can include freezing of promoter shareholding/voting rights and corporate benefits in proportion to the extent of non-compliance, restrictions on promoters/directors taking new board positions at other listed companies, and monetary penalties (potentially substantial under the governing securities law)",
+      "MPS investigations can run for years before resolution — the recent Adani group MPS settlement traced back to a 2020 complaint, with show cause notices issued only in 2024-25 and settlement finally concluded in 2026, illustrating how long such matters can remain open",
+      "Settlement under SEBI's settlement framework is available even for MPS non-compliance, letting a company and its directors close out the matter by payment without admitting the underlying findings — but this does not retroactively cure the period of actual non-compliance for other purposes",
+      "Practical takeaway for companies approaching an MPS threshold risk (e.g. after a promoter share pledge enforcement, or corporate restructuring that concentrates promoter holding): proactively plan a compliance pathway (OFS, QIP, rights issue, etc.) well before any exchange notice, since the enforcement consequences escalate the longer non-compliance continues"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: four Adani group companies and associated individuals settled MPS non-compliance proceedings with SEBI for Rs 37.05 lakh each (plus separate individual settlements) in September 2026, a matter traced back to a 2020 complaint",
+      "note: the current MPS percentage threshold and specific exchange-notice timelines should be re-confirmed against the current SCRR and SEBI circulars in force at time of writing, since this framework has been revised over time (the description above reflects the general, settled 2013/2017-era framework)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "bda-type-authority-rera-promoter-status-guide",
+    "topic_title": "Is a Development Authority a RERA 'Promoter'? The Pre-Act Land Acquisition Question",
+    "angle": "A guide for allottees of residential layouts developed by a statutory development authority (e.g. a Bangalore-, Delhi- or state-level development authority) on the live legal question of whether such an authority counts as a RERA 'promoter' for layouts where the underlying land acquisition predates the RERA Act, and what this means for a buyer's remedies in the meantime.",
+    "key_points": [
+      "RERA defines 'promoter' broadly under Section 2(zk), and state RERA authorities/appellate tribunals have in several instances held that a statutory development authority developing and allotting residential layouts falls within that definition, exposing it to RERA's registration and disclosure obligations and to buyer complaints",
+      "A development authority has argued, with at least interim success in one state, that RERA should not apply to layouts where the preliminary land-acquisition notification predates the RERA Act's commencement — reasoning that the project's foundational legal basis arose under an entirely different, pre-existing statutory scheme",
+      "This question remains genuinely unsettled as of 2026 — at least one High Court has granted only an interim stay of RERA's applicability to a specific authority's pre-Act layouts, without deciding the underlying question, so the position can differ by state and project",
+      "Practical implication for an allottee in a development-authority layout: check whether the specific project's land acquisition predates RERA and whether any court proceeding is live on this point in that state before assuming a RERA complaint is the right forum — a parallel civil or statutory remedy specific to that development authority's own enabling Act may need to be pursued instead or in addition",
+      "Buyers should not simply wait for the broader legal question to be resolved if their claim has its own limitation concerns — filing in the forum currently available (even if its jurisdiction is contested) preserves the buyer's position better than waiting"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Karnataka High Court granted the Bangalore Development Authority an interim stay of RERA's applicability to specific layouts predating the Act's commencement, with the broader question still undecided (June 2026)",
+      "note: this is a single state's interim order on a specific authority — the guide should make clear this is not a settled, generally applicable rule, and other states' authorities and courts may take a different view"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "nclt-liquidator-avoidance-notice-service-guide",
+    "topic_title": "Avoiding a Preferential or Fraudulent Transaction in Liquidation: Why Proper Notice to Erstwhile Management Actually Matters",
+    "angle": "A guide for liquidators and resolution professionals on the procedural (not just substantive) requirements for a successful Section 43/66 avoidance application, focusing specifically on serving proper notice on the corporate debtor's suspended/erstwhile management.",
+    "key_points": [
+      "A transaction audit report flagging transactions as preferential (Section 43) or fraudulent/for extortionate credit (Sections 66/50) is an important evidentiary foundation for an avoidance application, but it is not by itself sufficient to secure an order",
+      "Tribunals have dismissed otherwise well-evidenced avoidance applications where the liquidator failed to ensure proper statutory notice of the application was actually served on the corporate debtor's suspended board/erstwhile management — a pure procedural defect, separate from the substantive merits of the avoidance claim",
+      "This means a liquidator's procedural checklist (confirming service, keeping proof of service, following up on defective service) is as important to the ultimate success of an avoidance application as the quality of the underlying transaction audit itself",
+      "A liquidator whose avoidance application is dismissed purely for a notice defect generally retains the ability to refile properly once service is correctly effected, provided limitation has not separately run out — so the setback, while costly in time, is not necessarily fatal to recovering the transaction's value",
+      "This complements, rather than duplicates, general guidance on the categories of avoidable transactions under the IBC — it focuses specifically on the procedural service requirement that liquidators sometimes overlook"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLT Ahmedabad dismissed a liquidator's ~Rs 2.50 crore preferential/fraudulent transaction avoidance application for failure to properly serve statutory notice on the suspended management, despite a transaction audit report supporting the claim (2026 TAXSCAN (NCLT) 202)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "dark-pattern-basket-sneaking-remediation-liability-guide",
+    "topic_title": "Removed the Dark Pattern After Getting Caught? Why That Doesn't Erase CCPA Liability",
+    "angle": "A guide for e-commerce, ed-tech and other digital platforms on why voluntarily removing a dark pattern after receiving a CCPA notice does not absolve liability for the period the practice was actually live, with practical guidance on proactive self-audits versus reactive fixes.",
+    "key_points": [
+      "The CCPA's dark pattern guidelines identify several prohibited categories, including 'basket sneaking' — adding an item, donation or charge to a transaction (often via a pre-ticked checkbox) that the consumer must affirmatively notice and deselect rather than affirmatively opt into",
+      "The CCPA has expressly held that a platform's post-notice removal of a dark pattern (even where done promptly and in apparent good faith as a compliance step) does not absolve liability for violations already committed during the period the practice was live",
+      "Aggregate exposure from a dark pattern can be assessed by reference to how much revenue/benefit it generated and how many users were affected, not merely the per-transaction amount — a small per-transaction figure (e.g. a modest default donation) can still produce a large aggregate finding once multiplied across millions of users over an extended period",
+      "Practical implication: platforms should treat CCPA's self-audit directions (which have been issued broadly across the e-commerce sector) as a genuine proactive compliance exercise, not a box-ticking response only after a specific complaint or notice — by the time a notice arrives, the liability window for past conduct has typically already closed in the regulator's favour",
+      "A compliance report deadline (commonly around 15 days from an order) is typically imposed alongside any penalty, so platforms found in violation should have an implementation plan ready to action immediately, not merely a plan to eventually comply"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: CCPA penalised PhysicsWallah Rs 5 lakh for a pre-ticked donation dark pattern (classed as basket sneaking) and held that removing the feature after notice did not absolve liability for the period it was active (order dated 1 June 2026)",
+      "note: this guide should avoid suggesting the Rs 5 lakh figure is any kind of cap or benchmark — CCPA penalty amounts vary by case and this guide should present it only as an illustrative example"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "regularisation-limits-illegal-retrenchment-guide",
+    "topic_title": "You Proved Your Retrenchment Was Illegal — So Why Didn't the Court Give You Your Job Back?",
+    "angle": "A guide for workmen (and employers) on why establishing an illegal retrenchment under Section 25F of the Industrial Disputes Act does not automatically entitle a worker to reinstatement or regularisation, and what courts actually weigh in deciding between reinstatement, regularisation and compensation.",
+    "key_points": [
+      "Proving a retrenchment violated the mandatory conditions of Section 25F (notice/wages in lieu, and retrenchment compensation) establishes that the termination was illegal, but that finding alone does not dictate the remedy — reinstatement, regularisation into a permanent post, and monetary compensation are distinct forms of relief, each with its own threshold",
+      "Courts/tribunals have held that ordering regularisation into permanent employment exceeds a Labour Court's jurisdiction where regularisation was never specifically claimed as relief in the industrial dispute, and where the worker's actual period of engagement before termination was brief",
+      "Long delay in the litigation itself (industrial disputes spanning decades are not unusual) is a factor courts weigh against ordering reinstatement, since reinstating someone into a role and workplace that has moved on after 20-30 years is often treated as impractical — compensation is substituted instead, sometimes substantially increased to reflect the delay and the inadequacy of an originally meagre award",
+      "Practical point for a workman: if regularisation or a permanent post is genuinely sought as the remedy (not just reinstatement to the same type of role), it should be specifically pleaded as relief in the industrial dispute itself, rather than assumed to follow automatically from an illegality finding",
+      "Practical point for employers: an illegal retrenchment finding is not an automatic path to a large reinstatement-driven liability — courts will look closely at what relief was actually sought, how long the worker was engaged, and how long the matter has been pending in deciding the appropriate remedy"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court (SBI v. Umed Singh, 2026 LiveLaw (Del) 639) upheld an illegal-retrenchment finding but set aside a regularisation order, substituting Rs 1 lakh compensation, noting the brief original engagement and that regularisation was never specifically sought as relief (July 2026)",
+      "confirmed: Delhi High Court (Sauraj Singh v. Air India, 2026 DHC 4055) tripled a 1998 CGIT compensation award after declining reinstatement given a 25-year delay (May 2026) — illustrating the same reinstatement-vs-compensation tradeoff from the opposite direction (worker got more compensation, not reinstatement)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "gi-generic-term-absolute-grounds-guide",
+    "topic_title": "Can a Country Claim Exclusive Rights Over a Product's Generic Name? What the Pisco GI Dispute Decided",
+    "angle": "A guide to the limits of Geographical Indication protection, explaining why claiming a composite, qualified GI (e.g. 'Peruvian Pisco') does not extend to monopolising the underlying generic product name itself, and what this means for producers and importers of similarly-named products from multiple origin countries.",
+    "key_points": [
+      "Geographical Indication protection in India is not automatic for any term with a geographic connotation — it must be specifically claimed through a properly scoped GI application, and is subject to the GI Act's absolute grounds of refusal",
+      "Where a product name (such as 'Pisco') is used by producers from more than one country and has itself become understood as a generic product category rather than an indicator tied exclusively to one geographic origin, a court can decline to grant one country's producers exclusive rights over the bare, standalone term",
+      "A country/producer group can still obtain and enforce protection for a composite, qualified GI (e.g. 'Peruvian Pisco' specifically) even where the bare underlying term itself cannot be monopolised — the qualified, composite form remains distinct from, and narrower than, exclusive control of the generic term",
+      "This has practical consequences for importers/distributors and other origin countries' producers: they generally remain free to use the generic product term itself (subject to not misleadingly suggesting an exclusive-origin claim they don't have), even where one country holds a composite GI",
+      "This nuance is distinct from, and should not be confused with, India's general GI registration and enforcement framework (covered elsewhere) — it specifically addresses what happens when a GI claim runs up against a term's generic/non-exclusive character"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court Division Bench dismissed the Embassy of Peru's appeal seeking exclusive GI rights over the standalone term 'Pisco', while confirming Peru's protection extends to the composite GI 'Peruvian Pisco' (March 2026)"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "fssai-batch-specific-recall-scope-guide",
+    "topic_title": "FSSAI's Batch-Specific Recall Findings: Why One Unsafe Batch Doesn't Condemn Your Whole Product Line",
+    "angle": "A guide for food manufacturers and distributors on the legal and reputational scope of an FSSAI recall order tied to a specific batch, how to communicate the batch-specific nature of a finding to trade partners and consumers, and what it does not establish about the rest of the product line.",
+    "key_points": [
+      "An FSSAI recall order triggered by an unsafe sample is legally and procedurally tied to the specific batch(es) tested, identified by batch/lot number, not the product line as a whole",
+      "FSSAI itself has, in recent recall orders, expressly clarified that a batch-specific unsafe finding should not be read as condemning all of a manufacturer's products under that name -- a point manufacturers should proactively repeat in their own consumer communications rather than leaving the ambiguity to spread on its own",
+      "The Food Recall Procedure Regulations, 2017 require the food business operator to identify the affected batch(es), execute the recall plan, and submit recall status reports and records of recovered product, but this process-compliance obligation is distinct from, and narrower than, a product-wide safety claim",
+      "A manufacturer facing a batch-specific recall should preserve and be ready to produce batch-tracking and quality-control records for both the affected and unaffected batches, since the ability to show clear traceability is what actually substantiates the batch-specific, not product-wide, distinction if challenged",
+      "Overreacting publicly (e.g. a blanket, product-line-wide statement) can do more commercial damage than the regulatory finding itself -- communications should mirror the actual legal scope of the recall",
+      "This is a narrower companion to the site's general FSSAI Food Recall Procedure guide, focused specifically on managing the scope and framing of a recall once issued, rather than the compliance mechanics of executing one"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: FSSAI expressly stated, in ordering a recall of a specific Everest cumin powder batch for pesticide residues, that the finding related only to the implicated batch and should not be read as applying to all Everest cumin powder products (Oct 2026)",
+      "note: this guide should rely on the general Food Recall Procedure Regulations, 2017 framework for the compliance mechanics, cross-referencing the site's existing recall-procedure guide rather than restating it"
+    ],
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "local-commissioner-asset-inspection-order-xxvi-guide",
+    "topic_title": "Appointing a Court Commissioner to Inspect or Secure Disputed Assets: What Order XXVI CPC Actually Allows",
+    "angle": "A practical guide for a litigant (in a commercial, property, or arbitration-interim-relief dispute) on when a court will appoint a Local Commissioner to inspect, inventory or take custody of disputed property/assets pending final adjudication, and how this differs from a final finding on entitlement.",
+    "key_points": [
+      "Order XXVI of the CPC empowers a court to appoint a commissioner for specific purposes including making a local investigation, inspecting property, or preparing an inventory of movable property -- a practical tool for preserving evidence and the parties' relative positions while a dispute is pending",
+      "Courts have used this power in support of interim relief in commercial and arbitration-related proceedings (e.g. under Section 9 of the Arbitration Act) -- appointing a Local Commissioner to inspect and inventory a party's assets at a disputed property while the underlying dispute is referred to arbitration or trial",
+      "Appointing a Local Commissioner for inspection/inventory is squarely an interim, preservation-oriented step -- it does not itself decide who is entitled to the assets or property, and courts are careful to frame such orders as not prejudging the merits",
+      "A party seeking this relief should be specific about what the Commissioner is being asked to do (inspect, inventory, take custody, or some combination), since the scope of the Commissioner's mandate is defined by the court's order, not assumed from the general power",
+      "This tool is frequently paired with other interim relief (such as a status quo injunction or a direction to deposit disputed funds in court) rather than used alone, since inventorying assets does not by itself prevent their removal or dissipation absent an accompanying restraint",
+      "Practical tip: a party opposing such an application should focus on narrowing its scope (e.g. objecting to custody being taken, while not objecting to a mere inspection/inventory) rather than resisting the appointment outright, since courts are generally receptive to at least the inspection/inventory form of this relief"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court appointed a Local Commissioner to inspect and inventory a party's assets at a disputed leased property, alongside referring the underlying lease dispute to arbitration, in a Section 9 interim-relief application (Amazon Seller Services v. Goodluck Buildtech, Sept 2026)"
+    ],
+    "added_on": "2026-10-10"
   }
 ]

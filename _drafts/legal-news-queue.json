@@ -177,5 +177,153 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-10"
+  },
+  {
+    "id": "gujarat-hc-torrent-power-gst-corporate-guarantee-rule-28-2-read-down",
+    "practice_area": "Tax Litigation",
+    "case_name": "Torrent Power Ltd. v. Union of India",
+    "citation": "R/Special Civil Application No. 12175 of 2024, Gujarat High Court, decided 14 August 2026",
+    "court": "Gujarat High Court",
+    "date": "2026-08-14",
+    "holding_summary": "The Court upheld the constitutional validity of Rule 28(2) of the CGST Rules (corporate guarantees between related parties deemed taxable at 1% of the guaranteed amount) and of Section 15(4) of the CGST Act, but read down the words 'whichever is higher' in Rule 28(2) as arbitrary. The effect: where actual, ascertainable consideration is charged for a corporate guarantee (even below 1%), GST applies to that actual consideration; the 1% deemed value applies only where the guarantee is gratuitous or its value cannot otherwise be determined. The Court also held Rule 28(2), effective from 26 October 2023, cannot be applied to levy GST for any period before that date, and set aside related Section 74 notices for past periods, while confirming that a corporate guarantee given by a holding company for a subsidiary is a taxable supply of service even where no separate fee is charged.",
+    "why_it_matters": "A major practical relief for corporate groups: GST on intra-group guarantees no longer has to be paid on a flat 1% deemed value where the actual guarantee commission charged is lower and genuinely ascertainable — but groups must still be able to show a real, determinable consideration to escape the 1% default.",
+    "sources": [
+      "https://taxguru.in/goods-and-service-tax/no-gst-corporate-guarantee-issued-prior-notified-date-gujarat-hc.html",
+      "https://taxo.online/latest-news/14-08-2026-gst-on-corporate-guarantees-between-related-parties-gujarat-high-court-upholds-rule-282-but-restricts-retrospective-levy/",
+      "https://ksandk.com/newsletter/rule-282-cgst-corporate-guarantee-gst/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "sebi-four-adani-group-companies-mps-settlement-37-05-lakh-each",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "In Re: Adani Enterprises Ltd., Adani Power Ltd., Adani Ports & SEZ Ltd. and Adani Energy Solutions Ltd. (Minimum Public Shareholding proceedings)",
+    "citation": "SEBI settlement order dated 28 September 2026",
+    "court": "Securities and Exchange Board of India (SEBI)",
+    "date": "2026-09-28",
+    "holding_summary": "SEBI settled minimum public shareholding (MPS) non-compliance proceedings against four listed Adani group companies — Adani Enterprises, Adani Power, Adani Ports & SEZ, and Adani Energy Solutions (formerly Adani Transmission) — with each company paying Rs. 37.05 lakh jointly and severally with its respective directors, a combined Rs. 1.48 crore, without admitting or denying the underlying findings of fact. Gautam Adani and 13 other individuals settled separately. The probe traced back to a 23 October 2020 complaint, with a show cause notice issued 27 September 2024 and a supplementary notice on 3 March 2025; amounts were paid on 26 August 2026. SEBI retained the power to revive proceedings for any false representation or breach of the settlement terms. A parallel SEBI order the same day found the central allegations against Vinod Adani in the same MPS matter were not established.",
+    "why_it_matters": "A reminder that MPS non-compliance exposes both the listed company and its directors to joint-and-several settlement liability, and that SEBI's settlement route lets large, high-profile respondents close out a years-long investigation without any admission of wrongdoing — useful context for any company and its board facing a similar MPS shortfall.",
+    "sources": [
+      "https://www.livelawbiz.com/securities-law/sebi/securities-and-exchange-board-of-india-settles-proceedings-against-four-adani-group-companies-alleged-mps-violations-552167",
+      "https://www.sansalegal.com/post/sebi-settles-minimum-public-shareholding-proceedings-against-four-adani-group-companies",
+      "https://www.moneylife.in/article/sebi-clears-vinod-adani-in-mps-case-gautam-adani-4-group-companies-settle-for-148-crore/81785.html"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "bombay-hc-ilfs-848-80-crore-recovery-suits-skil-infrastructure-nikhil-gandhi",
+    "practice_area": "Commercial Litigation",
+    "case_name": "IL&FS Financial Services Ltd. v. SKIL Infrastructure Ltd., Nikhil Gandhi & Ors.",
+    "citation": "Commercial Summary Suit Nos. 779, 886, 887 and 923 of 2019, Bombay High Court, decided August 2026",
+    "court": "Bombay High Court",
+    "date": "2026-08-15",
+    "holding_summary": "Justice Gauri Godse decreed four Order XXXVII commercial summary suits in IL&FS Financial Services' favour for a combined Rs. 848.80 crore (individual claims ranging from Rs. 53.94 crore to Rs. 321.46 crore, each with 9% interest from the date of filing until realisation), directing the borrowers, guarantors and other named parties to pay jointly and severally. Nikhil Gandhi was personal guarantor in all four suits, and SKIL Infrastructure was principal borrower in one and corporate guarantor in the other three. The defendants had earlier been granted conditional leave to defend on condition of depositing the disbursed amounts, but failed to comply; the loan documents, initially impounded for insufficient stamping, were later validated after IL&FS itself paid the deficit stamp duty. Claims against SKIL and Gandhi specifically were kept in abeyance pending their separate insolvency proceedings.",
+    "why_it_matters": "Illustrates how a lender can secure a decree 'forthwith' under Order XXXVII once a defendant is granted only conditional leave to defend and fails to deposit the required security — non-compliance with a conditional leave order is effectively fatal to the defence, whatever the merits.",
+    "sources": [
+      "https://www.livelawbiz.com/commercial-court-act/bombay-high-court-rules-in-favour-of-ilfs-in-84880-crore-recovery-suits-545946",
+      "https://rawlaw.in/bombay-high-court-decrees-four-il-holds-order-xxxvii-entitles-plaintiff-to-judgment-forthwith/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "sc-haryana-faridabad-gurgaon-minerals-royalty-revision-power",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "State of Haryana & Ors. v. M/s Faridabad Gurgaon Minerals & Anr. (with connected matter M/s Ganpati Enterprises Slate Mines)",
+    "citation": "2026 INSC 690, Supreme Court of India, decided 13 July 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-07-13",
+    "holding_summary": "The Supreme Court set aside a Punjab and Haryana High Court order that had blocked Haryana's enhancement of royalty and dead rent payable by mining lessees, holding that a lessee cannot claim a vested right to a static royalty rate merely because the lease deed is silent on royalty revision. The Court held the state government retains statutory power to revise royalty rates during the lease term even absent an express revision clause in the deed itself.",
+    "why_it_matters": "Mining lessees cannot rely on a lease deed's silence on royalty revision to resist a state government's statutory rate increase mid-lease — the power to revise comes from the governing mining/royalty statute and rules, not from an express contractual term, so lessees should budget for revisions regardless of what their lease deed says.",
+    "sources": [
+      "https://theindianlawyer.in/supreme-court-holds-government-can-revise-royalty-rate-in-mining-leases-despite-lease-deed-being-silent-on-royalty-revision/",
+      "https://www.verdictum.in/app-lite/supreme-court/state-of-haryana-ors-v-ms-faridabad-gurgaon-minerals-anr-with-state-of-haryana-ors-v-ms-ganpati-enterprises-slate-mines-2026-insc-690-1617782"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "ccpa-physicswallah-dark-pattern-penalty-basket-sneaking",
+    "practice_area": "Consumer Protection",
+    "case_name": "Central Consumer Protection Authority v. PhysicsWallah Limited",
+    "citation": "Case No. CCPA-2/94/2025-CCPA, order dated 1 June 2026",
+    "court": "Central Consumer Protection Authority (CCPA)",
+    "date": "2026-06-01",
+    "holding_summary": "Acting on a suo motu case opened after a December 2025 notice, the CCPA (Chief Commissioner Nidhi Khare and Commissioner Anupam Mishra) found PhysicsWallah had run a pre-ticked 'Donate for PW Foundation' checkbox adding Rs. 10 per purchase, active from February 2024 to December 2025, generating about Rs. 2.47 crore in donations from over 21.36 lakh users who had to affirmatively deselect it — classed as 'basket sneaking' — alongside emotionally persuasive messaging nudging users to retain the donation, and a free-course sign-up flow requiring mandatory personal-data disclosure. The CCPA imposed a Rs. 5 lakh penalty, directed PhysicsWallah to ensure no dark patterns operate on its platform, and held that voluntarily removing the pre-selected donation after the notice did not absolve liability for violations already committed; the company was ordered to file a compliance report within 15 days.",
+    "why_it_matters": "Confirms that a platform cannot escape CCPA liability for a dark pattern simply by removing it once put on notice — remediation after the fact does not erase liability for the period the practice was live, which should push platforms toward proactive self-audits rather than reactive fixes.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/here-is-why-ccpa-fined-physics-wallah-5-lakh",
+      "https://www.freepressjournal.in/business/ccpa-penalises-zepto-indigo-physics-wallah-and-6-other-platforms-over-dark-patterns",
+      "https://www.mondaq.com/india/dodd-frank-consumer-protection-act/1799382/dark-patterns-in-ed-tech-ccpa-imposes-penalty-on-physicswallah"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "sc-shyam-beej-bhandar-suresh-groundnut-seed-partial-compensation",
+    "practice_area": "Agricultural Industries",
+    "case_name": "M/s Shyam Beej Bhandar & Anr. v. Suresh & Anr.",
+    "citation": "2026 INSC 158, Supreme Court of India, decided 5 February 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-02-05",
+    "holding_summary": "Farmers who bought groundnut seeds that failed to yield had succeeded before the District Forum (compensation of Rs. 20,000 plus Rs. 5,000 costs each) under the Consumer Protection Act, 1986, a result the NCDRC restored after the State Commission reversed it. The Supreme Court reviewed a field inspection report showing only about 50% of pods were fully developed, with semi-development in the rest, and found excessive rainfall and other natural factors had significantly contributed to the yield shortfall alongside any seed defect. On that basis, it held there was no complete deficiency of service by the seller, and ordered that half of the compensation already deposited go to the farmers with interest, with the other half refunded to the seller.",
+    "why_it_matters": "A seed seller facing a crop-failure complaint is not automatically liable for the full loss merely because the seed had some quality defect — where an inspection report shows weather or other natural factors materially contributed to the failure, courts will apportion liability rather than treat any defect as establishing complete deficiency of service.",
+    "sources": [
+      "https://www.verdictum.in/app-lite/court-updates/supreme-court/ms-shyam-beej-bhandar-anr-v-suresh-2026-insc-158-no-complete-deficiency-of-service-compensation-farmers-substandard-seeds-1607560",
+      "https://www.caseciter.com/2026insc158/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "delhi-hc-embassy-peru-pisco-gi-exclusive-claim-rejected",
+    "practice_area": "Intellectual Property",
+    "case_name": "Embassy of Peru v. Registrar of Geographical Indications & Anr. (re: 'PISCO' GI)",
+    "citation": "Delhi High Court, Division Bench, decided March 2026",
+    "court": "Delhi High Court",
+    "date": "2026-03-01",
+    "holding_summary": "A Division Bench dismissed the Embassy of Peru's appeal seeking exclusive Geographical Indication protection for the standalone term 'PISCO' as applied to the alcoholic beverage, upholding an earlier single judge's order. The Court held Peru may use and protect the composite GI 'Peruvian Pisco' to distinguish its product, but cannot claim exclusive GI rights over the generic/standalone term 'Pisco' itself in India, holding that geographical linkage cannot override the Act's absolute grounds of refusal and that GI protection is not automatic but must be claimed through a specific, properly scoped application.",
+    "why_it_matters": "A clear limit on how far a country or producer group can stretch GI protection: claiming a composite, qualified GI (e.g. 'Peruvian Pisco') does not extend to monopolising the underlying generic product name itself, which anyone — including other pisco-producing countries such as Chile — remains free to use.",
+    "sources": [
+      "https://ssrana.in/articles/delhi-high-court-rules-against-perus-exclusive-claim-over-pisco-gi-a-landmark-ruling-in-indian-ip-history/",
+      "https://www.mondaq.com/india/trademark/1789048/delhi-high-court-rules-against-perus-exclusive-claim-over-pisco-gi-a-landmark-ruling-in-indian-ip-history"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "delhi-hc-sauraj-singh-air-india-privatised-writ-tribunal-award",
+    "practice_area": "Employment & Labour",
+    "case_name": "Sauraj Singh & Ors. v. M/s Indian Airlines Ltd. (Air India)",
+    "citation": "2026 DHC 4055, Delhi High Court, decided 8 May 2026",
+    "court": "Delhi High Court",
+    "date": "2026-05-08",
+    "holding_summary": "In a batch of writ petitions by workmen terminated in 1998 challenging a Central Government Industrial Tribunal (CGIT) award that had awarded them only Rs. 25,000-55,000 in compensation for illegal retrenchment, Justice Shail Jain held that Air India's privatisation does not shield it from Article 226 writ jurisdiction where the challenge is directed at an Industrial Tribunal's award and adjudicatory process arising from a dispute that predated the disinvestment — distinguishing this from ordinary post-privatisation employment claims against Air India as a private employer, where writ jurisdiction has been held unavailable. On merits, the Court upheld the finding of illegal retrenchment, declined reinstatement given the 25-year delay, and substantially increased (tripled) the compensation, holding a statutory violation of Section 25-F of the Industrial Disputes Act cannot be cured by token compensation.",
+    "why_it_matters": "Workers with a pre-privatisation industrial dispute against a since-privatised PSU are not shut out of writ jurisdiction merely because the employer is now private — the key is whether the challenge targets a tribunal's award/process from before disinvestment, not the employer's current ownership status.",
+    "sources": [
+      "https://www.verdictum.in/delhi-high-court/sauraj-singh-v-ms-indian-airlines-ltd-2026dhc4055-privatized-air-india-amenable-to-writ-1613695",
+      "https://www.barandbench.com/amp/story/news/litigation/writ-petition-challenging-labour-court-award-can-be-filed-against-air-india-despite-privatisation-delhi-high-court"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
+  },
+  {
+    "id": "fssai-everest-cumin-recall-creative-bakers-licence-suspended",
+    "practice_area": "Food Safety (FSSAI)",
+    "case_name": "FSSAI enforcement action against Everest Food Products and Creative Bakers and Confectioners",
+    "citation": "FSSAI orders announced 4-5 October 2026",
+    "court": "Food Safety and Standards Authority of India (FSSAI)",
+    "date": "2026-10-04",
+    "holding_summary": "FSSAI ordered Everest Food Products to recall a specific batch (batch no. E080668761) of its cumin powder after a sample collected in Goa was found, and confirmed on referral testing, to contain residues of the pesticides Azoxystrobin and Thiamethoxam exceeding prescribed limits, expressly clarifying the finding applies only to that implicated batch and not to all Everest cumin powder products. In a separate, unrelated enforcement action the same period, FSSAI suspended the food licence of Creative Bakers and Confectioners with immediate effect after an inspection found serious hygiene and sanitation non-compliances in its production and handling areas. FSSAI separately flagged a Nestlé dairy whitener sample collected from a New Delhi hotel as unsafe and substandard.",
+    "why_it_matters": "Reinforces FSSAI's batch-specific recall approach — a single contaminated batch does not, and should not, be read as condemning a manufacturer's entire product line — while showing that licence suspension for hygiene lapses is treated as an independent enforcement track from product-specific recalls.",
+    "sources": [
+      "https://www.deccanchronicle.com/amp/lifestyle/food/fssai-orders-recall-of-everest-cumin-powder-after-tests-find-it-unsafe-1993054",
+      "https://www.moneylife.in/article/fssai-orders-everest-cumin-powder-recall-suspends-creative-bakers-licence-nestle-dairy-whitener-sample-found-unsafe/81849.html",
+      "https://www.republicworld.com/india/fssai-orders-everest-cumin-powder-recall-for-pesticide-overuse-suspends-creative-bakers-licence-over-hygiene-lapses-2026-10-04-138287"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-10"
   }
 ]
