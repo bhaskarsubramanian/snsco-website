@@ -784,5 +784,22 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-10"
+  },
+  {
+    "id": "rbi-indusind-bank-northern-arc-muthoot-mcred-fusion-finance-penalties-august-2026",
+    "practice_area": "Banking & Finance",
+    "case_name": "RBI monetary penalty orders against IndusInd Bank Ltd., Northern Arc Capital Ltd., Muthoot MCred Ltd. and Fusion Finance Ltd.",
+    "citation": "RBI orders dated 14 August 2026 (IndusInd Bank) and mid-August 2026 (the three NBFCs), imposed under Section 47A(1)(c) read with Section 46(4)(i) of the Banking Regulation Act, 1949 (and the corresponding RBI Act provisions for the NBFCs)",
+    "court": "Reserve Bank of India",
+    "date": "2026-08-14",
+    "holding_summary": "RBI imposed a combined Rs 71.20 lakh in penalties after show-cause notices and personal hearings. IndusInd Bank was fined Rs 59.20 lakh (inspection as on 31 March 2025) for paying interest on certain current account deposits and undertaking synthetic securitisation in breach of RBI's directions on interest on deposits and securitisation of standard assets. Northern Arc Capital was fined Rs 6.20 lakh for misstating complaint data in its FY24-25 financial statements and failing to auto-escalate rejected complaints to its internal ombudsman. Muthoot MCred was fined Rs 3.10 lakh for upgrading NPA loan accounts to standard without full recovery of overdue interest and principal. Fusion Finance was fined Rs 2.70 lakh for not conducting the mandatory six-monthly KYC risk-categorisation review.",
+    "why_it_matters": "A single inspection cycle shows RBI penalising both a scheduled bank and smaller NBFCs for the same category of lapse — paper compliance (disclosure, KYC review, NPA upgrade documentation) rather than customer-facing wrongdoing — underscoring that internal process gaps alone are enough to draw a Section 47A penalty.",
+    "sources": [
+      "https://website.rbi.org.in/web/rbi/-/press-releases/-rbi-imposes-monetary-penalty-on-indusind-bank-ltd",
+      "https://www.moneylife.in/article/rbi-slaps-7120-lakh-penalty-on-indusind-bank-3-nbfcs-for-compliance-failures/81369.html",
+      "https://hellobanker.in/rbi-imposes-penalties-on-fusion-finance-muthoot-mcred-and-northern-arc-capital/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-11"
   }
 ]
