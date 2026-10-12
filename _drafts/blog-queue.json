@@ -988,5 +988,185 @@
       "fact to verify: the precise scope of disputes Section 45QA covers (as opposed to ordinary civil claims against an NBFC that remain within civil court jurisdiction) should be confirmed against the statutory text and any appellate clarification, since the reported case is a single High Court ruling on one fact pattern (premature repayment) and should not be generalised to all NBFC disputes without that check"
     ],
     "added_on": "2026-10-12"
+  },
+  {
+    "id": "design-infringement-mosaic-prior-art-defence-guide",
+    "topic_title": "Your Competitor Says Your Design Is Just a 'Mosaic' of Old Products — Why That Defence Usually Fails",
+    "angle": "A guide for holders of a registered industrial design on why a defendant cannot defeat an infringement claim merely by showing that individual elements of its design each appear separately in different prior-art products, and what 'mosaicing' actually means as a prohibited style of argument — a post-registration enforcement topic distinct from the published guide on the design registration process itself, which does not cover infringement litigation defences.",
+    "key_points": [
+      "What 'mosaicing of prior art' means: assembling bits and pieces from multiple different earlier designs, none of which individually shows the registered design as a whole, to argue the registered design lacks novelty or that the accused product merely copies 'old' elements",
+      "Why courts reject this at the interim stage: the test for infringement is visual similarity of the design AS A WHOLE to the registered design, not a feature-by-feature scavenger hunt through unrelated prior products",
+      "The role of an un-denied visual comparison: where a defendant's reply doesn't actually dispute that the two products look alike, a court can treat that silence as effectively conceding the prima facie case",
+      "What relief looks like at the interim stage: a defendant already selling the accused product is typically allowed to complete/clear existing sales but barred from further ones, often coupled with a sales-disclosure obligation (records filed by affidavit, sometimes in a sealed cover) so the eventual damages/accounts exercise has a real evidentiary base",
+      "Why a short registration history (a design registered only a year or two before the dispute) is not itself a weakness — there's no minimum 'vintage' requirement for a design to be forcefully enforced",
+      "Practical takeaway for a design holder: document and preserve the registration certificate and prosecution history early, since swift interim relief turns on a clean prima facie comparison, not a prolonged validity fight"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court (Justice Tushar Rao Gedela) granted Orient Electric an interim injunction against Crompton's 'Grace' ceiling fan on 14 May 2026, rejecting a 'mosaic of prior art designs' defence and holding visual similarity to Orient's registered 'AEON' design 'unmistakable' (LiveLawBiz, BananaIP, Maheshwari & Co. reporting)",
+      "fact to verify: the precise statutory basis for rejecting a mosaicing argument (interplay of Sections 4, 19 and 22 of the Designs Act, 2000, on novelty/originality and infringement) should be confirmed against the Act and any appellate ruling on this specific point before publishing, since the research relied on case reporting rather than a doctrinal treatise"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "npa-suspense-account-interest-recoverable-debt-guide",
+    "topic_title": "Bank Moved Your Loan's Interest to a 'Suspense Account' After NPA Classification — You Still Owe It",
+    "angle": "A guide for borrowers and lenders on why interest a bank books in a separate suspense account after a loan is classified as a Non-Performing Asset remains part of the legally recoverable 'debt', and why a borrower cannot rely on the bank's internal accounting treatment to argue that interest has somehow been written off or excluded — illustrated by the Supreme Court's PNB v. Shree Jyoti Education Trust ruling, distinct from the published bank-fraud-classification RBI guide, which concerns a different classification (fraud reporting) rather than NPA interest accounting.",
+    "key_points": [
+      "Why banks use a suspense account at all: standard prudential accounting practice stops accruing interest to the profit and loss account once a loan turns NPA, routing it instead to a suspense/memorandum account so the bank's books don't overstate income on a doubtful asset",
+      "The borrower's (losing) argument: that because the interest sits in a separate ledger head rather than the main loan account, it is somehow not 'real' debt or has been effectively waived",
+      "The statutory anchor for the opposite conclusion: Section 2(g) of the Recovery of Debts and Bankruptcy Act, 1993 defines 'debt' broadly to include any liability 'inclusive of interest' — the definition doesn't carve out interest parked in a suspense account",
+      "Why a DRT/DRAT recovery certificate computed with this interest included will survive a challenge based purely on the accounting-head argument",
+      "The 'can't pick and choose' principle: a borrower (or trust/trustee) cannot invoke one accounting figure at one stage of litigation and a different, lower figure at another stage to suit the argument being made at that moment",
+      "Practical takeaway for a borrower negotiating a settlement: don't assume a lower 'principal + visible interest' figure quoted informally reflects the bank's full legal claim — ask specifically whether suspense-account interest is included before treating any settlement number as final"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court (2026 INSC 836, 12 August 2026) restored a DRAT recovery order of Rs. 54.90 lakh against a trust after Orissa HC had directed PNB to accept a lower ~Rs. 29.56 lakh settlement, holding suspense-account interest is part of recoverable debt under Section 2(g) RDB Act (Verdictum, LiveLaw, Outlook Money reporting)",
+      "fact to verify: the specific RBI prudential norms/circular provisions governing suspense-account treatment of NPA interest should be pulled from RBI's current Master Direction on income recognition and asset classification before publishing, since the research relied on case reporting of the practice rather than the underlying RBI circular text"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "deemed-distribution-licensee-twin-test-guide",
+    "topic_title": "Does Running Your Own Power Lines Make You a 'Distribution Licensee'? The Electricity Act's Two-Part Test",
+    "angle": "A guide for any large captive user of electricity (railways, ports, industrial estates, large campuses) with its own power distribution infrastructure on the two-part statutory test for whether that infrastructure makes the operator a 'deemed distribution licensee' under the Electricity Act, 2003 — and why that classification matters enormously for open-access surcharge liability — illustrated by the Supreme Court's Indian Railways ruling, distinct from the published guide on a distribution licensee's universal-service obligations, which assumes licensee status rather than addressing how that status is determined.",
+    "key_points": [
+      "The twin test: 'distribution' under the Electricity Act requires BOTH (a) operating a distribution system AND (b) supplying electricity to third-party consumers within a specific area — satisfying only the first half doesn't qualify",
+      "Why a sector-specific statute authorising an entity to build/operate its own electrical infrastructure (illustrated by Section 11 of the Railways Act, 1989) does not, by itself, confer distribution-licensee status under the separate Electricity Act framework — the two statutes answer different questions",
+      "The practical stakes: a 'consumer' (not a deemed licensee) procuring power through open access is liable for cross-subsidy surcharge and additional surcharge, which a true distribution licensee supplying its own network of third-party consumers would not pay in the same way",
+      "Why 'self-consumption only' is fatal to a deemed-licensee claim: an entity that uses 100% of the electricity on its own distribution network for its own operations, with no third-party consumers on that network, fails the second half of the twin test categorically",
+      "How this plays out for large campus/estate operators (SEZs, industrial parks, large townships) running internal distribution networks: the same twin test applies, so an operator supplying tenants/third parties on its network is in a materially different position from one serving only its own operations",
+      "Practical takeaway: before relying on 'we built and run our own lines' as a basis to claim distribution-licensee status (and the surcharge exemptions that come with it), confirm whether the network actually supplies third-party consumers, not just the operator's own facilities"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court (2026 INSC 464, 8 May 2026, Justices Dipankar Datta and Satish Chandra Sharma) held Indian Railways is not a deemed distribution licensee and must pay cross-subsidy/additional surcharge on open-access power procurement (Verdictum, Renewable Watch, JSA reporting)",
+      "fact to verify: the exact statutory provision establishing the twin test (reporting cites a 'third proviso' to Section 14 in one source and Section 143 in another) should be confirmed against the current text of the Electricity Act, 2003 before publishing"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "nhai-termination-notice-multiple-grounds-guide",
+    "topic_title": "NHAI Terminated Your Contract on Two Grounds — Winning on One in Court Doesn't Mean You've Won",
+    "angle": "A guide for EPC/BOT contractors on why a termination notice citing multiple independent grounds requires a court challenge to actually address EACH ground, and why a High Court ruling that only engages with one of several grounds is vulnerable to a stay or reversal on appeal — illustrated by the Supreme Court's stay in NHAI v. Tata Projects, distinct from the queued guide on NHAI's premium-deferment withdrawal, which concerns a different stage of concession disputes (deferment relief, not a multi-ground termination notice).",
+    "key_points": [
+      "Why authorities like NHAI often cite more than one ground in a termination notice: each ground is independently capable of justifying termination, so even if a contractor successfully challenges one, the termination can still stand on the other(s)",
+      "The litigation trap this creates for a contractor: winning a writ/arbitration challenge by focusing on the more easily disprovable ground (e.g., a timeline-completion default where delay-causation evidence favours the contractor) means little if the court record never actually engages with the second ground (e.g., a maintenance-of-existing-infrastructure default)",
+      "What a reviewing court (or the Supreme Court on appeal/SLP) will look for: whether the lower court's judgment contains any reasoning addressing each cited ground, not just the one the parties argued most vigorously",
+      "The 'practical impossibility' argument and its limits: a contractor arguing that maintaining old infrastructure while building new infrastructon the same stretch is impractical needs to actually make that argument and get a ruling on it — a court won't infer that ground was implicitly rejected just because the contractor won on the other ground",
+      "Why a stay (rather than a final reversal) is the likely outcome when an unaddressed ground is identified at the SLP stage: the Supreme Court in such cases often restores the parties' dispute to a live, contested status rather than deciding the unaddressed ground itself in the first instance",
+      "Practical takeaway for drafting a Section 34/writ challenge to a multi-ground termination: structure the pleading to address every ground cited in the notice individually, even the one that looks weaker, so the resulting judgment can't be picked apart for an unaddressed point later"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Supreme Court (Justices J.B. Pardiwala and K. Vinod Chandran) stayed the Allahabad High Court's judgment quashing NHAI's termination of Tata Projects' Rs. 940.68 crore EPC contract on 31 August 2026, after the Solicitor General argued the High Court had not addressed NHAI's second termination ground (Foxmandal, LiveLaw, LiveLawBiz reporting)",
+      "fact to verify: the current status/outcome of the underlying dispute following the stay (whether the parties reached a resolution as the Supreme Court directed, or the matter proceeded to further hearing) was not resolved by this research and should be checked before publishing, since the stay order itself does not finally decide the termination's validity"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "nclt-merger-regional-director-undertakings-guide",
+    "topic_title": "The Regional Director Flagged an Issue in Your Merger Scheme — Here's How Companies Actually Clear It",
+    "angle": "A guide for companies navigating NCLT sanction of a Sections 230-232 merger/amalgamation scheme on how a Regional Director's specific objections (secured-creditor charges, pending tax proceedings, FEMA compliance, employee protections) typically get resolved in practice — through company undertakings addressed to those concerns, rather than independent adjudication by the Tribunal — distinct from the queued guide on the first/second NCLT motion procedure and the queued guide on the tax department's rights surviving a sanctioned demerger, which address different stages/aspects of the same broader process.",
+    "key_points": [
+      "What a Regional Director's report actually is: a standard-practice filing in Section 230-232 proceedings flagging specific statutory compliance concerns for the Tribunal's attention before sanction, not an independent veto",
+      "Why 'undertaking' is the normal currency of resolution: rather than litigating whether secured-creditor charges are properly protected or whether pending tax proceedings are addressed, companies typically file written undertakings committing to specific compliance steps, which the Tribunal then relies on in granting sanction",
+      "What this means practically for due diligence on a completed merger: a sanction order's reference to 'undertakings' on a given issue is a signal that the issue was flagged, not resolved on the merits — a counterparty or acquirer should chase down what those undertakings actually require, not assume the concern evaporated",
+      "Unsecured creditor approval as a parallel track: a scheme typically needs class-wise creditor approval (illustrated by a unanimous unsecured-creditor vote) separately from, and often well before, the Regional Director/Tribunal sanction stage",
+      "The appointed date vs. the sanction date vs. the effective date: three different dates with three different legal consequences, each potentially falling in a different calendar period, and all three should be tracked separately in any transaction timeline",
+      "Practical takeaway for drafting undertakings: be specific enough to satisfy the Regional Director's stated concern (vague boilerplate inviting a repeat objection wastes a sanction hearing), but narrow enough not to create new, unintended compliance obligations post-sanction"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLT Chennai Bench sanctioned the Dr. Agarwal's Eye Hospital/Dr. Agarwal's Health Care merger on 30 September 2026, addressing Regional Director observations on secured-creditor charges and continuing income tax proceedings through company undertakings/clarifications (LiveLawBiz, Multibagg reporting)",
+      "fact to verify: the exact content of the undertakings given in this specific scheme was not accessible in the research (only that undertakings were given and found satisfactory) — a drafting guide should use this as an illustration of the general practice rather than reproduce specifics not available from public reporting"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "liquidation-going-concern-sale-implementation-guide",
+    "topic_title": "You Won the Liquidation Auction as a Going Concern — Why the Auction Confirmation Is Only Half the Battle",
+    "angle": "A guide for a successful bidder in an IBC liquidation going-concern sale on why winning the auction and paying the price doesn't automatically mean the sale is implementable, what kind of procedural/registry hurdles commonly block actual handover, and how the NCLAT has stepped in to order the specific consequential reliefs needed to make a confirmed sale effective — illustrated by the Talwalkars Better Value Fitness ruling, distinct from the queued guide on the 30-day Regulation 21A secured-creditor election clock, which concerns a different stage (secured creditors deciding whether to opt out) rather than post-confirmation implementation hurdles facing a going-concern buyer.",
+    "key_points": [
+      "What 'going concern' sale actually transfers: not just assets, but (ideally) the company as a functioning entity, including its corporate registration status, which can create real friction if the company's RoC status has lapsed into 'struck off' or inactive during the liquidation process",
+      "The specific hurdle illustrated by the reported case: a company's status with the Registrar of Companies needing to be formally reset to 'Active' before a going-concern buyer can actually operate the acquired entity going forward",
+      "Why a liquidator's job isn't finished at auction confirmation: implementing a going-concern sale often requires follow-through steps (registry filings, regulatory status corrections, handover of statutory records) that don't happen automatically just because a sale certificate has issued",
+      "What a stalled buyer can do: approach the NCLT/NCLAT for specific consequential directions compelling the steps needed to implement the sale, rather than treating the stalled implementation as a dead end or a reason to rescind",
+      "When a going-concern sale is treated as 'commencing': from the date of the liquidation order itself (not the later auction notice date) — a timing point that matters for calculating accrued liabilities, statutory compliance gaps, and what the buyer is actually taking on",
+      "Practical takeaway for bidding on a going-concern liquidation sale: diligence the target's RoC/regulatory status before bidding, and build a post-sale implementation timeline into the bid strategy rather than assuming operational handover is immediate upon payment"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: NCLAT New Delhi (Company Appeal (AT) (Insolvency) 710/2026, order dated 3 September 2026) partly allowed Ravikumar Gaurishankar Patel's appeal as the successful Rs. 15 crore going-concern auction purchaser of Talwalkars Better Value Fitness Ltd., directing consequential reliefs including an ROC status reset to 'Active' (Supremetoday.ai, Sansa Legal reporting)",
+      "fact to verify: the research found only two secondary reports (no primary order text) for this specific ruling — the exact list of consequential reliefs ordered, beyond the ROC status reset, should be confirmed against the NCLAT order itself before publishing specifics"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "msp-claim-wrong-forum-writ-remedy-guide",
+    "topic_title": "Farmer Filed an MSP Claim in the Wrong Forum on Bad Legal Advice — Is the Claim Dead?",
+    "angle": "A guide for farmers and their advisors on what happens when an MSP (Minimum Support Price) shortfall claim is mistakenly filed before a Consumer Forum that never had jurisdiction over it, and why that jurisdictionally misconceived first attempt does not bar a later writ petition seeking the correct remedy — illustrated by the Madhya Pradesh High Court's Abhishek Singh Patel ruling, distinct from the published guide on MSP's general legal enforceability, which addresses the substantive question of what farmers can claim rather than this procedural forum-choice question, and distinct from the published RERA-vs-Consumer-Forum guides, which concern a different context (builder/possession-delay disputes) where election-of-remedies actually does operate to bar a claim.",
+    "key_points": [
+      "Why a Consumer Forum has no jurisdiction over an MSP shortfall claim in the first place: an agricultural produce sale under a government price-support scheme does not make the farmer a 'consumer' purchasing goods/services in the sense the Consumer Protection Act addresses",
+      "The crucial distinction from RERA-vs-Consumer-Forum election-of-remedies cases: there, BOTH forums genuinely have jurisdiction and the law bars choosing wrongly or sequentially; here, the Consumer Forum never had jurisdiction at all, so there was no valid 'election' being made in the first place",
+      "Why bad legal advice from counsel, leading to a jurisdictionally misconceived filing, is not held against an unsophisticated litigant (illiterate farmers, in the reported case) the same way a sophisticated commercial party's forum-shopping might be treated",
+      "The precedent chain this relies on: a line of MP High Court rulings (traced to the Gopal Singh case) establishing that no fault attaches to farmers for an agricultural-produce MSP shortfall claim where the government price-support guidelines themselves are the source of the entitlement",
+      "What relief actually followed: release of balance MSP with 6% annual interest from the date of sale, matching relief already given to similarly placed farmers in the same batch of litigation",
+      "Practical takeaway for an advisor handling an MSP shortfall claim: file directly by writ petition against the state procurement agency/FCI rather than through a Consumer Forum, and if a wrong-forum filing has already happened, cite this precedent line to argue the misstep shouldn't be held against the farmer"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: MP High Court Division Bench (Justices Vivek Rusia and Pradeep Mittal, Writ Appeal No. 256 of 2026, order reported 20 May 2026) set aside a Single Judge dismissal and held the Consumer Forum had no jurisdiction over farmers' MSP dues claim, directing release of balance MSP with 6% interest (LawBeat reporting plus the court's own order PDF)",
+      "fact to verify: whether this MP-specific precedent line (Gopal Singh and successors) has been applied or distinguished in any other state's High Court should be checked before presenting it as a general rule beyond Madhya Pradesh"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "posh-icc-exclusive-jurisdiction-disciplinary-guide",
+    "topic_title": "Can Your Employer Investigate a Sexual Harassment Complaint Through Its Normal Disciplinary Process? No.",
+    "angle": "A guide for employers and employees on why allegations of workplace sexual harassment can only be inquired into by the Internal Complaints Committee (ICC) or Local Complaints Committee (LCC) constituted under the POSH Act, and why running a parallel or substitute inquiry through an ordinary disciplinary officer is not a permissible shortcut — even where the employer believes the facts are the same either way — illustrated by the Madhya Pradesh High Court's Dr. Sajan Kurien Mathew ruling, distinct from the queued guide on a POSH Appellate Committee's own composition (Section 18/Rule 11), which concerns the appeal stage rather than this initial inquiry-body question.",
+    "key_points": [
+      "The core rule: POSH's ICC (for workplaces with 10+ employees) or LCC (for smaller workplaces/informal sector/complaints against the employer) has exclusive jurisdiction to inquire into a sexual harassment complaint — an employer's general disciplinary machinery is not an alternative inquiry route",
+      "Why 'the facts would come out the same either way' is not a defence: the POSH framework's procedural protections (the ICC's composition requirements, including an external member, confidentiality rules, and the complainant's specific rights during the inquiry) are not replicated in an ordinary departmental inquiry, so substituting one for the other is a procedural defect, not a harmless formality",
+      "What happens to action taken on the wrong inquiry's findings: a termination (or other disciplinary action) built on findings from an inquiry conducted outside the ICC/LCC framework is vulnerable to being quashed on that ground alone, regardless of how the underlying facts might have come out in a proper ICC inquiry",
+      "Practical guidance for an employer facing a sexual harassment complaint against an employee: route it to the ICC/LCC from the outset, even if a separate disciplinary concern also exists on overlapping facts — don't let a departmental inquiry get ahead of or substitute for the mandatory ICC process",
+      "What an employee facing termination on this basis can argue: that the inquiry body itself was not constituted or empowered under the POSH Act, which is a structural defect a court can address without needing to re-examine the underlying factual allegations",
+      "Where this leaves the underlying harassment allegation: quashing a termination for using the wrong inquiry body does not exonerate the employee on the merits — it typically means the employer must restart via the correct ICC/LCC process if it wishes to pursue the matter"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Madhya Pradesh High Court (judgment reported 26 May 2026) quashed an assistant professor's termination because the sexual harassment allegation against him had been inquired into by an outside disciplinary officer rather than the ICC/LCC (Mondaq, IndiaLaw reporting)",
+      "fact to verify: the specific POSH Act provisions (Sections 4, 6, 9-11) establishing ICC/LCC exclusive jurisdiction should be pulled directly from the Act when drafting, rather than relied on from secondary case commentary alone"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "fssai-misleading-brand-name-imagery-prohibition-guide",
+    "topic_title": "FSSAI Banned a Product Over Its NAME, Not Its Ingredients — What Food Brands Need to Know",
+    "angle": "A guide for food and health-supplement businesses on how FSSAI can issue a prohibition order based purely on a misleading brand name, product imagery, or an undefined marketing term — independent of any finding that the product's actual composition is unsafe — illustrated by the FOLINEURO Syrup and Neuherbs TRUE VITAMIN prohibitions, distinct from the queued guide on the unsafe/substandard/misbranded classification distinction, which concerns lab-based findings on a product's physical composition rather than branding/marketing-based action.",
+    "key_points": [
+      "The basis for a branding-based prohibition: a brand name or package imagery that creates a misleading impression of a health/therapeutic benefit the product isn't authorised to claim — no lab finding of contamination or unsafe composition is required to trigger this",
+      "The specific regulatory category trap: marketing a product under a category (like 'Nutritional Food Supplement') that doesn't actually exist under the Food Safety and Standards (Health Supplements and Nutraceuticals) Regulations, 2016 is itself a violation, regardless of what's actually in the product",
+      "Undefined marketing terms as a separate ground: a trade name or claim term (like 'True Vitamin') that isn't defined or recognised under the 2018 Advertising and Claims Regulations or the 2020 Labelling and Display Regulations can be prohibited as inherently misleading, even without a specific false claim being pointed to",
+      "What a business must do once hit with this kind of order: beyond stopping sale, affected businesses have been required to remove the offending claims from labels and advertising and file an Action Taken Report within a short window (30 days in the reported cases)",
+      "Why this is a faster, lower-evidentiary-bar enforcement tool than a composition-based 'unsafe' or 'substandard' finding: FSSAI doesn't need to wait for or rely on lab test results to act on branding/naming/imagery alone",
+      "Practical compliance takeaway: run new product names, package imagery, and category classifications past the Health Supplements and Nutraceuticals Regulations and the Advertising and Claims Regulations BEFORE launch — composition compliance alone does not protect a product with a misleading name or an undefined marketing category"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: FSSAI issued prohibition orders against Vatave Health Care's FOLINEURO Syrup and halted sale of Global Healthfit Retail India's Neuherbs TRUE VITAMIN on 30 July 2026, on branding/naming/category grounds rather than composition findings (Telangana Today, Moneylife, Morung Express, Orissa Post reporting)",
+      "fact to verify: the exact text of the 'Nutritional Food Supplement' category gap and the specific clauses of the 2018/2020 regulations invoked should be confirmed against the regulations themselves before publishing, since the research relied on FSSAI's reported public statements rather than the underlying order text"
+    ],
+    "added_on": "2026-10-12"
+  },
+  {
+    "id": "written-statement-deadline-order-vii-rule-11-no-revival-guide",
+    "topic_title": "Missed the 120-Day Written Statement Deadline in Your Commercial Suit? Filing an Order VII Rule 11 Plea Won't Save You",
+    "angle": "A guide for defendants (and their counsel) in Commercial Courts Act suits on why filing an application to reject the plaint under Order VII Rule 11 CPC after the 120-day written-statement deadline has already expired does not revive or extend that deadline — a specific procedural-interaction question distinct from the published guide on the substantive test for when a plaint can be rejected under Order VII Rule 11, which does not address this timing/sequencing issue at all.",
+    "key_points": [
+      "The strict 120-day rule in commercial suits: under the Commercial Courts Act regime (Order V Rule 1 and Order VIII Rule 1, CPC, as amended), a defendant's right to file a written statement is closed once 120 days from service of summons expire, with no further extension — one of the most rigidly enforced deadlines in Indian commercial litigation",
+      "Why a defendant might be tempted to file an Order VII Rule 11 application late: it looks like a way to pause the clock by putting the suit's maintainability itself in question, rather than engaging on the merits within the deadline",
+      "Why that doesn't work once the deadline has already lapsed: a defendant may legitimately choose to seek rejection of the plaint BEFORE filing a written statement (i.e., within the 120 days), but can't use a late-filed Order VII Rule 11 application as a device to recover time already lost",
+      "What a defendant should actually do if there's a genuine Order VII Rule 11 ground: file it promptly, within the 120-day window, rather than waiting — timing the application correctly is itself part of using this defence properly",
+      "The interaction with other pending defences: a separate substantive defence (like an IBC moratorium argument) raised in a late Order VII Rule 11 application doesn't get a free pass either — it gets decided within that (already late) application on its own timeline, it doesn't retroactively excuse the written-statement delay",
+      "Practical takeaway for defence counsel: calendar the 120-day deadline as the single most important date in a commercial suit, and if a plaint-rejection argument exists, file it well within that window rather than treating it as a fallback option to be raised only if a written statement doesn't get filed in time"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Delhi High Court (Justice Mini Pushkarna, CS(COMM) 800/2025, order dated 23 March 2026) held a defendant's Order VII Rule 11 application filed after the written-statement deadline's expiry (3 December 2025 deadline; application filed 14 December 2025) did not revive that deadline (SCC Online, Prime Legal, LiveLawBiz reporting)",
+      "fact to verify: the precise current text of Order V Rule 1 and Order VIII Rule 1 CPC as amended for commercial disputes (120-day outer limit, with court's discretion only up to 120 days and no further) should be confirmed against the Commercial Courts Act amendments before publishing"
+    ],
+    "added_on": "2026-10-12"
   }
 ]
