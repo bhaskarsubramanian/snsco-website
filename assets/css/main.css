@@ -234,6 +234,31 @@ footer{background:#060f1e;padding:30px 60px;display:flex;justify-content:space-b
 .disc-dec{padding:12px 22px;background:transparent;border:1px solid rgba(0,35,70,.2);color:#7a8599;font-family:'Jost',sans-serif;font-size:11px;font-weight:500;letter-spacing:2px;text-transform:uppercase;cursor:pointer;transition:all .3s;}
 .disc-dec:hover{border-color:var(--nv);color:var(--nv);}
 
+/* NEWSLETTER PRIVACY MODAL — opened on demand only (consent line / footer link), never shown automatically */
+.privacy-trigger{background:none;border:none;padding:0;margin:0;font:inherit;color:var(--nv);text-decoration:underline;text-decoration-color:rgba(181,117,96,.5);cursor:pointer;}
+.pv-ov{position:fixed;inset:0;z-index:450;background:rgba(6,15,30,.72);backdrop-filter:blur(6px);display:flex;align-items:center;justify-content:center;padding:20px;opacity:0;pointer-events:none;transition:opacity .22s ease;}
+.pv-ov.open{opacity:1;pointer-events:auto;}
+.pv-box{background:var(--cr);max-width:640px;width:100%;border-top:4px solid var(--gd);max-height:85vh;overflow-y:auto;transform:translateY(10px);transition:transform .22s ease;}
+.pv-ov.open .pv-box{transform:translateY(0);}
+.pv-hdr{background:var(--nv);padding:20px 26px;display:flex;align-items:center;justify-content:space-between;gap:14px;position:sticky;top:0;}
+.pv-hdr-l{display:flex;align-items:center;gap:12px;}
+.pv-em{width:34px;height:34px;border-radius:50%;background:linear-gradient(135deg,var(--gd),var(--gd2));display:grid;place-items:center;font-family:'Fraunces',serif;font-weight:700;font-size:12px;color:var(--nv);flex-shrink:0;}
+.pv-ht{font-family:'Fraunces',serif;font-size:16px;font-weight:500;color:#fff;}
+.pv-hs{font-size:8.5px;font-weight:500;letter-spacing:2.5px;text-transform:uppercase;color:var(--gd);margin-top:2px;}
+.pv-close{background:rgba(255,255,255,.08);border:none;color:#fff;width:30px;height:30px;border-radius:50%;cursor:pointer;font-size:15px;line-height:1;flex-shrink:0;}
+.pv-close:hover{background:rgba(255,255,255,.18);}
+.pv-bd{padding:24px 26px 28px;}
+.pv-bd .upd{font-size:12px;color:var(--mu);font-style:italic;margin:0 0 14px;}
+.pv-bd h3{font-family:'Fraunces',serif;font-size:16px;font-weight:500;color:var(--nv);margin:20px 0 7px;}
+.pv-bd h3:first-of-type{margin-top:4px;}
+.pv-bd p,.pv-bd li{font-size:13.5px;line-height:1.8;color:#4a5568;font-weight:300;}
+.pv-bd ul{margin:0 0 8px 18px;padding:0;}
+.pv-bd li{margin-bottom:6px;}
+.pv-bd a{color:var(--gd);}
+.pv-ft{padding:16px 26px;background:rgba(0,35,70,.04);border-top:1px solid rgba(0,35,70,.08);display:flex;justify-content:flex-end;position:sticky;bottom:0;}
+.pv-ft button{padding:11px 22px;background:linear-gradient(135deg,var(--gd),var(--gd2));color:var(--nv);border:none;font-family:'Jost',sans-serif;font-size:10.5px;font-weight:600;letter-spacing:1.8px;text-transform:uppercase;cursor:pointer;}
+@media(max-width:768px){.pv-hdr,.pv-bd,.pv-ft{padding-left:18px;padding-right:18px;}}
+
 /* ===== LONG-FORM CONTENT PAGES (practice-area / location) ===== */
 .breadcrumb{position:relative;padding:100px 60px 0;font-size:11px;letter-spacing:.5px;color:rgba(255,255,255,.4);}
 .breadcrumb a{color:rgba(255,255,255,.4);text-decoration:none;}

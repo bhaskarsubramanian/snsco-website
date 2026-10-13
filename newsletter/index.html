@@ -22,7 +22,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,300;1,9..144,400&family=Jost:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/assets/css/main.css?v4"/>
+<link rel="stylesheet" href="/assets/css/main.css?v5"/>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,6 +78,7 @@
     <li><a href="/legal-news/">Legal News</a></li>
     <li><a href="/team/">Team</a></li>
     <li><a href="/blog/">Blog</a></li>
+    <li><a href="/newsletter/">Newsletter</a></li>
     <li class="nav-search"><a href="/search/">Search</a></li>
     <li><a href="/#contact" class="nav-cta">Contact Us</a></li>
   </ul>
@@ -91,6 +92,7 @@
   <a href="/legal-news/">Legal News</a>
   <a href="/team/">Team</a>
   <a href="/blog/">Blog</a>
+  <a href="/newsletter/">Newsletter</a>
   <a href="/search/">Search</a>
   <a href="/#contact">Contact Us</a>
 </div>
@@ -122,29 +124,9 @@
         <input type="email" id="nl-email" name="email" required autocomplete="email" inputmode="email" maxlength="254" placeholder="Your email address"/>
         <button type="submit" class="btn-p">Subscribe →</button>
       </div>
-      <label class="nl-consent"><input type="checkbox" name="consent" value="yes" required/> <span>I agree to receive the fortnightly newsletter of S&amp;S Co. Advocates &amp; Solicitors at this email address. I can withdraw my consent at any time by writing to communications@snsco.in. Read the <a href="/newsletter/#privacy">newsletter privacy notice</a>.</span></label>
+      <label class="nl-consent"><input type="checkbox" name="consent" value="yes" required/> <span>I agree to receive the fortnightly newsletter of S&amp;S Co. Advocates &amp; Solicitors at this email address. I can withdraw my consent at any time by writing to communications@snsco.in. Read the <button type="button" class="privacy-trigger" data-open-privacy>newsletter privacy notice</button>.</span></label>
     </form>
     </div>
-    <h2 id="privacy">Newsletter Privacy Notice</h2>
-    <p><em>Last updated: 5 October 2026.</em> This notice explains how S &amp; S Co. Advocates &amp; Solicitors (“we”, “us”) handles the email address you give us to receive our newsletter, in line with the Digital Personal Data Protection Act, 2023.</p>
-    <h3>What we collect</h3>
-    <ul>
-      <li>Your email address, which you enter in the sign-up form.</li>
-      <li>The page you signed up from, and the date and time of your request, so that we can keep a record of your consent.</li>
-      <li>Technical details, such as IP address and browser type, that our website host (Netlify) may record with a form submission to prevent spam and abuse.</li>
-    </ul>
-    <h3>Why we collect it</h3>
-    <p>Only to send you our fortnightly newsletter — a digest of court rulings, regulatory developments and practical guides — and to manage your subscription. We do not sell your email address.</p>
-    <h3>Consent</h3>
-    <p>We rely on your consent, given by ticking the box on the sign-up form.</p>
-    <h3>Who handles your data</h3>
-    <p>Submissions are stored in our website host’s form service and are accessible only to authorised members of our staff. We may use an email-delivery service to send the newsletter; such providers handle your email address only on our instructions.</p>
-    <h3>How long we keep it</h3>
-    <p>Until you withdraw your consent or we discontinue the newsletter, whichever is earlier. After that, we will delete your email address from our subscriber records.</p>
-    <h3>Your choices and rights</h3>
-    <p>You can withdraw your consent at any time by writing to <a href="mailto:communications@snsco.in?subject=Unsubscribe">communications@snsco.in</a> with the subject “Unsubscribe”. At the same address you can ask us to give you access to, correct or erase your email address, or raise a grievance. You may also approach the Data Protection Board of India as provided under the Act.</p>
-    <h3>Children</h3>
-    <p>The newsletter is meant for adults. We do not knowingly collect the email addresses of persons under 18.</p>
   </main>
   <aside>
     <div class="sidebar-card">
@@ -185,6 +167,7 @@
     <a href="/blog/">Blog</a>
     <a href="/newsletter/">Newsletter</a>
     <a href="/#contact">Contact</a>
+    <button type="button" class="privacy-trigger" data-open-privacy style="display:block;font-size:12px;color:rgba(255,255,255,.45);text-decoration:none;margin-bottom:10px;font-weight:300;text-align:left;">Newsletter Privacy Notice</button>
   </div>
 </div>
 <footer>
@@ -198,7 +181,43 @@
     <a href="/blog/">Blog</a><a href="/search/">Search</a><a href="/#contact">Contact</a><a href="/newsletter/">Newsletter</a>
   </div>
 </footer>
-<script src="/assets/js/main.js?v3" defer></script>
+
+<!-- Newsletter Privacy Notice — hidden by default, opened only via data-open-privacy triggers above -->
+<div class="pv-ov" id="pvOv" aria-hidden="true">
+  <div class="pv-box" role="dialog" aria-modal="true" aria-labelledby="pvTitle">
+    <div class="pv-hdr">
+      <div class="pv-hdr-l">
+        <div class="pv-em">S&amp;S</div>
+        <div><div class="pv-ht" id="pvTitle">Newsletter Privacy Notice</div><div class="pv-hs">Data Protection</div></div>
+      </div>
+      <button class="pv-close" data-close-privacy aria-label="Close">✕</button>
+    </div>
+    <div class="pv-bd">
+      <p class="upd"><em>Last updated: 5 October 2026.</em> This notice explains how S &amp; S Co. Advocates &amp; Solicitors (“we”, “us”) handles the email address you give us to receive our newsletter, in line with the Digital Personal Data Protection Act, 2023.</p>
+      <h3>What we collect</h3>
+      <ul>
+        <li>Your email address, which you enter in the sign-up form.</li>
+        <li>The page you signed up from, and the date and time of your request, so that we can keep a record of your consent.</li>
+        <li>Technical details, such as IP address and browser type, that our website host (Netlify) may record with a form submission to prevent spam and abuse.</li>
+      </ul>
+      <h3>Why we collect it</h3>
+      <p>Only to send you our fortnightly newsletter — a digest of court rulings, regulatory developments and practical guides — and to manage your subscription. We do not sell your email address.</p>
+      <h3>Consent</h3>
+      <p>We rely on your consent, given by ticking the box on the sign-up form.</p>
+      <h3>Who handles your data</h3>
+      <p>Submissions are stored in our website host’s form service and are accessible only to authorised members of our staff. We may use an email-delivery service to send the newsletter; such providers handle your email address only on our instructions.</p>
+      <h3>How long we keep it</h3>
+      <p>Until you withdraw your consent or we discontinue the newsletter, whichever is earlier. After that, we will delete your email address from our subscriber records.</p>
+      <h3>Your choices and rights</h3>
+      <p>You can withdraw your consent at any time by writing to <a href="mailto:communications@snsco.in?subject=Unsubscribe">communications@snsco.in</a> with the subject “Unsubscribe”. At the same address you can ask us to give you access to, correct or erase your email address, or raise a grievance. You may also approach the Data Protection Board of India as provided under the Act.</p>
+      <h3>Children</h3>
+      <p>The newsletter is meant for adults. We do not knowingly collect the email addresses of persons under 18.</p>
+    </div>
+    <div class="pv-ft"><button type="button" data-close-privacy>Close</button></div>
+  </div>
+</div>
+
+<script src="/assets/js/main.js?v4" defer></script>
 
 </body>
 </html>

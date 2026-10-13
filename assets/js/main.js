@@ -32,6 +32,18 @@ document.addEventListener('DOMContentLoaded', function() {
     document.addEventListener('click', function(e){ if (mob.classList.contains('show') && !mob.contains(e.target) && !hbg.contains(e.target)){ hbg.classList.remove('open'); mob.classList.remove('show'); } });
   }
 
+  /* NEWSLETTER PRIVACY NOTICE — opens only when clicked (consent line or footer),
+     never shown automatically; same open/close pattern as the hamburger menu above. */
+  var pvOv = document.getElementById('pvOv');
+  if (pvOv) {
+    var openPV = function(e){ if(e) e.preventDefault(); pvOv.classList.add('open'); pvOv.setAttribute('aria-hidden','false'); };
+    var closePV = function(){ pvOv.classList.remove('open'); pvOv.setAttribute('aria-hidden','true'); };
+    document.querySelectorAll('[data-open-privacy]').forEach(function(el){ el.addEventListener('click', openPV); });
+    document.querySelectorAll('[data-close-privacy]').forEach(function(el){ el.addEventListener('click', closePV); });
+    pvOv.addEventListener('click', function(e){ if (e.target===pvOv) closePV(); });
+    document.addEventListener('keydown', function(e){ if (e.key==='Escape') closePV(); });
+  }
+
   /* LEGAL UPDATES TABS (homepage only) */
   var tabBtns=document.querySelectorAll('.ut-btn');
   var tabPanels=document.querySelectorAll('.ut-panel');
