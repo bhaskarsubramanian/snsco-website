@@ -1027,5 +1027,54 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-12"
+  },
+  {
+    "id": "cci-lloyds-metals-energy-standstill-penalty-thriveni-earthmovers",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "In re: Lloyds Metals and Energy Limited (Section 43A proceedings — Thriveni Earthmovers and Infra combination)",
+    "citation": "CCI order dated 8 September 2026 (Section 43A, Competition Act, 2002)",
+    "court": "Competition Commission of India",
+    "date": "2026-09-08",
+    "holding_summary": "The CCI imposed a penalty of Rs. 15 lakh on Lloyds Metals and Energy Limited under Section 43A of the Competition Act, 2002 for breaching the standstill obligation under Section 6(2A) in relation to its combination involving Thriveni Earthmovers and Infra Private Limited, a transaction the CCI had separately approved on 13 May 2025. Lloyds disclosed the order to stock exchanges on 10 September 2026, stating the penalty was not material to its financials and that it intended to comply within the stipulated timeline.",
+    "why_it_matters": "It is a reminder that the CCI penalises standstill (gun-jumping) breaches as a strict, civil-liability matter under Section 43A regardless of whether the underlying combination was itself later approved, so acquirers must keep completion steps on hold until clearance even in otherwise unobjectionable deals.",
+    "sources": [
+      "https://www.investywise.com/?p=118120",
+      "https://www.sahi.com/news/lloyds-metals-faces-15-lakh-fine-for-breaking-standstill-in-thriveni-earthmovers-merger-1045-PE1_COR",
+      "https://www.basispointinsight.com/Story/cci-clears-lloyds-metals--acquisition-of-thriveni-earthmovers-and-infra_10c5c9f5c642.html"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-13"
+  },
+  {
+    "id": "mumbai-consumer-commission-new-india-assurance-victorinox-fire-claim",
+    "practice_area": "Consumer Protection",
+    "case_name": "Victorinox India Pvt Ltd v. New India Assurance Co Ltd",
+    "citation": "Consumer Complaint, South Mumbai District Consumer Disputes Redressal Commission, decided 2 September 2026",
+    "court": "South Mumbai District Consumer Disputes Redressal Commission",
+    "date": "2026-09-02",
+    "holding_summary": "The Commission directed New India Assurance to pay Victorinox India Rs. 8,06,49,573 (the net loss figure recorded by the insurer's own surveyor) with 9% interest from the date of the complaint, plus Rs. 50,000 each for mental distress and litigation costs, over a fire that damaged Victorinox's customs-bonded warehouse on 16 February 2019. The insurer had repudiated the claim in January 2021 citing non-submission of certain internal agreements and invoices; the Commission held the rejection was made 'solely on technical ground in a mechanical manner' without substantive justification.",
+    "why_it_matters": "It reinforces that an insurer cannot repudiate a fire claim over a technical documentation lapse once its own surveyor has quantified and not disputed the loss, and signals continuing exposure for 'mechanical' repudiations under consumer law.",
+    "sources": [
+      "https://www.freepressjournal.in/business/7-years-after-warehouse-fire-insurer-told-to-pay-806-crore-to-victorinox-india",
+      "https://dailypioneer.com/news/insurer-ordered-to-pay-806-cr-to-swiss-firm-subsidiary-in-2019-fire-claim-dispute"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-13"
+  },
+  {
+    "id": "aptel-siwana-solar-herc-haryana-tariff-res-judicata",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "Haryana Power Purchase Centre v. Siwana Solar Power Projects Ltd (and connected HERC tariff proceedings)",
+    "citation": "Appellate Tribunal for Electricity order dated 18 September 2026, setting aside HERC order in Petition No. 78 of 2025",
+    "court": "Appellate Tribunal for Electricity (APTEL)",
+    "date": "2026-09-18",
+    "holding_summary": "A bench of Officiating Chairperson Seema Gupta and Judicial Member Virender Bhat set aside a May 2026 HERC order that had directed HPPC to pay Siwana Solar Power Projects Ltd (a 5 MW Bhiwani solar project) a revised tariff of Rs. 6.44/kWh with 9.15% interest. APTEL held the tariff question was already finally decided: Siwana's 2024 petition seeking the same relief was dismissed by HERC in November 2024 on res judicata grounds and never challenged, so the earlier Rs. 5.68/kWh rate continued to bind the parties and HERC could not revisit it in the later petition.",
+    "why_it_matters": "It is a reminder to power generators that an unappealed dismissal of a tariff petition forecloses a second attempt at the same relief, even where a sympathetic regulator later appears willing to reconsider the rate.",
+    "sources": [
+      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/",
+      "https://mercomindia.com/aptel-rejects-solar-developers-claim-for-higher-tariff"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-13"
   }
 ]

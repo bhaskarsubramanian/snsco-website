@@ -1168,5 +1168,42 @@
       "fact to verify: the precise current text of Order V Rule 1 and Order VIII Rule 1 CPC as amended for commercial disputes (120-day outer limit, with court's discretion only up to 120 days and no further) should be confirmed against the Commercial Courts Act amendments before publishing"
     ],
     "added_on": "2026-10-12"
+  },
+  {
+    "id": "cci-standstill-gun-jumping-section-43a-guide",
+    "topic_title": "Gun-Jumping Under the Competition Act: What Counts as Breaching CCI's Standstill Obligation, and What It Costs",
+    "angle": "A practical guide for M&A parties on Section 6(2A)'s standstill obligation and Section 43A penalties for breaching it before CCI approval, including the kinds of pre-closing conduct that typically get flagged.",
+    "key_points": [
+      "Section 6(2A) of the Competition Act, 2002 bars parties to a notifiable combination from giving effect to it until CCI approval or the statutory waiting period lapses",
+      "The Competition (Amendment) Act, 2023 brought standstill breaches under Section 6(2A) within the Section 43A penalty provision, which previously only covered a failure to notify at all",
+      "Section 43A penalties are civil/regulatory in nature -- intent to violate is not a required element, only the fact of the breach",
+      "Common gun-jumping triggers include premature information or integration sharing, open-market share purchases ahead of clearance, and board-level control exercised before approval",
+      "A recent example: CCI's 8 September 2026 order fining Lloyds Metals and Energy Rs. 15 lakh under Section 43A for a standstill breach tied to its otherwise-approved Thriveni Earthmovers and Infra combination"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 6(2A) standstill obligation and its scope: confirmed via indiacorplaw.in and ksandk.com commentary",
+      "2023 amendment bringing Section 6(2A) breaches within Section 43A: confirmed via mondaq.com analysis",
+      "Exact current statutory waiting period (sources disagree between 210 days and a shorter post-amendment figure) -- publish routine should verify against the current Act/CCI regulations text before stating a specific number",
+      "Lloyds Metals CCI penalty example: confirmed via investywise.com and sahi.com (see linked legal-updates queue item cci-lloyds-metals-energy-standstill-penalty-thriveni-earthmovers)"
+    ],
+    "added_on": "2026-10-13"
+  },
+  {
+    "id": "res-judicata-electricity-tariff-regulatory-proceedings-guide",
+    "topic_title": "Can You Re-File a Tariff Petition After an Earlier One Was Dismissed? Res Judicata Before State Electricity Regulators and APTEL",
+    "angle": "Explains when res judicata (and the related rule against relitigating settled issues) applies to bar a second petition before a State Electricity Regulatory Commission or APTEL once an earlier petition seeking the same relief was dismissed and not appealed.",
+    "key_points": [
+      "Res judicata, though a civil-procedure doctrine, is applied by quasi-judicial regulatory bodies like SERCs and APTEL to prevent repeated attempts at the same relief",
+      "The key test: was the earlier petition dismissed on the same prayer/issue, and did the party let that dismissal become final by not appealing it",
+      "A dismissal on a technical or procedural ground can still attain finality and bar a second attempt if left unchallenged",
+      "Practical takeaway for generators and distribution licensees: an unfavourable SERC order should usually be appealed to APTEL within limitation rather than refiled later with the same prayer",
+      "Illustrative example: APTEL's 18 September 2026 order (Siwana Solar/HERC) set aside a second, more favourable HERC order because the same relief had already been finally refused in an unappealed 2024 petition"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Siwana Solar/APTEL case facts (dates, bench, tariff figures): confirmed via solarquarter.com and mercomindia.com",
+      "General res judicata applicability to quasi-judicial tribunals is settled Indian administrative law; publish routine should cite a general authority (e.g. a Supreme Court ruling on res judicata before tribunals) rather than relying solely on the Siwana case for the doctrine itself",
+      "Limitation period for a Section 111 APTEL appeal from a SERC order: commonly cited as 45 days, extendable -- publish routine should re-verify the exact current limitation figure under the Electricity Act, 2003 before stating it in the published article"
+    ],
+    "added_on": "2026-10-13"
   }
 ]
