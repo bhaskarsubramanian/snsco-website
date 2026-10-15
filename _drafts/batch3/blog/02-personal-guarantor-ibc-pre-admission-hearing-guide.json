@@ -1,0 +1,87 @@
+{
+  "slug": "personal-guarantor-ibc-pre-admission-hearing-guide",
+  "title": "No Hearing Before an IBC Petition Against a Personal Guarantor Is Admitted: What the Supreme Court Settled",
+  "meta_description": "Why a personal guarantor gets no hearing before an IBC petition is admitted, and what the Supreme Court held on this in Jiwrajika.",
+  "practice_area": "IBC & Insolvency",
+  "intro": [
+    "A personal guarantor who has mortgaged a house or pledged shares to back a company's loan usually finds out about an insolvency petition against them only after a resolution professional has been appointed and a moratorium has frozen their assets. There is no notice, no opportunity to object before that stage, and no hearing on whether the debt is even disputed. Guarantors have argued for years that this is unconstitutional, that it denies natural justice at the one point where it matters most.",
+    "The Supreme Court closed that argument on 9 November 2023 in Surendra B. Jiwrajika and Another v. Omkara Assets Reconstruction Private Limited, a batch of roughly 384 connected petitions challenging Sections 95 to 100 of Part III of the Insolvency and Bankruptcy Code, 2016. The three-judge bench led by the then Chief Justice D.Y. Chandrachud upheld the provisions. This guide explains what that means in practice for a guarantor facing or anticipating such a petition, and where the real battles are still fought."
+  ],
+  "sections": [
+    {
+      "heading": "Why Part III has no hearing stage",
+      "paragraphs": [
+        "Sections 95 to 100 govern insolvency resolution for personal guarantors to corporate debtors. When a creditor files an application under Section 95, a resolution professional is appointed to examine the application and submit a report recommending whether it should be admitted or rejected. During this examination period, an interim moratorium under Section 96 kicks in automatically, freezing legal proceedings against the guarantor's assets and debts covered by the guarantee.",
+        "Guarantors argued that the resolution professional's report goes to the adjudicating authority, the National Company Law Tribunal, without the guarantor ever being heard on whether the debt is genuinely due, whether it is time-barred, or whether the figures are even correct. Unlike the corporate insolvency process under Part II, where an admission order follows adversarial hearing, Part III was designed to move faster and leaves the guarantor's objections for a later stage."
+      ]
+    },
+    {
+      "heading": "What the Supreme Court actually held",
+      "paragraphs": [
+        "The Court refused to read a mandatory, adjudicatory hearing into Sections 95 to 100 before the moratorium or the resolution professional's report. It held that a resolution professional's function at this stage is to examine and report, not to adjudicate, and that creating an extra adjudicatory stage before the National Company Law Tribunal gets involved would conflict with the Code's design of swift resolution. The Court was clear that it cannot rewrite legislative wording to insert a hearing requirement that Parliament chose not to provide.",
+        "On the separate question of whether applying Part III to guarantees given before the provisions came into force amounted to impermissible retroactivity, the Court held the Code is not being applied retroactively merely because it reaches liabilities that arose from an earlier guarantee; insolvency law regulates present and future enforcement of a subsisting debt, not the formation of the contract itself. The bench also noted that a guarantor's own conduct and the facts of each case will be relevant in assessing whether a particular application is being used fairly, even though that assessment does not translate into a right to a pre-admission hearing."
+      ]
+    },
+    {
+      "heading": "What a guarantor can still argue, and when",
+      "paragraphs": [
+        "The absence of a hearing before the moratorium does not mean a guarantor has no voice at all. Once the resolution professional's report is submitted and the matter comes before the adjudicating authority for admission under Section 100, the guarantor does get an opportunity to be heard on the report itself, including disputing the quantum, pointing out that the underlying debt has been restructured or settled, or showing that the guarantee was discharged. That hearing happens after the interim moratorium has already attached, which is the part guarantors find hardest to accept, but it is a real hearing on the merits of admission.",
+        "A guarantor who believes the application is an abuse of process, filed to pressure a settlement rather than to pursue a genuine insolvency resolution, can raise that before the adjudicating authority at the Section 100 stage and, if unsuccessful there, on appeal to the National Company Law Appellate Tribunal. Courts have been willing to look closely at whether a creditor has already recovered substantially from the principal debtor or other guarantors before going after one individual guarantor for the full amount again."
+      ]
+    },
+    {
+      "heading": "Does a resolution plan for the company discharge the guarantor?",
+      "paragraphs": [
+        "A separate and recurring question the same line of cases has touched is whether a resolution plan approved for the corporate debtor under Section 31(1) automatically lets the personal guarantor off the hook. The settled position is that it does not. A guarantor's liability is independent of the principal debtor's, and approval of a resolution plan binds stakeholders to the terms of that plan for the company, but it does not by itself extinguish the guarantee unless the plan specifically deals with guarantor liability or the guarantee is otherwise discharged on facts.",
+        "This matters practically because creditors who recover only partially from the corporate insolvency resolution process routinely pursue the shortfall from personal guarantors separately under Part III. A guarantor defending a Section 95 application should always establish exactly how much the creditor has already recovered through the corporate debtor's resolution plan, since that figure caps what can fairly be claimed again, even if it does not defeat the application outright."
+      ]
+    },
+    {
+      "heading": "Interim moratorium: what is actually frozen",
+      "paragraphs": [
+        "The interim moratorium under Section 96 covers legal action in relation to the debt, and it prevents the guarantor from transferring, encumbering or disposing of assets related to the guaranteed debt while the resolution professional's examination is pending. It does not freeze every asset the guarantor owns, only those connected to the guarantee being examined, so a guarantor with unrelated property or business interests retains the ability to deal with those.",
+        "Creditors sometimes file in multiple jurisdictions or against multiple guarantors for the same underlying debt simultaneously. A guarantor served with such a petition should check promptly whether an identical or overlapping application is already pending elsewhere, since parallel proceedings on the same debt raise questions the resolution professional and the tribunal are required to take into account when framing the report and considering admission.",
+        "Bank accounts not connected to the guarantee generally stay operational, and the guarantor can continue ordinary business or employment income during the examination period. Where a creditor's notice is vague about which account or facility the guarantee actually secures, it is worth asking the resolution professional in writing to specify this before responding in detail, so the reply is not wasted addressing the wrong debt."
+      ]
+    },
+    {
+      "heading": "Practical steps for a guarantor served with a Section 95 petition",
+      "paragraphs": [
+        "The first step is not to wait for the admission hearing. A guarantor who disputes the debt, the computation of interest, or the very fact that a demand notice was validly served should put that in writing to the resolution professional as soon as the examination begins, since the report is meant to reflect the guarantor's position alongside the creditor's claim, even without a formal hearing at that stage.",
+        "Documents matter more here than in most commercial disputes: the original guarantee deed, any amendment or novation, correspondence showing part payment or settlement discussions, and the resolution plan approved for the corporate debtor if one exists. A guarantor who assembles this before the Section 100 hearing, rather than after admission, has a materially better chance of persuading the adjudicating authority that the claim is overstated or that the application should be rejected outright."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a personal guarantor get a hearing before the moratorium under Section 96 applies?",
+      "a": "No. The Supreme Court in Jiwrajika held that no adjudicatory hearing is required before the interim moratorium attaches or before the resolution professional submits a report. The guarantor's hearing comes later, when the application is placed before the adjudicating authority for admission under Section 100."
+    },
+    {
+      "q": "Does paying off the company's debt under a resolution plan release the guarantor?",
+      "a": "Not automatically. A guarantor's liability is independent of the corporate debtor's, and approval of a resolution plan for the company does not by itself discharge the guarantee unless the plan expressly addresses it or the guarantee is otherwise shown to be discharged."
+    },
+    {
+      "q": "What can I do if I think the insolvency application against me as guarantor is just pressure tactics?",
+      "a": "Raise it at the Section 100 admission hearing before the adjudicating authority, supported by evidence of prior recovery from the principal debtor or other guarantors, settlement correspondence, or disputed computation. An unfavourable order can be appealed to the NCLAT."
+    },
+    {
+      "q": "Does the interim moratorium stop me from dealing with all my property?",
+      "a": "No, it covers legal proceedings and dealings connected to the guaranteed debt under examination, not every asset the guarantor owns. Property, bank accounts and income unconnected to the specific guarantee under examination generally stay outside its scope, and ordinary business or salaried income can continue to be used freely during this period."
+    }
+  ],
+  "references": [
+    "Sections 95 to 100, Insolvency and Bankruptcy Code, 2016 (Part III)",
+    "Section 96, Insolvency and Bankruptcy Code, 2016 (interim moratorium)",
+    "Section 31(1), Insolvency and Bankruptcy Code, 2016 (resolution plan approval)",
+    "Surendra B. Jiwrajika and Another v. Omkara Assets Reconstruction Private Limited, Supreme Court, 9 November 2023",
+    "State Bank of India v. V. Ramakrishnan, Supreme Court, 2018"
+  ],
+  "sources": [
+    "https://www.livelaw.in/amp/top-stories/breaking-supreme-court-upholds-constitutionality-of-ibc-provisions-relating-to-personal-guarantors-says-adjudicatory-role-cant-be-read-into-sec-97-241983",
+    "https://indiacorplaw.in/2023/11/27/supreme-court-clarifies-the-extent-of-liability-of-personal-guarantors-under-the-ibc/",
+    "https://ksandk.com/md/corporate/personal-guarantors-under-ibc-legal-framework/",
+    "https://www.scconline.com/blog/?p=310570"
+  ],
+  "verification_notes": "Confirmed the Jiwrajika judgment date (9 November 2023), the bench led by then CJI Chandrachud, the holding that no adjudicatory hearing is required before admission, and the batch size of roughly 384 petitions from LiveLaw and IndiaCorpLaw. Confirmed that a resolution plan does not automatically discharge a guarantor's independent liability from IndiaCorpLaw and ksandk commentary. Did not state a neutral INSC citation number for Jiwrajika since no source in results gave one; referred to the case by name, bench and date instead. Left out any specific limitation period for filing a Section 95 application since it was not confirmed in these results."
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "gst-itc-construction-plant-safari-retreats-guide",
+  "title": "GST Credit on Construction: What the Safari Retreats Ruling Actually Allows a Taxpayer to Claim",
+  "meta_description": "What the Supreme Court held on GST credit for construction in Safari Retreats, and how the 2025 amendment to Section 17(5)(d) narrowed it.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "A client who builds a mall, a warehouse or a data centre to let it out faces a question that sounds simple and is not: can the GST paid on cement, steel and the contractor's bill be set off against the GST charged on the rent? Section 17(5)(d) of the CGST Act blocks input tax credit on goods or services used for construction of an immovable property, other than plant or machinery, when the property is for the taxpayer's own account. For years the department read that bar as covering every building, full stop. The Orissa High Court disagreed in the Safari Retreats case, and the dispute reached the Supreme Court.",
+    "The decision came on 3 October 2024 in Chief Commissioner of Central Goods and Service Tax and Others v. Safari Retreats Private Limited and Others. It is a mixed outcome, and anyone relying on it today also has to reckon with a retrospective amendment that followed within months. This guide sets out what the Court actually decided, what Parliament did afterward, and where that leaves a business that has already built or is about to build."
+  ],
+  "sections": [
+    {
+      "heading": "What the dispute was about",
+      "paragraphs": [
+        "Safari Retreats built a shopping mall in Bhubaneswar with the intention of leasing out retail space. GST was charged on the rent it collected from tenants, an output supply. The company wanted to claim credit for the GST paid on cement, steel, lift installation and the rest of the construction cost, arguing that without the building there would be no rentable space and no output tax to begin with. The tax department refused, relying on Section 17(5)(d), which excludes credit for construction of an immovable property on one's own account, carving out only plant or machinery as an exception.",
+        "The Orissa High Court read down the provision, holding that if denying credit defeated the very purpose of GST as a value-added tax, the restriction should not apply to a building constructed for renting out. The department appealed, and the matter sat before the Supreme Court for over a year before judgment."
+      ]
+    },
+    {
+      "heading": "What the Supreme Court held",
+      "paragraphs": [
+        "The bench of Justices Abhay Oka and Sanjay Karol upheld the constitutional validity of Section 17(5)(d) itself. Parliament is entitled to decide what credit it will and will not allow, and the provision was not struck down. On the facts, though, the Court sided with the taxpayer's broader point: whether a building counts as a plant for the purposes of the exception is a question of fact, not a label that excludes every structure automatically.",
+        "The Court set out what commentators have called a functionality test. If a building is constructed specifically to be let out, and its structure, layout and fittings are essential to the business of renting rather than incidental to it, it can qualify as a plant under clause (d), which takes it outside the credit bar. That determination has to be made on the particular facts of each building, not by a blanket rule either way. The ruling therefore gave taxpayers a route to argue for credit, but not an automatic entitlement."
+      ]
+    },
+    {
+      "heading": "The retrospective amendment that followed",
+      "paragraphs": [
+        "The relief did not last in the form taxpayers hoped. The GST Council, at its meeting in December 2024, recommended a legislative fix, and Section 119 of the Finance Act, 2025 rewrote Section 17(5)(d) to replace the phrase \"plant or machinery\" with \"plant and machinery\", the same conjunctive term already defined in the explanation to Section 17. That change was made effective retrospectively from 1 July 2017, the date GST itself came into force.",
+        "The practical effect is that a building can no longer be treated as a plant by itself under clause (d) in the way the Supreme Court's functionality test contemplated. Credit on construction continues to be available for genuine plant and machinery as separately defined, such as apparatus and equipment fixed to earth that is used for making outward supplies, but not for the structure of the building housing it. A business that built a commercial property between 2017 and 2025 expecting to rely on the judgment now has to assess its position against the amended, retrospective text rather than the judgment alone."
+      ]
+    },
+    {
+      "heading": "Who is still affected and how",
+      "paragraphs": [
+        "Developers and owners who let out commercial space, including malls, office parks and warehousing for rent, are the group most directly hit by the amendment, since their core argument depended on the building itself being treated as plant. Businesses that fit out premises with genuine machinery, cold storage units, processing lines, specialised racking systems built into a warehouse, retain a credit claim for that equipment, but the dividing line between a fitted-out building and the building shell is where assessment officers will push back hardest.",
+        "For pending assessments and refund claims filed before the Finance Act, 2025 came into force, the retrospective date matters a great deal. A taxpayer who had already claimed credit relying on Safari Retreats, or whose assessment was open when the amendment was notified, should expect the department to reopen or adjust the position using the amended clause, since the amendment speaks as if it always read that way."
+      ]
+    },
+    {
+      "heading": "What a taxpayer can still argue",
+      "paragraphs": [
+        "A review petition against the Safari Retreats judgment itself was considered and did not change the outcome on the core legal position, so the functionality test as a principle of statutory interpretation remains part of the law, even though its practical scope has been cut down by the amendment. Where credit is claimed for equipment and fixtures that independently meet the definition of plant and machinery, such as lifts that are integral to a manufacturing process rather than general building access, that claim stands on its own footing and does not need the building to qualify.",
+        "A taxpayer disputing a denial of credit on construction should separate the invoice-level cost into what is structural (walls, flooring, general civil work) and what is genuine machinery or equipment, and build the record for the latter category carefully, with engineering certificates and asset classification that would hold up before an assessing officer or, if it comes to that, before the appellate tribunal."
+      ]
+    },
+    {
+      "heading": "Procedure if credit is denied",
+      "paragraphs": [
+        "A show cause notice denying ITC under Section 17(5)(d) is adjudicated under Section 73 or 74 of the CGST Act depending on whether suppression or fraud is alleged. The taxpayer's reply should address the amended text directly rather than relying only on the 2024 judgment, since an officer applying the law as it stands after 1 July 2017, by virtue of the retrospective amendment, is unlikely to be moved by a judgment construing the pre-amendment clause.",
+        "An adverse order is appealable to the first appellate authority under Section 107, and from there to the GST Appellate Tribunal once it is functional in a taxpayer's jurisdiction, or to the jurisdictional High Court by way of writ where a pure question of law on the retrospective amendment's validity is raised. A challenge to the retrospective operation itself, on the ground that it unsettles completed transactions going back to 2017, is a live argument that has not yet been tested before a constitutional court on this specific amendment, and a business with a large exposure should weigh that route against simply contesting the quantum."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the Safari Retreats judgment still help taxpayers after the 2025 amendment?",
+      "a": "Only in a narrow sense. The functionality test survives as a principle, but Section 17(5)(d) as amended uses \"plant and machinery\" in its defined, conjunctive sense, so a building by itself can no longer qualify the way the Supreme Court's facts contemplated. Credit on genuine machinery and equipment is unaffected."
+    },
+    {
+      "q": "Can I still claim ITC on fit-outs and machinery inside a leased building?",
+      "a": "Yes, if the item independently meets the definition of plant and machinery, apparatus, equipment or machinery fixed to earth and used for making outward supplies, the structure of the surrounding building does not disqualify that specific asset's credit."
+    },
+    {
+      "q": "Is the retrospective amendment open to legal challenge?",
+      "a": "A challenge on the ground that retrospective withdrawal of an accrued benefit is arbitrary is available in principle, but no High Court or Supreme Court ruling has yet tested this particular 2025 amendment. Businesses with significant exposure should get a specific opinion before deciding whether to litigate or settle."
+    },
+    {
+      "q": "What should I do if my GST refund claim relying on Safari Retreats is pending?",
+      "a": "Expect the department to apply the amended Section 17(5)(d) rather than process the claim on the judgment alone. File a detailed reply distinguishing any component that is genuine plant and machinery, and preserve the right to appeal if the refund is rejected."
+    }
+  ],
+  "references": [
+    "Section 17(5)(d), CGST Act, 2017",
+    "Section 119, Finance Act, 2025 (retrospective amendment to Section 17(5)(d), effective 1 July 2017)",
+    "Chief Commissioner of Central Goods and Service Tax and Others v. Safari Retreats Private Limited and Others, Supreme Court, 3 October 2024",
+    "Sections 73, 74 and 107, CGST Act, 2017"
+  ],
+  "sources": [
+    "https://www.bdo.in/en-gb/news/2024/supreme-court-clarifies-gst-input-tax-credit-can-be-claimed-on-construction-for-rental-services",
+    "https://www.mbgcorp.com/in/insights/supreme-courts-landmark-judgment-in-safari-retreats-case/",
+    "https://nliulawreview.nliu.ac.in/fallout-of-the-safari-retreats-judgment-finance-bill-retrospectively-amends-section-17-of-the-cgst-act/",
+    "https://taxguru.in/goods-and-service-tax/retrospective-gst-amendment-nullifies-sc-itc-relief-construction-costs.html",
+    "https://www.taxscan.in/?p=442469"
+  ],
+  "verification_notes": "Confirmed the Safari Retreats judgment date (3 October 2024), bench, constitutional validity holding and functionality test across BDO, MBG Corp, Taxscan and taxo.online summaries. Confirmed the Finance Act, 2025 retrospective amendment to Section 17(5)(d) effective 1 July 2017, the GST Council's December 2024 recommendation, and its effect across NLIU Law Review and two TaxGuru articles. Did not state the specific neutral citation number for the judgment since it appeared in only one secondary source; referred to the case by name, court and date instead. Left out the exact date of any review petition dismissal since sources gave inconsistent or unverified dates."
+}
