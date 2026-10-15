@@ -1,0 +1,86 @@
+{
+  "slug": "sarfaesi-section-14-district-magistrate-possession-guide",
+  "title": "SARFAESI Section 14: How a Bank Actually Gets Physical Possession Through the District Magistrate",
+  "meta_description": "How a secured creditor uses Section 14 of the SARFAESI Act to get the District Magistrate's assistance in taking possession, and what a borrower can do.",
+  "practice_area": "Banking & Finance",
+  "intro": [
+    "A borrower who has defaulted and received a demand notice under Section 13(2) of the SARFAESI Act often assumes the bank still needs a civil court decree before it can actually take the keys to the property. That assumption is wrong, and it is the single biggest misunderstanding borrowers have about secured lending in India. Where a bank's own attempt at symbolic or physical possession under Section 13(4) meets resistance, it does not go to a civil court at all; it goes to the District Magistrate or Chief Metropolitan Magistrate under Section 14, and that officer's role has been confirmed by the Supreme Court to be ministerial, meaning there is very little room for the borrower to be heard on the merits at that stage.",
+    "This guide walks through how a Section 14 application actually proceeds, what the District Magistrate can and cannot examine, the timelines courts have read into the provision, and what remedies actually remain open to a borrower who believes the underlying SARFAESI action is flawed."
+  ],
+  "sections": [
+    {
+      "heading": "Why Section 14 exists and what it is for",
+      "paragraphs": [
+        "Section 13(4) of the SARFAESI Act allows a secured creditor to take possession of secured assets after a sixty-day notice period under Section 13(2) has expired without the borrower clearing the dues. In many cases the borrower, or whoever is in occupation, simply refuses to vacate, and the bank cannot use force on its own; forcible self-help possession invites both civil liability and criminal complaints against the bank's own officers. Section 14 gives the bank a statutory route around this impasse: it can apply to the District Magistrate, or the Chief Metropolitan Magistrate where the property is in a metropolitan area, asking that officer to take possession of the secured asset and documents and hand them over to the secured creditor.",
+        "The application has to be supported by an affidavit from an authorised officer of the bank confirming the amount of the dues, that the asset was validly classified as a non-performing asset, that possession under Section 13(4) was taken or attempted, and that the measures taken by the secured creditor comply with the Act and the Security Interest (Enforcement) Rules. A defective affidavit, missing any of these confirmations, is one of the few grounds that can genuinely derail an application at this stage."
+      ]
+    },
+    {
+      "heading": "The ministerial, not adjudicatory, role of the Magistrate",
+      "paragraphs": [
+        "The Supreme Court has repeatedly held that the District Magistrate's function under Section 14 is ministerial rather than adjudicatory. In Balkrishna Ram Tarle v. Phoenix ARC, the Court confirmed that the Magistrate is not sitting as a judge weighing the merits of the dispute between borrower and bank; the role is limited to verifying that the application is in order and then facilitating physical possession, including by deploying police assistance if the occupant resists.",
+        "This means a borrower cannot walk into the Section 14 proceeding and argue that the loan amount is wrongly computed, that the account was wrongly classified as an NPA, or that the underlying facility was improperly sanctioned. Those are substantive disputes that belong before the Debts Recovery Tribunal under Section 17 of the Act, a completely separate proceeding, and raising them before the Magistrate at the Section 14 stage is very unlikely to succeed in stopping the possession action."
+      ]
+    },
+    {
+      "heading": "The timeline the Magistrate is expected to follow",
+      "paragraphs": [
+        "The Supreme Court in C. Bright v. District Collector held that the statutory time limit for the District Magistrate to hand over possession, generally understood as thirty days extendable by a further thirty days on reasons recorded in writing, is directory rather than mandatory. The Act specifies no consequence for exceeding this limit, so even where an application takes longer than sixty days in aggregate to be decided, the Magistrate does not lose jurisdiction to act, and the bank's application does not become invalid merely because of the delay.",
+        "A 2026 Punjab and Haryana High Court order addressing a batch of writ petitions by banks directed that Section 14 applications be decided within thirty days, with an aggregate outer limit of sixty days where reasons are recorded, and that if an application remains pending beyond that, the affected party may approach the Divisional Commissioner, who is then expected to consider the representation within a further fifteen days. This reflects frustration among lenders at delays in some jurisdictions, though it is a High Court directive specific to that bench rather than a nationwide statutory change."
+      ]
+    },
+    {
+      "heading": "Who can exercise the Magistrate's powers",
+      "paragraphs": [
+        "A practical question that comes up often is whether an Additional District Magistrate or Additional Chief Metropolitan Magistrate can exercise these powers instead of the District Magistrate or Chief Metropolitan Magistrate named in the section. The Supreme Court in R.D. Jain & Co. v. Capital First Ltd. confirmed that the terms \"District Magistrate\" and \"Chief Metropolitan Magistrate\" in Section 14 are to be read to include Additional District Magistrates and Additional Chief Metropolitan Magistrates, since reading the section narrowly would create unnecessary administrative bottlenecks in busy jurisdictions where the principal officer cannot personally handle every application.",
+        "A borrower challenging an order on the technical ground that it was passed by an Additional District Magistrate rather than the District Magistrate named in the section is very unlikely to succeed given this settled position, and should direct litigation energy toward substantive grounds instead."
+      ]
+    },
+    {
+      "heading": "What a borrower can actually do before possession is executed",
+      "paragraphs": [
+        "The borrower's real opportunity to contest the underlying SARFAESI action lies in Section 17, through an application before the Debts Recovery Tribunal, which can examine whether the Section 13(2) notice was validly served, whether the classification as NPA was correct, whether the measures taken comply with the Rules, and whether the amount claimed is accurate. This application can be filed any time after a measure under Section 13(4) has been taken, and does not have to wait for the Section 14 possession process to conclude.",
+        "Filing before the Debts Recovery Tribunal does not automatically stay the Section 14 proceeding before the Magistrate, since the two are treated as largely independent tracks, so a borrower who wants to actually halt physical possession needs to specifically seek interim relief from the Tribunal, supported by a reasonably strong case on the merits, rather than assuming the mere filing of an application will pause enforcement."
+      ]
+    },
+    {
+      "heading": "Practical steps once a Section 14 application is filed",
+      "paragraphs": [
+        "A borrower who learns that a Section 14 application has been filed against their property should move quickly to the Debts Recovery Tribunal with a Section 17 application and an interim stay request if there is a genuine dispute about the dues, classification or procedure, rather than trying to contest the application before the Magistrate directly, since the scope for that is narrow by design. Collecting documentary evidence of any procedural lapse, such as a Section 13(2) notice sent to a wrong address, missing annexures, or a demand figure that does not match the bank's own statement of account, strengthens the Section 17 application considerably more than it would help at the Section 14 stage.",
+        "Where the Tribunal does grant interim protection, the order should be placed before the Magistrate's office promptly, since the possession process, once set in motion with police assistance arranged, can move quickly and an interim order that arrives after possession has already been taken creates a much harder restitution problem than preventing it in the first place."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I argue before the District Magistrate that my loan account was wrongly classified as an NPA?",
+      "a": "Generally no. The Magistrate's role under Section 14 is ministerial, confirmed by the Supreme Court, and does not extend to adjudicating disputes about NPA classification or the dues claimed. That has to be raised before the Debts Recovery Tribunal under Section 17."
+    },
+    {
+      "q": "Does the Magistrate lose power to act if the thirty or sixty-day time limit is exceeded?",
+      "a": "No. The Supreme Court in C. Bright held this timeline is directory, not mandatory, since the Act prescribes no consequence for delay. The application remains valid and the Magistrate retains jurisdiction even after the stated period has passed."
+    },
+    {
+      "q": "Is an order passed by an Additional District Magistrate instead of the District Magistrate invalid?",
+      "a": "No. The Supreme Court in R.D. Jain & Co. held that Section 14's reference to District Magistrate and Chief Metropolitan Magistrate includes their Additional counterparts, so an order passed by an Additional District Magistrate is valid."
+    },
+    {
+      "q": "What is the fastest way to stop physical possession under Section 14?",
+      "a": "File a Section 17 application before the Debts Recovery Tribunal with a specific request for interim stay, supported by documentary grounds such as a defective notice or incorrect dues computation, and ensure any interim order is placed before the Magistrate's office before the possession process is executed."
+    }
+  ],
+  "references": [
+    "Sections 13(2), 13(4), 14 and 17, Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002",
+    "Security Interest (Enforcement) Rules, 2002",
+    "C. Bright v. District Collector, Supreme Court, 2020 (time limit under Section 14 is directory)",
+    "Balkrishna Ram Tarle v. Phoenix ARC, Supreme Court, 2022 (ministerial role of the Magistrate)",
+    "R.D. Jain & Co. v. Capital First Ltd., Supreme Court, 2022 (Additional District Magistrate competence)"
+  ],
+  "sources": [
+    "https://www.casemine.com/commentary/in/supreme-court-upholds-ministerial-role-of-district-magistrate-under-section-14-of-sarfaesi-act/view",
+    "https://www.casemine.com/commentary/in/clarification-on-delegation-of-district-magistrate's-powers-under-section-14-of-sarfaesi-act/view",
+    "https://theindianlawyer.in/supreme-court-holds-statutory-time-limit-stipulated-under-sarfaesi-act-to-be-directory-in-nature/",
+    "https://www.casemine.com/in/column/analysis-of-section-14-of-the-sarfaesi-act,-2002/view"
+  ],
+  "verification_notes": "Confirmed the ministerial nature of the District Magistrate's role from Balkrishna Ram Tarle v. Phoenix ARC and the ADM/ACMM competence point from R.D. Jain & Co. v. Capital First Ltd. via Casemine commentary summaries. Confirmed the directory nature of the Section 14 timeline from C. Bright v. District Collector via The Indian Lawyer's 2020 summary. Described the 2026 Punjab and Haryana High Court order on timelines from a single secondary summary (TaxGuru) without a second independent source, and flagged it explicitly as a High Court directive specific to that bench rather than a settled nationwide rule. Did not state the exact day-count variant (30 plus 30 versus 30 plus further extensions) with more precision than sources supported."
+}
