@@ -1,0 +1,92 @@
+{
+  "slug": "standard-essential-patent-frand-dispute-guide",
+  "title": "Standard Essential Patent Disputes in India: What Ericsson v Lava and Philips v Bansal Actually Decided",
+  "meta_description": "How Delhi High Court FRAND royalty disputes work, what Ericsson v Lava awarded in 2024, and why Philips v Bansal in 2026 tightened proof requirements.",
+  "practice_area": "Intellectual Property",
+  "intro": [
+    "A device maker who gets a licensing demand letter from a patent holder claiming its technology is essential to a telecom or storage standard is in an unusual position compared to most patent disputes. The patent holder is not merely claiming infringement, it is claiming the implementer has no real choice but to use the patented technology because a technical standard requires it, and on that basis it wants a royalty calculated across potentially every unit the implementer has ever sold. Two recent Delhi High Court rulings, four years apart in facts but close in time in judgment, show how differently this can play out depending on how well each side actually proves its case.",
+    "Ericsson v. Lava, decided in 2024, produced the largest patent damages award in Indian history. Philips v. Bansal, decided by a Division Bench in 2026, went the other way entirely and set aside a long-standing royalty decree because the patent holder had not actually proved what it needed to prove. Reading the two together is a better education in how to run, or defend, an SEP case in India than either one on its own."
+  ],
+  "sections": [
+    {
+      "heading": "What Makes a Patent 'Standard Essential' in the First Place",
+      "paragraphs": [
+        "A standard essential patent, or SEP, is one that a device must necessarily use in order to comply with a published technical standard, such as a mobile telecommunications or optical disc standard set by a standards body. Because compliance with the standard is often commercially unavoidable for a manufacturer wanting to sell a compatible device, SEP holders typically commit to licensing their patents on fair, reasonable and non-discriminatory terms, usually shortened to FRAND, as a condition of having their technology included in the standard in the first place.",
+        "The commercial tension this creates is well known. The SEP holder has real negotiating leverage because the implementer cannot simply design around the patent without abandoning the standard altogether. Courts and regulators worldwide have tried to balance that leverage with the implementer's right not to be charged an excessive or discriminatory rate, and Indian courts have been developing their own approach to that balance largely through a handful of Delhi High Court cases."
+      ]
+    },
+    {
+      "heading": "Ericsson v Lava: A Record Award Built on Comparable Licences",
+      "paragraphs": [
+        "In a judgment delivered on 28 March 2024 by Justice Amit Bansal, the Delhi High Court held Lava liable to Ericsson for patent infringement across a set of standard essential patents, awarding damages of approximately rupees two hundred and forty four crore, together with interest at five per cent per annum. Of the eight suit patents, the court found seven valid and infringed, while one was held invalid for lack of novelty and for not being patentable subject matter, a reminder that even a successful SEP claimant does not necessarily win on every patent asserted.",
+        "The more significant part of the ruling for future cases was how the court set the royalty rate itself. Lava had argued that any royalty should be calculated on the smallest saleable patent-practising unit, essentially the chipset, rather than the full price of the finished phone. The court rejected that approach and calculated the royalty on the price of the end device, applying a rate of just over one per cent of the net selling price for the period the patents were in force. It preferred a comparable licences analysis, looking at what Ericsson had actually charged other licensees for similar patent portfolios, treating a top-down approach based on aggregate industry royalty rates as only a secondary cross-check rather than the primary method."
+      ]
+    },
+    {
+      "heading": "Philips v Bansal: The Same Court, a Much Stricter Standard of Proof",
+      "paragraphs": [
+        "A Division Bench of the Delhi High Court, in a judgment delivered 18 May 2026, took the opposite result on a different SEP dispute involving a DVD player patent. The appeal set aside a 2018 single judge decree that had required the appellants to pay Philips a FRAND royalty on every DVD player they manufactured or sold, along with punitive damages, which the Division Bench also quashed.",
+        "The reasoning turned entirely on proof. Philips had relied on essentiality certificates to show its patent was actually necessary to comply with the relevant DVD Forum standard, but the Division Bench held these certificates were not proved in accordance with Section 45 of the Indian Evidence Act, since no claim charts had been produced mapping the specific patent claims onto the specific requirements of the standard. Without that mapping properly proved as evidence, the court held essentiality itself had simply not been established, regardless of what the certificate asserted on its face.",
+        "Going further still, the Division Bench applied the doctrine of patent exhaustion under Section 107A(b) of the Patents Act, holding that because the appellants had acquired the patented components from authorised dealers in the market, Philips' patent rights over those specific components were already exhausted by that authorised sale, which independently defeated the royalty claim even apart from the essentiality finding."
+      ]
+    },
+    {
+      "heading": "Why These Two Results Are Not Actually in Tension",
+      "paragraphs": [
+        "It would be a mistake to read Ericsson v. Lava and Philips v. Bansal as the Delhi High Court simply changing its mind about how favourable Indian courts are to SEP holders. The two cases differ on exactly the point that decided them: Ericsson built a detailed evidentiary record of comparable licences and properly proved essentiality for most of its patents, while Philips' essentiality case rested on certificates that were never properly proved as evidence under the ordinary rules governing documents in Indian civil litigation. The lesson is less about a pendulum swinging between claimant-friendly and defendant-friendly eras, and more about the basic discipline of proving a claim properly regardless of how strong the commercial argument for essentiality might feel.",
+        "For an SEP holder bringing a claim in India, Philips v. Bansal is now a clear warning that essentiality certificates alone, without claim charts formally proved in evidence connecting the patent to the specific standard requirement, will not survive appellate scrutiny. For an implementer defending such a claim, it is a reminder to scrutinise exactly how the claimant has tried to prove essentiality, rather than assuming a certificate from a standards body settles the question."
+      ]
+    },
+    {
+      "heading": "What an Implementer Facing an SEP Demand Should Actually Do",
+      "paragraphs": [
+        "The first step on receiving a licensing demand is to request the specific claim charts mapping the asserted patent to the relevant clauses of the standard, rather than accepting a general assertion of essentiality at face value. Where litigation follows, the defence should test not just the technical essentiality argument but whether the patent holder's own documentary proof of essentiality would actually survive the kind of scrutiny applied in Philips v. Bansal, since a weak paper trail on essentiality can be a complete defence even where the underlying technology genuinely is used in the product.",
+        "Where essentiality is not seriously in doubt and the real dispute is only over rate, Ericsson v. Lava shows that comparable licences, meaning what the patent holder has actually charged other similarly placed licensees, will usually carry more weight with an Indian court than an implementer's preferred smallest-saleable-unit calculation. Building a record of what comparable licensees paid, and why the circumstances of those licences are or are not comparable to the implementer's own position, is where a rate dispute is actually won or lost."
+      ]
+    },
+    {
+      "heading": "Further Appeals Are Still in Play",
+      "paragraphs": [
+        "Reports following the Philips v. Bansal judgment indicate Philips has challenged the Division Bench's reversal before the Supreme Court, including on the essentiality, infringement, exhaustion and damages-calculation findings. The current reported status of that challenge was not confirmed at the time this guide was prepared, so the Division Bench's ruling, while the latest word from the Delhi High Court on this specific dispute, may not be the final word in the underlying case. Anyone relying on it for a live matter should check whether the Supreme Court has disposed of the special leave petition before treating its reasoning as settled beyond challenge.",
+        "This uncertainty cuts both ways for parties currently negotiating or litigating SEP licences elsewhere. A licensor cannot simply dismiss Philips v. Bansal as an outlier decision likely to be overturned, since the Supreme Court has not yet said anything of the kind, and an implementer cannot treat it as a permanently settled ceiling on what proof will be required, since the apex court could still take a different view on the exhaustion or essentiality findings once it actually hears the matter. The sensible course for anyone relying on the decision in active drafting or litigation is to track the special leave petition's progress rather than treat either outcome as fixed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does an essentiality certificate from a standards body settle the question of whether a patent is standard essential?",
+      "a": "Not by itself, after Philips v. Bansal. The certificate still has to be proved as evidence, typically through claim charts mapping the specific patent claims to the specific standard requirements, and proved in accordance with the Evidence Act. A certificate alone, without that underlying proof, was held insufficient."
+    },
+    {
+      "q": "Should an SEP royalty be calculated on the chipset price or the full price of the finished device?",
+      "a": "Ericsson v. Lava rejected calculating the royalty only on the smallest saleable patent-practising unit (the chipset) and instead calculated it on the end device's net selling price, relying on a comparable licences analysis rather than the implementer's preferred unit-based method."
+    },
+    {
+      "q": "If we bought components containing a patented feature from an authorised dealer, can the patent holder still claim a royalty from us on the finished product?",
+      "a": "Philips v. Bansal held that acquiring patented components from authorised dealers in the market can exhaust the patent holder's rights over those specific components under Section 107A(b) of the Patents Act, which can defeat a royalty claim on products built using them, independent of any essentiality argument."
+    },
+    {
+      "q": "How much did Ericsson actually recover from Lava, and over what period?",
+      "a": "The Delhi High Court awarded Ericsson approximately rupees two hundred and forty four crore in damages plus interest at five per cent per annum, with the royalty rate applied for the period the patents were found to be in force, from November 2011 to May 2020."
+    },
+    {
+      "q": "Is Philips v. Bansal the final word on this DVD patent dispute?",
+      "a": "Not necessarily. Reports indicate Philips has taken the Division Bench's ruling to the Supreme Court. The current status of that appeal was not confirmed when this guide was prepared, so the position could still change."
+    }
+  ],
+  "references": [
+    "Patents Act, 1970, Section 107A(b)",
+    "Indian Evidence Act, 1872, Section 45",
+    "Ericsson v. Lava International, Delhi High Court, judgment dated 28 March 2024 (Bansal, J.)",
+    "Rajesh Bansal and K.K. Bansal v. Koninklijke Philips N.V., Delhi High Court, Division Bench, RFA (OS) (COMM) 17/2018 and 18/2018, judgment dated 18 May 2026"
+  ],
+  "sources": [
+    "https://www.scconline.com/blog/post/2024/04/06/dhc-awards-rs-244-crore-damages-to-ericsson-against-lava-for-patent-infringement-legal-news/",
+    "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-awards-244-crores-damages-ericsson-suit-lava-patents-infringement-254258",
+    "https://ssrana.in/articles/delhi-high-court-sets-aside-philips-dvd-sep-royalty-decree-essentiality-frand-patent-exhaustion-clarified/",
+    "https://spicyip.com/2026/05/breaking-breakthrough-for-indias-sep-jurisprudence-in-new-philips-v-rajesh-bansal-ruling.html",
+    "https://www.maheshwariandco.com/press-release/delhi-hc-sep-patent-exhaustion-ruling-2026/",
+    "https://www.bananaip.com/intellepedia/?p=149616"
+  ],
+  "verification_notes": "Ericsson v Lava facts (judgment date 28 March 2024, Justice Amit Bansal, damages of approximately Rs 244 crore plus 5% interest, 7 of 8 patents upheld, royalty rate of approximately 1.05% on end-device net selling price applied November 2011 to May 2020, comparable licences preferred over top-down cross-check) are confirmed across SCC Online, LiveLaw and other secondary sources. Philips v Bansal facts (Division Bench of C. Hari Shankar and Om Prakash Shukla JJ, judgment dated 18 May 2026, case numbers RFA (OS) (COMM) 17/2018 and 18/2018, essentiality certificates not proved under Evidence Act Section 45 for lack of claim charts, patent exhaustion applied under Section 107A(b), punitive damages of Rs 5,00,000 quashed) are confirmed from ssrana.in, spicyip.com and maheshwariandco.com, three independent secondary sources. The report that Philips has filed a special leave petition before the Supreme Court challenging the Division Bench ruling is sourced from a single secondary mention and its current status could not be confirmed, so the guide explicitly flags this as unconfirmed and advises checking current status rather than asserting the appeal's outcome or even that it has been admitted. No neutral/official citation number was found for either judgment in the sources reviewed; references use party names, court, bench and date only, and the Ericsson v Lava case number is not stated since it was not confirmed in results."
+}

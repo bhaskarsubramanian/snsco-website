@@ -1,0 +1,89 @@
+{
+  "slug": "ppa-termination-discom-payment-default-guide",
+  "title": "Can a Generator Terminate a Power Purchase Agreement Over a Discom's Repeated Payment Default?",
+  "meta_description": "What a generator must show to terminate a PPA over a discom's persistent payment default, per APTEL's 2024 Vaayu and Vishwind wind power ruling.",
+  "practice_area": "Power, Energy & Mining",
+  "intro": [
+    "A generator stuck for years with a distribution company that pays late, pays short, or simply does not pay at all eventually has to decide whether to keep chasing receivables under a power purchase agreement that is slowly destroying its cash flow, or to terminate the agreement and try to sell its power elsewhere. That decision is rarely as simple as the contract's termination clause suggests, because a regulator and, on appeal, the Appellate Tribunal for Electricity will look closely at whether the default was persistent and substantial enough to justify termination rather than some lesser remedy.",
+    "A December 2024 ruling of the Appellate Tribunal for Electricity, upholding two Andhra Pradesh wind power generators' right to terminate their PPAs over a discom's sustained payment defaults, is a useful recent marker of how that question actually gets decided, and what a generator needs on record before it can expect the same outcome."
+  ],
+  "sections": [
+    {
+      "heading": "Why Termination Is Not the Generator's Automatic Right",
+      "paragraphs": [
+        "A power purchase agreement typically sets out specific events of default and a cure period before termination becomes available, and both the State Electricity Regulatory Commission and APTEL treat a generator's decision to terminate as something that has to be tested against the contract and against the regulatory framework, not simply accepted because the generator says the discom defaulted. Discoms are treated as entities performing an essential public function, supplying power to consumers who have no say in the underlying commercial dispute, and regulators are understandably cautious about actions that could disrupt that supply, even where the discom's own conduct caused the dispute in the first place.",
+        "This means a generator cannot usually terminate on the back of a single missed payment or a short-term delay. What tends to matter is a pattern: repeated defaults over an extended period, a clear paper trail of notices and demands that went unanswered or unresolved, and, usually, a formal default notice followed by a further opportunity to cure before the generator actually issues a termination notice."
+      ]
+    },
+    {
+      "heading": "What Happened in the Andhra Pradesh Wind Power Case",
+      "paragraphs": [
+        "Two wind energy generators, Vaayu (India) Power Corporation, operating a 50.4 MW project, and Vishwind Infrastructure, operating a 7.2 MW project, both in Kurnool district, had power purchase agreements with the Southern Power Distribution Company of Andhra Pradesh Limited (APSPDCL). Both generators issued preliminary termination notices in early 2023 citing continued payment defaults by the discom, defaults that the Andhra Pradesh Electricity Regulatory Commission had itself previously acknowledged. After the cure period passed without resolution, the generators formally terminated their PPAs and sought no-objection certificates to sell their power through open access instead.",
+        "The State Commission's orders of 20 December 2023, allowing the terminations and the no-objection certificates for open access, were challenged on appeal by APSPDCL together with the Andhra Pradesh Power Coordination Committee and the state transmission utility. By a judgment dated 18 December 2024 in APL No. 200 and 201 of 2024, the Appellate Tribunal dismissed those appeals, upholding the State Commission's findings that persistent payment default by the discom justified the terminations, and confirming the generators' right to sell their power under open access arrangements. The two projects together total 57.6 MW, and the power purchase agreements had fixed a tariff of rupees 3.50 per unit for the first ten years."
+      ]
+    },
+    {
+      "heading": "The Role of the Regulatory Commission's Own Prior Findings",
+      "paragraphs": [
+        "A detail worth noting in this case is that the payment defaults being relied on for termination were not simply the generators' own characterisation of events. The Andhra Pradesh Electricity Regulatory Commission had itself previously identified and acknowledged the discom's defaults in earlier proceedings, which gave the generators' termination case a documented, regulator-endorsed foundation to rely on rather than a purely self-asserted claim of default.",
+        "This is a practical lesson independent of the specific facts of the Andhra Pradesh dispute. A generator building a termination case is in a much stronger position if the discom's defaults have already been raised before the regulatory commission in some earlier proceeding, whether a tariff petition, a compliance review, or a separate default-related application, rather than first being asserted at the point of termination itself. A paper trail that includes the regulator's own acknowledgment of the pattern carries real weight later."
+      ]
+    },
+    {
+      "heading": "What a Generator Should Have on Record Before Terminating",
+      "paragraphs": [
+        "Before issuing a termination notice, a generator should be able to show a documented sequence: specific invoices or payment obligations that were missed, formal notices sent to the discom flagging each default as it occurred rather than accumulated quietly, a preliminary or default notice under the PPA's own termination clause giving the discom a defined opportunity to cure, and, where available, some independent acknowledgment of the pattern, whether from the regulatory commission or from the discom's own correspondence admitting arrears.",
+        "Generators sometimes undermine their own termination case by continuing to supply power and accept partial or delayed payments for an extended period without ever formally flagging each instance as a default under the contract, only to try to rely on that same history retrospectively once they decide termination is the better commercial option. Treating each missed payment as a contractual event in real time, rather than reconstructing a narrative of persistent default after the fact, puts a generator in a far stronger position if the matter ends up before the regulatory commission or APTEL.",
+        "A discom resisting termination will often argue that it has since cleared the arrears and the default should therefore be treated as cured. In the Andhra Pradesh case, APSPDCL made exactly this argument, pointing to payments made after the termination notices. The Tribunal rejected it, holding in substance that a later payment of overdue bills does not retrospectively cure a default that had already occurred and had already triggered the generator's right to terminate. A generator should be ready for this argument and should keep its termination notice and the underlying default history clearly dated, so that any later payment by the discom can be shown to have come after the right to terminate had already accrued."
+      ]
+    },
+    {
+      "heading": "What Happens After Termination: Open Access and Resale",
+      "paragraphs": [
+        "A generator that successfully terminates a PPA is not left with stranded power. The Andhra Pradesh case confirms that generators can, after a valid termination, seek a no-objection certificate and sell their output through open access arrangements to other buyers, which is often the entire commercial point of terminating in the first place, particularly for a renewable generator who can usually find alternative buyers at a workable price given continuing demand for green power.",
+        "Planning this route well requires starting the open access application process in parallel with the termination process where the applicable state regulations permit it, rather than waiting for the termination to be fully resolved and then starting an entirely sequential open access process, since the delay between losing one buyer and securing open access to another can be commercially costly for a project that depends on continuous revenue."
+      ]
+    },
+    {
+      "heading": "A Note of Caution on How Far This Precedent Travels",
+      "paragraphs": [
+        "This is a December 2024 Appellate Tribunal ruling on a specific set of facts in Andhra Pradesh, and no Supreme Court or more recent appellate decision confirming or extending its reasoning was found at the time this guide was prepared. A generator relying on it in another state should expect the discom to argue that its own facts, cure periods, and regulatory history are different, and should not assume the outcome will automatically repeat itself. The underlying principle, that persistent and regulator-acknowledged default can justify termination, is sound, but the strength of any particular generator's case still depends heavily on how well its own default and notice history has actually been documented.",
+        "It is also worth remembering that this was an appeal against a discom's resistance to a termination the state regulatory commission had already allowed, not a case where APTEL was asked to approve a termination for the first time without any prior regulatory finding. A generator whose discom has not yet faced any formal regulatory acknowledgment of default is in a weaker starting position than Vaayu and Vishwind were, and should focus first on building that kind of regulatory record before assuming a termination notice alone will be treated the same way on appeal."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can we terminate our PPA after the discom missed one quarterly payment?",
+      "a": "Unlikely on that alone. Regulators and APTEL have generally required a pattern of persistent default, proper default notices, and an opportunity to cure under the PPA's own termination mechanism, rather than treating a single missed payment as sufficient grounds for termination."
+    },
+    {
+      "q": "Does it help our case if the state regulatory commission has already acknowledged the discom's payment defaults in another proceeding?",
+      "a": "Yes, substantially. In the Andhra Pradesh wind power case, the generators relied on defaults the state commission had already identified in earlier proceedings, which gave their termination case a documented foundation rather than resting only on the generators' own account of events."
+    },
+    {
+      "q": "After we terminate the PPA, can we immediately sell our power to someone else?",
+      "a": "In the Andhra Pradesh case, APTEL upheld the generators' ability to seek a no-objection certificate and sell power through open access arrangements after a valid termination. Starting the open access process in parallel with termination, rather than only after it concludes, generally reduces the revenue gap in between."
+    },
+    {
+      "q": "What is the single biggest mistake generators make before trying to terminate a PPA for discom default?",
+      "a": "Continuing to accept delayed or partial payments for a long period without formally documenting each missed payment as a default under the contract, then trying to rely on that same history retrospectively. Treating each default as a contractual event in real time builds a far stronger record."
+    },
+    {
+      "q": "Is this Andhra Pradesh ruling binding on a dispute with a discom in a different state?",
+      "a": "Not directly. It is an APTEL ruling on specific facts, including a regulator's own acknowledgment of default in that state's proceedings. It is persuasive but a discom elsewhere can and likely will argue its own facts and cure-period compliance are different."
+    }
+  ],
+  "references": [
+    "Electricity Act, 2003 (power purchase agreement and open access framework)",
+    "Andhra Pradesh Electricity Regulatory Commission orders dated 20 December 2023",
+    "Southern Power Distribution Company of Andhra Pradesh Ltd. and Others v. Vaayu (India) Power Corporation Pvt. Ltd. and Vishwind Infrastructure, Appellate Tribunal for Electricity, APL No. 200 and 201 of 2024, judgment dated 18 December 2024"
+  ],
+  "sources": [
+    "https://www.mercomindia.com/aptel-power-generators-order-wind-companies",
+    "https://skvlawoffices.com/case-update-appellate-tribunal-for-electricity-upholds-termination-of-wind-energy-ppas-and-allows-open-access-for-sale-of-wind-power/",
+    "https://aptel.gov.in/sites/default/files/2024-12/Dec%20Judgment%20%20in%20APL%20No.%20200%20&%20201%20of%202024-18th%20dec.pdf",
+    "https://subscription.mercomindia.com/daily-news-wrap-up-aptel-upholds-wind-power-firms-right-to-terminate-ppas"
+  ],
+  "verification_notes": "The core facts of the APTEL ruling (two Andhra Pradesh wind generators, Vaayu India Power Corporation at 50.4 MW and Vishwind Infrastructure at 7.2 MW, together 57.6 MW, in Kurnool district, PPAs with APSPDCL at a tariff of Rs 3.50/unit for the first 10 years, preliminary termination notices in early 2023 over payment defaults previously identified by APERC, formal termination, and the APTEL judgment in APL No. 200 and 201 of 2024 dated 18 December 2024 upholding the terminations and the right to sell via open access) are independently confirmed by two separate sources, Mercom India and SKV Law Offices, and corroborated by the Tribunal's own judgment PDF published on the APTEL website, which was located and used as the primary source for the case number and date. The point that APSPDCL argued subsequent payment of arrears should cure the default, and that the Tribunal rejected this, is confirmed from the SKV Law Offices case update. The appeals were filed by APSPDCL together with the Andhra Pradesh Power Coordination Committee and the state transmission utility against the State Commission's orders of 20 December 2023; this is confirmed from the same two sources. No 2025 or later APTEL or Supreme Court decision applying or distinguishing this ruling was found, and the guide explicitly cautions readers against assuming the precedent travels automatically to other states or discoms. Older related Karnataka and CERC proceedings and an unrelated Mercom report on a separate Andhra Pradesh wind PPA cancellation dispute that appeared in search results are not relied upon for any factual claim in this guide, since they concern different proceedings."
+}
