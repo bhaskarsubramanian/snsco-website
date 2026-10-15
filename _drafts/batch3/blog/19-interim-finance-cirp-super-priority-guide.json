@@ -1,0 +1,80 @@
+{
+  "slug": "interim-finance-cirp-super-priority-guide",
+  "title": "Interim Finance During CIRP: Why It Jumps the Queue and What a Lender Must Get Right First",
+  "meta_description": "Why interim finance lent during a company's CIRP ranks ahead of almost everyone else, and the approvals a lender needs before relying on that priority.",
+  "practice_area": "IBC & Insolvency",
+  "intro": [
+    "A company goes into insolvency resolution and immediately has a cash problem that has nothing to do with the debts that put it there. Payroll still has to run, raw material has to be bought, plant has to stay maintained, and none of the company's existing lenders particularly want to advance fresh money into a business already under a moratorium with an uncertain future. Interim finance exists to solve exactly this problem, and it does so by offering a lender something no ordinary loan can: a place at the very front of the repayment queue, ahead of financial creditors who have been owed money for years.",
+    "That priority is powerful enough that resolution professionals, committees of creditors and prospective lenders all treat interim finance decisions with real care, because getting the approval chain wrong can turn what looked like a safe, super-priority loan into a contested claim stuck behind everyone else. This guide sets out why the priority exists, how it is actually secured procedurally, and what a lender should check before writing the cheque."
+  ],
+  "sections": [
+    {
+      "heading": "What interim finance actually is, and why it exists",
+      "paragraphs": [
+        "Section 5(15) of the Insolvency and Bankruptcy Code, 2016 defines interim finance as any financial debt raised by the resolution professional during the corporate insolvency resolution process, and, following the 2025 amendments, this now extends to the pre-packaged insolvency resolution process as well. The resolution professional, not the company's existing management, is the one who raises it, which reflects the basic architecture of CIRP: once the process begins, the resolution professional runs the company's affairs under the committee of creditors' oversight, and any fresh borrowing goes through that same chain of authority rather than through whatever credit lines the company had before insolvency.",
+        "The need is practical rather than theoretical. A corporate debtor under a moratorium cannot simply draw down an old working capital facility the way it could before insolvency, existing lenders are often unwilling to extend further exposure to a company already in default, and the resolution professional needs working capital to keep the business running as a going concern, since a business that cannot pay its staff or suppliers during CIRP loses the very value a resolution plan is trying to preserve. Interim finance is the mechanism built to bridge that gap."
+      ]
+    },
+    {
+      "heading": "The super-priority: where interim finance actually sits in the waterfall",
+      "paragraphs": [
+        "Section 5(13)(a) of the Code defines insolvency resolution process costs to include the amount of any interim finance and the costs incurred in raising it. That single definitional move is what gives interim finance its priority, because insolvency resolution process costs sit at the very top of the distribution waterfall under Section 53(1)(a) in liquidation, ahead of secured creditors, workmen's dues, and every other category listed below it, and the same costs are also required to be paid in priority under Section 30(2)(a) when a resolution plan is approved during CIRP itself.",
+        "This is a deliberate design choice and not an accident of drafting. Unlike some other insolvency regimes, where a court or tribunal decides case by case whether to grant a new lender super-priority status, the Indian Code grants it automatically by definition, as long as the finance genuinely qualifies as interim finance raised by the resolution professional during CIRP. A lender does not need to separately apply to the Adjudicating Authority for priority status the way a debtor-in-possession lender might elsewhere. The priority exists the moment the finance is properly raised and properly categorised, which is also exactly why getting the categorisation and the approval trail right matters so much."
+      ]
+    },
+    {
+      "heading": "The approval the resolution professional actually needs",
+      "paragraphs": [
+        "A resolution professional cannot raise interim finance unilaterally for any amount the business might plausibly need. Section 28 of the Code requires the committee of creditors' approval for raising interim finance beyond amounts the resolution professional is otherwise authorised to approve on their own, and that approval has to clear the Code's voting threshold, which commentary consistently describes as requiring a vote of at least sixty-six per cent of the voting share of the committee of creditors for this category of decision. Without that approval properly recorded, a lender's claim to the interim finance priority becomes vulnerable to challenge later, precisely at the point when the resolution plan is being finalised and every rupee of the waterfall is being fought over.",
+        "The 2025 amendments to the CIRP Regulations added Regulation 18(5), which lets the resolution professional invite interim finance providers to attend committee of creditors meetings as observers, without voting rights, at the committee's discretion. This is a practical, relatively small change, but it reflects a real concern the market had been raising, that lenders extending interim finance were often kept entirely in the dark about the committee's deliberations despite having real money at risk, with no visibility into the process until the finance had already been drawn down."
+      ]
+    },
+    {
+      "heading": "Where lenders actually get this wrong",
+      "paragraphs": [
+        "The most common failure is treating money advanced informally, or advanced before the committee of creditors' approval was properly obtained and minuted, as automatically carrying interim finance priority. If the resolution professional's authority to raise that specific amount was not properly backed by committee approval at the time the finance was advanced, a later challenge to that characterisation during resolution plan approval or liquidation distribution has real force, and a lender who assumed super-priority status going in can find itself arguing from a much weaker position than it expected.",
+        "A second recurring issue is documentation that does not clearly tie the advance to the CIRP itself. Interim finance has to be finance raised by the resolution professional during the corporate insolvency resolution process for the purposes of that process. A facility structured ambiguously, especially one that blends pre-existing exposure with fresh money, or one where the loan documentation does not clearly identify the resolution professional as the party raising the debt on the corporate debtor's behalf, invites exactly the kind of dispute that erodes the priority's practical value, however clear the statutory entitlement looks on paper."
+      ]
+    },
+    {
+      "heading": "What a lender should actually check before advancing interim finance",
+      "paragraphs": [
+        "Confirm and keep a clear paper trail of the committee of creditors' specific approval for the amount and terms being advanced, including the recorded vote share, since this is the single document most likely to be scrutinised later if the priority is ever challenged. Where the committee has exercised its discretion under the 2025 amendment to invite the lender to observe meetings, attend and keep a record of that participation, since it strengthens the evidentiary picture that the finance was raised transparently and with the committee's genuine knowledge.",
+        "Structure the facility documentation so that it unambiguously identifies the resolution professional as raising the debt on the corporate debtor's behalf for the purposes of the CIRP, keep it entirely separate from any pre-existing facility or exposure the lender may already have to the same corporate debtor, and avoid blending old and new money in a single restructured facility, since that blending is exactly what invites an argument that the 'interim finance' label does not genuinely describe the full amount being claimed as having super-priority status."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does interim finance automatically rank ahead of secured creditors?",
+      "a": "Yes, as long as it genuinely qualifies as interim finance under Section 5(15), raised by the resolution professional during CIRP. Section 5(13)(a) includes it within insolvency resolution process costs, which rank first in the Section 53(1)(a) liquidation waterfall, ahead of secured creditors and every category below."
+    },
+    {
+      "q": "Does a lender need to apply to the NCLT to get interim finance priority recognised?",
+      "a": "No. Unlike some foreign insolvency regimes where a court grants super-priority status case by case, the Indian Code confers the priority automatically by definition once the finance genuinely qualifies as interim finance properly raised during CIRP, without a separate application to the Adjudicating Authority."
+    },
+    {
+      "q": "What approval does a resolution professional need before raising interim finance?",
+      "a": "Beyond amounts the resolution professional is independently authorised to approve, Section 28 of the Code requires the committee of creditors' approval, which commentary describes as needing at least a sixty-six per cent vote share. Without a properly recorded approval, the priority status of the finance can be challenged later."
+    },
+    {
+      "q": "Can an interim finance lender attend committee of creditors meetings?",
+      "a": "The CIRP Regulations, as amended in 2025, added Regulation 18(5), allowing the resolution professional to invite interim finance providers to attend committee meetings as non-voting observers, at the committee's discretion, giving lenders some visibility into the process they did not have before."
+    },
+    {
+      "q": "What is the biggest risk to a lender extending interim finance?",
+      "a": "The biggest risk is advancing money without a clear, properly minuted committee of creditors approval tied specifically to that amount and those terms. If the approval trail is weak or the facility documentation blends old and new exposure, the super-priority characterisation can be challenged later, exactly when the resolution plan or liquidation distribution is being finalised."
+    }
+  ],
+  "references": [
+    "Insolvency and Bankruptcy Code, 2016, Sections 5(13), 5(15), 28, 30(2)(a) and 53(1)(a)",
+    "IBBI (Insolvency Resolution Process for Corporate Persons) Regulations, 2016, Regulation 18(5) (inserted by the 2025 amendments)",
+    "Insolvency and Bankruptcy Code (Amendment), 2025 (extension of interim finance treatment to pre-packaged insolvency resolution process)"
+  ],
+  "sources": [
+    "https://indiacorplaw.in/2020/05/06/super-priority-financing-an-opportunity-in-a-crisis/",
+    "https://bhattandjoshiassociates.com/interim-finance-to-fund-cirp-process-provisions-regulations-and-case-judgments",
+    "https://ccl.nluo.ac.in/post/cirp-amendments-2025-another-step-towards-faster-and-fairer-resolutions"
+  ],
+  "verification_notes": "Confirmed from at least two sources each: the Section 5(13)(a)/5(15) definitional link giving interim finance its priority within insolvency resolution process costs, and its ranking under Section 53(1)(a) and Section 30(2)(a) (IndiaCorpLaw's Super Priority Financing article and Bhatt & Joshi Associates' interim finance analysis, which both describe the same statutory chain in materially consistent terms); the Section 28 committee of creditors approval requirement and the sixty-six per cent voting threshold (Bhatt & Joshi Associates and the general commentary consistent with Section 28's known structure); and the 2025 amendment inserting Regulation 18(5) allowing interim finance providers to attend as non-voting observers (NLUO Centre for Corporate Law's CIRP Amendments 2025 article, cross-checked against Bhatt & Joshi Associates' description of the same 2025 changes). Left out: a named recent NCLAT or Supreme Court ruling specifically adjudicating an interim finance priority dispute, since the one case reference found in search results (Sajeve Bhushan Deora v. Axis Bank) could not be confirmed with a second independent source describing its holding, and the exact current wording of the Section 28 voting threshold, which should be checked against the Code's current text before being cited in a filing."
+}
