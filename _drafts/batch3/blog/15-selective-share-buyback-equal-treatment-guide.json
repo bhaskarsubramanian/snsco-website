@@ -1,0 +1,81 @@
+{
+  "slug": "selective-share-buyback-equal-treatment-guide",
+  "title": "Can a Company Buy Back Shares From Only Some Shareholders? Why 'Selective' Buybacks Don't Work",
+  "meta_description": "Why Indian company law and SEBI's buyback regulations rule out buying back shares from only chosen shareholders, and what routes actually exist instead.",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "A promoter group wanting to quietly exit a disgruntled minority shareholder, or a board wanting to buy out a particular founder's stake without opening the offer to everyone else, often starts from the same assumption: the company can simply buy back shares from that one shareholder through a privately negotiated price. It is a reasonable commercial instinct, and it runs straight into a wall the moment anyone actually checks the Companies Act and the SEBI buyback regulations.",
+    "Indian law does not recognise a 'selective' buyback in the sense most promoters mean it. A buyback under Section 68 of the Companies Act, 2013 is built around offering every eligible shareholder, or every shareholder in the relevant class, the same opportunity on the same terms. What founders and boards actually want, a clean, targeted exit for one particular holder, has to be done through a different legal route entirely, and picking the wrong one creates real exposure for the company and its directors."
+  ],
+  "sections": [
+    {
+      "heading": "Section 68's basic architecture assumes everyone gets the same offer",
+      "paragraphs": [
+        "Section 68 permits a company to buy back its own shares and other specified securities out of its free reserves, the securities premium account, or the proceeds of a fresh issue, subject to conditions in Section 68(2), including the twenty-five per cent cap on the aggregate of paid-up capital and free reserves, board or shareholder approval depending on the size of the buyback, and a declaration of solvency. None of this machinery is built around a single, chosen seller. It is built around an offer that goes out to the shareholder base as a whole.",
+        "This is reinforced by how a listed company's buyback actually has to be executed under the SEBI (Buy-Back of Securities) Regulations, 2018. The two permitted routes for a listed company are the tender offer route, where every eligible shareholder gets the chance to tender shares on a proportionate basis against the company's offer, and the open market route, executed through the stock exchange mechanism or a book-building process, where the company cannot know or control whose shares it ends up buying. Neither route lets a company simply walk up to one shareholder and agree a private buyback price."
+      ]
+    },
+    {
+      "heading": "The specific regulatory bar on negotiated or private buybacks",
+      "paragraphs": [
+        "SEBI's 2018 Regulations go further than just setting out proportionate routes. The conditions provision in the Regulations bars a company from buying back its shares or other specified securities from any person through negotiated deals, whether on or off a stock exchange, through spot transactions, or through any private arrangement. This single line is the direct answer to the promoter who wants to approach one large or inconvenient shareholder privately and agree a buyback price away from everyone else.",
+        "The practical effect is that a company genuinely cannot structure a buyback as a one-to-one transaction with a chosen shareholder, however commercially sensible that might look on paper. Attempting to dress up a privately negotiated exit as a Section 68 buyback, for instance by timing an open market buyback to coincide with an informal understanding that a particular shareholder will sell into it, invites scrutiny of exactly that kind, and SEBI has shown no appetite for letting the proportionate and open market safeguards be worked around through side arrangements."
+      ]
+    },
+    {
+      "heading": "The odd-lot and small-shareholder exceptions, and why they are narrower than they sound",
+      "paragraphs": [
+        "Some buyback structures do, at first glance, look targeted. A buyback aimed at odd-lot holders, or one that reserves a portion of the offer for small shareholders under the SEBI regulations, singles out a defined category of holders rather than treating the whole shareholder base identically. This can create the impression that selective buybacks are possible after all.",
+        "They are not selective in the sense a promoter usually wants. These carve-outs are defined by objective, size-based criteria applied uniformly to everyone who happens to fall into that category, such as every shareholder holding fewer than a marketable lot, not by the company's or promoter's preference for one named individual. A company cannot define its own ad hoc category that conveniently describes only the one shareholder it wants to buy out, and any such categorisation would face the same objection as a direct negotiated deal, that it defeats the proportionate and equal-opportunity structure the regulations are built around."
+      ]
+    },
+    {
+      "heading": "What actually works: the alternatives to a Section 68 buyback",
+      "paragraphs": [
+        "If the real commercial goal is to exit one shareholder, or a defined small group, without touching everyone else's holding, the honest route is usually a private share transfer, where another shareholder, the promoter group, or an outside investor buys that specific stake directly at a negotiated price. This sits entirely outside Section 68 and the buyback regulations, because the company is not the purchaser and no buyback machinery is being used at all. The price, timing and structure can be whatever the parties agree, subject only to the company's articles, any shareholders' agreement, and applicable FEMA or stamp duty rules if a non-resident or cross-border element is involved.",
+        "Where the company itself needs to be the purchaser, a reduction of share capital under Section 66, approved by special resolution and sanctioned by the NCLT, can be structured to extinguish a specific shareholder's shares, and unlike a buyback this route is explicitly designed to be targeted since the NCTL process examines exactly whose shares are being extinguished and on what terms. It is slower and more procedurally heavy than a buyback, involving creditor notice and NCLT approval, but it is the route that actually tolerates doing what a 'selective buyback' was trying to achieve."
+      ]
+    },
+    {
+      "heading": "Why this matters for drafting and for the board's own protection",
+      "paragraphs": [
+        "Directors who approve a buyback that is structured, even informally, to benefit one shareholder's exit over others expose themselves to the argument that the transaction was not bona fide, which can affect the validity of the buyback itself and the directors' own position under the Companies Act's general fiduciary duty provisions. A shareholder who was not given a fair opportunity to participate in what was formally described as an open buyback has a real grievance, and oppression and mismanagement petitions before the NCLT have been built around exactly this kind of complaint in other contexts involving unequal treatment of shareholders.",
+        "The safer drafting approach, where the commercial need is a targeted exit, is to be upfront about which route is actually being used. Document a private share transfer as a share transfer, with its own valuation and approval process, and do not dress it up as a company buyback merely because the funds happen to flow through the company's treasury or because the parties want buyback-style tax treatment. Where capital reduction is the right tool, use Section 66 openly, since the NCLT route exists precisely to give targeted extinguishment of specific shares a legitimate, supervised path."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a private limited company do a buyback from just one shareholder it wants to exit?",
+      "a": "Not as a Section 68 buyback in the ordinary sense. The buyback conditions and process are built around offering the same opportunity to the relevant shareholder class, and SEBI's negotiated-deal bar (for listed companies) reflects the same underlying principle. A direct private share transfer, outside the buyback framework, is usually the correct route for a one-shareholder exit."
+    },
+    {
+      "q": "What is the actual bar on negotiated buybacks under SEBI's regulations?",
+      "a": "The SEBI (Buy-Back of Securities) Regulations, 2018 prohibit a company from buying back shares from any person through negotiated deals, whether on or off the stock exchange, through spot transactions, or through any private arrangement. This closes off exactly the route a promoter might otherwise try, agreeing a private buyback price with one chosen shareholder."
+    },
+    {
+      "q": "If small shareholders get a reserved portion of a buyback, isn't that already a selective buyback?",
+      "a": "No, because that carve-out applies to everyone who objectively falls within the small-shareholder or odd-lot category, not to a company's chosen individual. A company cannot define its own category to describe only the shareholder it wants to target, since that would defeat the same proportionate-treatment principle the regulations are built on."
+    },
+    {
+      "q": "What should a company actually do if it wants to buy out one founder's shares without touching everyone else's?",
+      "a": "Structure it as a direct, negotiated share transfer to another shareholder, the promoter group, or an outside investor, which sits outside Section 68 entirely, or use a Section 66 capital reduction sanctioned by the NCLT if the company itself needs to be the purchaser and the shares need to be extinguished rather than transferred."
+    },
+    {
+      "q": "What risk does a board run if it structures a buyback to informally favour one shareholder's exit?",
+      "a": "Directors risk the buyback being challenged as not bona fide, and an affected shareholder who was effectively excluded from an equal opportunity has grounds to raise the unequal treatment, including potentially as part of an oppression and mismanagement complaint before the NCLT."
+    }
+  ],
+  "references": [
+    "Companies Act, 2013, Sections 66, 68 and 70",
+    "SEBI (Buy-Back of Securities) Regulations, 2018, Regulation 4 (conditions for buy-back, including the bar on negotiated deals and private arrangements)",
+    "SEBI (Buy-Back of Securities) Regulations, 2018 (tender offer and open market routes; small shareholder reservation)"
+  ],
+  "sources": [
+    "https://www.asianlaws.org/blog/?p=2770",
+    "https://bhattandjoshiassociates.com/sebi-buyback-of-securities-regulations-2018-a-comprehensive-analysis/",
+    "https://www.sebi.gov.in/sebi_data/attachdocs/1465454225266.pdf",
+    "https://old.wirc-icai.org/images/material/Buyback-Arungoenka.pdf"
+  ],
+  "verification_notes": "Confirmed from at least two sources each: the negotiated deals and private arrangement bar under the SEBI 2018 Regulations' conditions provision (Asian Laws guide and Bhatt & Joshi Associates analysis both state the same prohibition in near-identical language); the tender offer and open market routes and the proportionate-basis requirement for tender offers (multiple SEBI public announcement filings and the WIRC ICAI buyback presentation). The exact regulation number for the negotiated-deals bar is given as Regulation 4 based on the Asian Laws guide, but the official SEBI consolidated text was not opened directly to confirm current sub-clause numbering after the 2024 amendment, so this should be checked against the current SEBI text before citing in a filing. Left out: any claim about a specific reported Indian case where a buyback was actually struck down on these grounds, since no such case turned up in search results."
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "probationer-termination-motive-foundation-guide",
+  "title": "Terminating a Probationer: When a Simple Order Is Enough, and When You Owe a Hearing",
+  "meta_description": "What Indian courts actually require before a probationer can be let go without a hearing, and when a simple termination order can still be struck down.",
+  "practice_area": "Employment & Labour",
+  "intro": [
+    "Employers tend to treat probation as a period where almost nothing is owed to the employee, and in most cases that instinct is correct. An employer can let a probationer go for unsatisfactory performance without holding a departmental enquiry, without giving a personal hearing, and without recording detailed reasons in the order itself. Courts have said this often enough that it has become close to settled law.",
+    "What trips employers up is assuming this protection is unconditional. It is not. Indian courts, going back decades and as recently as this year, have repeatedly looked past the words of a termination order to ask what was actually driving the decision, and where the real reason turns out to be misconduct rather than unsuitability, the absence of a hearing becomes the ground on which the whole termination collapses. Getting this distinction right at the drafting stage, not after litigation has already started, is what actually protects an employer."
+  ],
+  "sections": [
+    {
+      "heading": "The starting point: probation exists to test suitability, not to punish",
+      "paragraphs": [
+        "K.V. Krishnamani v. Lalit Kala Academy, decided by the Supreme Court in 1996, set out the basic logic that still underlies this area. A probationer had been terminated for unsatisfactory work without any enquiry, and the Court upheld the termination, holding that the reasons recorded were the motive for the decision rather than its foundation, because the entire object of a probationary period is to let the employer assess whether the person is actually suited to the role. An employer does not need to prove misconduct, hold a trial-like process, or justify its assessment of unsuitability to the same standard as a dismissal for cause.",
+        "This is also why a probationer's termination order is typically drafted in deliberately bare language, something to the effect that the employee's services are no longer required, or that performance during the probationary period has not been satisfactory, without elaborating further. That brevity is not an accident. It is the standard way employers avoid turning a simple discharge into something that reads like a punishment, which is exactly the distinction the next line of cases turns on."
+      ]
+    },
+    {
+      "heading": "Motive versus foundation: the test that decides everything",
+      "paragraphs": [
+        "The motive-versus-foundation test asks a single question: is the stated or real reason for termination merely the background motive that led the employer to decide the person was not suitable, or is misconduct the actual foundation on which the termination order rests? If misconduct is the foundation, the order is treated as punitive, and a probationer in that situation is entitled to the same natural justice protections as a confirmed employee facing disciplinary action, typically a charge sheet, an opportunity to respond, and some form of enquiry before the decision is taken.",
+        "Ratnesh Kumar Choudhary, a 2015 Supreme Court decision, applied this with real teeth. The employer had conducted what amounted to an ex parte enquiry and then issued a termination order carrying stigmatic remarks about the employee's conduct. The Court held that courts are entitled to lift the veil on a termination simpliciter and look at what actually happened, found that misconduct was the real foundation here rather than a mere background motive, and ordered reinstatement with fifty per cent back wages for the period the employee had been kept out of service."
+      ]
+    },
+    {
+      "heading": "Stigma is the other trigger, separate from misconduct as foundation",
+      "paragraphs": [
+        "Even where misconduct genuinely is not the foundation of the decision, a termination order can still be challenged if it is stigmatic, meaning it casts a slur on the employee's character or is likely to prejudice their future employment prospects. Courts have long distinguished this from an ordinary performance-based discharge. A simpliciter order that says nothing more than that the employee's work was unsatisfactory is not stigmatic merely because it ends the person's job. An order that goes further and records specific allegations of dishonesty, insubordination, or similar conduct, even while formally calling itself a discharge rather than a dismissal, can attract the same hearing requirement a punitive termination would.",
+        "The two-part inquiry courts tend to apply, drawn from older Supreme Court authority on this point, asks first whether the employee has any accrued right to the post that the termination takes away, and second whether the termination visits the employee with any evil or penal consequence beyond simply losing the job. A probationer ordinarily has no accrued right to confirmation, which is why the second limb, the stigma or penal-consequence question, usually ends up doing the real work in these disputes."
+      ]
+    },
+    {
+      "heading": "A 2026 Delhi High Court ruling shows how courts apply this in practice",
+      "paragraphs": [
+        "Aman Pratap Singh v. Government of NCT of Delhi, W.P.(C) No. 15486 of 2024, decided by a Division Bench of Justices Anil Kshetarpal and Amit Mahajan on 7 February 2026, is a useful recent illustration, even though it arose in the judicial service rather than private employment. A probationary judicial officer was terminated after a video of a courtroom incident, described in media reports as showing him shouting at court staff and counsel, circulated publicly. He argued the termination was effectively punishment for that specific incident and should have followed a proper enquiry.",
+        "The High Court dismissed the petition, holding that the termination was simpliciter and rested on an overall assessment of unsuitability built on adverse confidential remarks and complaints considered over time, not on the video incident alone. The Court specifically noted that a limited fact-finding exercise conducted after the video surfaced had not resulted in any formal finding of misconduct against him, and so could not be treated as the foundation for the termination. The decision is a clean recent example of the same test being applied: an employer can rely on an accumulated, general picture of unsuitability, but the moment a specific enquiry into a specific incident produces findings that then drive the decision, the analysis tips toward foundation rather than motive."
+      ]
+    },
+    {
+      "heading": "What this means for drafting the termination and the file behind it",
+      "paragraphs": [
+        "Keep the termination order itself genuinely general. State that performance or conduct during probation has not met the standard required, without naming specific incidents, specific policy breaches, or language that reads as a finding of wrongdoing. The more specific and accusatory the order's own language, the easier it becomes for a probationer's lawyer to argue stigma or foundation.",
+        "Separately, do not let the internal file tell a different story from the order. If performance reviews, appraisal notes, or an HR enquiry actually investigated a specific allegation and reached a conclusion on it, and that conclusion is what drove the termination, the employer should expect a court to look past the simpliciter language and ask what the file actually shows, exactly as happened in Ratnesh Kumar Choudhary. Where the concern genuinely is a one-off incident serious enough that the employer wants it on record, the honest and legally safer path is to run an actual, if simplified, enquiry process before terminating, rather than terminating first on paper-thin language while an internal investigation quietly does the real work behind the scenes."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a probationer have the right to a hearing before being terminated?",
+      "a": "Generally no, where the termination genuinely rests on an assessment of unsuitability during probation. Courts have consistently held that probation exists to test suitability and does not require the same natural justice protections as a disciplinary dismissal, unless misconduct is actually the foundation of the decision or the order is stigmatic."
+    },
+    {
+      "q": "What makes a termination order 'stigmatic' rather than a simple discharge?",
+      "a": "An order becomes stigmatic when it goes beyond ending the employment and casts a slur on the employee's character, or is likely to harm their future employment prospects, for example by naming specific allegations of dishonesty or misconduct. A bare statement that performance was unsatisfactory is not, by itself, stigmatic."
+    },
+    {
+      "q": "If we conducted an informal enquiry into a complaint before terminating a probationer, does that create a problem?",
+      "a": "It can, if the enquiry's findings end up being the real basis for the termination. Courts apply the motive-versus-foundation test by looking past the order's wording to what actually happened. If misconduct findings from that enquiry drove the decision, the termination may be treated as punitive and require the hearing the employer skipped."
+    },
+    {
+      "q": "What remedy does a probationer get if a termination is struck down on this basis?",
+      "a": "Courts have ordered reinstatement, sometimes with back wages. In Ratnesh Kumar Choudhary the Supreme Court ordered reinstatement with fifty per cent back wages for the period the employee was out of service, which gives a sense of the exposure an employer faces when a termination simpliciter is found to be punitive in substance."
+    },
+    {
+      "q": "Can an employer rely on a general pattern of poor performance rather than one specific incident?",
+      "a": "Yes, and this generally strengthens the employer's position. The Delhi High Court's 2026 ruling in Aman Pratap Singh upheld a termination built on an overall assessment accumulated over time, distinguishing it from a termination that would have rested on the findings of a specific enquiry into one incident."
+    }
+  ],
+  "references": [
+    "K.V. Krishnamani v. Lalit Kala Academy, (1996) Supreme Court of India",
+    "Ratnesh Kumar Choudhary v. Indira Gandhi Institute of Medical Sciences, (2015) Supreme Court of India",
+    "Aman Pratap Singh v. Government of NCT of Delhi, W.P.(C) No. 15486 of 2024, 2026 DHC 996 (DB), decided 7 February 2026",
+    "State of Orissa v. Ram Narayan Das (two-part test: accrued right to post; evil or penal consequence)"
+  ],
+  "sources": [
+    "https://research.lawsathi.in/supreme-court/1996/krishnamani/",
+    "https://lawandotherthings.com/re-visiting-simpliciter-termination-protecting-the-legitimate-expectation-of-probationers/",
+    "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/aman-pratap-singh-v-govt-of-nct-of-delhi-2026dhc996-db-viral-video-judge-judicial-officer-misconduct-1607049",
+    "https://rawlaw.in/delhi-high-court-holds-probationary-judicial-officer-can-be-discharged-for-overall-unsuitability-viral-courtroom-video-not-foundation-termination-upheld/",
+    "https://www.barandbench.com/news/delhi-district-judge-sacked-video-courtroom-tirade"
+  ],
+  "verification_notes": "Confirmed from at least two sources each: the K.V. Krishnamani holding and the motive-versus-foundation framing attributed to it (research.lawsathi.in and the Law and Other Things commentary, which both cite the same case for the same proposition); the Ratnesh Kumar Choudhary facts, holding and the fifty per cent back wages remedy (Law and Other Things commentary and independent case-law summaries found in search results); the Aman Pratap Singh bench, case number, decision date and holding (Verdictum and Raw Law, which independently report the same bench, case number and outcome; Bar and Bench corroborates the underlying video incident though its reporting of later administrative timelines was not used here since the dates could not be reconciled). The two-part accrued-right/penal-consequence test is attributed to State of Orissa v. Ram Narayan Das based on a secondary commentary summary; the judgment itself was not opened, so the exact wording of that test should be checked against the original before being quoted verbatim in any filing. Left out: State of Punjab v. Jaswant Singh (2023), since only a single advocacy-oriented commentary described its holding and that source's framing was contested within the piece itself."
+}
