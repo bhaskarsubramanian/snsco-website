@@ -1,0 +1,79 @@
+{
+  "slug": "section-9-operational-creditor-pre-existing-dispute-guide",
+  "title": "Defeating a Section 9 IBC Application: What Actually Counts as a Pre-Existing Dispute",
+  "meta_description": "How a corporate debtor defeats a Section 9 IBC application using the Mobilox plausibility test, and what two 2025-26 SC rulings changed.",
+  "practice_area": "IBC & Insolvency",
+  "intro": [
+    "Operational creditors chasing unpaid invoices through the Insolvency and Bankruptcy Code have discovered, often the hard way, that a Section 9 application is not simply a faster version of a civil recovery suit. It is a gateway provision, and the moment a corporate debtor can point to a genuine, pre-existing dispute, the application is supposed to be rejected outright, whatever the actual merits of either side's position might eventually turn out to be.",
+    "This guide works through the plausibility test the Supreme Court set out in Mobilox Innovations v. Kirusa Software, why the NCLT is not meant to hold a mini-trial at the admission stage, and two recent Supreme Court rulings, one from December 2025 and one from April 2026, that sharpen where that line actually sits."
+  ],
+  "sections": [
+    {
+      "heading": "The statutory sequence an operational creditor has to follow",
+      "paragraphs": [
+        "Section 8 of the IBC requires an operational creditor to first deliver a demand notice of the unpaid operational debt, or a copy of the invoice, to the corporate debtor. The corporate debtor then has ten days from receipt of that notice to either show that the debt has been paid, or to bring to the creditor's notice the existence of a dispute, including any suit or arbitration proceeding already pending relating to the debt. Only once that ten day period expires, with no payment received and no notice of dispute given, can the operational creditor apply to the National Company Law Tribunal under Section 9 to trigger the corporate insolvency resolution process.",
+        "Timing matters on both sides of this sequence. A Section 9 application filed before the ten day window has actually run its course has been held not maintainable, since the corporate debtor is entitled to the full ten days to respond before the creditor's right to apply even arises. Equally, under Section 9(5), the adjudicating authority is required to reject the application where a notice of dispute has in fact been received by the operational creditor, or where there is a record of a dispute in the information utility, making the existence of that dispute notice the central battleground in most contested Section 9 proceedings."
+      ]
+    },
+    {
+      "heading": "The Mobilox plausibility test",
+      "paragraphs": [
+        "The governing standard comes from the Supreme Court's decision in Mobilox Innovations Private Limited v. Kirusa Software Private Limited. The Court held that once a corporate debtor raises a dispute, the adjudicating authority's job is narrow: to check whether there is a plausible contention requiring further investigation, and whether the dispute is truly pre-existing, meaning it existed before the Section 8 demand notice was received, rather than being conjured up afterward specifically to defeat the application. The defence does not need to be likely to succeed on the merits. It only needs to not be a moonshine or spurious defence raised merely to create a smokescreen, a feeble legal argument unsupported by evidence, or an argument plainly motivated by a desire to avoid the Section 9 filing rather than reflecting a genuine commercial disagreement that predates it.",
+        "The deliberately low bar set by this test reflects the IBC's own design. Section 9 proceedings are meant to be summary and quick, not a forum for the NCLT to weigh evidence and decide which party's version of a commercial dispute is more credible, a task the Code leaves to a civil court or an arbitral tribunal with full trial powers. This means a corporate debtor facing a Section 9 application does not need to prove its defence is correct; it needs only to show the defence is real, supported by something more than a bare assertion, and that it predates the demand notice rather than being invented in response to it."
+      ]
+    },
+    {
+      "heading": "What the NCLT and NCLAT are not supposed to do",
+      "paragraphs": [
+        "A recurring source of appellate correction has been tribunals effectively conducting a mini-trial at the admission stage, weighing which side's account of a commercial disagreement is more believable, rather than confining themselves to the narrower plausibility question Mobilox actually requires. The Supreme Court addressed exactly this overreach in GLS Films Industries Pvt. Ltd. v. Chemical Suppliers India Pvt. Ltd., decided in April 2026, holding that the Appellate Tribunal had misapplied Mobilox by going into the merits of the underlying dispute rather than simply confirming that a plausible, pre-existing dispute existed, and allowing the corporate debtor's appeal on that basis.",
+        "A separate ruling the same term, Saraswati Wire & Cable Industries v. Mohammad Moinuddin Khan, decided in December 2025, dealt with the opposite problem: an NCLAT finding a pre-existing dispute based on old email exchanges from several years earlier, while apparently overlooking that the corporate debtor's own later conduct, including a reply sent well after the relevant exchanges and continued payments toward the same invoices, cut against the dispute actually being genuine and live by the time the demand notice was issued. The Supreme Court restored the NCLT's original admission of the application, framing the inquiry around three specific questions: whether a pre-existing dispute truly existed, whether a later reply could count as a valid defence at all, and whether the debtor's own continued payments effectively undercut the dispute being raised. Read together, these two rulings show the plausibility test cutting both ways: tribunals must not interrogate the merits too deeply, but they also cannot treat a stale or contradicted dispute claim as automatically sufficient just because some documentary trace of disagreement exists somewhere in the file."
+      ]
+    },
+    {
+      "heading": "What a corporate debtor needs to put on record to succeed",
+      "paragraphs": [
+        "A corporate debtor resisting a Section 9 application should focus its reply on documentary evidence that existed, and was communicated, before the Section 8 demand notice arrived, since a dispute first raised only in response to the demand notice itself is the single most common reason tribunals find a defence to be an afterthought rather than genuine. Email correspondence, minutes of meetings, a formal complaint about defective goods or deficient services, or a notice invoking an arbitration clause, all dated before the demand notice, carry far more weight than a reply to the Section 8 notice asserting a dispute for the first time.",
+        "Conduct after the dispute allegedly arose matters as much as the dispute's origin. A corporate debtor that continued making payments toward the same invoices after the point it claims the dispute arose, without protest or any contemporaneous reservation, hands the operational creditor a strong argument that the dispute is not genuine, as the Saraswati Wire ruling illustrates. Debtors genuinely disputing an invoice should accordingly stop payment and record their objection in writing as soon as the dispute actually arises, rather than continuing to pay and only raising the dispute once insolvency proceedings are threatened."
+      ]
+    },
+    {
+      "heading": "What this means for the operational creditor on the other side",
+      "paragraphs": [
+        "An operational creditor anticipating resistance should scrutinise its own paper trail before filing, specifically checking whether the debtor raised any complaint, however informal, before the demand notice was sent, since that history will surface in the debtor's reply regardless of whether the creditor raises it first. Where the underlying commercial relationship genuinely had no prior friction, a Section 9 application remains one of the more effective recovery tools available, precisely because the threshold for admission is low once the absence of a genuine pre-existing dispute is established.",
+        "Where a dispute does exist but the creditor believes it is weak or manufactured, filing the Section 9 application is still often worthwhile, since even an unsuccessful admission attempt forces the corporate debtor to put its defence on record formally, which can be useful leverage in a subsequent civil suit or arbitration over the same underlying debt, even if the insolvency route itself does not ultimately succeed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "We sent a demand notice and filed the Section 9 application nine days later because our client was in a hurry. Is that a problem?",
+      "a": "Yes, likely a serious one. The corporate debtor is entitled to the full ten days under Section 8 to respond before the creditor can apply under Section 9, and tribunals have held an application filed before that period expires is not maintainable. Wait out the full ten days before filing, however urgent the recovery feels."
+    },
+    {
+      "q": "The debtor raised a dispute only after receiving our demand notice, with no earlier complaint on record. Does that defeat our Section 9 application?",
+      "a": "It should not, if there is genuinely no evidence the dispute existed before the notice. Mobilox requires the dispute to be pre-existing, and a defence raised for the first time in response to the demand notice is treated as exactly the kind of afterthought the test is designed to screen out, provided you can show the absence of any earlier complaint."
+    },
+    {
+      "q": "We have old emails from three years ago raising quality concerns, but we kept paying invoices after that without objection. Does that protect us from a Section 9 application?",
+      "a": "Not reliably. Following the Supreme Court's Saraswati Wire ruling, continued, unprotested payment after the point a dispute allegedly arose can undercut the claim that the dispute was genuine and live. Stale correspondence alone, contradicted by your own later conduct, is unlikely to be treated as a sufficient pre-existing dispute."
+    },
+    {
+      "q": "The NCLAT rejected our Section 9 application after examining whose version of the dispute was more credible. Can we challenge that?",
+      "a": "Quite possibly, if the NCLAT went beyond checking whether the dispute was plausible and pre-existing and instead weighed the merits of who was actually right. The Supreme Court's GLS Films ruling in April 2026 held that this kind of mini-trial exceeds what Mobilox permits at the admission stage, and corrected an NCLAT order for doing exactly that."
+    }
+  ],
+  "references": [
+    "Insolvency and Bankruptcy Code, 2016, Sections 8 and 9",
+    "Mobilox Innovations Private Limited v. Kirusa Software Private Limited, (2018) 1 SCC 353",
+    "Saraswati Wire & Cable Industries v. Mohammad Moinuddin Khan, 2025 INSC 1410 (decided 10 December 2025)",
+    "GLS Films Industries Pvt. Ltd. v. Chemical Suppliers India Pvt. Ltd., 2026 INSC 344 (Civil Appeal No. 4019 of 2025, decided 9 April 2026)"
+  ],
+  "sources": [
+    "https://www.khuranaandkhurana.com/?p=3844",
+    "https://ksandk.com/insolvency/pre-existing-dispute-section-9-ibc-nclt-inquiry/",
+    "https://www.indialaw.in/blog/insolvency-bankruptcy/ibc-test-pre-existing-disputes/",
+    "https://www.indialaw.in/blog/section-9-ibc-pre-existing-dispute/",
+    "https://thelegalschool.in/blog/section-8-ibc"
+  ],
+  "verification_notes": "Confirmed the Section 8/Section 9 statutory sequence, the ten day response period, and Section 9(5)'s rejection grounds including receipt of a notice of dispute, from thelegalschool.in's explainer and IBBI order text referenced in search results; confirmed that a Section 9 application filed before the ten day period expires has been held not maintainable from an NCLT Mumbai order described in secondary commentary. Confirmed the Mobilox Innovations v. Kirusa Software plausibility test, including the 'moonshine defence' formulation and the requirement that the dispute be pre-existing and not spurious, hypothetical or illusory, from Khurana & Khurana's case commentary and King Stubb & Kasiva's article on the limits of NCLT's inquiry, both of which describe the test consistently; the reported citation (2018) 1 SCC 353 and the 21 September 2017 decision date come from the same secondary sources and were not independently checked against the official reporter. Confirmed Saraswati Wire & Cable Industries v. Mohammad Moinuddin Khan (2025 INSC 1410, decided 10 December 2025) and GLS Films Industries Pvt. Ltd. v. Chemical Suppliers India Pvt. Ltd. (2026 INSC 344, Civil Appeal No. 4019 of 2025, decided 9 April 2026), including their respective holdings on continued payment undercutting a dispute claim and on NCLAT impermissibly conducting a merits-based mini-trial, from IndiaLaw's dedicated commentary on both rulings; both case citations and holdings rest on a single secondary-commentary source each and should be cross-checked against the official Supreme Court judgment text before being treated as final, particularly for exact paragraph references. Left out: the exact bench composition for Mobilox, since secondary sources gave inconsistent attributions, and any claim about the correct bench was therefore omitted rather than guessed."
+}

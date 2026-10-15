@@ -1,0 +1,78 @@
+{
+  "slug": "drb-vs-arbitration-ppp-epc-guide",
+  "title": "Dispute Resolution Boards vs Arbitration in Indian Infrastructure Contracts: Getting the Sequence Right",
+  "meta_description": "Why skipping the Dispute Resolution Board stage can derail an infrastructure arbitration claim, and NHAI's 2025 circular tightening the sequence.",
+  "practice_area": "Infrastructure & PPP",
+  "intro": [
+    "Contractors on highway, EPC and PPP projects tend to treat the Dispute Resolution Board stage as a box to tick quickly on the way to arbitration, where the real money is supposedly decided. That instinct has caused real damage to otherwise strong claims, because the standard form contracts used across Indian infrastructure projects, particularly NHAI concessions and EPC agreements, build a specific sequence into their dispute clauses, and jumping ahead of that sequence gives the other side a procedural objection that can delay or derail the substantive claim entirely.",
+    "This guide sets out how the Dispute Resolution Board, conciliation, and arbitration stages are meant to fit together under the contracts commonly used on Indian infrastructure projects, and a 2025 NHAI circular that tightened the sequencing after contractors were found to be skipping stages altogether."
+  ],
+  "sections": [
+    {
+      "heading": "Why the DRB exists as a distinct first stage",
+      "paragraphs": [
+        "The Dispute Resolution Board is a standing panel, typically of three independent experts with technical and contractual experience in infrastructure projects, constituted under the contract to give an early, relatively quick decision on disputes as they arise during construction or operation, rather than letting disagreements accumulate and surface only once the project is substantially complete. The underlying logic is that a project under active construction needs disputes resolved close to real time, since a contractor and an authority who are simultaneously fighting over a years-old claim while also trying to coordinate ongoing construction work rarely manage both well.",
+        "Most standard form contracts used by the National Highways Authority of India for EPC, Hybrid Annuity Model, and Build-Operate-Transfer toll projects make the DRB's decision a required first step before either conciliation or arbitration can be invoked, meaning a party dissatisfied with the DRB's decision, or facing an authority that never properly refers the dispute to the DRB at all, has to work through that specific procedural posture rather than simply filing for arbitration because the underlying commercial disagreement feels ready to litigate."
+      ]
+    },
+    {
+      "heading": "Conciliation sits between the DRB and arbitration, not alongside it",
+      "paragraphs": [
+        "A persistent source of procedural disputes has been contractors running conciliation before a Conciliation Committee of Independent Experts in parallel with a pending DRB reference, or skipping the DRB altogether and going straight to conciliation or arbitration once a dispute looks serious enough. NHAI's own standard operating procedure documents indicate that mediation or conciliation is meant to be attempted before arbitration, with either party entitled to initiate it at various points, but the authority's more recent circular guidance has pushed back against treating conciliation as an alternative to the DRB stage rather than a stage that follows it.",
+        "A policy circular issued by NHAI in June 2025 specifically requires a fixed order across EPC, Hybrid Annuity Model and Build-Operate-Transfer toll contracts: conciliation before the Conciliation Committee of Independent Experts is only available once the DRB process has concluded or a party has rejected the DRB's decision, and arbitration in turn only follows if that conciliation attempt fails. The circular was issued specifically because NHAI found contractors bypassing the DRB and approaching the Conciliation Committee directly, and in some cases running a conciliation process while a DRB reference on the same dispute was still pending, creating exactly the kind of parallel, overlapping proceedings the contractual sequence was designed to prevent."
+      ]
+    },
+    {
+      "heading": "What happens if a party skips a stage anyway",
+      "paragraphs": [
+        "Where a contract clause makes the DRB's decision, or at least a reference to the DRB, a condition precedent to arbitration, an arbitral tribunal or a court asked to appoint one can be confronted with a jurisdictional objection that the claim is not yet arbitrable because the mandatory pre-arbitral steps were never completed. This is not a merely technical point that tribunals wave through: Indian courts have generally required strict compliance with multi-tier dispute resolution clauses of this kind before treating an arbitration as properly invoked, particularly where the contract uses mandatory language such as shall rather than may for the earlier stages.",
+        "The safer course for a contractor convinced a DRB reference would be futile, perhaps because the specific DRB panel has shown clear bias or because the authority has simply refused to constitute a DRB as the contract requires, is not to skip the stage unilaterally but to put the failure on record in writing, specifically calling on the authority to constitute the DRB or to confirm its decision within the time the contract allows, so that any later arbitration is backed by a clear, documented history of attempted compliance rather than a unilateral decision to bypass the clause."
+      ]
+    },
+    {
+      "heading": "The DRB's decision is rarely the end of the matter",
+      "paragraphs": [
+        "A DRB decision under most Indian infrastructure contracts is binding in the interim sense that both parties are expected to give effect to it pending any further challenge, but it is not final in the way an arbitral award or a court decree is, since either party dissatisfied with the decision typically retains a contractual right to refer the same dispute onward, through conciliation and then arbitration if conciliation fails. This interim-binding character is often misunderstood: a party that simply ignores an unfavourable DRB decision, rather than formally recording its dissatisfaction and taking the next contractual step within whatever time limit the contract specifies for doing so, risks the decision becoming effectively final by default through its own inaction.",
+        "Practitioners representing either an authority or a contractor should calendar the specific time limit the contract gives for challenging a DRB decision the moment it is issued, since these limits are frequently short, and missing one converts what should have been a contested, ongoing dispute into a closed one purely through a missed procedural deadline rather than any concession on the merits."
+      ]
+    },
+    {
+      "heading": "Practical sequencing advice for a live dispute",
+      "paragraphs": [
+        "Before taking any formal step, re-read the specific dispute resolution clause in the contract in question rather than assuming the general NHAI pattern applies uniformly, since PPP concession agreements, EPC contracts and supply agreements on the same project can carry materially different clauses, and the applicable sequence should be confirmed against the actual document rather than against a template understanding of how these clauses usually read.",
+        "Where the contract requires a DRB reference first, make that reference promptly and formally, keep a clear written record of the authority's response or lack of one, and treat the subsequent stages, whether conciliation before a committee or straight to arbitration, as available only once the contractual conditions for moving to that next stage have genuinely been satisfied. A contractor under commercial pressure to resolve a dispute quickly will often be tempted to leapfrog stages, but the time saved by skipping a step is usually far smaller than the time lost defending a jurisdictional objection later, once an arbitration already under way gets bogged down in an argument about whether it was properly invoked in the first place."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "The authority never constituted the DRB panel even though our contract requires one. Can we go straight to arbitration?",
+      "a": "Not safely, without first putting the failure on record. Write to the authority specifically calling on it to constitute the DRB within the contractual time, and keep that correspondence as evidence of attempted compliance. Unilaterally skipping to arbitration risks a jurisdictional objection that the mandatory pre-arbitral step was never completed."
+    },
+    {
+      "q": "We disagreed with the DRB's decision but did not formally respond within the contract's time limit. Can we still take the dispute to arbitration?",
+      "a": "This depends heavily on the specific wording of your contract's time limit and whether it is treated as mandatory. Many infrastructure contracts treat an unchallenged DRB decision as binding by default after the specified period, so missing that deadline can seriously weaken, or close off, your ability to carry the dispute forward."
+    },
+    {
+      "q": "Can we run conciliation and keep our DRB reference pending on the same dispute at the same time, to save time?",
+      "a": "NHAI's June 2025 policy circular specifically pushed back against this practice, requiring conciliation before the Conciliation Committee of Independent Experts to follow the conclusion or rejection of the DRB process rather than run alongside it. Running both in parallel is likely to draw a procedural objection rather than save time."
+    },
+    {
+      "q": "Is a DRB decision final once issued, or can either side still take the matter further?",
+      "a": "It is generally binding in an interim sense, meaning both parties should give effect to it in the meantime, but either side typically retains a contractual right to carry the same dispute forward through conciliation and then arbitration if that fails, provided it does so within whatever time limit the contract sets for raising that dissatisfaction."
+    }
+  ],
+  "references": [
+    "NHAI standard form EPC, Hybrid Annuity Model and Build-Operate-Transfer concession agreements, Dispute Resolution Board and conciliation clauses",
+    "NHAI policy circular No. 2.1.84/2025 (June 2025), sequencing of DRB, conciliation and arbitration",
+    "MoRTH Standard Operating Procedure on Arbitration (Circular No. 130.245)",
+    "Arbitration and Conciliation Act, 1996"
+  ],
+  "sources": [
+    "https://tta.in/a-fork-in-the-road-analysing-nhais-new-approach-to-dispute-resolution-in-highway-concessions/",
+    "https://foxmandal.in/News/nhai-issues-clarification-on-drb-and-conciliation-sequence/",
+    "https://www.epcworld.in/dispute-resolution-mechanisms-in-national-highways-authority-of-india-contracts/",
+    "https://morth.gov.in/sites/default/files/130.245-Arbitration-SoP.pdf"
+  ],
+  "verification_notes": "Confirmed the general structure of NHAI's dispute resolution framework for EPC, HAM and BOT contracts (DRB as a standing panel for early-stage disputes, followed by conciliation before a Conciliation Committee of Independent Experts, followed by arbitration) from TTA's March 2026 analysis of NHAI's approach to highway concession disputes and from EPC World's dedicated article on NHAI dispute resolution mechanisms. Confirmed the June 2025 NHAI policy circular (referenced as No. 2.1.84/2025) requiring conciliation to follow rather than run parallel with an unresolved DRB reference, and the background of contractors bypassing the DRB or running parallel proceedings that prompted the circular, from Fox Mandal's dedicated note on NHAI's clarification of the DRB and conciliation sequence; the exact circular number should be cross-checked against the primary NHAI circular text before being relied upon, since it was taken from a single secondary legal-update source. Confirmed that MoRTH's Standard Operating Procedure on Arbitration (Circular 130.245) contemplates mediation or conciliation attempts before arbitration and permits initiating conciliation at various stages, from the MoRTH SOP document itself. The general proposition that Indian courts require strict compliance with mandatory multi-tier dispute resolution clauses before treating arbitration as properly invoked reflects well-established, broadly reported Indian arbitration law practice rather than one specific cited ruling, and no single named 2024-2026 Supreme Court or High Court decision specifically on the NHAI DRB sequence was confirmed in the sources reviewed; a pending Delhi High Court petition raising DRB-constitution and unilateral-appointment issues was noted in search results but its outcome was not available and is therefore not relied upon or cited. Left out: any specific time limit figure for challenging a DRB decision, since contract-specific figures vary and no single confirmed figure was found across sources; the guide accordingly advises checking the specific contract rather than stating a fixed number."
+}
