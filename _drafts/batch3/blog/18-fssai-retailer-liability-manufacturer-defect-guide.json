@@ -1,0 +1,84 @@
+{
+  "slug": "fssai-retailer-liability-manufacturer-defect-guide",
+  "title": "Is a Shopkeeper Liable for a Manufacturer's Food Safety Defect? What FSSAI Prosecutions Actually Show",
+  "meta_description": "When a retailer or restaurant can be prosecuted under the FSS Act for a defect that actually originated with the manufacturer, and when they cannot.",
+  "practice_area": "Food Safety & FSSAI",
+  "intro": [
+    "A food analyst's report comes back positive for adulteration or contamination, and the first name on the prosecution is often not the manufacturer who actually caused the problem but the small shopkeeper, restaurant, or distributor who happened to be selling the product when the sample was lifted. This is how food safety enforcement typically works in India: officials sample at the point of sale because that is where they find the product, and the person standing behind the counter becomes the first accused almost by default.",
+    "Whether that shopkeeper actually ends up liable, or gets the proceedings quashed, depends on a liability structure in the Food Safety and Standards Act, 2006 that allocates responsibility differently depending on where in the supply chain a person sits, and on what they knew or could reasonably have known about the product they were selling. Getting this distinction right, and building the right paper trail in advance, is the difference between a restaurant owner walking out of a Magistrate's court on a quashing petition and one facing a trial over someone else's defective ingredient."
+  ],
+  "sections": [
+    {
+      "heading": "The statute allocates liability by role, not just by who was caught holding the product",
+      "paragraphs": [
+        "Section 26(1) of the Food Safety and Standards Act, 2006 places a continuing obligation on every food business operator to ensure compliance with the Act at every stage of the business under their control, whether that is production, processing, import, distribution or sale. This is a broad, general duty, and it is the reason enforcement authorities can proceed against anyone in the chain in the first instance.",
+        "Section 27 then narrows that general duty into role-specific liability. A manufacturer or packer answers for food that does not comply with safety standards at the point it left their control. A wholesaler or distributor separately answers for supplying food after its expiry, or for storing or handling it in a way that itself breaches safety requirements. A seller, which in practice covers retailers and restaurants, is liable specifically for selling food after its expiry date, for food that is misbranded, or for food received with actual knowledge that it was unsafe. The structure is deliberately layered so that a seller who did nothing more than sell a product exactly as received from a licensed manufacturer is not automatically answerable for a defect that originated upstream and that the seller had no real way of detecting."
+      ]
+    },
+    {
+      "heading": "The Piyush Gupta ruling: sealed packets and a licensed manufacturer's invoice",
+      "paragraphs": [
+        "Piyush Gupta & Anr. v. State of U.P., 2025:AHC:19425, decided by the Allahabad High Court in early 2025, is the clearest recent illustration of how this plays out for a retailer or restaurant caught in the middle. A food analyst found lead chromate, an adulterant, in turmeric powder a restaurant had purchased in sealed packets, and a Magistrate issued a summoning order against the restaurant and its staff under the FSS Act.",
+        "The High Court quashed the proceedings against the restaurant and its employees, holding that where a food business buys a sealed, packaged ingredient from a registered manufacturer, supported by a proper invoice, and has no independent means of testing or verifying the manufacturer's own compliance, the prima facie liability for the contamination rests with the manufacturer, not the buyer down the chain. The Court was careful to leave the door open for the authorities to proceed against the manufacturer or distributor, so the ruling is not a blanket immunity for anyone in the supply chain. It is a specific recognition that a seller who relied in good faith on a sealed product and a documented purchase from a licensed source should not be treated the same as a seller who had actual knowledge or reason to know something was wrong."
+      ]
+    },
+    {
+      "heading": "Knowledge is the dividing line, and courts have not been consistent on how strictly to read it",
+      "paragraphs": [
+        "A Madras High Court decision involving a salesman, a shop owner and a wholesaler over masala powder sold in sealed packets took a similarly protective line, reasoning that penal liability under Section 27(3) attaches to a seller only where the food was received with actual knowledge that it was unsafe, and treating the sealed condition of the product as relevant to whether that knowledge could exist at all.",
+        "A Madhya Pradesh High Court decision in a dispute over expired Maaza being sold went the other way on a related point, refusing to quash proceedings against the bottler and holding that a manufacturer who is also functioning as a seller cannot shift blame downstream to the retailer, and that the manufacturer's own duty to keep unsafe product from reaching consumers is not discharged simply by pointing at who physically sold it. Read together, these decisions suggest courts are willing to protect a genuinely passive retailer who had no realistic way to detect the defect, but are far less sympathetic once there is any indication of actual knowledge, deliberate relabelling, or a manufacturer trying to use a downstream seller as a shield for its own default."
+      ]
+    },
+    {
+      "heading": "The due diligence and warranty provisions that back this up",
+      "paragraphs": [
+        "Section 26(4) allows a food business operator to rely on a warranty given by the manufacturer or supplier about the quality and safety of what they are supplying, and this is the main contractual protection a retailer or distributor can build into its purchase arrangements. A written warranty, even a standard clause in a supply agreement stating that the goods comply with applicable food safety standards, strengthens exactly the kind of good-faith reliance argument that succeeded in the Piyush Gupta case.",
+        "Section 66 separately governs liability where the food business operator is a company. The company itself and the person in charge of and responsible to the company for the conduct of its business at the time of the offence are both deemed guilty unless that person shows the offence occurred without their knowledge or despite all due diligence exercised to prevent it. A separate provision reaches directors, managers, secretaries or other officers specifically, letting them escape liability by showing the offence happened without their consent or connivance and was not attributable to any neglect on their part. The burden of establishing this defence rests on the person claiming it, which means the paperwork, invoices, warranties, supplier audit records, has to already exist before the defect surfaces, not be assembled after the fact."
+      ]
+    },
+    {
+      "heading": "What a retailer, distributor or restaurant should actually do",
+      "paragraphs": [
+        "Buy from licensed, registered manufacturers and keep the licence details and invoices on file in a form that can be produced quickly, since the Piyush Gupta reasoning turned directly on the restaurant being able to show exactly this. Where products arrive sealed, do not break that seal to inspect or repack before sale unless your own licence and process genuinely require it, because repackaging or relabelling is treated far more harshly by courts, as the Karnataka High Court's approach to deliberate relabelling of expired stock shows.",
+        "Insist on a written quality and safety warranty from suppliers as a standard term of the purchase arrangement, since Section 26(4) exists specifically to let a downstream seller point to exactly this kind of document. Finally, train staff to flag and quarantine stock that shows any visible sign of a problem, damaged packaging, unusual odour, visible spoilage, because the moment a seller has actual or constructive knowledge that something might be wrong, the protective reasoning in Piyush Gupta and the Madras High Court decision stops applying, and the seller's own liability under Section 27(3) comes back into play."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a restaurant be prosecuted if a sealed ingredient it bought turns out to be adulterated?",
+      "a": "The Allahabad High Court's ruling in Piyush Gupta v. State of U.P. quashed exactly this kind of prosecution, holding that a restaurant that buys a sealed ingredient from a registered manufacturer with a proper invoice is not liable for a defect that originated with the manufacturer, provided it had no real way of detecting the defect itself."
+    },
+    {
+      "q": "Does this protection apply if the retailer repackaged or relabelled the product before selling it?",
+      "a": "No. Courts have been markedly less sympathetic where a seller breaks a sealed package, repackages, or relabels food, since that conduct removes the good-faith reliance argument the protective rulings depend on. A Karnataka High Court decision treated deliberate relabelling of expired stock as a serious offence rather than a passive regulatory lapse."
+    },
+    {
+      "q": "What is the single most useful document a retailer or restaurant can keep to protect itself?",
+      "a": "A proper purchase invoice from a licensed, registered manufacturer or supplier, ideally paired with a written warranty under Section 26(4) of the FSS Act confirming the product's compliance with safety standards. This combination was central to the reasoning that protected the restaurant in the Piyush Gupta case."
+    },
+    {
+      "q": "Can a company director escape liability for a food safety offence by its business?",
+      "a": "Under Section 66 of the FSS Act, a director, manager, secretary or other officer can escape liability by showing the offence happened without their consent or connivance and was not attributable to any neglect on their part. The burden of proving this rests on the officer, so supporting records need to exist in advance."
+    },
+    {
+      "q": "Does a manufacturer avoid liability by arguing the retailer should have caught the defect?",
+      "a": "Generally not. A Madhya Pradesh High Court ruling in a case involving expired stock refused to let a manufacturer, who was itself also acting as seller, shift primary liability downstream, holding that a manufacturer's duty to keep unsafe food from reaching consumers is independent of who physically sold the product."
+    }
+  ],
+  "references": [
+    "Food Safety and Standards Act, 2006, Sections 26, 27 and 66",
+    "Piyush Gupta & Anr. v. State of U.P., 2025:AHC:19425 (Allahabad High Court)",
+    "Madras High Court, Crl.O.P. No. 3406 of 2022 (knowledge requirement under Section 27(3) for a seller of sealed packets)",
+    "Madhya Pradesh High Court, Indore Bench, expired Maaza case (manufacturer's independent duty as seller)"
+  ],
+  "sources": [
+    "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/piyush-gupta-and-another-v-state-of-up-and-another-2025ahc19425-liability-restaurant-unsafe-raw-material-manufacturer-1567833",
+    "https://www.indialaw.in/blog/food/can-restaurants-be-liable-for-unsafe-food-ingredients/",
+    "https://www.livelaw.in/amp/law-firms/sc-retailers-and-manufacturers-food-safety-fssai-madras-hc-269897",
+    "https://www.verdictum.in/court-updates/high-courts/expired-maaza-sale-case-indore-bench-dismisses-petition-of-coca-cola-1501341",
+    "https://blog.primelegal.in/it-is-manufacturers-duty-that-unsafe-food-product-should-not-be-put-to-sale-to-consumers-madhya-pradesh-high-court/",
+    "https://taxclue.in/blog/section-66-fss-act-2006-offences-by-companies/"
+  ],
+  "verification_notes": "Confirmed from at least two sources each: the Section 26/27 role-based liability structure (India Law blog and Bhatt & Joshi Associates liability-distribution analysis, which both describe the same allocation in similar terms); the Piyush Gupta facts, citation and holding (Verdictum and the India Law blog's description of the same reasoning, though the India Law piece did not name the case while Verdictum did, and both describe identical facts and outcome); the Madhya Pradesh Indore Bench Maaza ruling (Verdictum court update and Prime Legal's summary of the same decision). The Madras High Court Crl.O.P. No. 3406 of 2022 reasoning on actual knowledge is drawn from a single LiveLaw law-firm summary that did not confirm the final order, so it is described here only as the court's stated reasoning on the knowledge requirement, not as a confirmed final outcome. Section 66's officer-liability proviso is drawn from a single secondary blog summary (taxclue.in) and stated only in general terms consistent with the standard structure of such provisions across Indian regulatory statutes; the exact statutory wording should be checked against the Act before being quoted. Left out: any specific penalty amounts or imprisonment terms under Sections 27, 59 or 66, since no source in this search gave figures confirmed by two independent sources."
+}

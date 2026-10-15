@@ -1,0 +1,86 @@
+{
+  "slug": "second-wife-maintenance-undissolved-first-marriage-guide",
+  "title": "Can a Second Wife Claim Maintenance If the First Marriage Was Never Dissolved?",
+  "meta_description": "What the Supreme Court has said about a second wife's right to maintenance in India when the husband's first marriage was still legally subsisting.",
+  "practice_area": "Family Law",
+  "intro": [
+    "This question comes up more often than the law's apparent simplicity suggests. A man marries a second time, often with his second wife unaware that his first marriage was never formally dissolved, and years later, when the relationship breaks down, she files for maintenance under Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023, the provision that replaced Section 125 of the old Criminal Procedure Code from 1 July 2024. The husband's defence is almost automatic: the second marriage was void from the start because the first one was still subsisting, so there is no 'wife' to maintain.",
+    "For a long time that defence usually worked, because the second marriage genuinely has no standing as a marriage under personal law while the first one survives. But the law on whether that bars maintenance specifically has shifted, and as of early 2025 the Supreme Court has given an answer that cuts against what most practitioners were taught. Whether that answer helps a particular client still depends heavily on facts the earlier cases treated as decisive, chiefly what the husband knew and when."
+  ],
+  "sections": [
+    {
+      "heading": "The older rule: no valid marriage, no maintenance under Section 125",
+      "paragraphs": [
+        "K. Vimala v. K. Veeraswamy, (1991) 2 SCC 375, is the starting point every practitioner in this area still has to deal with. The Supreme Court held that a woman whose marriage is void because the man's earlier marriage was subsisting is not a legally wedded wife for the purposes of maintenance, and is therefore not entitled to claim it under the provision. The Court did put the burden the other way for the husband trying to escape liability: he has to satisfactorily prove that an earlier, valid marriage was subsisting at the relevant time, and a bare assertion of bigamy does not get him out of his maintenance obligation automatically.",
+        "This approach treated maintenance under the criminal procedure provision as flowing strictly from marital status. No valid marriage, formally speaking, meant no spousal relationship the provision recognised, whatever the practical reality of the relationship and however long it had lasted. High Courts continued applying this logic for years afterward, and it remains good law as a general proposition, which is exactly why the 2025 development matters so much."
+      ]
+    },
+    {
+      "heading": "N. Usha Rani: the Supreme Court changes the outcome where the husband knew",
+      "paragraphs": [
+        "N. Usha Rani v. Moodudula Srinivas, Criminal Appeal No. 515 of 2025, decided on 30 January 2025 by a bench of Justices B.V. Nagarathna and Satish Chandra Sharma, held that a woman can claim maintenance from her second husband under the maintenance provision even though her own earlier marriage, or in the fact pattern actually before the Court the husband's own prior circumstances, meant the second marriage could not be treated as a conventional valid marriage. The Family Court had found that the husband was fully aware of the complicating circumstance and had knowingly gone ahead with the marriage regardless.",
+        "The Supreme Court's reasoning rested squarely on that knowledge. It held that allowing a man to escape his maintenance obligation simply by pointing to the invalidity of a marriage he himself knowingly entered into, fully aware of the complication, would let him enjoy the benefits and companionship of the relationship while using the technical invalidity as a shield against its financial responsibilities whenever it suited him to walk away. The Court treated the social welfare purpose behind maintenance law, preventing destitution and vagrancy, as the value that should govern the outcome, not a mechanical reading of who counts as a wife in the strict personal-law sense."
+      ]
+    },
+    {
+      "heading": "The parallel development under the Hindu Marriage Act's own maintenance provision",
+      "paragraphs": [
+        "A related but distinct question has also moved recently. Section 25 of the Hindu Marriage Act, 1955 allows a court to grant permanent alimony or maintenance, and Ramesh Chandra Daga v. Rameshwari Daga, decided in 2005, had already held that Section 25 applies broadly enough to cover situations where the marriage is later declared a nullity under Section 11, reasoning that denying maintenance in such cases would leave an economically dependent spouse destitute through no fault connected to the financial need itself.",
+        "That reading produced conflicting decisions in later cases, enough that the question was referred to a larger bench in Sukhdev Singh v. Sukhbir Kaur, Civil Appeal No. 2536 of 2019. The reference was answered in February 2025, with the Court confirming that a spouse whose marriage has been declared void under Section 11 can still claim permanent alimony or maintenance under Section 25, on the basis that once a court's own decree disrupts a party's marital status, the court retains the power to grant maintenance as part of undoing the consequences of that disruption, provided the relief is actually sought at that stage. This runs on a different statutory track from the BNSS maintenance provision, applies specifically where a civil court has pronounced the marriage void, and is still understood to be discretionary rather than automatic."
+      ]
+    },
+    {
+      "heading": "What actually decides the case: knowledge, timing and conduct",
+      "paragraphs": [
+        "Usha Rani did not sweep away Vimala. It carved out a path for a specific, recurring fact pattern: a husband who knew about the legal complication, married anyway, held the woman out as his wife, lived with her, and then tried to use that same complication defensively once the relationship soured. Where those facts are present, the case for maintenance under Section 144 BNSS is now considerably stronger than it would have been under the older, purely status-based approach.",
+        "Where the facts differ, the older logic still has real force. A woman who genuinely did not know, and who married a man who also did not disclose or perhaps did not himself know of a complication, sits on different ground from a husband who married with full knowledge of his own circumstances. Courts applying Usha Rani have focused heavily on what the Family Court specifically found about the husband's state of knowledge, which means the evidentiary record built at the trial court stage, correspondence, witnesses who can speak to what the husband knew and when, and the circumstances of the marriage ceremony itself, now carries more weight than ever in how these claims are decided."
+      ]
+    },
+    {
+      "heading": "Practical pointers for drafting the petition or the defence",
+      "paragraphs": [
+        "For a petitioner relying on Usha Rani, build the factual record around the husband's knowledge from the outset of the pleading, not as an afterthought if the void-marriage defence is raised. Evidence that he introduced her as his wife, that family and community treated the relationship as a marriage, and that he never disclosed the complicating circumstance before the marriage all go directly to the reasoning the Supreme Court relied on, and a petition that leads with destitution and dependency without addressing knowledge risks inviting a straightforward Vimala-style dismissal.",
+        "For a respondent husband, the old defence is no longer a guaranteed win and needs to be paired with an honest answer to the knowledge question, since a court is now likely to ask it directly even if the petitioner does not raise it with precision. Where the husband genuinely did not know of a complicating earlier marriage, whether his own or hers, that fact should be pleaded clearly and early, because it is precisely the distinction Usha Rani preserved rather than erased."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Usha Rani mean every second wife can now claim maintenance regardless of the first marriage?",
+      "a": "No. The ruling turned specifically on the husband's knowledge of the complicating circumstance and his conduct in going ahead with the marriage anyway. Where that knowledge is absent or disputed, the older rule from K. Vimala v. K. Veeraswamy, that a void marriage does not create an entitlement to maintenance, still carries real weight."
+    },
+    {
+      "q": "Which provision governs maintenance claims filed now, Section 125 CrPC or Section 144 BNSS?",
+      "a": "Section 125 of the CrPC has been replaced by Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023, with effect from 1 July 2024. Claims filed on or after that date proceed under Section 144, though the substantive legal principles developed under the old Section 125, including the Vimala and Usha Rani line of cases, continue to apply since the maintenance provision's substance was carried forward."
+    },
+    {
+      "q": "Is a claim for maintenance under the Hindu Marriage Act the same as one under Section 144 BNSS?",
+      "a": "No, they are different tracks. Section 25 of the Hindu Marriage Act lets a court grant alimony or maintenance in connection with its own matrimonial decree, including a decree of nullity, as confirmed in Sukhdev Singh v. Sukhbir Kaur. Section 144 BNSS is a separate, summary criminal procedure remedy that does not require a prior matrimonial decree."
+    },
+    {
+      "q": "What is the single most important fact in one of these cases?",
+      "a": "Whether, and when, the husband knew about the circumstance that made the marriage legally invalid. Courts following Usha Rani have focused closely on what the Family Court found about the husband's knowledge at the time of the marriage, since that knowledge is what the Supreme Court's reasoning about enjoying the benefits while escaping the duties actually depends on."
+    },
+    {
+      "q": "Can the first wife's rights be affected by a maintenance claim brought by the second wife?",
+      "a": "A maintenance order against the husband in favour of a second wife does not extinguish the first wife's own maintenance rights, which remain independently enforceable. Courts assessing the husband's means and obligations in either proceeding will typically take account of his overall financial liabilities, including to the first wife, when fixing the amount."
+    }
+  ],
+  "references": [
+    "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 144 (replacing Section 125 of the Code of Criminal Procedure, 1973, effective 1 July 2024)",
+    "Hindu Marriage Act, 1955, Sections 11 and 25",
+    "K. Vimala v. K. Veeraswamy, (1991) 2 SCC 375",
+    "N. Usha Rani v. Moodudula Srinivas, Criminal Appeal No. 515 of 2025, decided 30 January 2025",
+    "Ramesh Chandra Daga v. Rameshwari Daga, (2005) 2 SCC 33",
+    "Sukhdev Singh v. Sukhbir Kaur, Civil Appeal No. 2536 of 2019, reference answered February 2025"
+  ],
+  "sources": [
+    "https://www.thehitavada.com/Encyc/2025/2/9/SC-spells-out-terms-for-seekingmaintenance-in-second-marriage.html",
+    "https://desikaanoon.in/woman-entitled-to-maintenance-from-second-husband-even-without-legal-divorce-from-first-marriage",
+    "https://www.legitquest.com/case/kvimal-v-kveeraswamy/a66",
+    "https://www.scconline.com/blog/post/2025/02/19/spouse-of-void-marriage-under-s-11-of-hma-entitled-to-permanent-alimony-maintenance-under-s-25-sc/",
+    "https://blog.ipleaders.in/case-analysis-ramesh-chandra-rampratapji-daga-v-rameshwari-ramesh-chandra-daga/",
+    "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/sukhdev-singh-v-sukhbir-kaurmaintenance-in-a-void-hindu-marriage-sukhdev-singh-v-sukhbir-kaur/"
+  ],
+  "verification_notes": "Confirmed from at least two sources each: the K. Vimala holding and its burden-of-proof point (LegitQuest and the Indian Kanoon document view); the N. Usha Rani bench, case number, date and the knowledge-based reasoning (The Hitavada and Desi Kaanoon, which independently report the same bench and the same core reasoning about enjoying benefits while escaping duties); the Ramesh Chandra Daga holding on Section 25 covering nullity decrees (iPleaders case analysis and the SCC Online commentary on the later reference); and the Sukhdev Singh reference, its case number and its February 2025 answer (SCC Online and Supreme Court Observer, which both describe the same reference and the same resulting position). The BNSS Section 144 effective date of 1 July 2024 is widely reported and was treated as settled without further sourcing here. Left out: the precise paragraph-level reasoning of the Usha Rani and Sukhdev Singh judgments, since the sources available were secondary reports rather than the judgment texts themselves, and any claim about how Usha Rani treats or distinguishes Vimala in its own text, since no source showed that reasoning directly."
+}
