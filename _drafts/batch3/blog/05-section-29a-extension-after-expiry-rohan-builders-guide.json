@@ -1,0 +1,84 @@
+{
+  "slug": "section-29a-extension-after-expiry-rohan-builders-guide",
+  "title": "Your Arbitrator's Time Limit Expired Before You Applied for Extension: Is the Award Now Void?",
+  "meta_description": "What the Supreme Court held in Rohan Builders on filing a Section 29A extension application after the arbitral tribunal's mandate has already expired.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "An arbitration that runs past its statutory clock creates a genuinely awkward problem. Section 29A of the Arbitration and Conciliation Act, 1996 requires an award in a domestic arbitration to be made within twelve months of the tribunal entering reference, extendable by consent of parties by a further six months, after which only a court can extend time. The difficulty arises when nobody applies to court before that eighteen-month window actually closes, and the tribunal's mandate is left hanging in limbo, with high courts across the country taking opposite views on whether it is too late to ask for an extension at all.",
+    "The Supreme Court resolved this conflict on 12 September 2024 in Rohan Builders (India) Pvt. Ltd. v. Berger Paints India Ltd., holding that a Section 29A extension application can be filed even after the period under Section 29A(4) has already expired. This guide explains the reasoning, what it does and does not permit, and what a party should do if it finds itself past the deadline with no application filed."
+  ],
+  "sections": [
+    {
+      "heading": "The statutory scheme and where the conflict came from",
+      "paragraphs": [
+        "Section 29A(1) sets the default twelve-month period for making an award, running from the date the arbitral tribunal enters upon reference, which for a tribunal of a sole arbitrator can be from the date of appointment and for others typically from the first sitting. Section 29A(3) allows parties to extend this by mutual consent for up to six further months. Beyond that eighteen-month combined window, Section 29A(4) says the mandate of the arbitrator terminates unless the court extends the period, on an application by any party, either prior to or after expiry of the period.",
+        "The phrase \"prior to or after the expiry\" appears in the provision itself, but high courts split on what it actually permits. The Calcutta High Court read it narrowly, holding an extension application had to be filed before the mandate lapsed, since once the tribunal became functus officio there was nothing left to extend. Delhi, Bombay, Kerala and Madras High Courts took the opposite view, holding that the provision's own language contemplates a post-expiry application and that reading it otherwise would leave genuine disputes stranded on a technicality."
+      ]
+    },
+    {
+      "heading": "What the Supreme Court held and why",
+      "paragraphs": [
+        "The bench of Justices Sanjiv Khanna and R. Mahadevan sided with the broader reading. The Court reasoned that the word \"terminate\" in Section 29A(4) does not mean the mandate ends in an absolute, irrevocable sense the moment the eighteen months lapse; rather, it has to be read along with the rest of the sentence, which goes on to say the court may extend the period either before or after that termination. There is no full stop in the provision between the termination clause and the extension clause, which the Court treated as textually significant.",
+        "The Court also rejected reliance on the 176th Law Commission Report, which some high courts had used to argue for a stricter reading, and observed that using a word like \"suspension\" instead of \"terminate\" would have created its own practical difficulties for the scheme. The overall reading favoured keeping genuine arbitrations alive rather than letting a missed filing deadline for the extension application itself destroy months or years of proceedings on a pure technicality."
+      ]
+    },
+    {
+      "heading": "This is not an automatic lifeline",
+      "paragraphs": [
+        "The judgment is explicit that allowing a post-expiry application does not mean extension will be granted as a matter of course. The applicant still has to show sufficient cause for both the delay in the arbitration itself and, separately, for not having applied for extension before the mandate lapsed. The Court specifically flagged the risk of this ruling being misused by a party trying to buy time or revive proceedings it has let go stale, and said courts should be alert to that possibility when deciding whether to grant the extension and on what terms.",
+        "A court extending time under this provision can also impose conditions, such as costs, a revised fee structure for the arbitrator, or a tightened timeline for completing the remaining stages of the arbitration, precisely because the delay itself needs some consequence even where the court, after weighing the facts, decides the arbitration should continue rather than be treated as having lapsed."
+      ]
+    },
+    {
+      "heading": "Who can file, and in which court",
+      "paragraphs": [
+        "Either party to the arbitration can apply for extension under Section 29A(5), including the party against whom the proceedings appear to be going, and the application lies to the court as defined in Section 2(1)(e), meaning the principal civil court of original jurisdiction in a district, or the relevant High Court where it exercises ordinary original civil jurisdiction, for domestic arbitrations of the kind the provision covers. A party who wants the arbitration to end, rather than continue, can equally approach the court to argue against extension, framing the application as an opportunity to terminate the mandate rather than revive it.",
+        "Practically, once a party realises the eighteen-month period has lapsed without an extension application on file, the safer course is to file immediately rather than debate the point further, since Rohan Builders removes the argument that the application is barred outright, but delay in making even the post-expiry application adds another layer the opposing side will use to argue against sufficient cause."
+      ]
+    },
+    {
+      "heading": "What counts as sufficient cause here",
+      "paragraphs": [
+        "Courts have generally looked at factors such as the complexity of the dispute, the number of witnesses and documents involved, genuine scheduling difficulties attributable to the tribunal's own calendar or the parties' counsel, and whether either side contributed to the delay through adjournment requests or procedural applications that extended the timeline. A delay caused primarily by one party's own conduct, repeated requests for adjournment or late filing of pleadings, is less likely to be treated sympathetically than delay caused by matters outside either party's control.",
+        "The timing gap between the actual expiry and the date the extension application is finally filed is itself a factor courts weigh, even post-Rohan Builders. A party that waits months after discovering the lapse before filing is in a materially weaker position than one that moves within days, since the delay in seeking the post-expiry extension is treated as requiring its own explanation, separate from the delay in the underlying arbitration."
+      ]
+    },
+    {
+      "heading": "Practical drafting and procedural takeaways",
+      "paragraphs": [
+        "Parties and counsel managing an ongoing arbitration should calendar the Section 29A deadline independently of the tribunal's own case management, since relying on the arbitrator or opposing counsel to flag the approaching deadline has been the proximate cause of many of these disputes reaching court in the first place. A simple internal reminder set at the twelve-month and then the eighteen-month mark, cross-checked against the actual date of reference, avoids the problem altogether.",
+        "Where an extension becomes necessary, filing before expiry remains clearly the better course wherever it is still possible, since Rohan Builders removes an absolute bar but does not remove the scrutiny a late application attracts. An arbitration that is otherwise on track and nearing conclusion is a much easier case to extend than one still at an early evidentiary stage, and counsel should candidly assess that before deciding whether to seek extension or let the point be argued by the other side instead."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I still apply to extend my arbitrator's mandate if the eighteen-month period has already passed?",
+      "a": "Yes. The Supreme Court in Rohan Builders held that a Section 29A extension application can be filed even after the statutory period has expired, resolving a split among high courts that had gone the other way, including the Calcutta High Court."
+    },
+    {
+      "q": "Is the extension granted automatically once I file after the deadline?",
+      "a": "No. The applicant must show sufficient cause for the underlying delay and for not applying before the mandate lapsed. Courts can also impose conditions, including costs, and remain alert to applications that look like an attempt to revive a stale proceeding rather than genuinely continue one."
+    },
+    {
+      "q": "Which court do I approach for a Section 29A extension?",
+      "a": "The court as defined in Section 2(1)(e) of the Act, generally the principal civil court of original jurisdiction in the district, or the relevant High Court where it has ordinary original civil jurisdiction over the arbitration."
+    },
+    {
+      "q": "Does this ruling help a party that wants the arbitration to end rather than continue?",
+      "a": "Indirectly. A party opposing extension can still argue that sufficient cause is absent or that the delay reflects the applicant's own conduct, and the court retains full discretion to refuse the extension and let the mandate terminate instead."
+    }
+  ],
+  "references": [
+    "Section 29A, Arbitration and Conciliation Act, 1996, particularly sub-sections (1), (3), (4) and (5)",
+    "Section 2(1)(e), Arbitration and Conciliation Act, 1996 (definition of court)",
+    "Rohan Builders (India) Pvt. Ltd. v. Berger Paints India Ltd., Supreme Court, 12 September 2024"
+  ],
+  "sources": [
+    "https://www.livelaw.in/amp/supreme-court/arbitration-application-to-extend-time-to-pass-arbitral-award-maintainable-even-after-expiry-of-period-under-s29a4-supreme-court-269451",
+    "https://disputeresolution.cyrilamarchandblogs.com/2024/10/rohan-builders-judgment-a-watershed-moment-in-indian-arbitration-law/",
+    "https://indiacorplaw.in/2024/11/02/timeline-of-filing-application-under-section-29a-for-extension-of-time/",
+    "https://theindianlawyer.in/supreme-court-rules-that-extension-of-limitation-period-by-courts-is-permissible-under-arbitration-and-conciliation-act-1996-on-the-ground-of-sufficient-cause/"
+  ],
+  "verification_notes": "Confirmed the Rohan Builders judgment date (12 September 2024), the bench (Khanna and Mahadevan, JJ.), the high court split it resolved, and the core holding and reasoning on the word 'terminate' and the absence of a full stop in the provision, from LiveLaw, Cyril Amarchand Mangaldas blog and IndiaCorpLaw. Confirmed the sufficient-cause and conditions-on-extension point from the same sources. Cited the case without a single confirmed neutral citation number since sources gave varying parallel citations (2024 INSC 686 per Verdictum, 2024 LiveLaw (SC) 693); referred to the case by name, bench and decision date instead to avoid asserting an unverified specific number."
+}

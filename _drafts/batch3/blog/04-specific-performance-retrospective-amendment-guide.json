@@ -1,0 +1,85 @@
+{
+  "slug": "specific-performance-retrospective-amendment-guide",
+  "title": "Does the 2018 Specific Relief Act Amendment Apply to a Contract Signed Before October 2018?",
+  "meta_description": "Whether the 2018 amendment making specific performance an enforceable right rather than a discretionary remedy applies to older agreements to sell.",
+  "practice_area": "Property & Civil Litigation",
+  "intro": [
+    "A buyer sitting on an agreement to sell signed in 2015 or 2016, where the seller has since refused to execute the sale deed, runs into a question that used to have a fairly settled answer and does not anymore: whether the buyer gets specific performance as a matter of right, as the law reads today, or only if a court chooses to grant it in its discretion, as the law read when the agreement was signed. The difference is not academic. Before the Specific Relief (Amendment) Act, 2018, Section 20 gave courts broad discretion to refuse specific performance even where the buyer proved every element of the case, on general equitable grounds. The amendment deleted that discretion for contracts of the kind it covers, converting specific performance from an equitable remedy a court could decline into something close to an enforceable right.",
+    "Whether that change applies only to agreements signed after 1 October 2018, when the amendment came into force, or also to older agreements where the suit is filed or decided after that date, has gone back and forth at the Supreme Court. This guide explains where that question currently stands and what it means for a buyer or seller holding a pre-2018 agreement."
+  ],
+  "sections": [
+    {
+      "heading": "What changed in 2018 and why it matters",
+      "paragraphs": [
+        "Before the amendment, Section 20 of the Specific Relief Act, 1963 allowed a court to refuse specific performance of a contract even if the plaintiff had made out the case, on grounds such as the contract being unfair, giving the plaintiff an unfair advantage, or specific performance causing the defendant hardship not foreseen at the time of the contract. Courts routinely used this discretion to send a disappointed buyer to damages instead of the property itself, particularly where property prices had risen sharply and the seller had an obvious motive to walk away.",
+        "The 2018 amendment removed this discretion for most categories of contract and restructured the Act so that specific performance is granted unless narrow exceptions apply, essentially making it the default remedy rather than one among several equally available options. For a buyer, this is the difference between having to persuade a court on equitable grounds in addition to proving the contract, and simply proving the contract."
+      ]
+    },
+    {
+      "heading": "The 2022 ruling that said the amendment was prospective",
+      "paragraphs": [
+        "In Katta Sujatha Reddy v. Siddamsetty Infra Projects Pvt. Ltd., decided in 2022, the Supreme Court held that the 2018 amendment applies only prospectively, meaning it governs contracts entered into on or after 1 October 2018, and does not reach back to change the legal character of specific performance for agreements signed before that date even if the suit was still pending in 2022. The reasoning was that a substantive right, in this case a seller's right to invoke a court's discretion to refuse performance, cannot be taken away by a later amendment unless the legislature says so clearly, and the 2018 Act contained no such express retrospective provision.",
+        "This ruling meant that for years afterward, lawyers drafting or litigating a specific performance suit over a pre-October 2018 agreement had to argue discretion under the old Section 20, essentially litigating two different legal regimes depending on which side of that date the contract fell."
+      ]
+    },
+    {
+      "heading": "The 2024 recall and what it actually decided",
+      "paragraphs": [
+        "The same case came back before the Supreme Court on a review, and in November 2024 the Court recalled its own 2022 judgment on the merits, finding that the earlier bench had made a significant error in how it weighed the facts and equities of the specific case. On reconsideration, the Court granted specific performance directly rather than sending the matter back, and in doing so engaged again with whether discretionary refusal under the old Section 20 was appropriate even on a pre-amendment transaction, concluding on the facts before it that specific performance should be decreed.",
+        "What is genuinely unsettled, and commentators have flagged this directly, is whether the 2024 recall also overturned the broader legal holding that the amendment is prospective, or whether it left that general proposition standing while correcting only the specific equitable assessment made in 2022. At least one academic review has argued the prospective-application finding was not actually disturbed and remains good law, even though the 2022 judgment as a whole was recalled. A litigant relying on this case for either position should read the 2024 order itself closely rather than relying on headline summaries, since the scope of what was actually overturned is contested."
+      ]
+    },
+    {
+      "heading": "What this means for a pending suit on an old agreement",
+      "paragraphs": [
+        "For practical purposes, a buyer suing on a pre-October 2018 agreement should plead the case on both footings: first, that even applying the pre-amendment Section 20 discretion, the facts of readiness, willingness and absence of any equitable bar justify specific performance, and second, in the alternative, that the amended provision's more buyer-favourable approach should inform how the court exercises whatever discretion survives. Relying solely on the amended Act's language for an older contract remains legally risky given the unresolved scope of the recall.",
+        "A seller defending such a suit still has arguments available under the old Section 20 that would not survive under the amended Act, such as pointing to a hardship not foreseeable when the contract was signed, or an unfair advantage the buyer obtained through the contract's terms. These defences have not disappeared for pre-2018 contracts merely because the 2022 judgment was recalled; what has changed is that the recall shows the Supreme Court willing to grant specific performance even while discussing old-regime discretion, if the facts support it strongly enough."
+      ]
+    },
+    {
+      "heading": "Readiness and willingness still has to be proved regardless of the regime",
+      "paragraphs": [
+        "Neither the pre-amendment nor the amended Act dispenses with the plaintiff's burden to plead and prove continuous readiness and willingness to perform their own obligations under the contract, typically meaning the balance consideration was available and the buyer was not in default of any condition precedent. This requirement predates the 2018 amendment and survives it; it is a separate question from whether the court has discretion to refuse performance once readiness and willingness are established.",
+        "Courts continue to scrutinise this element closely in both old and new contracts, and a buyer who cannot show the purchase money was arranged, or who sat on the agreement for years without demanding performance or issuing a legal notice, faces the same difficulty regardless of which version of Section 20 technically applies to the transaction. A chain of correspondence, bank statements showing funds were kept ready, and a clear legal notice calling on the seller to execute the deed go a long way toward meeting this burden, far more than oral assertions made for the first time in the plaint."
+      ]
+    },
+    {
+      "heading": "Practical drafting and litigation steps",
+      "paragraphs": [
+        "A party drafting a fresh agreement to sell today is unambiguously governed by the amended Act, so the discretionary defences discussed above are largely unavailable to a seller who signs a contract now and later wants to back out; the contract's own terms, such as a genuine, reasonable forfeiture or exit clause, matter far more than arguing general equity. For existing pre-2018 agreements still in dispute, both sides should get the 2024 recall order reviewed specifically for what it held on the prospective-application question, since relying on a secondary summary that simply says the 2022 position was reversed may overstate what actually changed.",
+        "Limitation remains a separate and often fatal issue in these matters: a suit for specific performance must be filed within three years from the date fixed for performance, or if no date is fixed, from when the plaintiff has notice of the seller's refusal to perform, under Article 54 of the Limitation Act, 1963. A buyer who delays filing while this doctrinal question gets sorted out risks losing the claim entirely on limitation, independent of which version of Section 20 eventually applies."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "My agreement to sell was signed in 2016. Does the amended, buyer-friendly Specific Relief Act apply to my case?",
+      "a": "The position is unsettled. The Supreme Court held in 2022 that the amendment is prospective, applying only to post-October 2018 contracts, but that judgment was recalled in 2024, and commentators disagree on whether the prospective-application finding survived the recall. Plead the case under both regimes."
+    },
+    {
+      "q": "Does the 2018 amendment mean specific performance is now automatic?",
+      "a": "No. It removes the general discretionary grounds for refusal that existed under the old Section 20, but the plaintiff still has to prove the contract, prove continuous readiness and willingness to perform, and avoid any specific statutory bar that still applies under the amended Act."
+    },
+    {
+      "q": "What is readiness and willingness, and why does it matter regardless of which law applies?",
+      "a": "It means the buyer was able and prepared to pay the balance consideration and perform their side of the contract throughout, not just at the time of filing suit. Courts in both the old and amended regimes treat failure to prove this as fatal to a specific performance claim."
+    },
+    {
+      "q": "How long do I have to file a suit for specific performance?",
+      "a": "Generally three years from the date fixed for performance in the contract, or from when the plaintiff learns of the seller's refusal if no date was fixed, under Article 54 of the Limitation Act, 1963. This limitation period is unaffected by the debate over which version of Section 20 applies."
+    }
+  ],
+  "references": [
+    "Sections 10 and 20, Specific Relief Act, 1963 (as it stood before 1 October 2018)",
+    "Specific Relief (Amendment) Act, 2018, effective 1 October 2018",
+    "Article 54, Limitation Act, 1963",
+    "Katta Sujatha Reddy v. Siddamsetty Infra Projects Pvt. Ltd., Supreme Court, 2022 (prospective-application holding) and review order, November 2024 (recall)"
+  ],
+  "sources": [
+    "https://www.livelaw.in/amp/top-stories/supreme-court-2018-amendment-specific-relief-act-prospective-katta-sujatha-reddy-vs-siddamsetty-infra-projects-pvt-ltd-2022-livelaw-sc-712-207661",
+    "https://www.livelaw.in/amp/supreme-court/supreme-court-recalls-judgment-which-held-2018-amendment-to-specific-relief-act-prospective-274667",
+    "https://livelaw.in/articles/specific-relief-amendment-katta-sujatha-reddy-judgment-review-riddle-287693",
+    "https://nujslawreview.org/wp-content/uploads/2025/01/17.3-Saha.pdf"
+  ],
+  "verification_notes": "Confirmed the 2022 Katta Sujatha Reddy holding (2022 LiveLaw (SC) 712) that the 2018 amendment is prospective, and the November 2024 recall of that judgment on review, from two LiveLaw articles. Confirmed the contested scholarly view that the prospective-application finding may have survived the recall from the NUJS Law Review article. Did not assert a single definitive answer on whether the recall reversed the prospective-application holding, since sources disagree, and said so directly in the guide. Left out any claim about a specific paragraph number in the 2024 order since it was not confirmed in results."
+}
