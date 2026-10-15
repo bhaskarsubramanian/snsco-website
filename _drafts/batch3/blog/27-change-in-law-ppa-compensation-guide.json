@@ -1,0 +1,81 @@
+{
+  "slug": "change-in-law-ppa-compensation-guide",
+  "title": "Change in Law Claims Under Power Purchase Agreements: What a Generator Can Actually Recover",
+  "meta_description": "How Change in Law clauses in Indian PPAs work and what the Supreme Court held in the 2025 Adani Power Rajasthan ruling on evacuation charges.",
+  "practice_area": "Power, Energy & Mining",
+  "intro": [
+    "A generator signs a power purchase agreement at a tariff built on a fixed set of assumptions: coal landed cost on the bid date, the tax regime as it then stood, the regulatory charges in force when the financial model was closed. Years into the contract a new cess appears, a tribunal reclassifies an existing levy, or a government notification changes what counts as a taxable event. The generator's costs move. The tariff does not. The Change in Law clause in almost every Indian PPA exists to handle precisely this gap, and in practice the distribution company on the other side resists paying under it in nearly every case that reaches a regulator.",
+    "This guide sets out what a Change in Law clause typically covers, what a generator must show to invoke it, and what the Supreme Court actually decided in 2025 when a discom tried to argue that a coal evacuation charge was not a qualifying event at all."
+  ],
+  "sections": [
+    {
+      "heading": "What counts as a Change in Law under a standard PPA",
+      "paragraphs": [
+        "Most Indian PPAs, whether competitively bid under Section 63 of the Electricity Act or signed under the standard bid documents used by SECI and state discoms, define Change in Law to include a new law, an amendment to an existing law, a change in an existing rule or notification, and a change in the interpretation of any of these by a competent court or tribunal, occurring after the bid deadline or the effective date of the agreement. The clause is deliberately broad on the trigger and deliberately narrow on the remedy: it does not cover ordinary commercial risk, currency movement, or a change the generator could have anticipated at the time of bidding.",
+        "A levy introduced by a central or state government agency, even one dressed up as a service charge rather than a tax, can qualify if it was not in force or not applicable on the relevant cut-off date and if it increases the cost of supplying power under that specific PPA. The Central Electricity Regulatory Commission and the state regulatory commissions have consistently treated new coal cesses, revisions to busy-season railway surcharges, and new environmental compliance costs as Change in Law events, provided the generator can show the direct cost link to the contracted project.",
+        "Restitution is the governing principle, not compensation at large. The generator is meant to be restored to the same economic position it would have occupied had the change not occurred, no better and no worse. That framing matters because discoms frequently argue for a narrower reading that caps relief to only the bare incremental tax, while generators argue for inclusion of carrying cost on the delayed recovery, which tribunals have generally allowed where the delay in payment was not of the generator's own making."
+      ]
+    },
+    {
+      "heading": "The JVVNL v Adani Power Rajasthan ruling on the evacuation facility charge",
+      "paragraphs": [
+        "In Jaipur Vidyut Vitran Nigam Ltd v Adani Power Rajasthan Ltd (Civil Appeal No. 4336 of 2025), decided on 23 May 2025, a Supreme Court bench of Justices Sundresh and Bindal considered whether a Coal India evacuation facility charge, levied under a notification issued after the PPA's effective date, counted as a Change in Law event entitling the generator to tariff adjustment and carrying cost from the date of the notification. The Rajasthan discoms had resisted the claim before the Appellate Tribunal for Electricity and lost, and they carried the fight to the Supreme Court.",
+        "The Court upheld APTEL's finding that the levy was a Change in Law event and that the generator was entitled to adjustment and carrying cost from the notification date, not from some later date the discoms proposed. It rejected the discoms' argument that recognising the charge as Change in Law amounted to reinterpreting the contract rather than applying it, holding instead that the PPA's own restitution principle required exactly this kind of adjustment once a qualifying event was shown.",
+        "A timing argument discoms often raise came up here too: that a generator who notifies a Change in Law event even a day or two after the levy is imposed should lose some portion of relief for the delay. The Court rejected that argument on these facts, noting that the generator had notified the event promptly and that the discoms' position on when the supplementary bill should have been raised had neither a factual nor a legal basis. This matters for drafting notice clauses: a generator who sits on a qualifying event for months, rather than days, gives the discom a real argument to resist the earlier tranche of a claim."
+      ]
+    },
+    {
+      "heading": "How this builds on the 2023 line of cases",
+      "paragraphs": [
+        "The 2025 ruling did not invent the restitution principle. It applied a line the Supreme Court had already set out in Maharashtra State Electricity Distribution Co Ltd v Adani Power Maharashtra Ltd, where the Court held that Change in Law compensation exists to put the generator back in the economic position it would have occupied absent the change, including compensation for coal the generator could no longer obtain on the terms assumed at bid stage because of the change. GMR Warora Energy Ltd v Central Electricity Regulatory Commission extended the same principle across several specific cost categories that recur in these disputes, including busy-season railway surcharges, forest permit related levies, and the evacuation facility charge itself, along with carrying cost on delayed recovery.",
+        "Read together, these rulings leave discoms with a narrowing set of defences. Arguing that a charge is not really a tax and therefore cannot be Change in Law rarely succeeds anymore, since tribunals look at the economic effect of the levy on the specific project rather than its formal label. The more durable defences now concern quantum, whether the generator's computation actually reflects the incremental cost caused by the change, and timing, whether the claim was raised and pursued without unreasonable delay."
+      ]
+    },
+    {
+      "heading": "Building the claim: notice, evidence and quantum",
+      "paragraphs": [
+        "A Change in Law claim starts with the notice clause in the PPA itself, which usually sets out a period within which the generator must notify the procurer of the event and its estimated impact. Missing this window does not necessarily kill the claim, since regulators have allowed late notices where the delay was explained and the discom was not actually prejudiced, but it hands the discom an argument on cut-off dates that a generator would rather not have to fight.",
+        "The regulatory petition itself needs to connect three things clearly: the specific notification or judicial ruling that constitutes the Change in Law event, the date it took effect, and a cost computation that ties the increase directly to the contracted project rather than to the generator's business generally. A generator who runs multiple plants and tries to claim an aggregate increase without isolating the PPA-specific impact invites exactly the kind of scrutiny that slows these petitions down for years.",
+        "Carrying cost is where generators often leave money on the table by not asking for it explicitly or by asking for it at a rate the regulator later finds unjustified. The safer approach is to peg the carrying cost rate to a documented cost of capital or a rate the regulator has accepted in comparable orders for the same state commission, rather than proposing a round number with no supporting basis."
+      ]
+    },
+    {
+      "heading": "What discoms actually argue in defence",
+      "paragraphs": [
+        "Procurers rarely deny that a new levy exists. Their more common strategy is to argue about causation and quantum: that the generator would have incurred a similar cost increase regardless of the specific notification, that the claimed amount includes costs unrelated to the project, or that the generator delayed filing the claim long enough that part of the carrying cost should be disallowed as self-inflicted. A second common argument is that the change falls within a risk the generator already priced into its bid, which regulators test by looking at whether the specific levy existed in any form on the bid date, not whether levies of that general kind were foreseeable in the abstract.",
+        "A third line, increasingly common after the 2025 ruling, is to argue that recognising a charge as Change in Law for one project should not automatically extend to a differently worded PPA for another project, even between the same generator and discom. This forces generators with multiple contracts to file separate, fully reasoned petitions rather than relying on an order passed in one case to carry over into another."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a Change in Law claim require the generator to go to arbitration first?",
+      "a": "No. Change in Law disputes under PPAs governed by the Electricity Act go to the appropriate regulatory commission, central or state depending on the PPA, not to arbitration, because the Act gives these commissions exclusive jurisdiction over tariff related disputes. Arbitration clauses in the PPA generally do not override this statutory forum for Change in Law claims specifically."
+    },
+    {
+      "q": "Can a discom refuse to pay until the regulator's order is final?",
+      "a": "Discoms frequently withhold payment pending appeal, and generators then have to pursue execution or separate recovery proceedings even after winning at APTEL or the Supreme Court. Building a carrying cost claim into the original petition, rather than seeking it as an afterthought, reduces the room for the discom to argue that delay was the generator's own doing."
+    },
+    {
+      "q": "Does a change in judicial interpretation count as Change in Law, or only a new statute?",
+      "a": "Most standard PPA definitions expressly include a change in the interpretation of an existing law by a court or tribunal of competent jurisdiction, going beyond a fresh enactment alone. A ruling that reclassifies an existing charge, increasing the generator's cost under an existing law, can qualify on the same footing as a new notification, provided the ruling postdates the bid cut-off."
+    },
+    {
+      "q": "What happens if the Change in Law event reduces the generator's cost instead of increasing it?",
+      "a": "The restitution principle cuts both ways. A well-drafted PPA requires the generator to pass on a cost decrease to the procurer in the same manner it would claim a cost increase, and discoms do raise this when a tax is reduced or withdrawn. A generator that claims increases but resists symmetrical pass-through of decreases weakens its own position before the regulator."
+    }
+  ],
+  "references": [
+    "Jaipur Vidyut Vitran Nigam Ltd v Adani Power Rajasthan Ltd, Civil Appeal No. 4336 of 2025, decided 23 May 2025",
+    "Maharashtra State Electricity Distribution Co Ltd v Adani Power Maharashtra Ltd (Supreme Court, 2023)",
+    "GMR Warora Energy Ltd v Central Electricity Regulatory Commission (Supreme Court, 2023)",
+    "Electricity Act, 2003, Section 63 and Section 79 (CERC jurisdiction over generating companies with central/interstate PPAs)"
+  ],
+  "sources": [
+    "https://www.casemine.com/commentary/in/supreme-court-establishes-precedent-on-change-in-law-compensation-in-power-purchase-agreements/view",
+    "https://www.etvbharat.com/en/!bharat/sc-rejects-rajasthan-discoms-plea-upholds-aptel-verdict-in-adani-power-case-enn25052307257",
+    "https://ksandk.com/newsletter/sc-upholds-adani-powers-change-in-law-claims-vs-jvvnl/",
+    "https://trilegal.com/knowledge-repository/supreme-court-finally-settles-issues-related-to-change-in-law-provisions/"
+  ],
+  "verification_notes": "Confirmed the JVVNL v Adani Power Rajasthan outcome (CA 4336/2025, decided 23 May 2025, upholding APTEL on the evacuation facility charge as Change in Law, carrying cost from notification date, and rejecting the discoms' notice-timing argument) from casemine.com, etvbharat.com and ksandk.com, which agree on the case name, appeal number, date and outcome. The 2023 Maharashtra SEDCL v Adani Power Maharashtra and GMR Warora v CERC rulings are referenced as background per trilegal.com and ksandk.com commentary; I did not independently pull the full judgment text for either, so specific cost categories mentioned (busy-season surcharge, forest levy) are taken from secondary commentary rather than the primary order and are described only in general terms for that reason. CERC/state commission jurisdiction over Change in Law disputes is a general proposition under the Electricity Act, 2003 and is not tied to a specific citation."
+}
