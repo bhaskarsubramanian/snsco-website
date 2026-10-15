@@ -1,0 +1,77 @@
+{
+  "slug": "ppvfr-farmers-privilege-pepsico-potato-guide",
+  "title": "Can a Seed Company Sue a Farmer for Growing Its Protected Variety? The PepsiCo Potato Case Explained",
+  "meta_description": "What the Plant Varieties and Farmers' Rights Act allows a farmer to do with protected seed, and what the Supreme Court held in the PepsiCo potato case.",
+  "practice_area": "Agricultural Industries",
+  "intro": [
+    "When PepsiCo India sued a group of Gujarat potato farmers in 2018 and 2019 for allegedly growing its registered FL 2027 potato variety without authorisation, the case became the clearest real-world test of a question that sits at the heart of India's plant variety law: how far does a farmer's statutory privilege to save, use and exchange seed actually go once a company has registered that variety and built a commercial supply chain around it. PepsiCo withdrew those specific suits within months, but the underlying registration itself then became the subject of a cancellation fight that reached the Supreme Court years later.",
+    "This guide sets out what Section 39 of the Protection of Plant Varieties and Farmers' Rights Act actually protects, what the Supreme Court decided in the PepsiCo matter, and what a farmer facing a similar infringement claim should understand about the practical scope of the farmers' privilege."
+  ],
+  "sections": [
+    {
+      "heading": "The farmers' privilege under Section 39(1)(iv)",
+      "paragraphs": [
+        "The Protection of Plant Varieties and Farmers' Rights Act, 2001 creates a sui generis registration system for plant varieties, distinct from and running parallel to patent law, specifically because Indian policy chose not to allow patents over plant varieties as such. Section 39(1)(iv) is the provision that preserves a farmer's traditional practices against the registered breeder's otherwise exclusive rights: it provides that a farmer is deemed entitled to save, use, sow, resow, exchange, share or sell farm produce, including seed of a variety protected under the Act, in the same manner the farmer was entitled to before the Act came into force.",
+        "The one clear statutory limit sits within the same provision: a farmer is not entitled to sell branded seed of a protected variety. The Act defines branded seed as seed put into a package or other container and labelled in a way that indicates it is seed of a variety protected under the Act. The distinction the Act draws is between a farmer selling farm produce or seed in the ordinary, unbranded way farmers have always exchanged and sold seed locally, which remains protected, and a farmer effectively repackaging and marketing protected seed under circumstances that look like commercial branded distribution, which does not."
+      ]
+    },
+    {
+      "heading": "How the PepsiCo dispute actually unfolded",
+      "paragraphs": [
+        "PepsiCo India held registration for the FL 2027 potato variety, grown under contract for its Lay's potato chip supply chain, and in 2018 and 2019 it filed infringement suits against at least nine farmers in Gujarat alleging unauthorised cultivation of the registered variety. The suits drew sharp public criticism, including from farmer advocacy groups, and PepsiCo withdrew all of them within months rather than pursue the litigation to judgment.",
+        "The registration itself did not disappear from the picture after the suits were withdrawn. An application seeking revocation of the FL 2027 registration, brought on grounds connected to the earlier farmer litigation and to how the variety had been registered, led the Protection of Plant Varieties and Farmers' Rights Authority to revoke the registration in 2021. The Delhi High Court upheld that revocation in 2023, and PepsiCo carried the matter to the Supreme Court."
+      ]
+    },
+    {
+      "heading": "What the Supreme Court actually decided in 2026",
+      "paragraphs": [
+        "In August 2026, the Supreme Court declined to let the revocation stand on the ground argued by the party challenging the registration, restoring PepsiCo's position with respect to the FL 2027 registration itself, while making clear that this did not leave farmers without protection going forward. The Court held that an individual farmer sued for infringement by the registration holder can still invoke Section 39(1)(iv) as a defence in that infringement proceeding, provided the farmer can show the facts bring the conduct within the privilege, such as genuinely saved or exchanged seed rather than branded commercial distribution.",
+        "The ruling drew criticism from the activist who had brought the revocation petition, who argued that the outcome now requires each individual farmer to prove entitlement to the privilege in the course of defending an infringement suit, rather than treating a pattern of suits against farmers as itself a public interest ground to cancel the registration under Section 34(h) of the Act. That criticism captures the practical asymmetry at the centre of this entire area: a large seed or food company can fund protracted litigation far more easily than an individual farmer can fund a defence, even where the farmer is likely to succeed on the merits of the Section 39(1)(iv) privilege itself."
+      ]
+    },
+    {
+      "heading": "What this means for a farmer facing an infringement claim",
+      "paragraphs": [
+        "A farmer served with an infringement notice or suit over a registered variety should focus first on characterising exactly what was done with the seed: saved from the farmer's own previous harvest and resown, exchanged informally with neighbouring farmers, or sold as unbranded farm produce all sit within the Section 39(1)(iv) privilege as currently understood, whereas packaging and labelling seed in a way that identifies it as the protected variety for sale crosses into the branded seed exclusion the Act does not protect.",
+        "Contemporaneous evidence matters here just as it does in any factual dispute: records or witnesses showing the seed's origin, how it was obtained, and how it was subsequently used or exchanged, put together before a dispute escalates rather than reconstructed afterward, give a farmer a far stronger footing to invoke the privilege successfully than a bare assertion made for the first time in a written statement."
+      ]
+    },
+    {
+      "heading": "The broader tension this case leaves unresolved",
+      "paragraphs": [
+        "The PepsiCo litigation highlights a structural feature of the PPVFR Act that has not been fully worked out: the Act gives registered variety holders real enforcement teeth through infringement suits, while giving farmers a privilege that is, as this case shows, something each individual farmer may have to assert and prove case by case rather than something that automatically immunises farmers as a class from suit. Whether Parliament or the Authority eventually moves toward a more structural protection, such as treating repeated suits against farmers over the same variety as itself relevant to a registration's continued validity, remains an open policy question this case has sharpened rather than settled.",
+        "For now, a farmer growing a seed company's registered variety under any kind of contract farming or buy-back arrangement should keep clear records of the arrangement's terms specifically because those terms, not just the general existence of a privilege in the statute, are what will actually determine the outcome if a dispute over seed use ever turns into litigation."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I save and resow seed from a protected potato or wheat variety I grew last season?",
+      "a": "Yes, in general. Section 39(1)(iv) of the PPVFR Act preserves a farmer's right to save, use, sow and resow seed of a protected variety in the same manner as before the Act, subject to the specific exception for selling it as labelled, branded seed of that protected variety."
+    },
+    {
+      "q": "Does the Supreme Court's 2026 ruling mean PepsiCo can now sue any farmer growing its potato variety?",
+      "a": "The ruling restored PepsiCo's registration on the specific ground argued, but it also confirmed that an individual farmer sued for infringement can still raise the Section 39(1)(iv) privilege as a defence, provided the facts support it. It does not mean every farmer growing the variety is automatically liable; it means the privilege has to be established in each case rather than relied on to block the registration itself."
+    },
+    {
+      "q": "What exactly makes seed 'branded' and therefore outside the farmers' privilege?",
+      "a": "The Act defines branded seed as seed packaged or otherwise put into a container and labelled in a way that indicates it is seed of a variety protected under the Act. Ordinary unbranded exchange or sale of farm produce or seed among farmers falls outside this definition and remains within the privilege."
+    },
+    {
+      "q": "Can a farmers' group get a seed company's registration cancelled for repeatedly suing farmers?",
+      "a": "The PPVFR Act does provide a public interest ground for revocation under Section 34(h), and this was the route tried in the PepsiCo matter, with the Authority initially revoking the registration on related grounds before the Supreme Court later restored it. The 2026 ruling makes this a harder route than relying on individual farmers' Section 39(1)(iv) defences in their own infringement proceedings."
+    }
+  ],
+  "references": [
+    "Protection of Plant Varieties and Farmers' Rights Act, 2001, Section 39(1)(iv) (farmers' privilege) and Section 34(h) (revocation on public interest grounds)",
+    "Supreme Court ruling in the PepsiCo India FL 2027 potato variety registration dispute, decided August 2026",
+    "Delhi High Court ruling (2023) upholding the Protection of Plant Varieties and Farmers' Rights Authority's 2021 revocation of the FL 2027 registration"
+  ],
+  "sources": [
+    "https://www.downtoearth.org.in/agriculture/sc-upholds-pepsicos-potato-variety-registration-says-sued-farmers-can-invoke-statutory-protection",
+    "https://www.jurishour.in/supreme-court/farmers-claim-protection-use-of-protected-seeds/",
+    "https://ksandk.com/intellectual-property-rights/farmers-rights-ppvfr-act-section-39-privilege/",
+    "https://swarajyamag.com/amp/story/business%2Fpepsicos-case-against-gujarat-farmers-is-weak-heres-why"
+  ],
+  "verification_notes": "Confirmed from downtoearth.org.in and jurishour.in that the Supreme Court, in August 2026, upheld PepsiCo's FL 2027 potato variety registration while holding that individual farmers sued for infringement can still invoke the Section 39(1)(iv) privilege as a defence, and that the Plant Varieties Authority had revoked the registration in 2021 (upheld by the Delhi High Court in 2023) before the Supreme Court restored it. Sources gave slightly different exact dates for the 2026 ruling (5 August vs 7 August) and one secondary source cited it as 2026 INSC 811; given this minor conflict, the guide states the month and year (August 2026) without asserting a specific day or committing fully to the INSC citation number as definitively confirmed, and does not name the specific bench composition since only one, less authoritative source provided judge names and I could not cross-check them against a second source. The content and limits of Section 39(1)(iv), including the branded seed exclusion, are confirmed from ksandk.com. PepsiCo's 2018-19 suits against Gujarat farmers and their withdrawal in 2019 are confirmed from downtoearth.org.in and swarajyamag.com."
+}
