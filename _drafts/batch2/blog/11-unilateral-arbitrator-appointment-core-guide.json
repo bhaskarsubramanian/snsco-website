@@ -1,0 +1,85 @@
+{
+  "slug": "unilateral-arbitrator-appointment-core-guide",
+  "title": "Can One Party Alone Appoint Your Arbitrator? What the Supreme Court's CORE Ruling Changed",
+  "meta_description": "What the Supreme Court's 2024 CORE ruling changed for unilateral arbitrator appointment clauses in government and PSU contracts.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "Most government and PSU contracts in India used to carry a clause that let one side, usually the employer, pick the arbitrator or hand the other party a shortlist drawn from its own panel. Contractors signed these clauses because they had no real choice. The tender terms were non-negotiable, and objecting meant losing the contract. For years the Supreme Court tolerated this arrangement in one form or another, reasoning that giving the contractor two or three names to choose from was enough balance to satisfy the law.",
+    "That position changed in November 2024, when a five-judge Constitution Bench decided Central Organisation for Railway Electrification v. ECI-SPIC-SMO-MCML (JV), generally referred to as CORE. The ruling does not abolish panel-based arbitration, but it closes off the practice of letting one party control who sits in judgment over the dispute. Anyone with a government contract signed before 2024, or a live arbitration proceeding under a panel clause, needs to know what the Court actually decided and what it left open."
+  ],
+  "sections": [
+    {
+      "heading": "What the clause usually said, and why it mattered",
+      "paragraphs": [
+        "The standard clause in railway, NHAI, PSU and similar contracts worked roughly like this: the employer's general manager or a named official maintained a panel of retired officers or technical experts. On a dispute, the employer would shortlist four or five names from that panel and ask the contractor to pick two, from which the employer would then appoint one, sometimes retaining a casting say in who chaired the tribunal. In some versions the employer's own officer, or a person nominated solely by the employer, sat as the sole arbitrator.",
+        "The problem was not that panels existed. Nothing in the Arbitration and Conciliation Act, 1996 stops parties from agreeing to draw arbitrators from a curated list. The problem was asymmetry: one party built the panel, controlled who got onto it, and in substance decided who would adjudicate a dispute to which it was itself a party. A 2017 ruling in TRF Ltd. and a 2019 ruling in Perkins Eastman had already struck down the most extreme version of this, where a person who was himself interested in the outcome could nominate the sole arbitrator. What survived after Perkins was the panel model, where the interested party still curated the list but the other side got to choose from within it. A three-judge bench in CORE (2020) had upheld that model, reasoning that the counter-party's freedom to pick two of the four names was a sufficient check.",
+        "Contractors kept challenging this in practice, mainly because panels were often stacked with former employees of the same department, and genuinely independent arbitrators rarely found their way onto them. The 2020 CORE ruling itself became the subject of a reference to a larger bench, on the footing that it needed to be reconciled with the equal-treatment principle the Court had developed in Perkins and related cases."
+      ]
+    },
+    {
+      "heading": "What the 2024 Constitution Bench actually held",
+      "paragraphs": [
+        "The majority opinion, written by the then Chief Justice D.Y. Chandrachud for himself and Justices J.B. Pardiwala and Manoj Misra, with separate concurring opinions from Justices Hrishikesh Roy and P.S. Narasimha, held that a clause letting one party unilaterally curate a panel and effectively control the appointment process in a public-private contract offends Article 14 of the Constitution. The Court reasoned that equal treatment of parties is not just a feature of arbitral procedure once a tribunal is constituted, it is a principle that has to be honoured at the appointment stage itself, because a tribunal whose composition one party dominates cannot inspire the confidence the process depends on.",
+        "The ruling overruled the 2020 three-judge decision in CORE to the extent it had upheld this kind of clause. It also clarified that the bar on unilateral appointment is not limited to a party nominating itself or an employee as sole arbitrator; it extends to a party effectively controlling the field from which the arbitrator will be drawn, even where the other side gets a say among the shortlisted names.",
+        "The judgment does not outlaw panels altogether. What it requires is that the process of constituting the tribunal give both parties a broadly equal footing, whether through a wider, more neutral panel, a genuinely open choice, or recourse to a Section 11 application before the High Court where the contract's own mechanism fails that standard. The separate opinions differ somewhat on how far this reasoning extends to already-completed arbitrations and awards, so the practical boundary is still being worked out by High Courts applying the ruling case by case."
+      ]
+    },
+    {
+      "heading": "Does this help you if your award is already final?",
+      "paragraphs": [
+        "This is the question most contractors ask first, and the honest answer is that it depends on where the case stands. CORE does not open a fresh limitation window to challenge a decades-old, unchallenged award merely because the appointment clause would now be seen as improper. An award that has become final, where the Section 34 period has run out and no challenge was filed, is not automatically reopened by a later change in the law on arbitrator appointment.",
+        "Where a challenge under Section 34 is still pending, or an appeal under Section 37 is live, the composition of the tribunal is now a ground worth raising if it was not already argued, though courts will still weigh whether the point was available and deliberately not pressed earlier. Where arbitration has not yet started, or a notice invoking the arbitration clause has just gone out, this is the strongest ground to insist on a different appointment process, and a refusal by the employer to depart from the old clause is now a reasonable basis to go straight to a Section 11 application rather than argue it out with the employer's nominating authority.",
+        "Practically, a contractor sitting on a notice invoking arbitration under an old-style clause should write back formally objecting to the appointment mechanism and proposing an alternative, before any arbitrator is actually named. That written objection matters later, because courts look at whether a party accepted the tribunal's constitution without protest."
+      ]
+    },
+    {
+      "heading": "What this means for drafting new contracts",
+      "paragraphs": [
+        "Anyone drafting a government or PSU contract from now on needs to revisit the dispute resolution clause rather than copy the old boilerplate. A clause that still lets the employer alone build the panel and control the shortlist is vulnerable to challenge the moment a dispute actually reaches arbitration, which defeats the purpose of putting an arbitration clause in the contract at all.",
+        "Workable alternatives include a panel maintained by a neutral body such as an arbitral institution rather than the employer's own department, a panel large enough and diverse enough that no single appointment decides the outcome, or simply leaving appointment to agreement between the parties with a fallback to Section 11 if they cannot agree. Public sector undertakings that still run standard-form contracts across hundreds of works orders are the ones with the most work to do here, since a template clause used repeatedly is a template problem repeated every time a dispute arises.",
+        "Private commercial contracts between two equally placed parties are less directly affected, since the Article 14 reasoning is rooted in one party being a public authority and the other not being able to negotiate on equal terms. Even so, prudent drafters are tightening appointment clauses generally, because the equal-treatment principle the Court relied on is not confined to government contracts in its underlying logic, only in how squarely it applies."
+      ]
+    },
+    {
+      "heading": "What a Section 11 petition looks like after CORE",
+      "paragraphs": [
+        "Where the contract's own appointment mechanism is now open to challenge, the practical route is a petition under Section 11 of the Arbitration Act before the jurisdictional High Court, asking the Court to appoint an arbitrator or a tribunal because the agreed mechanism cannot be relied on to produce an independent one. The petition should set out the clause as it stands, explain specifically why it falls foul of the equal-treatment principle the Constitution Bench laid down, and propose a workable alternative, whether a named independent arbitrator, an institutional reference, or a panel drawn from outside the employer's own establishment.",
+        "Employers facing such a petition sometimes argue that the contractor accepted the clause at the time of signing and cannot now resile from it. Courts applying CORE have generally not found this persuasive where the contractor had no real bargaining power over a standard-form government tender, which is exactly the asymmetry the ruling addressed. That said, each Section 11 petition still turns on its own facts, including how the dispute arose, what correspondence passed between the parties, and whether the contractor had in fact gone along with the mechanism in an earlier, unrelated dispute without objection.",
+        "Counsel drafting such a petition should also anticipate the employer raising limitation or res judicata if there was an earlier arbitration between the same parties under the same clause. None of that is fatal, but it needs to be addressed head-on rather than left for the hearing."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the CORE ruling apply to private commercial contracts, not just government ones?",
+      "a": "The ruling is rooted in Article 14, which binds the State and public authorities, not private parties. Its equal-treatment reasoning is still relevant persuasively to private contracts with a lopsided appointment clause, but a private party cannot invoke Article 14 directly against another private party the way a government contractor can against a PSU or department."
+    },
+    {
+      "q": "Can I challenge an arbitrator already appointed under the old clause in a dispute that is still ongoing?",
+      "a": "Yes, this is usually the strongest situation to raise it in. Object in writing to the tribunal's composition as soon as possible, ideally before the first hearing, and be prepared to move the High Court under Section 13 or Section 11 if the tribunal does not accept the objection itself."
+    },
+    {
+      "q": "Will a finalised arbitral award automatically become invalid because of this ruling?",
+      "a": "No. An award that has attained finality, with no timely Section 34 challenge, is not reopened just because the appointment process would now be seen as improper. CORE changes the law prospectively and for pending proceedings; it is not a general ground to revisit closed matters."
+    },
+    {
+      "q": "What should I do if my current contract still has the old unilateral-appointment clause and no dispute has arisen yet?",
+      "a": "Nothing needs to happen immediately, since the clause only becomes a live issue once a dispute is invoked. It is worth flagging the clause in any contract renewal or variation, and keeping a note of the point so that if a dispute does arise, you object to the appointment mechanism before the tribunal is constituted rather than after."
+    }
+  ],
+  "references": [
+    "Central Organisation for Railway Electrification v. ECI-SPIC-SMO-MCML (JV), 2024 INSC 857 (Constitution Bench, decided 8 November 2024)",
+    "Arbitration and Conciliation Act, 1996, Sections 11, 12, 13 and 34",
+    "Constitution of India, Article 14",
+    "TRF Ltd. v. Energo Engineering Projects Ltd. (2017) 8 SCC 377",
+    "Perkins Eastman Architects DPC v. HSCC (India) Ltd. (2020) 20 SCC 760"
+  ],
+  "sources": [
+    "https://www.scobserver.in/journal/supreme-court-to-decide-validity-of-unilateral-nominations-to-panel-of-arbitrator/",
+    "https://scconline.com/blog/post/2024/11/08/unilateral-appointment-arbitrator-public-private-contracts-violate-article-14-supreme-court",
+    "https://www.hsfkramer.com/notes/arbitration/2024-posts/Balancing-party-autonomy-and-equal-treatment-of-parties--Indian-Supreme-Court-s-decision-on-unilateral-arbitrator-appointments-",
+    "https://legalblogs.wolterskluwer.com/arbitration-blog/from-bias-to-balance-indian-supreme-courts-stand-on-unilateral-arbitrator-appointments/",
+    "https://lawsathi.in/judgements/sc/2024/central-organisation-railway-electrification-eci-spic-smo-mcml-jv-joint-venture/"
+  ],
+  "verification_notes": "Confirmed from multiple sources (SCC Online, SCO Observer, HSF Kramer, Wolters Kluwer arbitration blog) that the Supreme Court's Constitution Bench decided CORE on 8 November 2024, held unilateral/panel-curated appointment clauses in public-private contracts violate Article 14, and overruled the 2020 three-judge CORE decision. The neutral citation 2024 INSC 857 and SCR citation were found on a single legal-database aggregator (LawSathi) and not cross-verified against the Supreme Court's own site in this research pass; the case name, bench composition (CJI Chandrachud, Pardiwala and Misra JJ majority, Roy and Narasimha JJ concurring) and holding are corroborated across several independent sources. TRF Ltd. and Perkins Eastman citations are standard reported citations used consistently across sources. Left out: any claim about how the ruling applies to a specific fact pattern of partially completed arbitrations, since the sources flagged that the concurring opinions differ on this and the precise boundary is still being worked out by High Courts; stated this as unsettled rather than asserting a fixed rule."
+}

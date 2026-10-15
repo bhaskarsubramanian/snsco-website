@@ -1,0 +1,85 @@
+{
+  "slug": "ibc-arbitration-clause-override-guide",
+  "title": "Your Contract Has an Arbitration Clause. Does That Stop the Other Side Filing an IBC Petition?",
+  "meta_description": "How Section 238 of the IBC interacts with an arbitration clause, and when a Section 7 or Section 9 petition proceeds despite one.",
+  "practice_area": "IBC & Insolvency",
+  "intro": [
+    "A client who has signed a contract with a wide arbitration clause often assumes that clause covers every dispute arising from the relationship, including a demand for payment that later turns into an insolvency petition. That assumption is wrong more often than it is right. The Insolvency and Bankruptcy Code is not a forum for resolving contractual disputes about whether money is owed; it is a collective, time-bound process for deciding whether a company should be put through resolution or liquidation. The two things can collide, and when they do, the arbitration clause usually does not win.",
+    "This matters in practice at two separate moments: when a creditor is deciding whether to file a Section 7 or Section 9 application instead of invoking arbitration, and when a corporate debtor is deciding whether to resist an insolvency petition by pointing to an arbitration clause and asking for a reference under Section 8 of the Arbitration Act. The law on both fronts is settled enough to plan around, even if the boundary cases still get litigated."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 238 of the IBC actually does",
+      "paragraphs": [
+        "Section 238 gives the IBC an overriding effect over anything inconsistent in any other law or instrument, including a contract. It does not say arbitration agreements are void. What it means in practice is that where the IBC creates its own forum and its own procedure for a particular kind of dispute, that forum cannot be displaced by a contractual term, including an arbitration clause, that would otherwise send the dispute somewhere else.",
+        "The question is not whether an arbitration clause exists; parties almost always have one in a commercial contract. The question is whether the dispute in front of the adjudicating authority is genuinely a dispute about default falling within the IBC's own jurisdiction, or whether it is a commercial dispute between the parties that has simply been packaged as an insolvency application to gain leverage. Courts and tribunals look past the label to work out which it is.",
+        "This is why operational creditors sometimes find a Section 9 application rejected even where a clear amount is unpaid, if the corporate debtor can show a genuine, pre-existing dispute about the underlying contract, say a quality complaint or a disputed invoice raised before the demand notice went out. An arbitration clause is relevant there because it shows the parties agreed a forum for exactly this kind of dispute, but the rejection itself rests on the existence of the dispute, not directly on the clause."
+      ]
+    },
+    {
+      "heading": "What Indus Biotech decided about Section 7 applications",
+      "paragraphs": [
+        "The leading authority is Indus Biotech Private Limited v. Kotak India Venture Fund-I, decided by the Supreme Court in March 2021. A financial creditor had filed a Section 7 application alleging default on optionally convertible redeemable preference shares, and the corporate debtor responded by seeking a reference to arbitration under Section 8 of the Arbitration Act, relying on an arbitration clause in the shareholders' agreement.",
+        "The Court held that the adjudicating authority's job at the Section 7 stage is to first satisfy itself, on the material before it, whether a default has actually occurred. If the authority concludes there is no default, in substance because the dispute is really about valuation or contractual rights rather than a clear-cut non-payment, the Section 7 application is rejected, and at that point the parties are free to pursue arbitration under their contract. But if the authority is satisfied a default exists and admits the petition, the moratorium and the collective insolvency process take over, and the matter does not then go back to arbitration merely because the contract contains a clause for it.",
+        "The practical takeaway is that arbitration and the IBC are not permanently exclusive of each other before admission, but they are exclusive after it. A corporate debtor's best chance of keeping a dispute in arbitration is to show, at the admission hearing itself, that the alleged default is genuinely contested on a bona fide basis, not to wait and raise the arbitration clause after the petition is admitted and a moratorium is in place."
+      ]
+    },
+    {
+      "heading": "Why this collective-process logic also limits operational creditors",
+      "paragraphs": [
+        "For operational creditors under Section 9, the same underlying logic plays out through the pre-existing-dispute test under Section 8 of the IBC rather than through Indus Biotech directly. If the corporate debtor can point to a dispute that existed before the demand notice, including one that an arbitration clause specifically contemplates resolving, the adjudicating authority is required to reject the Section 9 application rather than examine the merits of who is actually right.",
+        "This often surprises operational creditors who expected the IBC to work like a fast-track debt recovery mechanism. It is not meant to. The Supreme Court has repeatedly cautioned against using Section 9 to pressure a solvent company that has a genuine commercial dispute, and the existence of an arbitration clause the respondent is willing to invoke is treated as some evidence, though not conclusive proof, that the dispute is real rather than manufactured to resist payment.",
+        "Once an application is admitted and a moratorium under Section 14 is in force, a creditor's dispute with the corporate debtor effectively becomes subordinate to the collective resolution process. An arbitration that was already pending when the moratorium kicked in is ordinarily stayed for the corporate debtor, though the resolution professional can, in some circumstances, continue to defend or pursue an arbitration where it is in the interest of the estate to establish or resist a claim."
+      ]
+    },
+    {
+      "heading": "Does an arbitration clause help a personal guarantor differently?",
+      "paragraphs": [
+        "Insolvency proceedings against personal guarantors under Part III of the IBC raise a slightly different question, because the guarantor is not necessarily a party to the arbitration clause in the underlying facility agreement between the lender and the corporate borrower, even though the guarantor's liability is coextensive with the borrower's.",
+        "Where a guarantor has separately signed an arbitration agreement covering disputes under the guarantee itself, the same Indus Biotech logic applies in principle: the question at the admission stage is whether a default by the guarantor is established, not whether the underlying facility dispute should go to arbitration. Guarantors have had limited success arguing that a pending arbitration between the lender and the principal borrower should hold up proceedings against the guarantor, because the IBC treats a guarantor's liability as independent and the moratorium under Section 14 in the corporate insolvency does not extend to protect a personal guarantor's own assets.",
+        "A guarantor resisting a Section 95 application gains more by challenging the computation of the debt or the service of the demand than by relying on an arbitration clause that, at best, only delays rather than defeats the application."
+      ]
+    },
+    {
+      "heading": "Practical steps before you file, or before you respond",
+      "paragraphs": [
+        "A creditor considering a Section 7 or Section 9 route instead of arbitration should assemble clean, contemporaneous evidence of default, specifically records showing no dispute was raised about the amount or the underlying obligation before the demand notice. Weak or recent paperwork inviting an inference that the dispute was manufactured after the demand notice will cost time at the admission hearing and can see the petition rejected outright.",
+        "A corporate debtor wanting to keep a dispute in arbitration should raise the point the moment a demand notice or Section 7 application lands, with specific reference to correspondence predating the notice that shows the dispute was live earlier, not an afterthought. Waiting until after admission to raise the arbitration clause is, in most cases, too late, because the moratorium and the collective process have already taken over by then.",
+        "Where both an arbitration and an insolvency application are pending in parallel, it is worth getting a clear view from counsel on which forum is actually going to decide the dispute first, since running both simultaneously without a strategy usually ends up wasting money on one of them."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "If my contract has an arbitration clause, can the other side still file a Section 7 or Section 9 application against me?",
+      "a": "Yes. An arbitration clause does not by itself bar an IBC application. The adjudicating authority will still examine whether a default exists under Section 7, or whether a pre-existing dispute exists under Section 9, and decide the application on that basis rather than simply referring the parties to arbitration."
+    },
+    {
+      "q": "What is the single most important thing to show if I want my dispute to go to arbitration instead of being decided in an IBC proceeding?",
+      "a": "Evidence that the dispute existed before the demand notice or default was alleged, not evidence created afterward. Correspondence, emails or notices raising the specific grievance before the creditor moved should be assembled and placed on record at the first opportunity."
+    },
+    {
+      "q": "Does admission of a Section 7 petition stop an arbitration that is already underway between the same parties?",
+      "a": "Generally yes for claims against the corporate debtor, because the moratorium under Section 14 bars continuation of pending proceedings against it. The resolution professional may still participate to protect the estate's interests in limited circumstances, but the corporate debtor itself cannot be proceeded against in the arbitration while the moratorium is in force."
+    },
+    {
+      "q": "Can a personal guarantor rely on an arbitration clause in the lender's facility agreement with the company to resist a Section 95 petition?",
+      "a": "Rarely with success, because the guarantor's liability under the IBC is treated as independent of the borrower's, and a pending arbitration between the lender and the company does not automatically protect the guarantor. The guarantor is better placed challenging the computation of debt or the validity of the demand itself."
+    }
+  ],
+  "references": [
+    "Insolvency and Bankruptcy Code, 2016, Sections 7, 8, 9, 14, 95 and 238",
+    "Arbitration and Conciliation Act, 1996, Section 8",
+    "Indus Biotech Private Limited v. Kotak India Venture Fund-I, 2021 INSC 216 (Arbitration Petition (Civil) No. 48 of 2019, decided 26 March 2021)",
+    "Innoventive Industries Ltd. v. ICICI Bank, (2018) 1 SCC 407",
+    "Mobilox Innovations Pvt. Ltd. v. Kirusa Software Pvt. Ltd., (2018) 1 SCC 353"
+  ],
+  "sources": [
+    "https://cbcl.nliu.ac.in/arbitration-law/indus-biotech-private-limited-v-kotak-india-venture-fund-i-arbitration-of-insolvency-proceedings/",
+    "https://indiacorplaw.in/2020/06/22/ibc-v-arbitration-a-case-for-prevalence-of-the-ibc-over-the-arbitration-and-conciliation-act/",
+    "https://ksandk.com/adr/arbitration-in-insolvency-proceedings/",
+    "https://app.vaquill.ai/cases/2021_INSC_216",
+    "https://admin.mondaq.com/india/arbitration-dispute-resolution/1144702/supreme-court-confirms-that-arbitration-petition-not-maintainable-after-admission-of-section-7-ibc-petition"
+  ],
+  "verification_notes": "Confirmed across multiple sources (NLIU CBCL case note, IndiaCorpLaw commentary, KSandK, Mondaq, Vaquill case database) that Indus Biotech v. Kotak India Venture Fund-I was decided 26 March 2021, neutral citation 2021 INSC 216, and holds that the adjudicating authority must first determine existence of default under Section 7; if no default is found the parties may proceed to arbitration, while admission forecloses that route. Section 238's text (overriding effect) was confirmed directly from a reproduced extract in one source. Mobilox Innovations citation for the Section 9 pre-existing-dispute test is a well-established reported citation used as general background rather than drawn from this search pass. Left out: a firm, singularly-sourced rule on whether a resolution professional can continue a pending arbitration during moratorium in every circumstance, since sources described this as fact-dependent rather than a fixed rule; described it only as a limited possibility rather than a settled right."
+}
