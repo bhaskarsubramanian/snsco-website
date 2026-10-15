@@ -1,0 +1,88 @@
+{
+  "slug": "rera-recovery-certificate-enforcement-guide",
+  "title": "Won Your RERA Order but the Builder Hasn't Paid? How a Recovery Certificate Gets You Your Money",
+  "meta_description": "How a RERA order is actually enforced through a Section 40 recovery certificate and the Collector's office, and what to do if execution stalls.",
+  "practice_area": "Real Estate & RERA",
+  "intro": [
+    "Winning an order from the Real Estate Regulatory Authority feels like the end of the fight, but for a surprising number of homebuyers it is only the halfway point. The authority itself has no police force and no bank account to seize money from. What it has is a mechanism, built into Section 40 of the Real Estate (Regulation and Development) Act, 2016, to convert an unpaid order into a recovery certificate that the state's own revenue machinery is supposed to execute as if it were unpaid land revenue. In practice, that handoff from the authority to the revenue administration is where many homebuyers get stuck for months, sometimes years, after winning.",
+    "A 2026 Karnataka High Court ruling pushing the state's own enforcement authorities to act on recovery certificates within a fixed timeline is a useful illustration of both the mechanism and the kind of pressure that is sometimes needed to make it actually work."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 40 Actually Provides",
+      "paragraphs": [
+        "Section 40 of the RERA Act covers two distinct situations, and it helps to keep them separate. Under sub-section (1), where a promoter, allottee or real estate agent fails to pay an amount of interest, penalty or compensation that the adjudicating officer, the Regulatory Authority or the Appellate Tribunal has ordered, that unpaid amount can be recovered as arrears of land revenue, in the manner the applicable state rules prescribe. Sub-section (2) deals with a different kind of order, one directing a person to do or refrain from doing a particular act rather than to pay money, and provides for its enforcement in the manner the rules set out for that situation.",
+        "The homebuyer scenario discussed in this guide almost always falls under sub-section (1): a promoter has been ordered to refund money, pay delay compensation, or pay a penalty, and has simply not paid despite the order becoming final. Converting that unpaid order into an enforceable recovery action is where the state-specific rules, not the central Act itself, actually set out the mechanics."
+      ]
+    },
+    {
+      "heading": "How the Recovery Process Actually Works",
+      "paragraphs": [
+        "Each state's RERA rules fill in the detail that Section 40 leaves to subordinate legislation. The common pattern, seen across states, runs roughly as follows: once the order becomes final and the compliance period given in it expires without payment, the allottee applies to the Authority for execution or files a non-compliance application. The Authority, on being satisfied payment has not been made, issues a recovery certificate addressed to the District Collector of the area where the promoter or its property is located, forwarding the particulars needed to proceed.",
+        "The Collector's office is then expected to treat the certified amount as though it were an arrear of land revenue owed by the promoter, which can involve attaching the promoter's property and, if necessary, proceeding to a public auction of the attached property to realise the amount due, with the recovered sum paid over to the allottee. This is the same basic machinery used to recover unpaid land revenue generally, which is precisely why the Act borrows it rather than requiring RERA authorities to build their own enforcement wing."
+      ]
+    },
+    {
+      "heading": "Where This Breaks Down in Practice",
+      "paragraphs": [
+        "The weak link is almost always the handoff between the Authority, which issues the recovery certificate, and the Collector's office, which is supposed to execute it. Collectors' offices handle land revenue recovery as one function among many competing administrative priorities, and a RERA recovery certificate can sit without action for a long time unless the allottee actively follows up, since there is often no automatic internal escalation mechanism forcing the office to act within a set period.",
+        "A second friction point arises where the promoter has moved assets, sold off attachable property, or operates through a corporate structure that makes identifying attachable assets in the Collector's jurisdiction genuinely difficult. The recovery certificate mechanism works best against a promoter with visible, traceable property in a single jurisdiction, and considerably less well against one that has deliberately structured its holdings to frustrate exactly this kind of recovery."
+      ]
+    },
+    {
+      "heading": "The Karnataka High Court's 2026 Intervention",
+      "paragraphs": [
+        "In Rajesh Rao C.V. and Others v. State of Karnataka, decided on 27 April 2026, the Karnataka High Court addressed exactly this kind of stalled execution, where recovery certificates issued by the Karnataka Real Estate Regulatory Authority had not been acted upon by the designated revenue authorities within any reasonable time. The Court held that once a valid recovery certificate has been issued, the authorities responsible for its execution are under an obligation to act, and issued a writ of mandamus directing the concerned authorities to execute the outstanding recovery certificates within eight weeks.",
+        "The ruling does not change the underlying Section 40 mechanism. What it does is confirm, in terms a stalled applicant can actually use, that the Collector's office does not have unlimited discretion to simply leave a validly issued recovery certificate unexecuted, and that a writ petition seeking a mandamus is an available and, on these facts, an effective route to force movement once ordinary follow-up with the revenue office has failed."
+      ]
+    },
+    {
+      "heading": "A Related Complication: What Happens If the Promoter Is Also in Insolvency",
+      "paragraphs": [
+        "Homebuyers chasing recovery against a promoter who is also facing insolvency proceedings sometimes assume the pending corporate insolvency resolution process automatically freezes any RERA recovery action. A later Karnataka High Court decision addressed this directly, holding that the mere pendency of the corporate insolvency resolution process against a developer does not automatically render recovery proceedings initiated under another statute illegal. This does not mean the IBC moratorium is irrelevant to every RERA recovery situation, since the moratorium's own scope under Section 14 of the IBC still has to be checked against the specific stage the insolvency process has reached, but it does mean an allottee should not simply abandon a recovery certificate the moment insolvency proceedings against the promoter are reported, without first checking whether a moratorium actually covers the specific action being taken."
+      ]
+    },
+    {
+      "heading": "What an Allottee Stuck in This Process Should Actually Do",
+      "paragraphs": [
+        "The first practical step after an order becomes final and the compliance period lapses is to file the execution or non-compliance application with the Authority promptly, since delay on the allottee's own side only adds to an already slow process. Once a recovery certificate has actually been issued to the Collector, the allottee should follow up in writing at reasonable intervals, keeping a dated record of each follow-up, since that record becomes the evidentiary basis for a mandamus petition if the Collector's office continues to sit on the certificate without action.",
+        "Where follow-up produces no movement after a reasonable period, drawing on the kind of timeline the Karnataka High Court imposed, a writ petition before the jurisdictional High Court seeking a mandamus directing execution is a realistic and, on the available evidence, a workable remedy, rather than simply waiting indefinitely for the Collector's office to act on its own initiative."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "We have a final RERA order directing the builder to refund our money, but nothing has happened for months. What do we actually file next?",
+      "a": "File a non-compliance or execution application with the Authority if you have not already, so it can issue a recovery certificate to the District Collector under Section 40(1). If a certificate has already been issued and nothing has moved, follow up in writing with the Collector's office and keep a record of each follow-up."
+    },
+    {
+      "q": "The Collector's office has had our recovery certificate for a long time and done nothing. Is there anything we can do about that delay specifically?",
+      "a": "Yes. The Karnataka High Court, in Rajesh Rao C.V. v. State of Karnataka (27 April 2026), directed authorities to execute outstanding recovery certificates within eight weeks on a writ petition, confirming that a mandamus is an available route once ordinary follow-up fails to produce action."
+    },
+    {
+      "q": "Can we go straight to a civil court and file an execution petition under Order XXI CPC instead of going through the Collector?",
+      "a": "Generally no. RERA authorities typically do not maintain the machinery to treat their own orders as civil court decrees for direct Order XXI execution, and recovery is instead routed through the Collector as arrears of land revenue under Section 40 and the applicable state rules. Check your specific state's rules, since some states phrase this mechanism slightly differently."
+    },
+    {
+      "q": "The builder has started insolvency proceedings. Does that stop our recovery certificate from being executed?",
+      "a": "Not automatically. A Karnataka High Court ruling has held that the mere pendency of a corporate insolvency resolution process does not by itself make RERA recovery proceedings illegal, though the specific stage of the insolvency process and the scope of any moratorium under Section 14 of the IBC should still be checked against the particular recovery action being pursued."
+    },
+    {
+      "q": "How long should we wait before escalating a stalled recovery certificate to a writ petition?",
+      "a": "There is no fixed statutory period, but the Karnataka High Court's own direction to execute within eight weeks of its order gives a useful reference point. If reasonable follow-up over a comparable period produces no action, a mandamus petition is a realistic next step rather than continuing to wait indefinitely."
+    }
+  ],
+  "references": [
+    "Real Estate (Regulation and Development) Act, 2016, Section 40(1) and 40(2)",
+    "Rajesh Rao C.V. and Others v. State of Karnataka and Others, Karnataka High Court, W.P. No. 13245 of 2026, decided 27 April 2026",
+    "M. Govind Reddy v. State of Karnataka, Karnataka High Court, W.P. No. 23165 of 2026, decided 11 August 2026",
+    "Insolvency and Bankruptcy Code, 2016, Section 14 (moratorium, referenced generally)"
+  ],
+  "sources": [
+    "https://www.indialaw.in/blog/real-estate/k-rera-recovery-certificates-enforcement-karnataka-high/",
+    "https://supremetoday.ai/mere-pendency-of-cirp-does-not-bar-rera-recovery-actions-karnataka-high-court-20260822075",
+    "https://www.livelawbiz.com/high-court/karnataka-high-court/karnataka-high-court-insolvency-and-bankruptcy-code-overriding-effect-does-not-automatically-bar-proceedings-under-other-laws-546770",
+    "https://courtbook.in/real-estate-regulation-and-development-act-2016/section-40"
+  ],
+  "verification_notes": "Section 40(1) and 40(2) of the RERA Act, covering recovery of money orders as arrears of land revenue and enforcement of non-money directions respectively, are confirmed from courtbook.in's bare act text and corroborated by the general description of the notified sections in a Mondaq article referencing the 2017 notification. The Karnataka High Court ruling in Rajesh Rao C.V. v. State of Karnataka (W.P. No. 13245 of 2026, decided 27 April 2026, directing execution of recovery certificates within eight weeks) is sourced from indialaw.in, a single secondary source; a second independent source specifically confirming this case name and date was not found in the searches conducted, so this is flagged as single-sourced rather than independently cross-verified, though the broader pattern of Karnataka RERA execution litigation is corroborated by the separate M. Govind Reddy decision. The M. Govind Reddy v. State of Karnataka ruling (W.P. No. 23165 of 2026, decided 11 August 2026, holding pendency of CIRP does not automatically bar RERA recovery proceedings) is confirmed from two independent sources, supremetoday.ai and livelawbiz.com. The general state-level recovery procedure (application to Authority, recovery certificate to Collector, attachment and auction of promoter's property) is described based on patterns seen across Haryana, Bihar, Punjab and Telangana RERA orders and circulars referenced in search results, and is presented as a common pattern rather than a single uniform national procedure, since exact mechanics vary by state rules."
+}
