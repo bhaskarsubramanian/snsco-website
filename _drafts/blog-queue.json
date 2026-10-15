@@ -1205,5 +1205,884 @@
       "Limitation period for a Section 111 APTEL appeal from a SERC order: commonly cited as 45 days, extendable -- publish routine should re-verify the exact current limitation figure under the Electricity Act, 2003 before stating it in the published article"
     ],
     "added_on": "2026-10-13"
+  },
+  {
+    "id": "section-11-foreign-seat-arbitration-guide",
+    "topic_title": "Can an Indian Court Appoint Your Arbitrator When the Contract Points Abroad? Section 11 After Arif Azim",
+    "angle": "Why the seat, not the word venue, decides if an Indian court can appoint your arbitrator, per the Supreme Court's 2024 Arif Azim v Micromax ruling.",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "key_points": [
+      "Why the Seat Decides Which Court You Can Even Approach",
+      "What Arif Azim v Micromax Actually Decided",
+      "How Courts Actually Tell Venue From Seat",
+      "What This Means for a Client Who Has Already Signed Such a Clause",
+      "Drafting Around This Problem Before It Arises",
+      "Interim Relief Is a Different, Narrower Question"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Arbitration and Conciliation Act, 1996, Sections 2(2), 11(6), 11(12)(a)",
+      "Bharat Aluminium Co. v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552",
+      "Union of India v. Hardy Exploration and Production (India) Inc., (2019) 13 SCC 472",
+      "Arif Azim Co. Ltd. v. Micromax Informatics FZE, 2024 INSC 850 (Arbitration Petition No. 31 of 2023, decided 7 November 2024)",
+      "Arif Azim Co. Ltd. v. Aptech Ltd., Arbitration Petition No. 29 of 2023"
+    ],
+    "sources": [
+      "https://theindianlawyer.in/clarifying-arbitration-jurisdiction-the-supreme-courts-landmark-decision-on-seat-vs-venue-in-arif-azim-co-ltd-v-micromax-informatics",
+      "https://law.asia/seat-of-arbitration-india/",
+      "https://lawsathi.in/judgements/sc/2024/arif-azim-co-ltd-micromax-informatics-fze/",
+      "https://www.livelaw.in/round-ups/monthly/arbitration-monthly-round-up-february-2024-251242",
+      "https://disputeresolution.cyrilamarchandblogs.com/2024/11/decoding-supreme-courts-landmark-decision-on-seat-vs-venue-in-arbitration/",
+      "https://api.sci.gov.in/supremecourt/2023/16417/16417_2023_1_1504_57037_Judgement_07-Nov-2024.pdf"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/01-section-11-foreign-seat-arbitration-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "sarfaesi-redemption-right-cutoff-guide",
+    "topic_title": "When Does a Borrower's Right to Redeem a Mortgaged Property Under SARFAESI Actually End?",
+    "angle": "The Supreme Court settled when a borrower's SARFAESI redemption right ends. Here is what Celir LLP v Bafna Motors means for borrowers and auction buyers.",
+    "practice_area": "Banking & Finance",
+    "key_points": [
+      "Where Redemption Sits in the SARFAESI Timeline",
+      "Why High Courts Took Different Views After the 2016 Amendment",
+      "What the Supreme Court Held in Celir LLP v Bafna Motors",
+      "What Counts as Tendering the Dues in Time",
+      "Practical Steps for a Borrower Who Wants the Property Back",
+      "What an Auction Buyer Should Check Before Bidding"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, Sections 13(2), 13(4), 13(8)",
+      "Security Interest (Enforcement) Rules, 2002",
+      "Celir LLP v. Bafna Motors (Mumbai) Pvt. Ltd. and Ors., Supreme Court of India, decided 21 September 2023, [2023] 13 S.C.R. 55",
+      "Mathew Varghese v. M. Amritha Kumar, Supreme Court of India (pre-amendment position on redemption timing)"
+    ],
+    "sources": [
+      "https://www.scconline.com/blog/post/2023/12/12/right-of-redemption-and-the-amended-section-138-sarfaesi-act-celir-llp-v-bafna-motors-mumbai-p-ltd-a-case-comment/",
+      "https://mondaq.com/india/court-procedure/1372636/supreme-court-settles-the-conflict-on-the-right-of-redemption-of-mortgaged-property-under-the-sarfaesi-act",
+      "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2023/volume%2013/Part%20I/2023_13_53-151_1707115290.pdf",
+      "https://disputeresolution.cyrilamarchandblogs.com/2023/10/section-138-of-sarfaesi-act-sc-settles-conundrum-on-right-of-redemption-of-borrower/",
+      "https://khaitanco.com/thought-leaderships/Celir_LLP_v_Bafna_Motors_SC_Holds_That_a_Mortgagors_Right_of_Redemption_Extinguishes_on_Issue_of_Notice_of_Auction_Under_the_SARFAESI_ACT"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/02-sarfaesi-redemption-right-cutoff-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "anti-arbitration-injunction-foreign-seat-guide",
+    "topic_title": "Can an Indian Court Stop a Foreign-Seated Arbitration From Proceeding? Anti-Arbitration Injunctions Explained",
+    "angle": "When an Indian court can injunct a foreign-seated arbitration under Section 45, how the test differs from an anti-suit injunction, and why it rarely works.",
+    "practice_area": "Commercial Litigation",
+    "key_points": [
+      "Why This Is Not the Same as an Anti-Suit Injunction",
+      "The Supreme Court's Framework in World Sport Group",
+      "What a Party Actually Has to Show",
+      "A Cautionary Example From the High Courts",
+      "Timing: When Can This Application Even Be Made",
+      "Practical Advice Before Filing Such an Application"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Arbitration and Conciliation Act, 1996, Sections 45 and 48",
+      "World Sport Group (Mauritius) Ltd. v. MSM Satellite (Singapore) Pte. Ltd., Supreme Court of India",
+      "Code of Civil Procedure, 1908, Section 9 (inherent civil jurisdiction)"
+    ],
+    "sources": [
+      "https://blog.ipleaders.in/the-evolving-jurisprudence-grant-of-anti-arbitration-injunctions-by-indian-courts-in-foreign-seated-arbitrations/",
+      "https://aria.law.columbia.edu/?p=4011",
+      "https://www.livelaw.in/amp/articles/indian-approach-anti-arbitration-injunctions-foreign-seated-arbitrations-303065",
+      "https://barandbench.com/calcutta-hc-anti-suit-injunction-foreign-arbitral-proceedings/",
+      "https://blog.ipleaders.in/does-a-civil-court-in-india-has-the-power-to-grant-anti-arbitration-injunction-in-a-foreign-seated-arbitration/"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/03-anti-arbitration-injunction-foreign-seat-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "fast-track-merger-section-233-guide",
+    "topic_title": "Fast-Track Mergers Under Section 233: When Can a Company Skip the NCLT?",
+    "angle": "How the Section 233 fast-track merger route works, who now qualifies after the 2025 small company threshold change, and when the NCLT still gets involved.",
+    "practice_area": "Corporate Law & M&A",
+    "key_points": [
+      "Who Can Actually Use Section 233",
+      "The Procedure, Step by Step",
+      "Timelines That Have Been Tightened to Stop Delay",
+      "What the 2025 Amendment Actually Changed",
+      "Where This Route Still Fails, and Why",
+      "Fast-Track Versus the Ordinary NCLT Route"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Companies Act, 2013, Sections 2(85), 233, 233(5)",
+      "Companies (Compromises, Arrangements and Amalgamations) Rules, 2016, Rule 25",
+      "Companies (Compromises, Arrangements and Amalgamations) Amendment Rules, 2025",
+      "Notification G.S.R. 880(E) dated 1 December 2025 (revised small company thresholds)"
+    ],
+    "sources": [
+      "https://www.taxmann.com/post/blog/analysis-fast-track-merger-under-companies-act-2013-mca-broadens-fast-track-route-for-mergers-demergers",
+      "https://indiacorplaw.in/2025/11/11/fast-track-mergers-reimagined-the-2025-mca-amendment/",
+      "https://www.majmudarindia.com/?p=18304",
+      "https://www.incorpx.io/blog/small-company-threshold-raised-2026",
+      "https://www.patronaccounting.com/blog/small-company-definition-2026-higher-thresholds-compliance-changes"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/04-fast-track-merger-section-233-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "fssai-front-of-pack-warning-labels-guide",
+    "topic_title": "Front-of-Pack Warning Labels Are Coming to Packaged Food: Where the Law Actually Stands Right Now",
+    "angle": "FSSAI's front-of-pack warning label plan has sat in draft since 2022 and is now under Supreme Court pressure. The current, unsettled position, explained.",
+    "practice_area": "Food Safety & FSSAI",
+    "key_points": [
+      "How We Got Here: The Draft That Would Not Finalise",
+      "The Supreme Court Has Stepped In",
+      "What the Current Proposal Actually Looks Like",
+      "Why the Exact Thresholds Should Not Be Treated as Fixed Yet",
+      "What a Food Business Should Be Doing Right Now",
+      "How This Sits Alongside Existing Labelling and Claims Rules"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Draft Food Safety and Standards (Labelling and Display) Regulations / Front-of-Pack Nutrition Labelling proposal, notified by FSSAI, 13 September 2022",
+      "35 And Our Health Society v. Union of India, Supreme Court of India, order dated 10 February 2026",
+      "35 And Our Health Society v. Union of India, Supreme Court of India, hearing of 28 September 2026 (judgment reserved)",
+      "Food Safety and Standards (Packaging and Labelling) Regulations, 2011"
+    ],
+    "sources": [
+      "https://www.deccanchronicle.com/amp/nation/par-panel-urges-fssai-to-finalise-front-of-pack-labelling-norms-1973284",
+      "https://www.moneylife.in/article/why-waste-so-much-time-fssais-365day-voluntary-timeline-for-food-warning-labels-reserves-judgement/81782.html",
+      "https://www.verdictum.in/app-lite/supreme-court/fssai-over-its-proposed-timeline-for-implementation-of-front-of-package-labelling-1622903",
+      "https://govisually.com/blog/a-beginners-guide-to-food-labelling-regulations-in-india-2026-fssai-update/",
+      "https://accesstonutrition.org/in-the-media/the-wire-india-is-delaying-front-of-pack-food-labels-and-consumers-are-paying-the-price/"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/05-fssai-front-of-pack-warning-labels-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "contractor-blacklisting-debarment-natural-justice-guide",
+    "topic_title": "Blacklisted From Government Contracts Without a Hearing? What the Supreme Court Actually Requires First",
+    "angle": "Why a government order blacklisting a contractor without a proper show-cause notice can usually be struck down, and how long debarment can last.",
+    "practice_area": "Infrastructure & PPP",
+    "key_points": [
+      "Why Blacklisting Gets Special Treatment From Courts",
+      "The Core Requirement: A Proper Show-Cause Notice First",
+      "The Decision Still Has to Be Reasonable and Proportionate",
+      "A Later Decision That Narrowed the Argument Somewhat",
+      "What a Contractor Facing a Blacklisting Notice Should Do",
+      "Lower Court Application of the Proportionality Principle"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Constitution of India, Articles 14 and 19(1)(g)",
+      "Gorkha Security Services v. State (NCT of Delhi) and Others, Supreme Court of India, 2014",
+      "Kulja Industries Ltd. v. Western Telecommunication Ltd. and Others, Supreme Court of India, 2013",
+      "Supreme Court of India, Odisha flyover construction blacklisting matter (2022), on sequence of inquiry and show-cause notice"
+    ],
+    "sources": [
+      "https://www.azbpartners.com/bank/blacklisting-by-government-entities/",
+      "https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/supreme-court-balances-power-to-blacklist-with-principles-of-reasonableness-5589",
+      "https://www.scconline.com/blog/?p=288655",
+      "https://www.verdictum.in/court-updates/supreme-court/supreme-court-debarment-cannot-permanent-nature-of-offence-erring-contractor-1356641",
+      "https://mphc.gov.in/upload/jabalpur/MPHCJB/2020/WP/19768/WP_19768_2020_FinalOrder_04-Mar-2022.pdf"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/06-contractor-blacklisting-debarment-natural-justice-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "standard-essential-patent-frand-dispute-guide",
+    "topic_title": "Standard Essential Patent Disputes in India: What Ericsson v Lava and Philips v Bansal Actually Decided",
+    "angle": "How Delhi High Court FRAND royalty disputes work, what Ericsson v Lava awarded in 2024, and why Philips v Bansal in 2026 tightened proof requirements.",
+    "practice_area": "Intellectual Property",
+    "key_points": [
+      "What Makes a Patent 'Standard Essential' in the First Place",
+      "Ericsson v Lava: A Record Award Built on Comparable Licences",
+      "Philips v Bansal: The Same Court, a Much Stricter Standard of Proof",
+      "Why These Two Results Are Not Actually in Tension",
+      "What an Implementer Facing an SEP Demand Should Actually Do",
+      "Further Appeals Are Still in Play"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Patents Act, 1970, Section 107A(b)",
+      "Indian Evidence Act, 1872, Section 45",
+      "Ericsson v. Lava International, Delhi High Court, judgment dated 28 March 2024 (Bansal, J.)",
+      "Rajesh Bansal and K.K. Bansal v. Koninklijke Philips N.V., Delhi High Court, Division Bench, RFA (OS) (COMM) 17/2018 and 18/2018, judgment dated 18 May 2026"
+    ],
+    "sources": [
+      "https://www.scconline.com/blog/post/2024/04/06/dhc-awards-rs-244-crore-damages-to-ericsson-against-lava-for-patent-infringement-legal-news/",
+      "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-awards-244-crores-damages-ericsson-suit-lava-patents-infringement-254258",
+      "https://ssrana.in/articles/delhi-high-court-sets-aside-philips-dvd-sep-royalty-decree-essentiality-frand-patent-exhaustion-clarified/",
+      "https://spicyip.com/2026/05/breaking-breakthrough-for-indias-sep-jurisprudence-in-new-philips-v-rajesh-bansal-ruling.html",
+      "https://www.maheshwariandco.com/press-release/delhi-hc-sep-patent-exhaustion-ruling-2026/",
+      "https://www.bananaip.com/intellepedia/?p=149616"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/07-standard-essential-patent-frand-dispute-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "ppa-termination-discom-payment-default-guide",
+    "topic_title": "Can a Generator Terminate a Power Purchase Agreement Over a Discom's Repeated Payment Default?",
+    "angle": "What a generator must show to terminate a PPA over a discom's persistent payment default, per APTEL's 2024 Vaayu and Vishwind wind power ruling.",
+    "practice_area": "Power, Energy & Mining",
+    "key_points": [
+      "Why Termination Is Not the Generator's Automatic Right",
+      "What Happened in the Andhra Pradesh Wind Power Case",
+      "The Role of the Regulatory Commission's Own Prior Findings",
+      "What a Generator Should Have on Record Before Terminating",
+      "What Happens After Termination: Open Access and Resale",
+      "A Note of Caution on How Far This Precedent Travels"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Electricity Act, 2003 (power purchase agreement and open access framework)",
+      "Andhra Pradesh Electricity Regulatory Commission orders dated 20 December 2023",
+      "Southern Power Distribution Company of Andhra Pradesh Ltd. and Others v. Vaayu (India) Power Corporation Pvt. Ltd. and Vishwind Infrastructure, Appellate Tribunal for Electricity, APL No. 200 and 201 of 2024, judgment dated 18 December 2024"
+    ],
+    "sources": [
+      "https://www.mercomindia.com/aptel-power-generators-order-wind-companies",
+      "https://skvlawoffices.com/case-update-appellate-tribunal-for-electricity-upholds-termination-of-wind-energy-ppas-and-allows-open-access-for-sale-of-wind-power/",
+      "https://aptel.gov.in/sites/default/files/2024-12/Dec%20Judgment%20%20in%20APL%20No.%20200%20&%20201%20of%202024-18th%20dec.pdf",
+      "https://subscription.mercomindia.com/daily-news-wrap-up-aptel-upholds-wind-power-firms-right-to-terminate-ppas"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/08-ppa-termination-discom-payment-default-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "rera-recovery-certificate-enforcement-guide",
+    "topic_title": "Won Your RERA Order but the Builder Hasn't Paid? How a Recovery Certificate Gets You Your Money",
+    "angle": "How a RERA order is actually enforced through a Section 40 recovery certificate and the Collector's office, and what to do if execution stalls.",
+    "practice_area": "Real Estate & RERA",
+    "key_points": [
+      "What Section 40 Actually Provides",
+      "How the Recovery Process Actually Works",
+      "Where This Breaks Down in Practice",
+      "The Karnataka High Court's 2026 Intervention",
+      "A Related Complication: What Happens If the Promoter Is Also in Insolvency",
+      "What an Allottee Stuck in This Process Should Actually Do"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Real Estate (Regulation and Development) Act, 2016, Section 40(1) and 40(2)",
+      "Rajesh Rao C.V. and Others v. State of Karnataka and Others, Karnataka High Court, W.P. No. 13245 of 2026, decided 27 April 2026",
+      "M. Govind Reddy v. State of Karnataka, Karnataka High Court, W.P. No. 23165 of 2026, decided 11 August 2026",
+      "Insolvency and Bankruptcy Code, 2016, Section 14 (moratorium, referenced generally)"
+    ],
+    "sources": [
+      "https://www.indialaw.in/blog/real-estate/k-rera-recovery-certificates-enforcement-karnataka-high/",
+      "https://supremetoday.ai/mere-pendency-of-cirp-does-not-bar-rera-recovery-actions-karnataka-high-court-20260822075",
+      "https://www.livelawbiz.com/high-court/karnataka-high-court/karnataka-high-court-insolvency-and-bankruptcy-code-overriding-effect-does-not-automatically-bar-proceedings-under-other-laws-546770",
+      "https://courtbook.in/real-estate-regulation-and-development-act-2016/section-40"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/09-rera-recovery-certificate-enforcement-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "income-tax-compounding-offences-guide",
+    "topic_title": "Facing Prosecution for a TDS or Tax Default? How Compounding of Offences Under Section 279(2) Works Now",
+    "angle": "What changed in CBDT's October 2024 compounding guidelines, which income tax offences can be compounded, and how a taxpayer actually applies.",
+    "practice_area": "Tax Litigation",
+    "key_points": [
+      "What Compounding Actually Means Here",
+      "Why the October 2024 Guidelines Mattered",
+      "Other Practical Changes a Taxpayer Should Know About",
+      "What Happens to Applications Already Pending When the Rules Changed",
+      "How an Application Actually Gets Made",
+      "Why 'Not a Matter of Right' Still Matters Even Under the Simplified Rules"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Income Tax Act, 1961, Section 279(2), and Chapter XXII (Sections 275A, 276B and related prosecution provisions)",
+      "CBDT, Revised Guidelines for Compounding of Offences under the Income-tax Act, 1961, effective 17 October 2024 (superseding guidelines dated 16.05.2008, 23.12.2014, 14.06.2019 and 16.09.2022)",
+      "CBDT, FAQs on the Revised Guidelines for Compounding of Offences, 2025"
+    ],
+    "sources": [
+      "https://bdo.in/en-gb/insights/alerts-updates/direct-tax-alert-cbdt-issues-revised-guidelines-for-compounding-of-offences-under-the-it-act",
+      "https://foxmandal.in/news/cbdt-issues-revised-guidelines-for-compounding-offences/",
+      "https://www.rsm.global/india/sites/default/files/media/publications/2025/RSM%20India%20Newsflash%20CBDT%20issues%20FAQs%20on%20Revised%20Guidelines%20for%20Compounding%20of%20Offences.pdf",
+      "https://filingin.com/blog/en/cbdt-compounding-guidelines-2024-simplified-and-streamlined",
+      "https://www.scconline.com/blog/post/2019/06/21/revised-guidelines-for-compounding-of-offences-under-direct-tax-laws-2019-notified/"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/10-income-tax-compounding-offences-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "unilateral-arbitrator-appointment-core-guide",
+    "topic_title": "Can One Party Alone Appoint Your Arbitrator? What the Supreme Court's CORE Ruling Changed",
+    "angle": "What the Supreme Court's 2024 CORE ruling changed for unilateral arbitrator appointment clauses in government and PSU contracts.",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "key_points": [
+      "What the clause usually said, and why it mattered",
+      "What the 2024 Constitution Bench actually held",
+      "Does this help you if your award is already final?",
+      "What this means for drafting new contracts",
+      "What a Section 11 petition looks like after CORE"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Central Organisation for Railway Electrification v. ECI-SPIC-SMO-MCML (JV), 2024 INSC 857 (Constitution Bench, decided 8 November 2024)",
+      "Arbitration and Conciliation Act, 1996, Sections 11, 12, 13 and 34",
+      "Constitution of India, Article 14",
+      "TRF Ltd. v. Energo Engineering Projects Ltd. (2017) 8 SCC 377",
+      "Perkins Eastman Architects DPC v. HSCC (India) Ltd. (2020) 20 SCC 760"
+    ],
+    "sources": [
+      "https://www.scobserver.in/journal/supreme-court-to-decide-validity-of-unilateral-nominations-to-panel-of-arbitrator/",
+      "https://scconline.com/blog/post/2024/11/08/unilateral-appointment-arbitrator-public-private-contracts-violate-article-14-supreme-court",
+      "https://www.hsfkramer.com/notes/arbitration/2024-posts/Balancing-party-autonomy-and-equal-treatment-of-parties--Indian-Supreme-Court-s-decision-on-unilateral-arbitrator-appointments-",
+      "https://legalblogs.wolterskluwer.com/arbitration-blog/from-bias-to-balance-indian-supreme-courts-stand-on-unilateral-arbitrator-appointments/",
+      "https://lawsathi.in/judgements/sc/2024/central-organisation-railway-electrification-eci-spic-smo-mcml-jv-joint-venture/"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/11-unilateral-arbitrator-appointment-core-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "ibc-arbitration-clause-override-guide",
+    "topic_title": "Your Contract Has an Arbitration Clause. Does That Stop the Other Side Filing an IBC Petition?",
+    "angle": "How Section 238 of the IBC interacts with an arbitration clause, and when a Section 7 or Section 9 petition proceeds despite one.",
+    "practice_area": "IBC & Insolvency",
+    "key_points": [
+      "What Section 238 of the IBC actually does",
+      "What Indus Biotech decided about Section 7 applications",
+      "Why this collective-process logic also limits operational creditors",
+      "Does an arbitration clause help a personal guarantor differently?",
+      "Practical steps before you file, or before you respond"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Insolvency and Bankruptcy Code, 2016, Sections 7, 8, 9, 14, 95 and 238",
+      "Arbitration and Conciliation Act, 1996, Section 8",
+      "Indus Biotech Private Limited v. Kotak India Venture Fund-I, 2021 INSC 216 (Arbitration Petition (Civil) No. 48 of 2019, decided 26 March 2021)",
+      "Innoventive Industries Ltd. v. ICICI Bank, (2018) 1 SCC 407",
+      "Mobilox Innovations Pvt. Ltd. v. Kirusa Software Pvt. Ltd., (2018) 1 SCC 353"
+    ],
+    "sources": [
+      "https://cbcl.nliu.ac.in/arbitration-law/indus-biotech-private-limited-v-kotak-india-venture-fund-i-arbitration-of-insolvency-proceedings/",
+      "https://indiacorplaw.in/2020/06/22/ibc-v-arbitration-a-case-for-prevalence-of-the-ibc-over-the-arbitration-and-conciliation-act/",
+      "https://ksandk.com/adr/arbitration-in-insolvency-proceedings/",
+      "https://app.vaquill.ai/cases/2021_INSC_216",
+      "https://admin.mondaq.com/india/arbitration-dispute-resolution/1144702/supreme-court-confirms-that-arbitration-petition-not-maintainable-after-admission-of-section-7-ibc-petition"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/12-ibc-arbitration-clause-override-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "part-performance-section-53a-guide",
+    "topic_title": "You Took Possession Under an Agreement to Sell, No Registered Sale Deed Yet. Are You Protected?",
+    "angle": "How Section 53A of the Transfer of Property Act protects a buyer in possession under an agreement to sell, and the limits the 2001 amendment placed on it.",
+    "practice_area": "Property & Civil Litigation",
+    "key_points": [
+      "What the doctrine of part performance actually protects",
+      "The conditions that must actually be satisfied",
+      "What the 2001 amendment actually changed",
+      "How this interacts with a suit for specific performance",
+      "What a seller or seller's heirs can still do"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Transfer of Property Act, 1882, Section 53A",
+      "Registration Act, 1908, Section 17(1A) and Section 49, as amended by the Registration and Other Related Laws (Amendment) Act, 2001",
+      "Specific Relief Act, 1963, Sections 10 and 20",
+      "Limitation Act, 1963, Article 54 of the Schedule",
+      "CIT v. Balbir Singh Maini, (2017) 7 SCC 433"
+    ],
+    "sources": [
+      "https://blog.ipleaders.in/doctrine-of-part-performance/",
+      "https://bhattandjoshiassociates.com/civil-revision-application-209-of-2017-a-case-study-on-the-doctrine-of-part-performance/",
+      "https://old.bhattandjoshiassociates.com/?p=15772",
+      "https://www.scribd.com/document/323837477/Part-Performance-pdf"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/13-part-performance-section-53a-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "land-acquisition-section-24-2-lapse-guide",
+    "topic_title": "Old Land Acquisition, Nothing Paid Since: Has It Lapsed Under Section 24(2)?",
+    "angle": "What Section 24(2) of the 2013 land acquisition law requires for an old acquisition to lapse, and why non-payment alone is not enough.",
+    "practice_area": "Agricultural Industries",
+    "key_points": [
+      "What Section 24(2) actually says",
+      "How Indore Development Authority changed the test",
+      "Why possession is often the harder fact to establish either way",
+      "What happens once a lapse is established",
+      "What to actually do if you believe your family's acquisition has lapsed"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, Section 24",
+      "Land Acquisition Act, 1894, Section 31(1) (as applied to pending proceedings under Section 24)",
+      "Indore Development Authority v. Manoharlal, (2020) 8 SCC 129 (Constitution Bench)",
+      "Pune Municipal Corporation v. Harakchand Misirimal Solanki, (2014) 3 SCC 183 (overruled by Indore Development Authority)",
+      "State of Haryana v. Aalamgir, 2024 INSC 407"
+    ],
+    "sources": [
+      "https://www.scobserver.in/cases/indore-development-authority-manoharlal-land-acquisition-case-background/",
+      "https://www.verdictum.in/court-updates/supreme-court/no-lapse-of-land-acquisition-if-amount-of-compensation-was-not-paid-1467672",
+      "https://www.verdictum.in/court-updates/supreme-court/supreme-court-mere-non-payment-of-compensation-to-land-owners-cannot-be-deemed-lapse-of-land-acquisition-proceedings-1371876",
+      "https://www.verdictum.in/court-updates/supreme-court/land-acquisition-rehabilitation-resettlement-delhi-development-authority-section-24-1446554",
+      "https://www.verdictum.in/court-updates/supreme-court/state-of-haryana-v-aalamgir-2024-insc-407-land-acquisition-case-costs-imposed-1572614"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/14-land-acquisition-section-24-2-lapse-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "hindu-succession-class-heirs-order-guide",
+    "topic_title": "A Hindu Man Dies Without a Will: Who Actually Inherits First, and in What Shares?",
+    "angle": "How Class I and Class II heirs under the Hindu Succession Act determine who inherits intestate property first, and how shares are actually divided.",
+    "practice_area": "Wills & Succession",
+    "key_points": [
+      "The basic structure: Class I, then Class II, then agnates, then cognates",
+      "Who exactly is in Class I",
+      "Who is in Class II, and how the entries are ranked",
+      "How shares are actually computed, not just who qualifies",
+      "Where this analysis does not apply, and what to check first"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Hindu Succession Act, 1956, Sections 8, 9, 10, 11, 15 and 16",
+      "Hindu Succession Act, 1956, Schedule (Class I and Class II heirs)",
+      "Hindu Succession (Amendment) Act, 2005",
+      "Vineeta Sharma v. Rakesh Sharma, (2020) 9 SCC 1 (on the 2005 amendment to Section 6 and coparcenary rights)"
+    ],
+    "sources": [
+      "https://www.casemine.com/act/in/5f5f11429fca195c2c0cea36",
+      "https://gyansanchay.csjmu.ac.in/wp-content/uploads/2022/09/12-Intestate-Succession-2-1.pdf",
+      "https://www.plrs.org.in/pdfs/Hindu%20Succession%20Act.pdf",
+      "https://lawx.in/acts/section/38/424/4074"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/15-hindu-succession-class-heirs-order-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "nri-poa-executed-abroad-apostille-guide",
+    "topic_title": "Signing a Power of Attorney Abroad for Use in India: Apostille, Consularisation and Stamping",
+    "angle": "How an NRI should execute a power of attorney abroad for use in India: apostille versus consularisation, and the stamping step that follows.",
+    "practice_area": "NRI Legal Services",
+    "key_points": [
+      "Why a foreign-executed document needs authentication at all",
+      "Apostille does not replace stamping and adjudication in India",
+      "When registration is also required, separately from stamping",
+      "Drafting choices that reduce the risk of rejection later",
+      "Common points of failure in practice"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Indian Stamp Act, 1899, Section 18 (instruments executed out of India)",
+      "Registration Act, 1908, Section 17",
+      "Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, 1961 (as applicable to India)",
+      "Powers-of-Attorney Act, 1882"
+    ],
+    "sources": [
+      "https://taxguru.in/?p=27837",
+      "https://nriinformation.com/legal/power-attorney",
+      "https://advocategandhi.com/can-a-power-of-attorney-be-executed-from-abroad-a-complete-legal-guide-for-nris-and-foreign-residents/",
+      "https://www.indialawoffices.com/knowledge-centre/procedure-for-registration-of-power-of-attorney-in-india-and-abroad",
+      "https://www.whytecroftford.com/do-you-need-stamp-paper-for-indian-poa-in-the-uk/"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/16-nri-poa-executed-abroad-apostille-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "advocates-consumer-protection-act-guide",
+    "topic_title": "Unhappy With Your Lawyer's Work? Why You Can No Longer File a Consumer Complaint Against Them",
+    "angle": "What the Supreme Court decided in Bar of Indian Lawyers v. D.K. Gandhi on whether advocates can be sued for deficient service under consumer law.",
+    "practice_area": "Consumer Protection",
+    "key_points": [
+      "How the dispute reached the Supreme Court",
+      "What the Court actually decided",
+      "Why the Court drew this distinction for lawyers specifically",
+      "The open question about other professionals",
+      "What a dissatisfied client should actually do now"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Bar of Indian Lawyers through its President Jasbir Singh Malik v. D.K. Gandhi PS National Institute of Communicable Diseases, 2024 INSC 410 (Civil Appeal No. 2646 of 2009, decided 14 May 2024)",
+      "Consumer Protection Act, 2019, Section 2(42) (definition of service)",
+      "Advocates Act, 1961, Sections 35 and 36 (professional misconduct)",
+      "Indian Medical Association v. V.P. Shantha, (1995) 6 SCC 651 (correctness referred to a larger bench by the 2024 ruling)",
+      "D.K. Gandhi PS National Institute of Communicable Diseases v. M. Mathai, NCDRC, 2007 (overruled)"
+    ],
+    "sources": [
+      "https://conventuslaw.com/report/india-advocates-no-longer-liable-under-consumer-protection-laws-for-alleged-deficiency-in-services/",
+      "https://disputeresolution.cyrilamarchandblogs.com/2024/05/advocates-no-longer-liable-under-consumer-protection-laws-for-alleged-deficiency-in-services/",
+      "https://barandbench.com/topic/bar-of-indian-lawyers-vs-dk-gandhi-ps-national-institute-of-communicable-diseases-and-ors",
+      "https://www.barandbench.com/columns/selective-justice-under-the-consumer-protection-act"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/17-advocates-consumer-protection-act-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "section-25o-closure-permission-guide",
+    "topic_title": "Government Sat on Your Closure Application? Why Silence Can Count as Approval Under Section 25-O",
+    "angle": "What Section 25-O requires to close a large establishment, and what the Harinagar Sugar Mills Supreme Court ruling changed on delay.",
+    "practice_area": "Employment & Labour",
+    "key_points": [
+      "What Section 25-O requires before you can close",
+      "What Harinagar Sugar Mills actually decided",
+      "The constitutional dimension the Court also addressed",
+      "What this means for an employer with a pending application",
+      "Why workmen's representatives should not assume silence means nothing happens"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Industrial Disputes Act, 1947, Sections 25-O, 25-N and 25-F",
+      "Constitution of India, Articles 19(1)(g) and 19(6)",
+      "Harinagar Sugar Mills Ltd. (Biscuit Division) v. State of Maharashtra, 2025 INSC 801 (SLP(C) No. 4268 of 2023, decided 4 June 2025)"
+    ],
+    "sources": [
+      "https://www.verdictum.in/court-updates/supreme-court/harinagar-sugar-mills-ltd-v-state-of-maharashtra-2025-insc-801-right-to-shut-down-business-1579975",
+      "https://theindianlawyer.in/right-to-close-vs-duty-to-justify-supreme-court-clarifies-section-25-o-of-the-industrial-dispute-act-1947/",
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/closure-applications-require-application-of-mind-by-competent-authorities-harinagar-sugar-mills-ltd-anr-v-state-of-maharashtra-ors/",
+      "https://desikaanoon.in/supreme-court-upholds-right-to-business-closure-with-conditions-rules-in-favour-of-harinagar-sugar-mills/",
+      "https://ksandk.com/newsletter/right-to-close-a-business-is-fundamental-right/"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/18-section-25o-closure-permission-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "section-24-hma-interim-maintenance-guide",
+    "topic_title": "Filed for Divorce and Need Money Now? How Interim Maintenance Under Section 24 Actually Works",
+    "angle": "How a spouse gets interim maintenance under Section 24 of the Hindu Marriage Act, the Rajnesh v Neha disclosure rules, and how courts fix the amount.",
+    "practice_area": "Family Law",
+    "key_points": [
+      "Who can apply, and when",
+      "The Rajnesh v. Neha disclosure framework",
+      "What a family court actually weighs in fixing the amount",
+      "Why compliance with these guidelines in practice still falls short",
+      "Enforcement if the paying spouse does not actually pay"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Hindu Marriage Act, 1955, Section 24",
+      "Code of Criminal Procedure, 1973, Section 125 (now Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023)",
+      "Protection of Women from Domestic Violence Act, 2005, Section 20",
+      "Rajnesh v. Neha, (2021) 2 SCC 324 (decided 4 November 2020)",
+      "Constitution of India, Article 142"
+    ],
+    "sources": [
+      "https://www.scobserver.in/journal/court-frames-comprehensive-guidelines-on-maintenance/",
+      "https://www.casemine.com/in/column/section-24-of-the-hindu-marriage-act-1955-–-a-jurisprudential-analysis/view",
+      "https://blog.ipleaders.in/guidelines-laid-down-supreme-court-maintenance-matrimonial-disputes-2020/",
+      "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2020/volume%2013/Part%20I/2020_13_1093-1174_1702451964.pdf"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/19-section-24-hma-interim-maintenance-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "attachment-before-judgment-order-38-rule-5-guide",
+    "topic_title": "Worried the Defendant Will Sell Everything Before You Get a Decree? Attachment Before Judgment Explained",
+    "angle": "What a plaintiff must actually prove to get attachment before judgment under Order XXXVIII Rule 5 CPC, and why courts rarely grant it on the first ask.",
+    "practice_area": "Commercial Litigation",
+    "key_points": [
+      "What Rule 5 actually requires the plaintiff to show",
+      "Why vague apprehension is not enough",
+      "How this plays out when the suit is really a commercial claim",
+      "What happens once a third party has already acquired the property",
+      "Practical steps for a plaintiff considering this application"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Code of Civil Procedure, 1908, Order XXXVIII Rules 5 and 8, and Order XXI Rule 58",
+      "Transfer of Property Act, 1882, Section 53",
+      "Arbitration and Conciliation Act, 1996, Section 9",
+      "Raman Tech. & Process Engg. Co. v. Solanki Traders, (2008) 2 SCC 302",
+      "L.K. Prabhu v. K.T. Mathew, 2025 INSC 1364 (decided 28 November 2025)"
+    ],
+    "sources": [
+      "https://lawfoyer.in/attachment-before-judgment-order-xxxviii-rule-5-cpc/",
+      "https://www.casemine.com/in/column/ex-parte-attachment-orders-in-indian-law:-jurisprudential-evolution-and-procedural-safeguards/view",
+      "https://www.caseciter.com/l-k-prabhu-v-k-t-mathew-neutral-citation-2025-insc-1364-order-xxxviii-rule-5-cpc-attachment-before-judgment-already-transferred-property/",
+      "https://www.barandbench.com/columns/section-9-of-arbitration-act-1996-and-attachment-before-judgment-supreme-court"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/20-attachment-before-judgment-order-38-rule-5-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "cheque-dishonour-section-138-compounding-guide",
+    "topic_title": "Cheque Bounced? What Section 138 Actually Requires and How Settlement Really Works",
+    "angle": "The real timeline for a Section 138 cheque bounce complaint, what compounding costs, and what the Supreme Court changed in 2025 on notice and payment.",
+    "practice_area": "Banking & Finance",
+    "key_points": [
+      "The three clocks that decide whether a complaint survives",
+      "What actually counts as a legally enforceable debt",
+      "Paying the cheque amount once summoned does not end the case",
+      "How the compounding cost scale actually works",
+      "Civil recovery alongside the criminal complaint"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Negotiable Instruments Act, 1881, Sections 138 and 142",
+      "Income Tax Act, 1961, Section 269SS",
+      "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 223 (in force from 1 July 2024, replacing the Code of Criminal Procedure, 1973)",
+      "Damodar S. Prabhu v. Sayed Babalal H., (2010) 5 SCC 663",
+      "Sanjabij Tari v. Kishore S. Borcar, 2025 INSC 1158 (decided September 2025)"
+    ],
+    "sources": [
+      "https://www.livelaw.in/amp/top-stories/s138-ni-act-guidelines-in-damodar-prabhu-judgment-on-costs-for-compounding-cheque-bounce-cases-not-binding-supreme-court-309914",
+      "https://www.verdictum.in/court-updates/supreme-court/sanjabij-tari-v-kishore-sborcar-2025-insc-1158-summons-accused-payment-cheque-amount-initial-stage-sec138-ni-act-1592654",
+      "https://www.livelaw.in/amp/high-court/delhi-high-court/s138-ni-act-statutory-notice-period-to-lodge-cheque-bounce-complaint-is-15-days-not-45-days-delhi-high-court-302875",
+      "https://www.livelaw.in/amp/news-updates/court-must-notice-accused-hear-before-condoning-delay-filing-complaint-us138ni-act-tripura-high-court-201053",
+      "https://cdj.library.keralalawacademy.in/aifulltext.php?id=985702"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/21-cheque-dishonour-section-138-compounding-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "consumer-complaint-jurisdiction-limitation-guide",
+    "topic_title": "Filing a Consumer Complaint in India: Which Commission, By When, and What It Costs You",
+    "angle": "How to work out the right consumer commission by value, the two year limitation clock, and what actually happens if you file in the wrong forum.",
+    "practice_area": "Consumer Protection",
+    "key_points": [
+      "Which commission has jurisdiction over your claim",
+      "The two year limitation clock and how it actually runs",
+      "Who can actually be sued, and for what",
+      "What documents actually make or break the complaint",
+      "What happens if you file in the wrong forum"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Consumer Protection Act, 2019, Sections 39 and 69",
+      "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021",
+      "Consumer Protection (E-Commerce) Rules, 2020",
+      "Avon Elastomers v. Bajaj Allianz General Insurance Co. Ltd. (pending before the Supreme Court)",
+      "Punjab Urban Planning and Development Authority v. Kanwaljit Singh, First Appeal No. 581 of 2023",
+      "Rawal Acids Pvt. Ltd. v. United India Insurance Co. Ltd., First Appeal No. 218 of 2024"
+    ],
+    "sources": [
+      "https://www.moneylife.in/article/union-govt-revises-pecuniary-jurisdiction-district-consumer-commissions-limit-revised-to-rs50-lakh-from-rs1-crore/66005.html",
+      "https://www.livelaw.in/amp/news-updates/central-govt-notifies-consumer-protection-rules-2021-revising-pecuniary-jurisdiction-district-state-national-commissions-188575",
+      "https://www.barandbench.com/news/should-consumer-forum-jurisdiction-depend-on-price-paid-or-compensation-claimed-supreme-court-asks-centre",
+      "https://www.advocatekhoj.com/library/bareacts/consumerprotection2019/69.php",
+      "https://questions.collegedunia.com/exams/questions/what-is-the-limitation-period-within-which-a-compl-684bb884b8ec16db1ba8eed1"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/22-consumer-complaint-jurisdiction-limitation-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "spa-indemnity-warranty-claims-guide",
+    "topic_title": "Indemnity Claims Under a Share Purchase Agreement: What a Buyer Actually Has to Prove",
+    "angle": "How indemnity and warranty claims under an Indian SPA actually get enforced, the notice conditions that trip up buyers, and where escrow fits in.",
+    "practice_area": "Corporate Law & M&A",
+    "key_points": [
+      "Indemnity is a contractual promise, not a statutory right",
+      "The notice clause is where most claims actually die",
+      "Survival periods, baskets, and caps shape what is actually recoverable",
+      "Escrow and holdback make recovery real rather than aspirational",
+      "Choosing arbitration or civil court, and what that means for timing"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Indian Contract Act, 1872",
+      "Limitation Act, 1963",
+      "Arbitration and Conciliation Act, 1996, Section 9",
+      "Standard Indian M&A indemnity clause practice: notice, survival period, basket, cap and fundamental warranty carve-out structures"
+    ],
+    "sources": [
+      "https://ksandk.com/corporate/indemnification-clause-in-indian-commercial-contracts/",
+      "https://www.mondaq.com/india/shareholders/1616660/indemnity-process",
+      "https://globallawexperts.com/postclosing-obligations-india/",
+      "https://cn.lakshmisri.com/Uploads/MediaTypes/Documents/L&S_Corporate_Amicus_February_2019.pdf"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/23-spa-indemnity-warranty-claims-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "labour-codes-2025-employer-guide",
+    "topic_title": "The Four Labour Codes Are Now in Force: What Employers Actually Need to Fix First",
+    "angle": "What changed for Indian employers when the four Labour Codes took effect in November 2025, what rules are still pending, and where the real risk sits.",
+    "practice_area": "Employment & Labour",
+    "key_points": [
+      "What actually happened on 21 November 2025",
+      "The wage definition change that affects nearly every CTC structure",
+      "Fixed term employment and the end of easy standing orders exemptions",
+      "Social security coverage widens to gig and platform workers",
+      "Practical sequencing for employers right now"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Code on Wages, 2019",
+      "Industrial Relations Code, 2020",
+      "Occupational Safety, Health and Working Conditions Code, 2020",
+      "Code on Social Security, 2020",
+      "Government of India notification bringing the four Labour Codes into force with effect from 21 November 2025"
+    ],
+    "sources": [
+      "https://www.ey.com/en_in/technical/alerts-hub/2025/11/new-labour-codes-implemented-across-the-country-effective-21-november-2025",
+      "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2025/government-of-india-notifies-the-labour-codes-ushers-a-new-era-of-compliances",
+      "https://www.mondaq.com/india/employee-benefits-compensation/1730372/cracking-the-code-the-new-labour-laws-at-a-glance",
+      "https://ksandk.com/md/labour-employment/all-four-labour-codes-enforced-from-21-november-2025/",
+      "https://blog.ipleaders.in/labour-codes-2026-implementation/"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/24-labour-codes-2025-employer-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "fssai-licence-vs-registration-guide",
+    "topic_title": "FSSAI Registration vs Licence: Which One Your Food Business Actually Needs in 2026",
+    "angle": "FSSAI's revised turnover thresholds for registration, state and central licences from April 2026, who needs which, and the penalty for getting it wrong.",
+    "practice_area": "Food Safety & FSSAI",
+    "key_points": [
+      "The three tiers, and the revised thresholds now in force",
+      "Why the category also depends on the kind of business",
+      "What a perpetual licence changes about renewal obligations",
+      "The penalty for operating without the right authorisation",
+      "Practical steps when advising a food business on its tier"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Food Safety and Standards Act, 2006, Section 63",
+      "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulations, 2011",
+      "Food Safety and Standards (Licensing and Registration of Food Businesses) Amendment Regulations, 2026 (gazetted 10 March 2026)",
+      "FSSAI order dated 13 March 2026 implementing revised turnover thresholds with effect from 1 April 2026"
+    ],
+    "sources": [
+      "https://www.fssai.gov.in/upload/advisories/2026/03/69b4054bb6cd6Order%20dated%2013thMarch2026_Revised%20Turnover%20threshold.pdf",
+      "https://ssrana.in/?p=44449",
+      "https://www.setindiabiz.com/blog/fssai-2026-reforms",
+      "https://www.indialaw.in/blog/food/fssai-2026-revised-turnover-thresholds-for-licensing/",
+      "https://cleartax.in/s/fssai-registration-vs-license"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/26-fssai-licence-vs-registration-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "section-9-operational-creditor-pre-existing-dispute-guide",
+    "topic_title": "Defeating a Section 9 IBC Application: What Actually Counts as a Pre-Existing Dispute",
+    "angle": "How a corporate debtor defeats a Section 9 IBC application using the Mobilox plausibility test, and what two 2025-26 SC rulings changed.",
+    "practice_area": "IBC & Insolvency",
+    "key_points": [
+      "The statutory sequence an operational creditor has to follow",
+      "The Mobilox plausibility test",
+      "What the NCLT and NCLAT are not supposed to do",
+      "What a corporate debtor needs to put on record to succeed",
+      "What this means for the operational creditor on the other side"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Insolvency and Bankruptcy Code, 2016, Sections 8 and 9",
+      "Mobilox Innovations Private Limited v. Kirusa Software Private Limited, (2018) 1 SCC 353",
+      "Saraswati Wire & Cable Industries v. Mohammad Moinuddin Khan, 2025 INSC 1410 (decided 10 December 2025)",
+      "GLS Films Industries Pvt. Ltd. v. Chemical Suppliers India Pvt. Ltd., 2026 INSC 344 (Civil Appeal No. 4019 of 2025, decided 9 April 2026)"
+    ],
+    "sources": [
+      "https://www.khuranaandkhurana.com/?p=3844",
+      "https://ksandk.com/insolvency/pre-existing-dispute-section-9-ibc-nclt-inquiry/",
+      "https://www.indialaw.in/blog/insolvency-bankruptcy/ibc-test-pre-existing-disputes/",
+      "https://www.indialaw.in/blog/section-9-ibc-pre-existing-dispute/",
+      "https://thelegalschool.in/blog/section-8-ibc"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/27-section-9-operational-creditor-pre-existing-dispute-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "drb-vs-arbitration-ppp-epc-guide",
+    "topic_title": "Dispute Resolution Boards vs Arbitration in Indian Infrastructure Contracts: Getting the Sequence Right",
+    "angle": "Why skipping the Dispute Resolution Board stage can derail an infrastructure arbitration claim, and NHAI's 2025 circular tightening the sequence.",
+    "practice_area": "Infrastructure & PPP",
+    "key_points": [
+      "Why the DRB exists as a distinct first stage",
+      "Conciliation sits between the DRB and arbitration, not alongside it",
+      "What happens if a party skips a stage anyway",
+      "The DRB's decision is rarely the end of the matter",
+      "Practical sequencing advice for a live dispute"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "NHAI standard form EPC, Hybrid Annuity Model and Build-Operate-Transfer concession agreements, Dispute Resolution Board and conciliation clauses",
+      "NHAI policy circular No. 2.1.84/2025 (June 2025), sequencing of DRB, conciliation and arbitration",
+      "MoRTH Standard Operating Procedure on Arbitration (Circular No. 130.245)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    "sources": [
+      "https://tta.in/a-fork-in-the-road-analysing-nhais-new-approach-to-dispute-resolution-in-highway-concessions/",
+      "https://foxmandal.in/News/nhai-issues-clarification-on-drb-and-conciliation-sequence/",
+      "https://www.epcworld.in/dispute-resolution-mechanisms-in-national-highways-authority-of-india-contracts/",
+      "https://morth.gov.in/sites/default/files/130.245-Arbitration-SoP.pdf"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/28-drb-vs-arbitration-ppp-epc-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "trademark-infringement-interim-injunction-guide",
+    "topic_title": "Getting an Urgent Injunction Against Trademark Infringement: What Delhi Courts Are Actually Granting",
+    "angle": "What the triple identity test requires for an ex parte trademark injunction, and 2025 Delhi High Court rulings showing where it succeeds or fails.",
+    "practice_area": "Intellectual Property",
+    "key_points": [
+      "The statutory and procedural framework",
+      "The triple identity test and what it actually checks",
+      "Where the test fails, and what that teaches about pleading a case",
+      "Local Commissioners and the value of acting fast",
+      "What a final decree adds beyond the interim order"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Trade Marks Act, 1999, Sections 29, 134 and 135",
+      "Code of Civil Procedure, 1908, Order XXXIX Rules 1 and 2, and Order XXVI",
+      "Delhi Public School Society v. Delhi Public School International Bhiwadi & Ors., CS(COMM) 1247/2025 (December 2025)",
+      "GENSOL v. Mahindra, CS(COMM) 849/2024"
+    ],
+    "sources": [
+      "https://ssrana.in/articles/assessing-trademark-infringement-the-enduring-benchmark-of-the-triple-identity-test/",
+      "https://www.livelaw.in/amp/high-court/delhi-high-court/triple-identity-test-satisfied-delhi-high-court-restrains-infringement-of-johnson-johnsons-orsl-trademark-awards-12-cr-damages-297663",
+      "https://www.scconline.com/blog/?p=369535",
+      "https://ksandk.com/newsletter/delhi-hc-stops-perfume-firm-using-signature-mark/"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/29-trademark-infringement-interim-injunction-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
+  },
+  {
+    "id": "rera-vs-consumer-forum-jurisdiction-guide",
+    "topic_title": "RERA or Consumer Forum? A Homebuyer's Real Choice of Forum Against a Builder",
+    "angle": "Why RERA does not bar a homebuyer from going to a consumer forum instead, what the Supreme Court actually held in Imperia Structures, and how to choose.",
+    "practice_area": "Real Estate & RERA",
+    "key_points": [
+      "What the Supreme Court actually decided in Imperia Structures",
+      "Why this still matters even though the ruling is from 2020",
+      "What each forum actually does differently",
+      "The one thing you cannot do: run both at once on the same claim",
+      "How to actually decide which forum to use"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Real Estate (Regulation and Development) Act, 2016, Sections 71 and 79",
+      "Consumer Protection Act, 2019",
+      "M/s. Imperia Structures Ltd. v. Anil Patni and Another, (2020) 10 SCC 783, decided 2 November 2020"
+    ],
+    "sources": [
+      "https://www.livelaw.in/amp/top-stories/complaint-before-consumer-fora-by-allottee-against-builders-not-barred-by-rera-act-165345",
+      "https://www.livelaw.in/amp/news-updates/rera-consumer-complaint-supreme-court-166816",
+      "https://ssrana.in/articles/rera-does-not-bar-remedies-consumer-protection-act/",
+      "https://haryanarera.gov.in/assistancecontrol/viewOrderPdf/ODA0NDY=",
+      "https://www.mondaq.com/india/real-estate/1632878/if-real-estate-project-gets-delayed-home-buyers-can-approach-consumer-court-as-well-as-rera-says-supreme-court"
+    ],
+    "added_on": "2026-10-15",
+    "draft_file": "_drafts/batch2/blog/30-rera-vs-consumer-forum-jurisdiction-guide.json",
+    "status": "full draft written and source-checked",
+    "batch": "batch2-2026-10-15"
   }
 ]
