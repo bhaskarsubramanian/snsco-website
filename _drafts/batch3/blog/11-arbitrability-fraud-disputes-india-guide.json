@@ -1,0 +1,93 @@
+{
+  "slug": "arbitrability-fraud-disputes-india-guide",
+  "title": "Is Your Fraud Dispute Arbitrable? What Indian Courts Actually Test For",
+  "meta_description": "How Indian courts decide whether a fraud allegation defeats an arbitration clause, and why most fraud claims now end up before an arbitrator anyway.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "A client facing an arbitration notice almost always asks the same question first: can we just say the other side committed fraud and get out of this clause entirely? For a long time the answer in India was genuinely unclear, and lawyers on both sides built entire strategies around that uncertainty. One line of Supreme Court authority said serious fraud could not be left to a private arbitrator. Another line said the opposite. Clients who had signed perfectly ordinary commercial contracts found themselves fighting years of satellite litigation over a threshold question that, in most other jurisdictions, barely slows a case down.",
+    "The law has moved a long way since then, and it has moved almost entirely in one direction: toward arbitration. A party resisting arbitration by raising fraud now carries a heavy burden, and courts have become noticeably less willing to let a bare allegation stall the process. This guide sets out where the law actually stands, what the working tests are, and why raising fraud to escape an arbitration clause rarely works unless the fraud goes to the clause itself."
+  ],
+  "sections": [
+    {
+      "heading": "Where this started: N. Radhakrishnan and the old, restrictive view",
+      "paragraphs": [
+        "The older position traced to N. Radhakrishnan v. Maestro Engineers, a 2010 Supreme Court decision that held serious allegations of fraud could not be resolved by an arbitrator and had to go to a civil court, because such allegations required detailed evidence and examination of witnesses of a kind arbitration was not built for. For roughly a decade this gave every respondent a ready-made exit: plead fraud with enough drama, and the arbitration clause stopped mattering.",
+        "Lawyers used it exactly that way. A supply contract dispute, a shareholder disagreement, a construction account that did not reconcile, all of these could be dressed up as fraud with a well-drafted plaint. Courts eventually grew tired of this, not because fraud allegations stopped being made in good faith, but because the exception was swallowing the rule. An arbitration clause that could be defeated simply by alleging fraud was not much of a clause at all, and foreign counterparties in particular began treating Indian-seated arbitration as unreliable for exactly this reason."
+      ]
+    },
+    {
+      "heading": "Ayyasamy's distinction between fraud simpliciter and complex fraud",
+      "paragraphs": [
+        "The correction began with A. Ayyasamy v. A. Paramasivam (2016) 10 SCC 386. The Supreme Court did not overrule Radhakrishnan outright but narrowed it sharply, drawing a line between what it called fraud simpliciter and complex, serious fraud. A simple allegation that a party lied about a fact, or breached a representation, was arbitrable like any other contractual dispute. Only fraud of a genuinely complicated character, the kind that would require extensive documentary and oral evidence of a type unsuited to arbitration, could still justify keeping a case in court.",
+        "The Court also shifted the burden. It is the party resisting arbitration who has to show the fraud is serious enough to fall outside the clause, not the party seeking arbitration who has to prove the dispute is simple enough to fall inside it. That single change in who carries the burden did more to curb frivolous fraud pleas than any later judgment, because a respondent now has to actually make out a case for complexity rather than just assert one."
+      ]
+    },
+    {
+      "heading": "Rashid Raza's twin test",
+      "paragraphs": [
+        "Rashid Raza v. Sadaf Akhtar, Civil Appeal No. 7005 of 2019, decided by a three-judge bench on 4 September 2019, gave the test its current working form, drawn from paragraph 25 of Ayyasamy. Two questions decide the matter. First, does the fraud plea permeate the entire contract, including the arbitration clause itself, so as to render the agreement to arbitrate void? Second, do the fraud allegations touch only the internal affairs of the parties, with no implication for anyone outside the contract or the public domain?",
+        "If the answer to the first question is no and the answer to the second is yes, the dispute is arbitrable, whatever language the plaint uses to describe the fraud. In Rashid Raza itself a partner had alleged siphoning of funds and lodged a criminal complaint, and the High Court had declined to refer the matter to arbitration. The Supreme Court reversed that, set aside the High Court's order, and appointed an arbitrator, holding that an ongoing criminal investigation on the same facts does not by itself make a civil dispute non-arbitrable."
+      ]
+    },
+    {
+      "heading": "Avitel: the Supreme Court applies the test to a USD 60 million fraud claim",
+      "paragraphs": [
+        "Avitel Post Studioz Ltd. v. HSBC PI Holdings (Mauritius) Ltd., (2020) 4 SCC 725, decided on 19 August 2020, is the decision clients should actually read before assuming fraud gets them out of a clause. HSBC had invested USD 60 million for a minority stake and alleged that Avitel's promoters fraudulently misrepresented contracts to inflate the company's value. A Singapore-seated SIAC tribunal found the fraud proved and awarded HSBC USD 60 million plus interest and costs. Avitel resisted enforcement in India, arguing fraud of this scale could never have gone to arbitration in the first place.",
+        "The Supreme Court disagreed. It held that even a large, deliberate fraud involving misrepresentation and deceit is arbitrable unless it meets the Rashid Raza twin test, that is, unless it strikes at the arbitration agreement itself or has an effect reaching beyond the parties. The Court was also clear that parallel civil and criminal liability arising from the same set of facts does not convert an otherwise arbitrable commercial dispute into a non-arbitrable one. This is now the leading authority a party will face if it tries to resist a foreign award, or an Indian arbitration, on the ground that the underlying conduct was fraudulent."
+      ]
+    },
+    {
+      "heading": "Vidya Drolia widened the frame beyond fraud alone",
+      "paragraphs": [
+        "Vidya Drolia v. Durga Trading Corporation, a three-judge bench decision from 2021 (later referred to a larger bench on a related point but not disturbed on this one), went further and expressly overruled Radhakrishnan. It set out a four-limbed test for when any dispute, fraud or otherwise, is non-arbitrable: where the cause of action relates to rights in rem rather than subordinate rights in personam; where it affects third-party rights with an erga omnes effect requiring centralised adjudication; where it concerns the state's inalienable sovereign or public functions; or where a statute expressly or by necessary implication bars arbitration. The Court was careful to say these four limbs are not watertight compartments and have to be applied with judgment, not mechanically.",
+        "What this means practically is that fraud is no longer treated as its own special category that automatically defeats arbitration. It is assessed the same way any other subject matter is assessed, against the same four-limbed framework, with the Rashid Raza twin test doing the specific work of separating fraud that voids the arbitration agreement from fraud that is simply the substance of the dispute. N.N. Global Mercantile v. Indo Unique Flame later reaffirmed this approach, holding that an arbitral tribunal can decide the civil consequences of fraud unless the fraud allegation specifically attacks the validity of the arbitration clause."
+      ]
+    },
+    {
+      "heading": "What this actually means for a client drafting a response",
+      "paragraphs": [
+        "If you are the party wanting to escape arbitration, a generic allegation that the other side lied, inflated figures, or acted dishonestly will not get you there anymore. You need a specific, pleaded case that the arbitration clause itself was procured by fraud, forgery, or deception about its existence, such as a signature obtained by impersonation or a clause inserted without the signing party's knowledge. Alternatively you need to show the dispute has genuine third-party or public-law consequences, which is rare in an ordinary commercial contract dispute between two private parties.",
+        "If you are the party seeking arbitration against a fraud defence, the practical move is usually to file promptly under Section 8 or Section 11 of the Arbitration and Conciliation Act, 1996, point the court directly to the Rashid Raza test, and resist any attempt to turn the Section 8 or Section 11 hearing into a mini-trial on the merits of the fraud allegation. Courts at this stage are meant to do a prima facie review, not decide whether the fraud actually happened. That question belongs to the arbitrator."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "If I file a criminal complaint alleging cheating, does that stop the civil dispute from going to arbitration?",
+      "a": "No. Avitel and Rashid Raza both hold that a pending criminal investigation on the same facts does not, by itself, make the related civil dispute non-arbitrable. The criminal case and the arbitration proceed on separate tracks, and a criminal complaint is not a substitute for actually making out that the fraud voids the arbitration clause."
+    },
+    {
+      "q": "Can an arbitrator in India actually award damages for fraud, or only for breach of contract?",
+      "a": "Yes. Avitel confirms an arbitral tribunal can grant relief for fraudulent misrepresentation and deceit, not merely for ordinary breach of contract, as long as the underlying dispute is arbitrable in the first place. The SIAC award in that case included damages specifically for fraud, and the Supreme Court upheld it."
+    },
+    {
+      "q": "Does it matter whether the arbitration is domestic or has a foreign seat?",
+      "a": "It can. Courts have historically been even more reluctant to let fraud defeat a foreign-seated or international commercial arbitration, since Section 45 of the 1996 Act governs that situation differently from the domestic Section 8 and Section 11 route. The practical test a court applies is similar, but the threshold for refusing reference tends to be higher in the international context."
+    },
+    {
+      "q": "What kind of fraud allegation actually succeeds in keeping a matter out of arbitration?",
+      "a": "One that attacks the arbitration agreement's own existence or validity, for example a claim that the signatory's consent to the entire contract, including the arbitration clause, was obtained through forgery or impersonation. A claim that the other side cheated you within a validly formed contract, however serious, is unlikely to succeed on its own."
+    },
+    {
+      "q": "Who decides first whether the fraud dispute is arbitrable, the court or the arbitrator?",
+      "a": "Under Section 16 of the 1996 Act, the arbitral tribunal has the competence to rule on its own jurisdiction, including objections about the arbitration agreement's validity. A court hearing a Section 8 or Section 11 application does a limited prima facie check and will usually leave the detailed fraud inquiry to the tribunal unless the twin test is clearly met."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Sections 8, 11, 16 and 45",
+    "N. Radhakrishnan v. Maestro Engineers, (2010) 1 SCC 72",
+    "A. Ayyasamy v. A. Paramasivam, (2016) 10 SCC 386",
+    "Rashid Raza v. Sadaf Akhtar, Civil Appeal No. 7005 of 2019, decided 4 September 2019",
+    "Avitel Post Studioz Ltd. v. HSBC PI Holdings (Mauritius) Ltd., (2020) 4 SCC 725",
+    "Vidya Drolia v. Durga Trading Corporation, (2021) 2 SCC 1; N.N. Global Mercantile v. Indo Unique Flame"
+  ],
+  "sources": [
+    "https://www.scconline.com/blog/post/2025/04/21/arbitrability-of-fraud-in-india-a-need-for-finality/",
+    "https://www.cyrilshroff.com/avitel-v-hsbc-finality-on-the-question-of-arbitrability-when-allegations-of-fraud-are-raised-smm/",
+    "https://www.supremecourtcases.com/rashid-raza-v-sadaf-akhtar/",
+    "https://aria.law.columbia.edu/why-so-serious-the-avitel-case-india-serious-fraud-and-the-public-domain-exception-to-arbitrability-of-fraud/",
+    "https://ksandk.com/adr/vidya-drolia-and-the-four-fold-test/",
+    "https://indiacorplaw.in/2019/12/23/arbitrability-fraud-india-rashid-raza-test-complex-fraud/"
+  ],
+  "verification_notes": "Confirmed from at least two independent sources each: the Radhakrishnan-to-Ayyasamy-to-Rashid Raza-to-Avitel chain and the Rashid Raza twin test wording (Nishith Desai, Mondaq, SCC Online, Columbia ARIA, supremecourtcases.com); the Avitel facts and USD 60 million SIAC award (Cyril Shroff, Columbia ARIA, Two Birds); the Vidya Drolia four-limbed test and its overruling of Radhakrishnan (K&S Partners, Mondaq, LiveLaw). Rashid Raza's citation and bench composition confirmed against the Supreme Court's own PDF and supremecourtcases.com. Left out: a reported Bombay High Court 2024 ruling in a related HSBC PI Holdings proceeding said by one commentary to apply a 'public flavour' test, since only a single source mentioned it and the case name and date could not be confirmed; also left out N.N. Global Mercantile's exact decision date, since sources did not state it consistently."
+}
