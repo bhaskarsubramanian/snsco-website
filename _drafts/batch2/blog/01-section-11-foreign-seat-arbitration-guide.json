@@ -1,0 +1,93 @@
+{
+  "slug": "section-11-foreign-seat-arbitration-guide",
+  "title": "Can an Indian Court Appoint Your Arbitrator When the Contract Points Abroad? Section 11 After Arif Azim",
+  "meta_description": "Why the seat, not the word venue, decides if an Indian court can appoint your arbitrator, per the Supreme Court's 2024 Arif Azim v Micromax ruling.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "A client walks in with a distributorship or supply contract that has gone wrong. There is an arbitration clause. It names a city abroad, Dubai or Singapore or London, as the venue for hearings, often because the other side's lawyers insisted on it during negotiation. The client now wants to file a petition under Section 11 of the Arbitration and Conciliation Act, 1996 before an Indian court to get an arbitrator appointed. Before anything else can be done, counsel has to answer whether an Indian court has any power to do that at all.",
+    "That question used to turn on a single word. In November 2024 the Supreme Court dismissed exactly such a petition in Arif Azim Co. Ltd. v. Micromax Informatics FZE because the contract's designated location, though labelled a venue, functioned in law as the seat. The ruling is a useful marker of how far an Indian court will stretch before declining its own jurisdiction, and it changes how a petition like this should be drafted and argued."
+  ],
+  "sections": [
+    {
+      "heading": "Why the Seat Decides Which Court You Can Even Approach",
+      "paragraphs": [
+        "Part I of the 1996 Act applies, as a rule, only where the seat of arbitration is in India. Section 2(2) says so, and the power to appoint an arbitrator under Section 11 sits with the court of the seat, or with the Supreme Court itself where the arbitration qualifies as an international commercial arbitration under Section 11(12)(a). If the seat is abroad, an Indian court simply has no Section 11 power to exercise, however strong the merits of the underlying dispute might be.",
+        "A venue, by contrast, is just the physical place where hearings happen for convenience. Parties sitting in Mumbai and Dubai might agree to meet in Singapore purely because it is a convenient midpoint, without meaning Singapore law or Singapore's courts should supervise the arbitration. The trouble is that contracts are rarely drafted with this distinction in mind, and the same word, often just 'venue' or 'place of arbitration', gets used for both ideas. Courts have had to build a test to tell the two apart from whatever the contract actually says."
+      ]
+    },
+    {
+      "heading": "What Arif Azim v Micromax Actually Decided",
+      "paragraphs": [
+        "The dispute arose out of a distributorship agreement between an Afghan company, Arif Azim Co. Ltd., and Micromax Informatics FZE, a free zone entity incorporated in the UAE. The agreement designated Dubai, named UAE law as the governing law, and gave the courts of Dubai non-exclusive jurisdiction. When the relationship broke down, Arif Azim filed a petition under Section 11(6)(a) read with Section 11(12)(a) directly before the Supreme Court, asking it to appoint an arbitrator.",
+        "A bench led by the then Chief Justice D.Y. Chandrachud, with Justices J.B. Pardiwala and Manoj Misra, decided Arbitration Petition No. 31 of 2023 on 7 November 2024 (reported as 2024 INSC 850). The Court applied what is known as the Shashoua principle: where a clause names a place and ties that place to a supranational set of procedural rules, and nothing in the agreement points the other way, that place is treated as the juridical seat rather than a mere venue. On the facts, Dubai satisfied that test. The petition was dismissed, which is the Court's way of holding that it had no Section 11 jurisdiction to exercise in the first place.",
+        "The decision does not invent a new rule so much as apply, carefully, a line of authority going back to the Constitution Bench ruling in Bharat Aluminium Co. v. Kaiser Aluminium Technical Services (BALCO) and refined in later cases such as Union of India v. Hardy Exploration and Production. What makes Arif Azim useful to practitioners is that it is a recent, reasoned application of that test to a fairly ordinary commercial distributorship agreement, the kind that gets signed every day without much thought given to the seat clause."
+      ]
+    },
+    {
+      "heading": "How Courts Actually Tell Venue From Seat",
+      "paragraphs": [
+        "No single clause word settles the question. Courts look at the whole arrangement. A designated place accompanied by a chosen set of institutional or procedural rules associated with that place is a strong pointer towards seat, because procedural law and seat are closely linked. A jurisdiction clause, even a non-exclusive one, naming the courts of that same place adds further weight. The absence of any other city with a competing claim matters too, since a true 'venue only' clause usually exists precisely because the seat has been fixed elsewhere and the parties wanted hearings held somewhere more convenient for witnesses or counsel.",
+        "Where the clause genuinely gives no fix on a seat at all, courts have sometimes treated the first session or the place most closely connected with the arbitration as a fallback, though this is a less certain route and best avoided by drafting the clause properly in the first place. The lesson from Arif Azim is that a clause which looks, on a quick read, like it only fixes a venue can carry far more legal weight than the parties intended when it was drafted, particularly once institutional rules get layered on top of it."
+      ]
+    },
+    {
+      "heading": "What This Means for a Client Who Has Already Signed Such a Clause",
+      "paragraphs": [
+        "If a seat analysis points abroad, filing a Section 11 petition in India is likely to be dismissed on the threshold question alone, after the time and expense of briefing it. The better route is usually to pursue the arbitrator's appointment through whatever mechanism the chosen institutional rules provide, or before the courts of the seat itself. This is inconvenient for an Indian party that wanted a quick, familiar domestic process, but fighting the seat question in an Indian court rarely changes the outcome once the Shashoua indicia line up against it.",
+        "There is a second, separate trap worth flagging because the name confusion trips people up in practice. A different Supreme Court ruling, Arif Azim Co. Ltd. v. Aptech Ltd. (Arbitration Petition No. 29 of 2023), decided around the same period, held that the Limitation Act, 1963 applies to Section 11(6) petitions and that a court can refuse to make a reference where the underlying claim is ex-facie time-barred. That is a different case, between the same petitioner and a different respondent, on an entirely different point. Anyone citing 'Arif Azim' in a petition should be precise about which of the two they mean."
+      ]
+    },
+    {
+      "heading": "Drafting Around This Problem Before It Arises",
+      "paragraphs": [
+        "The cleanest fix is also the simplest. Use the word 'seat' expressly, and state it as a distinct concept from any place named only for the convenience of hearings. If the intention really is that hearings may happen in one city while the seat remains another, say so in as many words, for example by stating that the seat is Mumbai and that hearings may for convenience be held in Singapore or wherever the tribunal directs. Avoid naming a foreign city's courts for even non-exclusive jurisdiction unless that is genuinely intended, since that clause alone has repeatedly tipped the balance towards treating the named city as the seat.",
+        "For an Indian party negotiating from a position of some leverage, it is worth pushing back on institutional rule choices that are closely tied to a particular foreign seat if the real intention is an India-seated arbitration. Once the rules and the named place line up, a court applying Arif Azim has very little room left to find in the Indian party's favour on jurisdiction."
+      ]
+    },
+    {
+      "heading": "Interim Relief Is a Different, Narrower Question",
+      "paragraphs": [
+        "Losing the Section 11 argument does not necessarily leave a party in India without any recourse. The proviso added to Section 2(2) by the 2015 amendment keeps Sections 9, 27, and 37(1)(a) and 37(3) available even for a foreign-seated arbitration, unless the agreement expressly or by clear implication excludes Part I altogether. This means interim relief, such as an injunction or an order to preserve assets, may still be sought from an Indian court even where the seat itself sits abroad and a Section 11 petition would fail.",
+        "This area is not entirely settled, and courts have taken different views on what counts as an implied exclusion of Part I. A party relying on Section 9 after a foreign-seat finding should expect the point to be contested and should plead the absence of any exclusion clause carefully, rather than assume the relief will follow automatically from the dismissal of a Section 11 petition on seat grounds."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Our contract just says the venue is Singapore, with nothing else about procedure or jurisdiction. Is Singapore automatically the seat?",
+      "a": "Not necessarily. A bare reference to a city as venue, with no accompanying institutional rules or jurisdiction clause pointing the same way, is weaker evidence of a seat designation. Courts look at the whole clause and surrounding terms, not one word in isolation, before deciding."
+    },
+    {
+      "q": "We filed a Section 11 petition in an Indian High Court and the other side now argues the seat is actually abroad. What happens?",
+      "a": "The court will decide the seat question as a threshold issue before going anywhere near appointing an arbitrator. If it agrees the seat is foreign, the petition is dismissed for want of jurisdiction, and the appointment has to be pursued through the institution's rules or the courts of that seat."
+    },
+    {
+      "q": "Does Arif Azim mean an Indian court can never appoint an arbitrator where a foreign city is mentioned anywhere in the contract?",
+      "a": "No. The outcome depends entirely on the specific clause. A foreign city mentioned only as a hearing venue, without institutional rules or jurisdiction language reinforcing it, may still leave the seat in India or undetermined, and the analysis has to be done afresh on each contract's wording."
+    },
+    {
+      "q": "If our Section 11 petition fails because the seat turns out to be foreign, can we still get urgent interim relief in India?",
+      "a": "Possibly, through Section 9, provided the arbitration agreement does not expressly or clearly impliedly exclude Part I of the Act. This is argued separately from the seat question and is not guaranteed, so it needs to be pleaded on its own footing."
+    },
+    {
+      "q": "What is the difference between the two Supreme Court rulings both called Arif Azim that lawyers keep citing?",
+      "a": "Arif Azim v. Micromax Informatics FZE (2024 INSC 850) decided the seat versus venue question and was dismissed on jurisdiction. Arif Azim v. Aptech Ltd. (Arbitration Petition No. 29 of 2023) is an unrelated case on whether the Limitation Act bars a Section 11(6) petition. Only the party name is shared between them."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Sections 2(2), 11(6), 11(12)(a)",
+    "Bharat Aluminium Co. v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552",
+    "Union of India v. Hardy Exploration and Production (India) Inc., (2019) 13 SCC 472",
+    "Arif Azim Co. Ltd. v. Micromax Informatics FZE, 2024 INSC 850 (Arbitration Petition No. 31 of 2023, decided 7 November 2024)",
+    "Arif Azim Co. Ltd. v. Aptech Ltd., Arbitration Petition No. 29 of 2023"
+  ],
+  "sources": [
+    "https://theindianlawyer.in/clarifying-arbitration-jurisdiction-the-supreme-courts-landmark-decision-on-seat-vs-venue-in-arif-azim-co-ltd-v-micromax-informatics",
+    "https://law.asia/seat-of-arbitration-india/",
+    "https://lawsathi.in/judgements/sc/2024/arif-azim-co-ltd-micromax-informatics-fze/",
+    "https://www.livelaw.in/round-ups/monthly/arbitration-monthly-round-up-february-2024-251242",
+    "https://disputeresolution.cyrilamarchandblogs.com/2024/11/decoding-supreme-courts-landmark-decision-on-seat-vs-venue-in-arbitration/",
+    "https://api.sci.gov.in/supremecourt/2023/16417/16417_2023_1_1504_57037_Judgement_07-Nov-2024.pdf"
+  ],
+  "verification_notes": "Confirmed from multiple secondary sources (law firm notes, LiveLaw's arbitration round-up, lawsathi's judgment listing) that Arif Azim Co Ltd v Micromax Informatics FZE (2024 INSC 850, Arbitration Petition No. 31 of 2023) was decided 7 November 2024 by a bench of CJI Chandrachud, Pardiwala and Misra JJ, applied the Shashoua principle, found Dubai to be the seat, and was dismissed. The full 2024 INSC 850 judgment text itself was not read directly; the official PDF location at api.sci.gov.in is cited for primary verification. The distinct Arif Azim v Aptech Ltd limitation ruling (Arbitration Petition No. 29 of 2023) was confirmed from a separate set of secondary sources and is correctly distinguished in the text, not conflated with the Micromax decision. The Section 2(2) proviso and its interaction with Section 9 for foreign-seated arbitration is stated in general, hedged terms because the search did not turn up a definitive recent Supreme Court resolution of implied exclusion, only a Calcutta High Court decision; no specific case name for that point is asserted as settled law in the text."
+}
