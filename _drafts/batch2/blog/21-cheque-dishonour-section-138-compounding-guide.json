@@ -1,0 +1,82 @@
+{
+  "slug": "cheque-dishonour-section-138-compounding-guide",
+  "title": "Cheque Bounced? What Section 138 Actually Requires and How Settlement Really Works",
+  "meta_description": "The real timeline for a Section 138 cheque bounce complaint, what compounding costs, and what the Supreme Court changed in 2025 on notice and payment.",
+  "practice_area": "Banking & Finance",
+  "intro": [
+    "Every second cheque bounce client walks in with the same two assumptions: that the thirty day notice period is somehow flexible, and that paying up after being summoned closes the matter automatically. Neither is true, and getting the timeline wrong at the start is the single most common way a genuine claim dies on a technicality long before the merits are ever argued.",
+    "Section 138 of the Negotiable Instruments Act, 1881 criminalises the dishonour of a cheque drawn for a debt or liability, but it is built around a strict sequence of notices and periods that both sides need to track with some precision. This guide walks through that sequence, what counts as a legally enforceable debt after a recent Supreme Court ruling, and how settlement and compounding actually work in practice."
+  ],
+  "sections": [
+    {
+      "heading": "The three clocks that decide whether a complaint survives",
+      "paragraphs": [
+        "The statute runs on three separate time periods, and missing any one of them can be fatal to the complaint. The first clock starts when the bank returns the cheque unpaid: the payee has thirty days from that return memo to issue a written demand notice to the drawer calling for payment. There is no flexibility built into this period on the payee's side, so a notice sent on day thirty-one, even by a day, generally cannot found a valid complaint.",
+        "The second clock belongs to the drawer. Once the notice is received, the drawer has fifteen days to pay the cheque amount in full. Only if that fifteen day period lapses without payment does the offence under Section 138 actually crystallise, which is why courts have repeatedly held that a complaint filed before the fifteen days expire is premature and not maintainable, however clear the dishonour itself may be.",
+        "The third clock is the filing deadline. Section 142 of the Act bars a court from taking cognizance of a Section 138 offence unless the complaint is filed within one month of the date the cause of action arises, which the Act fixes at the expiry of that fifteen day payment window. A 2002 amendment added a proviso letting a court take cognizance of a late complaint if the complainant shows sufficient cause for the delay, but that is a discretionary exception, and courts such as the Tripura High Court have held that the accused must be given notice and a chance to respond before any delay is condoned, rather than the court simply waving the complaint through."
+      ]
+    },
+    {
+      "heading": "What actually counts as a legally enforceable debt",
+      "paragraphs": [
+        "Section 138 only bites where the cheque was issued for the discharge, in whole or part, of a legally enforceable debt or other liability, and this is where defence lawyers spend most of their energy. A cheque given as a gift, or as security for a loan that was never actually disbursed, or in discharge of a time-barred debt, does not attract the section, and establishing one of these positions is usually the drawer's best route to an acquittal rather than arguing about the signature or the dishonour itself.",
+        "A question that recurs constantly in practice is whether a cash loan above the reporting threshold in Section 269SS of the Income Tax Act, 1961 can still be treated as a legally enforceable debt for Section 138 purposes, given that such cash transactions attract a penalty under the tax law. The Supreme Court addressed this directly in Sanjabij Tari v. Kishore S. Borcar, decided in September 2025, holding that a breach of Section 269SS does not by itself make the underlying debt unenforceable, and that a cash debt above the statutory cash-transaction threshold can still support a Section 138 prosecution. Lenders dealing in cash should still expect the tax consequences of that breach, but the criminal remedy for the bounced cheque is not automatically lost because of it.",
+        "The same 2025 ruling also addressed procedure at the pre-cognizance stage, holding that a magistrate does not need to issue summons to the accused before taking cognizance, aligning the position with Section 223 of the Bharatiya Nagarik Suraksha Sanhita, 2023, which replaced the Code of Criminal Procedure from 1 July 2024. Practitioners should accordingly expect the pre-cognizance stage to move faster than it may have under the older procedural regime, with summons issuing only once cognizance is actually taken."
+      ]
+    },
+    {
+      "heading": "Paying the cheque amount once summoned does not end the case",
+      "paragraphs": [
+        "A persistent misunderstanding among drawers is that depositing the cheque amount with the court, or paying it directly to the complainant after being summoned, automatically closes the prosecution. It does not. Section 138 is an offence, and while it is compoundable, compounding requires the complainant's actual consent, not a unilateral payment the drawer simply announces to the court. Courts have been clear that the offence cannot be treated as compounded merely because the accused has deposited or tendered money; the complainant has to agree to withdraw the complaint.",
+        "This is precisely why the Supreme Court's 2025 decision in Sanjabij Tari directed every Sessions Judge to ensure an online payment facility, through QR codes or UPI links, is made available at the summons stage, with the summons itself informing the accused that payment of the cheque amount can be made at that point to invite settlement. The practical effect is to push genuine settlement discussions earlier in the process, before both sides have spent years in trial, rather than leaving payment as an afterthought raised only once conviction looks likely."
+      ]
+    },
+    {
+      "heading": "How the compounding cost scale actually works",
+      "paragraphs": [
+        "The leading authority on compounding costs remains the Supreme Court's 2010 decision in Damodar S. Prabhu v. Sayed Babalal H., reported at (2010) 5 SCC 663, which responded to a flood of pending cheque cases by building in a cost penalty for drawers who delay settlement rather than compounding early. Under that framework, an accused who seeks compounding at the first or second hearing before the Magistrate generally pays no additional cost, while compounding sought later, after the matter has progressed, typically attracts a cost of around ten per cent of the cheque amount, with courts retaining discretion to scale that figure up further the later compounding is sought, including after conviction or in appeal.",
+        "What should not be assumed is that this cost scale is rigid in every case. In a separate ruling in November 2025, a Supreme Court bench observed that the Damodar Prabhu cost guidelines cannot be treated as binding precedent in the strict sense, since every case has to be considered on its own facts. Read together with the September 2025 ruling in the same year, the safer practical position for a drawer is to treat the Damodar Prabhu scale as the default expectation a court will apply, while recognising that a court retains discretion to depart from it where the facts of a particular case call for it. Settling earlier rather than later remains the only strategy that reliably avoids the higher end of that cost range, whatever a particular bench ultimately decides."
+      ]
+    },
+    {
+      "heading": "Civil recovery alongside the criminal complaint",
+      "paragraphs": [
+        "A Section 138 complaint is a criminal proceeding aimed at punishing dishonour, not a substitute for a civil recovery suit, though in practice the criminal complaint often does the work of forcing payment because the threat of conviction and the compensation power under Section 357 of the old Code (now the equivalent provision of the BNSS) gives a complainant real leverage. Many practitioners file both a Section 138 complaint and, where the amount is significant, a summary suit under Order XXXVII of the Code of Civil Procedure, since the two proceedings serve different purposes and a conviction in the criminal complaint does not itself extinguish the underlying civil debt beyond whatever compensation is actually paid.",
+        "Where a settlement is reached, the drawer's lawyer should insist that any compromise deed or consent terms specifically address both proceedings, record the payment schedule, and provide for the criminal complaint to be compounded and the civil suit to be withdrawn or recorded as settled only once payment is actually received, rather than simultaneously with signing. A complainant who withdraws the criminal complaint before payment clears has given up the strongest point of leverage in the entire matter."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I received the dishonour memo from the bank but waited two months to send the notice. Is my complaint dead?",
+      "a": "Yes, in all likelihood. The thirty day window to send the demand notice from the date of the return memo is treated strictly, and there is no equivalent condonation proviso for a delayed notice the way there is for a delayed complaint. Missing it generally means you cannot found a valid Section 138 complaint on that dishonour."
+    },
+    {
+      "q": "The drawer paid the full cheque amount after I filed the complaint. Does the case automatically close?",
+      "a": "No. Payment alone does not compound the offence. You, as the complainant, have to actually consent to compounding and ask the court to record the compromise. If you want the case closed, you need to file an application for compounding once you have received and accepted the payment."
+    },
+    {
+      "q": "Can I still sue for the money through a civil suit if the cheque was given for a time-barred debt and the Section 138 complaint fails?",
+      "a": "If the underlying debt itself is time-barred, a civil recovery suit for that same debt will likely also fail on limitation grounds, separately from the Section 138 defence. The enforceability question tends to affect both the criminal and civil routes together, so it needs to be checked before either is filed."
+    },
+    {
+      "q": "Will the court condone a complaint filed a few days late without my explaining why?",
+      "a": "Not automatically. Section 142's proviso requires you to satisfy the court that there was sufficient cause for the delay, and courts have held the accused must be given a chance to respond to your condonation application before cognizance is taken. Come prepared with a specific, documented reason for the delay, not a general explanation."
+    }
+  ],
+  "references": [
+    "Negotiable Instruments Act, 1881, Sections 138 and 142",
+    "Income Tax Act, 1961, Section 269SS",
+    "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 223 (in force from 1 July 2024, replacing the Code of Criminal Procedure, 1973)",
+    "Damodar S. Prabhu v. Sayed Babalal H., (2010) 5 SCC 663",
+    "Sanjabij Tari v. Kishore S. Borcar, 2025 INSC 1158 (decided September 2025)"
+  ],
+  "sources": [
+    "https://www.livelaw.in/amp/top-stories/s138-ni-act-guidelines-in-damodar-prabhu-judgment-on-costs-for-compounding-cheque-bounce-cases-not-binding-supreme-court-309914",
+    "https://www.verdictum.in/court-updates/supreme-court/sanjabij-tari-v-kishore-sborcar-2025-insc-1158-summons-accused-payment-cheque-amount-initial-stage-sec138-ni-act-1592654",
+    "https://www.livelaw.in/amp/high-court/delhi-high-court/s138-ni-act-statutory-notice-period-to-lodge-cheque-bounce-complaint-is-15-days-not-45-days-delhi-high-court-302875",
+    "https://www.livelaw.in/amp/news-updates/court-must-notice-accused-hear-before-condoning-delay-filing-complaint-us138ni-act-tripura-high-court-201053",
+    "https://cdj.library.keralalawacademy.in/aifulltext.php?id=985702"
+  ],
+  "verification_notes": "Confirmed the thirty day notice period, fifteen day payment period, and the one month complaint filing deadline under Section 142 from Delhi High Court reporting (LiveLaw) and a Kerala Law Academy case digest, with the Section 142 proviso allowing condonation for sufficient cause and a Tripura High Court ruling requiring notice to the accused before condonation. Confirmed Sanjabij Tari v. Kishore S. Borcar (2025 INSC 1158, September 2025) from Verdictum and LiveLaw reporting on its holdings regarding cash debts above the Section 269SS threshold remaining enforceable, no summons needed before cognizance under BNSS Section 223, and the direction for online payment facilities at the summons stage. Confirmed Damodar S. Prabhu v. Sayed Babalal H., (2010) 5 SCC 663 and its graded cost approach to compounding from LegitQuest and LiveLaw commentary, including the approximately ten per cent figure for later-stage compounding at the Magistrate's court; the higher-tier percentages for Sessions Court/High Court stage compounding could not be confirmed from the sources retrieved and were therefore left out rather than stated as a fixed figure. Confirmed the November 2025 Supreme Court observation that the Damodar Prabhu cost guidelines are not binding precedent from LiveLaw reporting, and flagged the resulting tension for readers rather than resolving it, since the full judgment text was not independently reviewed. The BNSS replacing the CrPC from 1 July 2024 is confirmed general knowledge of the 2023 criminal law reforms. Left out: exact higher-tier compounding cost percentages beyond the approximately ten per cent first confirmed figure, and the precise paragraph-level holding of the November 2025 ruling, since only secondary commentary was available for both."
+}
