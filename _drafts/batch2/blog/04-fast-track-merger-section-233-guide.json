@@ -1,0 +1,90 @@
+{
+  "slug": "fast-track-merger-section-233-guide",
+  "title": "Fast-Track Mergers Under Section 233: When Can a Company Skip the NCLT?",
+  "meta_description": "How the Section 233 fast-track merger route works, who now qualifies after the 2025 small company threshold change, and when the NCLT still gets involved.",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "Every merger does not need a year at the NCLT. Section 233 of the Companies Act, 2013 lets certain mergers go through the Regional Director instead, with the NCLT entering the picture only if something goes wrong. For a holding company absorbing a subsidiary, or for two small companies combining their operations, this route can cut the timeline from well over a year to a few months, provided the paperwork and approvals are handled correctly from the start.",
+    "The route got noticeably wider at the end of 2025, when the government revised who counts as a small company for the purposes of this Act. That single definitional change pulled a large number of mid-sized private companies, that previously had no choice but to go through the full NCLT process for a merger, into a route that can be completed far faster."
+  ],
+  "sections": [
+    {
+      "heading": "Who Can Actually Use Section 233",
+      "paragraphs": [
+        "The fast-track route under Section 233, read with the Companies (Compromises, Arrangements and Amalgamations) Rules, 2016, is available to a merger or amalgamation between two or more small companies, between a holding company and its subsidiary, and to certain other prescribed classes of companies. A small company, for this purpose, takes its meaning from the Companies Act's own definition under Section 2(85), which excludes public companies, existing holding and subsidiary companies, companies registered under Section 8, and companies governed by a special Act.",
+        "Under a notification effective 1 December 2025, a company qualifies as small if its paid-up share capital does not exceed rupees ten crore and its turnover, taken from the profit and loss account of the immediately preceding financial year, does not exceed rupees one hundred crore. Both conditions have to be met together. These limits replaced the earlier, considerably lower thresholds, and the practical effect is that a meaningfully larger set of private companies can now claim small company status and use Section 233 for a merger that would previously have had to go through the NCLT purely because one or both companies exceeded the old limits."
+      ]
+    },
+    {
+      "heading": "The Procedure, Step by Step",
+      "paragraphs": [
+        "The process begins with the board of each merging company approving a scheme and a declaration of solvency. The scheme is then sent for approval to the members, who must approve it by holders representing at least ninety per cent of the total number of shares, and to creditors, or each class of creditors, representing at least nine-tenths in value. The Registrar of Companies and the Official Liquidator are given a copy of the scheme and are expected to respond with any objections or suggestions.",
+        "Once internal approvals are secured, the transferee company files the scheme with the Central Government, acting through the Regional Director. If no objection is raised and the Regional Director is satisfied the scheme is in the public interest and the creditors' interests are not prejudiced, it confirms the scheme by issuing a confirmation order, which is then filed with the Registrar. If the Registrar of Companies or Official Liquidator raises an objection, or the Regional Director forms the view the scheme is not in the public interest or does not properly protect creditors, Section 233(5) requires the matter to be sent to the NCLT, which then deals with it as though it were an ordinary merger application under Section 232."
+      ]
+    },
+    {
+      "heading": "Timelines That Have Been Tightened to Stop Delay",
+      "paragraphs": [
+        "A 2023 amendment to Rule 25 of the 2016 Rules fixed a thirty-day window for the Registrar of Companies and the Official Liquidator to respond with objections or suggestions after receiving the scheme, which is treated at the Regional Director's level under delegated powers. Before that amendment, there was no firm deadline, and schemes could sit without a response for months, defeating the whole purpose of a fast-track route. If no objection comes within that window, the scheme is treated as approved on that front, letting the Regional Director proceed to confirm it without waiting indefinitely for a response that may never come.",
+        "This fixed timeline is the single biggest practical improvement to the route in recent years, because the old uncertainty around how long the Registrar or Official Liquidator might take was often the real reason companies avoided Section 233 even where they were eligible, preferring instead the more predictable, if slower, NCLT process."
+      ]
+    },
+    {
+      "heading": "What the 2025 Amendment Actually Changed",
+      "paragraphs": [
+        "Beyond the small company threshold increase, commentary on the Companies (Compromises, Arrangements and Amalgamations) Amendment Rules, 2025 describes a broadening of eligibility for the holding-subsidiary category of merger as well, extending the fast-track route to a holding company merging with any of its unlisted subsidiaries rather than only a wholly owned one. This is a meaningful change for group restructurings where a holding company does not own one hundred per cent of a subsidiary but still wants to simplify its corporate structure without a full NCLT filing.",
+        "A company considering this route for the first time since the 2025 changes should not simply assume its eligibility based on an older understanding of the small company or holding-subsidiary categories. The thresholds and categories have moved more than once in a short period, and it is worth checking the current Ministry of Corporate Affairs notification directly before relying on any particular figure, since a further increase to these thresholds has already been proposed in a pending bill."
+      ]
+    },
+    {
+      "heading": "Where This Route Still Fails, and Why",
+      "paragraphs": [
+        "The most common reason a Section 233 filing gets diverted to the NCLT is an objection from the Registrar of Companies, often over a procedural gap such as incomplete disclosure of pending litigation, inconsistent valuation reports, or a scheme that appears to shift value between related parties in a way the Registrar considers requires closer scrutiny. Courts have made clear that the Regional Director cannot reject a scheme outright once the statutory conditions under Section 233 are satisfied; its only options are to confirm the scheme or refer it to the NCLT under Section 233(5), not to sit on it indefinitely or dismiss it on its own.",
+        "A second common failure point is creditor approval. Getting shareholder sign-off at the ninety per cent threshold is usually manageable for a closely held group, but assembling proof of creditor consent representing nine-tenths in value, especially where there are trade creditors spread across many smaller claims, takes real planning. Companies that start creditor outreach only after the scheme is drafted tend to lose much of the time advantage this route is supposed to offer."
+      ]
+    },
+    {
+      "heading": "Fast-Track Versus the Ordinary NCLT Route",
+      "paragraphs": [
+        "An ordinary merger under Sections 230 to 232 goes before the NCLT from the outset, involves multiple hearings, notice to a wider set of statutory authorities including the Income Tax Department and sectoral regulators where applicable, and commonly takes a year or more to conclude even where nobody actually objects. Section 233 removes the NCLT from the process altogether unless an objection is actually raised, which is why eligible companies increasingly prefer it even where the underlying merger itself is not especially complex.",
+        "The trade-off is that Section 233 works best for transactions that are genuinely straightforward: no contested valuation, no cross-holding disputes, and creditors who are not going to resist. Where any of those conditions are missing, routing the matter through the NCLT from the start, rather than attempting Section 233 and risking a referral midway, is often the more time-efficient choice in the end."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Our company's paid-up capital is eight crore rupees and turnover is seventy crore rupees. Do we qualify as a small company now?",
+      "a": "Under the thresholds effective 1 December 2025, a small company's paid-up capital must not exceed rupees ten crore and turnover must not exceed rupees one hundred crore, both conditions met together. On those figures you would likely qualify, subject to the other exclusions in Section 2(85), such as not being a public company or an existing holding or subsidiary company."
+    },
+    {
+      "q": "Can a holding company merge with a subsidiary it owns only ninety per cent of, using Section 233?",
+      "a": "Reports on the 2025 amendment describe the holding-subsidiary category as now extending to any unlisted subsidiary rather than only a wholly owned one, which would cover a ninety per cent holding. Confirm the current rule text before relying on this for a specific transaction, since this detail has been revised more than once recently."
+    },
+    {
+      "q": "What happens if the Registrar of Companies objects to our fast-track scheme after we have already secured shareholder and creditor approval?",
+      "a": "The Regional Director is required to refer the scheme to the NCLT under Section 233(5), which then processes it as an ordinary merger application under Section 232. The shareholder and creditor approvals already obtained are not wasted, but the timeline advantage of the fast-track route is lost at that point."
+    },
+    {
+      "q": "How long does the Registrar of Companies or Official Liquidator have to object once we file the scheme?",
+      "a": "Following the 2023 amendment to Rule 25, they are expected to respond with objections or suggestions within thirty days of receiving the scheme. If no objection is raised in that window, the scheme is treated as approved on that front."
+    },
+    {
+      "q": "Is creditor approval for a fast-track merger harder to get than shareholder approval?",
+      "a": "In practice, often yes. Shareholder approval at ninety per cent is usually manageable in a closely held structure, but proving creditor consent representing nine-tenths in value, particularly where there are many smaller trade creditors, requires early and deliberate outreach rather than something arranged at the last stage of drafting the scheme."
+    }
+  ],
+  "references": [
+    "Companies Act, 2013, Sections 2(85), 233, 233(5)",
+    "Companies (Compromises, Arrangements and Amalgamations) Rules, 2016, Rule 25",
+    "Companies (Compromises, Arrangements and Amalgamations) Amendment Rules, 2025",
+    "Notification G.S.R. 880(E) dated 1 December 2025 (revised small company thresholds)"
+  ],
+  "sources": [
+    "https://www.taxmann.com/post/blog/analysis-fast-track-merger-under-companies-act-2013-mca-broadens-fast-track-route-for-mergers-demergers",
+    "https://indiacorplaw.in/2025/11/11/fast-track-mergers-reimagined-the-2025-mca-amendment/",
+    "https://www.majmudarindia.com/?p=18304",
+    "https://www.incorpx.io/blog/small-company-threshold-raised-2026",
+    "https://www.patronaccounting.com/blog/small-company-definition-2026-higher-thresholds-compliance-changes"
+  ],
+  "verification_notes": "The revised small company thresholds (paid-up capital up to Rs 10 crore, turnover up to Rs 100 crore, effective 1 December 2025 under Notification G.S.R. 880(E)) are confirmed by multiple independent sources (taxguru, incorpx, patronaccounting). The 2023 Rule 25 amendment fixing a 30-day objection window for the Registrar of Companies/Official Liquidator is confirmed by at least two sources (mondaq and majmudarindia/azbpartners coverage). The claim that the 2025 Amendment Rules also broadened the holding-subsidiary category to cover any unlisted subsidiary is based on a single clear source (indiacorplaw) corroborated only generally by a second (taxmann, which confirms a broadening occurred without specifying the exact scope); this is flagged in the text itself as something to verify against the current rule before relying on it for a specific deal, rather than stated as a firm fact. A commentary claim that the 2025 amendment also changed the objection window to 60 days could not be corroborated by a second source and was deliberately left out of the guide. The Asset Auto India v Union of India holding on the Regional Director's limited powers under Section 233(5) was mentioned in one search summary but its full citation was not confirmed, so it is referenced only descriptively in the text without a case name or citation."
+}
