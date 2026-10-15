@@ -1,0 +1,84 @@
+{
+  "slug": "attachment-before-judgment-order-38-rule-5-guide",
+  "title": "Worried the Defendant Will Sell Everything Before You Get a Decree? Attachment Before Judgment Explained",
+  "meta_description": "What a plaintiff must actually prove to get attachment before judgment under Order XXXVIII Rule 5 CPC, and why courts rarely grant it on the first ask.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "A creditor who has filed a money suit and sees the defendant quietly transferring property or siphoning funds out of reach has a specific remedy available before judgment is even passed: an application under Order XXXVIII Rule 5 of the Code of Civil Procedure for attachment before judgment. Used well, it freezes assets long enough to make a future decree actually worth having. Used carelessly, it is one of the fastest ways to lose credibility with a court, since judges treat this power as exceptional and are quick to notice an application that reads like a fishing expedition rather than a genuine, specific case of dishonest intent to defeat execution.",
+    "This guide sets out what a plaintiff actually has to establish, how courts have approached the standard, and a notable 2025 Supreme Court ruling on how far an attachment order can reach once property has already changed hands."
+  ],
+  "sections": [
+    {
+      "heading": "What Rule 5 actually requires the plaintiff to show",
+      "paragraphs": [
+        "Order XXXVIII Rule 5 allows a court, at any stage of a suit, to direct a defendant to furnish security, failing which to attach property, where the court is satisfied, by affidavit or otherwise, that the defendant, with intent to obstruct or delay the execution of any decree that may be passed, is about to dispose of the whole or part of their property, or is about to remove it from the jurisdiction of the court.",
+        "Two elements sit at the heart of this test, and both have to be made out, not just one. First, there has to be a reasonable, prima facie case that a decree is likely to be passed in the plaintiff's favour, since the whole remedy exists to protect a future decree, not to pressure a defendant in a weak or speculative suit. Second, and this is where most applications actually fail, there has to be specific, credible material showing the defendant intends to defeat that future decree, not merely that the defendant owns property which could in theory be sold or that the defendant is in financial difficulty.",
+        "The leading authority on this is the Supreme Court's ruling in Raman Tech. & Process Engg. Co. v. Solanki Traders, which describes the power under Rule 5 as drastic and extraordinary, to be exercised sparingly and strictly in accordance with the rule, not merely because a plaintiff asks for it or because a defendant happens to have attachable assets."
+      ]
+    },
+    {
+      "heading": "Why vague apprehension is not enough",
+      "paragraphs": [
+        "Plaintiffs frequently draft these applications around a general apprehension, asserting that the defendant is a person of doubtful means, or that the defendant could dispose of assets, without pointing to anything specific the defendant has actually done or is actually doing to indicate such an intent. Courts have consistently rejected applications pitched at this level of generality, since an order under Rule 5 carries real consequences for the defendant, including reputational harm and practical difficulty conducting business, and cannot be issued on suspicion alone.",
+        "What courts look for instead is something concrete: an actual attempt to sell a specific asset after the dispute arose, a transfer to a related party or a shell entity for less than market value, sudden removal of funds or stock from the jurisdiction, or a pattern of conduct, such as closing bank accounts or changing the registered address, that reasonably suggests an intent to become judgment-proof before the suit concludes. A plaintiff should plead these facts with particulars, including dates, amounts and documents where available, rather than relying on a general allegation that the defendant is not to be trusted.",
+        "Calcutta High Court authority, among others, has specifically emphasised that vague, unparticularised allegations will not sustain an attachment order, and that the plaintiff must set out both the facts constituting the apprehension and the grounds for believing those facts, not merely assert the conclusion that the defendant intends to defraud creditors."
+      ]
+    },
+    {
+      "heading": "How this plays out when the suit is really a commercial claim",
+      "paragraphs": [
+        "In ordinary commercial disputes, where delay in payment is common and does not by itself suggest fraud, courts are particularly cautious about granting attachment before judgment, since treating every slow-paying debtor as someone trying to defeat execution would turn an exceptional remedy into a routine pressure tactic available to any unpaid plaintiff. A defendant disputing the claim on genuine grounds, or simply going through a difficult commercial period, is not automatically a target for this relief merely because the plaintiff believes a decree is likely.",
+        "Where a plaintiff genuinely has evidence of dishonest intent, such as the defendant actively negotiating to sell its only substantial asset shortly after receiving a legal notice, or transferring funds to family members in a pattern inconsistent with ordinary business dealing, the application has a real chance, and courts have granted Rule 5 relief in such cases even in purely commercial disputes.",
+        "A related, frequently used route is to invoke Order XXXVIII Rule 5 principles within a Section 9 application for interim relief under the Arbitration and Conciliation Act, where a party anticipates that the other side will dissipate assets before an arbitral tribunal is even constituted. Courts applying Section 9 in this context have held that the same underlying standard, a credible, specific apprehension rather than a vague one, governs whether such interim relief should be granted, since Section 9 does not create a separate, lower threshold simply because the ultimate forum will be an arbitral tribunal rather than a civil court."
+      ]
+    },
+    {
+      "heading": "What happens once a third party has already acquired the property",
+      "paragraphs": [
+        "A difficult practical question arises where the property a plaintiff wants attached has already been transferred to someone else, a bona fide purchaser who was not party to the original suit, by the time the attachment application is actually heard or executed. The Supreme Court addressed exactly this in L.K. Prabhu v. K.T. Mathew, decided in November 2025, holding that an attachment before judgment under Order XXXVIII Rule 5 cannot be extended to reach property that has already been transferred to a third party before the attachment, where that third party's rights were acquired independently of the dispute between the original parties.",
+        "The ruling links this limitation to the protective and procedural character of attachment before judgment, which exists to preserve the status quo pending the suit, not to retroactively unwind completed, bona fide third-party transactions that occurred before the court actually acted. Where a plaintiff believes the transfer to the third party was itself fraudulent or designed specifically to defeat the plaintiff's claim, the appropriate route is a separate challenge to that transfer, including reliance on Section 53 of the Transfer of Property Act dealing with fraudulent transfers, rather than treating the original Rule 5 attachment as automatically extending over property no longer in the defendant's hands.",
+        "The ruling also touches on how a third party's own claim over attached property should be raised, pointing to Order XXXVIII Rule 8 read with Order XXI Rule 58 as the procedural route for a third party to object that attached property actually belongs to them, underscoring that attachment proceedings must respect pre-existing, genuine third-party rights rather than override them by default."
+      ]
+    },
+    {
+      "heading": "Practical steps for a plaintiff considering this application",
+      "paragraphs": [
+        "Before filing, a plaintiff should gather the specific evidence the application will need, including any communication or document suggesting the defendant is attempting to dispose of or move assets, details of the specific property to be attached with enough particularity that a court and a bailiff can actually act on the order, and a clear explanation of why ordinary execution after judgment would not adequately protect the plaintiff's interest, such as the defendant having no other substantial assets within the jurisdiction.",
+        "It helps to file the application promptly once the apprehension arises, rather than waiting, since a long, unexplained delay between noticing the defendant's conduct and seeking attachment can itself undermine the claim that the situation is urgent enough to justify this exceptional remedy. Courts are entitled to ask why, if the danger was real, the plaintiff did not act sooner.",
+        "Plaintiffs should also be prepared for the court to require security or an undertaking in damages as a condition of granting the order, since an attachment that later turns out to have been wrongly obtained can expose the plaintiff to a claim for damages from the defendant for the loss the attachment caused, and courts use this as a further check against speculative applications."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it enough to show the defendant owns property and I have a strong case, to get attachment before judgment?",
+      "a": "No. A strong prima facie case on the merits is only one part of the test. You also need specific, credible material showing the defendant intends to dispose of or remove property to defeat a future decree. Owning attachable property, by itself, is not evidence of such an intent."
+    },
+    {
+      "q": "Can I get property attached under Order XXXVIII Rule 5 even though my case is a straightforward commercial payment dispute, not a fraud case?",
+      "a": "It is possible, but courts are cautious in ordinary commercial disputes, since slow payment or a genuine dispute about the amount owed does not by itself suggest an intent to defeat execution. You would need specific facts, such as an actual attempted sale or transfer after the dispute arose, to support the application even in a commercial context."
+    },
+    {
+      "q": "The defendant already sold the property to someone else before my attachment application was heard. Can the attachment still reach it?",
+      "a": "Generally no, if the third party acquired the property bona fide and independently of your dispute, following the Supreme Court's 2025 ruling in L.K. Prabhu v. K.T. Mathew. If you believe the transfer itself was designed to defeat your claim, you would need to separately challenge that transfer as fraudulent, rather than assume the original attachment automatically extends to it."
+    },
+    {
+      "q": "What happens if a court grants attachment before judgment and I later lose the suit?",
+      "a": "You can be made liable for damages the defendant suffered because of the attachment, particularly where the court required an undertaking in damages as a condition of granting the order. This is one reason courts expect a plaintiff to seek this relief only where the apprehension is genuine and well supported, not as a routine litigation tactic."
+    }
+  ],
+  "references": [
+    "Code of Civil Procedure, 1908, Order XXXVIII Rules 5 and 8, and Order XXI Rule 58",
+    "Transfer of Property Act, 1882, Section 53",
+    "Arbitration and Conciliation Act, 1996, Section 9",
+    "Raman Tech. & Process Engg. Co. v. Solanki Traders, (2008) 2 SCC 302",
+    "L.K. Prabhu v. K.T. Mathew, 2025 INSC 1364 (decided 28 November 2025)"
+  ],
+  "sources": [
+    "https://lawfoyer.in/attachment-before-judgment-order-xxxviii-rule-5-cpc/",
+    "https://www.casemine.com/in/column/ex-parte-attachment-orders-in-indian-law:-jurisprudential-evolution-and-procedural-safeguards/view",
+    "https://www.caseciter.com/l-k-prabhu-v-k-t-mathew-neutral-citation-2025-insc-1364-order-xxxviii-rule-5-cpc-attachment-before-judgment-already-transferred-property/",
+    "https://www.barandbench.com/columns/section-9-of-arbitration-act-1996-and-attachment-before-judgment-supreme-court"
+  ],
+  "verification_notes": "Confirmed from multiple sources (Lawfoyer's dedicated explainer, Casemine's jurisprudential column on ex-parte attachment orders) that Order XXXVIII Rule 5 requires both a reasonable prima facie case and specific, credible material of intent to obstruct or delay execution, that Raman Tech. & Process Engg. Co. v. Solanki Traders describes the power as drastic and extraordinary to be used sparingly, and that courts require particularised facts rather than vague apprehension, drawing on Calcutta High Court authority described in the Casemine column. L.K. Prabhu v. K.T. Mathew, cited as 2025 INSC 1364 and decided 28 November 2025, was confirmed from a dedicated case summary (CaseCiter) describing the holding that attachment before judgment cannot extend to property already transferred to a bona fide third party, and linking this to Section 53 of the Transfer of Property Act and the Order XXXVIII Rule 8/Order XXI Rule 58 procedure for third-party claims; this citation comes from a single case-summary aggregator and should be cross-checked against the Supreme Court's own judgment portal before being treated as final. The Section 9 arbitration-context application of the same standard was confirmed from a Bar and Bench column. Left out: a specific, confirmed account of the underlying facts of L.K. Prabhu v. K.T. Mathew beyond the holding on third-party transfer, since the source consulted was a short case-summary page rather than the full judgment text."
+}
