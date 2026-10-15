@@ -1,0 +1,79 @@
+{
+  "slug": "patent-form-27-working-statement-guide",
+  "title": "Form 27 Patent Working Statements: What Changed in 2024 and Why Non-Filing Is Risky",
+  "meta_description": "What Form 27 under Section 146 of the Patents Act requires, how the 2024 amendment changed filing frequency, and what non-compliance actually risks.",
+  "practice_area": "Intellectual Property",
+  "intro": [
+    "A granted Indian patent is not the end of a patentee's statutory obligations. Section 146(2) of the Patents Act, 1970, read with the rules framed under it, requires every patentee and every licensee to separately furnish a statement on whether and how the patented invention is being worked on a commercial scale in India. This is Form 27, and a surprising number of patent holders, particularly foreign applicants managing a large portfolio through Indian counsel, either miss the filing entirely or file it inconsistently across years.",
+    "The filing frequency itself changed substantially in 2024. This guide covers what Form 27 requires, what the amendment changed, and what is actually at stake for a patentee who gets this wrong."
+  ],
+  "sections": [
+    {
+      "heading": "What Form 27 actually requires",
+      "paragraphs": [
+        "Form 27 is the prescribed statement regarding the working of a patented invention on a commercial scale in India, filed under Section 146(2) of the Patents Act and Rule 131 of the Patents Rules, 2003. It requires the patentee, and separately every licensee, to disclose whether the invention is being worked, and if so, broadly how, including whether it is manufactured in India or imported, and if information on quantum or value is called for, to provide it in the format the form prescribes.",
+        "The obligation runs independently against the patentee and against each licensee. A patentee's own filing does not discharge a licensee's separate statutory duty to file its own Form 27, and a portfolio holder who licenses the same patent to multiple parties needs to track compliance across every licensee, not just its own filing, since the Controller's office treats these as distinct obligations attaching to distinct persons.",
+        "The form does not require working in India to be shown at any particular scale before the filing obligation applies; it requires an honest disclosure of the actual position, including a clear statement where the invention is simply not being worked at all. Patentees sometimes assume the filing is only meant for inventions already in commercial production and leave a gap in their filing history for patents that were never worked, which is the wrong instinct given how that history can later be read in a compulsory licence proceeding."
+      ]
+    },
+    {
+      "heading": "The 2024 change: from annual to triennial filing",
+      "paragraphs": [
+        "The Patents (Amendment) Rules, 2024 came into force on 15 March 2024 and changed the filing frequency from an annual statement to a single statement covering each block of three financial years, to be filed within six months of the end of that three year block. Before this change, a patentee had to file Form 27 every single financial year for every patent in force, which in practice generated an enormous compliance burden across large portfolios for information that, in many cases, did not change materially from one year to the next.",
+        "The transition creates a specific near term compliance point that patent holders need to track carefully. For patents granted on or before 31 March 2023, the working period under the new triennial system covers financial years 2023 to 24, 2024 to 25 and 2025 to 26 together, with the filing due within six months after the close of that block, which falls around 30 September 2026. A patentee managing a portfolio spanning patents granted at different times needs to calculate the applicable three year block separately for each patent rather than assuming a single filing date covers the entire portfolio."
+      ]
+    },
+    {
+      "heading": "Why non-filing is treated as a real risk, not a formality",
+      "paragraphs": [
+        "Section 122 of the Patents Act makes furnishing false information in response to a requirement under Section 146, or failing to furnish the required information, a punishable offence, and the Controller does have power to call for this information even outside the routine filing cycle. In practice, enforcement against routine non-filing has historically been inconsistent, but the statutory exposure exists regardless of how often it is actually invoked, and a patentee cannot assume that inconsistent past enforcement predicts future enforcement, particularly given periodic transparency and accountability pushes around this specific filing.",
+        "The more commercially significant risk runs through compulsory licensing. Section 84 allows a person interested to apply for a compulsory licence three years after grant on grounds that include the invention not being worked in India to the fullest extent reasonably practicable, and a consistent pattern of Form 27 filings showing genuine working, with supporting detail, is one of the clearer pieces of evidence a patentee can point to in resisting such an application. A patentee with a gap in filings, or filings that are vague or inconsistent, hands a compulsory licence applicant a cleaner argument that working cannot be verified from the patentee's own disclosures."
+      ]
+    },
+    {
+      "heading": "Confidentiality concerns and the pushback on disclosure scope",
+      "paragraphs": [
+        "Form 27 historically asked for quantum and value of the invention worked, which raised commercial confidentiality concerns for patentees who did not want competitors or generic manufacturers to reverse engineer sales volumes or revenue from a public filing. This tension between transparency, including Right to Information Act exposure of filed statements, and legitimate confidentiality has been a recurring theme in commentary on the 2024 changes, and the amendment process itself reflects an attempt to recalibrate what level of commercial detail the form actually needs to extract to serve its statutory purpose.",
+        "A patentee preparing a Form 27 filing should treat the level of commercial detail disclosed as a genuine drafting decision rather than a mechanical box to fill in, giving enough specific, credible detail to be useful as working evidence later while avoiding disclosure of sensitive figures the rules do not actually require."
+      ]
+    },
+    {
+      "heading": "Practical steps for a patent holder managing multiple patents",
+      "paragraphs": [
+        "The first practical step is building a patent-by-patent calendar keyed to each patent's own grant date, since the applicable three year working block, and therefore the filing deadline, is calculated from that date rather than from a single portfolio-wide date. The second is confirming, for every licensing arrangement currently in force, that the licensee understands it carries its own independent Form 27 obligation and is not relying on the patentee's filing to cover it.",
+        "Finally, a patentee facing, or anticipating, a compulsory licence application under Section 84 should treat its Form 27 filing history as part of its evidentiary record well before any such application is actually filed, since retrofitting a credible working history after the fact is far harder than maintaining consistent, adequately detailed filings as they fall due."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to file Form 27 if my patent is not being commercially worked at all in India?",
+      "a": "Yes. The statutory obligation is to furnish a statement on working, and that statement can and should truthfully disclose that the invention is not currently being worked, rather than being skipped altogether. A false statement of working carries its own separate risk under Section 122, and simply not filing does not avoid the underlying obligation."
+    },
+    {
+      "q": "Does my licensee's Form 27 filing cover my own obligation as the patentee?",
+      "a": "No. The obligation under Section 146(2) runs separately against the patentee and against each licensee. A patentee cannot assume a licensee's filing discharges its own statutory duty, and large portfolios with multiple licensees need to track each party's compliance independently."
+    },
+    {
+      "q": "What is the current filing frequency after the 2024 amendment?",
+      "a": "Form 27 is now filed once for each three financial year block rather than every year, with the filing due within six months after the end of that block. The exact block applicable to a given patent depends on its grant date, so different patents in the same portfolio can fall on different filing schedules."
+    },
+    {
+      "q": "Can failing to file Form 27 actually lead to a compulsory licence against my patent?",
+      "a": "Non-filing itself is not automatically fatal, but a consistent, well documented Form 27 filing history is one of the clearer forms of evidence a patentee can use to resist a Section 84 compulsory licence application alleging the invention is not being worked in India. Gaps or vague filings weaken that evidentiary position."
+    }
+  ],
+  "references": [
+    "Patents Act, 1970, Section 146(2) (statement regarding working of patented invention) and Section 122 (penalty for refusal or failure to supply information)",
+    "Patents Rules, 2003, Rule 131 and Form 27",
+    "Patents (Amendment) Rules, 2024, effective 15 March 2024, changing Form 27 filing frequency from annual to triennial",
+    "Patents Act, 1970, Section 84 (compulsory licences, including on the ground of the invention not being worked in India)"
+  ],
+  "sources": [
+    "https://ssrana.in/ip-laws/patents/working-patent-statements-india/",
+    "https://ksandk.com/intellectual-property-rights/form-27-compliance-compulsory-licence-india/",
+    "https://conventuslaw.com/report/navigating-indias-form-27-triennial-regime-a-comprehensive-compliance-guide-for-patent-holders-for-working-statement-requirements-in-2026/",
+    "https://or.niscpr.res.in/index.php/JIPR/article/view/8694"
+  ],
+  "verification_notes": "Confirmed from ssrana.in, ksandk.com and conventuslaw.com that the Patents (Amendment) Rules, 2024 took effect 15 March 2024 and changed Form 27 filing from an annual to a triennial requirement (once per three financial year block, due within six months of the block's end), and that the next major deadline for patents granted on or before 31 March 2023 falls around 30 September 2026 covering FY 2023-24 through 2025-26. Section 146(2) and Section 122 of the Patents Act, and Rule 131 of the Patents Rules, 2003, are the statutory basis per ssrana.in. The confidentiality/RTI tension point is drawn from the niscpr.res.in JIPR article abstract. I did not find a specific recent (2024-2026) compulsory licence case actually turning on Form 27 non-filing in these results, so that connection is described as a general evidentiary risk under Section 84 rather than tied to a specific decided case."
+}

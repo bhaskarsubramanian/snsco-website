@@ -1,0 +1,79 @@
+{
+  "slug": "liquidated-damages-public-infrastructure-contract-guide",
+  "title": "Liquidated Damages in Public Infrastructure Contracts: Why 'Presumed Loss' Changes What a Contractor Owes",
+  "meta_description": "How Section 74 of the Contract Act applies to liquidated damages in government infrastructure contracts, and what recent court rulings decided.",
+  "practice_area": "Infrastructure & PPP",
+  "intro": [
+    "Almost every EPC and construction contract on a public infrastructure project carries a liquidated damages clause for delay, usually expressed as a percentage of contract value per week of delay up to a stated cap. When the project actually runs late and the employer tries to deduct those damages, the contractor's first instinct is to demand proof of actual loss, on the theory that Section 74 of the Indian Contract Act only permits reasonable compensation, not an automatic windfall. Whether that argument succeeds now depends heavily on whether the project counts as a public utility or public interest contract, and the law on this point moved significantly in 2024 and 2025.",
+    "This guide sets out the current, somewhat unsettled state of the law on proof of loss for liquidated damages in government infrastructure contracts, and what a contractor and an employer should each be building into their case."
+  ],
+  "sections": [
+    {
+      "heading": "The general rule under Section 74",
+      "paragraphs": [
+        "Section 74 of the Contract Act provides that where a contract names a sum as liquidated damages for breach, the party complaining of breach is entitled to receive reasonable compensation not exceeding the amount named, whether or not actual damage is proved. The settled general principle, reaffirmed by the Supreme Court as recently as February 2025 in Sahakarmaharshi Bhausaheb Thorat Sahakari Sakhar Karkhana Ltd v Thyssen Krupp Industries India Pvt Ltd, is that where the parties have agreed a liquidated damages figure, the claim for damages remains confined to what the agreement specifies, the agreed sum operating as the ceiling on recovery rather than a starting point for a larger claim.",
+        "The harder question has always been the other side of this coin: does the party claiming liquidated damages still need to show that it suffered some loss at all, or does naming a figure in the contract dispense with that proof entirely? The Delhi High Court's answer in BHEL v Kanohar Electricals, decided in February 2024, was that liquidated damages are not automatically recoverable merely because the contract specifies a sum; the aggrieved party must still demonstrate legal injury, with the agreed amount operating only as a cap on what can be awarded once injury is shown."
+      ]
+    },
+    {
+      "heading": "The public utility exception: NTPC and presumed loss",
+      "paragraphs": [
+        "Running against that general requirement to show injury is a separate, specific line applicable to public utility and public interest projects. The Supreme Court has held, in a ruling involving NTPC Vidyut Vyapar Nigam Ltd, that in contracts for public utility projects, or contracts otherwise affecting the public interest, delay in execution is presumed to cause loss, and the party complaining of the delay does not need to independently prove actual damage before claiming reasonable compensation under Section 74. The reasoning rests on the practical difficulty of quantifying the diffuse harm caused by delay to a power plant, a highway, or similar public infrastructure, where the loss is real but resists conventional proof through invoices or lost profit calculations in the way a straightforward commercial supply contract would.",
+        "The same ruling addressed the scope of appellate review, holding that where a Section 34 court has exercised a plausible view on what counts as reasonable compensation in such a case, a Section 37 appellate court should not substitute its own view unless the original finding is shown to be arbitrary. This matters tactically: once a contractor loses the proof-of-loss argument at the Section 34 stage in a public utility matter, the room to reargue it on appeal narrows considerably unless the original finding can be shown to be genuinely unreasonable rather than merely debatable."
+      ]
+    },
+    {
+      "heading": "Why the two lines of authority sit uneasily together",
+      "paragraphs": [
+        "The BHEL v Kanohar Electricals approach and the public utility presumed-loss line are not formally in conflict, since one addresses contracts in general and the other carves out a specific category of public utility and public interest contracts for different treatment. In practice, however, the dividing line between an ordinary commercial contract and one affecting the public interest is not always obvious at the drafting stage, and a contractor negotiating an EPC contract for, say, a state highway, a water treatment plant, or a power transmission line should assume the public interest characterisation will apply against it if the matter is ever litigated, rather than hoping the general rule requiring proof of injury will govern.",
+        "Commentary following these rulings has also flagged the Construction & Design Services v DDA line as sitting in some tension with the general requirement to show injury, since that case too involved a public works contract, a sewerage pumping station, where the Court appears to have taken a broadly similar presumed-loss approach even outside the specific NTPC fact pattern. The practical reading for now is that public works and public utility infrastructure contracts are treated as a distinct category where delay damages are easier for the employer to recover without the detailed proof a private commercial contract would otherwise demand."
+      ]
+    },
+    {
+      "heading": "The contractor's remaining defences: concurrent delay and causation",
+      "paragraphs": [
+        "Losing the proof-of-loss argument on a public utility project does not leave a contractor without defences. The deduction still has to be tied to delay actually caused by the contractor, and where the employer's own conduct, a late handover of site, delayed approvals, or variations issued mid-project, contributed to the overall delay, concurrent delay principles can reduce or eliminate the portion of liquidated damages attributable to the contractor specifically. Arbitral tribunals in Indian infrastructure disputes have engaged with concurrent delay analysis increasingly carefully in recent years, requiring the employer to show a clear, properly particularised delay analysis rather than simply pointing to the overall completion date against the contractual date.",
+        "A contractor should also check whether the employer actually followed its own contractual process for claiming and deducting liquidated damages, such as issuing a notice before deduction, allowing the contractor an opportunity to respond, or obtaining an extension of time determination first where the contract makes that determination a precondition to any deduction. An employer who deducts without following its own contractually mandated process hands the contractor a procedural objection that survives even where the substantive presumed-loss argument has become harder to win."
+      ]
+    },
+    {
+      "heading": "What this means for drafting and for live disputes",
+      "paragraphs": [
+        "For an employer on a public infrastructure project, the practical lesson is to draft the liquidated damages clause and the recitals around it to make the public interest character of the project explicit, describing the project's public function, the users who depend on timely completion, and the reasons actual loss is difficult to quantify, since this groundwork makes it easier to invoke the presumed-loss line later if delay actually occurs and the matter is contested.",
+        "For a contractor facing a liquidated damages deduction on a public infrastructure project, the stronger arguments now concern quantum and causation rather than the existence of loss as such: whether the delay was actually attributable to the contractor rather than to the employer's own default or a force majeure event, whether concurrent delay principles reduce the contractor's exposure, and whether the deducted amount actually stays within the contractual cap once interest and other heads are properly accounted for. Arguing that the employer must affirmatively prove loss from scratch is a weaker position than it was before these rulings, at least where the project can plausibly be characterised as a public utility or public interest contract."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an employer deduct liquidated damages from a running account bill without a tribunal's order?",
+      "a": "Most EPC and construction contracts expressly permit the employer to deduct liquidated damages from amounts otherwise payable under running bills, without needing a prior arbitral or court order, subject to the contractor's right to later dispute the deduction through arbitration or litigation. The contract's own payment and deduction mechanism governs this, not a general rule of law."
+    },
+    {
+      "q": "If my contract is with a state government company, does that automatically make it a 'public utility' contract for this purpose?",
+      "a": "Not automatically. The presumed-loss principle turns on the nature of the project and its public function, such as a power project, highway, or water supply scheme, rather than purely on the identity of the counterparty. A commercial supply contract with a government company that does not itself serve a public utility function may still attract the ordinary requirement to show injury."
+    },
+    {
+      "q": "Does the liquidated damages cap in the contract limit what the employer can recover even if actual losses are higher?",
+      "a": "Yes, this is the settled position reaffirmed in the Thyssen Krupp ruling: where the parties have fixed a liquidated damages figure, the recovery stays confined to that agreed figure as the ceiling, regardless of whether the employer's actual loss, if proved, would have been higher."
+    },
+    {
+      "q": "Can a contractor argue there was no loss at all to avoid liquidated damages entirely on a public infrastructure project?",
+      "a": "This has become considerably harder following the public utility presumed-loss line of rulings. On a project reasonably characterised as a public utility or public interest contract, a contractor arguing for zero liability on the basis that no loss was proved is fighting against a line of authority that treats loss from delay as presumed rather than something the employer must separately establish."
+    }
+  ],
+  "references": [
+    "Indian Contract Act, 1872, Section 74",
+    "Sahakarmaharshi Bhausaheb Thorat Sahakari Sakhar Karkhana Ltd v Thyssen Krupp Industries India Pvt Ltd, 2025 INSC 219",
+    "BHEL v Kanohar Electricals, Delhi High Court Division Bench, 26 February 2024",
+    "NTPC Vidyut Vyapar Nigam Ltd related ruling on presumed loss in public utility project contracts under Section 74, and the limited scope of Section 37 appellate review of a Section 34 court's reasonable compensation finding",
+    "Construction & Design Services v Delhi Development Authority"
+  ],
+  "sources": [
+    "https://www.verdictum.in/court-updates/supreme-court/sahakarmaharshi-bhausaheb-thorat-sahakari-sakhar-karkhana-ltd-v-thyssen-krupp-industries-india-pvt-ltd-2025-insc-219-contract-act-1568288",
+    "https://www.barandbench.com/amp/story/law-firms/view-point/damages-without-proof-of-loss-the-supreme-courts-overbroad-public-utility-presumption",
+    "https://www.lekhanews.in/judgment/sup-m-s-saisudhir-energy-ltd-vs-m-s-ntpc-vidyut-vyapar-nigam-ltd-ml1lumwe/",
+    "https://bhattandjoshiassociates.com/?p=53714"
+  ],
+  "verification_notes": "Confirmed Sahakarmaharshi Bhausaheb Thorat v Thyssen Krupp (2025 INSC 219, decided Feb 2025, Oka and Bhuyan JJ, damages confined to the Section 74 agreed figure) from verdictum.in. Confirmed the NTPC Vidyut Vyapar Nigam/Saisudhir Energy ruling on presumed loss in public utility contracts and limited Section 37 review from barandbench.com commentary and lekhanews.in judgment listing; I could not confirm the exact decision date for this ruling in the results (noted in the body only as a recent Supreme Court ruling without a specific date) and have flagged it as drawing some critical commentary (the barandbench.com piece is titled as critical of an 'overbroad' presumption, which is noted in the text as creating tension with the general rule rather than presented as free of controversy). Confirmed BHEL v Kanohar Electricals (Delhi HC Division Bench, 26 Feb 2024, requiring legal injury despite a named LD sum) from bhattandjoshiassociates.com. The Construction & Design Services v DDA case is referenced per bhattandjoshiassociates.com commentary as an example in the same vein; I did not independently retrieve that judgment and describe it only at the level of the commentary's characterisation."
+}
