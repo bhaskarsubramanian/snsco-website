@@ -1,0 +1,78 @@
+{
+  "slug": "spa-indemnity-warranty-claims-guide",
+  "title": "Indemnity Claims Under a Share Purchase Agreement: What a Buyer Actually Has to Prove",
+  "meta_description": "How indemnity and warranty claims under an Indian SPA actually get enforced, the notice conditions that trip up buyers, and where escrow fits in.",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "By the time an indemnity claim lands on a lawyer's desk, the deal is usually already closed, the seller has moved on, and the buyer has just discovered a tax demand, a contingent liability, or a misstated receivable that was never disclosed during due diligence. What decides whether that claim actually succeeds is rarely the strength of the underlying grievance. It is whether the buyer followed the notice and procedure clauses the SPA itself laid down, clauses that are drafted, more often than not, by the same buyer's own lawyers and then promptly ignored once a real claim arises.",
+    "This guide looks at how indemnity clauses in Indian share purchase agreements actually get enforced, the limitation and procedural traps that defeat otherwise good claims, and the practical role escrow and holdback arrangements play in making recovery real rather than theoretical."
+  ],
+  "sections": [
+    {
+      "heading": "Indemnity is a contractual promise, not a statutory right",
+      "paragraphs": [
+        "Unlike a tort claim or a statutory cause of action, an indemnity under an SPA exists only because the contract says it does. Indian courts and tribunals treat warranty and indemnity clauses as ordinary contractual obligations under the Indian Contract Act, 1872, and will give effect to the commercial bargain the parties actually struck, provided the language is clear and the clause is not contrary to law. This cuts both ways: a well drafted indemnity gives a buyer a direct, straightforward route to recovery without having to prove fraud or negligence, but a loosely drafted one, or one where the buyer has not satisfied a condition precedent the clause itself imposes, can leave even a genuine loss uncompensated.",
+        "This is why due diligence findings need to translate into specific, drafted protection rather than a general sense that the seller has promised everything will be fine. A representation that the company has no pending litigation is only useful if the indemnity clause actually ties a breach of that representation to a defined, quantifiable right to be made whole, with the mechanics of how that claim gets raised and paid spelled out rather than left to be argued about later."
+      ]
+    },
+    {
+      "heading": "The notice clause is where most claims actually die",
+      "paragraphs": [
+        "Most SPAs condition an indemnity claim on the buyer giving written notice of the claim within a specified period, often tied to when the buyer discovered or ought reasonably to have discovered the underlying breach, and separately setting an outer survival period after which no indemnity claim can be brought at all regardless of when the loss surfaces. Buyers routinely treat these as boilerplate and miss them, either because the internal team handling a tax notice does not loop in the lawyers who negotiated the SPA, or because the notice that is eventually sent is too vague to satisfy the clause's own requirements for specificity.",
+        "A notice that simply says a claim may arise under the indemnity provisions, without identifying the specific representation breached, the quantum involved even if only an estimate, and the factual basis for the claim, invites the seller to argue the notice was defective and that the claim is accordingly time barred under the SPA's own terms, independent of whatever the Limitation Act, 1963 would otherwise allow. Practitioners drafting these clauses on the buyer's side should build in a reasonably generous notice period and a low bar for what counts as adequate notice, since the buyer is the party who will eventually have to rely on it; practitioners reviewing a claim on the buyer's side after signing should treat the notice clause as the first thing to check, not an afterthought once the substantive merits look strong."
+      ]
+    },
+    {
+      "heading": "Survival periods, baskets, and caps shape what is actually recoverable",
+      "paragraphs": [
+        "Even a timely, well particularised claim can run into the SPA's own limits on quantum. A basket or minimum threshold clause typically requires losses to cross a specified amount, individually or in aggregate, before any indemnity becomes payable at all, which is meant to filter out trivial claims rather than turning every minor discrepancy into a dispute. A cap clause separately limits the seller's total indemnity exposure, commonly expressed as a percentage of the purchase price, beyond which the seller simply has no further liability under the SPA regardless of how large the actual loss turns out to be.",
+        "Fundamental warranties, typically covering title to the shares, authority to sell, and similar foundational matters, are usually carved out of both the basket and the cap, on the reasoning that a defect going to the seller's basic right to sell the shares in the first place should not be subject to the same commercial limits as an ordinary business warranty about, say, the accuracy of a financial statement. Buyers negotiating these clauses should pay close attention to which representations actually sit inside the fundamental warranty carve out, since a seller's lawyer will often try to narrow that list as far as possible, leaving commercially significant representations, such as tax compliance or environmental liabilities, subject to the ordinary cap."
+      ]
+    },
+    {
+      "heading": "Escrow and holdback make recovery real rather than aspirational",
+      "paragraphs": [
+        "A contractual right to indemnity is only as good as the seller's ability and willingness to actually pay once a claim succeeds, and sellers who have already received the full purchase price and moved the proceeds elsewhere are a familiar recovery problem. This is why buyers commonly insist on an escrow arrangement, holding back a portion of the purchase price with an independent escrow agent for a defined period matching the indemnity survival period, against which indemnity claims can be set off directly rather than pursued as a fresh recovery action against a seller who may by then be uncooperative or simply hard to locate.",
+        "Where escrow is not commercially acceptable to the seller, a deferred consideration or earn out structure can sometimes serve a similar function, letting the buyer withhold or adjust a later tranche of payment against a validly raised indemnity claim, though this needs careful drafting to avoid the deferred payment being treated as wholly independent of the indemnity mechanism. Either way, the practical lesson is the same: negotiating a strong indemnity clause without also securing a realistic mechanism for actually recovering under it leaves the buyer with a judgment or an arbitral award that may be difficult to enforce against a seller who has already dispersed the sale proceeds."
+      ]
+    },
+    {
+      "heading": "Choosing arbitration or civil court, and what that means for timing",
+      "paragraphs": [
+        "Most Indian SPAs of any size route indemnity disputes to arbitration rather than the civil courts, usually under institutional rules or an ad hoc clause specifying the seat and the governing law, partly to keep the dispute confidential and partly to avoid the delay associated with civil litigation. Where arbitration is chosen, a buyer anticipating that the seller may try to dissipate the escrow proceeds or other assets before an award is passed should consider interim relief under Section 9 of the Arbitration and Conciliation Act, 1996, which is available even before the arbitral tribunal itself is constituted.",
+        "Whichever forum is chosen, the limitation period under the Limitation Act, 1963 runs independently of the SPA's own contractual notice and survival periods, and a buyer needs to satisfy both. A notice given within the SPA's survival period does not itself stop the statutory limitation clock from running on the underlying cause of action, so a buyer who negotiates and waits out a long pre-litigation settlement discussion with the seller should keep an eye on the statutory limitation period throughout, alongside the SPA's own contractual deadlines."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "We discovered a tax liability eight months after closing that should have been disclosed. Can we still claim under the indemnity?",
+      "a": "Only if you are still within the SPA's notice and survival periods for that representation, and you give notice that specifically identifies the breach and an estimate of the loss. Check the clause's own deadlines first, since they often run from discovery of the breach rather than from closing, and missing them can bar the claim regardless of its merits."
+    },
+    {
+      "q": "The seller has moved the sale proceeds and is now hard to reach. Does our indemnity clause still help us?",
+      "a": "It helps only to the extent you have a practical way to enforce it, which is exactly why escrow or holdback arrangements matter. If no escrow was set up, you may need to pursue the seller directly through arbitration or civil proceedings, and enforcement against a seller who has dispersed funds can be slow even with a favourable award."
+    },
+    {
+      "q": "Our loss is below the basket threshold set out in the SPA. Is there any other way to recover it?",
+      "a": "Generally no, under the indemnity clause itself, since the basket is specifically designed to exclude losses below that threshold. You would need to check whether a separate cause of action, such as fraud or misrepresentation outside the SPA's contractual framework, is available on the specific facts, which is a different and higher bar to meet."
+    },
+    {
+      "q": "Does sending a notice under the SPA's indemnity clause stop the statutory limitation period from running?",
+      "a": "Not automatically. The SPA's notice and survival periods are separate from the limitation period under the Limitation Act, 1963, and you need to satisfy both independently. Track the statutory limitation period on your underlying cause of action throughout, rather than assuming compliance with the SPA's own deadlines is enough by itself."
+    }
+  ],
+  "references": [
+    "Indian Contract Act, 1872",
+    "Limitation Act, 1963",
+    "Arbitration and Conciliation Act, 1996, Section 9",
+    "Standard Indian M&A indemnity clause practice: notice, survival period, basket, cap and fundamental warranty carve-out structures"
+  ],
+  "sources": [
+    "https://ksandk.com/corporate/indemnification-clause-in-indian-commercial-contracts/",
+    "https://www.mondaq.com/india/shareholders/1616660/indemnity-process",
+    "https://globallawexperts.com/postclosing-obligations-india/",
+    "https://cn.lakshmisri.com/Uploads/MediaTypes/Documents/L&S_Corporate_Amicus_February_2019.pdf"
+  ],
+  "verification_notes": "Confirmed that Indian courts treat SPA warranties and indemnities as enforceable contractual obligations under the Indian Contract Act, 1872, subject to clear drafting and the Limitation Act's time bar, from a King Stubb & Kasiva practitioner article and Mondaq commentary on indemnification clauses in Indian commercial contracts. Confirmed the general structure of notice conditions, survival periods, baskets and caps, and the practice of carving out fundamental warranties from these limits, from the same sources and from Lakshmikumaran & Sridharan's Corporate Amicus note on limiting seller liability through minimum loss thresholds. Confirmed escrow as a recognised mechanism to secure indemnity recovery without needing fresh litigation or arbitration, from a Global Law Experts article on post-closing obligations in Indian M&A. The Section 9 interim relief point reflects the well-established, independently verifiable scope of the Arbitration and Conciliation Act, 1996. No specific recent (2024-2026) reported Indian court or tribunal decision interpreting an SPA indemnity notice clause was found in the searches conducted; this guide is accordingly built on well-established contract and M&A practice principles rather than a named recent ruling, and does not claim one. Left out: any specific percentage figures for typical basket thresholds or liability caps, and any statement of when the limitation clock specifically starts for an indemnity breach claim, since neither was confirmed with a specific, reliable figure or holding in the sources reviewed."
+}
