@@ -1,0 +1,83 @@
+{
+  "slug": "hindu-succession-class-heirs-order-guide",
+  "title": "A Hindu Man Dies Without a Will: Who Actually Inherits First, and in What Shares?",
+  "meta_description": "How Class I and Class II heirs under the Hindu Succession Act determine who inherits intestate property first, and how shares are actually divided.",
+  "practice_area": "Wills & Succession",
+  "intro": [
+    "When a Hindu man dies without leaving a will, families frequently assume that all close relatives, parents, siblings, children and spouse, inherit together in some rough proportion based on closeness or need. That is not how the Hindu Succession Act, 1956 works. The Act sets up a strict, tiered system, and the tier a relative falls into decides not just how much they get, but whether they get anything at all. A father, for instance, can be completely excluded from inheriting if the deceased leaves behind even one child, because the father falls into a later tier that only comes into play if the earlier one is empty.",
+    "This guide sets out the actual order of succession for a male Hindu dying intestate, the composition of the two statutory classes of heirs, and how shares are computed within each class, since disputes in succession practice very often turn on getting this order wrong rather than on any genuine uncertainty about who the relatives are."
+  ],
+  "sections": [
+    {
+      "heading": "The basic structure: Class I, then Class II, then agnates, then cognates",
+      "paragraphs": [
+        "Section 8 of the Hindu Succession Act lays down the general order in which a male Hindu's separate property devolves when he dies intestate. The property goes first to the heirs specified in Class I of the Schedule to the Act. If there is no Class I heir at all, it goes to the heirs specified in Class II of the Schedule. If there is no Class II heir either, it goes to the deceased's agnates, meaning relatives connected wholly through male links. Failing agnates, it goes to cognates, relatives connected through one or more female links.",
+        "The critical rule, set out in Section 9, is that heirs in Class I inherit simultaneously and exclude everyone in Class II entirely, no matter how close that Class II relative might otherwise seem. A deceased man's father, who sits in Class II, gets nothing if the man leaves behind a widow, a son or a daughter, all of whom are Class I heirs, even though in ordinary understanding a father might seem at least as close a relative as, say, a daughter's child.",
+        "This tiered exclusion is what trips up families who divide property informally based on a sense of fairness or need rather than the statute. A family settlement that gives the deceased's elderly parents a share alongside a widow and children may be perfectly valid as a voluntary family arrangement, but it is not what the law of intestate succession itself would produce if the matter went to court."
+      ]
+    },
+    {
+      "heading": "Who exactly is in Class I",
+      "paragraphs": [
+        "Class I of the Schedule includes the deceased's son, daughter, widow, and mother, along with certain descendants of predeceased children. Specifically, it includes the son or daughter of a predeceased son or a predeceased daughter, the widow of a predeceased son, and, going a generation further, the son or daughter of a predeceased son of a predeceased son, and the widow of a predeceased son of a predeceased son.",
+        "Amendments over the years, including the significant 2005 amendment that gave daughters coparcenary rights in Hindu Undivided Family property, also expanded and clarified the Class I list to put sons and daughters, and their respective lines of descendants, on a more equal footing than the original 1956 Schedule had provided. A daughter today inherits as a full Class I heir in her own right, on equal footing with a son, both in respect of separate property under Section 8 and in respect of coparcenary interest after the 2005 amendment to Section 6.",
+        "What is absent from Class I stands out just as much as what is in it: the deceased's father does not appear there at all, and neither do siblings. Both are pushed down to Class II, which is precisely why a surviving spouse and children can, between them, take the entire estate of a deceased man while his parents and siblings take nothing, a result that surprises many families until it is explained."
+      ]
+    },
+    {
+      "heading": "Who is in Class II, and how the entries are ranked",
+      "paragraphs": [
+        "Class II only matters where there is no surviving Class I heir at all, which in practice usually means the deceased died without a spouse, children, or any of the specified descendants of predeceased children. The Class II list is longer and is itself internally ranked into numbered entries, with heirs in an earlier entry excluding heirs in every later entry, even within Class II.",
+        "The first Class II entry is the father. If the father is alive, he takes the whole estate to the exclusion of every other Class II relative, including siblings. Only if the father is not alive does the next entry come into play, which covers the deceased's son's daughter's son, son's daughter's daughter, brother and sister, all of whom share together at that level. Later entries go on to cover daughter's son's children, then further categories including grandchildren of children, then the deceased's paternal and maternal grandparents, and still further out, paternal and maternal uncles and aunts.",
+        "A specific, often overlooked rule under the Act is that the terms brother and sister in this Schedule do not include a brother or sister related to the deceased only through the mother, meaning a half-sibling who shares only the mother in common is treated differently from a half-sibling who shares only the father, for purposes of this particular entry. This kind of detail is exactly where family assumptions about who counts as a sibling for inheritance purposes can go wrong without checking the statute."
+      ]
+    },
+    {
+      "heading": "How shares are actually computed, not just who qualifies",
+      "paragraphs": [
+        "Qualifying as a Class I heir does not mean an equal division purely by headcount in every situation; the Schedule and Section 10 lay down a specific distribution method. The widow, or widows collectively if there is more than one, take one share between them. Each surviving son and each surviving daughter takes one share. The mother, if alive, also takes one share.",
+        "Where a son or daughter had predeceased the intestate, leaving children of their own, those grandchildren do not simply get an equal individual share alongside their surviving uncles and aunts. Instead, the branch of the predeceased child collectively takes the share that child would have taken had they survived, and that share is then further divided among the members of that branch. This is sometimes called the principle of representation or the stirpital method of distribution, and it means a lone surviving grandchild of a predeceased son can end up with a smaller individual share than a surviving son, simply because they are splitting one branch's share rather than taking a full share of their own.",
+        "Within Class II, distribution is simpler in one respect: heirs specified in one entry, if more than one, take the property together in equal shares, under Section 11 of the Act, once that entry comes into play because every earlier entry is empty. There is no stirpital representation carried down through generations at the Class II level in the way there is within certain Class I situations."
+      ]
+    },
+    {
+      "heading": "Where this analysis does not apply, and what to check first",
+      "paragraphs": [
+        "This entire framework governs intestate succession to a male Hindu's separate property. It does not directly apply to a female Hindu's property, which is governed by a different set of rules under Section 15 and Section 16 of the Act, with its own order of heirs that depends partly on the source from which the woman acquired the property. It also does not apply where the deceased was governed by Muslim, Christian or Parsi personal law, each of which has an entirely separate intestate succession scheme under different statutes.",
+        "Before assuming Section 8 applies cleanly, check whether any of the property in question was actually coparcenary property in a Hindu Undivided Family rather than the deceased's separate, self-acquired property. Coparcenary interest devolves differently, by survivorship principles modified by the 2005 amendment, rather than purely under the fixed order Section 8 lays down.",
+        "Families dealing with an actual succession, rather than a hypothetical one, should get a lawyer to map out the specific relatives against this Schedule before assuming any division, because errors here are common and because a legal heir who is wrongly left out, or a non-heir wrongly included, in a mutation application or a bank's nominee-versus-heir settlement can create a dispute years later that is far more expensive to unwind than getting the classification right at the outset."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "If a man dies leaving a widow and one daughter, do his parents get any share of his property?",
+      "a": "No. A widow and a daughter are both Class I heirs, and Class I heirs inherit to the complete exclusion of Class II heirs, which is where parents and siblings sit. The father and mother get nothing in this scenario unless there is a separate, voluntary family settlement giving them something outside the strict operation of the Act."
+    },
+    {
+      "q": "My brother died without a will, no spouse, no children. Do I inherit along with our parents?",
+      "a": "If the father is alive, he takes the entire estate alone as the first entry in Class II, excluding siblings entirely. Only if the father is not alive does the estate pass to the next Class II entry, which includes brothers and sisters along with certain grandchildren, and they would then share it together."
+    },
+    {
+      "q": "Does a grandchild from a predeceased son get the same individual share as a surviving son?",
+      "a": "Not automatically. The predeceased son's branch collectively takes the share that son would have received had he survived, and that share is then divided among his own children and widow. A lone grandchild in that branch can end up with less than a full son's share, since they are dividing one branch's portion rather than taking an independent share."
+    },
+    {
+      "q": "Does this Class I and Class II structure apply if the deceased was a woman rather than a man?",
+      "a": "No. Intestate succession to a Hindu woman's property is governed by separate provisions under Sections 15 and 16 of the Hindu Succession Act, which lay down a different order of heirs and can depend on whether the property came from her own earnings, her husband's side, or her parents' side."
+    }
+  ],
+  "references": [
+    "Hindu Succession Act, 1956, Sections 8, 9, 10, 11, 15 and 16",
+    "Hindu Succession Act, 1956, Schedule (Class I and Class II heirs)",
+    "Hindu Succession (Amendment) Act, 2005",
+    "Vineeta Sharma v. Rakesh Sharma, (2020) 9 SCC 1 (on the 2005 amendment to Section 6 and coparcenary rights)"
+  ],
+  "sources": [
+    "https://www.casemine.com/act/in/5f5f11429fca195c2c0cea36",
+    "https://gyansanchay.csjmu.ac.in/wp-content/uploads/2022/09/12-Intestate-Succession-2-1.pdf",
+    "https://www.plrs.org.in/pdfs/Hindu%20Succession%20Act.pdf",
+    "https://lawx.in/acts/section/38/424/4074"
+  ],
+  "verification_notes": "Confirmed from the consolidated text summaries and commentary (Casemine, CSJMU teaching material, PLRS reproduced Act text) that Section 8 sets the general order (Class I, then Class II, then agnates, then cognates), Section 9 provides Class I heirs exclude Class II entirely and that Class II entries are ranked with earlier entries excluding later ones, Section 10 and the Schedule describe the widow/son/daughter/mother one-share-each distribution with branch representation for predeceased children, and Section 11 provides equal distribution among Class II heirs within the same entry. The specific composition of Class I and Class II lists (including the rule that brother/sister does not include those related only through the mother) was confirmed from the Schedule text and secondary summaries. Vineeta Sharma citation is a standard, well-established reported citation used for general context on the 2005 amendment rather than drawn freshly from this search. Left out: exact current numbering of Class II entries beyond what sources consistently described, since minor entry-numbering detail varies slightly between the central Act and state reproductions, and only the entries confirmed consistently across sources are stated."
+}
