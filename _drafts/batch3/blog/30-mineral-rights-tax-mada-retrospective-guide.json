@@ -1,0 +1,79 @@
+{
+  "slug": "mineral-rights-tax-mada-retrospective-guide",
+  "title": "Can States Tax Mineral Rights After the Mineral Area Development Authority Ruling?",
+  "meta_description": "What the 2024 nine-judge Supreme Court ruling on mineral royalty decided about state taxing power and retrospective demands on mining leases.",
+  "practice_area": "Power, Energy & Mining",
+  "intro": [
+    "For over three decades, mining companies relied on a 1989 Supreme Court ruling to argue that royalty paid under the Mines and Minerals (Development and Regulation) Act was itself a tax, and that once Parliament had occupied the field through the MMDR Act, no state could separately tax mineral rights or mineral bearing land. That position fell in July 2024, when a nine-judge bench answered the question differently, and the consequences for every mining lease in the country followed within weeks.",
+    "This guide explains what the Court actually held in Mineral Area Development Authority v Steel Authority of India, how the retrospective ruling that followed changes what a leaseholder may now owe, and what a mining company's counsel should be checking for on an existing lease."
+  ],
+  "sections": [
+    {
+      "heading": "What India Cement had held, and why it mattered",
+      "paragraphs": [
+        "In India Cement Ltd v State of Tamil Nadu, decided in 1989, a seven-judge bench had held that royalty payable under the MMDR Act was in the nature of a tax, and that since mineral development fell within Parliament's exclusive domain under Entry 54 of List I read with the MMDR Act, states could not impose a separate tax or cess on mineral rights under Entry 50 of List II without a law made by Parliament authorising it. States read this as a near-total bar on their own taxing power over mining activity within their territory, beyond the royalty and dead rent already fixed centrally.",
+        "Several states nonetheless legislated cesses on mineral bearing land over the following decades, betting that the question would eventually be revisited, and by the time the matter reached a nine-judge bench the stakes ran into tens of thousands of crores across multiple states and mining companies."
+      ]
+    },
+    {
+      "heading": "The July 2024 ruling: royalty is not a tax",
+      "paragraphs": [
+        "The nine-judge Constitution Bench, by an 8:1 majority with Justice B V Nagarathna dissenting, overruled India Cement and held that royalty payable under the MMDR Act is a contractual consideration for mineral extraction rights, not a tax. Because royalty is not a tax, the MMDR Act's central occupation of the field does not, by itself, bar a state from separately taxing mineral rights or mineral bearing land under its own Entry 50 power, except where Parliament has expressly imposed a limitation on that power through a law relating to mineral development.",
+        "The practical effect was to restore to states a taxing power many of them had already attempted to exercise through state cesses that had been stayed or struck down on the strength of India Cement. States with large mining sectors, principally in the iron ore, coal and bauxite belts, moved quickly after the ruling to demand payment of cesses going back years, and mining companies that had resisted paying on the basis of India Cement suddenly found that defence gone."
+      ]
+    },
+    {
+      "heading": "The retrospective order: the 1 April 2005 cut-off",
+      "paragraphs": [
+        "The main judgment left open whether its reasoning would apply only prospectively or whether states could reach back and collect on transactions that predated the ruling. A separate order on this question held that the judgment would operate retrospectively, but subject to a cut-off: states could collect tax on transactions from 1 April 2005 onward, not from whatever earlier date individual state cess legislations had originally specified.",
+        "The retrospective order also addressed the mechanics of collection rather than leaving mining companies to face a single lump sum demand. Demands for the retrospective period were to be spread out, interest and penalty on the retrospective dues were curtailed, and states were directed not to seek immediate recovery of the entire amount in one instalment, with payment permitted in instalments over an extended period running up to twelve years from the date of the order. This structuring matters enormously for any mining company assessing its current exposure, since the headline retrospective liability figure and the actual near-term cash outflow are very different numbers."
+      ]
+    },
+    {
+      "heading": "What a mining lease or coal supply agreement should be checked for now",
+      "paragraphs": [
+        "The first question for any leaseholder is whether the relevant state has in fact notified or re-notified a mineral rights tax or cess consistent with the ruling, since the judgment restores the power to tax but does not itself create a tax; a state still needs its own valid legislation in force to collect anything. A company that received a demand notice should check the specific state enactment relied upon, not just cite the Supreme Court ruling generically, because state cess statutes differ materially in rate, base and exemptions.",
+        "The second question concerns commercial contracts that sit downstream of the mining lease itself, particularly long-term coal supply agreements and captive power arrangements, where a new state cess on mineral rights may or may not be a pass-through cost depending on how the contract defines taxes and duties. A generator buying coal under a long-term agreement should check whether a state mineral rights cess imposed on the miner, and passed through in the coal price, would itself separately qualify as a Change in Law event under its own power purchase agreement, since the two questions are related but legally distinct and need separate analysis.",
+        "Finally, any company that paid cess under protest during the years this question was pending, or that has amounts held in escrow pending the outcome, should confirm the current status of that litigation specifically, since the retrospective order's instalment and interest relief applies to dues computed from 1 April 2005 and does not automatically resolve every pending dispute over amounts already paid or escrowed under separate court directions."
+      ]
+    },
+    {
+      "heading": "The dissent and the unresolved edges",
+      "paragraphs": [
+        "Justice Nagarathna's dissent warned that treating royalty as a pure contractual payment, detached from any regulatory character, risked opening the door to inconsistent and potentially excessive state taxation that could destabilise an already capital-intensive and nationally regulated sector. The majority did not disturb Parliament's power to expressly limit state taxation through MMDR Act amendments going forward, which leaves open the possibility of a legislative response if the Centre decides the current balance needs rebalancing.",
+        "Litigation over individual state cess statutes, their rates and their precise retrospective application to specific leases is still working through High Courts and APTEL-adjacent forums as of this writing, and a leaseholder should treat the Supreme Court ruling as having settled the constitutional question of power, not as having settled every downstream dispute about how much a particular company actually owes under a particular state law."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the MADA ruling mean every state can now tax mining companies at any rate it chooses?",
+      "a": "No. The ruling restores a state's constitutional competence to legislate a tax on mineral rights under Entry 50 of List II, but a state still needs a valid law actually imposing that tax, and Parliament retains power to limit state taxation through an MMDR Act amendment. The rate and structure of any specific levy depend on the individual state statute, not on the Supreme Court ruling itself."
+    },
+    {
+      "q": "Can a company be asked to pay the entire retrospective cess amount immediately?",
+      "a": "The Court's later order on retrospective application specifically curtailed this. States were directed to allow payment of retrospective dues in instalments over an extended period, with interest and penalty on the retrospective portion also curtailed, rather than demanding the full amount in one payment."
+    },
+    {
+      "q": "Is royalty under the MMDR Act now something different from what it was before this ruling?",
+      "a": "The economic obligation to pay royalty on extracted minerals under the MMDR Act is unchanged. What changed is its legal character for constitutional purposes: the Court held it is contractual consideration for extraction rights rather than a tax, which is what freed up the states' separate taxing power under Entry 50 of List II."
+    },
+    {
+      "q": "Does this ruling affect coal royalty rates used in Change in Law claims under PPAs?",
+      "a": "Not directly. A state mineral rights cess is a separate levy from the royalty rate itself, and whether a new or increased state cess qualifies as a Change in Law event under a specific power purchase agreement depends on that PPA's own definition clause and the date the cess came into force, analysed independently of the constitutional question the Supreme Court decided."
+    }
+  ],
+  "references": [
+    "Mineral Area Development Authority v Steel Authority of India, nine-judge Constitution Bench, judgment dated 25 July 2024 (overruling India Cement Ltd v State of Tamil Nadu, 1989)",
+    "Mines and Minerals (Development and Regulation) Act, 1957",
+    "Constitution of India, Seventh Schedule, List I Entry 54 and List II Entry 50",
+    "Supreme Court order on retrospective application of the MADA ruling, permitting recovery of mineral rights tax from transactions on or after 1 April 2005 in instalments"
+  ],
+  "sources": [
+    "https://www.barandbench.com/view-point/mining-case-a-critical-analysis",
+    "https://www.scobserver.in/reports/states-permitted-to-collect-retrospective-tax-from-mine-leaseholders-for-transactions-made-after-april-2005/",
+    "https://www.verdictum.in/court-updates/supreme-court/breaking-sc-rules-that-its-judgment-upholding-powers-of-state-to-tax-mineral-rights-will-have-retrospective-effect-till-april-2005-1547859",
+    "https://lawandotherthings.com/mineral-area-development-authority-ruling-the-dilemma-of-when-can-they-tax/"
+  ],
+  "verification_notes": "Confirmed from scobserver.in, verdictum.in and barandbench.com that the nine-judge bench decided Mineral Area Development Authority v Steel Authority of India on 25 July 2024, overruling India Cement by an 8:1 majority (Nagarathna J dissenting), holding royalty under the MMDR Act is not a tax, and that a later order held the ruling applies retrospectively with states permitted to collect tax on transactions from 1 April 2005 in instalments with curtailed interest/penalty. Sources agree on the core holding and the 1 April 2005 cut-off; I did not find the exact instalment period figure (stated here only as 'an extended period running up to twelve years' per lawandotherthings.com commentary) independently confirmed in a second source, so it is described in general terms rather than asserted as a fixed, confirmed number. I left out any specific state's cess rate since none appeared reliably in the results."
+}
