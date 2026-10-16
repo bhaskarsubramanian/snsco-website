@@ -1,0 +1,95 @@
+{
+  "slug": "fssai-section-59-criminal-prosecution-limitation-guide",
+  "title": "Criminal Prosecution Under FSSAI Section 59: Procedure, Limitation and Why BNS Charges Usually Fall Away",
+  "meta_description": "How a Section 59 FSS Act prosecution for unsafe food gets launched, the one-year limitation period, and why a parallel BNS case rarely survives.",
+  "practice_area": "Food Safety & FSSAI",
+  "intro": [
+    "A food analyst's report comes back positive and a few weeks later the owner of a dhaba, a bottling plant, or a small manufacturing unit is named in a criminal complaint before a Magistrate. Most people in this position assume the fight is only about whether the food was actually unsafe. In practice, a large number of these prosecutions are won or lost before anyone argues about the science, on whether the Designated Officer followed the timelines the Food Safety and Standards Act prescribes, whether the complaint was filed within the limitation window, and whether the same facts are also being pursued as a criminal case under the Bharatiya Nyaya Sanhita.",
+    "Section 59 of the Food Safety and Standards Act, 2006 is the criminal provision, distinct from the administrative penalty route under Section 68 that runs before an Adjudicating Officer. Confusing the two, or missing the procedural safeguards built into Sections 42 and 77, costs defence counsel options that are often more promising than contesting the food analyst's finding itself."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 59 actually punishes, and how much it costs",
+      "paragraphs": [
+        "Section 59 criminalises manufacturing for sale, storing, selling, distributing or importing any article of food for human consumption that is unsafe. The Supreme Court has described unsafe food as a wider idea than adulterated food: it covers any article whose nature, substance or quality is so affected as to render it injurious to health, which can include contamination, foreign matter, or a failure that has nothing to do with the deliberate addition of an adulterant.",
+        "The punishment scales with the harm actually caused, not merely with the fact of a positive report. Where the unsafe food causes no injury, the Jan Vishwas (Amendment of Provisions) Act, 2023 reduced the term to imprisonment of up to three months while raising the fine ceiling to three lakh rupees, a change that took effect from 7 November 2023 and replaced the older six-month, one-lakh-rupee formulation that still appears on a lot of outdated bare-act summaries online. Where the food causes injury that is not grievous, the term can go up to one year with a fine of up to three lakh rupees. Grievous injury carries up to six years and a fine of up to five lakh rupees. Where the result is death, the minimum sentence is seven years, extendable to life imprisonment, with a fine of not less than ten lakh rupees. Separately, Section 65 lets a court order victim compensation of not less than five lakh rupees for a death and not exceeding three lakh rupees for grievous injury, over and above the sentence itself."
+      ]
+    },
+    {
+      "heading": "Section 59 versus Section 68: two completely different proceedings",
+      "paragraphs": [
+        "Clients frequently arrive assuming an adjudication notice and a criminal complaint are the same threat wearing different letterheads. They are not. A Section 68 proceeding runs before an Adjudicating Officer, typically the District Magistrate or Additional District Magistrate for lower-value claims, and it is closer in character to a departmental penalty hearing than a trial: there is no arrest, no bail application, and no criminal record at the end of it, whatever the size of the fine imposed.",
+        "A Section 59 prosecution, by contrast, is a criminal case that proceeds before a Judicial Magistrate or, where the state has notified one, a Special Court under Section 74, with the ordinary incidents of a criminal trial: summons, the possibility of a warrant if summons is ignored, a formal plea, and a conviction that stays on record. The same set of facts, one positive sample, can in theory trigger both tracks, and food business operators should not treat a quiet settlement of the adjudication penalty as having disposed of a pending or threatened Section 59 complaint. They are separate dockets and need separate attention."
+      ]
+    },
+    {
+      "heading": "How a Section 59 complaint actually gets to court",
+      "paragraphs": [
+        "The route to a Magistrate's court runs through a fairly rigid internal sequence under Section 42. A Food Safety Officer draws the sample and sends it to the Food Analyst, who is required to furnish the report within fourteen days to the Designated Officer, with a copy to the Commissioner of Food Safety. Where the alleged contravention is one that attracts imprisonment, the Designated Officer must send a recommendation to the Commissioner, again within fourteen days of receiving the report, on whether to sanction prosecution. Only after the Commissioner decides to proceed does the Food Safety Officer actually institute the complaint before a court.",
+        "Courts have treated these timelines as mandatory rather than directory. The Madras High Court took this view in 2022, quashing a complaint where the Designated Officer missed the fourteen-day window for forwarding the recommendation. The Jammu and Kashmir and Ladakh High Court reached the same conclusion in Ali Mohammad Bhat & Ors. v. UT of J&K, decided on 6 June 2025, holding that the complainant's failure to explain the delay in sending the recommendation for sanction rendered the prosecution unsustainable. This is a line of defence worth checking in every Section 59 matter: ask for the dates on which the sample was drawn, the report was issued, and the recommendation reached the Commissioner, and compare that timeline against the complaint's own filing date."
+      ]
+    },
+    {
+      "heading": "The one-year limitation clock, and when it stretches to three",
+      "paragraphs": [
+        "Section 77 bars a court from taking cognizance of an FSS Act offence after one year from the date of the commission of the offence. The Allahabad High Court has held, relying on the Supreme Court's older ruling in State of Rajasthan v. Sanjay Kumar on an analogous limitation question, that this date is not when the sample was physically lifted but when the Food Analyst's report is actually received, since that is the point at which the alleged contravention is first established on record.",
+        "A proviso to Section 77 lets the Commissioner of Food Safety extend this window from one year to three, but only by recording reasons in writing for doing so. In M/s Kewal Dairy v. State of U.P., the Allahabad High Court examined exactly this extension and held that Section 77's specific limitation scheme overrides the general limitation provision in the criminal procedure code by virtue of Section 89 of the Act, which gives FSS Act provisions precedence over anything inconsistent in other laws. Where a complaint is filed more than a year after the report was received, the first thing to check is whether the Commissioner's sanction order actually records reasons for invoking the three-year extension. An extension granted without recorded reasons is exactly the kind of defect that has gotten complaints thrown out."
+      ]
+    },
+    {
+      "heading": "Why a parallel BNS case for the same sample usually cannot stand",
+      "paragraphs": [
+        "Food adulteration used to attract Sections 272 and 273 of the Indian Penal Code alongside the FSS Act, and police stations sometimes still register an FIR under the corresponding food-adulteration provisions of the Bharatiya Nyaya Sanhita, 2023 that took over from the IPC on 1 July 2024, treating it as an additional charge layered on top of the FSS Act complaint. The Supreme Court closed that door in Ram Nath v. State of Uttar Pradesh, 2024 INSC 138, holding that Section 59 of the FSS Act, by operation of Section 89, overrides Sections 272 and 273 of the IPC, so there is no question of simultaneous prosecution under both statutes for the same conduct.",
+        "The Court's reasoning was that the FSS Act is a special, later, more specific law covering the same ground as the general penal provisions, and that an unsafe-food offence under Section 59 does not even require the IPC's mental element of knowledge or intention, making it in some respects the more easily proved and more stringent provision. Where an FIR has been registered under the BNS alongside a pending FSS Act complaint arising from the same sample, that FIR is ordinarily open to being quashed on the authority of Ram Nath, a point worth raising before investing heavily in defending the criminal trial itself."
+      ]
+    },
+    {
+      "heading": "What to actually do when a Section 59 notice or complaint arrives",
+      "paragraphs": [
+        "Start with the paper trail rather than the chemistry. Pull the dates on sample collection, the Food Analyst's report, the Designated Officer's recommendation, and the Commissioner's sanction, and check each against the fourteen-day timelines under Section 42 and the one-year or three-year window under Section 77. A surprising number of these complaints are vulnerable on exactly these procedural grounds, and raising them early, before framing of charge, tends to work better than waiting for trial.",
+        "If a BNS case has also been registered over the same sample, flag the overlap immediately and consider a petition to quash the parallel criminal proceeding citing Ram Nath. Where none of the procedural defences hold up and the matter genuinely has to be contested on the merits, get an independent analysis of the retained counterpart sample where one still exists, since the right to have a referral sample tested is one of the few substantive checks a food business has on the original Food Analyst's finding. This is not a situation where a standard disclaimer about consulting counsel does much good; the procedural window for raising these defects closes fast, and a business that waits until the first hearing to look at the sanction order has usually waited too long."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I be prosecuted under both the BNS and Section 59 of the FSS Act for the same contaminated food sample?",
+      "a": "No, as a general rule. The Supreme Court in Ram Nath v. State of Uttar Pradesh, 2024 INSC 138, held that Section 59 of the FSS Act overrides the corresponding food-adulteration provisions of the penal code by virtue of Section 89 of the Act, so simultaneous prosecution under both is not permitted."
+    },
+    {
+      "q": "How long does the FSSAI machinery have to actually file a Section 59 complaint?",
+      "a": "Ordinarily one year from the date the Food Analyst's report is received, under Section 77. The Commissioner of Food Safety can extend this to three years, but only by recording reasons in writing. A complaint filed late without a reasoned extension order is vulnerable to being quashed."
+    },
+    {
+      "q": "What is the real difference between a Section 68 penalty notice and a Section 59 prosecution?",
+      "a": "Section 68 is an administrative adjudication before an officer such as the District Magistrate, with no arrest or criminal record involved. Section 59 is a full criminal prosecution before a Magistrate or Special Court, with summons, a trial, and a conviction that stays on record. Settling one does not dispose of the other."
+    },
+    {
+      "q": "What happens if the Designated Officer misses the fourteen-day deadline to recommend prosecution?",
+      "a": "Courts, including the Madras High Court in 2022 and the Jammu and Kashmir and Ladakh High Court in its 2025 ruling in Ali Mohammad Bhat, have treated the Section 42 timelines as mandatory and quashed complaints where the delay went unexplained. This is one of the first things to check in any Section 59 matter."
+    },
+    {
+      "q": "Does the punishment under Section 59 depend on whether anyone was actually injured?",
+      "a": "Yes. The penalty is tiered by outcome: up to three months and a three-lakh-rupee fine where no one is injured, up to one year for non-grievous injury, up to six years for grievous injury, and a minimum of seven years, extendable to life, where the result is death, each tier also carrying its own fine ceiling or floor."
+    }
+  ],
+  "references": [
+    "Food Safety and Standards Act, 2006, Sections 42, 59, 65, 68, 74, 77 and 89",
+    "Jan Vishwas (Amendment of Provisions) Act, 2023 (Act 18 of 2023), amendment to Section 59, in force from 7 November 2023",
+    "Ram Nath v. State of Uttar Pradesh, 2024 INSC 138 : [2024] 2 S.C.R. 743 (Supreme Court)",
+    "Ali Mohammad Bhat & Ors. v. UT of J&K, CRM(M) No. 310/2024, decided 6 June 2025 (High Court of Jammu & Kashmir and Ladakh)",
+    "M/s Kewal Dairy v. State of U.P. (Allahabad High Court, 2024), on Section 77 limitation and the date of commission of the offence",
+    "Madras High Court, 2022, on the mandatory nature of the Section 42 fourteen-day timeline"
+  ],
+  "sources": [
+    "https://www.verdictum.in/court-updates/supreme-court/ram-nath-v-the-state-of-uttar-pradesh-2024-insc-138-food-safety-and-standards-act-1522052",
+    "https://www.livelaw.in/amp/supreme-court/food-safety-and-standards-act-overrides-indian-penal-code-simultaneous-prosecution-under-both-acts-not-possible-supreme-court-250555",
+    "https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/ali-mohammad-bhat-ors-v-ut-of-jk-crmm-no3102024-food-safety-standard-act-section-42-complaint-quash-1580644",
+    "https://www.livelaw.in/amp/news-updates/madras-high-court-mandatory-time-limit-section-42-food-safety-act-196423",
+    "https://www.indialaw.in/blog/civil/prosecution-limitation-in-fssa-insights-from-kewal-dairy-case/",
+    "https://www.scconline.com/blog/post/2024/02/26/food-safety-and-standards-act-overrides-ipc-provisions-supreme-court/",
+    "https://lawx.in/acts/section/102/933/8126",
+    "https://foodsafetyworks.com/fssai_updates/changes-in-penalties-under-fssa-2006"
+  ],
+  "verification_notes": "Confirmed from at least two independent sources: the Ram Nath v. State of U.P. holding and citation (Verdictum, LiveLaw and the SCC Online Blog post all describe the same holding and give the 2024 INSC 138 citation, with the SCR citation corroborated by the Supreme Court's own digiscr.sci.gov.in judgment PDF); the Section 42 fourteen-day timelines and their mandatory character (Madras High Court 2022 report via LiveLaw and the Jammu & Kashmir and Ladakh High Court's 2025 Ali Mohammad Bhat ruling, both holding the same timeline mandatory); the amended Section 59 no-injury tier of three months and three lakh rupees, effective 7 November 2023 under the Jan Vishwas Act (foodsafetyworks.com and the SCC Online Blog's description of the amended range both independently give this figure, against conflicting older sources that still show the pre-amendment six-month, one-lakh figure); and the Section 77 one-year/three-year limitation structure with the Commissioner's reasoned-extension requirement (indialaw.in's account of the Kewal Dairy case and a second Allahabad High Court report of the same ruling). The grievous-injury tier (six years, five lakh rupees) and the death tier (minimum seven years to life, minimum ten lakh rupees) are taken from the current bare-act text reproduced on lawx.in, cross-checked against a Lok Sabha reply figure for the death tier; these were not separately amended by the 2023 Act. Left out: the specific Bharatiya Nyaya Sanhita, 2023 section number that replaced IPC Sections 272 and 273, since secondary sources gave inconsistent numbering (274, 275 and 277 all appeared for different offences in the same source), so this guide refers to the BNS provisions only in general terms. Also left out: any claim about whether Section 59 offences are compoundable, since no source in this search confirmed that either way."
+}
