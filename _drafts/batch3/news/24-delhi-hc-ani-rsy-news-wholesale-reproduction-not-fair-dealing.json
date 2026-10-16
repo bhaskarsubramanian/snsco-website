@@ -1,0 +1,34 @@
+{
+  "slug": "delhi-hc-ani-rsy-news-wholesale-reproduction-not-fair-dealing",
+  "title": "Reproducing News Footage Whole Is Not Fair Dealing Even for Reporting Current Events: Delhi HC Restrains RSY News",
+  "meta_description": "Delhi High Court permanently restrains RSY News after finding most disputed uploads copied ANI's videos wholesale as a substitute for the original.",
+  "practice_area": "Intellectual Property",
+  "court": "Delhi High Court",
+  "bench": "Justice Purushaindra Kumar Kaurav",
+  "case_name": "ANI Media Private Limited v. RSY News & Anr.",
+  "citation": "CS(COMM) 1018/2024, 2026:DHC:8749, decided 29 September 2026",
+  "decision_date": "2026-09-29",
+  "reported_by": [
+    "LiveLawBiz",
+    "Verdictum",
+    "LawChakra"
+  ],
+  "sources": [
+    "https://www.livelawbiz.com/copyright/wholesale-reproduction-of-ani-videos-on-youtube-not-fair-dealing-delhi-high-court-restraints-rsy-news-553194",
+    "https://www.verdictum.in/delhi-high-court/ani-media-private-limited-v-rsy-news-and-another-2026dhc8749-copyright-act-1623575",
+    "https://lawchakra.in/high-court/delhi-high-court/fair-dealing-ani-rsy-news/"
+  ],
+  "body": [
+    "ANI, the news agency that licenses its footage to broadcasters across the country, found twelve of its videos sitting on four YouTube channels run by RSY News, uploaded between August and October 2024. It sued for copyright infringement, naming Google LLC as a co-defendant because the videos lived on YouTube's platform, and sought a permanent injunction, takedown of the offending URLs, damages of Rs 2,00,00,500, and a public acknowledgment that RSY News had copied its work without permission.",
+    "RSY News never showed up to defend itself. Despite service of summons, it filed no written statement and made no appearance through the life of the suit. Justice Purushaindra Kumar Kaurav proceeded to decide the matter without its participation, examining ANI's video content side by side with what RSY News had uploaded to determine whether a defence of fair dealing for reporting current events, the exception news organisations most commonly invoke when they use each other's footage, could have saved the uploads even if RSY News had bothered to raise it.",
+    "It could not. The Court's comparison found that in ten of the twelve disputed videos, RSY News had reproduced ANI's footage entirely, or so close to entirely that the difference was immaterial. This was not a case of a few seconds of B-roll lifted to illustrate a separate report, or a clip used as supporting visual evidence while a reporter's own commentary carried the substance of the piece. The uploads functioned as straight substitutes for ANI's original videos, available on RSY News's own channels in place of, rather than alongside, independent reporting.",
+    "The Court's reasoning on fair dealing tracked a line the Copyright Act has long drawn but that gets blurred in practice whenever footage moves fast across digital platforms: reporting current events permits a news organisation to use another's copyrighted visual material to the extent necessary to inform the public about an event, not to republish the whole of someone else's work as a stand-in for its own coverage. Wholesale reproduction used as a substitute for the original defeats the very purpose the exception protects, because it adds no reporting of its own; it just relocates ANI's product onto another platform under another name.",
+    "Having found infringement made out on ten of the twelve videos, the Court confirmed and made permanent the interim directions it had earlier issued to Google LLC, requiring it to take down, block and disable access to the specific URLs carrying the infringing content. RSY News was permanently restrained from reproducing, uploading, publishing, communicating to the public, distributing or republishing any of ANI's original video content or other copyrighted works without authorisation going forward.",
+    "On the money side, ANI did not get everything it asked for. The Court declined the damages claim of Rs 2,00,00,500 and also declined the request for a public acknowledgment from RSY News that it had infringed ANI's copyright, finding neither remedy warranted on the record before it even though the underlying infringement was established and the defendant had not contested the suit. The judgment does not elaborate at length on why damages were refused beyond the absence of a defendant actively contesting the quantum, which tends to leave a court cautious about awarding a specific monetary figure without the kind of adversarial testing that usually accompanies a damages claim.",
+    "The ruling sits alongside a separate and still-unresolved dispute the same Court is handling between ANI and OpenAI, where a different judge has taken an interim, prima facie view that training a large language model on ANI's content does not itself amount to copyright infringement, a question of a different order from straight video reproduction and one still being litigated on its merits. The RSY News judgment, by contrast, deals with the more familiar scenario of one media outlet lifting another's finished footage wholesale, and the Court's answer there is unambiguous: doing so under the banner of reporting current events does not survive scrutiny once the comparison shows that the reporting consisted of nothing but the original footage itself."
+  ],
+  "why_it_matters": "News and digital media outlets frequently lean on the fair dealing exception to justify reusing competitors' footage, assuming any connection to reporting current events will cover them; this ruling draws a clear line that reproducing footage whole, as a substitute for the original rather than in support of independent reporting, falls outside that exception regardless of the current-events label attached to it. Platforms hosting such content also remain exposed to enforceable takedown directions once infringement is established.",
+  "card_summary": "Delhi High Court permanently restrains RSY News and directs Google to block URLs after finding it copied ten of ANI's twelve disputed videos wholesale, rejecting a fair dealing defence RSY News never even raised.",
+  "card_tip": "Before reusing a rival's footage under the reporting-current-events exception, add independent reporting of your own; reproducing the original wholesale will not qualify as fair dealing.",
+  "verification_notes": "Case details (CS(COMM) 1018/2024, 2026:DHC:8749, Justice Purushaindra Kumar Kaurav, decided 29 September 2026, twelve videos with ten found wholly or near-wholly reproduced, Rs 2,00,00,500 damages claim and public acknowledgment both declined, Google LLC takedown directions made absolute) corroborated across LiveLawBiz, Verdictum and LawChakra reports, which were consistent on the holding, remedies granted and remedies refused."
+}
