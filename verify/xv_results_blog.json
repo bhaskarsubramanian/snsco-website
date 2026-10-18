@@ -166,5 +166,29 @@
       "https://www.taxheal.com/?p=81163"
     ],
     "note": "CBDT's revised compounding guidelines effective 17 October 2024 (superseding 2008/2014/2019/2022 guidelines), elimination of the offence-category structure, removal of the cap on number of applications, removal of the 36-month filing window, permitting compounding under Sections 275A and 276B, application to pending cases without redetermination, and the 2025 FAQ circular (Circular No. 04/2025) are all independently confirmed. No errors found."
+  },
+  {
+    "file": "_drafts/batch2/blog/11-unilateral-arbitrator-appointment-core-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 10,
+    "evidence": [
+      "https://api.sci.gov.in/supremecourt/2019/28531/28531_2019_1_1502_57055_Order_08-Nov-2024.pdf",
+      "https://lawsathi.in/judgements/sc/2024/central-organisation-railway-electrification-eci-spic-smo-mcml-jv-joint-venture/",
+      "https://theamikusqriae.com/perkins-eastman-architects-dpc-v-hscc-india-ltd-2020-20-scc-760/",
+      "https://www.lekhanews.in/judgment/trf-v-energo-engineering-2017/"
+    ],
+    "note": "Bench, 8 Nov 2024 date, Article 14 holding, overruling of 2020 three-judge CORE decision, and the TRF Ltd (2017) 8 SCC 377 / Perkins Eastman (2020) 20 SCC 760 citations all check out across independent sources. The open question on retroactive effect on completed arbitrations is correctly flagged by the guide itself as unsettled."
+  },
+  {
+    "file": "_drafts/batch2/blog/12-ibc-arbitration-clause-override-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://thelegalquorum.com/detailed-case-commentary-of-innovantive-industries-ltd-vs-icici-bank-2018-1-scc-407/",
+      "https://www.thelegallock.com/resources/case-briefs/case-brief-mobilox-innovations-pvt-ltd-vs-kirusa-software-pvt-ltd",
+      "https://law.asia/disputed-claims-not-defaults-ibc/",
+      "https://www.scconline.com/blog/post/2021/06/12/indus-biotech-v-kotak/"
+    ],
+    "note": "Indus Biotech v Kotak (26 Mar 2021, 2021 INSC 216) holding on default-first inquiry under Section 7 confirmed, as are the Innoventive Industries (2018) 1 SCC 407 and Mobilox (2018) 1 SCC 353 citations and the Section 238/Section 8 IBC framework described."
   }
 ]
