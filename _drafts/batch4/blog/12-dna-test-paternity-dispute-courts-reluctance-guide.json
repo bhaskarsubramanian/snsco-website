@@ -1,0 +1,91 @@
+{
+  "slug": "dna-test-paternity-dispute-courts-reluctance-guide",
+  "title": "Want a DNA Test to Settle a Paternity Dispute? Why Courts Usually Say No First",
+  "meta_description": "When Indian courts will order a DNA test in a paternity dispute, and why Section 112 of the Evidence Act makes that the exception, not the rule.",
+  "practice_area": "Family Law",
+  "intro": [
+    "A husband contesting a divorce, or a man denying he is a child's father in a maintenance case, often assumes the fastest way to settle the question is a DNA test. It feels scientific, final, and far simpler than arguing over conduct, dates and circumstantial evidence. Indian courts take a different view, and have taken it consistently for over three decades: a DNA test is not something a party gets merely by asking for one, and a family court or a civil court that orders it without first doing real work on the record can expect to be reversed.",
+    "The reluctance is not procedural squeamishness. It rests on a specific statutory presumption, a line of Supreme Court authority protecting a child from having legitimacy questioned on demand, and a 2026 ruling that restates the test for anyone bringing, or defending, a paternity dispute today."
+  ],
+  "sections": [
+    {
+      "heading": "Section 112 and the Presumption a DNA Test Is Trying to Displace",
+      "paragraphs": [
+        "Section 112 of the Indian Evidence Act, 1872 presumes that a child born during a valid marriage, or within two hundred and eighty days of its dissolution while the mother remains unmarried, is the legitimate child of the marriage, unless the husband can show the parties had no access to each other at the time the child could have been conceived. This is one of the strongest presumptions in Indian evidence law, built deliberately to protect a child's status rather than to resolve a parent's private suspicion.",
+        "A DNA test application in a paternity dispute is, in substance, an attempt to go behind this presumption using scientific evidence rather than proof of non-access. Courts treat that attempt with caution precisely because the presumption exists to prevent a child's legitimacy from being put in issue on thin grounds, and a freely available DNA test would otherwise turn the presumption into a formality."
+      ]
+    },
+    {
+      "heading": "The Firodia Standard: Exceptional Cases Only",
+      "paragraphs": [
+        "The Supreme Court's 2023 decision in Aparna Ajinkya Firodia v. Ajinkya Arun Firodia is the case practitioners reach for first. A husband seeking divorce on the ground of his wife's infidelity had also questioned the paternity of their younger son, and had obtained a DNA test order from the family court, upheld by the Bombay High Court. The Supreme Court set the orders aside and imposed costs of one lakh rupees on the husband.",
+        "This reasoning matters more than the bare outcome. The Court held that a DNA test of a minor should be ordered only in exceptional cases where it is indispensable to decide the controversy, and specifically not merely to help a party prove adultery, since the husband in that case had other material, including call recordings and a diary, that could establish his allegations without exposing the child's legitimacy to challenge. Commentators often summarise the ruling as protecting a child's dignity and privacy, but its narrower, more usable holding for drafting purposes is that a court must ask whether the paternity question can be resolved through other evidence before it even reaches the DNA test application. A lawyer advising a client who wants to pursue this route should run that check honestly before filing, because a weak application tends to produce an adverse costs order rather than a sympathetic hearing."
+      ]
+    },
+    {
+      "heading": "What 'Strong Prima Facie Case' Actually Requires",
+      "paragraphs": [
+        "Goutam Kundu v. State of West Bengal set the underlying standard, requiring a party disputing paternity to first establish a strong prima facie case of non-access before any medical test could be ordered. Later decisions have carried this forward as the threshold test: sufficient material to dislodge, provisionally, the Section 112 presumption, not merely a suspicion or an unverified allegation sitting in a pleading.",
+        "In practice, this means the party seeking the test needs to come to court with something concrete before asking for one, such as travel records, hospital or medical evidence relevant to conception, admissions in correspondence, or other material tending to show non-access during the relevant period. An application that simply states the father doubts paternity and wants scientific confirmation, without more, is unlikely to get past this threshold, because the whole purpose of the strong prima facie requirement is to stop the test from becoming the first step in the inquiry rather than the last."
+      ]
+    },
+    {
+      "heading": "The 2026 Supreme Court Restatement",
+      "paragraphs": [
+        "Deciding Chaturbhuj Pradhan v. Amar Pradhan in May 2026, the Supreme Court dismissed an appeal against a direction for DNA testing, and used the occasion to restate the governing framework for civil proceedings generally. The Court held that a DNA test of a child born during a valid marriage may be directed only where there is sufficient prima facie material to dislodge the Section 112 presumption, and that a court should not mechanically direct such a test in a case where the child's paternity is not actually in issue in the proceedings before it.",
+        "That second limb is easy to overlook and frequently decisive. Paternity sometimes comes up as a side issue in a larger dispute, such as a property partition or a maintenance claim, without actually being the question the court has to decide to dispose of the case. The 2026 ruling confirms that a DNA test is not available simply because paternity is mentioned somewhere in the pleadings; it has to be a question the court genuinely needs to answer, and the existing material has to fall short of answering it."
+      ]
+    },
+    {
+      "heading": "Criminal Proceedings Apply a Similar Brake",
+      "paragraphs": [
+        "The caution is not limited to matrimonial and civil cases. In a 2025 ruling, the Supreme Court held that directing a DNA test to establish paternity during a criminal investigation is not automatically justified, and that where paternity has no significant connection to the offence actually under investigation, a compelled test can amount to an unreasonable intrusion on the person required to undergo it. This matters for practitioners handling cases where a paternity question is raised tactically inside a criminal complaint, such as a cruelty or maintenance-linked prosecution, rather than because the criminal case genuinely turns on it.",
+        "Courts have shown more willingness to allow testing where an existing, live dispute and the child's own interests point toward resolving the question, such as a partition suit where competing claimants dispute a person's parentage and the child is old enough that the test causes no real disruption to them. The common thread across both the cautious and the permissive rulings is the same: the court looks at whether the test is actually necessary to decide the dispute in front of it, not whether a party would simply find the answer convenient to have. A client should be told this plainly before any application is drafted, since the test itself is rarely the hard part; getting past this threshold question is."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a husband get a DNA test just by alleging his wife was unfaithful?",
+      "a": "No. The Supreme Court in Firodia specifically rejected this, holding that a DNA test should not be ordered merely to help prove adultery, especially where other evidence, such as correspondence or call records, could establish the allegation without putting the child's legitimacy in issue."
+    },
+    {
+      "q": "What does Section 112 of the Evidence Act presume about a child's legitimacy?",
+      "a": "It presumes a child born during a valid marriage, or within two hundred and eighty days of the marriage ending while the mother stays unmarried, is the legitimate child of that marriage, unless non-access between the spouses at the likely time of conception is shown. It is one of the strongest presumptions in Indian evidence law."
+    },
+    {
+      "q": "Does the 2026 Supreme Court ruling change the test for ordering a DNA test?",
+      "a": "It restates rather than changes it. Chaturbhuj Pradhan v. Amar Pradhan confirms that sufficient prima facie material to dislodge the Section 112 presumption is still required, and adds that a test should not be directed where the child's paternity is not actually an issue the court needs to decide in that proceeding."
+    },
+    {
+      "q": "Is the standard different in a criminal case than in a divorce or maintenance case?",
+      "a": "The underlying caution is similar, but a 2025 Supreme Court ruling added a specific criminal-context limit: a DNA test ordered during an investigation needs a genuine connection to the offence under investigation, and a compelled test without that link can be an unreasonable intrusion on the person being tested."
+    },
+    {
+      "q": "What evidence helps an application for a DNA test succeed?",
+      "a": "Concrete material suggesting non-access during the period the child could have been conceived, such as travel records, hospital documentation, or clear admissions in correspondence, rather than a bare allegation of suspicion. Courts have allowed testing more readily in disputes like partition suits where the child's own interests are not harmed by it."
+    }
+  ],
+  "references": [
+    "Indian Evidence Act, 1872, Section 112 (presumption of legitimacy of a child born during a valid marriage, rebuttable only by proof of non-access)",
+    "Goutam Kundu v. State of West Bengal, 1993 (strong prima facie case of non-access required before a DNA test can be ordered)",
+    "Aparna Ajinkya Firodia v. Ajinkya Arun Firodia, Supreme Court, 20 February 2023 (DNA test of a minor ordered only in exceptional, indispensable cases; not to be used merely to prove adultery)",
+    "Chaturbhuj Pradhan v. Amar Pradhan, Supreme Court, 29 May 2026 (restating the Section 112 threshold and holding a test should not be mechanically directed where paternity is not actually in issue)",
+    "R. Rajendran v. Kamar Nisha, Supreme Court, 2025 (DNA test in a criminal investigation requires a genuine connection to the offence under investigation)"
+  ],
+  "sources": [
+    "https://www.verdictum.in/app-lite/court-updates/supreme-court/children-have-right-to-not-have-legitamacy-questioned-frivolously-by-the-court-dna-test-denied-1463666",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/balancing-dna-test-and-right-to-privacy/print_manually",
+    "https://www.indialaw.in/blog/civil/dna-testing-paternity-disputes-supreme-court/",
+    "https://vidhigya.com/blog/supreme-court-rules-dna-test-cannot-be-ordered-when-paternity-question-lacks-nexus-with-offence/",
+    "https://vajiramandravi.com/current-affairs/dna-paternity-test-in-matrimonial-disputes/",
+    "https://theindianlawyer.in/supreme-court-refuses-permission-for-dna-testing-of-a-minor-in-a-custody-dispute-as-it-was-not-in-the-best-interest-of-the-child/"
+  ],
+  "verification_notes": [
+    "The Aparna Ajinkya Firodia v. Ajinkya Arun Firodia holding (DNA test refused, costs of Rs. 1 lakh imposed, test to be ordered only in exceptional, indispensable cases and not merely to prove adultery) is confirmed across three independent sources: verdictum.in, advocatetanwar.com and vajiramandravi.com, all reporting consistent facts and holding.",
+    "The 29 May 2026 ruling in Chaturbhuj Pradhan v. Amar Pradhan and its restatement of the Section 112 threshold, including the point that a test should not be mechanically directed where paternity is not actually in issue, is confirmed across the drishtiias.com and indialaw.in summaries, both describing the same case and date.",
+    "The Goutam Kundu v. State of West Bengal strong prima facie case standard is reported via a secondary source (indialaw.in) describing it as the origin of the test; this was not independently checked against the 1993 judgment text itself, so it is presented as the settled background standard that later rulings build on, consistent with how multiple sources in this research describe it, rather than quoted from the original judgment.",
+    "The 2025 criminal-context ruling (R. Rajendran v. Kamar Nisha, DNA test during investigation requiring a genuine connection to the offence) is reported in the vidhigya.com source; a second, independently named source for this specific case was not located in results, so it is described in the general terms that source uses, and flagged here as resting on a single clear report.",
+    "The description of courts allowing testing more readily in disputes such as partition suits where the child's interests are not harmed is drawn from a 2026 Madras High Court decision referenced in the vidhigya.com search summary; the case name was not confirmed, so this point is stated as a general pattern rather than attributed to a specific, named judgment."
+  ]
+}
