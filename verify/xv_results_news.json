@@ -551,5 +551,57 @@
    "https://thetaxcorp.in/article/kerala-high-court-lessee-barred-from-civil-court-after-drt-defeat-in-sarfaesi"
   ],
   "note": "Independently confirmed via LiveLawBiz, SupremeToday.ai and TheTaxCorp (citing OP(C) No. 2569 of 2026, order dated 15 September 2026): Justice Easwaran's ruling in IFCI Limited v. Hotel Mythri, the registered mortgage, the nine-year lease executed during the mortgage's subsistence, Hotel Mythri's S.A. No. 174/2020 before DRT-II Ernakulam dismissed 5 December 2024, the subsequent civil suit before the Sub Court Nedumangad, the High Court setting aside the Sub Court's refusal to reject the plaint, the Section 35/res judicata bar, and the Section 65A Transfer of Property Act finding that an unconsented lease does not bind the mortgagee."
+ },
+ {
+  "file": "_drafts/batch3/news/19-sat-omaxe-sebi-round-tripping-dismissed.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://www.livelawbiz.com/securities-law/sat/securities-appellate-tribunal-upholds-sebi-action-omaxe-limited-647-crore-round-tripping-sham-transactions-548513",
+   "https://www.barandbench.com/news/securities-appellate-tribunal-new-presiding-officer-technical-member",
+   "https://courtkutchehry.com/judgments/omaxe-limited-and-ors-vs-securities-and-exchange-board-of-india"
+  ],
+  "note": "Core holding independently confirmed: SAT's 1 September 2026 dismissal of Omaxe's appeal against SEBI's 30 July 2024 order over the Rs 647 crore round-tripping allegation, the 'make believe'/sham transactions characterisation, the two-year market ban and director/KMP disqualification, the October 2024 interim stay conditional on depositing the penalty, and the share-price rising on the news. However, the bench composition, which the draft says was 'not specified in the reporting reviewed', is in fact reported by LiveLaw Biz: Presiding Officer Justice P.S. Dinesh Kumar with Technical Members Meera Swarup and Dheeraj Bhatnagar. This is independently corroborated by Bar & Bench's report on SAT's current composition (Dinesh Kumar as Presiding Officer since April 2024, with Bhatnagar and Swarup as the tribunal's only other two members), making this the full three-member bench by structural necessity.",
+  "fixes": [
+   {
+    "find": "\"bench\": \"Securities Appellate Tribunal, Mumbai (bench composition not specified in the reporting reviewed)\",",
+    "replace": "\"bench\": \"Presiding Officer Justice P.S. Dinesh Kumar, with Technical Members Meera Swarup and Dheeraj Bhatnagar\",",
+    "reason": "LiveLaw Biz reports this bench composition, independently corroborated by Bar & Bench's report confirming these are SAT's three sitting members."
+   },
+   {
+    "find": "The tribunal's bench composition was not stated in any source reviewed.",
+    "replace": "The tribunal's bench composition is reported by LiveLaw Biz as Presiding Officer Justice P.S. Dinesh Kumar with Technical Members Meera Swarup and Dheeraj Bhatnagar, corroborated by Bar & Bench's reporting on SAT's current three-member composition.",
+    "reason": "Correcting the verification notes to reflect the now-confirmed bench composition."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/news/20-kerala-hc-brd-finance-commercial-court-civil-court-jurisdiction.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/high-court/kerala-high-court/civil-court-commercial-dispute-specified-value-designation-of-commercial-courts-546648",
+   "https://www.livelawbiz.com/high-court/kerala-high-court/kerala-high-court-once-commercial-court-is-designated-civil-court-cannot-adjudicate-specified-value-dispute-commercial-courts-act-546814",
+   "https://supremetoday.ai/kerala-high-court-rules-civil-courts-cannot-hear-brd-finance-commercial-suit-20260822089"
+  ],
+  "note": "Independently confirmed via LiveLaw, LiveLawBiz and SupremeToday.ai: RSA No. 194 of 2026, Justice Easwaran S.'s 10 August 2026 ruling (2026 LiveLaw (Ker) 459), the Rs 3,47,587 promissory-note recovery suit before the Munsiff Court Chavakkad, the 24 February 2020 notification designating Sub Courts as Commercial Courts above the Rs 3 lakh threshold, the jurisdictional objection raised for the first time in second appeal, the holding that the Munsiff Court's merits ruling was 'clearly unsustainable and without jurisdiction', the appellate court's independent duty to check jurisdiction, the transfer to the Principal Sub Court Thrissur, and the court-fee refund. The draft's framing of the decree as 'void' rather than merely irregular is a standard characterisation of a jurisdiction-stripped decree and is not contradicted by any source, though no source used the word 'void' verbatim."
+ },
+ {
+  "file": "_drafts/batch3/news/21-delhi-hc-alpro-industries-section-19-commercial-courts-amendment-not-retrospective.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/high-court/delhi-high-court/delhi-high-court-upholds-validity-section-19-commercial-courts-amendment-act-says-3-lakh-threhold-not-retrospective-552850",
+   "https://www.livelaw.in/amp/news-updates/commercial-courts-amendment-act-2018-cannot-retrospectively-delhi-high-court-204563",
+   "https://delhihighcourt.nic.in/app/showFileJudgment/68730092026CW128182026_143719.pdf"
+  ],
+  "note": "Independently confirmed via LiveLaw Biz: the Division Bench of Chief Justice Devendra Kumar Upadhyaya and Justice Tejas Karia's 30 September 2026 dismissal of Alpro Industries' Article 14 challenge to Section 19 of the Commercial Courts (Amendment) Act, 2018, the Indo Alusys recovery suit (filed 2016, ~Rs 35.50 lakh) at the Rs 1 crore pre-amendment threshold, the 3 May 2018 cut-off, the trial court's refusal to transfer, reliance on the Bench's own 2022 precedent (Satyanarain Khandelwal v. Prem Arora), and the reasoning that prospective legislation drawing a line is not per se an Article 14 violation."
+ },
+ {
+  "file": "_drafts/batch3/news/22-allahabad-hc-lucknow-up-highways-authority-meerut-karnal-ppp-award.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/arbitration/high-court/allahabad-high-court-severs-rs-157-crore-arbitral-award-against-up-state-highway-authority-543383",
+   "https://www.livelaw.in/high-court/allahabad-high-court/not-every-procedural-irregularity-vitiates-an-arbitral-award-allahabad-high-court-543397",
+   "https://livelaw.in/round-ups/weekly/arbitration-cases-weekly-round-up-supreme-court-high-court-239120"
+  ],
+  "note": "Independently confirmed via LiveLaw and LiveLaw Biz: Section 37 Appeal No. 41 of 2025, the Division Bench of Chief Justice Arun Bhansali and Justice Jaspreet Singh's 23 July 2026 ruling, the 16 December 2011 concession agreement for SH-82, the Authority's Section 4-only notification without a Section 6 declaration, the January 2014 termination, the tribunal majority's award scaled from Rs 640.50 crore to Rs 157.57 crore in loss of profits plus Rs 25.53 crore for EPC payments, the presiding arbitrator's dissent, the 'not every procedural irregularity vitiates an award' holding, and the severance/remand of the loss-of-profits head for want of evidence beyond the financial model while the rest of the award (including the Rs 25.53 crore component) stood."
  }
 ]
