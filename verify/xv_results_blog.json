@@ -390,5 +390,29 @@
    "https://factohr.com/industrial-relations-code-2020/"
   ],
   "note": "21 November 2025 effective date for all four Codes, consolidation of 29 central labour statutes, ongoing state-level rule notification gap, the Code on Wages' 50% cap on excluded remuneration components, and the Industrial Relations Code's raised government-permission threshold for retrenchment/layoff/closure from 100 to 300 workers are all confirmed by multiple independent law-firm and payroll-compliance sources. Fixed-term employment recognition and gig/platform worker social security coverage under the Code on Social Security also match well-established commentary. No incorrect claims found; the guide appropriately hedges on unsettled rule-level detail (gig contribution rates, state rule timelines)."
+ },
+ {
+  "file": "_drafts/batch2/blog/26-fssai-licence-vs-registration-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://taxguru.in/?p=1031736",
+   "https://ssrana.in/?p=44449",
+   "https://www.etvbharat.com/en/bharat/fssai-registration-and-licences-renewal-news-enn26031306831",
+   "https://www.setindiabiz.com/blog/fssai-2026-reforms"
+  ],
+  "note": "FSSAI Amendment Regulations gazetted 10 March 2026, implementing order dated 13 March 2026, thresholds effective 1 April 2026 (registration up to Rs 1.5 crore, state licence Rs 1.5cr-50cr, central above Rs 50cr), and perpetual validity for licences/registrations all confirmed across multiple independent sources (taxguru's summary of the official order, SSRana, ETV Bharat, Setindiabiz). Guide appropriately hedges on unconfirmed Section 63 penalty figures and transition treatment for pre-existing licences. No incorrect claims found."
+ },
+ {
+  "file": "_drafts/batch2/blog/27-section-9-operational-creditor-pre-existing-dispute-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.indialaw.in/blog/insolvency-bankruptcy/ibc-test-pre-existing-disputes/",
+   "https://www.indialaw.in/blog/insolvency-bankruptcy/section-9-ibc-pre-existing-dispute/",
+   "https://www.sansalegal.com/post/pre-existing-dispute-bars-ibc-section-9-petition-supreme-court-gls-films-ruling",
+   "https://www.livelawbiz.com/amp/news-updates/objections-raised-by-corporate-debtor-to-oppose-section-9-petition-not-to-be-a-moonshine-defence-nclat-delhi-216044"
+  ],
+  "note": "Section 8/9 statutory sequence (10-day response window, Section 9(5) rejection grounds) and the Mobilox plausibility/moonshine-defence test (2018) 1 SCC 353 / 2017 INSC 975 confirmed as settled law. Saraswati Wire & Cable Industries v. Mohammad Moinuddin Khan, 2025 INSC 1410 (10 Dec 2025), confirmed: NCLAT order set aside, NCLT admission restored, on facts closely matching the guide's description (stale 2018-19 email dispute undercut by debtor's own later ledger conduct). GLS Films Industries v. Chemical Suppliers India, 2026 INSC 344 (Civil Appeal No. 4019/2025), confirmed: Supreme Court restored NCLT's dismissal after NCLAT had wrongly admitted the petition despite a plausible pre-existing dispute (Rs 2.93 crore chemical solvents claim, defective-supply defence raised in a December 2021 reply predating the Section 9 filing). Both cases independently corroborated across multiple commentary sources despite relying on secondary reporting rather than the primary judgment text."
  }
 ]
