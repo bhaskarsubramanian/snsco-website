@@ -2312,5 +2312,55 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-17"
+  },
+  {
+    "id": "nclat-amba-grains-mastana-foods-coc-commercial-wisdom-cannot-be-reappraised",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Amba Grains Pvt. Ltd. & Ors. v. Amit Agrawal, RP of Mastana Foods Pvt. Ltd. & Ors.",
+    "citation": "NCLAT, Principal Bench, New Delhi, decision reported 14 October 2026 (connected appeals including CA (AT) (Ins) No. 4257 of 2025 in CP(IB) No. 630 of 2019)",
+    "court": "National Company Law Appellate Tribunal (NCLAT), Principal Bench, New Delhi",
+    "date": "2026-10-14",
+    "holding_summary": "Mastana Foods Pvt. Ltd. had been admitted into CIRP in September 2019 on an SBI petition, and NCLT Delhi later approved a Rs. 135.39 crore resolution plan from a consortium of HR Commercials Pvt. Ltd. and Crown Steels. A rival bidder, Amba Grains Pvt. Ltd., and the corporate debtor's suspended directors filed five connected appeals challenging the plan's approval, raising the conduct of the e-bidding process, a post-bid clarification sought on treatment of Haryana VAT/Excise dues, and the Committee of Creditors' refusal to consider a higher revised offer from Amba Grains. NCLAT dismissed all five appeals, holding that its review of a CoC-approved plan is confined to compliance with Section 30(2) of the IBC and does not extend to re-appraising the CoC's commercial wisdom, and separately held that a plan clause using the word 'may' made formation of a special purpose vehicle optional rather than mandatory for the successful resolution applicant.",
+    "why_it_matters": "A disappointed bidder cannot use an appeal against plan approval to re-litigate the CoC's commercial choice between competing offers or to challenge discretionary (as opposed to mandatory) implementation steps in the approved plan — NCLAT's review stays confined to the statutory compliance checklist in Section 30(2).",
+    "sources": [
+      "https://ibclaw.in/nclat-upholds-mastana-foods-resolution-plan-dismisses-challenges-to-e-bidding-process/",
+      "https://psuwatch.com/newsupdates/tribunals-cannot-hold-an-appeal-against-coc-approved-resolution-plan-nclat"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-18"
+  },
+  {
+    "id": "sebi-settlement-administrative-civil-proceedings-regulations-2026",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
+    "citation": "SEBI Gazette notification, issued on or about 6-7 October 2026, coming into force 7 November 2026",
+    "court": "Securities and Exchange Board of India (SEBI)",
+    "date": "2026-10-07",
+    "holding_summary": "SEBI notified a new Settlement of Administrative and Civil Proceedings Regulations, 2026, which will repeal and replace the existing 2018 settlement framework with effect from 7 November 2026, subject to transitional and savings provisions for applications already pending under the 2018 regulations. Reported changes include a formula-based settlement-amount calculation, fast-track treatment for smaller matters, and minimum settlement amounts (reported as roughly Rs. 3 lakh for first-time applicants and Rs. 7 lakh for others), alongside stricter debarment consequences for non-compliance with settlement terms.",
+    "why_it_matters": "Entities currently negotiating or planning a SEBI settlement should factor in the new formula-based amount calculation and stricter debarment terms taking effect from 7 November 2026, and confirm which framework (2018 or 2026) will govern a pending or contemplated application under the transitional provisions.",
+    "sources": [
+      "https://www.outlookmoney.com/invest/sebi-settlement-regulations-2026-fast-track-windows-stricter-debarments-among-other-changes-for-market-participants",
+      "https://www.corplawupdates.in/updates/sebi-settlement-regulations-2026",
+      "https://mmjc.in/sebi-settlement-regulations-2026-what-has-changed-from-the-earlier-framework/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-18"
+  },
+  {
+    "id": "sebi-adani-five-companies-rpt-audit-peer-review-settlement",
+    "practice_area": "Corporate Law & M&A",
+    "case_name": "In Re: Adani Enterprises Ltd., Adani Green Energy Ltd., Adani Total Gas Ltd., AWL Agri Business Ltd. & Adani Energy Solutions Ltd. (SEBI settlement)",
+    "citation": "SEBI settlement order, proceedings closed 22 September 2026",
+    "court": "Securities and Exchange Board of India (SEBI)",
+    "date": "2026-09-22",
+    "holding_summary": "SEBI's adjudication proceedings against five Adani group companies, arising from its examination of related-party-transaction disclosure and audit-certification issues flagged after the Hindenburg Research report, were closed by settlement after the companies paid a combined Rs. 1.5 crore (Adani Enterprises Rs. 76.05 lakh for alleged non-disclosure of certain related-party transactions and audit/limited-review reports signed by a firm without a valid Peer Review Certificate; Adani Green Energy Rs. 45.50 lakh; and Adani Total Gas, AWL Agri Business and Adani Energy Solutions Rs. 9.75 lakh each over reports signed by firms lacking a valid Peer Review Certificate). The companies paid without admitting or denying the findings, and SEBI expressly reserved its right to act further if any submission is later found false or a settlement condition is breached.",
+    "why_it_matters": "A reminder that an issuer's related-party-transaction disclosures and the Peer Review Certificate status of the firm signing its audit or limited-review reports are both independently checked by SEBI, and that a lapse on either front can draw a separate adjudication and settlement even where no restatement or fraud finding is involved.",
+    "sources": [
+      "https://www.moneylife.in/article/5-adani-group-companies-pay-150-crore-to-settle-sebi-proceedings-linked-to-disclosure-and-audit-issues/81721.html",
+      "https://www.livelaw.in/top-stories/adani-group-companies-settle-sebi-proceedings-over-hindenburg-551356",
+      "https://www.outlookbusiness.com/corporate/sebi-closes-hindenburg-linked-case-against-five-adani-firms-for-151-cr"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-18"
   }
 ]

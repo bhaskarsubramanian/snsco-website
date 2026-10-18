@@ -2062,5 +2062,58 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-17"
+  },
+  {
+    "id": "sc-sharma-enterprises-nbcc-or-otherwise-clause-bars-pre-award-interest",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "M/s Sharma Enterprises v. National Building Construction Corporation (NBCC)",
+    "citation": "2026 INSC 1135; Civil Appeal No. 13782 of 2026, Supreme Court, decided 15 October 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-10-15",
+    "holding_summary": "Clause 26 of the Special Conditions of Contract between the contractor and NBCC provided for running bills and separately barred interest claims tied to withheld deposits or delayed monthly/final payments, 'or otherwise'. A Single Judge of the Delhi High Court had upheld the arbitrator's substantive award but set aside the pre-reference and pendente lite interest component as contrary to Clause 26, and a Division Bench dismissed the contractor's further appeal. The Supreme Court dismissed the contractor's appeal, holding that 'or otherwise' is residuary wording of wide scope consciously used to cover every other circumstance in which interest might be claimed, following its earlier rulings in Sayeed Ahmed and Jaiprakash Associates on similarly worded clauses, and that an arbitrator exceeds jurisdiction under Section 31(7)(a) of the Arbitration and Conciliation Act, 1996 by awarding interest a contract expressly bars. The underlying monetary award and post-award interest under Section 31(7)(b) were left undisturbed.",
+    "why_it_matters": "Confirms that a residuary phrase like 'or otherwise' in a contractual interest-bar clause will be read as a comprehensive bar rather than limited to the specific situations listed alongside it, so parties drafting or resisting such clauses should expect courts to give the residuary words their full, independent effect rather than reading them down by association with the preceding list.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/ms-sharma-enterprises-v-national-building-construction-corporation-2026-insc-1135-or-otherwise-clause-operates-as-absolute-bar-1624131",
+      "https://www.livelawbiz.com/arbitration/or-otherwise-is-a-phrase-of-extension-not-limitation-supreme-court-555028",
+      "https://ibclaw.in/supreme-court-upholds-bar-on-pre-award-interest-under-clause-26/",
+      "https://lawtrend.in/phrase-or-otherwise-in-contract-operates-as-comprehensive-bar-on-pre-reference-and-pendente-lite-interest-supreme-court/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-18"
+  },
+  {
+    "id": "nclat-tata-capital-sanjay-mahajan-secured-creditor-election-time-barred",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Tata Capital Limited v. Sanjay Mahajan",
+    "citation": "Company Appeal (AT) (Insolvency) No. 1067 of 2026, NCLAT (Delhi), order dated on or about 6 October 2026",
+    "court": "National Company Law Appellate Tribunal (NCLAT), Delhi",
+    "date": "2026-10-06",
+    "holding_summary": "Tata Capital, a secured creditor of the corporate debtor in liquidation, had filed its claim in Form D on 1 October 2024 entering 'NIL' for security details and 'No' on whether the security had been relinquished, then participated in Stakeholders' Consultation Committee meetings, and only about six months later sent an email purporting to elect to realise its security outside the liquidation estate under Section 52 of the IBC. NCLT Mumbai refused to exclude the hypothecated assets from the liquidation estate, also rejecting Tata Capital's argument that a pending Scheme of Compromise and Arrangement under Section 230 of the Companies Act, 2013 should extend the statutory window for making that election. NCLAT dismissed Tata Capital's appeal, holding the Form D entries and conduct did not clearly communicate an election to stand outside the liquidation estate within the time allowed, that a secured creditor cannot simultaneously participate in liquidation while keeping open the option to withdraw its security depending on the outcome of a later scheme, and that the belated email could not cure the earlier non-compliance.",
+    "why_it_matters": "A secured financial creditor must make an unambiguous, timely election under Section 52 to stand outside the liquidation estate, and cannot hedge by filing an ambiguous Form D, participating in the SCC, and only later asserting the election once a parallel scheme's outcome becomes relevant to its interests.",
+    "sources": [
+      "https://www.livelawbiz.com/ibc/secured-creditor-cannot-participate-in-liquidation-while-keeping-option-to-withdraw-assets-later-nclat-553557",
+      "https://taxguru.in/?p=1090392",
+      "https://www.taxscan.in/corporate-laws/secured-creditor-cannot-claim-hypothecated-assets-after-missing-30-days-deadline-nclat-rejects-tata-capitals-plea-us-52-of-ibc-read-order",
+      "https://foxmandal.in/?p=60753"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-18"
+  },
+  {
+    "id": "nclat-earth-towne-etipl-cirp-set-aside-eil-resolution-plan-restored",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "NCLAT re: separate CIRP against Earth Towne Infrastructure Pvt. Ltd. (ETIPL)",
+    "citation": "NCLAT, New Delhi, order reported 8-12 October 2026 (Justice Mohammad Faiz Alam Khan and Technical Member Naresh Salecha)",
+    "court": "National Company Law Appellate Tribunal (NCLAT), New Delhi",
+    "date": "2026-10-08",
+    "holding_summary": "Earth Towne Infrastructure Pvt. Ltd. (ETIPL) was a special-purpose company formed on land leased by the Greater Noida Industrial Development Authority (GNIDA), of which Earth Infrastructures Ltd. (EIL) later acquired 98% and exclusive development rights; EIL's own CIRP began in 2018, and after NCLAT had set aside NCLT's 2021 approval of the Roma Unicon Designex Consortium's resolution plan for EIL, the Supreme Court restored that plan on 5 May 2026 in Alpha Corp Development Pvt. Ltd. v. GNIDA & Ors., lifting the corporate veil between EIL and land-holding subsidiaries including ETIPL. A separate roughly Rs. 28.64 crore CIRP had nonetheless been admitted against ETIPL itself. NCLAT set aside that separate CIRP, holding there was no default by ETIPL distinct from the claims already resolved under the restored EIL plan, and that allowing a fresh, separate process would resurrect the very corporate separateness the Supreme Court had already disregarded.",
+    "why_it_matters": "Where the Supreme Court has lifted the corporate veil between a parent undertaking in CIRP and a land-holding special-purpose subsidiary to restore a single resolution plan, a creditor cannot revive a parallel insolvency process against that subsidiary on claims the restored plan already covers — relevant to the roughly 4,200 homebuyers whose flats depend on the EIL plan's finality.",
+    "sources": [
+      "https://www.livelawbiz.com/ibc/nclat-sets-aside-separate-cirp-against-earth-towne-after-supreme-court-restored-eils-resolution-plan-553579",
+      "https://www.taxscan.in/corporate-laws/parallel-insolvency-of-land-holding-company-incompatible-with-supreme-court-restored-plan-nclat-sets-aside-2864-cr-cirp",
+      "https://supremetoday.ai/nclat-sets-aside-separate-cirp-against-earth-towne-after-supreme-court-restored-eils-resolution-plan-20261008028"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-18"
   }
 ]

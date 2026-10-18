@@ -2989,5 +2989,79 @@
     "draft_file": "_drafts/batch3/blog/31-fssai-section-59-criminal-prosecution-limitation-guide.json",
     "status": "full draft written and source-checked",
     "batch": "batch3-2026-10-16"
+  },
+  {
+    "id": "rera-section-18-delayed-possession-interest-calculation-guide",
+    "topic_title": "RERA Section 18 Interest for Delayed Possession: How the Rate Is Actually Calculated and What a Buyer Must Choose",
+    "angle": "A practical walkthrough of the two mutually exclusive remedies Section 18 of RERA gives a homebuyer facing delayed possession — withdraw and claim refund with interest, or stay in the project and claim monthly interest for the delay period — and how the applicable interest rate is actually set and computed, since the figure is not in the central Act itself but in each state's RERA rules.",
+    "key_points": [
+      "Section 18 of the RERA Act, 2016 gives an allottee two distinct options on delayed possession: withdraw from the project and claim refund of the amount paid with interest, or remain and claim interest for every month of delay until possession is handed over — the two are mutually exclusive, not cumulative.",
+      "The applicable interest rate is fixed by each state's RERA rules, not the central Act; many states (confirmed for Haryana) prescribe the State Bank of India's highest Marginal Cost of Lending Rate (MCLR) plus 2%, recalculated periodically as the MCLR changes.",
+      "Courts have held the right to interest under Section 18 does not depend on the buyer proving actual financial loss, lodging a prior protest, or reserving the right to claim interest in writing at the time of taking possession.",
+      "A buyer who accepts possession late is not automatically treated as having waived the delay-interest claim merely by taking possession or occupying the unit.",
+      "The remedy is pursued before the state Real Estate Regulatory Authority, not a civil court or consumer forum in the first instance, and interest is typically computed from the committed possession date (or the date in the registered allotment/sale agreement) rather than from the date of complaint."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Haryana RERA Rules, 2017 (Rule 15) prescribe SBI highest MCLR + 2% as the delay-interest rate, applied by the Haryana authority in multiple orders",
+      "varies by state: the exact rule number and whether the MCLR+2% formula is used verbatim should be checked against the specific state's RERA rules the article targets (confirmed only for Haryana in this research pass)",
+      "confirmed in principle: Bombay High Court has held the Section 18 interest right does not require proof of loss, a prior protest, or a possession-time reservation — cite the specific ruling and year when drafting",
+      "to verify: current SBI MCLR figure at time of publication, since the effective rate moves with it and should not be quoted as a fixed percentage without a stated as-of date"
+    ],
+    "added_on": "2026-10-18"
+  },
+  {
+    "id": "consumer-protection-ecommerce-rules-marketplace-liability-guide",
+    "topic_title": "Can You Sue the Marketplace, Not Just the Seller? What the Consumer Protection (E-Commerce) Rules Actually Allow",
+    "angle": "Explains the distinction the Consumer Protection (E-Commerce) Rules, 2020 draws between a 'marketplace' e-commerce entity (like a platform hosting third-party sellers) and an 'inventory' e-commerce entity (selling its own stock), what disclosure and diligence duties each owes a consumer, and the realistic limits on holding the platform itself liable for a defaulting seller's conduct.",
+    "key_points": [
+      "The Consumer Protection (E-Commerce) Rules, 2020 were notified under the Consumer Protection Act, 2019 and separately regulate 'marketplace' e-commerce entities (platforms hosting other sellers) and 'inventory' e-commerce entities (selling goods they own), each with distinct duties.",
+      "Marketplace entities must display seller identity, contact details, and ratings/reviews, maintain a grievance redressal mechanism with a named Grievance Officer, and cannot manipulate search results to unfairly favour their own or affiliated sellers.",
+      "The 2020 Rules do not make a marketplace automatically liable for a seller's product defect or breach merely by hosting the listing; liability for the product itself generally falls on the seller/manufacturer, with the marketplace's own exposure turning on its own disclosure and diligence failures, not the seller's underlying default.",
+      "Importer and country-of-origin disclosure requirements for imported goods, and restrictions on using consumer data without express consent, have been strengthened through later amendments — confirm the current text before citing.",
+      "A consumer with a complaint against a marketplace-listed seller should first identify whether the grievance is about the platform's own conduct (disclosure, data use, grievance handling) versus the seller's product/service — the correct respondent, and the rule relied on, differs accordingly."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Consumer Protection (E-Commerce) Rules, 2020 under the Consumer Protection Act, 2019 create separate 'marketplace' and 'inventory' e-commerce entity categories with distinct duties",
+      "to verify at drafting time: the current, in-force text of any amendment since 2020 (a 2021 draft proposed fall-back marketplace liability for a defaulting seller and misleading seller advertisements, and further changes have been reported since — confirm what has actually been notified and is in force before stating marketplace liability rules as settled, rather than relying on a draft or proposal)",
+      "to verify: current composition and powers of the Central Consumer Protection Authority (CCPA) in enforcing these specific e-commerce rules, as distinct from its general unfair-trade-practice powers"
+    ],
+    "added_on": "2026-10-18"
+  },
+  {
+    "id": "emergency-arbitrator-enforceability-india-guide",
+    "topic_title": "Does Indian Law Recognise Emergency Arbitrators? What an Emergency Award Is Actually Worth",
+    "angle": "A guide to whether a party can get real, enforceable urgent relief from an emergency arbitrator appointed under institutional rules (SIAC, ICC, etc.) in an India-seated arbitration, built around the Supreme Court's Amazon v. Future Retail ruling, and what that still leaves unresolved for foreign-seated emergency awards.",
+    "key_points": [
+      "The Arbitration and Conciliation Act, 1996 does not expressly define or provide for an 'emergency arbitrator' — the concept exists only through the rules of arbitral institutions (SIAC, ICC, LCIA, etc.) that parties adopt by contract.",
+      "In Amazon.com NV Investment Holdings LLC v. Future Retail Ltd. (Supreme Court, 6 August 2021), the Court held that an emergency arbitrator's interim award in an India-seated institutional arbitration qualifies as an order of the 'arbitral tribunal' under Section 17(1) of the Act, making it enforceable under Section 17(2) as if it were a court order.",
+      "The ruling turned on the arbitration being seated in India (New Delhi) under SIAC rules — the Court read the Act's definition of 'arbitral tribunal' broadly enough, in light of the parties' chosen institutional rules, to include an emergency arbitrator appointed under those rules.",
+      "No independent appeal lies against a court's order enforcing an emergency award under Section 17(2); a party's recourse is to resist enforcement, not appeal the underlying emergency award itself through ordinary appellate channels.",
+      "The position for a foreign-seated emergency award (as opposed to an India-seated one) remains less settled, and a proposed Section 9A in the draft Arbitration and Conciliation (Amendment) Bill would give emergency arbitration express statutory footing — confirm current enactment status before citing."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Amazon v. Future Retail, Supreme Court, decided 6 August 2021, held an India-seated emergency arbitrator's award enforceable under Section 17 of the Arbitration and Conciliation Act, 1996",
+      "confirmed: the underlying SIAC emergency arbitrator's interim award restraining the Future-Reliance transaction was dated 25 October 2020, with the arbitration seated in New Delhi",
+      "to verify at drafting time: whether the proposed Section 9A (statutory emergency-arbitrator provision) in the draft Arbitration and Conciliation (Amendment) Bill has since been enacted — do not state it as current law without confirming"
+    ],
+    "added_on": "2026-10-18"
+  },
+  {
+    "id": "trademark-opposition-procedure-section-21-guide",
+    "topic_title": "Someone Opposed Your Trademark Application: What Happens Next Under Section 21",
+    "angle": "A step-by-step walkthrough of the trademark opposition procedure under Section 21 of the Trade Marks Act, 1999 from the applicant's side — the non-extendable deadlines that can kill an opposition or an application outright, and where applicants most often lose simply by missing a date rather than losing on the merits.",
+    "key_points": [
+      "A third party has four months from the date the mark is advertised in the Trademark Journal to file a notice of opposition on Form TM-O under Section 21(1) read with Rule 42 of the Trade Marks Rules, 2017; this deadline is treated as strict and non-extendable, so a notice filed even one day late can be rejected as time-barred.",
+      "Once an opposition is filed and served, the applicant generally has two months from receipt to file a counter-statement on Form TM-O; failing to file within that window results in the application being treated as abandoned, with no provision for extension.",
+      "After the counter-statement stage, the matter proceeds through evidence filings by both sides and then a hearing before the Registrar of Trade Marks; the Delhi High Court's IP Division has held the Registrar has no power to extend the opposition-evidence timeline either, reinforcing that these are hard deadlines at every stage, not just the opening one.",
+      "An applicant who treats an opposition notice casually — assuming there will be informal flexibility on timelines the way there often is in civil litigation — risks losing the application by default on a procedural lapse having nothing to do with the opposed mark's actual distinctiveness or similarity to the opponent's mark.",
+      "Current e-filing fees should be confirmed on the IP India portal at the time of filing rather than quoted from older guides, since they are revised periodically."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 21(1) of the Trade Marks Act, 1999 read with Rule 42 of the Trade Marks Rules, 2017 sets a four-month, non-extendable window from journal advertisement to file a notice of opposition",
+      "confirmed: a counter-statement is generally due within two months of receiving the opposition notice, with non-filing treated as abandonment",
+      "to verify at drafting time: the current per-class e-filing fee for a notice of opposition (sources differed between roughly Rs. 2,500 and Rs. 2,700 per class) — quote the figure on the IP India portal as of the drafting date, not a fixed historical number",
+      "to cite precisely when drafting: the Delhi High Court ruling (reported as Sun Pharma v. Dabur, 2024) on the Registrar's lack of power to extend the opposition-evidence deadline — confirm exact case name, citation and year before publishing"
+    ],
+    "added_on": "2026-10-18"
   }
 ]
