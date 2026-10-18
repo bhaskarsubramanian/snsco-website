@@ -366,5 +366,29 @@
     "reason": "Align verification notes with the removal of the unverifiable citation."
    }
   ]
+ },
+ {
+  "file": "_drafts/batch2/blog/23-spa-indemnity-warranty-claims-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://blog.ipleaders.in/interim-reliefs-by-courts-and-arbitral-tribunals-s-9-and-s-17-of-arbitration-and-conciliation-act-1996/",
+   "https://scconline.com/blog/?p=277815",
+   "https://ksandk.com/corporate/indemnification-clause-in-indian-commercial-contracts/",
+   "https://www.mondaq.com/india/shareholders/1616660/indemnity-process"
+  ],
+  "note": "Guide contains no specific case citations or statutory figures to fact-check beyond Section 9, Arbitration and Conciliation Act 1996 (confirmed: interim relief available before tribunal constitution). Remaining content is generic, well-established Indian M&A indemnity/warranty practice (contractual basis under Contract Act 1872, notice/survival/basket/cap structures, escrow mechanics, limitation running independently of SPA notice periods) which matches standard practitioner commentary and is appropriately hedged in verification_notes where no recent ruling was found. No claims found to be incorrect."
+ },
+ {
+  "file": "_drafts/batch2/blog/24-labour-codes-2025-employer-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://ksandk.com/labour-employment/all-four-labour-codes-enforced-from-21-november-2025/",
+   "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2025/government-of-india-notifies-the-labour-codes-ushers-a-new-era-of-compliances",
+   "https://ssrana.in/articles/understanding-the-50-wage-rule-under-the-code-on-wages-2019-a-cap-on-exclusions-not-a-ceiling-on-wages/",
+   "https://factohr.com/industrial-relations-code-2020/"
+  ],
+  "note": "21 November 2025 effective date for all four Codes, consolidation of 29 central labour statutes, ongoing state-level rule notification gap, the Code on Wages' 50% cap on excluded remuneration components, and the Industrial Relations Code's raised government-permission threshold for retrenchment/layoff/closure from 100 to 300 workers are all confirmed by multiple independent law-firm and payroll-compliance sources. Fixed-term employment recognition and gig/platform worker social security coverage under the Code on Social Security also match well-established commentary. No incorrect claims found; the guide appropriately hedges on unsettled rule-level detail (gig contribution rates, state rule timelines)."
  }
 ]
