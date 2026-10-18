@@ -414,5 +414,43 @@
    "https://www.livelawbiz.com/amp/news-updates/objections-raised-by-corporate-debtor-to-oppose-section-9-petition-not-to-be-a-moonshine-defence-nclat-delhi-216044"
   ],
   "note": "Section 8/9 statutory sequence (10-day response window, Section 9(5) rejection grounds) and the Mobilox plausibility/moonshine-defence test (2018) 1 SCC 353 / 2017 INSC 975 confirmed as settled law. Saraswati Wire & Cable Industries v. Mohammad Moinuddin Khan, 2025 INSC 1410 (10 Dec 2025), confirmed: NCLAT order set aside, NCLT admission restored, on facts closely matching the guide's description (stale 2018-19 email dispute undercut by debtor's own later ledger conduct). GLS Films Industries v. Chemical Suppliers India, 2026 INSC 344 (Civil Appeal No. 4019/2025), confirmed: Supreme Court restored NCLT's dismissal after NCLAT had wrongly admitted the petition despite a plausible pre-existing dispute (Rs 2.93 crore chemical solvents claim, defective-supply defence raised in a December 2021 reply predating the Section 9 filing). Both cases independently corroborated across multiple commentary sources despite relying on secondary reporting rather than the primary judgment text."
+ },
+ {
+  "file": "_drafts/batch2/blog/28-drb-vs-arbitration-ppp-epc-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 6,
+  "evidence": [
+   "https://foxmandal.in/news/nhai-issues-clarification-on-drb-and-conciliation-sequence/",
+   "https://admin.mondaq.com/india/arbitration-dispute-resolution/1662386/layering-of-amicable-resolution-prior-to-arbitration-a-solution",
+   "https://ibanet.org/article/162496bc-c977-48e7-8ab0-33c108927dc0",
+   "https://morth.gov.in/sites/default/files/130.245-Arbitration-SoP.pdf"
+  ],
+  "note": "NHAI Policy Circular No. 2.1.84/2025 dated 12 June 2025 confirmed exactly as described: it was issued because contractors were going straight to Conciliation Committees of Independent Experts without first going through the DRB, and reiterates DRB-then-CCIE-then-arbitration sequencing. However the guide's claim that 'Indian courts have generally required strict compliance with multi-tier dispute resolution clauses...before treating an arbitration as properly invoked' overstates a genuinely unsettled area: multiple sources show Indian courts (particularly Delhi HC in several rulings, and the Centaurus Green Energy line) have treated pre-arbitral steps as directory/not mandatory, while other rulings (M.K. Shah Engineers, Simpark, Sushil Kumar Bhardwaj) treated them as conditions precedent requiring exhaustion. The law is split/unsettled rather than 'generally' requiring strict compliance.",
+  "fixes": [
+   {
+    "find": "This is not a merely technical point that tribunals wave through: Indian courts have generally required strict compliance with multi-tier dispute resolution clauses of this kind before treating an arbitration as properly invoked, particularly where the contract uses mandatory language such as shall rather than may for the earlier stages.",
+    "replace": "This is not a merely technical point that tribunals wave through: Indian case law on this question is genuinely mixed. Some rulings treat pre-arbitral steps using mandatory language such as shall, rather than may, as a condition precedent that must be exhausted before arbitration can be invoked, while other rulings, including from the Delhi High Court, have treated such steps as directory and declined to let them block a Section 11 application. Which way a given clause will be read cannot be assumed either way in advance.",
+    "reason": "The original sentence overstates Indian courts as 'generally' requiring strict compliance, when the case law is actually split between mandatory and directory treatment of pre-arbitral steps."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/29-trademark-infringement-interim-injunction-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://rawlaw.in/delhi-high-court-refuses-interim-injunction-in-trademark-infringement-case-between-two-electric-vehicle-companies-holds-mahindra-zeo-not-deceptively-similar-to-ezio",
+   "https://www.livelawbiz.com/high-court/delhi-high-court/delhi-high-court-order-dps-society-trademark-infringement-bhiwadi-school-313042",
+   "https://www.livelaw.in/amp/high-court/delhi-high-court/triple-identity-test-satisfied-delhi-high-court-restrains-infringement-of-johnson-johnsons-orsl-trademark-awards-12-cr-damages-297663",
+   "https://ssrana.in/articles/assessing-trademark-infringement-the-enduring-benchmark-of-the-triple-identity-test/"
+  ],
+  "note": "Delhi Public School Society v. Delhi Public School International Bhiwadi, CS(COMM) 1247/2025, confirmed: ex parte ad-interim injunction granted 8 December 2025 by Justice Manmeet Pritam Singh Arora on exactly the triple-identity basis described. Johnson & Johnson's ORSL case confirmed: July 2025 final judgment by Justice Mini Pushkarna made the December 2023 interim injunction absolute, damages approx Rs 1.21-1.22 crore. The Gensol v. Mahindra EZIO/eZEO dispute is real and the outcome (injunction refused, marks not deceptively similar once MAHINDRA was added) is correctly described, but the guide calls it 'a 2024 Delhi High Court order' -- the ruling was actually passed on 13 January 2025, not 2024 (the suit was filed/registered in 2024, which may explain the mix-up with the CS(COMM) 849/2024 case number).",
+  "fixes": [
+   {
+    "find": "In a 2024 Delhi High Court order in a dispute between the marks MAHINDRA ZEO and EZIO, the court declined an interim injunction",
+    "replace": "In a January 2025 Delhi High Court order in a dispute between the marks MAHINDRA ZEO (eZEO) and EZIO, the court declined an interim injunction",
+    "reason": "The ruling (Gensol Electric Vehicles v. Mahindra) was passed on 13 January 2025, not in 2024; only the underlying suit carries a 2024 case number."
+   }
+  ]
  }
 ]
