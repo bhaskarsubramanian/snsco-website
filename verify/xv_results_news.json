@@ -689,5 +689,181 @@
     "reason": "Updating verification notes to record the confirmed coram and remand disposition."
    }
   ]
+ },
+ {
+  "file": "_drafts/batch4/news/01-cutis-international-kerala-hc-trademark-jurisdiction.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/trademark/trademark-suits-cannot-be-tried-by-courts-below-district-court-regardless-of-pecuniary-value-549714",
+   "https://supremetoday.ai/trademark-infringement-suits-cannot-be-tried-below-district-court-kerala-high-court-20260911068",
+   "https://conventuslaw.com/report/india-trademark-infringement-suits-cannot-be-tried-by-courts-below-district-court-kerala-high-court-decides/"
+  ],
+  "note": "Case name, suit valuation (Rs 5,10,000), Section 9 CPC/Section 11(2) Kerala Civil Courts Act argument, Justice Mohammed Nias C.P., and the holding that Section 134 of the Trade Marks Act fixes the District Court as the floor regardless of pecuniary value are all independently confirmed."
+ },
+ {
+  "file": "_drafts/batch4/news/02-shabu-achary-dharampal-premchand-sc-cross-examination.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://conventuslaw.com/report/india-supreme-court-allows-cross-examination-on-trademark-use-despite-written-statement-not-being-on-record/",
+   "https://www.supremecourtcases.com/shabu-kn-achary-v-dharampal-premchand-limited/",
+   "https://www.thelawadvice.com/news/supreme-court-defendant-can-cross-examine-plaintiff-on-brand-name-usage-even-if-written-statement-is-not-on-record"
+  ],
+  "note": "Core facts (BABA mark, expunged cross-examination question, reversal, recall of plaintiff) confirmed. The bench was independently confirmed as J.B. Pardiwala and K. Vinod Chandran, JJ. (citation 2026 INSC 819) via the official Supreme Court order PDF and supremecourtcases.com, so the draft's 'bench not confirmed' gap can now be filled.",
+  "fixes": [
+   {
+    "find": "\"bench\": \"Not confirmed in sources reviewed\",",
+    "replace": "\"bench\": \"J.B. Pardiwala and K. Vinod Chandran, JJ.\",",
+    "reason": "Bench composition independently confirmed via the official SC order (api.sci.gov.in) and supremecourtcases.com; citation is 2026 INSC 819."
+   },
+   {
+    "find": "The names of the judges on the bench were not clearly stated in the sources reviewed and are therefore left unconfirmed rather than guessed.",
+    "replace": "The bench was J.B. Pardiwala and K. Vinod Chandran, JJ. (2026 INSC 819), confirmed via the official Supreme Court order and supremecourtcases.com.",
+    "reason": "Update verification notes to reflect the now-confirmed bench composition."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/03-cci-agro-input-dealers-cartel-boycott-agrostar.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-penalises-agro-input-associations-four-individuals-cartelisation-competition-commission-act-547167",
+   "https://taxguru.in/?p=1072027",
+   "https://www.amsshardul.com/wp-content/uploads/2026/10/Indian-Competition-Law-Roundup-August-and-September-2026.pdf"
+  ],
+  "note": "Order date, statutory basis, informant (Ulink Agritech/AgroStar) and the 5 August 2022 communication are confirmed. However, the draft materially understates the individuals penalised: LiveLawBiz's own headline and body ('CCI Imposes Penalties On AIDA AIWA And Four Officials') show the CCI held four individuals liable -- Manmohan C. Kalantri, Arvindbhai Jerambhai Patel, Pravinbhai Patel (AIDA General Secretary) and Sanjay Kumar Raghuwanshi (AIDA National Spokesperson) -- not just the two named in the draft.",
+  "fixes": [
+   {
+    "find": "CCI penalises two dealer associations and two office bearers for organising a boycott of online agro-input platforms such as AgroStar.",
+    "replace": "CCI penalises two dealer associations and four office bearers for organising a boycott of online agro-input platforms such as AgroStar.",
+    "reason": "CCI held four individuals liable, not two."
+   },
+   {
+    "find": "the CCI imposed monetary penalties on the Agro Input Dealers Association, the Agro Input Welfare Association, and two individuals identified as office bearers, Manmohan C. Kalantri and Arvindbhai Jerambhai Patel.",
+    "replace": "the CCI imposed monetary penalties on the Agro Input Dealers Association, the Agro Input Welfare Association, and four individuals identified as office bearers, Manmohan C. Kalantri, Arvindbhai Jerambhai Patel, Pravinbhai Patel and Sanjay Kumar Raghuwanshi.",
+    "reason": "CCI held four individuals liable (per LiveLawBiz's report), not two."
+   },
+   {
+    "find": "CCI penalises two agro-input dealer associations and two office bearers for organising a boycott against online platforms like AgroStar, holding the conduct a cartel under Section 3(3)(b).",
+    "replace": "CCI penalises two agro-input dealer associations and four office bearers for organising a boycott against online platforms like AgroStar, holding the conduct a cartel under Section 3(3)(b).",
+    "reason": "CCI held four individuals liable, not two."
+   },
+   {
+    "find": "the parties penalised (Agro Input Dealers Association, Agro Input Welfare Association, Manmohan C. Kalantri, Arvindbhai Jerambhai Patel), the informant",
+    "replace": "the parties penalised (Agro Input Dealers Association, Agro Input Welfare Association, Manmohan C. Kalantri, Arvindbhai Jerambhai Patel, Pravinbhai Patel, Sanjay Kumar Raghuwanshi), the informant",
+    "reason": "Update verification notes to list all four penalised individuals, not two."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/04-karnataka-hc-nhai-iravva-award-correction-limitation.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/arbitration/high-court/limitation-for-challenging-arbitral-award-applies-to-national-highways-act-arbitration-karnataka-high-court-549133",
+   "https://lawyerenews.com/legal_detail/time-period-under-section-33-of-arbitration-act-is-inflexible-and-cannot-be-extended-by-invoking-section-5-limitation-act-karnataka-high-court",
+   "https://www.jurishour.in/other-laws/limitation-challenge-arbitral-award-disposal-s-33-application-nhai/"
+  ],
+  "note": "Bench (CJ Vibhu Bakhru and Justice K.S. Hemalekha), the holding that the 30-day Section 34(3) proviso window is inflexible and applies to NH Act arbitration, and the underlying fact that NHAI's own Section 33 application was itself filed and rejected as time-barred, are confirmed across multiple independent sources."
+ },
+ {
+  "file": "_drafts/batch4/news/05-allahabad-hc-tushar-agrawal-specific-performance-mandatory.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-specific-performance-contract-mandatory-after-2018amendment-540670",
+   "https://www.verdictum.in/allahabad-high-court/tushar-agrawal-v-ganesh-prasad-2026ahc133431-specific-performance-no-longer-discretionary-2018-amendment-1617343",
+   "https://courtbook.in/posts/allahabad-high-court-upholds-specific-performance-decree-orders-seller-to-honour-registered-property-sale-agreement"
+  ],
+  "note": "Parties, dates, the blank-paper fraud defence and its rejection, and the mandatory-Section-10 holding are all confirmed. Two independent sources (LiveLaw, Verdictum) both identify the judge as Justice Sandeep Jain, filling the draft's 'bench not confirmed' gap.",
+  "fixes": [
+   {
+    "find": "\"bench\": \"Not confirmed in sources reviewed\",\n  \"case_name\": \"Tushar Agrawal v. Ganesh Prasad\",",
+    "replace": "\"bench\": \"Sandeep Jain, J.\",\n  \"case_name\": \"Tushar Agrawal v. Ganesh Prasad\",",
+    "reason": "Judge independently confirmed as Justice Sandeep Jain by two sources (LiveLaw, Verdictum)."
+   },
+   {
+    "find": "the panel of judges was not confirmed in the sources reviewed.",
+    "replace": "the judgment was delivered by Justice Sandeep Jain, confirmed independently via LiveLaw and Verdictum.",
+    "reason": "Update verification notes to reflect confirmed bench."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/06-nclat-raja-udyog-insolvency-threshold-loknath-gupta.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://supremetoday.ai/nclat-sets-aside-insolvency-admission-against-raja-udyog-as-debt-falls-below-1-crore-20260905065",
+   "https://www.livelawbiz.com/ibc/nclat-sets-aside-cirp-order-against-snacks-manufacturer-raja-udyog-notes-payment-of-principal-amount-before-impugned-order-reduced-debt-below-ibc-threshold-548642"
+  ],
+  "note": "Debtor identity, loan amounts, the Rs 93,88,310 balance, and the holding that the Rs 1 crore threshold must be met as of the admission date are confirmed by two independent sources, which also both name the bench as Justice Mohd. Faiz Alam Khan (Judicial Member) and Naresh Salecha (Technical Member), filling the draft's bench gap.",
+  "fixes": [
+   {
+    "find": "\"bench\": \"Not confirmed in sources reviewed\",\n  \"case_name\": \"Loknath Prasad Gupta v. Dinesh Chand & Ors.\",",
+    "replace": "\"bench\": \"Justice Mohd. Faiz Alam Khan (Judicial Member) and Naresh Salecha (Technical Member)\",\n  \"case_name\": \"Loknath Prasad Gupta v. Dinesh Chand & Ors.\",",
+    "reason": "Bench independently confirmed by two sources."
+   },
+   {
+    "find": "this article states only the NCLAT's own order date, reported as 25 August 2026, and omits the disputed NCLT admission date rather than asserting one that sources do not agree on.",
+    "replace": "this article states only the NCLAT's own order date, reported as 25 August 2026, and omits the disputed NCLT admission date rather than asserting one that sources do not agree on. The bench, Justice Mohd. Faiz Alam Khan (Judicial Member) and Naresh Salecha (Technical Member), is independently confirmed by two sources.",
+    "reason": "Update verification notes to reflect confirmed bench."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/07-fssai-suspends-kailash-formulation-sanecure-west-bengal.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://the420.in/fssai-suspends-sanecure-kailash-formulation-south-24-parganas/",
+   "https://telanganatoday.com/fssai-suspends-licences-of-two-food-businesses-over-safety-violations",
+   "https://www.outlookbusiness.com/news/fssai-cancels-licences-of-two-west-bengal-based-firms"
+  ],
+  "note": "Both firms' identities, location, specific violations, and the fact that the action was a suspension (not a cancellation, despite some headlines) are confirmed across multiple independent sources, including ones not in the draft's own source list."
+ },
+ {
+  "file": "_drafts/batch4/news/08-itat-ravindra-sahu-reassessment-notice-time-barred.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.taxscan.in/income-tax/income-tax-reassessment-notice-issued-3-days-beyond-six-year-limit-is-without-jurisdiction-itat-quashes-order-1450468",
+   "https://blog.saginfotech.com/reassessment-notice-issued-6-year-limitation-period-not-valid-itat-quashes-order",
+   "https://taxguru.in/?p=1074797"
+  ],
+  "note": "Assessee name (one source explicitly confirms 'Ravindra Sahu'), appeal numbers, AY 2015-16, the three-day overshoot of the six-year limitation period, the 543-day NFAC delay and its condonation, and the Tribunal allowing both appeals outright are all confirmed across independent sources. Bench members remain unconfirmed, as the draft itself honestly notes."
+ },
+ {
+  "file": "_drafts/batch4/news/09-patna-hc-rajani-sahu-canara-bank-guarantee-restructuring.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://supremetoday.ai/patna-high-court-quashes-canara-banks-sarfaesi-sale-over-guarantors-flat-after-loan-restructuring-20260915048",
+   "https://www.livelawbiz.com/recovery-laws/high-court/patna-high-court-bank-must-prove-guarantee-covers-subsequent-loan-facility-enforce-security-549950",
+   "https://www.livelawbiz.com/pdf_upload/2026/09/14/rajani-ranjan-699953.pdf"
+  ],
+  "note": "Parties, case number, Justice G. Anupama Chakravarthy, Ashok Auto Enterprises as borrower, the Rs 71.30 lakh/Rs 28.60 lakh valuation gap, and the holding that the bank must affirmatively prove the guarantee covers the restructured facility are all confirmed across independent sources, including the underlying order PDF."
+ },
+ {
+  "file": "_drafts/batch4/news/10-mp-hc-kalyan-singh-pawar-daftari-termination-regularisation.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-quashes-employee-termination-after-28-years-of-service-541829",
+   "https://indianmasterminds.com/news/judiciary/mp-high-court-quashes-employee-termination-after-28-years-regularisation-order-217879/"
+  ],
+  "note": "Employee's role as Daftari, 28 years of service, Justice Deepak Khot, case number W.P. No. 20363 of 2017, the 1999 direction/show-cause timeline, and the holding (termination quashed, regularisation directed on a direct-recruitment post even at a lower pay scale, no fraud allegation) are confirmed across independent sources."
+ },
+ {
+  "file": "_drafts/batch4/news/11-bombay-hc-runwal-constructions-bharat-shah-mahareat-jurisdiction.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/rera/high-court/bombay-hc-upholds-mrt-orders-holds-rera-appellate-tribunal-not-established-by-appointment-of-members-alone-537223",
+   "https://www.freepressjournal.in/mumbai/builders-cannot-hold-buyers-money-indefinitely-bombay-hc-upholds-interest-relief-for-runwal-infinity-homebuyers",
+   "https://www.caseon.in/case/runwal-constructions-vs-bharat-shah"
+  ],
+  "note": "Justice Madhav J. Jamdar, the May 2018 appointment vs December 2018 oath-taking timeline, the 10.05% interest order dated 1 November 2018, and the costs (Rs 1 lakh x2, Rs 10,000 x8) are confirmed across independent sources."
+ },
+ {
+  "file": "_drafts/batch4/news/12-nclt-ahmedabad-meghmani-organics-kilburn-amalgamation.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/amp/company-law/nclt-ahmedabad-approves-meghmani-group-amalgamation-554280",
+   "https://filingreader.com/news-wire/mumbai/2026-06-09/meghmani-organics-shareholders-and-creditors-approve-major-amalgamation",
+   "https://www.sahi.com/news/meghmani-organics-secures-nclt-nod-for-merger-with-2-subsidiaries-stakeholder-meet-set-for-june-06-5071-PE1_COR"
+  ],
+  "note": "Bench (Shammi Khan, Sanjeev Sharma), order date, appointed date, the 99.99% shareholder vote on 10,67,12,427 shares, secured creditor approval, and the Income Tax Department's Section 281 intervention/tax-caveat language are all confirmed across independent sources."
  }
 ]
