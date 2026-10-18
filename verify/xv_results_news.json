@@ -297,5 +297,140 @@
    "https://foxmandal.in/news/relief-beyond-arbitrations-scope-cannot-sustain-an-arbitral-award-delhi-high-court/"
   ],
   "note": "Case number (O.M.P. (COMM) 351/2023), Justice Avneesh Jhingan's 3 Aug 2026 decision, the Rs 5.16 crore/USD 60,769 award figure, the setting aside of the future O&M component under Section 34(2)(a)(iv), the natural-justice finding under Section 34(2)(a)(iii), the severability reasoning, and the upholding of the principal claim while rejecting NHAI's limitation defence are all independently confirmed."
+ },
+ {
+  "file": "_drafts/batch2/news/26-manas-shelters-pittie-bombay-hc-summary-judgment-redevelopment.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://rawlaw.in/bombay-high-court-rejects-developers-summary-judgment-in-tardeo-redevelopment-suit-holds-termination-readiness-loss-and-%E2%82%B931-10-crore-damages-require-full-trial-and-evidence/",
+   "https://bombayhighcourt.gov.in/bhc/recentjudgments/order-pdf/HCBM020342002023/2026-09-02/10",
+   "https://www.legitquest.com/case/manas-shelters-pvt-ltd-and-ors-v-vivek-madhavlal-pittie-and-others/7A36EE"
+  ],
+  "note": "Independently confirmed via RawLaw's report and the Bombay High Court's own order-listing page for 2 September 2026 (IA 4450/2026 in CS 344/2015), plus Legitquest's record of a related 27 March 2024 order (IA 4794/2022) by Justice Pitale noting Manas Shelters' weak financial position, consistent with the draft's account of the interim-injunction history. Parties, the property (C.S. No. 321, Tardeo Division), the 16 July 2013 termination, the Rs 31.10 crore damages claim, and the Order XIII-A summary-judgment refusal sending the dispute to trial are corroborated. The Division Bench dismissal (24 June 2025) and Supreme Court SLP dismissal (19 Feb 2026) dates could not be found in a third independent source in this run but are not contradicted by anything found."
+ },
+ {
+  "file": "_drafts/batch2/news/27-dharmendra-kotak-state-delhi-maggi-lead-case-quashed.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/delhi-high-court-quashes-criminal-cases-against-nestle-over-allegations-of-excess-lead-in-maggi",
+   "https://www.verdictum.in/delhi-high-court/dharmendra-hansraj-kotak-v-state-of-delhi-2026dhc6343-maggi-noodles-prosecutions-from-2015-lead-content-row-1619358",
+   "https://theprint.in/judiciary/decade-after-maggi-panic-2-minute-noodle-clears-last-legal-hurdle-delhi-hc-quashes-lead-content-case/3008363/"
+  ],
+  "note": "Independently confirmed: Justice Madhu Jain's 6 August 2026 order quashing the November 2015 and January 2016 summoning orders and all consequential proceedings against Nestle's distributors, the May 2015 sampling, the lead-content and 'No Added MSG' misbranding allegations, the Supreme Court-ordered CFTRI Mysore retesting finding lead within permissible limits, and the abuse-of-process holding under Section 482 CrPC, corroborated by Bar & Bench, Verdictum (citing neutral citation 2026:DHC:6343, dockets CRL.M.C. 7013/2022 & 328/2023) and ThePrint."
+ },
+ {
+  "file": "_drafts/batch2/news/29-hari-dutta-sharma-cholamandalam-vehicle-repossession-sc.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://theprint.in/judiciary/vehicles-cannot-be-repossessed-by-force-says-supreme-court-awards-truck-owner-rs-10l-compensation/3045772/",
+   "https://www.livelaw.in/supreme-court/financiers-cannot-repossess-vehicles-by-force-supreme-court-awards-rs-10-lakh-compensation-to-truck-owner-550357",
+   "https://supremetoday.ai/supreme-court-awards-rs-10-lakh-compensation-for-forceful-vehicle-repossession-by-financier-20260917066"
+  ],
+  "note": "Core holding, citation (2026 INSC 998), bench, the 2019 loan, the confirmed 2022 prior repossession and release after a Rs 86,726 payment, the April 2023 night-time seizure without the contractual notice, the Allahabad High Court's dismissal, the Articles 14/21 violation, and the RBI enforcement direction are all independently confirmed (LiveLaw, ThePrint, SupremeToday). However the draft omits that the Court also awarded Rs 10 lakh compensation for mental agony and loss of livelihood plus Rs 50,000 costs, and does not state the Rs 4.5 lakh price the truck was actually sold for in August 2023, which the refund-with-interest direction refers to.",
+  "fixes": [
+   {
+    "find": "On that basis the Court ordered Cholamandalam to close Sharma's loan account and refund the proceeds of any sale of the vehicle with interest, restoring him to the position he would have been in had the financier followed its own contractual and regulatory obligations.",
+    "replace": "On that basis the Court ordered Cholamandalam to close Sharma's loan account, refund the Rs 4.5 lakh the truck was sold for in August 2023 with 6% annual interest, and pay Sharma Rs 10 lakh as compensation for mental agony and loss of livelihood plus Rs 50,000 in costs, restoring him to the position he would have been in had the financier followed its own contractual and regulatory obligations.",
+    "reason": "The draft omitted the Rs 10 lakh compensation for mental agony and loss of livelihood and the Rs 50,000 costs the Court actually awarded, and did not state the Rs 4.5 lakh sale price; independent sources (LiveLaw, ThePrint, SupremeToday) confirm all three figures."
+   },
+   {
+    "find": "\"card_summary\": \"SC holds a financier's night-time, no-notice repossession of a hypothecated truck violated Articles 14 and 21, ordering loan closure, a refund with interest, and RBI enforcement.\",",
+    "replace": "\"card_summary\": \"SC holds a financier's night-time, no-notice repossession of a hypothecated truck violated Articles 14 and 21, ordering loan closure, a Rs 4.5 lakh refund with interest, Rs 10 lakh compensation, and RBI enforcement.\",",
+    "reason": "The card summary omitted the Rs 10 lakh compensation for mental agony and loss of livelihood that the Court awarded, confirmed by independent sources."
+   },
+   {
+    "find": "the loan-closure and refund-with-interest direction, and the direction to RBI to enforce compliance are corroborated across LiveLaw Biz, Verdictum, Law Street and KNN India.",
+    "replace": "the loan-closure and refund-with-interest direction (Rs 4.5 lakh, the truck's August 2023 sale price, plus 6% annual interest), the Rs 10 lakh compensation for mental agony and loss of livelihood, the Rs 50,000 costs, and the direction to RBI to enforce compliance are corroborated across LiveLaw, LiveLaw Biz, Verdictum, Law Street, ThePrint, SupremeToday and KNN India.",
+    "reason": "Updating verification notes to record the compensation and costs figures confirmed by independent re-verification, which the original draft omitted."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/news/30-mahareat-parshvadhara-parshwanath-wing-demolition.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.freepressjournal.in/mumbai/builders-need-homebuyers-consent-for-additional-construction-mahareat-orders-demolition-of-unauthorised-wing-at-badlapur-housing-project",
+   "https://www.livelawbiz.com/rera/maharashtra-reat-orders-demolition-of-additional-building-over-lack-of-homebuyer-consent-549174",
+   "https://www.legaldeli.in/blog/legal/addition-of-wings/"
+  ],
+  "note": "Independently confirmed via Free Press Journal and LiveLawBiz: the 7 September 2026 order, the Belavali/Ambernath project, the 2 July 2021 revised sanction introducing Wing E, the consent standard under Section 7 MOFA requiring informed, project-specific consent (a blanket sale-agreement clause held insufficient), the 90-day demolition direction, the Rs 10 lakh penalty, and the conveyance/open-space/30-water-connection directions. The draft's treatment of bench-member names as unconfirmed is appropriate: sources conflict (one names Justice S.S. Shinde, another 'Chairman Rakesh Singh')."
+ },
+ {
+  "file": "_drafts/batch2/news/31-nhai-bareilly-sitapur-bhpl-arbitral-award.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.nbmcw.com/news/roads-highways/nhai-secures-major-arbitration-victory-in-bareilly-sitapur-bot-project.html",
+   "https://www.devdiscourse.com/article/law-order/3955934-nhai-secures-major-arbitration-win-in-bareillysitapur-highway-case",
+   "https://ground.news/article/nhai-wins-major-arbitration-rs-3-177-cr-claim-cut-to-rs-46-cr"
+  ],
+  "note": "Independently confirmed across multiple outlets: Rs 3,177 crore claimed across 30 claims, only 3 claims worth about Rs 46 crore plus interest allowed, the May 2019 termination of the 151-km Bareilly-Sitapur BOT project, BHPL's Era Infra Engineering promotion, the 30 March 2015 Supplementary Agreement, the concurrent-delay finding, the rejection of NHAI's counterclaims, and the 27 July 2026 disclosure date. All available coverage traces to a single NHAI official statement with no independent BHPL response found, consistent with the draft's own caveat about the reporting's thinness."
+ },
+ {
+  "file": "_drafts/batch2/news/32-kerala-hc-domestic-violence-delay-quashment.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/high-court/kerala-high-court/delay-domestic-violence-complaint-no-ground-quash-proceedings-kerala-high-court-550404",
+   "https://www.verdictum.in/kerala-high-court/m-v-a-2026ker68865-domestic-violence-act-1622153",
+   "https://www.onmanorama.com/news/kerala/2026/09/17/delay-in-filing-domestic-violence-plea-not-ground-to-quash-case-kerala-hc.html"
+  ],
+  "note": "Independently confirmed: Justice Jobin Sebastian's 10 September 2026 order in Crl.M.C. No. 5128 of 2026 (M.C. No. 32/2025, JFCM-III Thrissur), the roughly six-year delay and retaliation arguments, the holding that the PWDV Act fixes no limitation period for a Section 12 complaint, the rejection of the retaliation argument tied to the husband's Family Court/POCSO proceedings, and reliance on Supreme Court authority on the limits of quashing jurisdiction (Shaurabh Kumar Tripathi v. Vidhi Rawal). The draft's treatment of the 2026:KER:68865 figure as an unconfirmed URL-slug citation, preferring 2026 LiveLaw (Ker) 512, is appropriate."
+ },
+ {
+  "file": "_drafts/batch3/news/01-hdfc-bank-kishore-mehta-recovery-certificate-insolvency-notice.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/amp/supreme-court/pre-2016-drt-recovery-certificates-cannot-form-basis-for-insolvency-notice-under-presidency-towns-insolvency-act-supreme-court-541010",
+   "https://www.scconline.com/blog/post/2026/07/20/sc-pre-2016-drt-recovery-certificate-not-a-decree/",
+   "https://www.verdictum.in/supreme-court/hdfc-bank-limited-v-kishore-k-mehta-dead-thr-lrs-2026-insc-688-recovery-certificate-rdb-act-1617731"
+  ],
+  "note": "Independently confirmed: citation 2026 INSC 688, decided 13 July 2026 by Dipankar Datta and Satish Chandra Sharma JJ., the 2004 recovery certificate for over Rs 14.74 crore, the Bombay High Court's quashing of the Section 9(2) insolvency notice (upheld by Single Judge and Division Bench), the reasoning on Section 19(22A) RDB Act (inserted 2016) and its non-retrospective effect, and the dismissal of HDFC Bank's appeal."
+ },
+ {
+  "file": "_drafts/batch3/news/02-karnataka-hc-stays-circulars-deferring-minimum-wage-contract-workers.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/karnataka-hc-stays-circulars-deferring-revised-minimum-wages-for-outsourced-contract-workers",
+   "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-minimum-wage-notification-challenge-interim-protection-employers-551044",
+   "https://legalsuvidha.com/latest-updates/karnataka-high-court-halts-wage-deferral-for-contract-workers-190926"
+  ],
+  "note": "Independently confirmed: Justice H.T. Narendra Prasad's stay of the three circulars (29 July, 10 August, 28 August 2026) deferring the 22 May 2026 minimum wage notification for 81 scheduled employments, the three issuing departments, the AITUC-led union petitioners, and the separate, unsuccessful employers' challenge to the notification itself, tagged with pending Division Bench Writ Appeals on the Code on Wages Section 69 question. The specific Writ Appeal numbers (1684/2026, 1685/2026) were not independently located in this run's searches but are not contradicted by anything found."
+ },
+ {
+  "file": "_drafts/batch3/news/03-nclat-hnpcl-gocl-merger-first-motion-reinstated.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/company-law/one-stage-too-early-nclat-sets-aside-nclt-rejection-of-hnpcl-merger-with-gocl-at-first-motion-stage-551976",
+   "https://www.taxscan.in/corporate-laws/nclat-revives-hnpcl-gocl-merger-scheme-upholds-sebi-approval-delay-cannot-justify-rejection-at-initial-merger-stage-read-order",
+   "https://taxguru.in/company-law/merger-scheme-cannot-rejected-prematurely-motion-stage-nclat-chennai.html"
+  ],
+  "note": "Independently confirmed: NCLT Amravati's 30 July 2026 rejection of the first motion application on appointed-date (more than a year before filing, under MCA General Circular 09/2019) and financial-discrepancy grounds, the SEBI/BSE/NSE observation dates (20-22 May 2026) and 22 June 2026 filing, NCLAT Chennai's 25 September 2026 order setting that aside as premature before shareholders and creditors voted, and the direction to convene meetings by 5 October 2026. One secondary aggregator additionally cites 'mismatched creditor lists' as a third ground, but this is not corroborated by the three primary reports the draft itself relies on, so the draft's two-ground account holds up as far as independently verifiable."
+ },
+ {
+  "file": "_drafts/batch3/news/04-sc-d-v-s-mother-relocate-children-uk-father-pocso-custody.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/supreme-court/parent-facing-pocso-prosecution-cannot-be-granted-custody-supreme-court-permits-mother-to-relocate-children-to-uk-551632",
+   "https://www.verdictum.in/supreme-court/d-v-s-2026-insc-1043-father-sexually-abusing-his-own-minor-son-1622603",
+   "https://www.verdictum.in/supreme-court/d-v-s-2026-insc-1043-nomadic-lifestyle-mother-custody-united-kingdom-1622615"
+  ],
+  "note": "Independently confirmed: citation 2026 INSC 1043, decided 23 September 2026 by Vikram Nath and Sandeep Mehta JJ., the 2024 Family Court custody order and the Delhi High Court's January 2026 affirmance, the rule that a parent facing a pending POCSO prosecution cannot be granted custody while it remains pending, the expunging of the High Court's credibility observations on the FIR, the rejection of the 'nomadic lifestyle' characterisation of the mother's career moves, the UK relocation permission with schooling-disclosure and production undertakings, and the direction that the father's Calcutta High Court quashing petition be decided independently."
+ },
+ {
+  "file": "_drafts/batch3/news/05-hotel-alankar-bombay-hc-fssai-suspension-cannot-continue-indefinitely.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/high-court/bombay-high-court/fssai-license-suspension-cannot-continue-infinitely-549691",
+   "https://www.verdictum.in/bombay-high-court/hotel-alankar-v-state-of-maharashtra-2026bhc-kol8650-db-fssai-license-continued-suspension-1621830"
+  ],
+  "note": "Independently confirmed via LiveLaw and Verdictum: citation 2026 BHC KOL 8650 (DB), bench of Justices Sharmila U. Deshmukh and Neeraj P. Dhote, the 7 July 2026 inspection at 69% compliance, the 8 July 2026 Section 32(3) suspension, the 31 July 2026 re-inspection at 97% ('exemplar') compliance, the holding that a Section 32(3) suspension cannot continue once the public-health risk is resolved absent a specific residual risk, and the preservation of separate liability under Sections 55 and 63 for breaches during the suspension period."
+ },
+ {
+  "file": "_drafts/batch3/news/06-haryana-reat-valid-possession-offer-before-due-date-bars-delay-compensation.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/rera/no-delay-compensation-if-valid-offer-of-possession-made-before-due-date-haryana-reat-548911",
+   "https://www.livelawbiz.com/pdf_upload/2026/09/07/y-b-builders--698556.pdf"
+  ],
+  "note": "Independently confirmed via LiveLaw Biz's report and the tribunal's own order PDF: Appeal No. 696 of 2026 decided 31 August 2026, the Nimai Palace project, the Rs 67,37,923 consideration with Rs 50 lakh paid and no Builder Buyer Agreement, the 11 June 2023 due date, the 1 April 2023 possession offer, the in-principle (10 Feb 2023) and final (12 April 2023) Occupation Certificate dates, the Authority's 12 March 2026 rejection, and the Tribunal's holding that an offer preceding the due date defeats a delay claim regardless of the Occupation Certificate timeline."
  }
 ]
