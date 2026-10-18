@@ -498,5 +498,139 @@
     "reason": "Flags that the Section 9(3) proviso cited is the post-1986 version, not the earlier four-year/20%-cap text."
    }
   ]
+ },
+ {
+  "file": "_drafts/batch3/blog/01-gst-itc-construction-plant-safari-retreats-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.verdictum.in/app-lite/court-updates/supreme-court/chief-commissioner-of-cgst-v-safari-retreats-private-ltd-constitutional-validity-of-section-175-c-d-cgst-act-upheld-1553563?hasShare=1",
+   "https://www.barandbench.com/law-firms/view-point/scope-for-legislative-overruling-of-the-safari-retreats-judgment",
+   "https://taxguru.in/goods-and-service-tax/retrospective-gst-amendment-nullifies-sc-itc-relief-construction-costs.html",
+   "https://nliulawreview.nliu.ac.in/fallout-of-the-safari-retreats-judgment-finance-bill-retrospectively-amends-section-17-of-the-cgst-act/"
+  ],
+  "note": "Safari Retreats judgment date (3 October 2024), the constitutional-validity holding, the functionality test for 'plant', and the Finance Act 2025 retrospective amendment (1 July 2017, 'plant or machinery' to 'plant and machinery') all check out across independent sources. Bench (Oka and Karol JJ.) is consistent with reporting though not from the judgment text itself."
+ },
+ {
+  "file": "_drafts/batch3/blog/02-personal-guarantor-ibc-pre-admission-hearing-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 6,
+  "evidence": [
+   "https://cbcl.nliu.ac.in/insolvency-law/the-personal-guarantors-saga-analyzing-the-supreme-courts-decision-in-dilip-b-jiwrajka-v-union-of-india/",
+   "https://www.livelaw.in/amp/law-firms/law-firm-articles-/supreme-court-personal-guarantors-ibc-presidency-towns-insolvency-act-cirp-nclat-resolution-professional-248885",
+   "https://thelegallock.com/?p=28731",
+   "https://api.sci.gov.in/supremecourt/2021/24405/24405_2021_1_6_48185_Order_09-Nov-2023.pdf"
+  ],
+  "note": "The legal holding (no adjudicatory hearing required before admission, resolution professional's role is examination not adjudication, bench led by then-CJI Chandrachud, 9 November 2023) is correct, but the case is misnamed throughout. The actual authority is Dilip B. Jiwrajka v. Union of India, Writ Petition (Civil) No. 1281 of 2021 (2023 SCC OnLine SC 1530), decided by CJI D.Y. Chandrachud, J.B. Pardiwala and Manoj Misra JJ. 'Surendra B. Jiwrajika and Another v. Omkara Assets Reconstruction Private Limited' is a separate, connected special leave petition (SLP (C) No. 16464/2021) that the Court disposed of the same day by simply directing the petitioners to pursue remedies at the Section 100 stage, following the Dilip B. Jiwrajka judgment -- it is not the source of the holding attributed to it, and the surname is also misspelled ('Jiwrajika' instead of 'Jiwrajka') throughout the draft.",
+  "fixes": [
+   {
+    "find": "and what the Supreme Court held on this in Jiwrajika.",
+    "replace": "and what the Supreme Court held on this in Jiwrajka.",
+    "reason": "Correct spelling of the case name (Jiwrajka, not Jiwrajika)."
+   },
+   {
+    "find": "The Supreme Court closed that argument on 9 November 2023 in Surendra B. Jiwrajika and Another v. Omkara Assets Reconstruction Private Limited, a batch of roughly 384 connected petitions challenging Sections 95 to 100 of Part III of the Insolvency and Bankruptcy Code, 2016.",
+    "replace": "The Supreme Court closed that argument on 9 November 2023 in Dilip B. Jiwrajka v. Union of India, Writ Petition (Civil) No. 1281 of 2021, a batch of connected petitions challenging Sections 95 to 100 of Part III of the Insolvency and Bankruptcy Code, 2016.",
+    "reason": "The holding described belongs to Dilip B. Jiwrajka v. Union of India, not to Surendra B. Jiwrajika v. Omkara Assets Reconstruction, which was a separate connected SLP disposed of by following the Dilip B. Jiwrajka judgment; also removed the unverified '384 petitions' figure."
+   },
+   {
+    "find": "The Supreme Court in Jiwrajika held that no adjudicatory hearing is required",
+    "replace": "The Supreme Court in Jiwrajka held that no adjudicatory hearing is required",
+    "reason": "Correct spelling of the case name."
+   },
+   {
+    "find": "Surendra B. Jiwrajika and Another v. Omkara Assets Reconstruction Private Limited, Supreme Court, 9 November 2023",
+    "replace": "Dilip B. Jiwrajka v. Union of India, Writ Petition (Civil) No. 1281 of 2021, Supreme Court, 9 November 2023",
+    "reason": "Correct case name and citation for the holding described in this guide."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/03-posh-shebox-compliance-aureliano-fernandes-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://theleaflet.in/a-decade-after-its-enactment-sc-issues-directions-to-ensure-better-implementation-of-the-posh-act",
+   "https://ssrana.in/posh-law/articles/supreme-court-directs-district-wise-survey-to-ascertain-posh-act-compliance-by-employer/",
+   "https://www.livelaw.in/amp/top-stories/supreme-court-directs-district-wise-survey-to-ascertain-posh-act-compliance-by-employers-300702",
+   "https://m.thewire.in/article/law/sc-orders-creation-of-shebox-portals-in-govt-departments-for-effective-implementation-of-posh-act"
+  ],
+  "note": "Aureliano Fernandes v. State of Goa background (Goa University professor, ICC proceeding, termination, CA No. 2482 of 2014), the continuing-mandamus compliance directions, the August 2025 six-week district-wise survey order, and the She-Box portal obligations all check out. Sections 4(2)(c), 19 and 21 of the POSH Act are correctly described (external NGO member requirement, employer duties, annual report with the 90-day pendency metric)."
+ },
+ {
+  "file": "_drafts/batch3/blog/04-specific-performance-retrospective-amendment-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelaw.in/amp/supreme-court/supreme-court-recalls-judgment-which-held-2018-amendment-to-specific-relief-act-prospective-274667",
+   "https://api.sci.gov.in/supremecourt/2022/30567/30567_2022_1_1504_56986_Judgement_08-Nov-2024.pdf",
+   "https://nujslawreview.org/wp-content/uploads/2025/01/17.3-Saha-1.pdf"
+  ],
+  "note": "Katta Sujatha Reddy v. Siddamsetty Infra Projects: 2022 ruling holding the 2018 Specific Relief Act amendment prospective, recalled on review on 8 November 2024 (matches draft's 'November 2024'), with the recall's effect on the prospective-application holding genuinely contested in commentary, exactly as the draft describes. Article 54, Limitation Act three-year period also confirmed."
+ },
+ {
+  "file": "_drafts/batch3/blog/05-section-29a-extension-after-expiry-rohan-builders-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/rohan-builders-india-private-limited-v-berger-paints-india-limited-2024-insc-686-application-for-extension-section-29a-1551206",
+   "https://rawlaw.in/supreme-court-resolves-conflicting-high-court-views-holds-time-extension-for-arbitral-award-under-section-29a-can-be-sought-after-expiry-of-prescribed-period/",
+   "https://indiacorplaw.in/?p=13201"
+  ],
+  "note": "Rohan Builders v. Berger Paints (2024 INSC 686, 12 September 2024, Khanna and Mahadevan JJ.) matches exactly: holding that a Section 29A extension application remains maintainable after expiry, the Calcutta HC's contrary view reversed, Delhi/Bombay/Kerala/Madras HCs on the other side, and sufficient-cause is still required rather than automatic extension."
+ },
+ {
+  "file": "_drafts/batch3/blog/06-child-custody-welfare-factors-guardians-wards-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/arathy-ramachandran-v-bijay-raj-menon-2025-insc-587-paramount-consideration-welfare-of-child-sincerity-love-either-parent-custody-1575750",
+   "https://www.caseciter.com/arathy-ramachandran-vs-bijay-raj-menon-2025-insc-587-child-custody/"
+  ],
+  "note": "Arathy Ramachandran v. Bijay Raj Menon, 2025 INSC 587, decided 29 April 2025 by a three-judge bench (Vikram Nath, Sanjay Karol, Sandeep Mehta JJ.), confirms the core holding that love/sincerity/affection alone cannot decide custody, and the reasoning on repeated shuffling harming a child's wellbeing matches the draft's description."
+ },
+ {
+  "file": "_drafts/batch3/blog/07-sarfaesi-section-14-district-magistrate-possession-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://itatonline.org/digest/verdicts/c-bright-vs-the-district-collector-ors/",
+   "https://www.livelaw.in/amp/top-stories/supreme-court-third-party-disputes-cmm-dm-sarfaesi-balkrishna-rama-tarle-d-vs-phoenix-arc-private-limited-2022-livelaw-sc-799-210308",
+   "https://www.supremecourtcases.com/r-d-jain-and-co-v-capital-first-ltd-and-others/amp/"
+  ],
+  "note": "C. Bright v. District Collector (2020, directory time limit), Balkrishna Rama Tarle v. Phoenix ARC (2022, ministerial role -- draft spells the party name 'Ram' instead of 'Rama', a trivial variant that doesn't affect identification), and R.D. Jain & Co. v. Capital First Ltd. (2022, Additional DM/CMM competence) all confirmed with correct holdings and years."
+ },
+ {
+  "file": "_drafts/batch3/blog/08-sebi-lodr-related-party-transaction-materiality-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://foxmandal.in/sebis-fifth-lodr-amendment-2025/",
+   "https://www.maheshwariandco.com/press-release/sebi-notifies-fifth-amendment-to-lodr-revised-materiality-framework-for-related-party-transactions/",
+   "https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2025/11/chapter-3-regulatory-updates-november-2025.pdf.coredownload.inline.pdf"
+  ],
+  "note": "SEBI's Fifth Amendment (notified 18 November 2025, Schedule XII, effective 18 December 2025 -- 30 days after gazette publication) and the tiered threshold figures (10% up to Rs 20,000 cr; Rs 2,000 cr + 5% up to Rs 40,000 cr; Rs 3,000 cr + 2.5% above that, capped at Rs 5,000 cr) match independent sources exactly, as does the old flat Rs 1,000 cr-or-10% test and the Rs 1 crore subsidiary-level audit committee threshold."
+ },
+ {
+  "file": "_drafts/batch3/blog/10-rera-project-registration-extension-lapse-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.livelaw.in/amp/consumer-cases/wbreat-extension-of-project-registration-under-section-6-of-rera-cannot-exceed-one-year-310017",
+   "https://therealtytoday.com/news/regulatory/essense-project-registration-limited-by-west-bengal-real-estate-appellate-tribunal/",
+   "https://conventuslaw.com/report/india-bombay-high-court-upholds-the-constitutional/"
+  ],
+  "note": "WBREAT's Essense project ruling (Periwal Constructions LLP, one-year aggregate cap on Section 6 extension, cutting the extension back from December 2026 to March 2026) confirmed by two independent sources with matching facts. The Bombay HC case (Neelkamal Realtors v. Union of India) was actually decided 6 December 2017 though widely reported/cited as a 2018 ruling (AIR 2018 (NOC) 398 (Bom.)); draft's generic 'Bombay High Court, 2018' reference is a defensible but imprecise description, not flagged as a fix since it doesn't misstate the substance."
+ },
+ {
+  "file": "_drafts/batch3/blog/11-arbitrability-fraud-disputes-india-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.livelaw.in/amp/top-stories/simple-allegations-of-fraud-does-not-make-a-dispute-non-arbitrable-148033",
+   "https://ksandk.com/corporate/impact-of-allegations-of-fraud-on-an-arbitration-clause-in-commercial-contracts/",
+   "https://www.mondaq.com/india/arbitration-dispute-resolution/1075370/arbitrability-of-fraud-disputes-in-india-supreme-courts-attempt-to-solve-the-intriguing-puzzle"
+  ],
+  "note": "Full case chain verified: N. Radhakrishnan (2010) 1 SCC 72, Ayyasamy (2016) 10 SCC 386, Rashid Raza v. Sadaf Akhtar (4 Sept 2019, three-judge bench of Nariman, Subhash Reddy and Surya Kant JJ., twin test), Avitel v. HSBC (2020) 4 SCC 725 (USD 60m SIAC award upheld), Vidya Drolia (2021) 2 SCC 1 overruling Radhakrishnan, and N.N. Global v. Indo Unique Flame's civil-fraud-is-arbitrable holding all match independent sources."
  }
 ]
