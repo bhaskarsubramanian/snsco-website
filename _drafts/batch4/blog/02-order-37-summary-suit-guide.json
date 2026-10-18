@@ -1,0 +1,86 @@
+{
+  "slug": "order-37-summary-suit-guide",
+  "title": "Order XXXVII Summary Suits: How a Lender Recovers a Debt Faster, and What a Defendant Must Actually Show",
+  "meta_description": "How Order XXXVII CPC summary suits work for banks and NBFCs recovering a debt, what leave to defend and conditional leave actually require, and what happens if a deposit condition is missed.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "Most civil suits in India move at the pace of a full trial: pleadings, discovery, evidence, cross-examination, final arguments, sometimes stretching across years before a decree is passed. A lender chasing a defaulting borrower cannot always wait that long, and the law gives certain categories of claim a faster track. Order XXXVII of the Code of Civil Procedure lets a plaintiff suing on a negotiable instrument, or seeking recovery of a debt or liquidated money demand, obtain a decree without a full trial, provided the defendant cannot show a genuine triable defence.",
+    "The procedure is used constantly by banks and NBFCs recovering loan and guarantee dues, and a Bombay High Court decree against four defaulting borrowers in favour of IL&FS Financial Services in 2026, covering roughly Rs 848.80 crore, is a useful recent illustration of how the mechanism actually plays out when a defendant is given a chance to defend and then fails to take it."
+  ],
+  "sections": [
+    {
+      "heading": "What kind of claim actually qualifies for Order XXXVII",
+      "paragraphs": [
+        "Order XXXVII is not available for every commercial dispute. It is confined to suits founded on a negotiable instrument such as a promissory note, bill of exchange or cheque, and to suits seeking recovery of a debt or a liquidated demand in money, arising on a written contract, an enactment where the sum is a fixed charge on immovable property, or a guarantee for such a debt or demand. Loan recovery suits against a borrower, and suits against a guarantor on a deed of guarantee, routinely fall within this description, which is why banks and NBFCs favour the route over an ordinary suit whenever the underlying documentation is in order.",
+        "What the procedure is designed to prevent is a defendant with no real defence using the length of ordinary civil litigation as a tactic in itself. A suit filed as a summary suit proceeds on a specific procedural track from the outset: the defendant is served along with a summons in the prescribed form, and must apply for leave to defend within the time allowed, rather than simply filing a written statement as of right."
+      ]
+    },
+    {
+      "heading": "Leave to defend: the court's first filter",
+      "paragraphs": [
+        "A defendant who does nothing after being served a summons for judgment risks a decree being passed against them without any hearing on the merits at all. To avoid that, the defendant must apply for leave to defend, setting out the facts said to constitute a defence. The court's task at this stage is not to decide the dispute, but to screen it: is the proposed defence genuinely triable, or is it illusory, vague or what courts have described, following long-settled Supreme Court authority, as moonshine?",
+        "A defence that raises a real, fact-based dispute, for instance a genuine disagreement over whether a payment was credited, or whether a condition precedent to liability was satisfied, will usually get unconditional leave to defend, and the suit then proceeds more like an ordinary trial from that point. A defence that looks thin but not entirely without substance, the kind of defence courts describe as plausible but improbable, is where conditional leave becomes the court's preferred tool, rather than an outright refusal of leave."
+      ]
+    },
+    {
+      "heading": "Conditional leave and the deposit trap",
+      "paragraphs": [
+        "Where the proposed defence is weak but not plainly dishonest, a court can grant leave to defend on terms, commonly requiring the defendant to deposit the claimed amount, or a substantial part of it, in court as a condition of being allowed to contest the suit at all. The logic is that if the defendant genuinely intends to fight the claim on its merits rather than merely buy time, depositing security should not be an unreasonable ask, and it protects the plaintiff from a defendant who delays simply because delay itself has value.",
+        "The IL&FS matter before the Bombay High Court shows what happens when that condition is not met. The defendants had been granted conditional leave to defend on the basis that they deposit a specified sum; they failed to do so, and non-deposit certificates confirming the failure were placed on the court record. Justice Gauri Godse, relying on the established principle that a defendant who fails to comply with a conditional leave order is precluded from contesting the suit further, decreed all four suits in IL&FS's favour, holding the plaintiff entitled to judgment effectively forthwith. Claims against parties who were separately under an insolvency moratorium were kept stayed, with liberty to apply once that moratorium lifted, rather than being decreed in the same sweep.",
+        "The practical point for any defendant offered conditional leave is blunt: treat the deposit deadline as absolute. Courts are not inclined to revisit the question once the time given has passed and the shortfall is a matter of record, and arguing financial hardship after the fact rarely moves a court that has already weighed the defence as weak enough to warrant a deposit condition in the first place."
+      ]
+    },
+    {
+      "heading": "Curing a stamp duty defect without losing the suit",
+      "paragraphs": [
+        "Loan, guarantee and pledge documents relied on in a summary suit sometimes attract a stamping objection, since insufficiently stamped instruments are ordinarily inadmissible in evidence until the deficiency is made good. A defendant facing a strong claim will often reach for this as a last-ditch technical defence. In the IL&FS litigation, the court had earlier directed the plaintiff to have the relevant loan, guarantee and pledge documents impounded and to pay the deficit stamp duty, which the plaintiff did, filing the adjudication order confirming the cure on record before the final decree was passed.",
+        "The lesson for a lender holding potentially under-stamped documents is to treat a stamping objection as a procedural step to be cured, not as a reason to panic about the underlying claim. Paying the deficit duty and obtaining the adjudicating authority's order is ordinarily sufficient to remove the admissibility bar; it does not, by itself, defeat an otherwise sound claim on the underlying debt."
+      ]
+    },
+    {
+      "heading": "What a genuinely triable defence looks like in practice",
+      "paragraphs": [
+        "Courts applying Order XXXVII have drawn a consistent line between a defence that deserves a trial and one that does not. Where a defendant admits liability for most of the claimed amount but disputes a smaller, identifiable portion, the correct course is ordinarily conditional leave limited to depositing the undisputed sum, not a wholesale refusal of leave over the entire claim. Conversely, where a court records a clear finding that the defendant has raised a bona fide, triable issue going to the heart of the claim, imposing a heavy deposit condition, say fifty percent of the claimed amount, as a precondition to contesting that genuine dispute has been held to defeat the purpose of allowing a triable defence to be tried at all.",
+        "The dividing line is fact-intensive and depends heavily on what the defendant actually places before the court at the leave stage, rather than what is argued afterwards. A defendant who wants unconditional leave needs to show, with some specificity, why the claim as pleaded does not hold up, not merely assert that a defence exists in general terms."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What kinds of claims can be filed as an Order XXXVII summary suit?",
+      "a": "Suits founded on a negotiable instrument such as a cheque or promissory note, and suits seeking recovery of a debt or liquidated money demand arising from a written contract, a fixed statutory charge on immovable property, or a guarantee for such a debt, qualify. Most bank and NBFC loan recovery suits fall within this description."
+    },
+    {
+      "q": "What happens if I don't apply for leave to defend at all?",
+      "a": "The plaintiff becomes entitled to seek a decree without any hearing on the merits, since leave to defend is the defendant's only route into contesting a summary suit. Missing the time limit to apply for leave is ordinarily treated as fatal to any later attempt to raise a defence."
+    },
+    {
+      "q": "What is the difference between unconditional and conditional leave to defend?",
+      "a": "Unconditional leave lets the defendant contest the suit without any precondition, and is granted where the proposed defence is genuinely triable. Conditional leave requires the defendant to first deposit the claimed sum, or part of it, typically where the defence looks weak or only partly credible."
+    },
+    {
+      "q": "What happens if I'm granted conditional leave but can't make the deposit?",
+      "a": "Failure to comply with a conditional leave order within the time given is treated as fatal. The defendant is precluded from contesting the suit further, and the plaintiff becomes entitled to a decree on the claim, as happened to the defendants in IL&FS's 2026 Bombay High Court suits."
+    },
+    {
+      "q": "Can a lender still win a summary suit if the loan documents were under-stamped?",
+      "a": "Yes, generally. Courts have allowed a plaintiff to cure an insufficient-stamping defect mid-suit by having the document impounded, paying the deficit stamp duty, and filing the adjudication order on record, rather than losing the suit outright on that technical ground."
+    }
+  ],
+  "references": [
+    "Code of Civil Procedure, 1908, Order XXXVII (summary suit procedure, leave to defend and conditional leave)",
+    "D. Shanalal v. Bank of Maharashtra (principle that non-compliance with a conditional leave deposit order precludes the defendant from contesting the suit further)",
+    "IL&FS Financial Services recovery suits, Bombay High Court, 2026 (Justice Gauri Godse), decreeing four summary suits totalling approximately Rs 848.80 crore after non-compliance with conditional leave deposit orders"
+  ],
+  "sources": [
+    "https://www.livelawbiz.com/commercial-court-act/bombay-high-court-rules-in-favour-of-ilfs-in-84880-crore-recovery-suits-545946",
+    "https://rawlaw.in/bombay-high-court-decrees-four-il-holds-order-xxxvii-entitles-plaintiff-to-judgment-forthwith/",
+    "https://rawlaw.in/delhi-high-court-imposes-%e2%82%b910-31-crore-deposit-condition-for-leave-to-defend-in-loan-recovery-suit-defendants-defence-plausible-but-improbable-unconditional-leave-denied-in-order-x/"
+  ],
+  "verification_notes": [
+    "The IL&FS decree (four summary suits, approx. Rs 848.80 crore, Justice Gauri Godse, non-deposit certificates, reliance on D. Shanalal v. Bank of Maharashtra, stamp duty impounding and cure, stay of claims against parties under insolvency moratorium) is confirmed across two independent sources: livelawbiz.com and rawlaw.in, both dated August 2026.",
+    "The 'plausible but improbable' standard and the Delhi High Court's imposition of a deposit condition on that basis are drawn from a separate rawlaw.in report on a different loan recovery suit, used here only to illustrate the general standard, not attributed to the IL&FS matter.",
+    "The general procedural description of Order XXXVII (categories of suit covered, leave to defend mechanism, conditional leave under Rule 3) reflects the Code's own structure as summarised consistently across casemine.com commentary and the rawlaw.in case reports; the precise rule numbering was not independently re-verified against the bare Code text and is stated here only in general terms.",
+    "The 'moonshine defence' standard is referred to as settled Supreme Court authority per casemine.com commentary; the exact case citation was not confirmed in search results and has accordingly been left unnamed in the guide rather than cited specifically."
+  ]
+}
