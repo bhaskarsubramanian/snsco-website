@@ -1,0 +1,93 @@
+{
+  "slug": "electricity-theft-compounding-section-152-guide",
+  "title": "Caught for Electricity Theft? How Compounding Under Section 152 Works, and What It Does Not Erase",
+  "meta_description": "How compounding an electricity theft offence under Section 152 of the Electricity Act actually works, and the civil liability it leaves untouched.",
+  "practice_area": "Power, Energy & Mining",
+  "intro": [
+    "A raiding squad finds a meter tampered with, or a direct line bypassing the meter altogether, and within days the consumer is facing two separate problems at once: a civil assessment for the electricity it is alleged they consumed without paying for it, and a possible prosecution under Section 135 of the Electricity Act, 2003 for theft of electricity. Most consumers who come to a lawyer at this stage have already heard the word compounding from someone at the discom office, usually framed as a way to make the whole matter disappear if the money is paid quickly.",
+    "Compounding is real, and Section 152 of the Act does let a theft offence be settled this way. What gets lost in the informal version of this advice is that compounding closes one part of the problem, the criminal prosecution, while leaving the civil assessment of what is actually owed almost entirely untouched. Knowing which part a client is actually resolving, and which part survives regardless, changes how the whole matter should be handled from the first notice onward."
+  ],
+  "sections": [
+    {
+      "heading": "Two Separate Tracks: Civil Assessment and Criminal Prosecution",
+      "paragraphs": [
+        "The Electricity Act keeps these two consequences of unauthorised use or theft of electricity on separate tracks, and conflating them is the most common mistake consumers make when deciding how to respond. Unauthorised use of electricity, assessed under Section 126, is a civil liability: the discom's assessing officer works out what was actually consumed and bills for it, with the consumer entitled to object and to be heard before a final assessment order is passed.",
+        "Theft of electricity under Section 135, by contrast, is a criminal offence, triable before a special court designated for electricity offences, carrying its own fine and, for larger loads or repeat offenders, imprisonment. A single set of facts, a tampered meter or an unauthorised tapping, can trigger both an assessment notice and a police complaint, and a consumer who pays the assessed amount without addressing the criminal side can still find an FIR pending against them, sometimes for months after the civil matter is closed."
+      ]
+    },
+    {
+      "heading": "What Compounding Under Section 152 Actually Does",
+      "paragraphs": [
+        "Section 152 allows the government or an officer authorised for the purpose to accept a sum of money from a person reasonably suspected of having committed certain offences under the Act, including theft under Section 135, in order to compound the offence. Once that sum is accepted, the Act treats the acceptance as amounting to an acquittal within the meaning of Section 300 of the Code of Criminal Procedure, meaning the person generally cannot be tried again for the same offence arising from the same facts.",
+        "This is a genuine escape from prosecution, not a loophole. The Supreme Court has confirmed that offences under both Section 135 and Section 138 of the Act are compoundable by virtue of Section 152. Discom practice typically ties the compounding charge to the civil liability already assessed: the person is asked to pay the assessed amount along with an additional compounding fee set by the applicable state notification, and once both are paid the criminal file is closed rather than sent for prosecution."
+      ]
+    },
+    {
+      "heading": "What Compounding Does Not Touch",
+      "paragraphs": [
+        "The part that gets skipped in informal advice is that compounding is a criminal-law mechanism, and it does nothing to the underlying civil assessment of consumption. Paying the compounding fee does not reduce, waive, or reopen the assessed bill; if anything, most discom practice treats payment of the assessed civil liability as a precondition to compounding being offered at all, not a consequence of it.",
+        "It also does not undo a disconnection that has already happened, or automatically restore a connection, which usually needs a separate reconnection process and its own charges. And it does not, by itself, stop a related consequence some states attach to a theft finding, such as a higher tariff category or load reclassification for a period going forward. A consumer who has compounded the criminal case can still be disputing the civil assessment in a completely separate forum, and should not assume the two are settled together just because one payment covered both the assessed amount and the compounding fee."
+      ]
+    },
+    {
+      "heading": "The Window Between Detection and Disconnection",
+      "paragraphs": [
+        "Discom practice generally gives a person caught in a theft detection a short window to pay the assessed civil liability and the compounding charge before supply is disconnected and a police complaint is formally lodged, though the exact number of hours and the procedural steps vary by state utility circular and should be checked against the specific discom's current notification rather than assumed. Where the means of theft, such as a tampering device or an unauthorised line, has already been removed by the inspecting team, supply need not be cut immediately even while the payment process is pending.",
+        "This window matters practically because it is usually the only point at which a consumer has real leverage to negotiate or dispute the assessment before the criminal process formally starts. Once an FIR is registered and supply is disconnected, resolving the matter becomes a slower process involving both the criminal court and whatever appellate forum exists for the civil assessment, and the informal compounding route becomes harder to access."
+      ]
+    },
+    {
+      "heading": "Disputing a Theft Finding After Paying the Compounding Charge",
+      "paragraphs": [
+        "A genuinely difficult position arises when a consumer pays the compounding charge under pressure, often believing it is the only way to get supply restored quickly, and later wants to dispute whether there was theft at all. Courts have shown little sympathy for this sequence. Once a person has voluntarily deposited the compounding charges, a court can treat that payment as effectively conceding the characterisation of the conduct as theft, making it very difficult to argue afterward that the underlying finding was wrong.",
+        "The practical lesson for anyone advising a consumer at the detection stage is to resolve the dispute over whether theft actually occurred, or whether the detection itself was procedurally sound, before paying the compounding charge, not after. If there is a genuine case to be made that the meter reading was mishandled, that the inspection did not follow the prescribed procedure, or that the load calculation is wrong, that argument needs to be raised through the civil assessment's own appeal or revision process first, since compounding effectively closes the door on reopening the criminal characterisation later."
+      ]
+    },
+    {
+      "heading": "What Happens If the Payment Deadline Is Missed",
+      "paragraphs": [
+        "If the civil liability is not paid within the window the discom allows, standard practice is to disconnect the supply and lodge a formal police complaint, after which the matter proceeds as an ordinary criminal prosecution before the special court, with compounding still available at a later stage but now as a more involved process that may require an application and the discom's consent rather than a straightforward counter payment. A consumer in this position should treat the special court proceeding seriously rather than assuming a late payment will quietly close the file, because once an FIR is registered, withdrawal usually needs a formal compounding application placed before that process, not an informal arrangement at the discom counter.",
+        "For a business consumer especially, where a theft finding can also trigger questions before a regulator about licence conditions or load sanctioning, getting the assessment, the compounding and any downstream tariff consequence looked at together, rather than paying whatever is demanded to make the immediate problem go away, is usually the better use of the time available in that first short window."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "If I pay the compounding charge, does that also settle the civil bill for the electricity consumed?",
+      "a": "No. Compounding under Section 152 closes the criminal prosecution for theft, but it is a separate mechanism from the civil assessment under Section 126. Most discom practice requires the assessed civil amount to be paid as a condition for compounding, but paying it does not reopen or reduce that assessment."
+    },
+    {
+      "q": "Can I be prosecuted again for the same theft after compounding the offence?",
+      "a": "Generally no. Once the compounding amount is accepted, the Act treats it as amounting to an acquittal for the purposes of the Code of Criminal Procedure, which ordinarily bars a fresh prosecution for the same offence arising out of the same facts."
+    },
+    {
+      "q": "Can I dispute the theft finding after I have already paid the compounding charge?",
+      "a": "It becomes very difficult. Courts have treated voluntary payment of the compounding charge as effectively accepting the characterisation of the conduct as theft, so any dispute about whether theft actually occurred, or whether the inspection was procedurally proper, should be raised before paying, not after."
+    },
+    {
+      "q": "Does compounding affect only electricity theft offences, or other offences too?",
+      "a": "Section 152 extends compounding to certain other offences under the Act too, including the offence under Section 138 relating to interference with meters or works, beyond theft under Section 135. The Supreme Court has confirmed both are compoundable under this provision."
+    }
+  ],
+  "references": [
+    "Electricity Act, 2003, Section 126 (civil assessment for unauthorised use of electricity)",
+    "Electricity Act, 2003, Section 135 (criminal offence of theft of electricity, tried by a special court)",
+    "Electricity Act, 2003, Section 138 (offence relating to interference with meters and electric lines)",
+    "Electricity Act, 2003, Section 152 (compounding of specified offences, including Sections 135 and 138; acceptance deemed an acquittal under Section 300 of the Code of Criminal Procedure, 1973)",
+    "Suresh Ganpati Halvankar v. State of Maharashtra, Supreme Court, 2018 (offences under Sections 135 and 138 are both compoundable under Section 152)"
+  ],
+  "sources": [
+    "https://greatlakes.edu.in/gurgaon/pdf/Effectiveness_of_the_Measures_against_Theft_of_Electricity_in_EA_2003.pdf",
+    "https://www.mahadiscom.in/consumer/wp-content/uploads/2018/03/Comm_CircularNo.86.pdf",
+    "https://www.mahadiscom.in/consumer/wp-content/uploads/2018/03/Comm_Cir_132.pdf",
+    "https://www.casemine.com/in/column/allegations-of-electricity-theft-in-india/view",
+    "https://solarquarter.com/2026/09/07/aperc-revises-electricity-supply-rules-with-new-penalties-and-compounding-fees-in-andhra-pradesh/amp/"
+  ],
+  "verification_notes": [
+    "The statutory distinction between Section 126 civil assessment and Section 135 criminal theft as two separate tracks is confirmed across the casemine.com legal commentary and the greatlakes.edu.in academic paper, both describing the same two-track structure in the Act.",
+    "Section 152's deemed-acquittal effect under Section 300 of the Code of Criminal Procedure, and the Supreme Court's confirmation that both Section 135 and Section 138 offences are compoundable under it (Suresh Ganpati Halvankar v. State of Maharashtra, 2018), is confirmed via the casemine.com commentary and corroborated by the general description of Section 152's operation in the greatlakes.edu.in paper; the exact case citation was not independently verified against the full judgment, so it is named by case title and year only.",
+    "The general practice of a short payment window before disconnection, and the point that the means of theft can be removed without immediate disconnection, is drawn from Mahadiscom circulars (Comm_CircularNo.86 and Comm_Cir_132); since these are specific to one state utility and exact hour figures varied between secondary descriptions of them, this guide states the practice in general terms and expressly flags that the precise window should be checked against the applicable state's current circular rather than treated as a uniform national rule.",
+    "The point that a consumer who has voluntarily paid compounding charges cannot later dispute the theft characterisation is based on a Punjab and Haryana High Court ruling described in search results; the case name and citation were not independently confirmed, so this is stated as the general judicial approach reflected in that ruling rather than attributed to a specific, fully cited judgment.",
+    "The 2026 Andhra Pradesh regulatory update standardising compounding fees by offence type is noted only as an example of how compounding amounts are state-specific and subject to change by notification; no specific fee figures from that update are stated in this guide, since they were not cross-confirmed across two independent sources."
+  ]
+}
