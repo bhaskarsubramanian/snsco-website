@@ -145,5 +145,157 @@
    "https://chambers.com/articles/dll-represents-kishore-and-rakesh-biyani-before-the-bombay-high-court-on-rbi-fraud-classification"
   ],
   "note": "Independently confirmed: bench of Justices B.P. Colabawalla and Firdosh P. Pooniwalla, the 21 June 2025 bank order being found wholly unreasoned for merely reproducing the forensic audit report, breach of RBI 2024 Fraud Master Directions, and the relief keeping the Biyanis names out of the Central Fraud Registry while leaving the bank free to proceed afresh. The 3 July 2026 vs 9-10 July 2026 date discrepancy the draft already flags is independently confirmed as a genuine discrepancy across sources, not an error unique to the draft."
+ },
+ {
+  "file": "_drafts/batch2/news/13-adani-power-tiroda-aptel-merc-coal-shortfall-compensation.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://theprint.in/judiciary/why-apex-appellate-body-ordered-maharashtra-power-regulator-to-restore-tiroda-plant-relief-for-adani/3022038/",
+   "https://www.aptel.gov.in/sites/default/files/uploads/Notification_PN%26G%20dt%2019.12.2025.pdf",
+   "https://www.psuconnect.in/power-sector-news/adani-power-wins-aptel-appeal-merc-order-set-aside"
+  ],
+  "note": "The ruling, bench chairperson, 2020 MERC order, and six-week direction are confirmed across independent sources. But Virender Bhat sits on APTEL as Judicial Member, not Technical Member as the draft states; APTEL's own 2025 notifications consistently list him as Judicial Member, Court-II.",
+  "fixes": [
+   {
+    "find": "\"bench\": \"Officiating Chairperson Justice Seema Gupta and Technical Member Virender Bhat\",",
+    "replace": "\"bench\": \"Officiating Chairperson Justice Seema Gupta and Judicial Member Virender Bhat\",",
+    "reason": "Virender Bhat is APTEL's Judicial Member, not Technical Member, per APTEL's own notifications."
+   },
+   {
+    "find": "APTEL's bench of Officiating Chairperson Justice Seema Gupta and Technical Member Virender Bhat was unimpressed",
+    "replace": "APTEL's bench of Officiating Chairperson Justice Seema Gupta and Judicial Member Virender Bhat was unimpressed",
+    "reason": "Correcting Bhat's designation to Judicial Member."
+   },
+   {
+    "find": "the bench (Officiating Chairperson Justice Seema Gupta and Technical Member Virender Bhat), the underlying 2020 MERC order",
+    "replace": "the bench (Officiating Chairperson Justice Seema Gupta and Judicial Member Virender Bhat), the underlying 2020 MERC order",
+    "reason": "Correcting Bhat's designation to Judicial Member."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/news/15-ccpa-xboom-anti-drone-misleading-ads.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/ccpa-imposes-10-lakh-fine-on-xboom-for-ads-of-anti-drone-systems-without-licence-disclosures",
+   "https://supremetoday.ai/ccpa-fines-xboom-rs-10-lakh-for-misleading-anti-drone-ads-without-licence-disclosure-20260918102",
+   "https://digitalpolicyalert.org/event/43793-central-consumer-protection-authority-fined-xboom-inr-1-million-for-misleading-advertisements-case-no-ccpa-2152026-ccpa"
+  ],
+  "note": "Order date (17 Sept 2026), case number, six product names, Rs 10 lakh penalty under Section 21 as a first-contravention maximum, Xboom's enquiry-only defence and its rejection, and the disclosure/KYC directions are all independently confirmed."
+ },
+ {
+  "file": "_drafts/batch2/news/16-allahabad-hc-ex-judge-maintenance-pension-concealment.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://lawbeat.in/news-updates/not-a-simple-litigant-allahabad-hc-slams-ex-judge-for-hiding-pension-rejects-remarriage-defence-in-maintenance-case-1634161",
+   "https://courtbook.in/posts/-allahabad-hc-slams-ex-judge-for-concealing-revised-pension-upholds-family-court-order-doubling-wifes-maintenance"
+  ],
+  "note": "Justice Lakshmi Kant Shukla's 18 Sept 2026 order upholding the Family Court's enhancement from Rs 9,000 to Rs 18,000, the concealment of the pay-commission pension revision (admitted ~Rs 88,000/month against a disclosed Rs 25,632), the 'not a simple litigant' remark, and the rejected remarriage defence are confirmed by two independent reports."
+ },
+ {
+  "file": "_drafts/batch2/news/17-maharera-sai-enterprises-super-construction-penalty.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/rera/maharera-imposes-10-lakh-penalty-on-sai-enterprises-super-construction-for-failing-to-comply-with-flat-allotment-order-554044",
+   "https://lawstreet.co/judiciary/maharera-imposes-10-lakh-penalty-on-developers-for-failing-to-allot-flat"
+  ],
+  "note": "Confirmed: Flat B07/Wing B in the project now called Sethia Imperial Avenue, the 31 Oct 2025 order directing allotment within 45 days, interest on Rs 17.49 lakh from 24 June 2012, Rs 20,000 costs against Sai Enterprises, and the 8 Oct 2026 non-compliance order by AO R.K. Malabade imposing a Rs 10 lakh Section 63 penalty plus recovery warrants."
+ },
+ {
+  "file": "_drafts/batch2/news/18-karnataka-hc-acc-mining-lease-penalty-quashed.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/karnataka-high-court-quashes-482-crore-penalty-on-adanis-acc-limited-for-mining-in-kalaburagi",
+   "https://www.livelawbiz.com/high-court/karnataka-high-court/karnataka-high-court-adani-group-company-acc-limited-gets-relief-karnataka-high-court-rupees-482-crore-mining-penalty-dispute-549865",
+   "https://www.cemnet.com/News/story/182097/acc-mining-penalty-quashed-by-high-court.html"
+  ],
+  "note": "The Rs 482.69 crore penalty, Section 8A(5) extension to 31 March 2030, rejection of the clinker-to-limestone royalty method, and ILMS portal restoration are confirmed. But the case is reported as ACC Limited v. Union of India and Others (lead Writ Petition No. 25298 of 2024 with connected petitions), not v. State of Karnataka, and the bench is identifiable as a Division Bench of Chief Justice Vibhu Bakhru and Justice K.S. Hemalekha, which the draft left as 'not confirmed.'",
+  "fixes": [
+   {
+    "find": "\"case_name\": \"ACC Limited v. State of Karnataka and Others\",",
+    "replace": "\"case_name\": \"ACC Limited v. Union of India and Others\",",
+    "reason": "Multiple independent reports and the case PDF list the respondent as Union of India, not State of Karnataka (lead matter: Writ Petition No. 25298 of 2024)."
+   },
+   {
+    "find": "\"bench\": \"Not confirmed in available reports\",",
+    "replace": "\"bench\": \"Chief Justice Vibhu Bakhru and Justice K.S. Hemalekha\",",
+    "reason": "Bench identity now confirmed by Bar & Bench and LiveLawBiz reporting."
+   },
+   {
+    "find": "The name of the bench was not confirmed from the available secondary reports and has accordingly been left unstated rather than guessed.",
+    "replace": "The bench comprised Chief Justice Vibhu Bakhru and Justice K.S. Hemalekha, and the case is captioned ACC Limited v. Union of India and Others (lead Writ Petition No. 25298 of 2024, with connected petitions), per Bar & Bench and LiveLawBiz reports.",
+    "reason": "Updating verification notes to reflect confirmed bench and correct case caption."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/news/19-sc-pepsico-potato-variety-farmers-rights.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.downtoearth.org.in/agriculture/sc-upholds-pepsicos-potato-variety-registration-says-sued-farmers-can-invoke-statutory-protection",
+   "https://eng.ruralvoice.in/supreme-court-verdict-on-pepsico-potato-farmers-disappointing-says-farmers-rights-activist-kavitha-kuruganti",
+   "https://www.livelawbiz.com/top-stories/supreme-court-upholds-delhi-hc-order-on-pepsicos-lays-potato-variety-registration-544837"
+  ],
+  "note": "Bench (Justices Pardiwala and Vinod Chandran), the Section 34(h)/39(1)(iv) holdings, the case history (2021 revocation, 2023 single-judge affirmance, Jan 2024 Division Bench reversal), and Kuruganti's 'disappointing'/'letter but not spirit' reaction are all independently confirmed. Minor cross-source date variance (5 vs 7 Aug 2026) exists in secondary reporting but does not undermine the core facts."
+ },
+ {
+  "file": "_drafts/batch2/news/20-bombay-hc-tata-capital-guarantor-moratorium-amendment.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.taxscan.in/top-stories/ibc-amendment-excluding-personal-guarantors-from-moratorium-applies-to-pending-insolvency-cases-bombay-hc-allows-tata-capital-arbitration-1449897",
+   "https://ibclaw.in/bombay-high-court-clarifies-section-964-ibc-moratorium-scope-for-personal-guarantors-in-arbitration-petition/",
+   "https://www.livelawbiz.com/ibc/high-court/bombay-high-court-insolvency-and-bankruptcy-code-amendment-excluding-personal-guarantor-interim-moratorium-applies-pending-section-95-cases-544259"
+  ],
+  "note": "Case number, Justice Somasekhar Sundaresan's 24 July 2026 order, the Sections 96(4)/124(4) amendment effective 26 May 2026, the 'retroactive not retrospective' framing, and the result allowing Tata Capital's arbitration to proceed against pending Section 95 applicants are all confirmed, as is the subsequent IBBI circular aligning with the same reading."
+ },
+ {
+  "file": "_drafts/batch2/news/21-nclat-garden-court-distilleries-going-concern-sale.json",
+  "verdict": "FAIL",
+  "evidence": [
+   "https://supremetoday.ai/honest-derivatives-going-concern-sale-not-subject-to-later-liquidation-amendment-nclat-20260912030",
+   "https://taxconcept.net/?p=155063",
+   "https://nclat.nic.in/sites/default/files/2026-07/Notice_C-IV_Misc_30.07.2026.pdf"
+  ],
+  "note": "Independent sources (SupremeToday, TaxConcept/TaxGuru, and NCLAT's own cause-list notice listing the two connected appeals, Comp. App. (AT)(Ins) Nos. 1138 and 1145 of 2026) show the corporate debtor NCLT Ahmedabad admitted into liquidation on 10 October 2025 was Honest Derivatives (Private) Limited, not Garden Court Distilleries. Garden Court Distilleries was the successful going-concern auction purchaser of Honest Derivatives, seeking implementation reliefs in appeal 1145; it was never itself in liquidation. The draft has these two entities' roles reversed throughout its body (it treats Garden Court Distilleries as the liquidated company). The underlying legal point (regulations governing a going-concern sale are fixed as of the Section 33 liquidation order date, not a later IBBI amendment) and the NCLAT's ruling allowing the appeal and remanding within two weeks appear to be real, but the draft's factual account of who was liquidated and who was the buyer is materially wrong -- this needs a rewrite, not isolated find/replace fixes. Note also: the NCLAT bench is reported as Justice Yogesh Khanna (Officiating Chairperson) with Technical Members Barun Mitra and Ajai Das Mehrotra, which the draft also left unconfirmed."
+ },
+ {
+  "file": "_drafts/batch2/news/22-bombay-hc-high-point-supply-agati-healthcare-mediation.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.verdictum.in/bombay-high-court/high-point-supply-company-llc-v-agati-healthcare-private-limited-comfa152026-exception-us-12-a-commercial-courts-act-1619511",
+   "https://rawlaw.in/bombay-high-court-restores-commercial-suit-without-pre-institution-mediation-holds-genuine-plea-for-urgent-interim-relief-exempts-compliance-under-section-12a-commercial-courts-act/",
+   "https://www.livelawbiz.com/commercial-court-act/monetary-claims-do-not-bar-urgent-relief-exception-to-pre-institution-mediation-bombay-high-court-545011"
+  ],
+  "note": "Parties, the colostrum-product exclusive distribution background, the trial court's Order VII Rule 11(d) rejection, the Division Bench (Justices Chagla and Dubash) holding that Section 12A urgency is a limited jurisdictional inquiry distinct from the interim-injunction merits test, the holding on consequential monetary relief, and the restoration of the suit are all confirmed. Case number and the 5 Aug 2026 decision date also check out."
+ },
+ {
+  "file": "_drafts/batch2/news/23-ccpa-flipkart-cyclosinone-unregistered-herbicide.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://dailypioneer.com/news/ccpa-fines-amazon-flipkart-jiomart-over-unregistered-herbicide-sales",
+   "https://www.newsbytesapp.com/news/business/ccpa-fines-amazon-flipkart-rs10l-each-jiomart-rs5l-over-cyclosinone/tldr",
+   "https://lawchakra.in/latest-news/marketplace-label-no-shield-ccpa-fines-flipkart-rs-10-lakh-over-unregistered-cyclosinone-herbicide-listings/"
+  ],
+  "note": "Order date (22 Sept 2026), Rs 10 lakh penalties on Flipkart and Amazon, Rs 5 lakh on JioMart, Cyclosinone's absence from the Insecticides Act Schedule, the Crop Care Federation of India's 22 Jan 2026 complaint, and the rejection of the marketplace-intermediary defence are all independently confirmed."
+ },
+ {
+  "file": "_drafts/batch2/news/24-mahinder-puran-singh-section-22-agricultural-land-preemption.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.verdictum.in/supreme-court/mahinder-others-v-puran-singh-2026-insc-698-section-22-hindu-succession-act-1617794",
+   "https://www.scconline.com/blog/post/2026/07/15/sc-section-22-hindu-succession-act-applies-to-agricultural-property/",
+   "https://blog.ipleaders.in/hindu-succession-act-section-22-preferential-right/"
+  ],
+  "note": "Citation (2026 INSC 698), bench (Justices Karol and Kotiswar Singh), 14 July 2026 decision date, the Karnal land dispute, the holding that Section 22 HSA extends to agricultural land, the distinguishing of Atam Prakash, reliance on Entry 5 List III, and the Babu Ram v. Santokh Singh affirmance are all independently confirmed."
+ },
+ {
+  "file": "_drafts/batch2/news/25-nhai-louis-berger-cowi-chambal-bridge-arbitral-award.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/arbitration/arbitral-award-for-unrendered-future-services-invalid-delhi-hc-partially-sets-aside-award-against-nhai-in-chambal-bridge-dispute-544286",
+   "https://rawlaw.in/delhi-high-court-partly-sets-aside-nhai-arbitration-award-holds-tribunal-cannot-grant-future-om-payments-or-rely-on-material-without-hearing-both-parties/",
+   "https://foxmandal.in/news/relief-beyond-arbitrations-scope-cannot-sustain-an-arbitral-award-delhi-high-court/"
+  ],
+  "note": "Case number (O.M.P. (COMM) 351/2023), Justice Avneesh Jhingan's 3 Aug 2026 decision, the Rs 5.16 crore/USD 60,769 award figure, the setting aside of the future O&M component under Section 34(2)(a)(iv), the natural-justice finding under Section 34(2)(a)(iii), the severability reasoning, and the upholding of the principal claim while rejecting NHAI's limitation defence are all independently confirmed."
  }
 ]
