@@ -1,0 +1,87 @@
+{
+  "slug": "rera-forfeiture-allotment-cancellation-cap-guide",
+  "title": "Can a Builder Cancel Your Allotment and Keep Your Whole Payment? RERA's Limits on Forfeiture Clauses",
+  "meta_description": "How RERA authorities and the Supreme Court have capped what a builder can forfeit on cancelling an allotment, whatever the agreement itself says.",
+  "practice_area": "Real Estate & RERA",
+  "intro": [
+    "A builder-buyer agreement will almost always let the developer forfeit a chunk of the money paid, described as earnest money, if the buyer defaults on instalments or decides to withdraw. Many of these clauses are written to allow forfeiture of twenty percent or more of the total sale consideration, and buyers who read the clause before signing often assume that figure is simply what the law permits. It is not. RERA authorities in several states, and the Supreme Court itself in a 2025 ruling, have treated an unreasonably large forfeiture clause as an unenforceable penalty rather than a genuine, agreed pre-estimate of the builder's loss.",
+    "There is no single, uniform national percentage that applies everywhere; what exists instead is a set of authority-specific caps and a Supreme Court decision setting the outer principle, and a buyer or builder needs to know which applies to the specific state and the specific kind of cancellation in question."
+  ],
+  "sections": [
+    {
+      "heading": "The Supreme Court's position: forfeiture has to be reasonable, not whatever the contract says",
+      "paragraphs": [
+        "In Godrej Projects Development Limited v. Anil Karlekar, decided on 3 February 2025 and reported as 2025 INSC 143, the Supreme Court dealt with a buyer who had booked an apartment in Godrej's 'Summit' project in Gurgaon back in January 2014, and sought cancellation and a refund in 2017 after possession was offered, during a market slump. The builder's agreement allowed it to forfeit the entire earnest money, fixed at twenty percent of the basic sale price, on cancellation.",
+        "The Supreme Court held that forfeiting a reasonable amount of earnest money is permissible, and is not a penalty under Section 74 of the Indian Contract Act, 1872, provided the amount is not excessive. Twenty percent, on the facts before the Court, was held excessive, and the Court limited the builder's entitlement to ten percent of the basic sale price, upholding the NCDRC's underlying decision on that point while disagreeing with the interest rate the NCDRC had separately ordered on the refund. The reasoning draws on the Consumer Protection Act, 2019's treatment of one-sided, unfair contract terms, and on a line of earlier rulings against builder clauses that tilt heavily in the developer's favour."
+      ]
+    },
+    {
+      "heading": "Haryana RERA: a 10 percent cap, applied both ways",
+      "paragraphs": [
+        "Haryana RERA has gone further than simply applying the Supreme Court's general reasonableness principle case by case; its own Forfeiture of Earnest Money Regulations, 2018 fix a specific ceiling. Regulation 11(5) permits forfeiture of at most 10 percent of the earnest money or sale consideration, and the Authority has treated any builder-buyer agreement clause allowing a higher forfeiture as void and not binding on the buyer, regardless of what the parties originally agreed. The point that matters most for a buyer assessing a dispute is that this cap has been applied in both directions: where the builder cancels the allotment over a buyer's default, and where the buyer initiates the withdrawal, the same 10 percent ceiling governs what can be kept.",
+        "The cap does have a floor built into its practical operation. In Ashok Bindra v. Emaar MGF, the buyer had paid less than 10 percent of the total sale consideration before the booking was cancelled, and the Authority held the builder was entitled to forfeit that entire amount, since it fell within, rather than exceeding, the permitted ceiling. A buyer who has paid comparatively little into a booking should not assume the 10 percent rule automatically guarantees any refund at all; it only protects amounts paid beyond that ceiling."
+      ]
+    },
+    {
+      "heading": "MahaRERA's stricter line, and its retrospective reach",
+      "paragraphs": [
+        "Maharashtra's regulator has taken a noticeably tighter position for a specific category of cancellation. Under MahaRERA's Order No. 35/2022, dated 12 August 2022, a developer can retain only 2 percent of the amount paid where a homebuyer initiates cancellation before the registered agreement for sale has actually been executed, with the balance to be refunded. MahaRERA has applied this 2 percent cap even where the developer's own booking form purported to allow a materially higher forfeiture, and even where the project itself had been registered well before the 2022 order was issued, treating the cap as applying retrospectively rather than only to bookings made after August 2022.",
+        "That retrospective application has been contested by developers, who have argued a 2022 circular cannot reach back to govern a booking form signed years earlier, but MahaRERA has not accepted that argument in the orders reported so far. Buyers who booked under an older agreement permitting a larger forfeiture should not assume that older clause survives scrutiny simply because it predates the 2022 order; MahaRERA's own practice suggests otherwise."
+      ]
+    },
+    {
+      "heading": "Why there is no single pan-India percentage, and what that means practically",
+      "paragraphs": [
+        "RERA itself does not fix a uniform national forfeiture percentage; the 10 percent and 2 percent figures described above are authority-specific regulations and orders, not provisions of the Real Estate (Regulation and Development) Act, 2016 itself. A buyer or builder operating across more than one state cannot assume the cap that applies in Haryana will automatically apply in Maharashtra, or vice versa, and should check the specific state authority's regulations and recent orders rather than relying on a figure picked up from a different state's dispute.",
+        "What does travel across states is the underlying principle the Supreme Court articulated in the Godrej Projects ruling: a forfeiture clause that functions as a penalty rather than a genuine pre-estimate of loss is vulnerable to being read down, whatever specific percentage a particular state's RERA authority happens to have settled on. A builder drafting a forfeiture clause for use across multiple states would do better to anchor it to the stricter end of the range actually being enforced, rather than to the figure that happens to be most favourable to the developer."
+      ]
+    },
+    {
+      "heading": "What a buyer should actually do when facing a cancellation notice",
+      "paragraphs": [
+        "A buyer served with an allotment cancellation notice, or considering withdrawing and expecting a dispute over the refund, should first identify which state's RERA authority has jurisdiction and check that authority's specific regulations and recent orders on forfeiture, rather than assuming the builder-buyer agreement's own figure is simply the governing rule. Where the authority has set a specific cap, whether Haryana's 10 percent or MahaRERA's stricter 2 percent for pre-agreement cancellations, that cap, not the contractual clause, becomes the ceiling the builder can actually enforce.",
+        "The practical remedy is a RERA complaint seeking refund of whatever has been withheld beyond the recognised cap, together with interest on the refundable amount. A buyer should not treat the builder's deduction as final simply because the agreement appeared to authorise it; the agreement's own forfeiture figure is exactly what these RERA orders, and the Supreme Court's ruling, have shown can be challenged and reduced."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a builder forfeit the entire earnest money if a buyer defaults?",
+      "a": "Not automatically. The Supreme Court has held that forfeiture of a reasonable amount is permissible, but an excessive figure, such as 20 percent of the basic sale price in the Godrej Projects case, can be read down to a lower, reasonable amount, there capped at 10 percent."
+    },
+    {
+      "q": "Is there one fixed percentage that applies to forfeiture clauses across India?",
+      "a": "No. RERA itself does not set a single national percentage. Different state authorities have set their own caps through specific regulations or orders, such as Haryana's 10 percent ceiling and MahaRERA's 2 percent cap for pre-agreement cancellations, so the applicable figure depends on the state."
+    },
+    {
+      "q": "What is MahaRERA's 2 percent cap, and when does it apply?",
+      "a": "Under MahaRERA's Order No. 35/2022, a developer can retain only 2 percent of the amount paid where a homebuyer cancels before the registered agreement for sale is executed. MahaRERA has applied this cap even to projects registered before the order, treating it as retrospective."
+    },
+    {
+      "q": "Does the forfeiture cap apply if the builder cancels, or only if the buyer withdraws?",
+      "a": "Haryana RERA's 10 percent cap has been applied to both situations: a builder-initiated cancellation over buyer default, and a buyer-initiated withdrawal. The applicable cap in any given state should always be checked against that state's own specific regulations rather than simply assumed from another state's rule."
+    },
+    {
+      "q": "What can a buyer do if a builder refuses to refund beyond the deducted percentage?",
+      "a": "File a RERA complaint before the relevant state authority seeking refund of the amount withheld beyond the recognised cap, along with interest on the refundable sum, rather than accepting the builder's deduction as final simply because the agreement purported to authorise it."
+    }
+  ],
+  "references": [
+    "Godrej Projects Development Limited v. Anil Karlekar & Others, 2025 INSC 143, Supreme Court (3 February 2025), capping earnest money forfeiture at 10 percent of basic sale price as a reasonable, non-penal amount under Section 74 of the Indian Contract Act, 1872",
+    "Haryana Real Estate Regulatory Authority (Forfeiture of Earnest Money) Regulations, 2018, Regulation 11(5) (forfeiture capped at 10 percent of sale consideration/earnest money)",
+    "MahaRERA Order No. 35/2022, dated 12 August 2022 (2 percent forfeiture cap for homebuyer-initiated cancellation before execution of the registered agreement for sale)"
+  ],
+  "sources": [
+    "https://www.verdictum.in/court-updates/supreme-court/godrej-projects-development-limited-v-anil-karlekar-2025-insc-143-earnest-money-forfeiture-1566876",
+    "https://www.indialaw.in/blog/real-estate/sc-clarifies-forfeiture-of-earnest-money-in-real-estate/",
+    "https://thelawsuits.in/maharera-directs-godrej-real-estate-developer-to-partially-refund-forfeited-payment-to-homebuyer/",
+    "https://www.livelaw.in/amp/consumer-cases/maharera-directs-ruparel-infra-reality-to-refund-homebuyers-money-after-deducting-2-of-total-consideration-272248"
+  ],
+  "verification_notes": [
+    "Godrej Projects Development Limited v. Anil Karlekar (2025 INSC 143, decided 3 February 2025, Gurgaon 'Summit' project, booking January 2014, 20 percent BSP forfeiture clause held excessive and reduced to 10 percent, reasoning anchored in Section 74 of the Indian Contract Act and the Consumer Protection Act, 2019's unfair-contract-term provisions) is confirmed across at least three independent sources: verdictum.in, jsalaw.com and indialaw.in.",
+    "Haryana RERA's 10 percent forfeiture cap under Regulation 11(5) of its 2018 Forfeiture of Earnest Money Regulations, applied to both builder-cancellation and buyer-withdrawal scenarios, and the Ashok Bindra v. Emaar MGF outcome (forfeiture upheld because the amount paid was itself below the 10 percent threshold), are confirmed via multiple Haryana RERA order excerpts and livelaw.in's reporting found in research, with the specific regulation number corroborated across more than one order summary.",
+    "MahaRERA's 2 percent cap under Order No. 35/2022 dated 12 August 2022, and its retrospective application to already-registered projects despite developer objections, are confirmed across at least three independent sources: thelawsuits.in, therealtytoday.com and livelaw.in, covering the Godrej Emerald, Ruparel Infra and Piramal Estates orders.",
+    "One source (propnewstime.com, reporting the Piramal Estates order) suggested a broader proposition that any forfeiture exceeding 10 percent of total consideration is illegal under RERA generally, which appears inconsistent with MahaRERA's own stricter 2 percent cap for pre-agreement cancellations reported in the same set of orders; given this inconsistency across sources, the guide presents only the specific, source-confirmed figures (Haryana's 10 percent, MahaRERA's 2 percent for pre-agreement cancellations) and does not assert a general 10 percent ceiling as a uniform rule.",
+    "The proposition that RERA itself (the central Act) does not fix a uniform national forfeiture percentage, and that the specific percentages are authority-level regulations or orders rather than statutory provisions, reflects the consistent characterisation across all sources reviewed, none of which pointed to a provision of the Real Estate (Regulation and Development) Act, 2016 itself fixing such a figure."
+  ]
+}

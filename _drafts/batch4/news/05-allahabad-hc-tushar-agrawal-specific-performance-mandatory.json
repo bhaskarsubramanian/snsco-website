@@ -1,0 +1,36 @@
+{
+  "slug": "allahabad-hc-tushar-agrawal-specific-performance-mandatory",
+  "title": "Specific Performance Is Mandatory After 2018 Amendment, Not Discretionary: Allahabad High Court",
+  "meta_description": "Allahabad High Court upholds a specific performance decree, holding that after the 2018 amendment courts must enforce registered sale agreements.",
+  "practice_area": "Property & Civil Litigation",
+  "court": "Allahabad High Court",
+  "bench": "Not confirmed in sources reviewed",
+  "case_name": "Tushar Agrawal v. Ganesh Prasad",
+  "citation": "2026 LiveLaw (AB) 383; 2026AHC133431",
+  "decision_date": "2026-07-10",
+  "reported_by": [
+    "LiveLaw",
+    "Verdictum",
+    "Courtbook",
+    "LawTrend"
+  ],
+  "sources": [
+    "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-specific-performance-contract-mandatory-after-2018amendment-540670",
+    "https://www.verdictum.in/allahabad-high-court/tushar-agrawal-v-ganesh-prasad-2026ahc133431-specific-performance-no-longer-discretionary-2018-amendment-1617343",
+    "https://courtbook.in/posts/allahabad-high-court-upholds-specific-performance-decree-orders-seller-to-honour-registered-property-sale-agreement",
+    "https://lawtrend.in/?p=352810"
+  ],
+  "body": [
+    "A seller who signs a registered agreement to sell and then has second thoughts usually reaches for one of two defences: that the agreement was never really meant to be acted upon, or that he never really signed it at all. Tushar Agrawal tried the second line before the Allahabad High Court, and lost, in a ruling that also settles how far the 2018 overhaul of the Specific Relief Act has changed the odds for buyers chasing specific performance.",
+    "The underlying facts were simple enough. Ganesh Prasad and Agrawal had entered a registered agreement to sell a house in Bhadohi, dated 30 December 2019. When the sale did not go through, Prasad sued for specific performance, and the trial court decreed the suit on 11 March 2025, directing Agrawal to execute the sale deed within two months of Prasad depositing the outstanding Rs 10 lakh. Agrawal appealed under Section 96 of the Code of Civil Procedure, arguing that his signatures had been obtained on blank papers rather than on the agreement as it stood.",
+    "That defence did not hold up on its own terms, in the High Court's assessment. Agrawal had filed no police complaint about the alleged blank-paper fraud and no suit to cancel the agreement, the two steps a person genuinely victimised in that way would ordinarily be expected to take, and years had passed with no such step taken before the fraud claim surfaced as a defence to the suit. Against that silence, the Court applied the settled principle that a registered document carries a strong presumption of valid execution and genuineness, a presumption the party alleging fraud has to displace with cogent evidence rather than a bare assertion raised for the first time in defence.",
+    "Beyond the facts of this one agreement, the judgment is notable for how it reads the Specific Relief (Amendment) Act, 2018, which took effect from 1 October 2018 and rewrote Section 10 of the Specific Relief Act, 1963. Before that amendment, specific performance was a discretionary remedy a court could refuse even where a valid contract was proved, if it judged damages to be adequate compensation instead. The amended Section 10 flips that default: specific performance is now the relief a court must grant once a valid contract is proved, subject only to the exceptions carved out in Sections 11(2), 14 and 16 of the Act.",
+    "The Court held that this mandatory regime applied to the Bhadohi agreement because, following the Supreme Court's reasoning in P. Daivasigamani v. S. Sambandan, the 2018 amendment operates prospectively, governing agreements executed on or after 1 October 2018. Since the agreement between Agrawal and Prasad was dated December 2019, well after the cut-off, the amended, mandatory version of Section 10 applied in full, and the trial court's decree was not a matter of discretion the appellate court could second-guess, but a result the statute itself compelled once the agreement and its breach were proved.",
+    "For agreements signed before October 2018, courts retain the older discretionary power to weigh whether damages would do just as well as a conveyance. That distinction matters enormously in a country where property litigation routinely drags on for years after the underlying agreement was signed, so lawyers advising on specific performance claims need to check the execution date of the agreement itself before assuming which version of Section 10 governs, rather than assuming the current, buyer-friendly regime automatically applies to every pending suit.",
+    "The practical message for sellers tempted to walk away from a registered agreement is correspondingly blunt. A bare claim that signatures were obtained on blank paper will not survive scrutiny if the seller never backed it with a police complaint or a cancellation suit filed anywhere close to the time the allegation first arose. Combined with the post-2018 mandatory reading of Section 10, a seller who signed after October 2018 and now wants out of a bad bargain has very little room left to manoeuvre once the buyer has paid, or stands ready to pay, the agreed price."
+  ],
+  "why_it_matters": "For agreements to sell executed on or after 1 October 2018, courts must grant specific performance once the contract and its breach are proved, subject only to the statutory exceptions in Sections 11(2), 14 and 16 of the Specific Relief Act. Sellers resisting such claims on an unpleaded fraud defence need contemporaneous evidence, such as a police complaint or cancellation suit, not a bare allegation raised only once sued.",
+  "card_summary": "Allahabad High Court upholds a specific performance decree, holding that post-2018 amendment, courts must enforce registered agreements to sell rather than treating the relief as discretionary.",
+  "card_tip": "Check the execution date of an agreement to sell before assessing a specific performance claim: agreements from on or after 1 October 2018 attract the amended, largely mandatory Section 10 regime.",
+  "verification_notes": "The parties, the registered agreement's date (30 December 2019), the trial court decree date (11 March 2025), the two-month timeline for executing the sale deed, the unsubstantiated fraud defence, and the holding on the prospective, mandatory application of the 2018 amendment to Section 10 are confirmed across LiveLaw, Verdictum, Courtbook and LawTrend. The exact date the High Court pronounced its judgment was not separately stated in any source beyond LiveLaw's own report date of 10 July 2026, which this article uses as the decision date; the panel of judges was not confirmed in the sources reviewed."
+}

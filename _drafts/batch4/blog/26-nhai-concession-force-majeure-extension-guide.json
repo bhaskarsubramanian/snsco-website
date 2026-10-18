@@ -1,0 +1,81 @@
+{
+  "slug": "nhai-concession-force-majeure-extension-guide",
+  "title": "Force Majeure and NHAI Concessions: How a Pandemic-Era Disruption Becomes an Extension of Your Concession Term",
+  "meta_description": "How a highway concessionaire proves a force majeure extension of its concession period, and why a prior settlement can block relitigating the same claim.",
+  "practice_area": "Infrastructure & PPP",
+  "intro": [
+    "Most NHAI concession agreements let a force majeure event that disrupts toll collection translate into an extension of the concession period itself, on the basic logic that a concessionaire should not lose operating days it never actually got to enjoy. COVID-19 produced the clearest test of that mechanism at scale, with toll plazas suspended by government order for weeks and depressed well beyond that, and a July 2026 Delhi High Court ruling on the Nagpur-Kondhali stretch of NH-6 shows both how that extension gets proved and how far NHAI's resistance to it can go before a court steps in.",
+    "This guide walks through what a concessionaire actually has to establish to get an extension beyond the period NHAI concedes administratively, and why a settlement reached earlier in the concession's life can foreclose a related counterclaim years later."
+  ],
+  "sections": [
+    {
+      "heading": "How the Extension Mechanism Works in a BOT Concession",
+      "paragraphs": [
+        "A typical NHAI Build-Operate-Transfer concession agreement treats a force majeure event, defined broadly enough to cover government-ordered suspensions and comparable disruptions, as grounds for extending the concession period by a period reasonably connected to the disruption. The underlying idea is straightforward: the concessionaire bargained for a fixed number of effective operating days to recover its investment through toll revenue, and a disruption outside its control that takes away operating days should be added back rather than absorbed as a loss.",
+        "What is not straightforward, and what tends to generate the dispute, is quantifying exactly how many days of disruption actually qualify. NHAI's administrative practice has generally been to grant the clearer, shorter period, full suspension days where toll collection stopped entirely under a government circular, while treating the longer tail of merely depressed, below-normal collection as a matter to be proved and fought out separately, usually in arbitration, rather than conceded upfront."
+      ]
+    },
+    {
+      "heading": "The Nagpur-Kondhali Dispute and What the Tribunal Found",
+      "paragraphs": [
+        "The Nagpur-Kondhali concession, covering a four-laning, operation and maintenance project on NH-6 under a BOT agreement dated 9 December 2005, had a concession period running from June 2006 and due to end in June 2026. When COVID-19 hit, the concessionaire's toll collection went through a period of complete suspension and then a further stretch of substantially reduced collection. The concessionaire claimed a 53-day extension in total, made up of 25 days of complete suspension and 28 days of depressed collection. NHAI, consistent with its usual administrative pattern, granted the 25 days outright and left the additional 28 days to be contested.",
+        "The arbitral tribunal went on to find the full 53-day extension justified, holding that the 28 days of depressed, though not entirely suspended, collection were also compensable once the concessionaire proved the extent of the disruption with its own data. NHAI challenged that award under Section 34, arguing that the tribunal had exceeded its jurisdiction and that the applicable clause, 29.6(c), permitted an extension only for complete suspension, not for the merely depressed-collection period."
+      ]
+    },
+    {
+      "heading": "What the Delhi High Court Did With NHAI's Section 34 Challenge",
+      "paragraphs": [
+        "The Delhi High Court rejected NHAI's challenge and upheld the full 53-day extension. The outcome turned on the narrow standard a court applies under Section 34: it will not set aside an award merely because a different reading of the concession clause or the relevant policy circular was also available, so long as the tribunal's interpretation was a plausible one grounded in the contract and the evidence actually led. The tribunal's reliance on the policy circular dated 26 May 2020, which NHAI argued it had misapplied, was treated as a question of contractual interpretation squarely within the tribunal's domain, not a jurisdictional error opening the door to interference.",
+        "This is the recurring pattern in NHAI concession arbitration challenges generally: an award that draws a reasoned, evidence-based line between compensable and non-compensable disruption is very hard to dislodge at the Section 34 stage, even where NHAI genuinely believes the tribunal drew that line too generously. A concessionaire preparing this kind of claim should take real comfort from that pattern, provided its own evidentiary case is built carefully in the first place."
+      ]
+    },
+    {
+      "heading": "Why NHAI's ₹18.75 Crore Counterclaim Failed",
+      "paragraphs": [
+        "Alongside its challenge to the extension, NHAI pressed a counterclaim worth roughly ₹18.75 crore, connected to the de-scoping of certain service road works under the concession. The court rejected this counterclaim on the ground that it had already been resolved by an earlier settlement agreement reached during the life of the concession. The principle at work here is a basic one but easy to lose sight of in a long-running infrastructure relationship: once a settlement agreement resolves a specific claim, that issue is closed for good, and a party cannot later dress up the same resolved claim as a fresh counterclaim in a subsequent, unrelated arbitration simply because a different dispute has brought the parties back to the table.",
+        "For both NHAI and concessionaires, the practical lesson is to document settlement agreements covering specific scope or payment issues with enough precision that neither side can later argue the settlement did not really dispose of the point. A settlement that is vague about exactly what it resolved invites exactly this kind of relitigation attempt years later, when memories have faded and the parties are already in an adversarial posture over something else."
+      ]
+    },
+    {
+      "heading": "What a Concessionaire Should Actually Document During a Disruption",
+      "paragraphs": [
+        "The evidentiary gap between the easy, conceded suspension days and the harder, contested depressed-collection days is where most of these disputes are actually won or lost. A concessionaire wanting to prove the longer tail needs contemporaneous toll-collection data, ideally day by day, showing the extent to which collection fell below a reasonable pre-disruption baseline, not just an assertion that business was bad for a defined stretch after the suspension order lifted. Data that can be benchmarked against comparable stretches of highway, or against the same route's own traffic in a normal period, carries far more weight than a bare revenue figure presented without that context.",
+        "Concessionaires should also keep a close eye on how government policy circulars addressing the disruption are worded, since those circulars often become the interpretive battleground in the arbitration that follows, as they did here. Treating the circular's precise language as a live issue from the outset, rather than assuming its general thrust will carry the day, puts a concessionaire in a stronger position when NHAI inevitably argues for the narrowest possible reading at the arbitration stage."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a force majeure event automatically extend my NHAI concession period?",
+      "a": "Not automatically to the full extent claimed. Most concession agreements allow an extension for a force majeure disruption, but NHAI's practice is to grant the clearer, fully-suspended period administratively and leave any additional, merely depressed-collection period to be proved, typically in arbitration, as happened in the Nagpur-Kondhali dispute."
+    },
+    {
+      "q": "What did the Delhi High Court decide in the Nagpur-Kondhali NH-6 case?",
+      "a": "It upheld an arbitral award granting the concessionaire a 53-day concession extension for COVID-19 disruption, comprising 25 days of complete toll suspension and 28 days of depressed collection, and rejected NHAI's Section 34 challenge and its separate ₹18.75 crore counterclaim over service road de-scoping, which had already been resolved by an earlier settlement."
+    },
+    {
+      "q": "What evidence do I need to prove a depressed-collection extension claim?",
+      "a": "Contemporaneous, day-by-day toll-collection data showing the extent of the shortfall against a reasonable pre-disruption baseline, ideally benchmarked against comparable periods or routes. A bare assertion that collections were low for a given stretch, without that comparative data, is a much weaker basis for an arbitral claim."
+    },
+    {
+      "q": "Can NHAI reopen a claim that was already settled earlier in the concession?",
+      "a": "Generally not. Once a settlement agreement resolves a specific claim, that issue is closed, and a party cannot dress up the same resolved claim as a fresh counterclaim in a later, unrelated arbitration, as the Delhi High Court held when it rejected NHAI's counterclaim in the Nagpur-Kondhali dispute."
+    },
+    {
+      "q": "How hard is it to challenge an arbitral award on a concession extension under Section 34?",
+      "a": "Quite hard, provided the tribunal's interpretation of the concession clause was a plausible one grounded in the contract and the evidence led. A court will not set aside an award merely because it might have read the clause or a related policy circular differently, which is why NHAI's challenge in this case failed."
+    }
+  ],
+  "references": [
+    "NHAI Nagpur-Kondhali NH-6 Concession Agreement, dated 9 December 2005, Clause 29.6(c)",
+    "Arbitration and Conciliation Act, 1996, Section 34",
+    "National Highways Authority of India v. Atlanta Ltd (Delhi High Court, July 2026, OMP (Comm) petition)",
+    "Ministry of Road Transport and Highways policy circular dated 26 May 2020 (COVID-19 toll suspension)"
+  ],
+  "sources": [
+    "https://rawlaw.in/delhi-high-court-upholds-53-day-covid-concession-extension-for-highway-operator-and-rejects-nhais-%e2%82%b918-75-crore-counterclaim/",
+    "https://www.livelawbiz.com/pdf_upload/2026/07/24/nhai-v-atlanta-689111.pdf",
+    "https://rawlaw.in/wp-content/uploads/2026/07/NATIONAL-HIGHWAYS-AUTHORITY-OF-INDIA-1.pdf"
+  ],
+  "verification_notes": "Nagpur-Kondhali facts (concession agreement dated 9 December 2005, period June 2006 to June 2026, 53-day extension comprising 25 full-suspension and 28 depressed-collection days, NHAI's Section 34 challenge and its ₹18.75 crore counterclaim rejected, counterclaim barred by an earlier settlement over service road de-scoping, July 2026 Delhi High Court ruling) confirmed via Rawlaw's reporting and the underlying case PDF filename (NHAI v. Atlanta) from LiveLawBiz's document upload. Exact bench and full judgment date were not independently confirmed from a second narrative source beyond Rawlaw's own report, so the text states the month and year (July 2026) without naming the bench. Clause 29.6(c) and the 26 May 2020 policy circular reference are taken from Rawlaw's account of NHAI's argument; the guide notes, per the research queue, that concession clause wording varies by agreement vintage and should not be read as a universally worded provision. The Section 34 standard of review (plausible interpretation, not reweighing evidence) is stated as the general, well-established legal standard rather than attributed to a specific quoted line from this judgment."
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "fssai-batch-specific-recall-scope-guide",
+  "title": "FSSAI Recalled One Batch: Why That Does Not Automatically Condemn Your Entire Product Line",
+  "meta_description": "What an FSSAI batch-specific recall legally covers, how the Everest cumin powder case shows it in practice, and how to communicate it without overreacting.",
+  "practice_area": "Food Safety & FSSAI",
+  "intro": [
+    "A food business operator gets the call that no one wants: FSSAI has found pesticide residue or some other contaminant above the prescribed limit in a sample, and a recall order is on its way. Within hours, the product's name is on every news aggregator, and distributors start asking whether they should pull every pack on the shelf with that brand name, not just the implicated batch. This is the moment a manufacturer's own legal and communications instincts matter as much as its compliance process, because the regulatory finding and the public reaction to it are not the same thing, and conflating them can do more commercial damage than the finding itself.",
+    "This guide looks at what an FSSAI recall order actually covers in law, using the 2026 Everest cumin powder recall as a worked example, and sets out what a manufacturer needs on hand to make the batch-specific point stick if challenged."
+  ],
+  "sections": [
+    {
+      "heading": "What a Recall Order Is Actually Tied To",
+      "paragraphs": [
+        "An FSSAI recall under the Food Safety and Standards (Food Recall Procedure) Regulations, 2017 is triggered by a specific unsafe or non-conforming finding, and the regulations define the food under recall by reference to the specific lot, batch or code number involved, not the product as a whole. When a regulatory sample tests unsafe, the finding is a statement about that batch, taken from that location, tested on that date, not a general verdict on every unit the manufacturer has ever produced under the same brand name.",
+        "The recall order itself will identify the batch number the finding relates to, and the food business operator's obligations under the Regulations flow from that identification: executing a recall plan for the affected batch, notifying the authority within 24 hours of becoming aware of the issue, and submitting periodic status reports on the recall's progress. None of this creates, or requires, a finding about batches that were not tested and are not named in the order."
+      ]
+    },
+    {
+      "heading": "The Everest Cumin Powder Recall as a Worked Example",
+      "paragraphs": [
+        "In October 2026, FSSAI ordered Everest Food Products to recall a specific batch of its pre-packed cumin powder, identified by batch number, after a sample collected from a hotel's premises in Goa tested unsafe for pesticide residues, specifically azoxystrobin and thiamethoxam, found above the prescribed maximum limits on referral testing. The recall order and FSSAI's own public statements were explicit that the finding related only to the implicated batch and should not be read as a finding against all Everest cumin powder products generally.",
+        "That explicit clarification matters. It shows FSSAI itself distinguishing between a batch-specific unsafe finding and a product-wide safety claim, which is exactly the distinction a manufacturer in this position should be repeating in its own communications rather than hoping the distinction holds on its own in public reporting. Left alone, a headline reading simply that a named brand's product has been recalled tends to get read by consumers and trade partners as a blanket statement about the brand, not the narrower, batch-specific finding the regulator actually made."
+      ]
+    },
+    {
+      "heading": "Why Overreacting Publicly Can Cost More Than the Finding Itself",
+      "paragraphs": [
+        "A manufacturer's first instinct is sometimes to issue a sweeping, defensive statement covering the entire product line, either out of excess caution or because drafting a precise, batch-specific statement under pressure is harder than it sounds. That instinct usually backfires. A blanket statement implicitly concedes a scope of risk the regulatory finding never established, hands distributors and retailers a reason to pull unaffected stock they were never asked to pull, and can do more lasting commercial harm than the narrower, batch-specific recall itself would have done if communicated accurately from the start.",
+        "The better discipline is to mirror the actual legal scope of the recall in every external communication: name the specific batch or lot number, state plainly that other batches are not implicated by this finding, and avoid language that reads as an admission about the product line as a whole. Where FSSAI itself has made a similar clarifying statement, as it did with the Everest matter, referencing that statement directly adds credibility that a manufacturer's own unsupported assurance would lack on its own."
+      ]
+    },
+    {
+      "heading": "What You Need on Hand to Make the Distinction Stick",
+      "paragraphs": [
+        "The batch-specific defence is only as strong as the traceability records behind it. The Food Recall Procedure Regulations require distribution records, including supplier and customer details, dates of purchase and delivery, lot or batch code, pack size, and manufacture, expiry and best-before dates, to be retained for at least one year after the best-before or expiry date, with a longer two-year retention period for alcoholic beverages. A manufacturer that can produce clean, specific batch-tracking records for the unaffected production runs is in a far stronger position to say, credibly, that the problem is confined to one identified batch, than one that cannot show its traceability system actually separates batches with any precision.",
+        "This means the time to get traceability records in order is well before any recall, not after one lands. A business that discovers, mid-crisis, that its own batch codes do not map cleanly onto specific production runs and raw material lots has no good way to substantiate the batch-specific framing it wants the public to accept, however true that framing might actually be."
+      ]
+    },
+    {
+      "heading": "How This Fits With the General Recall Compliance Process",
+      "paragraphs": [
+        "This guide is deliberately narrower than a general walkthrough of FSSAI's recall compliance mechanics, which involves its own separate obligations around recall plans, the 24-hour notification window, and periodic status reporting to the authority. Those compliance steps still have to happen regardless of how the recall is framed publicly, and getting them right is itself part of managing the regulatory relationship well. What this guide adds is the layer on top of compliance: once the recall notice is out and the compliance machinery is running, how the business frames the scope of what happened to the people who were never going to read the regulation itself, namely customers, distributors, and retailers deciding in real time whether to keep selling every other batch of the product on their shelves.",
+        "In-house counsel and the quality team should treat the compliance filing and the public statement as two separate drafting exercises reviewed by two different lenses, even though they describe the same underlying event. The compliance filing has to be accurate and complete for the regulator's purposes, including every batch and quantity recovered. The public statement should be accurate too, but its purpose is narrower: to stop an accurate, narrow finding from being misread by people with no reason to parse a gazette notification. Keeping those two documents distinct, rather than drafting one and repurposing it for the other audience, usually produces a cleaner result for both."
+      ]
+    },
+    {
+      "heading": "What a Retailer or Distributor Should Actually Do",
+      "paragraphs": [
+        "Distributors and retailers sitting on unaffected stock of a recalled brand face their own, separate decision, and the batch-specific framing matters to them just as much as it does to the manufacturer. A retailer's obligation is to check the batch or lot number on its own shelf stock against the batch identified in the recall order, not to pull every unit carrying the brand name as a precaution. Doing the latter when it is not required can create its own commercial dispute with the manufacturer over unnecessary stock withdrawal and lost sales, particularly where the manufacturer can show, through its own traceability records, that the withdrawn stock was never part of the affected batch in the first place.",
+        "Where a retailer is genuinely unable to confirm batch numbers against its own stock, perhaps because its own inventory records do not track batch codes with any precision, that gap becomes the retailer's own compliance weakness to fix, not a reason to treat the manufacturer's entire product line as presumptively unsafe."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does an FSSAI recall order cover my entire product line or just the tested batch?",
+      "a": "Just the tested batch, as a matter of how the Food Recall Procedure Regulations, 2017 define the food under recall, by specific lot, batch or code number. The order itself will identify the affected batch, and that identification is the legal scope of the finding, not the brand or product line generally."
+    },
+    {
+      "q": "Can I say publicly that other batches of my product are safe?",
+      "a": "Yes, provided you can substantiate it with batch-tracking and quality-control records showing the unaffected batches are genuinely distinct from the recalled one. State the specific batch number involved and avoid language suggesting uncertainty about the rest of the line, since vague or defensive wording tends to get read as covering the whole brand."
+    },
+    {
+      "q": "What records do I need to support a batch-specific recall defence?",
+      "a": "Distribution and traceability records showing lot or batch codes, supplier and customer details, purchase and delivery dates, and manufacture, expiry and best-before dates, retained for at least a year past the best-before date under the Food Recall Procedure Regulations. Clean records for unaffected batches are what actually makes the batch-specific claim credible if challenged."
+    },
+    {
+      "q": "What are my immediate obligations once FSSAI issues a recall order?",
+      "a": "Executing the recall plan for the identified batch, notifying the authority within 24 hours of becoming aware of the issue, and submitting periodic status reports on the recall's progress, as required under the 2017 Regulations. These compliance steps run alongside, and are distinct from, how you communicate the recall's scope publicly."
+    },
+    {
+      "q": "What did FSSAI say about the scope of the Everest cumin powder recall?",
+      "a": "FSSAI's own clarification, reported alongside the October 2026 recall order, stated that the unsafe finding related only to the implicated batch, identified by batch number, and should not be read as applying to all Everest cumin powder products generally. Coverage of the order also noted an unrelated licence suspension against a different food business over hygiene issues."
+    }
+  ],
+  "references": [
+    "Food Safety and Standards (Food Recall Procedure) Regulations, 2017",
+    "Food Safety and Standards Act, 2006, Section 28 (Recall of unsafe food)",
+    "FSSAI recall order, Everest Food Products, cumin powder, Batch No. E080668761 (October 2026)"
+  ],
+  "sources": [
+    "https://www.businesstoday.in/india/story/unsafe-fssai-orders-recall-of-everest-cumin-powder-batch-after-pesticide-residues-found-above-limits-559413-2026-10-04",
+    "https://www.moneylife.in/article/fssai-orders-everest-cumin-powder-recall-suspends-creative-bakers-licence-nestl-dairy-whitener-sample-found-unsafe/81849.html",
+    "https://www.outlookbusiness.com/news/fssai-orders-everest-food-to-recall-pre-packed-cumin-powder-from-market",
+    "https://foodsafetyhelpline.com/fssai-issues-final-gazette-notification-related-food-recall-procedure-regulation/"
+  ],
+  "verification_notes": "Everest cumin powder recall facts (batch number E080668761, October 2026 date, contaminants azoxystrobin and thiamethoxam above prescribed limits, sample origin a Goa hotel's premises, FSSAI's clarification that the finding is batch-specific) confirmed across Business Today and Moneylife reporting; an initial hypothesis that the contaminant was ethylene oxide was checked against search results and dropped since no source supported it. Food Recall Procedure Regulations, 2017 provisions on batch/lot identification, 24-hour notification, periodic status reporting, and one-year (two-year for alcoholic beverages) distribution record retention confirmed via Food Safety Helpline's summary and cross-checked against the Casemine regulation text; exact regulation numbering within the 2017 Regulations was not independently pulled from the gazette text, so specific sub-clause numbers are not cited, only the substantive obligations as reported by two sources."
+}

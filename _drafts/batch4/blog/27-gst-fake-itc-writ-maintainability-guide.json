@@ -1,0 +1,81 @@
+{
+  "slug": "gst-fake-itc-writ-maintainability-guide",
+  "title": "Fighting a Fake ITC Demand: Why a Writ Petition Is Usually the Wrong First Move",
+  "meta_description": "Why High Courts routinely refuse writ petitions against fake GST input tax credit demands, and the extra risk of hiding a related, connected proceeding.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "A taxpayer hit with a Section 74 demand for fake input tax credit usually wants to move fast, and a writ petition feels faster than an appeal, skipping the pre-deposit and the appellate authority's own timeline in favour of going straight to the High Court. High Courts have become increasingly unwilling to let that shortcut work, and a July 2026 Gujarat High Court ruling adds a sharper warning on top of the usual alternative-remedy objection: if the taxpayer's own counsel is less than candid with the court about a connected proceeding, the writ fails on that ground too, independent of the merits.",
+    "This guide sets out why the statutory appeal under Section 107 of the CGST Act is usually the right route for a fake ITC dispute, what the Mahalaxmi Industries ruling adds to that picture, and what a taxpayer with related group entities facing parallel proceedings needs to disclose before filing anything."
+  ],
+  "sections": [
+    {
+      "heading": "Why Courts Default to the Section 107 Appeal Route",
+      "paragraphs": [
+        "Section 107 of the CGST Act gives a taxpayer an appeal to the appellate authority against an order confirming a demand, including a Section 74 demand built on an allegation of fraudulently availed input tax credit. Where that statutory remedy exists and is genuinely adequate, High Courts have consistently held that a writ petition under Article 226 challenging the same demand is not maintainable merely because the taxpayer finds the appeal route slower or less convenient than going straight to the High Court.",
+        "This is especially pronounced in fake-ITC matters because of how fact-heavy they tend to be. A typical fake ITC demand rests on an allegation that invoices were raised by non-existent or shell suppliers, which requires tracing a chain of transactions, verifying supplier existence, and weighing documentary and investigative evidence, all of which the appellate authority's fuller fact-finding process is built to handle and a writ court's more limited judicial review is not. Delhi High Court rulings in this space, including in Mukesh Kumar Garg, have described such disputes as involving a complex maze of transactions between non-existent firms, precisely the kind of factual terrain writ jurisdiction is not meant to wade into."
+      ]
+    },
+    {
+      "heading": "The Mahalaxmi Industries Ruling: Two Independent Grounds for Dismissal",
+      "paragraphs": [
+        "In Mahalaxmi Industries v. Union of India, decided on 10 July 2026 by a Gujarat High Court bench of Justices A.S. Supehia and Vaibhavi D. Nanavati, the petitioner challenged an Order-in-Original dated 23 March 2026 confirming recovery of roughly ₹1.47 crore in input tax credit allegedly claimed on invoices from non-existent Delhi-based firms. The court dismissed the writ petition, and it gave two separate, independently sufficient reasons for doing so.",
+        "The first was the ordinary alternative-remedy ground: the petitioner had an adequate statutory appeal available under Section 107 and should pursue that instead of writ jurisdiction. The second, and the one that makes this case worth remembering beyond the usual alternative-remedy line, was that the petitioner's counsel had misled the court by not disclosing that a sister concern, Mahalaxmi Metal Industries, had filed and then withdrawn a separate writ petition connected to the same show-cause notice. When the related, earlier petition came to the court's attention, counsel's failure to have raised it candidly was treated as an independent, aggravating ground for dismissal, on top of the alternative-remedy finding."
+      ]
+    },
+    {
+      "heading": "Why the Non-Disclosure Point Matters as Much as the Merits",
+      "paragraphs": [
+        "The lesson here is not really about GST law at all. It is about litigation conduct, and it applies with particular force to group entities and related businesses that tend to face parallel or connected proceedings arising from the same underlying facts, the same supplier chain, or the same show-cause notice. Where a sister concern has already approached a court on a connected issue, whether that earlier petition succeeded, failed, or was simply withdrawn, that history is part of the record a taxpayer's own petition needs to disclose honestly, because courts increasingly check for exactly this kind of overlap and treat an omission as more than an oversight.",
+        "A taxpayer with group companies should assume that connected proceedings by related entities will surface one way or another, whether through the department's own records, through opposing counsel's diligence, or through the court's own cross-referencing of case numbers tied to the same show-cause notice. Disclosing that history upfront, however unhelpful it might seem tactically, protects the credibility of the petition far more than omitting it ever could, since the Mahalaxmi Industries outcome shows a court is prepared to dismiss an otherwise arguable case purely on this ground."
+      ]
+    },
+    {
+      "heading": "When a Writ Petition Actually Is the Right Route",
+      "paragraphs": [
+        "None of this means a writ petition is never appropriate in a fake ITC dispute. Courts have carved out recognised exceptions to the alternative-remedy rule: a genuine breach of natural justice, such as an order passed without a proper hearing or without considering a reply actually filed; an order passed in clear excess of jurisdiction; or a challenge going to the vires of the statutory provision itself rather than its application to particular facts. Even within these exceptions, however, a court may still relegate the taxpayer to the Section 107 appeal if it concludes the appellate authority is equally capable of examining the natural justice or jurisdictional point alongside the merits, which several 2025 and 2026 Delhi High Court orders have done even where jurisdictional objections were specifically raised.",
+        "A taxpayer should therefore assess honestly, before filing, whether the actual complaint is about a genuine procedural failure the appellate authority cannot fix, or whether it is really just a preference to avoid the appeal's pre-deposit requirement and timeline. Courts have become adept at distinguishing the two, and 'alternative remedy exists' is likely to be the court's first and often final word on a petition that turns out to be the latter dressed up as the former."
+      ]
+    },
+    {
+      "heading": "Practical Steps Before Filing Anything",
+      "paragraphs": [
+        "Before deciding between a writ and a Section 107 appeal, a taxpayer facing a fake ITC demand should map out every connected proceeding involving related entities tied to the same supplier chain or show-cause notice, and brief counsel on the complete procedural history rather than only the specific order being challenged. This is not simply good practice; after Mahalaxmi Industries, it is close to a precondition for a writ petition surviving scrutiny at all where group entities are involved.",
+        "Where the appeal route is the realistic path, as it usually will be, the practical focus should shift to building the strongest possible factual record for the appellate authority: supplier verification documents, payment trails, transport and delivery evidence, and anything else that distinguishes a genuine transaction from the non-existent-supplier pattern the department is alleging. That fact-heavy evidentiary work is exactly what the appellate authority is equipped to weigh, and exactly what a writ court will say it is not."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I file a writ petition against a fake ITC demand instead of appealing under Section 107?",
+      "a": "Usually not successfully. High Courts have consistently held that where an adequate statutory appeal exists under Section 107 of the CGST Act, a writ petition is not maintainable merely because it would be faster or more convenient, particularly given how fact-heavy fake ITC disputes tend to be."
+    },
+    {
+      "q": "What happened in the Mahalaxmi Industries case?",
+      "a": "The Gujarat High Court dismissed a writ petition challenging a roughly ₹1.47 crore fake ITC demand on two grounds: an adequate statutory appeal existed under Section 107, and the petitioner's counsel had misled the court by not disclosing a sister concern's earlier, connected and withdrawn writ petition over the same show-cause notice."
+    },
+    {
+      "q": "Do I need to disclose a related company's earlier litigation when I file my own petition?",
+      "a": "Yes, if it concerns the same underlying facts, supplier chain, or show-cause notice. Mahalaxmi Industries shows a court treating non-disclosure of a sister concern's connected, withdrawn petition as an independent ground for dismissing an otherwise arguable case, separate from the merits."
+    },
+    {
+      "q": "Are there exceptions where a writ petition is the right route for a GST demand?",
+      "a": "Yes, for a genuine breach of natural justice, an order passed in clear excess of jurisdiction, or a challenge to the vires of the statute itself. Even then, courts sometimes still relegate the taxpayer to the Section 107 appeal if the appellate authority can examine the same point alongside the facts."
+    },
+    {
+      "q": "What should I do first if I get a Section 74 fake ITC demand?",
+      "a": "Map out every connected proceeding involving related entities tied to the same supplier chain or notice, brief counsel on the full procedural history, and assess honestly whether a writ exception genuinely applies before defaulting to the Section 107 appeal, which remains the standard route for most fake ITC disputes."
+    }
+  ],
+  "references": [
+    "Central Goods and Services Tax Act, 2017, Sections 74 and 107",
+    "Mahalaxmi Industries v. Union of India (Gujarat High Court, 10 July 2026)",
+    "Mukesh Kumar Garg v. Union of India, W.P.(C) 5737 of 2025 (Delhi High Court)"
+  ],
+  "sources": [
+    "https://www.taxscan.in/top-stories/gujarat-hc-dismisses-writ-challenging-rs-146-cr-fake-gst-itc-demand-after-advocate-misled-the-court-1448918",
+    "https://thetaxcorp.in/article/gujarat-high-court-dismisses-fake-itc-writ-petition-worth-146-crore-after",
+    "https://blog.saginfotech.com/gujarat-hc-rejects-plea-fake-gst-itc-misleading-submissions-court",
+    "https://www.taxheal.com/w-p-c-no-5737-of-2025.html"
+  ],
+  "verification_notes": "Mahalaxmi Industries facts (Order-in-Original dated 23 March 2026, Section 74, approximately Rs 1.46-1.47 crore demand, non-existent Delhi firms, bench of Justices A.S. Supehia and Vaibhavi D. Nanavati, 10 July 2026, dismissal on both alternative-remedy and misleading-the-court grounds, sister concern Mahalaxmi Metal Industries' withdrawn petition) confirmed across TaxScan, TheTaxCorp and SAG Infotech reporting; sources gave the demand figure as both Rs 1.46 crore and Rs 1.47 crore, so both are mentioned to reflect the discrepancy rather than picking one as definitive. Mukesh Kumar Garg holding (writ ordinarily not maintainable for fraudulent-ITC disputes given their fact-heavy, complex-transaction character) confirmed via TaxHeal's summary of W.P.(C) 5737/2025. Recognised exceptions to the alternative-remedy rule (natural justice breach, excess of jurisdiction, vires challenge) stated in general terms consistent with established administrative law doctrine and TaxHeal's commentary on 2025-2026 Delhi High Court orders, rather than tied to one specific unverified case name."
+}

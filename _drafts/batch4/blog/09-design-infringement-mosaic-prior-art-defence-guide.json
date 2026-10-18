@@ -1,0 +1,94 @@
+{
+  "slug": "design-infringement-mosaic-prior-art-defence-guide",
+  "title": "Your Competitor Says Your Registered Design Is Just a 'Mosaic' of Old Products. Why That Usually Fails",
+  "meta_description": "Why combining features from several prior designs to attack a registered design's novelty rarely works, per the Orient v. Crompton fan ruling.",
+  "practice_area": "Intellectual Property",
+  "intro": [
+    "A defendant accused of copying a registered design has an argument that sounds persuasive the first time you hear it: every individual feature of the plaintiff's design already existed somewhere, in some other product, so the design as a whole cannot really be new. Courts have a name for this argument, and a settled answer to it. 'Mosaicing' prior art, assembling bits and pieces from several unrelated earlier designs to argue that a registered design lacks novelty or originality, is treated as an impermissible way of attacking a design, and the Delhi High Court's 2026 ruling in Orient Electric's favour against Crompton's ceiling fan is a clean recent illustration of why the argument keeps failing.",
+    "The case also shows something design holders should take comfort from: a registration does not need years of market history behind it to be enforced vigorously at the interim stage, and a defendant's own silence on visual similarity can do real damage to its position."
+  ],
+  "sections": [
+    {
+      "heading": "What 'mosaicing' actually means, and why it is not a real novelty attack",
+      "paragraphs": [
+        "Mosaicing describes a specific style of argument: instead of pointing to one single prior design that, on its own, already shows the registered design as a whole, the defendant builds a composite picture by picking individual features from several different, unrelated earlier products and laying them side by side against the registered design. The implicit suggestion is that because each piece of the puzzle already existed somewhere, the whole picture cannot be new.",
+        "Courts reject this because the legal test for a design's validity, and for infringement, is the visual impression created by the design as a whole, not a feature-by-feature scavenger hunt through unrelated prior products that nobody ever actually combined before the registration. Section 4 of the Designs Act, 2000 bars registration of a design that is not new or original, or that is not significantly distinguishable from what is already known, but that inquiry asks whether the design as a whole is significantly distinguishable from known designs, not whether its individual components can each be traced to some earlier source."
+      ]
+    },
+    {
+      "heading": "The Orient v. Crompton ceiling fan ruling",
+      "paragraphs": [
+        "Orient Electric holds a registered design, called AEON, registered under the Designs Act on 9 April 2024, for a ceiling fan. It sued Crompton Greaves Consumer Electricals over the 'Grace' BLDC fan series, and Justice Tushar Rao Gedela of the Delhi High Court granted an interim injunction restraining Crompton from dealing in the Grace fans on 14 May 2026, in CS(COMM) 331/2026. Crompton's defence leaned heavily on mosaicing: it placed before the court a comparative chart mapping individual features of the AEON design against seven separate prior art references, arguing the combination showed AEON lacked novelty.",
+        "The Court rejected that defence, relying on the established principle, drawn from TTK Prestige v. KCM Appliances, that mosaicing prior art designs in this way is impermissible. Examining the seven references, the Court found that none of them, viewed as a composite whole on its own, produced the same visual impression as the AEON design. The judge physically examined both fans in court and applied what one report described as an 'instructed eye' standard, comparing the two products directly rather than working purely from photographs or technical drawings, and found the visual similarity between Grace and AEON 'unmistakable'."
+      ]
+    },
+    {
+      "heading": "Why Crompton's silence on similarity mattered as much as the mosaic argument",
+      "paragraphs": [
+        "A detail in the ruling that deserves more attention than it usually gets is that Crompton's own reply never actually denied that its Grace fan looked similar to Orient's registered design. The Court treated that omission as significant: where a defendant's pleaded response does not dispute that the two products look alike, a court is entitled to treat that silence as effectively conceding the prima facie visual comparison, leaving the mosaic argument to do all the defensive work on its own, which it failed to do.",
+        "The lesson for defendants in design litigation is to address visual similarity head-on in the first responsive pleading, even where the main line of defence is going to be a novelty or prior-art challenge. Leaving the similarity question unaddressed, on the theory that a successful novelty attack will make the similarity question moot, risks exactly the outcome Crompton got: a court treating the silence itself as evidence against the defendant, independent of how the prior-art argument fares."
+      ]
+    },
+    {
+      "heading": "What interim relief actually looked like once the injunction was granted",
+      "paragraphs": [
+        "The relief granted followed a familiar pattern for design infringement at the interim stage, rather than an outright, immediate halt with no room for an already-selling defendant to adjust. Crompton, having already launched Grace fans before the injunction, was permitted to complete and clear existing sales already in the pipeline but barred from any further sales going forward, a structure that respects the defendant's existing commercial commitments without letting the infringement continue indefinitely under cover of 'clearing stock'.",
+        "Alongside that, the order typically comes coupled with a sales-disclosure obligation, requiring the defendant to file affidavits recording what was sold, sometimes in a sealed cover where commercial sensitivity is a genuine concern, so that if the case eventually reaches a damages or accounts-of-profits stage, there is a real evidentiary record to work from rather than reconstructed estimates produced for the first time at trial. For a design holder weighing whether interim relief is worth pursuing at all, this combination, an immediate stop on fresh sales plus a running disclosure obligation, is usually more valuable commercially than waiting years for a final damages figure at the end of a full trial."
+      ]
+    },
+    {
+      "heading": "Why a design does not need a long track record to be enforced",
+      "paragraphs": [
+        "One point the ruling implicitly disposes of is any suggestion that a design registered only recently, here just over two years before the dispute, is somehow a weaker right or less deserving of interim protection than a design with a longer market history. There is no minimum 'vintage' requirement in the Designs Act for a registered design to be enforced forcefully through an interim injunction; what matters is whether the registration is valid and whether the accused product is visually similar to it, not how long the registration has existed in the market.",
+        "This matters commercially because product design cycles, particularly in consumer appliances, often run on a faster clock than patent or trademark portfolios. A company that treats a newly registered design as not yet 'mature' enough to defend aggressively is misreading what the law actually requires, and may be giving a competitor time to establish a competing product in the market before enforcement even begins."
+      ]
+    },
+    {
+      "heading": "Building a design infringement case that survives a mosaic defence",
+      "paragraphs": [
+        "A design holder anticipating this kind of challenge should document and preserve the registration certificate and the full prosecution history from the outset, since a clean, well-documented registration record makes the prima facie comparison the court actually has to perform, overall visual similarity between the registered design and the accused product, much simpler to present persuasively. Preparing a side-by-side visual comparison exhibit early, rather than relying on verbal description in pleadings, tends to be more persuasive precisely because the test itself is visual.",
+        "Equally, a design holder should anticipate the mosaic defence specifically and be ready to show, for each prior art reference the defendant is likely to raise, why that reference alone does not anticipate the registered design as a whole. Waiting to respond to the defendant's comparative chart only after it is filed leaves less time to build a considered response than preparing that analysis proactively, before litigation even starts, based on a reasonably thorough prior-art search conducted at the time of filing the design application itself."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does 'mosaicing of prior art' mean in a design infringement case?",
+      "a": "It means a defendant combining individual features from several different, unrelated earlier designs to argue that a registered design lacks novelty, even though no single prior design shows the registered design as a whole. Indian courts treat this as an impermissible way of attacking validity."
+    },
+    {
+      "q": "Why did the mosaic defence fail in the Orient v. Crompton case?",
+      "a": "The Delhi High Court examined all seven prior art references Crompton relied on and found that none of them, viewed as a complete design on its own, produced the same visual impression as Orient's registered AEON design, relying on the established rule against mosaicing prior art."
+    },
+    {
+      "q": "Does it matter if a defendant's reply does not deny visual similarity to the registered design?",
+      "a": "Yes. Where a defendant's pleaded response does not actually dispute that the two products look alike, a court can treat that silence as effectively conceding the prima facie comparison, which can decide the interim injunction question even before the novelty defence is examined."
+    },
+    {
+      "q": "Can a recently registered design still get a strong interim injunction?",
+      "a": "Yes. There is no minimum period a design must have been registered before it can be enforced through an interim injunction. What matters is whether the registration is valid and whether the accused product is visually similar to it, not how long the registration has existed."
+    },
+    {
+      "q": "What happens to a defendant's existing stock once an interim injunction is granted?",
+      "a": "Courts commonly allow a defendant that has already launched the infringing product to complete and clear sales already in the pipeline, while barring any further sales, often coupled with an obligation to disclose sales figures by affidavit for use in any later damages assessment."
+    }
+  ],
+  "references": [
+    "Designs Act, 2000, Section 4 (grounds for refusing registration: lack of novelty or originality, not significantly distinguishable from known designs)",
+    "Designs Act, 2000, Section 22 (piracy of a registered design: applying, importing or publishing a design, or a fraudulent or obvious imitation of it, without consent)",
+    "TTK Prestige Ltd. v. KCM Appliances Pvt. Ltd. (principle that mosaicing of prior art designs to attack novelty is impermissible)",
+    "Orient Electric Limited v. Crompton Greaves Consumer Electricals Limited, CS(COMM) 331/2026, Delhi High Court (Justice Tushar Rao Gedela), interim injunction dated 14 May 2026"
+  ],
+  "sources": [
+    "https://www.maheshwariandco.com/press-release/design-infringement-orient-vs-crompton-case/",
+    "https://www.bananaip.com/intellepedia/ceiling-fan-design-infringement-orient-crompton/",
+    "https://www.livelawbiz.com/ipr/delhi-high-court-restrains-sale-of-cromptons-grace-ceiling-fans-in-orient-design-infringement-suit-534251",
+    "https://www.legalserviceindia.com/Legal-Articles/mosaicing-of-prior-art-impermissible-in-design-infringement-cases/"
+  ],
+  "verification_notes": [
+    "The core ruling (Orient Electric's registered AEON design dated 9 April 2024, suit against Crompton's Grace BLDC fans, CS(COMM) 331/2026, interim injunction granted 14 May 2026 by Justice Tushar Rao Gedela, Crompton's seven-prior-art mosaic defence rejected relying on the TTK Prestige v. KCM Appliances principle, the court's physical comparison of both fans and finding the visual similarity 'unmistakable') is confirmed across at least three independent sources: maheshwariandco.com, bananaip.com and livelawbiz.com, all reporting consistent detail.",
+    "The detail that Crompton's reply did not deny visual similarity to Orient's registered design is confirmed via bananaip.com's reporting and corroborated by livelawbiz.com's account of the ruling.",
+    "The interim relief structure (permission to clear existing stock, bar on further sales, sales-disclosure by affidavit, sometimes in sealed cover) reflects a general, settled pattern in Indian design and IP interim injunction orders as described in bananaip.com's commentary on this case; it is presented in the guide as the typical pattern seen in such orders rather than as a verbatim quote from the Orient v. Crompton order itself, since the operative portion of the order was not independently retrieved.",
+    "The general statutory description of Sections 4 and 22 of the Designs Act, 2000 (novelty/originality grounds and the infringement standard) is confirmed via ipleaders.in's and ssrana.in's summaries of the Act; the precise interplay of Sections 4, 19 and 22 in the specific context of a mosaicing defence was flagged in research as needing confirmation against the primary judgment, which was not independently retrieved, so the guide states the statutory grounds in general terms without attributing a specific doctrinal formulation of the mosaicing rule to a named section."
+  ]
+}

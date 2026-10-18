@@ -1,0 +1,86 @@
+{
+  "slug": "esi-contribution-contract-workers-principal-employer-guide",
+  "title": "Using Contract Staff? Why Your Business, Not Just the Contractor, May Owe ESI Contributions",
+  "meta_description": "Why a principal employer often stays liable for ESI contributions on contract-engaged workers, and what counts as supervision under the Act.",
+  "practice_area": "Employment & Labour",
+  "intro": [
+    "A business that routes workers through a staffing agency or contractor often assumes the contractor's own ESI registration takes the compliance burden off its own books. That assumption is only partly right, and getting it wrong can mean a demand running into crores arriving years after the engagement has ended. The Employees' State Insurance Act treats certain contract-engaged workers as employees of the principal employer, the business where the work is actually performed, not merely of the contractor who recruited and pays them, and a 2026 Calcutta High Court ruling is a reminder of how far that liability can reach.",
+    "The underlying statutory scheme is more layered than a simple rule, and the position differs in important respects from the parallel debate under the Employees' Provident Fund scheme, which this guide addresses separately because the two are governed by different provisions with their own tests."
+  ],
+  "sections": [
+    {
+      "heading": "Who counts as an 'employee' of the principal employer under Section 2(9)",
+      "paragraphs": [
+        "Section 2(9) of the ESI Act defines 'employee' with two limbs that matter here. The first covers persons directly employed by the principal employer. The second extends to persons employed through an immediate employer, such as a contractor or staffing agency, who work on the principal employer's premises or under its supervision, in connection with the work of the establishment. It is the second limb that creates the exposure for a business that engages contract staff rather than hiring them directly, because the statute is written to catch exactly this arrangement, not to let a staffing intermediary insulate the principal employer from contribution liability.",
+        "What counts as 'supervision' for this purpose has been tested in the Supreme Court. In C.E.S.C. Ltd. v. Subhash Chandra Bose (1992 AIR 573), the Court held that a principal employer's right merely to accept or reject a contractor's completed work, after checking it against the job's requirements, does not by itself amount to effective supervision under Section 2(9). The ruling drew a line between a business overseeing outcomes and a business actually directing how the work is done day to day, and it is that second, closer form of control that tends to bring contract workers within the principal employer's ESI net."
+      ]
+    },
+    {
+      "heading": "Section 40: the principal employer's primary obligation to pay",
+      "paragraphs": [
+        "Section 40 of the Act places the obligation to pay contributions, in the first instance, on the principal employer, including the contribution attributable to employees engaged through an immediate employer. The principal employer is entitled to recover the immediate employer's share from amounts payable to the contractor, but that recovery mechanism operates between the principal employer and the contractor; it does not change who the ESI Corporation can proceed against in the first instance if contributions go unpaid. In practical terms, the statute puts the primary compliance risk on the business that actually benefits from the work, and leaves it to that business to sort out reimbursement from the contractor separately.",
+        "This is the structural reason a principal employer cannot simply assume that a contractor's own ESI registration, verified once at onboarding, closes the compliance question. The statutory liability analysis under Section 40 does not depend on what the commercial contract between principal and contractor says about who is supposed to pay; it depends on the statutory relationship, and a written indemnity clause in the contractor agreement, however carefully drafted, binds only the contractor, not the ESI Corporation."
+      ]
+    },
+    {
+      "heading": "The Calcutta High Court's 2026 ruling on an insurance intermediary's contract staff",
+      "paragraphs": [
+        "The 2026 dispute involved Height Insurance Services, a corporate agent licensed by the IRDAI, which challenged ESI show cause notices and a determination order fixing its contribution liability at roughly Rs 6.13 crore. The liability arose from payments Height had made to Golden Trust Financial Services, a separate entity the ESI authorities treated as an immediate employer under Section 2(13), with its workers in turn treated as contract employees of Height under Section 2(9). The Calcutta High Court dismissed Height's writ petition, holding that the principal employer remains liable for wages paid through the immediate employer under the ESI Act, and declining to interfere with the authorities' determination.",
+        "The size of the figure in that case, over six crore rupees on a payment structure the company plainly viewed as a commercial arrangement with an independent agency rather than a labour-supply contract, is the point worth taking away. A business does not need to think of itself as 'using contract labour' in the traditional construction-site sense to fall within this analysis. Any arrangement where another entity's personnel work in connection with the principal's business, under some degree of its direction, can attract the same scrutiny, regardless of how the commercial contract between the two businesses is framed."
+      ]
+    },
+    {
+      "heading": "The unsettled parallel question under the EPF scheme",
+      "paragraphs": [
+        "The equivalent question under the Employees' Provident Fund scheme is genuinely less settled, and a principal employer should not assume the ESI position above simply transfers across. Some High Courts have held that a contractor holding its own independent PF code relieves the principal employer of contribution liability for that contractor's workers, while other rulings, along with EPFO's own 2017 circular, take the position that the principal employer retains overall compliance responsibility regardless of the contractor's separate registration. A Karnataka High Court decision involving ISRO and a manpower supplier, for instance, held that principal employer liability under the analogous ESI provision arises only if the immediate employer actually defaults, and since the contractor there was registered and had paid its contributions, the principal could not be treated as liable.",
+        "Because this conflict remains live rather than resolved by a single binding Supreme Court ruling squarely on point, a business should treat the EPF-side exposure as a genuinely open question requiring its own legal assessment, rather than reading across from the more settled ESI position described in this guide."
+      ]
+    },
+    {
+      "heading": "Practical risk management for a business engaging contract staff",
+      "paragraphs": [
+        "Given that statutory liability does not turn on what the contract says, the more useful risk management tool is ongoing verification rather than a one-time compliance certificate. A principal employer should confirm the contractor's ESI and EPF registration and contribution compliance not just before the engagement begins, but periodically through its term, since a contractor that was compliant at onboarding can lapse later without the principal employer noticing until a show cause notice arrives years afterward.",
+        "Retaining documentary proof of the contractor's periodic contribution filings, and building compliance-certification and indemnity clauses into the contractor agreement, remain worth doing even though they will not defeat a direct ESI demand against the principal employer. They matter for the separate, commercial question of recovering from the contractor whatever the principal employer ends up paying, and for demonstrating, if the matter is ever litigated, that the business took the compliance question seriously rather than treating the contractor relationship as a way to avoid it altogether."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does hiring staff through a contractor shift ESI liability away from my business?",
+      "a": "Not automatically. Where contract-engaged workers work on your premises or under your supervision in connection with your business, Section 2(9) of the ESI Act can treat them as your employees, and Section 40 places the primary obligation to pay contributions on you as the principal employer."
+    },
+    {
+      "q": "What counts as 'supervision' that brings contract workers within my ESI liability?",
+      "a": "The Supreme Court has held that merely accepting or rejecting a contractor's finished work is not effective supervision. Closer, ongoing direction over how the work is actually performed is more likely to bring the arrangement within the principal employer's liability."
+    },
+    {
+      "q": "If my contractor already has its own ESI registration, am I covered?",
+      "a": "Not necessarily. The ESI Corporation can proceed against the principal employer directly under Section 40 regardless of the contractor's own registration status, as the Calcutta High Court confirmed in the 2026 Height Insurance Services case. A contractor's registration reduces risk but does not eliminate it."
+    },
+    {
+      "q": "Is the EPF position the same as the ESI position for contract workers?",
+      "a": "No. The EPF-side question is genuinely unsettled, with some High Courts holding a contractor's independent PF code relieves the principal employer and others, along with EPFO's 2017 circular, holding the opposite. Each scheme should be assessed separately rather than assumed to follow the same rule."
+    },
+    {
+      "q": "What should my business actually do to manage this risk?",
+      "a": "Verify the contractor's ESI and EPF compliance periodically through the engagement rather than just at onboarding, keep documentary proof of that verification, and build compliance-certification and indemnity clauses into the contractor agreement, understanding these protect your recovery against the contractor rather than defeating a direct ESI demand."
+    }
+  ],
+  "references": [
+    "Employees' State Insurance Act, 1948, Section 2(9) (definition of 'employee', including workers engaged through an immediate employer under the principal employer's supervision)",
+    "Employees' State Insurance Act, 1948, Section 40 (principal employer's primary obligation to pay contributions, with a right of recovery from the immediate employer)",
+    "C.E.S.C. Ltd. v. Subhash Chandra Bose, 1992 AIR 573 / (1992) 1 SCC 441, Supreme Court (accepting or rejecting completed work does not amount to effective supervision under Section 2(9))",
+    "Height Insurance Services Ltd. v. Employees' State Insurance Corporation, Calcutta High Court, 2026 (principal employer held liable for contributions on payments to Golden Trust Financial Services, treated as immediate employer)"
+  ],
+  "sources": [
+    "https://www.taxscan.in/other-taxations/calcutta-hc-rules-principal-employer-liable-for-wages-paid-through-immediate-employer-under-esi-act-1452272",
+    "https://taxguru.in/?p=1085554",
+    "https://www.globalhealthrights.org/c-e-s-c-ltd-v-subhash-chandra-bose-and-ors/"
+  ],
+  "verification_notes": [
+    "The Height Insurance Services case (writ dismissed, Rs 6.13 crore ESI contribution demand on payments to Golden Trust Financial Services, GTFS treated as immediate employer under Section 2(13) with its workers as contract employees under Section 2(9), ruling that the principal employer remains liable for wages paid through the immediate employer) is confirmed across two independent sources, taxscan.in and taxguru.in, both reporting in late September 2026; the full judgment text was paywalled in both sources, so the case number and exact bench could not be independently confirmed and are not stated in the guide.",
+    "C.E.S.C. Ltd. v. Subhash Chandra Bose (1992 AIR 573, (1992) 1 SCC 441, bench of Ranganath Misra CJ, Punchhi and Ramaswamy JJ) and its holding on the accept/reject-work test for supervision is confirmed via globalhealthrights.org's reproduction of the judgment and corroborated by a lawtext.in case summary found in the same search.",
+    "The EPF-side conflict (some High Courts holding a contractor's independent PF code relieves the principal employer, others and EPFO's 2017 circular holding the opposite; the Karnataka High Court/ISRO manpower-supplier ruling on secondary liability where the contractor is compliant) is stated as genuinely unsettled per the research queue's own characterisation and the mixed case law found in search results; no single resolving Supreme Court authority was found, so none is cited, consistent with treating this as an open question in the guide.",
+    "The general description of Sections 2(9) and 40 (two-limb employee definition; principal employer's primary payment obligation with a right of recovery from the immediate employer) reflects the statutory text as summarised consistently across multiple case-law secondary sources found in search results, though the bare Act text itself was not independently pulled and verified word for word."
+  ]
+}

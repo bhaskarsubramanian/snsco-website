@@ -1,0 +1,86 @@
+{
+  "slug": "minimum-public-shareholding-non-compliance-guide",
+  "title": "Minimum Public Shareholding Non-Compliance: What a Listed Company and Its Promoters Actually Risk",
+  "meta_description": "What a listed Indian company risks below the minimum public shareholding mark, how SEBI's enforcement escalates, and what the Adani 2026 settlement shows.",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "A listed company is required to maintain a minimum level of public shareholding as a condition of staying listed, not as an optional governance target. Rule 19A of the Securities Contracts (Regulation) Rules, 1957 fixes that minimum at 25 percent public shareholding, and treats it as a continuing listing condition rather than a one-time box to tick at the time of the public offer. A company that drops below that threshold, whether through a promoter creeping acquisition, a corporate restructuring that concentrates holding, or enforcement of a promoter share pledge, has a limited window to restore compliance before the consequences start to bite.",
+    "A 2026 settlement involving four Adani group companies and a group of individuals, including Gautam Adani himself, shows how long an MPS matter can stay open before it is finally resolved, and what a company gains and gives up by choosing to settle rather than litigate the underlying finding."
+  ],
+  "sections": [
+    {
+      "heading": "The 25 percent rule and how much time a company gets to fix a shortfall",
+      "paragraphs": [
+        "Rule 19A requires every listed company to maintain at least 25 percent public shareholding at all times, subject to specific carve-outs and timelines that apply to particular categories of company, such as those that listed through an offer-for-sale route or government companies on a separate glide path. Where public shareholding falls below the threshold, whether because a promoter has acquired more shares, a buyback has reduced the overall float, or some other corporate action has shifted the ratio, the company generally has up to twelve months from the date the shortfall arose to bring the public float back to 25 percent.",
+        "That twelve-month window is the company's own responsibility to track. SEBI and the stock exchanges do not notify a company the moment a shortfall occurs; the obligation to monitor and restore compliance rests with the company and its promoters, and the enforcement machinery described below only engages once the window has closed without the shortfall being cured."
+      ]
+    },
+    {
+      "heading": "How enforcement actually escalates once the window closes",
+      "paragraphs": [
+        "Enforcement runs through the stock exchanges before SEBI itself typically gets directly involved. On identifying continued non-compliance, an exchange issues a notice to the company, generally within a set number of days of discovery, calling on it to achieve compliance within a further prescribed period. If the company still has not restored the public float by the end of that period, the exchange and SEBI's framework allow for escalating consequences rather than a single penalty.",
+        "Those consequences include freezing of promoter shareholding and voting rights in proportion to the extent of non-compliance, so that only the portion of promoter holding in excess of what would be consistent with 25 percent public float is frozen, not the promoter's entire stake. Corporate benefits such as dividends, bonus shares and rights entitlements on the frozen portion are withheld as well. Beyond the freeze, promoters and directors of the non-compliant company can be restrained from taking up new board positions at other listed companies until compliance is restored, and the company itself can face monetary penalties under the governing securities law, which can be substantial depending on how long the non-compliance has continued."
+      ]
+    },
+    {
+      "heading": "Why these matters can stay open for years",
+      "paragraphs": [
+        "The Adani group settlement illustrates how far an MPS investigation can run before resolution. SEBI's investigation traced back to a complaint received in October 2020, but the regulator issued a show cause notice only in September 2024, followed by a supplementary show cause notice in March 2025. The matter was finally closed through settlement in September 2026, with four Adani group companies, Adani Enterprises, Adani Power, Adani Ports and Special Economic Zone, and Adani Energy Solutions, along with Gautam Adani and thirteen other individuals, paying a combined Rs 1.48 crore, worked out as Rs 37.05 lakh for each of the four company-linked settlements.",
+        "The gap between the original complaint and the eventual show cause notice, several years, is not unusual for MPS matters of this scale, and a company facing a live MPS question should not assume that silence from the regulator after an initial query means the matter has been dropped. SEBI separately found, in the course of the same proceedings, that the central allegations against Vinod Adani specifically were not established. That detail matters because it shows these investigations can resolve differently for different individuals named in the same matter, rather than producing a single uniform outcome for everyone implicated."
+      ]
+    },
+    {
+      "heading": "What settlement actually buys a company, and what it does not",
+      "paragraphs": [
+        "SEBI's settlement framework is available for MPS non-compliance proceedings just as it is for many other categories of securities law violation, and it lets a company and the individuals named alongside it close out the matter by payment, without admitting or denying the underlying findings. That is precisely what the four Adani companies and the individual respondents did in September 2026, paying the settlement amount while formally neither accepting nor contesting SEBI's conclusions.",
+        "What settlement does not do is retroactively cure the actual period of non-compliance for other purposes. A settlement closes SEBI's own enforcement proceeding; it does not, for instance, erase the fact that public shareholding fell below 25 percent for whatever period that was true, which can still matter for other regulatory assessments, disclosure obligations, or follow-on scrutiny that is not part of the specific settled proceeding. Companies should treat a settlement as closing one file, not as a general absolution."
+      ]
+    },
+    {
+      "heading": "Practical planning for a company approaching MPS risk",
+      "paragraphs": [
+        "The most reliable way to avoid the enforcement ladder described above is to plan a compliance pathway well before any shortfall actually crystallises, particularly where a company can see a risk event coming, such as a promoter's pledged shares being invoked by a lender, or a restructuring that will concentrate promoter holding. Options available to restore public float include an offer for sale by promoters, a qualified institutions placement, a rights issue structured to dilute promoter holding, or a preferential issue to public shareholders, and each carries its own timing, pricing and disclosure considerations that need lead time to execute properly.",
+        "Waiting until an exchange notice actually arrives compresses all of that planning into the prescribed cure period, which is rarely enough time to execute a well-priced capital markets transaction from a standing start. A company that sees a shortfall risk on the horizon is better served by starting the compliance pathway early, even before the twelve-month clock has formally started to run, than by treating the statutory window as the trigger to begin planning."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum public shareholding a listed Indian company must maintain?",
+      "a": "Rule 19A of the SCRR requires at least 25 percent public shareholding as a continuing condition of listing, subject to specific carve-outs and separate timelines for certain categories of company. A shortfall generally has to be cured within twelve months of arising."
+    },
+    {
+      "q": "What happens to promoter shares if a company fails to fix an MPS shortfall in time?",
+      "a": "The portion of promoter shareholding in excess of what the 25 percent public float would allow can be frozen, along with associated voting rights and corporate benefits such as dividends and bonus shares, and that freeze stays in place until the company actually restores compliance with the threshold."
+    },
+    {
+      "q": "Can promoters or directors face consequences beyond the share freeze?",
+      "a": "Yes. Promoters and directors can be restrained from taking up new board positions at other listed companies until the non-compliant company restores its public float, and the company itself can separately face monetary penalties under the governing securities law, which can be substantial."
+    },
+    {
+      "q": "Does settling an MPS case with SEBI mean the company admits wrongdoing?",
+      "a": "No. SEBI's settlement framework allows a company and named individuals to close the proceeding by paying a settlement amount without admitting or denying the underlying findings, exactly as the Adani group companies and individuals did in their September 2026 settlement."
+    },
+    {
+      "q": "How long can an MPS investigation take to resolve?",
+      "a": "It can take years. The Adani group settlement traced back to a complaint received in October 2020, with a show cause notice issued only in September 2024 and the matter finally settled in September 2026, nearly six years after the original complaint."
+    }
+  ],
+  "references": [
+    "Securities Contracts (Regulation) Rules, 1957, Rule 19A (minimum 25 percent public shareholding as a continuing listing condition)",
+    "SEBI circular framework on minimum public shareholding non-compliance, providing for exchange notices, escalating freeze of promoter shareholding and voting rights, and restrictions on promoters/directors taking new directorships",
+    "SEBI settlement orders dated September 2026 against Adani Enterprises, Adani Power, Adani Ports and Special Economic Zone, and Adani Energy Solutions, and against Gautam Adani and other individuals, in minimum public shareholding proceedings"
+  ],
+  "sources": [
+    "https://www.moneylife.in/article/sebi-clears-vinod-adani-in-mps-case-gautam-adani-4-group-companies-settle-for-148-crore/81785.html",
+    "https://www.businesstoday.in/markets/stocks/story/adani-power-ael-adani-ports-adani-energy-adani-stocks-in-focus-after-sebi-mps-case-settlement-558396-2026-09-29",
+    "https://www.sansalegal.com/post/sebi-settles-minimum-public-shareholding-proceedings-against-four-adani-group-companies",
+    "https://indiacorplaw.in/2017/10/17/sebi-circular-minimum-public-shareholding/"
+  ],
+  "verification_notes": [
+    "The Adani group settlement (four companies, Rs 37.05 lakh each, Rs 1.48 crore total, Gautam Adani and 13 other individuals, investigation traced to an October 2020 complaint, show cause notice September 2024, supplementary SCN March 2025, settlement orders dated 28 September 2026, Vinod Adani cleared of central allegations) is confirmed across at least three independent sources: moneylife.in, businesstoday.in and sansalegal.com, which are broadly consistent though sources differ on the exact date the settlement amount was paid (6 August 2026 per one source, 26 August 2026 per others); that specific payment date has been left out of the guide as unresolved.",
+    "The 25 percent threshold under Rule 19A SCRR and the twelve-month cure period are confirmed via indiacorplaw.in's summary of the rule and corroborated by general secondary commentary (mondaq.com, moneylife.in older reporting); the guide notes that specific carve-outs and timelines exist for particular categories of company without stating their detail, since that detail was not independently confirmed.",
+    "The escalation mechanics (exchange notice timeline, proportional freeze of promoter shareholding and voting rights, restriction on new directorships, monetary penalties) are confirmed via indiacorplaw.in's description of the 2013 enforcement action and the 2017 SEBI circular; one source noted a later relaxation of the 2017 circular's enforcement timelines that could not be independently verified, so the guide states the escalation framework in general terms without asserting the current exact day-counts.",
+    "The practical capital-markets options for curing a shortfall (OFS, QIP, rights issue, preferential issue) reflect standard market practice and were not independently sourced to a specific citation beyond general corporate finance understanding."
+  ]
+}

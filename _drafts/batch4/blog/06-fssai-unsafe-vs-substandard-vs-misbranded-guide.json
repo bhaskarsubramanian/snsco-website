@@ -1,0 +1,88 @@
+{
+  "slug": "fssai-unsafe-vs-substandard-vs-misbranded-guide",
+  "title": "FSSAI Called Your Product 'Unsafe', Not Just 'Substandard': Why That One Word Changes Everything",
+  "meta_description": "The legal difference between unsafe, substandard and misbranded findings under the FSS Act, and what each actually exposes a food business to.",
+  "practice_area": "Food Safety & FSSAI",
+  "intro": [
+    "A food business owner reading an FSSAI test report for the first time can be forgiven for treating 'unsafe', 'substandard' and 'misbranded' as interchangeable bad news. They are not. The Food Safety and Standards Act, 2006 treats these as three distinct statutory findings, each carrying a different exposure, and the gap between them is not academic: one is a criminal offence that can mean years in prison, the other two are civil penalties decided by an adjudicating officer. A single lab report on a single sample can, and sometimes does, trigger more than one of these findings for different defects detected in that sample.",
+    "A live example surfaced in October 2026, when a Nestle India low-fat dairy whitener sample drawn from Hotel Lalit in Delhi's Connaught Place was declared both unsafe and substandard by the city's food safety authorities, with Nestle disputing the laboratory's methodology. The dispute is a useful lens for understanding what each classification actually does, and does not, mean for the business on the receiving end."
+  ],
+  "sections": [
+    {
+      "heading": "Section 59: unsafe food is a criminal offence, and the stakes scale with harm",
+      "paragraphs": [
+        "Section 59 of the FSS Act penalises manufacturing, storing, selling, distributing or importing food that is unsafe, and it is the only one of the three findings discussed here that carries criminal, not merely civil, consequences. Following the 2023 Jan Vishwas amendment, the penalty structure scales with the actual harm caused: where no injury results, imprisonment can extend to three months with a fine up to three lakh rupees, a reduction in the prison term (though an increase in the fine ceiling) from the pre-amendment position of six months and one lakh rupees. Where the food causes non-grievous injury, imprisonment can extend to one year; grievous injury, up to six years; and where it causes death, the minimum term is seven years, extendable to life imprisonment, with a fine of at least ten lakh rupees.",
+        "The Supreme Court made clear just how seriously Section 59 is meant to be taken in Ram Nath v. State of Uttar Pradesh (2024 INSC 138), holding that the FSS Act overrides overlapping provisions of the Indian Penal Code dealing with food, specifically Sections 272 and 273, and that the FSSA's own offence is the more stringent regime where the two could otherwise apply to the same conduct. The practical effect is that a business or individual cannot expect a food-safety prosecution to be diluted by treating it as an ordinary IPC food-adulteration matter; the special statute, with its own graded penalty scheme, takes precedence."
+      ]
+    },
+    {
+      "heading": "Sections 51 and 52: substandard and misbranded are civil findings, not crimes",
+      "paragraphs": [
+        "Section 51 covers substandard food, meaning food that fails the quality standards prescribed under the Act's regulations without being rendered unsafe to consume. It carries a civil penalty that can extend up to five lakh rupees, imposed by an adjudicating officer rather than a criminal court, and does not carry any imprisonment term. Section 52 covers misbranded food, meaning defects in labelling, packaging or presentation rather than in the food's actual safety or quality, and carries a civil penalty extending up to three lakh rupees, again with no imprisonment attached; the adjudicating officer can also direct corrective action or, where warranted, destruction of the offending stock.",
+        "The distinction between substandard and unsafe is not just a matter of degree. Courts have treated the two as legally mutually exclusive categories rather than points on the same scale: food that meets the statutory definition of substandard, by definition, has not been found unsafe, and a finding of one is not simply a lesser version of the other. That is exactly why a single sample can generate findings under more than one section for different defects, rather than regulators picking whichever single label seems to fit best."
+      ]
+    },
+    {
+      "heading": "The Nestle dairy whitener case: how a sample can draw two findings at once",
+      "paragraphs": [
+        "In the October 2026 matter, Delhi's food safety authorities classified a Nestle India low-fat dairy whitener sample, collected from Hotel Lalit's premises, as both unsafe and substandard, and directed the food business operator to stop sale of the identified product immediately, with a separate notice issued to Bharat Hotels over the non-compliant product found on its premises. Nestle's public response did not dispute the lab's raw measurement so much as its method: the company said the test measured total phosphorus content against the additive limit, without separately accounting for the phosphorus that naturally occurs in the milk-based ingredients used, and argued that once that natural baseline was correctly excluded, the product's added phosphorus was within the prescribed limit.",
+        "That kind of dispute, over whether a naturally occurring background level of a substance was properly netted out before comparing the result to a permissible limit for an additive, is a recurring, fact-heavy defence in unsafe-food findings involving contaminants or additives, and it is rarely resolved on the strength of the test report alone. A business facing a similar finding should expect the dispute to turn on exactly this kind of technical methodology question, which means the business's own retesting and documentation of the methodology used matters as much as the headline classification itself."
+      ]
+    },
+    {
+      "heading": "Why an 'unsafe' finding on one sample does not condemn an entire product line",
+      "paragraphs": [
+        "A finding against a single retail sample is legally confined to that batch or sample; it is not, by itself, an automatic finding against the brand's entire national product line, however alarming the classification sounds in press coverage. The Hotel Lalit matter illustrates this distinction in practice: the hotel's response was to contact Nestle, pull the specific product from its own operations, and treat the regulatory question as one between Nestle and FSSAI rather than accepting the finding as condemning every unit of that product sold anywhere.",
+        "That said, a business cannot treat the batch-specific scope of the finding as a reason to respond slowly. The criminal exposure attached to an unsafe finding under Section 59, and the immediate stop-sale direction that typically accompanies it, both demand a fast, documented response regardless of how narrow the finding's formal scope might be. Delay in responding to the specific finding does not shrink the business's eventual exposure; it simply leaves the business with less control over how the matter is framed once it escalates."
+      ]
+    },
+    {
+      "heading": "What a food business should actually do when a notice names a specific section",
+      "paragraphs": [
+        "The first practical step on receiving any FSSAI notice is to read it closely enough to identify precisely which section is being invoked, and for which specific defect in the sample, rather than treating the notice as a single undifferentiated bad finding. A notice that cites Section 59 over one defect and Section 51 or 52 over a separate labelling or quality issue in the same sample needs two different response strategies, since the criminal exposure under Section 59 calls for urgency and specialist food-safety criminal defence counsel, while a Section 51 or 52 civil penalty is a different, lower-stakes adjudication track.",
+        "Where the finding turns on a measured contaminant, additive or quality parameter, obtaining an independent re-test promptly, and scrutinising the testing laboratory's methodology for exactly the kind of baseline-exclusion question Nestle raised in the Hotel Lalit matter, is usually the most productive line of defence available. Businesses that wait to raise a methodology challenge until well into adjudication proceedings, rather than flagging it at the earliest opportunity, tend to find it harder to get a fresh sample tested under comparable conditions."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the actual difference between 'unsafe' and 'substandard' food under the FSS Act?",
+      "a": "Unsafe food under Section 59 is a criminal offence with imprisonment scaling to the harm caused, while substandard food under Section 51 is a civil finding, carrying only a monetary penalty up to five lakh rupees, for food that fails quality standards without being rendered unsafe."
+    },
+    {
+      "q": "Can a single food sample be found both unsafe and substandard?",
+      "a": "Yes. Courts treat unsafe and substandard as legally distinct, mutually exclusive classifications for the same defect, but a single sample can have multiple separate defects, and each of those defects can independently attract a finding under a different section of the Act."
+    },
+    {
+      "q": "Does an 'unsafe' finding mean imprisonment is automatic?",
+      "a": "No. Imprisonment scales with the harm actually caused: up to three months where there is no injury, up to one year for non-grievous injury, up to six years for grievous injury, and a minimum of seven years, extendable to life, where the unsafe food causes death."
+    },
+    {
+      "q": "Does a finding against one retail sample affect a brand's entire product line nationally?",
+      "a": "Not automatically. A finding is legally confined to the specific batch or sample tested. It is not, by itself, a finding against every unit of that product sold elsewhere, though the business should still respond quickly given the criminal exposure attached to an unsafe finding."
+    },
+    {
+      "q": "What is the strongest defence available against an 'unsafe' finding over a contaminant or additive level?",
+      "a": "Challenging the testing laboratory's methodology, particularly whether any naturally occurring baseline of the substance was properly excluded before comparing the result to the permissible limit, is a recurring and often effective defence, provided it is raised early and backed by independent re-testing."
+    }
+  ],
+  "references": [
+    "Food Safety and Standards Act, 2006, Section 59 (unsafe food, criminal offence, penalty scaling with harm caused, as amended by the Jan Vishwas (Amendment of Provisions) Act, 2023)",
+    "Food Safety and Standards Act, 2006, Section 51 (substandard food, civil penalty up to Rs 5 lakh)",
+    "Food Safety and Standards Act, 2006, Section 52 (misbranded food, civil penalty up to Rs 3 lakh, with power to order corrective action or destruction)",
+    "Ram Nath v. State of Uttar Pradesh, 2024 INSC 138, Supreme Court (Section 59 FSS Act overrides Sections 272 and 273 IPC on food offences)"
+  ],
+  "sources": [
+    "https://www.khaleejtimes.com/world/asia/india-nestle-low-fat-dairy-whitener-sample-unsafe",
+    "https://www.outlookbusiness.com/corporate/nestle-indias-low-fat-dairy-whitener-found-unsafe-substandard-at-hotel-lalit-fssai",
+    "https://www.verdictum.in/court-updates/supreme-court/ram-nath-v-the-state-of-uttar-pradesh-2024-insc-138-food-safety-and-standards-act-1522052",
+    "https://lawx.in/acts/section/102/933/8118"
+  ],
+  "verification_notes": [
+    "The Nestle India/Hotel Lalit matter (low-fat dairy whitener sample, unsafe and substandard classification, stop-sale direction, notice to Bharat Hotels, Nestle's phosphorus-methodology dispute, dated 3 October 2026) is confirmed across at least four independent sources: khaleejtimes.com, outlookbusiness.com, deccanchronicle.com and businesstoday.in, all reporting consistent core facts.",
+    "Ram Nath v. State of Uttar Pradesh (2024 INSC 138) and its holding that Section 59 FSSA overrides IPC Sections 272 and 273 is confirmed via verdictum.in's report and corroborated by scconline.com's blog summary of the same ruling.",
+    "Section 59's current penalty figures (three months/Rs 3 lakh for no injury post-2023 amendment, versus six months/Rs 1 lakh pre-amendment; one year for non-grievous injury; six years for grievous injury; minimum seven years to life plus minimum Rs 10 lakh fine for death) are confirmed via advocatekhoj.com's bare act text and foodsafetyworks.com's summary of the Jan Vishwas Act changes, two independent sources.",
+    "Section 51's Rs 5 lakh civil penalty ceiling is confirmed via lawx.in's bare act text and corroborated by india-briefing.com's and storyboard18.com's reporting of actual Section 51 enforcement penalties (including a Rs 1.14 lakh and a Rs 5 lakh order against Parag Milk Foods). Section 52's Rs 3 lakh ceiling and absence of imprisonment is confirmed via lawx.in's bare act text and corroborated by a 2024 Supreme Court ruling summarised on scconline.com noting the Rs 3 lakh maximum and no imprisonment provision for misbranding.",
+    "The proposition that 'substandard' and 'unsafe' are legally distinct, mutually exclusive classifications is drawn from a secondary summary (desikaanoon.in) of Supreme Court case law found during research; the specific case citation for that holding could not be independently confirmed in this search and has accordingly been stated in the guide as a general legal proposition without naming a specific case."
+  ]
+}

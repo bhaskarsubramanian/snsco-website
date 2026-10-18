@@ -1,0 +1,82 @@
+{
+  "slug": "rera-authority-vs-adjudicating-officer-interest-powers-guide",
+  "title": "RERA Refund Interest: Why the Adjudicating Officer Cannot Fix the Rate the Regulatory Authority Left Open",
+  "meta_description": "Why RERA refund interest belongs in the Authority's order, not the Adjudicating Officer's enforcement stage, and what that split means for your claim.",
+  "practice_area": "Real Estate & RERA",
+  "intro": [
+    "Homebuyers who have won a refund order from a state RERA Authority often discover, only at the enforcement stage, that the interest they expected is being decided by a different officer altogether, sometimes at a different rate than anyone argued for. Developers, on the other side, sometimes face an Adjudicating Officer adding an interest figure that was never part of the original order they are trying to comply with. Both problems trace back to the same structural question: within a RERA setup, who actually has the power to fix interest on a refund, the Regulatory Authority that decides entitlement, or the Adjudicating Officer who handles enforcement afterward.",
+    "A Madhya Pradesh High Court ruling in 2026 answered that question squarely for one set of facts, and the answer has consequences for how both sides should be drafting their applications and their compliance filings."
+  ],
+  "sections": [
+    {
+      "heading": "The Two Different Jobs Inside a RERA Structure",
+      "paragraphs": [
+        "The Real Estate (Regulation and Development) Act, 2016 splits adjudicatory work between two bodies that are easy to conflate but legally distinct. The Regulatory Authority, under Sections 12, 14, 18 and 19, decides the substantive questions: whether a promoter has defaulted, whether a refund is due, and whether compensation or interest for delayed possession should follow. The Adjudicating Officer, appointed under the Act and operating through Sections 71 and 72, has a narrower brief, built around compensation claims and the specific factors Section 72 lists for quantifying them, such as the disproportionate gain made by the promoter and the loss actually suffered by the allottee.",
+        "The Supreme Court's decision in Newtech Promoters and Developers v. State of UP made clear that the Regulatory Authority holds exclusive jurisdiction to direct a refund and to fix interest on that refund, including interest for delayed possession. The Adjudicating Officer's role sits alongside this, confined to compensation claims under Sections 12, 14, 18 and 19 read with Sections 71 and 72, not a general power to revisit or add to what the Authority has already decided about a refund."
+      ]
+    },
+    {
+      "heading": "What the Madhya Pradesh High Court Decided",
+      "paragraphs": [
+        "In Jetal Construction Private Limited v. State of Madhya Pradesh, the Regulatory Authority had already determined a homebuyer's entitlement to a refund and compensation. The matter then moved to enforcement, where the Adjudicating Officer independently fixed a 10 percent annual interest figure on the amount due. The promoter challenged that interest award by writ petition. Justice Milind Ramesh Phadke partly allowed the petition, setting aside the Adjudicating Officer's separately fixed interest while leaving the underlying directions giving effect to the Authority's own determination on refund and compensation intact.",
+        "The court's reasoning tracked the statutory text closely. It held that the Adjudicating Officer has been appointed only for the limited purpose of adjudging compensation under Sections 12, 14, 18 and 19, and that Section 40, which deals with recovery and enforcement of amounts due, does not hand the Adjudicating Officer any additional substantive power to decide interest that the Authority itself had not already fixed. In practical terms, once the Authority's order was silent or left the interest rate unclear, the Adjudicating Officer had no independent power to fill that gap at the enforcement stage."
+      ]
+    },
+    {
+      "heading": "Why This Is Not Just a Technicality",
+      "paragraphs": [
+        "It is tempting to treat this as a procedural quibble, since the homebuyer in Jetal Construction still kept the underlying refund and compensation directions. But the distinction matters in real terms because interest rates on RERA refunds vary by state and by the specific order, commonly pegged to the State Bank of India's highest marginal cost of funds based lending rate plus a margin, and that variation means the figure actually fixed, and by whom, can move the total recovery by a meaningful amount over a multi-year dispute.",
+        "For a developer, the ruling gives a specific and narrow ground to resist an interest figure that surfaces for the first time at enforcement rather than in the Authority's substantive order, without having to reopen the refund direction itself. For a homebuyer, it is a warning not to assume the interest question will be sorted out later, at the Adjudicating Officer's level, once the refund is secured. If the Authority's order is vague on the rate, that vagueness becomes the homebuyer's problem at enforcement, not an opportunity for the Adjudicating Officer to fix it favourably."
+      ]
+    },
+    {
+      "heading": "A Different View From Allahabad, and Why It Does Not Help Much",
+      "paragraphs": [
+        "Practitioners should be aware that this is not the only word on the subject. The Allahabad High Court, in Habitech Infrastructure v. State of U.P., upheld a Regulatory Authority's own order granting a refund with interest, reasoning that Section 71 limits the Adjudicating Officer's role to compensation and does not affect the Authority's separate power to order refunds with interest. Read carefully, that ruling actually reinforces rather than contradicts the Madhya Pradesh position: both decisions treat refund-linked interest as belonging to the Authority's substantive order, not to a free-standing power exercised later by the Adjudicating Officer.",
+        "Where the two courts have not yet both ruled on the same precise fact pattern is the Jetal Construction scenario itself, an Adjudicating Officer independently adding interest at the enforcement stage after the Authority had already spoken. Litigants outside Madhya Pradesh should treat the Jetal Construction reasoning as persuasive and consistent with the Supreme Court's Newtech Promoters framework, rather than as a binding rule automatically carried into every state's RERA practice, and should check their own jurisdiction's High Court position before relying on it."
+      ]
+    },
+    {
+      "heading": "What a Homebuyer Should Actually Do Differently",
+      "paragraphs": [
+        "The practical lesson for a homebuyer pursuing a refund claim is to make sure the interest rate they expect to recover is pleaded for, argued, and fixed in the Regulatory Authority's own substantive order, not left as an open question to be resolved informally during execution. If an order comes through silent on the rate, or ambiguous about whether interest is payable from the date of deposit or some later date, the right step is to go back to the Authority itself, through a review or clarification application, rather than waiting for the enforcement stage and hoping the Adjudicating Officer fills the gap favourably.",
+        "This is also a reason to keep refund and compensation applications well organised from the outset, with a clear prayer clause specifying the interest rate sought and the date from which it should run, so that whatever order the Authority eventually passes actually addresses the point instead of leaving it for a later forum that, on this reasoning, may not have the power to decide it at all."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who decides the interest rate on a RERA refund, the Authority or the Adjudicating Officer?",
+      "a": "The Regulatory Authority, as part of its substantive order on refund entitlement under Sections 12, 14, 18 and 19. The Supreme Court in Newtech Promoters confirmed the Authority's exclusive jurisdiction over refund and interest on it, and the Madhya Pradesh High Court has held the Adjudicating Officer cannot independently fix a separate interest figure at the enforcement stage."
+    },
+    {
+      "q": "What does the Adjudicating Officer actually do under Sections 71 and 72?",
+      "a": "The Adjudicating Officer quantifies compensation claims under Sections 12, 14, 18 and 19, applying the factors Section 72 lists, such as disproportionate gain to the promoter and loss to the allottee. This is a distinct function from fixing interest on a refund the Authority has already ordered, which the Madhya Pradesh High Court held falls outside the Adjudicating Officer's power."
+    },
+    {
+      "q": "What should I do if the Authority's order does not clearly state an interest rate?",
+      "a": "Apply to the Authority itself for review or clarification rather than waiting for enforcement proceedings to resolve it. On the Jetal Construction reasoning, an Adjudicating Officer stepping in at that stage to fix an interest figure not present in the original order may not have the power to do so, leaving the gap unresolved in your favour."
+    },
+    {
+      "q": "Does the Madhya Pradesh ruling apply across India?",
+      "a": "It is a High Court decision, so it binds within Madhya Pradesh and is persuasive elsewhere. It sits comfortably alongside the Supreme Court's Newtech Promoters framework and an Allahabad High Court ruling reaching a similar underlying division of roles, but the exact fact pattern has not yet been tested in every state, so check local precedent before relying on it."
+    },
+    {
+      "q": "Can a developer use this ruling to challenge an interest award at enforcement?",
+      "a": "Yes, where the facts match: an Adjudicating Officer has independently fixed an interest figure that was not part of the Authority's substantive order. The challenge is narrow and goes to that interest component specifically, not to the underlying refund direction, which the Madhya Pradesh High Court left standing in Jetal Construction."
+    }
+  ],
+  "references": [
+    "Real Estate (Regulation and Development) Act, 2016, Sections 12, 14, 18, 19, 40, 71, 72",
+    "Newtech Promoters and Developers Pvt Ltd v. State of UP, (2022) 1 SCC 1",
+    "Jetal Construction Private Limited v. State of Madhya Pradesh, WP No. 20298 of 2025 (MP High Court, July 2026)",
+    "Habitech Infrastructure Pvt Ltd v. State of U.P., 2020 (Allahabad High Court)"
+  ],
+  "sources": [
+    "https://www.livelawbiz.com/rera/rera-adjudicating-officer-cannot-award-interest-while-enforcing-refund-order-madhya-pradesh-high-court-543244",
+    "https://www.livelawbiz.com/rera/livelawbiz-rera-cases-weekly-digest-july-26-august-1-2026-544308",
+    "https://www.casemine.com/commentary/in/allahabad-high-court-upholds-rera-authority's-power-to-order-refund-with-interest/view",
+    "https://www.livelaw.in/amp/top-stories/rera-regulatory-authority-has-exclusive-jurisdiction-to-direct-refund-to-allottee-adjudicating-officer-has-power-to-determine-compensation-supreme-court-185447"
+  ],
+  "verification_notes": "Jetal Construction holding (MP High Court, Justice Milind Ramesh Phadke, WP 20298 of 2025, July 2026, 10% interest award set aside, refund/compensation directions upheld) confirmed via LiveLawBiz's dedicated report and its RERA weekly digest. Newtech Promoters' holding that the Authority has exclusive jurisdiction over refund and interest, with the Adjudicating Officer confined to compensation under Sections 12, 14, 18, 19 read with Sections 71-72, confirmed via LiveLaw's Supreme Court report and cross-checked against the statutory text summary in search results. Habitech Infrastructure (Allahabad HC) holding confirmed via Casemine commentary; treated as consistent with, not contradicting, the Madhya Pradesh position, and flagged in the text as not yet tested on the identical enforcement-stage fact pattern. No specific interest rate formula (SBI MCLR plus margin) is asserted as a fixed, binding figure, only described as a common practice, since exact rates vary by state and order and were not independently confirmed for a universal figure."
+}

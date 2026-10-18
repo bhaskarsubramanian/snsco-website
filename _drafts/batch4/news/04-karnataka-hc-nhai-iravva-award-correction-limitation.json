@@ -1,0 +1,33 @@
+{
+  "slug": "karnataka-hc-nhai-iravva-award-correction-limitation",
+  "title": "30-Day Window to Correct an Arbitral Award Cannot Be Stretched, Rules Karnataka High Court",
+  "meta_description": "Karnataka High Court holds the 30-day limit for seeking correction of an arbitral award is rigid and a late application cannot revive time to challenge it.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "court": "Karnataka High Court",
+  "bench": "Vibhu Bakhru, C.J. and K.S. Hemalekha, J.",
+  "case_name": "National Highways Authority of India v. Iravva and connected matter",
+  "citation": "2026 KHC-D 9208-DB",
+  "decision_date": "2026-09-08",
+  "reported_by": [
+    "LiveLawBiz",
+    "Verdictum"
+  ],
+  "sources": [
+    "https://www.livelawbiz.com/arbitration/high-court/limitation-for-challenging-arbitral-award-applies-to-national-highways-act-arbitration-karnataka-high-court-549133",
+    "https://www.verdictum.in/app-lite/karnataka-high-court/national-highways-authority-of-india-v-iravva-and-connected-matter-2026khc-d9208-db-1618444"
+  ],
+  "body": [
+    "Parties who miss the window to challenge an arbitral award sometimes look for a side door back in, and one common attempt is to file a belated application asking the tribunal to correct or interpret the award, in the hope that this restarts the clock for a full challenge. The National Highways Authority of India tried exactly that route before the Karnataka High Court, and lost.",
+    "The dispute traced back to a compensation award under arbitration conducted for land acquired for a highway project. NHAI wanted to challenge the award under Section 34 of the Arbitration and Conciliation Act, 1996, but had let the ordinary limitation period slip. It then sought to rely on an application for correction or interpretation of the award, filed under Section 33, arguing that this application reset or extended the time available to file the Section 34 challenge itself. A single judge rejected that argument, and NHAI appealed to a Division Bench.",
+    "Chief Justice Vibhu Bakhru and Justice K.S. Hemalekha dismissed the appeal. The bench held that the 30-day period under the proviso to Section 34(3) of the Act, within which a party may seek correction or interpretation of an award, is itself inflexible. It cannot be extended beyond that 30-day window on any ground, and a party that misses it cannot use a late correction application to manufacture a fresh starting point for computing the limitation to challenge the award on the merits.",
+    "The bench was equally clear that this rule applies with full force to arbitrations conducted under the National Highways Act, 1956, and not just to arbitrations under the general Arbitration and Conciliation Act framework. NHAI's dispute arose out of a statutory compensation arbitration of exactly that kind, and the Court saw no reason to treat the special statute as creating a softer limitation regime than the one Parliament wrote into the Arbitration and Conciliation Act.",
+    "That connected matter is itself a reminder of how often compensation disputes under the National Highways Act end up riding on the general arbitration statute's procedural scaffolding, even though the substantive compensation dispute originates in a separate, special enactment. Litigants sometimes assume that a special statute's own timelines displace the Arbitration and Conciliation Act's limitation structure wholesale, and this ruling corrects that assumption for the specific question of correcting or challenging an award once one has been passed.",
+    "Protecting the finality that Section 34's limitation period is designed to deliver sits behind the reasoning here. If a party could always buy extra time by filing a correction application, however late, and then pointing to that application as the real trigger for the Section 34 clock, the 30-day and three-month limitation structure built into the Act would lose its force. Every disappointed party would have an incentive to file something, anything, under Section 33 just to create a later date to argue from, and courts would be forced to adjudicate the merits of these filler applications before even reaching the real limitation question.",
+    "For claimants and respondents alike in highway and infrastructure arbitrations, where compensation awards against statutory authorities are common and often contested, the ruling removes a tactic that NHAI and similarly placed parties have tried before: treating a correction application as a backstop against a missed limitation deadline. Once the 30-day window for seeking correction or interpretation closes, it closes for good, and no application filed afterward will be read as having restarted the separate clock for challenging the award itself.",
+    "Practitioners handling National Highways Act compensation arbitrations should calendar both deadlines independently from the date of the award, rather than treating the correction window as a fallback that buys room on the challenge deadline. A party that genuinely needs correction of an award, a wrong figure, an ambiguous direction, a clerical slip, still has that remedy available for 30 days, but should pursue a Section 34 challenge on its own timeline in parallel if there is any doubt about whether the underlying award will also need to be set aside."
+  ],
+  "why_it_matters": "Parties who miss the deadline to challenge an arbitral award under Section 34 cannot revive that deadline by filing a late correction or interpretation application under Section 33. This applies equally to statutory compensation arbitrations under the National Highways Act, so authorities and claimants in highway land acquisition disputes must track the Section 34 limitation period independently rather than treating a correction filing as a safety net.",
+  "card_summary": "Karnataka High Court holds the 30-day window to seek correction of an arbitral award is rigid, and a late correction application cannot be used to extend the deadline for challenging the award itself.",
+  "card_tip": "Do not use a Section 33 correction application to buy time for a Section 34 challenge; the two deadlines run independently and the 30-day window cannot be stretched.",
+  "verification_notes": "The case name, citation, bench composition (Chief Justice Vibhu Bakhru and Justice K.S. Hemalekha), decision date of 8 September 2026, and the core holding on the inflexibility of the 30-day Section 34(3) proviso window are confirmed across LiveLawBiz and Verdictum, both of which independently report that the ruling applies to National Highways Act arbitration. No facts were found in only one of the two sources that could not be cross-checked against the other."
+}

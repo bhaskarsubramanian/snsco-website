@@ -1,0 +1,36 @@
+{
+  "slug": "shabu-achary-dharampal-premchand-sc-cross-examination",
+  "title": "No Written Statement on Record Does Not Bar Cross-Examination on Trademark Use: Supreme Court",
+  "meta_description": "Supreme Court holds a trademark defendant can cross-examine the plaintiff on brand-use timeline, since the plaintiff's own pleaded claim raised it.",
+  "practice_area": "Intellectual Property",
+  "court": "Supreme Court of India",
+  "bench": "Not confirmed in sources reviewed",
+  "case_name": "Shabu K.N. Achary v. Dharampal Premchand Limited",
+  "citation": "Civil Appeal No. 10260 of 2026",
+  "decision_date": "2026-08-07",
+  "reported_by": [
+    "LiveLaw",
+    "The Indian Lawyer",
+    "The Law Advice",
+    "Manupatra"
+  ],
+  "sources": [
+    "https://www.livelaw.in/top-stories/trademark-suit-defendant-can-cross-examine-plaintiff-on-period-of-brand-use-though-written-statement-not-on-record-supreme-court-545419",
+    "https://theindianlawyer.in/where-the-defence-finds-its-voice-the-supreme-court-on-the-limits-of-cross-examination/",
+    "https://www.thelawadvice.com/news/supreme-court-defendant-can-cross-examine-plaintiff-on-brand-name-usage-even-if-written-statement-is-not-on-record",
+    "https://updates.manupatra.com/roundup/contentsummary.aspx?iid=51687"
+  ],
+  "body": [
+    "A trademark trial usually stalls on the merits of the mark itself, not on whether the defendant is even allowed to ask a question. In Shabu K.N. Achary v. Dharampal Premchand Limited, the fight that reached the Supreme Court was procedural: could a defendant whose written statement had not been taken on record cross-examine the plaintiff on how long it had actually used the brand name it claimed to own exclusively.",
+    "Dharampal Premchand had sued over its 'BABA' mark, and during trial the defendant's counsel put a question to the plaintiff about the period of its brand usage. The High Court expunged that question. Its reasoning was straightforward on its face: without a written statement on record, the defendant had no pleaded defence to anchor such a line of cross-examination, so the question amounted to nothing more than a fishing expedition unsupported by any case of the defendant's own.",
+    "The Supreme Court reversed that order. The bench reasoned that the absence of a written statement cuts both ways. It stops the defendant from introducing an independent defence that was never pleaded, but it does not stop the defendant from testing the plaintiff's own case on the plaintiff's own terms. Here, the plaintiff's affidavit and plaint specifically asserted infringement and claimed exclusive rights over the BABA mark, and that assertion necessarily rested on a claimed timeline of use. Once the plaintiff put that timeline into issue by pleading it, the defendant was entitled to probe it through cross-examination, written statement or not.",
+    "That distinction drew a clear line between questioning a plaintiff's own pleaded case and raising a fresh defence through the back door of cross-examination. The first is always permissible because every plaintiff who makes a claim can be tested on the basis for that claim. The second would indeed require pleadings, since a court cannot be asked to adjudicate a defence that was never set out for the plaintiff to answer. The High Court had conflated the two, treating a legitimate challenge to the plaintiff's asserted facts as if it were an attempt to smuggle in an unpleaded defence.",
+    "Having reversed the High Court, the bench directed that the trial resume with the plaintiff recalled so that the expunged question, and presumably the line of cross-examination following from it, can actually be put and answered. The Court was careful to say it had expressed no view on the merits of the underlying trademark dispute between the parties; its ruling settled only the narrow evidentiary question of what a defendant without a written statement is still allowed to ask.",
+    "The holding matters beyond this one case because written statements get kept off the record for all sorts of reasons: a late filing that was never taken on board, a procedural default, a defendant who simply never got around to filing one before the matter moved to evidence. Trial courts faced with that situation have sometimes treated the absence of pleadings as a reason to shut down cross-examination altogether, on the theory that an unpleaded defendant has nothing to test the plaintiff on. This ruling tells them that is the wrong instinct. A plaintiff's own claim, once made, is fair game for cross-examination regardless of what the defendant did or did not plead in response.",
+    "For litigants on either side of a trademark suit, the practical takeaway is narrower than it might first appear. A defendant without a written statement on record gains no general licence to run a defence through cross-examination questions alone, since any attempt to establish facts going beyond what the plaintiff has itself pleaded will still need a defence properly on record. What such a defendant can do, and what this judgment protects, is press the plaintiff on the specific facts the plaintiff chose to allege, including something as central to a trademark claim as exactly how long the plaintiff says it has used the mark it is suing to protect."
+  ],
+  "why_it_matters": "Courts cannot block a defendant from cross-examining a plaintiff on facts the plaintiff itself pleaded, such as the period of trademark use, merely because the defendant's written statement is not on record. Litigants facing a trial where pleadings were struck off or never filed should rely on this ruling to preserve their right to test the plaintiff's own asserted case, while knowing that any defence going beyond that will still require proper pleadings.",
+  "card_summary": "Supreme Court holds that a defendant can cross-examine a trademark plaintiff on its claimed period of brand use even though the defendant's written statement was never taken on record.",
+  "card_tip": "Without a written statement on record, you can still cross-examine the plaintiff on facts it pleaded itself, such as brand-use timeline, but not raise a fresh, unpleaded defence.",
+  "verification_notes": "Case name, appeal number, the High Court's expunging of the cross-examination question, and the Supreme Court's reasoning that the plaintiff's own pleaded claim over the 'BABA' mark made the usage timeline fair game for cross-examination are confirmed across LiveLaw, The Indian Lawyer and The Law Advice. The decision date of 7 August 2026 is given directly by one source and is consistent with the reporting window of the others. The names of the judges on the bench were not clearly stated in the sources reviewed and are therefore left unconfirmed rather than guessed."
+}
