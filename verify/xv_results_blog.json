@@ -233,5 +233,27 @@
         "reason": "The correct neutral citation for this judgment, decided 18 March 2025, is 2025 INSC 407."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch2/blog/15-hindu-succession-class-heirs-order-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.advocatekhoj.com/library/bareacts/hindusuccession/schedule.php",
+      "https://itatonline.org/digest/vineeta-sharma-v-rakesh-sharma-manu-sc-0582-2020-sc-www-itatonline-org",
+      "https://gyansanchay.csjmu.ac.in/wp-content/uploads/2022/09/12-Intestate-Succession-2-1.pdf"
+    ],
+    "note": "Section 8/9/10/11 structure, Class I and Class II composition (including Class II entry II listing son's daughter's son/daughter, brother, sister), the uterine-blood explanation (correctly described as excluding half-siblings related only through the mother), and the Vineeta Sharma (2020) 9 SCC 1 citation all check out against the Schedule text and secondary sources."
+  },
+  {
+    "file": "_drafts/batch2/blog/16-nri-poa-executed-abroad-apostille-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.advocatekhoj.com/library/bareacts/indianstamp/18.php",
+      "https://www.livelaw.in/amp/news-updates/andhra-pradesh-high-court-power-of-attorney-executed-outside-india-not-duly-stamped-impounded-penalty-195535",
+      "https://khuranaandkhurana.com/?p=11078"
+    ],
+    "note": "Section 18 Indian Stamp Act three-month stamping window for instruments executed outside India, the apostille/consular attestation distinction, and the Section 17 Registration Act registrability points all check out. The guide appropriately hedges on state-specific duty rates and the current Hague Convention member list rather than asserting unconfirmed specifics."
   }
 ]
