@@ -1,0 +1,81 @@
+{
+  "slug": "deemed-distribution-licensee-twin-test-guide",
+  "title": "Does Running Your Own Power Lines Make You a Distribution Licensee? The Railways Ruling Explained",
+  "meta_description": "What the Supreme Court's Indian Railways ruling says about the twin test for distribution licensee status, and why it controls surcharge liability.",
+  "practice_area": "Power, Energy & Mining",
+  "intro": [
+    "Large captive power users with their own internal electrical network, railways, ports, industrial estates, big campuses, often assume that building and running their own lines puts them in a special category under electricity law, somewhere between an ordinary consumer and a full distribution company. A May 2026 Supreme Court ruling involving Indian Railways answers that assumption directly, and the answer has real financial consequences, because the difference between being treated as a consumer and being treated as a distribution licensee determines whether cross-subsidy and additional surcharge apply to open-access power procurement.",
+    "This guide explains the twin test the Supreme Court applied, why owning and operating distribution infrastructure under a sector-specific statute does not by itself confer distribution-licensee status, and what this means for any large operator running its own internal network."
+  ],
+  "sections": [
+    {
+      "heading": "The Case: Indian Railways v. West Bengal State Electricity Distribution Company",
+      "paragraphs": [
+        "Indian Railways procures a significant share of its electricity through open access, buying power from sources other than the local distribution company and using the existing distribution network to carry it to its own installations, including traction systems and stations. The question before the Supreme Court was whether Railways, because it builds and maintains its own electrical distribution installations under the authority granted by the Railways Act, 1989, should be treated as a distribution licensee in its own right under the Electricity Act, 2003, rather than as an ordinary consumer of the distribution company whose network it uses.",
+        "The Supreme Court, in a judgment delivered on 8 May 2026 by Justices Dipankar Datta and Satish Chandra Sharma, rejected Railways' claim to deemed distribution licensee status. It held that Railways functions as a consumer, or end-user, of the electricity it procures for its own operations, not as a distributor supplying third parties, and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464."
+      ]
+    },
+    {
+      "heading": "Why the Railways Act Does Not Settle the Electricity Act Question",
+      "paragraphs": [
+        "Railways' core argument was that Section 11 of the Railways Act, 1989 specifically authorises it to lay down and maintain its own electrical traction and distribution infrastructure, and that this statutory authorisation should translate into distribution-licensee status for electricity regulatory purposes. The Supreme Court rejected this logic on the basis that the two statutes answer entirely different questions. The Railways Act's authorisation is about what Railways is permitted to build and operate for its own purposes; the Electricity Act's distribution-licensee classification is about a specific regulatory status defined by that separate statute's own criteria, and one does not automatically produce the other.",
+        "This matters well beyond Railways' own facts. Any entity operating under a sector-specific statute that authorises it to build its own electrical infrastructure, whether a port authority, an industrial development corporation, or a specialised infrastructure operator, cannot assume that its own enabling statute's authorisation to build and run lines does anything to resolve the separate question of its status under the Electricity Act. The two determinations are made independently, under different statutory tests, and a favourable answer under one does not carry over to the other."
+      ]
+    },
+    {
+      "heading": "The Twin Test the Court Actually Applied",
+      "paragraphs": [
+        "The functional test for distribution-licensee status under the Electricity Act has two independent limbs, and both have to be satisfied. The first is operating a distribution system, physical wires, substations and the infrastructure needed to carry electricity to end points. The second, and the one Railways failed, is actually supplying electricity to third-party consumers within a defined area through that system. An entity that operates a distribution network but consumes everything carried on it for its own purposes, with no third-party consumers drawing power from that same network, satisfies only the first limb and fails the test as a whole.",
+        "Railways consumes effectively all of the electricity it procures through its own network for its own operations, locomotives, signalling, stations and allied installations, with no outside consumers buying power through its internal distribution system. That self-consumption pattern is precisely what the Supreme Court treated as fatal to the deemed-licensee claim: operating distribution infrastructure is necessary but not sufficient, and an entity that never actually distributes electricity to anyone but itself has not met the second limb of the test, regardless of how extensive its own internal network might be."
+      ]
+    },
+    {
+      "heading": "Why the Classification Controls the Surcharge Bill",
+      "paragraphs": [
+        "The practical stakes in this classification question are substantial. An entity classified as a consumer procuring power through open access, rather than as a distribution licensee, is liable for cross-subsidy surcharge and, where applicable, additional surcharge on that procurement, charges designed to compensate the local distribution company for revenue it would otherwise have earned by supplying that consumer directly. A true distribution licensee supplying its own network of third-party consumers sits in a materially different regulatory position and does not carry the same surcharge liability in the same way on its own distribution activity.",
+        "For Railways, failing the deemed-licensee test meant the full weight of cross-subsidy and additional surcharge liability on its open-access procurement, a liability the Supreme Court's ruling fixed at a substantial figure running into the hundreds of crores. Any large consumer weighing whether to challenge its own surcharge liability on a similar deemed-licensee theory should treat this outcome as a serious warning about how far that argument is likely to get, absent facts genuinely different from Railways' own self-consumption pattern."
+      ]
+    },
+    {
+      "heading": "What This Means for Large Campus and Estate Operators",
+      "paragraphs": [
+        "SEZ operators, industrial park developers, and large township or campus operators running their own internal electrical distribution networks face the same twin test, applied to their own facts. An operator whose internal network supplies only its own facilities, with no tenants or third parties drawing power through that network as separate consumers, sits in the same position Railways did and should not expect deemed distribution-licensee status or the surcharge treatment that comes with it.",
+        "An operator whose network genuinely does supply third-party tenants or occupants as distinct consumers, billed and metered separately from the operator's own consumption, is in a materially different position and may have a real basis to argue distribution-licensee status for that portion of its activity, since the second limb of the test turns precisely on whether third parties are actually being supplied. Before relying on 'we built and run our own lines' as a basis for claiming distribution-licensee status and the surcharge exemptions associated with it, any such operator should confirm, honestly and specifically, whether its network supplies anyone besides itself, because that single fact is what decided the Railways case."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Indian Railways a distribution licensee under the Electricity Act?",
+      "a": "No. The Supreme Court held in May 2026 that Railways is a consumer of the electricity it procures for its own operations, not a distribution licensee, because it fails the second limb of the twin test: it does not supply electricity to third-party consumers through its own network."
+    },
+    {
+      "q": "What is the twin test for distribution licensee status?",
+      "a": "An entity must both operate a distribution system and actually supply electricity to third-party consumers within a defined area through that system. Satisfying only the first limb, owning and operating the physical infrastructure, is not enough if the entity consumes everything on its own network for its own purposes."
+    },
+    {
+      "q": "Does authorisation under a sector-specific statute to build power infrastructure confer distribution licensee status?",
+      "a": "No. The Supreme Court held that the Railways Act's authorisation for Railways to build and maintain its own electrical infrastructure does not translate into distribution licensee status under the separate Electricity Act framework, since the two statutes answer different questions using different criteria."
+    },
+    {
+      "q": "Why does distribution licensee status matter financially?",
+      "a": "A consumer procuring electricity through open access is liable for cross-subsidy surcharge and additional surcharge, compensating the local distribution company for lost revenue. A true distribution licensee supplying third-party consumers through its own network is not in the same surcharge position on that activity, so the classification directly controls a substantial cost."
+    },
+    {
+      "q": "Can an SEZ or industrial estate operator running its own power lines claim distribution licensee status?",
+      "a": "Only if its network actually supplies third-party tenants or occupants as separately metered consumers, satisfying the second limb of the twin test. An operator whose network serves only its own facilities, with no third-party consumers, is in the same position as Railways and should not expect deemed licensee treatment."
+    }
+  ],
+  "references": [
+    "Electricity Act, 2003 (distribution licensee classification and open-access surcharge framework)",
+    "Railways Act, 1989, Section 11",
+    "Indian Railways v. West Bengal State Electricity Distribution Company Limited & Ors., 2026 INSC 464 (Supreme Court, 8 May 2026)"
+  ],
+  "sources": [
+    "https://www.verdictum.in/app-lite/supreme-court/indian-railways-v-west-bengal-state-electricity-distribution-company-limited-2026-insc-464-consumer-under-electricity-act-deemed-licensee-1613640",
+    "https://powerline.net.in/2026/05/14/supreme-court-rules-railways-liable-to-pay-cross-subsidy-and-additional-surcharge/",
+    "https://www.sansalegal.com/post/indian-railways-is-a-consumer-under-the-electricity-act-supreme-court-rejects-deemed-licensee-claim",
+    "https://www.jsalaw.com/wp-content/uploads/2026/05/JSA-Prism-Electricity_Power-May-2026-Indian-Railways.Final.pdf"
+  ],
+  "verification_notes": "Case name, citation (2026 INSC 464), decision date (8 May 2026), bench (Dipankar Datta and Satish Chandra Sharma JJ), core holding (Railways is a consumer, not a deemed distribution licensee, dismissal of appeals, direction to compute cross-subsidy and additional surcharge), and the approximate Rs 1,600 crore outstanding figure confirmed across Verdictum, Powerline and SansaLegal reporting. The twin test (operating a distribution system AND supplying third-party consumers) and Railways' failure on the second limb due to pure self-consumption confirmed via the same sources describing Railways as an end-user rather than a distributor. The exact statutory provision establishing the twin test was reported inconsistently across sources, with one citing a proviso to Section 14 of the Electricity Act and another citing Section 143, so no specific section number is attributed to the twin test itself in this guide; only the Railways Act's Section 11 (which both the Railways' own argument and the reporting consistently reference) is cited with a specific number."
+}
