@@ -1,334 +1,370 @@
 [
-  {
-    "file": "_drafts/batch2/blog/01-section-11-foreign-seat-arbitration-guide.json",
-    "verdict": "FIX",
-    "claims_checked": 9,
-    "evidence": [
-      "https://api.sci.gov.in/supremecourt/2023/16417/16417_2023_1_1504_57037_Judgement_07-Nov-2024.pdf",
-      "https://law.asia/?p=560431",
-      "https://arbitrationblog.kluwerarbitration.com/2020/05/13/choice-of-seat-or-venue-supreme-court-of-india-dithers/",
-      "https://ssrana.in/articles/india-supreme-court-settles-the-law-with-regard-to-seat-vs-venue-of-arbitration/"
-    ],
-    "note": "Arif Azim v Micromax (2024 INSC 850, 7 Nov 2024, CJI Chandrachud/Pardiwala/Misra JJ, Shashoua principle, Dubai held seat), the distinct Arif Azim v Aptech limitation ruling, BALCO (2012) 9 SCC 552, and the Section 2(2) proviso covering Sections 9/27/37(1)(a)/37(3) all check out. But the guide mischaracterises Union of India v. Hardy Exploration, (2019) 13 SCC 472: it is cited as part of a line 'refining' BALCO's seat/venue test that led to Arif Azim, when in fact Hardy Exploration held the opposite (a named venue with no seat fixed did NOT become the seat) and was later held per incuriam / to have incorrectly interpreted BALCO by the three-judge bench in BGS SGS Soma JV v. NHPC Ltd. Citing it as supportive, refining authority is backwards.",
-    "fixes": [
-      {
-        "find": "going back to the Constitution Bench ruling in Bharat Aluminium Co. v. Kaiser Aluminium Technical Services (BALCO) and refined in later cases such as Union of India v. Hardy Exploration and Production. What makes Arif Azim useful",
-        "replace": "going back to the Constitution Bench ruling in Bharat Aluminium Co. v. Kaiser Aluminium Technical Services (BALCO) and its Shashoua-principle line. One earlier decision, Union of India v. Hardy Exploration and Production, (2019) 13 SCC 472, had gone the other way, treating a named venue as not amounting to a seat even with no seat otherwise fixed, but a three-judge bench in BGS SGS Soma JV v. NHPC Ltd. held that Hardy Exploration had incorrectly interpreted BALCO. Arif Azim sits with the corrected line, not with Hardy Exploration. What makes Arif Azim useful",
-        "reason": "Hardy Exploration is misdescribed as refining/supporting the BALCO seat-venue test; it actually reached the opposite result and was later held per incuriam in BGS SGS Soma JV v NHPC for misapplying BALCO."
-      }
-    ]
-  },
-  {
-    "file": "_drafts/batch2/blog/02-sarfaesi-redemption-right-cutoff-guide.json",
-    "verdict": "FIX",
-    "claims_checked": 7,
-    "evidence": [
-      "https://khaitanco.com/thought-leaderships/Celir_LLP_v_Bafna_Motors_SC_Holds_That_a_Mortgagors_Right_of_Redemption_Extinguishes_on_Issue_of_Notice_of_Auction_Under_the_SARFAESI_ACT",
-      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/sarfaesi-m-rajendran-v-kpk-oils-and-proteins-india-pvt-ltd/",
-      "https://foxmandal.in/News/supreme-court-reaffirms-right-of-redemption-ends-once-auction-notice-is-published-under-sarfaesi-act/",
-      "https://taxguru.in/corporate-law/m-rajendran-v-kpk-oils-proteins-india-pvt-ltd-supreme-courts-continued-shift-creditor-centric-enforcement-sarfaesi-act.html"
-    ],
-    "note": "Celir LLP v Bafna Motors (21 Sept 2023, right to redeem extinguished on publication of auction notice, not on sale completion) is correctly stated and well corroborated; Mathew Varghese is correctly described as the pre-amendment position. However, the guide's own verification_notes incorrectly asserts that no 2024-2026 decision applying or refining Celir LLP could be found. In fact the Supreme Court decided M. Rajendran and Ors. v. KPK Oils and Proteins India Pvt. Ltd. on 22 September 2025 (Pardiwala and Mahadevan JJ.), expressly reaffirming Celir LLP and clarifying that 'publication' means the composite notice process (service, newspaper publication, affixation and website upload). This on-point, confirming Supreme Court decision should be reflected rather than omitted as nonexistent.",
-    "fixes": [
-      {
-        "find": "Where an auction notice has already been published and the borrower missed that window, Celir LLP leaves very little room to argue the point before the DRT or a civil court based on the SARFAESI provision itself.",
-        "replace": "The Supreme Court reaffirmed this position in M. Rajendran and Ors. v. KPK Oils and Proteins India Pvt. Ltd. (decided 22 September 2025), holding again that the redemption right is lost on valid publication of the auction notice and does not survive until confirmation or registration of the sale, and clarifying that 'publication' refers to the composite notice process (service, newspaper publication, affixation and website upload), not a newspaper advertisement alone. Where an auction notice has already been published and the borrower missed that window, this line of authority leaves very little room to argue the point before the DRT or a civil court based on the SARFAESI provision itself.",
-        "reason": "Adds the on-point 2025 Supreme Court decision reaffirming Celir LLP, which exists and was missed."
-      },
-      {
-        "find": "No 2024-2026 Supreme Court or High Court decision applying or refining Celir LLP could be confirmed in the sources reviewed, so none is cited, and the case is correctly described as a 2023 ruling rather than claimed as a 2024-2026 development.",
-        "replace": "A 2025 Supreme Court decision applying and reaffirming Celir LLP, M. Rajendran and Ors. v. KPK Oils and Proteins India Pvt. Ltd. (decided 22 September 2025), was located on a later check and is now reflected in the text; the case is correctly described as a 2023 ruling with a confirming 2025 follow-on.",
-        "reason": "Corrects the verification note's inaccurate claim that no later confirming decision exists."
-      }
-    ]
-  },
-  {
-    "file": "_drafts/batch2/blog/03-anti-arbitration-injunction-foreign-seat-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 6,
-    "evidence": [
-      "https://api.sci.gov.in/jonew/judis/41175.pdf",
-      "https://blog.ipleaders.in/world-sport-group-mauritius-ltd-wsg-v-msm-satellite-singapore-pte-ltd/",
-      "https://aria.law.columbia.edu/?p=4011",
-      "https://www.livelaw.in/amp/articles/indian-approach-anti-arbitration-injunctions-foreign-seated-arbitrations-303065"
-    ],
-    "note": "World Sport Group (Mauritius) Ltd v MSM Satellite (Singapore) Pte Ltd (Supreme Court, 24 Jan 2014, Civil Appeal No. 895 of 2014) is correctly described: Section 45's inquiry is confined to the validity of the arbitration agreement itself (fraud on the main contract is not enough), and the Court recognised a sparingly-used inherent power of civil courts to grant anti-arbitration injunctions in exceptional cases. Section 45/48 roles and the Calcutta HC episode are appropriately hedged by the drafter given the citation was not independently found. No factual errors found."
-  },
-  {
-    "file": "_drafts/batch2/blog/04-fast-track-merger-section-233-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 6,
-    "evidence": [
-      "https://taxguru.in/company-law/small-company-thresholds-raised-mca-expands-capital-turnover-limits.html",
-      "https://taxguru.in/company-law/fast-track-merger-rules-2025-expanded-scope-companies.html",
-      "https://www.lexblog.com/?p=2573962",
-      "https://vinodkothari.com/2023/05/fast-track-merger-finally-on-a-faster-track/"
-    ],
-    "note": "Revised small-company thresholds (paid-up capital up to Rs 10 crore, turnover up to Rs 100 crore, effective 1 December 2025 under G.S.R. 880(E), amending the Specification of Definition Details Rules) confirmed. The September 2025 CAA Amendment Rules (G.S.R. 603(E)) broadening the holding-subsidiary category to unlisted subsidiaries (removing the wholly-owned requirement) confirmed. The 2023 amendment to Rule 25 (G.S.R. 367(E), effective 15 June 2023) fixing a 30-day window for ROC/Official Liquidator objections confirmed, including the follow-on confirmation timelines. No material errors found."
-  },
-  {
-    "file": "_drafts/batch2/blog/05-fssai-front-of-pack-warning-labels-guide.json",
-    "verdict": "FIX",
-    "claims_checked": 8,
-    "evidence": [
-      "https://www.verdictum.in/app-lite/court-updates/supreme-court/3s-and-our-health-society-v-union-of-india-fssai-regulation-package-safety-front-label-1574024",
-      "https://www.moneylife.in/article/why-waste-so-much-time-sc-questions-fssais-365day-voluntary-timeline-for-food-warning-labels-reserves-judgement/81782.html",
-      "https://www.livelaw.in/top-stories/why-one-year-needed-to-place-front-of-pack-labels-on-packaged-food-supreme-court-asks-fssai-reserves-judgment-552122",
-      "https://supremetoday.ai/supreme-court-questions-fssai-over-one-year-voluntary-period-for-front-of-pack-warning-labels-20260929016"
-    ],
-    "note": "The substance is well supported: the 13 Sept 2022 draft FOPL regulations, the parliamentary standing committee's push for time-bound finalisation, the February 2026 Supreme Court direction to FSSAI, the 28 September 2026 hearing where the Court questioned the 365-day voluntary-implementation proposal and reserved judgment, and the red-hexagon single-trigger design proposal are all independently confirmed (Moneylife, LiveLaw, Verdictum). However, the petitioner's name is wrong throughout the draft: it is '3S and Our Health Society' (Writ Petition (Civil) No. 437/2024), not '35 And Our Health Society'. This is a clear, checkable, recurring error (title in intro section, both body mentions, and both references entries).",
-    "fixes": [
-      {
-        "find": "In proceedings in 35 And Our Health Society v. Union of India, the Supreme Court has been pressing FSSAI directly on its plans.",
-        "replace": "In proceedings in 3S and Our Health Society v. Union of India, the Supreme Court has been pressing FSSAI directly on its plans.",
-        "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
-      },
-      {
-        "find": "the FSSAI regulatory process and the Supreme Court proceedings in 35 And Our Health Society, since either one could move the actual compliance date.",
-        "replace": "the FSSAI regulatory process and the Supreme Court proceedings in 3S and Our Health Society, since either one could move the actual compliance date.",
-        "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
-      },
-      {
-        "find": "\"35 And Our Health Society v. Union of India, Supreme Court of India, order dated 10 February 2026\"",
-        "replace": "\"3S and Our Health Society v. Union of India, Supreme Court of India, order dated 10 February 2026\"",
-        "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
-      },
-      {
-        "find": "\"35 And Our Health Society v. Union of India, Supreme Court of India, hearing of 28 September 2026 (judgment reserved)\"",
-        "replace": "\"3S and Our Health Society v. Union of India, Supreme Court of India, hearing of 28 September 2026 (judgment reserved)\"",
-        "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
-      }
-    ]
-  },
-  {
-    "file": "_drafts/batch2/blog/06-contractor-blacklisting-debarment-natural-justice-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 7,
-    "evidence": [
-      "https://www.ndl.gov.in/lw_document/supreme_court_india/supreme_court/35616",
-      "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2013/volume 14/Part I/2019_14_430 - 451_1703315630.pdf",
-      "https://www.scconline.com/blog/post/2022/03/29/bomikhal-flyover-collapse-is-permanent-debarment-of-guilty-contractor-too-harsh-what-makes-an-order-a-pre-determined-one-supreme-court-answers/",
-      "https://www.verdictum.in/court-updates/supreme-court/supreme-court-debarment-cannot-permanent-nature-of-offence-erring-contractor-1356641"
-    ],
-    "note": "Gorkha Security Services v State (NCT of Delhi) (2014) 9 SCC 105 (show-cause notice must specifically propose blacklisting) confirmed; Kulja Industries Ltd v Western Telecommunication/BSNL (decided 2013, reported (2014) 14 SCC 731) correctly described as holding debarment cannot be permanent and remanding to fix a proportionate period; the 2022 Bomikhal flyover case (Civil Appeal 1083/2022) correctly described as holding a notice issued after an inquiry report is not automatically predetermined. No errors found."
-  },
-  {
-    "file": "_drafts/batch2/blog/07-standard-essential-patent-frand-dispute-guide.json",
-    "verdict": "FIX",
-    "claims_checked": 8,
-    "evidence": [
-      "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-awards-244-crores-damages-ericsson-suit-lava-patents-infringement-254258",
-      "https://ssrana.in/articles/delhi-high-court-sets-aside-philips-dvd-sep-royalty-decree-essentiality-frand-patent-exhaustion-clarified/",
-      "https://www.iam-media.com/article/india-patent-courts-come-of-age-amid-key-rulings-and-stronger-enforcement",
-      "https://www.bananaip.com/intellepedia/philips-dvd-standard-essential-patent-damages-reversed-after-17-years/"
-    ],
-    "note": "Ericsson v Lava (28 March 2024, Justice Amit Bansal, ~Rs 244 crore damages plus 5% interest, 7 of 8 patents valid/infringed, comparable-licences approach on end-device price) confirmed. Philips v Bansal Division Bench (18 May 2026, RFA(OS)(COMM) 17/2018 & 18/2018, essentiality certificates not proved under Evidence Act s.45 for lack of claim charts, patent exhaustion under Patents Act s.107A(b)) confirmed by three independent sources. The guide says the status of Philips' Supreme Court challenge 'was not confirmed at the time this guide was prepared' -- that is now out of date: reporting (IAM Media) shows the Supreme Court agreed to hear the appeal and, by an order of 8 July 2026, maintained status quo and stayed the Bansals' restitution proceedings pending disposal.",
-    "fixes": [
-      {
-        "find": "The current reported status of that challenge was not confirmed at the time this guide was prepared, so the Division Bench's ruling, while the latest word from the Delhi High Court on this specific dispute, may not be the final word in the underlying case.",
-        "replace": "The Supreme Court has agreed to hear that challenge and, by an order reported as of 8 July 2026, directed that status quo be maintained and stayed the Bansals' restitution proceedings in the Delhi High Court pending disposal of the appeal, so the Division Bench's ruling, while the latest word from the Delhi High Court on this specific dispute, is not the final word in the underlying case.",
-        "reason": "Updates an outdated 'status not confirmed' statement with the now-available, single-sourced but specific procedural update (SLP admitted, status quo order of 8 July 2026)."
-      }
-    ]
-  },
-  {
-    "file": "_drafts/batch2/blog/08-ppa-termination-discom-payment-default-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 6,
-    "evidence": [
-      "https://aptel.gov.in/sites/default/files/2024-12/Dec%20Judgment%20%20in%20APL%20No.%20200%20%26%20201%20of%202024-18th%20dec.pdf",
-      "https://mercomindia.com/aptel-power-generators-order-wind-companies",
-      "https://aperc.gov.in/admin/upload/FINALORDERdt.20-12-2023inOPNos.3-13-32-33of2023-upld-21122023.pdf",
-      "https://mercomindia.com/daily-news-wrap-up-aptel-upholds-wind-power-firms-right-to-terminate-ppas"
-    ],
-    "note": "APTEL judgment in APL No. 200 and 201 of 2024 (18 Dec 2024), appellants APSPDCL/APPCC/APTRANSCO, respondents Vaayu (India) Power Corporation and Vishwind Infrastructure, upholding termination for persistent payment default and the right to sell via open access, with the underlying APERC order of 20 December 2023, all confirmed via the primary APTEL judgment PDF and Mercom's reporting. No errors found in the facts checked."
-  },
-  {
-    "file": "_drafts/batch2/blog/09-rera-recovery-certificate-enforcement-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 6,
-    "evidence": [
-      "https://www.indialaw.in/blog/real-estate/k-rera-recovery-certificates-enforcement-karnataka-high/",
-      "https://propnewstime.com/latestnewsstories/MzEwNDA=/karnataka-high-court-orders-time-bound-enforcement-of-rera-recovery-certificate-in-developer-dues-case",
-      "https://supremetoday.ai/mere-pendency-of-cirp-does-not-bar-rera-recovery-actions-karnataka-high-court-20260822075",
-      "https://www.livelawbiz.com/high-court/karnataka-high-court/karnataka-high-court-insolvency-and-bankruptcy-code-overriding-effect-does-not-automatically-bar-proceedings-under-other-laws-546770"
-    ],
-    "note": "Rajesh Rao C.V. v State of Karnataka (W.P. No. 13245 of 2026, 27 April 2026, mandamus directing execution of K-RERA recovery certificates within eight weeks) is now corroborated by a second source (Propnewstime) beyond the single source the drafter flagged. M. Govind Reddy v State of Karnataka (W.P. No. 23165 of 2026, 11 August 2026, CIRP pendency does not automatically bar RERA recovery) confirmed by two independent sources. Section 40(1)/(2) description matches the bare act. No errors found."
-  },
-  {
-    "file": "_drafts/batch2/blog/10-income-tax-compounding-offences-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 7,
-    "evidence": [
-      "https://bdo.in/en-gb/insights/alerts-updates/direct-tax-alert-cbdt-issues-revised-guidelines-for-compounding-of-offences-under-the-it-act",
-      "https://foxmandal.in/news/cbdt-issues-revised-guidelines-for-compounding-offences/",
-      "https://vasai.icai.org/detail/53959.aspx",
-      "https://www.taxheal.com/?p=81163"
-    ],
-    "note": "CBDT's revised compounding guidelines effective 17 October 2024 (superseding 2008/2014/2019/2022 guidelines), elimination of the offence-category structure, removal of the cap on number of applications, removal of the 36-month filing window, permitting compounding under Sections 275A and 276B, application to pending cases without redetermination, and the 2025 FAQ circular (Circular No. 04/2025) are all independently confirmed. No errors found."
-  },
-  {
-    "file": "_drafts/batch2/blog/11-unilateral-arbitrator-appointment-core-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 10,
-    "evidence": [
-      "https://api.sci.gov.in/supremecourt/2019/28531/28531_2019_1_1502_57055_Order_08-Nov-2024.pdf",
-      "https://lawsathi.in/judgements/sc/2024/central-organisation-railway-electrification-eci-spic-smo-mcml-jv-joint-venture/",
-      "https://theamikusqriae.com/perkins-eastman-architects-dpc-v-hscc-india-ltd-2020-20-scc-760/",
-      "https://www.lekhanews.in/judgment/trf-v-energo-engineering-2017/"
-    ],
-    "note": "Bench, 8 Nov 2024 date, Article 14 holding, overruling of 2020 three-judge CORE decision, and the TRF Ltd (2017) 8 SCC 377 / Perkins Eastman (2020) 20 SCC 760 citations all check out across independent sources. The open question on retroactive effect on completed arbitrations is correctly flagged by the guide itself as unsettled."
-  },
-  {
-    "file": "_drafts/batch2/blog/12-ibc-arbitration-clause-override-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 9,
-    "evidence": [
-      "https://thelegalquorum.com/detailed-case-commentary-of-innovantive-industries-ltd-vs-icici-bank-2018-1-scc-407/",
-      "https://www.thelegallock.com/resources/case-briefs/case-brief-mobilox-innovations-pvt-ltd-vs-kirusa-software-pvt-ltd",
-      "https://law.asia/disputed-claims-not-defaults-ibc/",
-      "https://www.scconline.com/blog/post/2021/06/12/indus-biotech-v-kotak/"
-    ],
-    "note": "Indus Biotech v Kotak (26 Mar 2021, 2021 INSC 216) holding on default-first inquiry under Section 7 confirmed, as are the Innoventive Industries (2018) 1 SCC 407 and Mobilox (2018) 1 SCC 353 citations and the Section 238/Section 8 IBC framework described."
-  },
-  {
-    "file": "_drafts/batch2/blog/13-part-performance-section-53a-guide.json",
-    "verdict": "FIX",
-    "claims_checked": 8,
-    "evidence": [
-      "https://pure.jgu.edu.in/id/eprint/1966/",
-      "https://www.livelaw.in/amp/parliament-passes-specific-relief-amendment-bill-making-specific-performance-of-contract-compulsorily-enforceable",
-      "https://cbcl.nliu.ac.in/contemporary-issues/substituted-performance-a-new-perspective-in-specific-relief-amendment-act-2018/",
-      "https://lawfoyer.in/doctrine-of-part-performance-section-53a-transfer-of-property-act/"
-    ],
-    "note": "Section 53A doctrine, the 2001 registration requirement, and the Balbir Singh Maini shield-not-sword framing all check out. But the references list cites Specific Relief Act Sections 10 and 20 for the specific-performance discussion; the 2018 amendment substituted Section 20 entirely to deal with 'substituted performance' (not discretionary guidelines for specific performance), so citing it here is a stale/wrong pointer for a buyer reading this guide today.",
-    "fixes": [
-      {
-        "find": "Specific Relief Act, 1963, Sections 10 and 20",
-        "replace": "Specific Relief Act, 1963, Sections 10 and 16",
-        "reason": "Section 20 was substituted by the Specific Relief (Amendment) Act, 2018 and now deals with a creditor's right to substituted performance, not with specific performance guidelines; it no longer supports the specific-performance discussion in this guide. Section 16 (personal bars, including readiness and willingness to perform) is the current provision relevant to that discussion."
-      }
-    ]
-  },
-  {
-    "file": "_drafts/batch2/blog/14-land-acquisition-section-24-2-lapse-guide.json",
-    "verdict": "FIX",
-    "claims_checked": 8,
-    "evidence": [
-      "https://lawfoyer.in/state-of-haryana-others-v-aalamgir-others-2025-3-s-c-r-1460-2025-insc-407/",
-      "https://www.supremecourtcases.com/state-of-haryana-and-others-v-aalamgir-and-others/",
-      "https://www.verdictum.in/court-updates/supreme-court/state-of-haryana-v-aalamgir-2024-insc-407-land-acquisition-case-costs-imposed-1572614",
-      "https://www.scobserver.in/cases/indore-development-authority-manoharlal-land-acquisition-case-background/"
-    ],
-    "note": "Indore Development Authority v Manoharlal (2020) 8 SCC 129 and its overruling of Pune Municipal Corporation (2014) 3 SCC 183 check out. But State of Haryana v. Aalamgir was decided 18 March 2025 (bench of Nagarathna and Satish Chandra Sharma JJ), not 2024; the correct neutral citation is 2025 INSC 407, not 2024 INSC 407 as the guide states (the '2024' appears to come from appeal numbers in the consolidated matter, not the judgment date).",
-    "fixes": [
-      {
-        "find": "a 2024 Supreme Court order in State of Haryana v. Aalamgir",
-        "replace": "a 2025 Supreme Court order in State of Haryana v. Aalamgir",
-        "reason": "State of Haryana v. Aalamgir was decided on 18 March 2025, not in 2024."
-      },
-      {
-        "find": "State of Haryana v. Aalamgir, 2024 INSC 407",
-        "replace": "State of Haryana v. Aalamgir, 2025 INSC 407",
-        "reason": "The correct neutral citation for this judgment, decided 18 March 2025, is 2025 INSC 407."
-      }
-    ]
-  },
-  {
-    "file": "_drafts/batch2/blog/15-hindu-succession-class-heirs-order-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 9,
-    "evidence": [
-      "https://www.advocatekhoj.com/library/bareacts/hindusuccession/schedule.php",
-      "https://itatonline.org/digest/vineeta-sharma-v-rakesh-sharma-manu-sc-0582-2020-sc-www-itatonline-org",
-      "https://gyansanchay.csjmu.ac.in/wp-content/uploads/2022/09/12-Intestate-Succession-2-1.pdf"
-    ],
-    "note": "Section 8/9/10/11 structure, Class I and Class II composition (including Class II entry II listing son's daughter's son/daughter, brother, sister), the uterine-blood explanation (correctly described as excluding half-siblings related only through the mother), and the Vineeta Sharma (2020) 9 SCC 1 citation all check out against the Schedule text and secondary sources."
-  },
-  {
-    "file": "_drafts/batch2/blog/16-nri-poa-executed-abroad-apostille-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 6,
-    "evidence": [
-      "https://www.advocatekhoj.com/library/bareacts/indianstamp/18.php",
-      "https://www.livelaw.in/amp/news-updates/andhra-pradesh-high-court-power-of-attorney-executed-outside-india-not-duly-stamped-impounded-penalty-195535",
-      "https://khuranaandkhurana.com/?p=11078"
-    ],
-    "note": "Section 18 Indian Stamp Act three-month stamping window for instruments executed outside India, the apostille/consular attestation distinction, and the Section 17 Registration Act registrability points all check out. The guide appropriately hedges on state-specific duty rates and the current Hague Convention member list rather than asserting unconfirmed specifics."
-  },
-  {
-    "file": "_drafts/batch2/blog/17-advocates-consumer-protection-act-guide.json",
-    "verdict": "FIX",
-    "claims_checked": 9,
-    "evidence": [
-      "https://lawsathi.in/judgements/sc/2024/bar-indian-lawyers-through-its-president-jasbir-singh-malik-gandhi-ps-national/",
-      "https://www.livelaw.in/amp/top-stories/supreme-court-refuses-to-reconsider-judgment-which-brought-doctors-under-consumer-protection-act-says-reference-was-unnecessary-274529",
-      "https://www.barandbench.com/law-firms/view-point/are-advocates-liable-for-deficiency-in-service-under-the-consumer-protection-act",
-      "https://www.iasgyan.in/daily-current-affairs/indian-medical-association-vs-v-p-shantha-1995"
-    ],
-    "note": "Bar of Indian Lawyers v D.K. Gandhi (14 May 2024, 2024 INSC 410, Trivedi and Mithal JJ) and its holding on advocates check out. But the guide is outdated on the medical-profession question: a three-judge bench led by Justice B.R. Gavai already declined, on 7 November 2024, to revisit Indian Medical Association v. V.P. Shantha, holding the reference unnecessary. The guide still frames this as an open question pending before a larger bench, when the larger bench has in fact already acted (by declining to revisit), so doctors/hospitals remaining covered is now settled, not pending.",
-    "fixes": [
-      {
-        "find": "Until that larger bench actually decides the question, Indian Medical Association v. V.P. Shantha continues to apply, and consumer complaints against doctors and hospitals for medical negligence remain maintainable as they were before this ruling.",
-        "replace": "On 7 November 2024, a three-judge bench led by Justice B.R. Gavai declined to revisit Indian Medical Association v. V.P. Shantha, holding that the reference was unnecessary. That ruling continues to apply, and consumer complaints against doctors and hospitals for medical negligence remain maintainable as they were before the Bar of Indian Lawyers ruling.",
-        "reason": "The question was not left open for a larger bench to decide later; a three-judge bench already declined to revisit V.P. Shantha on 7 November 2024, so the position is settled rather than pending."
-      },
-      {
-        "find": "Anyone advising a client in either field should track whether and how the larger bench eventually rules on the medical question, since that could bring the two closer together or could confirm the distinction the Court has drawn.",
-        "replace": "A three-judge bench has already confirmed this distinction, declining on 7 November 2024 to revisit the medical-profession ruling, so the difference between the two professions under consumer law should be treated as settled rather than pending.",
-        "reason": "Same outdated 'pending larger bench' framing; the larger bench already ruled on 7 November 2024."
-      },
-      {
-        "find": "No, not yet. The Court expressed doubt about the correctness of the earlier ruling covering medical practitioners and referred that question to a larger bench, but did not overrule it. Until a larger bench decides otherwise, consumer complaints against doctors and hospitals for medical negligence remain maintainable as before.",
-        "replace": "No. The Court expressed doubt about the correctness of the earlier ruling covering medical practitioners and referred that question to a larger bench, but a three-judge bench declined to revisit it on 7 November 2024, holding the reference was unnecessary. Consumer complaints against doctors and hospitals for medical negligence remain maintainable as before.",
-        "reason": "FAQ answer repeats the outdated 'not yet decided' framing; the larger bench already declined to revisit the ruling on 7 November 2024."
-      }
-    ]
-  },
-  {
-    "file": "_drafts/batch2/blog/18-section-25o-closure-permission-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 8,
-    "evidence": [
-      "https://lawfoyer.in/harinagar-sugar-mills-ltd-biscuit-division-anr-v-state-of-maharashtra-ors-2025-7-scr-427-2025-insc-801/",
-      "https://rawlaw.in/supreme-court-holds-deemed-closure-valid-where-no-proper-order-issued-by-competent-authority-business-cannot-be-forced-to-run-indefinitely-in-face-of-administrative-inaction-article-19/",
-      "https://theindianlawyer.in/right-to-close-vs-duty-to-justify-supreme-court-clarifies-section-25-o-of-the-industrial-dispute-act-1947/"
-    ],
-    "note": "Harinagar Sugar Mills v State of Maharashtra (4 June 2025, 2025 INSC 801, Karol and Mishra JJ) holding that only the Maharashtra Labour Minister (not a Deputy Secretary) could decide the application, and that deemed closure under Section 25-O(3) followed, checks out. The guide appropriately declines to state an unconfirmed specific number of days for the statutory response window."
-  },
-  {
-    "file": "_drafts/batch2/blog/19-section-24-hma-interim-maintenance-guide.json",
-    "verdict": "PASS",
-    "claims_checked": 8,
-    "evidence": [
-      "https://www.scconline.com/blog/?p=245505",
-      "https://blog.ipleaders.in/maintenance-under-section-125-crpc-section-144-bnss/",
-      "https://www.scobserver.in/journal/court-frames-comprehensive-guidelines-on-maintenance/"
-    ],
-    "note": "Rajnesh v Neha (2021) 2 SCC 324, the Article 142 disclosure-affidavit guidelines, and the Section 125 CrPC / Section 144 BNSS correspondence all check out. The guide correctly avoids stating the informal one-fourth/one-fifth rule as binding law."
-  },
-  {
-    "file": "_drafts/batch2/blog/20-attachment-before-judgment-order-38-rule-5-guide.json",
-    "verdict": "FIX",
-    "claims_checked": 8,
-    "evidence": [
-      "https://www.verdictum.in/court-updates/supreme-court/lk-prabhu-l-krishna-prabhu-died-through-lrs-v-kt-mathew-thampan-thomas-ors-2025-insc-1364-1599524",
-      "https://law.drishtiias.com/current-affairs/fraudulent-transfer-and-attachment-before-judgment",
-      "https://www.legitquest.com/case/ms-raman-tech-process-enggcoanr-v-ms-solanki-traders/A5E41",
-      "https://www.caseciter.com/l-k-prabhu-v-k-t-mathew-neutral-citation-2025-insc-1364-order-xxxviii-rule-5-cpc-attachment-before-judgment-already-transferred-property/"
-    ],
-    "note": "Raman Tech. (2008) 2 SCC 302 checks out. L.K. Prabhu v K.T. Mathew (28 Nov 2025, 2025 INSC 1364) exists, but the guide overstates its scope: the registered sale deed in that case (28 June 2004) was executed before the suit was even filed (18 December 2004), well before the attachment (13 Feb 2005). The Court's holding is tied to a pre-suit transfer, not simply any transfer 'before the attachment' as the guide states; a transfer made after suit filing but before attachment raises a separate lis pendens question the ruling does not resolve the same way.",
-    "fixes": [
-      {
-        "find": "holding that an attachment before judgment under Order XXXVIII Rule 5 cannot be extended to reach property that has already been transferred to a third party before the attachment, where that third party's rights were acquired independently of the dispute between the original parties.",
-        "replace": "holding that an attachment before judgment under Order XXXVIII Rule 5 cannot be extended to reach property that was already conveyed to a third party by a registered sale deed executed before the suit was even filed, where that third party's rights were acquired independently of the dispute between the original parties. The ruling does not resolve what happens where the transfer occurs after the suit is filed but before the attachment order itself, a scenario the lis pendens doctrine under Section 52 of the Transfer of Property Act may separately affect.",
-        "reason": "In L.K. Prabhu, the sale deed was executed before the suit was even filed, not merely before the attachment order; the guide's broader framing ('before the attachment') overstates the protection to cover post-suit, pre-attachment transfers that the ruling did not address."
-      },
-      {
-        "find": "Generally no, if the third party acquired the property bona fide and independently of your dispute, following the Supreme Court's 2025 ruling in L.K. Prabhu v. K.T. Mathew. If you believe the transfer itself was designed to defeat your claim, you would need to separately challenge that transfer as fraudulent, rather than assume the original attachment automatically extends to it.",
-        "replace": "It depends on when the transfer happened. The Supreme Court's 2025 ruling in L.K. Prabhu v. K.T. Mathew held that attachment cannot reach property already conveyed by a registered sale deed executed before the suit was even filed. A transfer made after the suit was filed but before the attachment order raises a different question involving the lis pendens doctrine, which that ruling did not decide. If you believe the transfer itself was designed to defeat your claim, you would need to separately challenge that transfer as fraudulent, rather than assume the original attachment automatically extends to it.",
-        "reason": "Same overstatement in the FAQ answer: the ruling protects a pre-suit transfer specifically, not any transfer that predates the attachment order."
-      }
-    ]
-  }
+ {
+  "file": "_drafts/batch2/blog/01-section-11-foreign-seat-arbitration-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 9,
+  "evidence": [
+   "https://api.sci.gov.in/supremecourt/2023/16417/16417_2023_1_1504_57037_Judgement_07-Nov-2024.pdf",
+   "https://law.asia/?p=560431",
+   "https://arbitrationblog.kluwerarbitration.com/2020/05/13/choice-of-seat-or-venue-supreme-court-of-india-dithers/",
+   "https://ssrana.in/articles/india-supreme-court-settles-the-law-with-regard-to-seat-vs-venue-of-arbitration/"
+  ],
+  "note": "Arif Azim v Micromax (2024 INSC 850, 7 Nov 2024, CJI Chandrachud/Pardiwala/Misra JJ, Shashoua principle, Dubai held seat), the distinct Arif Azim v Aptech limitation ruling, BALCO (2012) 9 SCC 552, and the Section 2(2) proviso covering Sections 9/27/37(1)(a)/37(3) all check out. But the guide mischaracterises Union of India v. Hardy Exploration, (2019) 13 SCC 472: it is cited as part of a line 'refining' BALCO's seat/venue test that led to Arif Azim, when in fact Hardy Exploration held the opposite (a named venue with no seat fixed did NOT become the seat) and was later held per incuriam / to have incorrectly interpreted BALCO by the three-judge bench in BGS SGS Soma JV v. NHPC Ltd. Citing it as supportive, refining authority is backwards.",
+  "fixes": [
+   {
+    "find": "going back to the Constitution Bench ruling in Bharat Aluminium Co. v. Kaiser Aluminium Technical Services (BALCO) and refined in later cases such as Union of India v. Hardy Exploration and Production. What makes Arif Azim useful",
+    "replace": "going back to the Constitution Bench ruling in Bharat Aluminium Co. v. Kaiser Aluminium Technical Services (BALCO) and its Shashoua-principle line. One earlier decision, Union of India v. Hardy Exploration and Production, (2019) 13 SCC 472, had gone the other way, treating a named venue as not amounting to a seat even with no seat otherwise fixed, but a three-judge bench in BGS SGS Soma JV v. NHPC Ltd. held that Hardy Exploration had incorrectly interpreted BALCO. Arif Azim sits with the corrected line, not with Hardy Exploration. What makes Arif Azim useful",
+    "reason": "Hardy Exploration is misdescribed as refining/supporting the BALCO seat-venue test; it actually reached the opposite result and was later held per incuriam in BGS SGS Soma JV v NHPC for misapplying BALCO."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/02-sarfaesi-redemption-right-cutoff-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://khaitanco.com/thought-leaderships/Celir_LLP_v_Bafna_Motors_SC_Holds_That_a_Mortgagors_Right_of_Redemption_Extinguishes_on_Issue_of_Notice_of_Auction_Under_the_SARFAESI_ACT",
+   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/sarfaesi-m-rajendran-v-kpk-oils-and-proteins-india-pvt-ltd/",
+   "https://foxmandal.in/News/supreme-court-reaffirms-right-of-redemption-ends-once-auction-notice-is-published-under-sarfaesi-act/",
+   "https://taxguru.in/corporate-law/m-rajendran-v-kpk-oils-proteins-india-pvt-ltd-supreme-courts-continued-shift-creditor-centric-enforcement-sarfaesi-act.html"
+  ],
+  "note": "Celir LLP v Bafna Motors (21 Sept 2023, right to redeem extinguished on publication of auction notice, not on sale completion) is correctly stated and well corroborated; Mathew Varghese is correctly described as the pre-amendment position. However, the guide's own verification_notes incorrectly asserts that no 2024-2026 decision applying or refining Celir LLP could be found. In fact the Supreme Court decided M. Rajendran and Ors. v. KPK Oils and Proteins India Pvt. Ltd. on 22 September 2025 (Pardiwala and Mahadevan JJ.), expressly reaffirming Celir LLP and clarifying that 'publication' means the composite notice process (service, newspaper publication, affixation and website upload). This on-point, confirming Supreme Court decision should be reflected rather than omitted as nonexistent.",
+  "fixes": [
+   {
+    "find": "Where an auction notice has already been published and the borrower missed that window, Celir LLP leaves very little room to argue the point before the DRT or a civil court based on the SARFAESI provision itself.",
+    "replace": "The Supreme Court reaffirmed this position in M. Rajendran and Ors. v. KPK Oils and Proteins India Pvt. Ltd. (decided 22 September 2025), holding again that the redemption right is lost on valid publication of the auction notice and does not survive until confirmation or registration of the sale, and clarifying that 'publication' refers to the composite notice process (service, newspaper publication, affixation and website upload), not a newspaper advertisement alone. Where an auction notice has already been published and the borrower missed that window, this line of authority leaves very little room to argue the point before the DRT or a civil court based on the SARFAESI provision itself.",
+    "reason": "Adds the on-point 2025 Supreme Court decision reaffirming Celir LLP, which exists and was missed."
+   },
+   {
+    "find": "No 2024-2026 Supreme Court or High Court decision applying or refining Celir LLP could be confirmed in the sources reviewed, so none is cited, and the case is correctly described as a 2023 ruling rather than claimed as a 2024-2026 development.",
+    "replace": "A 2025 Supreme Court decision applying and reaffirming Celir LLP, M. Rajendran and Ors. v. KPK Oils and Proteins India Pvt. Ltd. (decided 22 September 2025), was located on a later check and is now reflected in the text; the case is correctly described as a 2023 ruling with a confirming 2025 follow-on.",
+    "reason": "Corrects the verification note's inaccurate claim that no later confirming decision exists."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/03-anti-arbitration-injunction-foreign-seat-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://api.sci.gov.in/jonew/judis/41175.pdf",
+   "https://blog.ipleaders.in/world-sport-group-mauritius-ltd-wsg-v-msm-satellite-singapore-pte-ltd/",
+   "https://aria.law.columbia.edu/?p=4011",
+   "https://www.livelaw.in/amp/articles/indian-approach-anti-arbitration-injunctions-foreign-seated-arbitrations-303065"
+  ],
+  "note": "World Sport Group (Mauritius) Ltd v MSM Satellite (Singapore) Pte Ltd (Supreme Court, 24 Jan 2014, Civil Appeal No. 895 of 2014) is correctly described: Section 45's inquiry is confined to the validity of the arbitration agreement itself (fraud on the main contract is not enough), and the Court recognised a sparingly-used inherent power of civil courts to grant anti-arbitration injunctions in exceptional cases. Section 45/48 roles and the Calcutta HC episode are appropriately hedged by the drafter given the citation was not independently found. No factual errors found."
+ },
+ {
+  "file": "_drafts/batch2/blog/04-fast-track-merger-section-233-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://taxguru.in/company-law/small-company-thresholds-raised-mca-expands-capital-turnover-limits.html",
+   "https://taxguru.in/company-law/fast-track-merger-rules-2025-expanded-scope-companies.html",
+   "https://www.lexblog.com/?p=2573962",
+   "https://vinodkothari.com/2023/05/fast-track-merger-finally-on-a-faster-track/"
+  ],
+  "note": "Revised small-company thresholds (paid-up capital up to Rs 10 crore, turnover up to Rs 100 crore, effective 1 December 2025 under G.S.R. 880(E), amending the Specification of Definition Details Rules) confirmed. The September 2025 CAA Amendment Rules (G.S.R. 603(E)) broadening the holding-subsidiary category to unlisted subsidiaries (removing the wholly-owned requirement) confirmed. The 2023 amendment to Rule 25 (G.S.R. 367(E), effective 15 June 2023) fixing a 30-day window for ROC/Official Liquidator objections confirmed, including the follow-on confirmation timelines. No material errors found."
+ },
+ {
+  "file": "_drafts/batch2/blog/05-fssai-front-of-pack-warning-labels-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.verdictum.in/app-lite/court-updates/supreme-court/3s-and-our-health-society-v-union-of-india-fssai-regulation-package-safety-front-label-1574024",
+   "https://www.moneylife.in/article/why-waste-so-much-time-sc-questions-fssais-365day-voluntary-timeline-for-food-warning-labels-reserves-judgement/81782.html",
+   "https://www.livelaw.in/top-stories/why-one-year-needed-to-place-front-of-pack-labels-on-packaged-food-supreme-court-asks-fssai-reserves-judgment-552122",
+   "https://supremetoday.ai/supreme-court-questions-fssai-over-one-year-voluntary-period-for-front-of-pack-warning-labels-20260929016"
+  ],
+  "note": "The substance is well supported: the 13 Sept 2022 draft FOPL regulations, the parliamentary standing committee's push for time-bound finalisation, the February 2026 Supreme Court direction to FSSAI, the 28 September 2026 hearing where the Court questioned the 365-day voluntary-implementation proposal and reserved judgment, and the red-hexagon single-trigger design proposal are all independently confirmed (Moneylife, LiveLaw, Verdictum). However, the petitioner's name is wrong throughout the draft: it is '3S and Our Health Society' (Writ Petition (Civil) No. 437/2024), not '35 And Our Health Society'. This is a clear, checkable, recurring error (title in intro section, both body mentions, and both references entries).",
+  "fixes": [
+   {
+    "find": "In proceedings in 35 And Our Health Society v. Union of India, the Supreme Court has been pressing FSSAI directly on its plans.",
+    "replace": "In proceedings in 3S and Our Health Society v. Union of India, the Supreme Court has been pressing FSSAI directly on its plans.",
+    "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
+   },
+   {
+    "find": "the FSSAI regulatory process and the Supreme Court proceedings in 35 And Our Health Society, since either one could move the actual compliance date.",
+    "replace": "the FSSAI regulatory process and the Supreme Court proceedings in 3S and Our Health Society, since either one could move the actual compliance date.",
+    "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
+   },
+   {
+    "find": "\"35 And Our Health Society v. Union of India, Supreme Court of India, order dated 10 February 2026\"",
+    "replace": "\"3S and Our Health Society v. Union of India, Supreme Court of India, order dated 10 February 2026\"",
+    "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
+   },
+   {
+    "find": "\"35 And Our Health Society v. Union of India, Supreme Court of India, hearing of 28 September 2026 (judgment reserved)\"",
+    "replace": "\"3S and Our Health Society v. Union of India, Supreme Court of India, hearing of 28 September 2026 (judgment reserved)\"",
+    "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/06-contractor-blacklisting-debarment-natural-justice-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.ndl.gov.in/lw_document/supreme_court_india/supreme_court/35616",
+   "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2013/volume 14/Part I/2019_14_430 - 451_1703315630.pdf",
+   "https://www.scconline.com/blog/post/2022/03/29/bomikhal-flyover-collapse-is-permanent-debarment-of-guilty-contractor-too-harsh-what-makes-an-order-a-pre-determined-one-supreme-court-answers/",
+   "https://www.verdictum.in/court-updates/supreme-court/supreme-court-debarment-cannot-permanent-nature-of-offence-erring-contractor-1356641"
+  ],
+  "note": "Gorkha Security Services v State (NCT of Delhi) (2014) 9 SCC 105 (show-cause notice must specifically propose blacklisting) confirmed; Kulja Industries Ltd v Western Telecommunication/BSNL (decided 2013, reported (2014) 14 SCC 731) correctly described as holding debarment cannot be permanent and remanding to fix a proportionate period; the 2022 Bomikhal flyover case (Civil Appeal 1083/2022) correctly described as holding a notice issued after an inquiry report is not automatically predetermined. No errors found."
+ },
+ {
+  "file": "_drafts/batch2/blog/07-standard-essential-patent-frand-dispute-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-awards-244-crores-damages-ericsson-suit-lava-patents-infringement-254258",
+   "https://ssrana.in/articles/delhi-high-court-sets-aside-philips-dvd-sep-royalty-decree-essentiality-frand-patent-exhaustion-clarified/",
+   "https://www.iam-media.com/article/india-patent-courts-come-of-age-amid-key-rulings-and-stronger-enforcement",
+   "https://www.bananaip.com/intellepedia/philips-dvd-standard-essential-patent-damages-reversed-after-17-years/"
+  ],
+  "note": "Ericsson v Lava (28 March 2024, Justice Amit Bansal, ~Rs 244 crore damages plus 5% interest, 7 of 8 patents valid/infringed, comparable-licences approach on end-device price) confirmed. Philips v Bansal Division Bench (18 May 2026, RFA(OS)(COMM) 17/2018 & 18/2018, essentiality certificates not proved under Evidence Act s.45 for lack of claim charts, patent exhaustion under Patents Act s.107A(b)) confirmed by three independent sources. The guide says the status of Philips' Supreme Court challenge 'was not confirmed at the time this guide was prepared' -- that is now out of date: reporting (IAM Media) shows the Supreme Court agreed to hear the appeal and, by an order of 8 July 2026, maintained status quo and stayed the Bansals' restitution proceedings pending disposal.",
+  "fixes": [
+   {
+    "find": "The current reported status of that challenge was not confirmed at the time this guide was prepared, so the Division Bench's ruling, while the latest word from the Delhi High Court on this specific dispute, may not be the final word in the underlying case.",
+    "replace": "The Supreme Court has agreed to hear that challenge and, by an order reported as of 8 July 2026, directed that status quo be maintained and stayed the Bansals' restitution proceedings in the Delhi High Court pending disposal of the appeal, so the Division Bench's ruling, while the latest word from the Delhi High Court on this specific dispute, is not the final word in the underlying case.",
+    "reason": "Updates an outdated 'status not confirmed' statement with the now-available, single-sourced but specific procedural update (SLP admitted, status quo order of 8 July 2026)."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/08-ppa-termination-discom-payment-default-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://aptel.gov.in/sites/default/files/2024-12/Dec%20Judgment%20%20in%20APL%20No.%20200%20%26%20201%20of%202024-18th%20dec.pdf",
+   "https://mercomindia.com/aptel-power-generators-order-wind-companies",
+   "https://aperc.gov.in/admin/upload/FINALORDERdt.20-12-2023inOPNos.3-13-32-33of2023-upld-21122023.pdf",
+   "https://mercomindia.com/daily-news-wrap-up-aptel-upholds-wind-power-firms-right-to-terminate-ppas"
+  ],
+  "note": "APTEL judgment in APL No. 200 and 201 of 2024 (18 Dec 2024), appellants APSPDCL/APPCC/APTRANSCO, respondents Vaayu (India) Power Corporation and Vishwind Infrastructure, upholding termination for persistent payment default and the right to sell via open access, with the underlying APERC order of 20 December 2023, all confirmed via the primary APTEL judgment PDF and Mercom's reporting. No errors found in the facts checked."
+ },
+ {
+  "file": "_drafts/batch2/blog/09-rera-recovery-certificate-enforcement-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.indialaw.in/blog/real-estate/k-rera-recovery-certificates-enforcement-karnataka-high/",
+   "https://propnewstime.com/latestnewsstories/MzEwNDA=/karnataka-high-court-orders-time-bound-enforcement-of-rera-recovery-certificate-in-developer-dues-case",
+   "https://supremetoday.ai/mere-pendency-of-cirp-does-not-bar-rera-recovery-actions-karnataka-high-court-20260822075",
+   "https://www.livelawbiz.com/high-court/karnataka-high-court/karnataka-high-court-insolvency-and-bankruptcy-code-overriding-effect-does-not-automatically-bar-proceedings-under-other-laws-546770"
+  ],
+  "note": "Rajesh Rao C.V. v State of Karnataka (W.P. No. 13245 of 2026, 27 April 2026, mandamus directing execution of K-RERA recovery certificates within eight weeks) is now corroborated by a second source (Propnewstime) beyond the single source the drafter flagged. M. Govind Reddy v State of Karnataka (W.P. No. 23165 of 2026, 11 August 2026, CIRP pendency does not automatically bar RERA recovery) confirmed by two independent sources. Section 40(1)/(2) description matches the bare act. No errors found."
+ },
+ {
+  "file": "_drafts/batch2/blog/10-income-tax-compounding-offences-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://bdo.in/en-gb/insights/alerts-updates/direct-tax-alert-cbdt-issues-revised-guidelines-for-compounding-of-offences-under-the-it-act",
+   "https://foxmandal.in/news/cbdt-issues-revised-guidelines-for-compounding-offences/",
+   "https://vasai.icai.org/detail/53959.aspx",
+   "https://www.taxheal.com/?p=81163"
+  ],
+  "note": "CBDT's revised compounding guidelines effective 17 October 2024 (superseding 2008/2014/2019/2022 guidelines), elimination of the offence-category structure, removal of the cap on number of applications, removal of the 36-month filing window, permitting compounding under Sections 275A and 276B, application to pending cases without redetermination, and the 2025 FAQ circular (Circular No. 04/2025) are all independently confirmed. No errors found."
+ },
+ {
+  "file": "_drafts/batch2/blog/11-unilateral-arbitrator-appointment-core-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://api.sci.gov.in/supremecourt/2019/28531/28531_2019_1_1502_57055_Order_08-Nov-2024.pdf",
+   "https://lawsathi.in/judgements/sc/2024/central-organisation-railway-electrification-eci-spic-smo-mcml-jv-joint-venture/",
+   "https://theamikusqriae.com/perkins-eastman-architects-dpc-v-hscc-india-ltd-2020-20-scc-760/",
+   "https://www.lekhanews.in/judgment/trf-v-energo-engineering-2017/"
+  ],
+  "note": "Bench, 8 Nov 2024 date, Article 14 holding, overruling of 2020 three-judge CORE decision, and the TRF Ltd (2017) 8 SCC 377 / Perkins Eastman (2020) 20 SCC 760 citations all check out across independent sources. The open question on retroactive effect on completed arbitrations is correctly flagged by the guide itself as unsettled."
+ },
+ {
+  "file": "_drafts/batch2/blog/12-ibc-arbitration-clause-override-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://thelegalquorum.com/detailed-case-commentary-of-innovantive-industries-ltd-vs-icici-bank-2018-1-scc-407/",
+   "https://www.thelegallock.com/resources/case-briefs/case-brief-mobilox-innovations-pvt-ltd-vs-kirusa-software-pvt-ltd",
+   "https://law.asia/disputed-claims-not-defaults-ibc/",
+   "https://www.scconline.com/blog/post/2021/06/12/indus-biotech-v-kotak/"
+  ],
+  "note": "Indus Biotech v Kotak (26 Mar 2021, 2021 INSC 216) holding on default-first inquiry under Section 7 confirmed, as are the Innoventive Industries (2018) 1 SCC 407 and Mobilox (2018) 1 SCC 353 citations and the Section 238/Section 8 IBC framework described."
+ },
+ {
+  "file": "_drafts/batch2/blog/13-part-performance-section-53a-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://pure.jgu.edu.in/id/eprint/1966/",
+   "https://www.livelaw.in/amp/parliament-passes-specific-relief-amendment-bill-making-specific-performance-of-contract-compulsorily-enforceable",
+   "https://cbcl.nliu.ac.in/contemporary-issues/substituted-performance-a-new-perspective-in-specific-relief-amendment-act-2018/",
+   "https://lawfoyer.in/doctrine-of-part-performance-section-53a-transfer-of-property-act/"
+  ],
+  "note": "Section 53A doctrine, the 2001 registration requirement, and the Balbir Singh Maini shield-not-sword framing all check out. But the references list cites Specific Relief Act Sections 10 and 20 for the specific-performance discussion; the 2018 amendment substituted Section 20 entirely to deal with 'substituted performance' (not discretionary guidelines for specific performance), so citing it here is a stale/wrong pointer for a buyer reading this guide today.",
+  "fixes": [
+   {
+    "find": "Specific Relief Act, 1963, Sections 10 and 20",
+    "replace": "Specific Relief Act, 1963, Sections 10 and 16",
+    "reason": "Section 20 was substituted by the Specific Relief (Amendment) Act, 2018 and now deals with a creditor's right to substituted performance, not with specific performance guidelines; it no longer supports the specific-performance discussion in this guide. Section 16 (personal bars, including readiness and willingness to perform) is the current provision relevant to that discussion."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/14-land-acquisition-section-24-2-lapse-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://lawfoyer.in/state-of-haryana-others-v-aalamgir-others-2025-3-s-c-r-1460-2025-insc-407/",
+   "https://www.supremecourtcases.com/state-of-haryana-and-others-v-aalamgir-and-others/",
+   "https://www.verdictum.in/court-updates/supreme-court/state-of-haryana-v-aalamgir-2024-insc-407-land-acquisition-case-costs-imposed-1572614",
+   "https://www.scobserver.in/cases/indore-development-authority-manoharlal-land-acquisition-case-background/"
+  ],
+  "note": "Indore Development Authority v Manoharlal (2020) 8 SCC 129 and its overruling of Pune Municipal Corporation (2014) 3 SCC 183 check out. But State of Haryana v. Aalamgir was decided 18 March 2025 (bench of Nagarathna and Satish Chandra Sharma JJ), not 2024; the correct neutral citation is 2025 INSC 407, not 2024 INSC 407 as the guide states (the '2024' appears to come from appeal numbers in the consolidated matter, not the judgment date).",
+  "fixes": [
+   {
+    "find": "a 2024 Supreme Court order in State of Haryana v. Aalamgir",
+    "replace": "a 2025 Supreme Court order in State of Haryana v. Aalamgir",
+    "reason": "State of Haryana v. Aalamgir was decided on 18 March 2025, not in 2024."
+   },
+   {
+    "find": "State of Haryana v. Aalamgir, 2024 INSC 407",
+    "replace": "State of Haryana v. Aalamgir, 2025 INSC 407",
+    "reason": "The correct neutral citation for this judgment, decided 18 March 2025, is 2025 INSC 407."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/15-hindu-succession-class-heirs-order-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.advocatekhoj.com/library/bareacts/hindusuccession/schedule.php",
+   "https://itatonline.org/digest/vineeta-sharma-v-rakesh-sharma-manu-sc-0582-2020-sc-www-itatonline-org",
+   "https://gyansanchay.csjmu.ac.in/wp-content/uploads/2022/09/12-Intestate-Succession-2-1.pdf"
+  ],
+  "note": "Section 8/9/10/11 structure, Class I and Class II composition (including Class II entry II listing son's daughter's son/daughter, brother, sister), the uterine-blood explanation (correctly described as excluding half-siblings related only through the mother), and the Vineeta Sharma (2020) 9 SCC 1 citation all check out against the Schedule text and secondary sources."
+ },
+ {
+  "file": "_drafts/batch2/blog/16-nri-poa-executed-abroad-apostille-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.advocatekhoj.com/library/bareacts/indianstamp/18.php",
+   "https://www.livelaw.in/amp/news-updates/andhra-pradesh-high-court-power-of-attorney-executed-outside-india-not-duly-stamped-impounded-penalty-195535",
+   "https://khuranaandkhurana.com/?p=11078"
+  ],
+  "note": "Section 18 Indian Stamp Act three-month stamping window for instruments executed outside India, the apostille/consular attestation distinction, and the Section 17 Registration Act registrability points all check out. The guide appropriately hedges on state-specific duty rates and the current Hague Convention member list rather than asserting unconfirmed specifics."
+ },
+ {
+  "file": "_drafts/batch2/blog/17-advocates-consumer-protection-act-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 9,
+  "evidence": [
+   "https://lawsathi.in/judgements/sc/2024/bar-indian-lawyers-through-its-president-jasbir-singh-malik-gandhi-ps-national/",
+   "https://www.livelaw.in/amp/top-stories/supreme-court-refuses-to-reconsider-judgment-which-brought-doctors-under-consumer-protection-act-says-reference-was-unnecessary-274529",
+   "https://www.barandbench.com/law-firms/view-point/are-advocates-liable-for-deficiency-in-service-under-the-consumer-protection-act",
+   "https://www.iasgyan.in/daily-current-affairs/indian-medical-association-vs-v-p-shantha-1995"
+  ],
+  "note": "Bar of Indian Lawyers v D.K. Gandhi (14 May 2024, 2024 INSC 410, Trivedi and Mithal JJ) and its holding on advocates check out. But the guide is outdated on the medical-profession question: a three-judge bench led by Justice B.R. Gavai already declined, on 7 November 2024, to revisit Indian Medical Association v. V.P. Shantha, holding the reference unnecessary. The guide still frames this as an open question pending before a larger bench, when the larger bench has in fact already acted (by declining to revisit), so doctors/hospitals remaining covered is now settled, not pending.",
+  "fixes": [
+   {
+    "find": "Until that larger bench actually decides the question, Indian Medical Association v. V.P. Shantha continues to apply, and consumer complaints against doctors and hospitals for medical negligence remain maintainable as they were before this ruling.",
+    "replace": "On 7 November 2024, a three-judge bench led by Justice B.R. Gavai declined to revisit Indian Medical Association v. V.P. Shantha, holding that the reference was unnecessary. That ruling continues to apply, and consumer complaints against doctors and hospitals for medical negligence remain maintainable as they were before the Bar of Indian Lawyers ruling.",
+    "reason": "The question was not left open for a larger bench to decide later; a three-judge bench already declined to revisit V.P. Shantha on 7 November 2024, so the position is settled rather than pending."
+   },
+   {
+    "find": "Anyone advising a client in either field should track whether and how the larger bench eventually rules on the medical question, since that could bring the two closer together or could confirm the distinction the Court has drawn.",
+    "replace": "A three-judge bench has already confirmed this distinction, declining on 7 November 2024 to revisit the medical-profession ruling, so the difference between the two professions under consumer law should be treated as settled rather than pending.",
+    "reason": "Same outdated 'pending larger bench' framing; the larger bench already ruled on 7 November 2024."
+   },
+   {
+    "find": "No, not yet. The Court expressed doubt about the correctness of the earlier ruling covering medical practitioners and referred that question to a larger bench, but did not overrule it. Until a larger bench decides otherwise, consumer complaints against doctors and hospitals for medical negligence remain maintainable as before.",
+    "replace": "No. The Court expressed doubt about the correctness of the earlier ruling covering medical practitioners and referred that question to a larger bench, but a three-judge bench declined to revisit it on 7 November 2024, holding the reference was unnecessary. Consumer complaints against doctors and hospitals for medical negligence remain maintainable as before.",
+    "reason": "FAQ answer repeats the outdated 'not yet decided' framing; the larger bench already declined to revisit the ruling on 7 November 2024."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/18-section-25o-closure-permission-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://lawfoyer.in/harinagar-sugar-mills-ltd-biscuit-division-anr-v-state-of-maharashtra-ors-2025-7-scr-427-2025-insc-801/",
+   "https://rawlaw.in/supreme-court-holds-deemed-closure-valid-where-no-proper-order-issued-by-competent-authority-business-cannot-be-forced-to-run-indefinitely-in-face-of-administrative-inaction-article-19/",
+   "https://theindianlawyer.in/right-to-close-vs-duty-to-justify-supreme-court-clarifies-section-25-o-of-the-industrial-dispute-act-1947/"
+  ],
+  "note": "Harinagar Sugar Mills v State of Maharashtra (4 June 2025, 2025 INSC 801, Karol and Mishra JJ) holding that only the Maharashtra Labour Minister (not a Deputy Secretary) could decide the application, and that deemed closure under Section 25-O(3) followed, checks out. The guide appropriately declines to state an unconfirmed specific number of days for the statutory response window."
+ },
+ {
+  "file": "_drafts/batch2/blog/19-section-24-hma-interim-maintenance-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.scconline.com/blog/?p=245505",
+   "https://blog.ipleaders.in/maintenance-under-section-125-crpc-section-144-bnss/",
+   "https://www.scobserver.in/journal/court-frames-comprehensive-guidelines-on-maintenance/"
+  ],
+  "note": "Rajnesh v Neha (2021) 2 SCC 324, the Article 142 disclosure-affidavit guidelines, and the Section 125 CrPC / Section 144 BNSS correspondence all check out. The guide correctly avoids stating the informal one-fourth/one-fifth rule as binding law."
+ },
+ {
+  "file": "_drafts/batch2/blog/20-attachment-before-judgment-order-38-rule-5-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/lk-prabhu-l-krishna-prabhu-died-through-lrs-v-kt-mathew-thampan-thomas-ors-2025-insc-1364-1599524",
+   "https://law.drishtiias.com/current-affairs/fraudulent-transfer-and-attachment-before-judgment",
+   "https://www.legitquest.com/case/ms-raman-tech-process-enggcoanr-v-ms-solanki-traders/A5E41",
+   "https://www.caseciter.com/l-k-prabhu-v-k-t-mathew-neutral-citation-2025-insc-1364-order-xxxviii-rule-5-cpc-attachment-before-judgment-already-transferred-property/"
+  ],
+  "note": "Raman Tech. (2008) 2 SCC 302 checks out. L.K. Prabhu v K.T. Mathew (28 Nov 2025, 2025 INSC 1364) exists, but the guide overstates its scope: the registered sale deed in that case (28 June 2004) was executed before the suit was even filed (18 December 2004), well before the attachment (13 Feb 2005). The Court's holding is tied to a pre-suit transfer, not simply any transfer 'before the attachment' as the guide states; a transfer made after suit filing but before attachment raises a separate lis pendens question the ruling does not resolve the same way.",
+  "fixes": [
+   {
+    "find": "holding that an attachment before judgment under Order XXXVIII Rule 5 cannot be extended to reach property that has already been transferred to a third party before the attachment, where that third party's rights were acquired independently of the dispute between the original parties.",
+    "replace": "holding that an attachment before judgment under Order XXXVIII Rule 5 cannot be extended to reach property that was already conveyed to a third party by a registered sale deed executed before the suit was even filed, where that third party's rights were acquired independently of the dispute between the original parties. The ruling does not resolve what happens where the transfer occurs after the suit is filed but before the attachment order itself, a scenario the lis pendens doctrine under Section 52 of the Transfer of Property Act may separately affect.",
+    "reason": "In L.K. Prabhu, the sale deed was executed before the suit was even filed, not merely before the attachment order; the guide's broader framing ('before the attachment') overstates the protection to cover post-suit, pre-attachment transfers that the ruling did not address."
+   },
+   {
+    "find": "Generally no, if the third party acquired the property bona fide and independently of your dispute, following the Supreme Court's 2025 ruling in L.K. Prabhu v. K.T. Mathew. If you believe the transfer itself was designed to defeat your claim, you would need to separately challenge that transfer as fraudulent, rather than assume the original attachment automatically extends to it.",
+    "replace": "It depends on when the transfer happened. The Supreme Court's 2025 ruling in L.K. Prabhu v. K.T. Mathew held that attachment cannot reach property already conveyed by a registered sale deed executed before the suit was even filed. A transfer made after the suit was filed but before the attachment order raises a different question involving the lis pendens doctrine, which that ruling did not decide. If you believe the transfer itself was designed to defeat your claim, you would need to separately challenge that transfer as fraudulent, rather than assume the original attachment automatically extends to it.",
+    "reason": "Same overstatement in the FAQ answer: the ruling protects a pre-suit transfer specifically, not any transfer that predates the attachment order."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/blog/21-cheque-dishonour-section-138-compounding-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://theindianlawyer.in/section-138-negotiable-instruments-act-pre-cognizance-summons-not-required-supreme-court-charts-guidelines/",
+   "https://www.livelaw.in/amp/top-stories/s138-ni-act-guidelines-in-damodar-prabhu-judgment-on-costs-for-compounding-cheque-bounce-cases-not-binding-supreme-court-309914",
+   "https://www.livelaw.in/amp/news-updates/court-must-notice-accused-hear-before-condoning-delay-filing-complaint-us138ni-act-tripura-high-court-201053",
+   "https://blog.primelegal.in/to-avail-the-benefit-of-proviso-to-section-142b-of-the-ni-act-the-complainant-is-mandated-to-file-an-application-for-condonation-of-delay-explaining-sufficient-and-satisfactory-reasons-for-such-dela"
+  ],
+  "note": "Section 138/142 timeline (30-day notice, 15-day payment, 1-month filing with sufficient-cause proviso and Tripura HC notice-to-accused requirement) confirmed. Sanjabij Tari v. Kishore S. Borcar, 2025 INSC 1158, decided 25 September 2025, confirmed: cash loan above Section 269SS threshold remains a legally enforceable debt, no pre-cognizance summons needed under BNSS Section 223 for NI Act complaints, and QR/UPI online payment directions at summons stage. Damodar Prabhu (2010) 5 SCC 663 cost-scale and the November 2025 ruling (Rajeev Khandelwal case) holding those guidelines not strictly binding both confirmed. Guide appropriately hedges on unconfirmed higher-tier percentage figures."
+ },
+ {
+  "file": "_drafts/batch2/blog/22-consumer-complaint-jurisdiction-limitation-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.verdictum.in/supreme-court/centre-response-on-anomalies-in-consumer-fora-pecuniary-jurisdiction-2019-act-1620355",
+   "https://www.moneylife.in/article/union-govt-revises-pecuniary-jurisdiction-district-consumer-commissions-limit-revised-to-rs50-lakh-from-rs1-crore/66005.html",
+   "https://www.livelaw.in/consumer-cases/ncdrc-insurance-claim-limitation-period-correspondence-timeframe-259404",
+   "https://supremetoday.ai/doc/judgement/INDSCDRC00000048223"
+  ],
+  "note": "Pecuniary jurisdiction thresholds (50L/2Cr split under the 2021 Rules) and the pending Avon Elastomers v. Bajaj Allianz SC matter (CC No. 844/2020, NCDRC order 21-10-2020, heard again around Aug 2026) both confirmed; Rawal Acids v. United India Insurance, First Appeal No. 218/2024, also confirmed as a real State Commission ruling on exactly the correspondence/repudiation point cited. However 'Punjab Urban Planning and Development Authority v. Kanwaljit Singh, First Appeal No. 581 of 2023' does not check out: the only real case with these party names is Punjab Urban Planning & Development Authority v. Kanwaljit Singh Ahluwalia, Civil Appeal No. 4639 of 2010 (Supreme Court, decided 25 Sept 2018), an unrelated plot-possession dispute, not a 2023 First Appeal on limitation. This appears to be a fabricated or badly mismatched citation.",
+  "fixes": [
+   {
+    "find": "    \"Punjab Urban Planning and Development Authority v. Kanwaljit Singh, First Appeal No. 581 of 2023\",\n",
+    "replace": "",
+    "reason": "Citation does not verify: no First Appeal No. 581 of 2023 on this point exists between these parties; the only real case with these names is an unrelated 2018 Supreme Court plot-possession ruling."
+   },
+   {
+    "find": "(Punjab Urban Planning and Development Authority v. Kanwaljit Singh and Rawal Acids v. United India Insurance), noting these come from headnote services rather than full judgment texts.",
+    "replace": "(Rawal Acids v. United India Insurance, First Appeal No. 218/2024), from a headnote service rather than the full judgment text; a second cited case, Punjab Urban Planning and Development Authority v. Kanwaljit Singh, First Appeal No. 581 of 2023, could not be verified and has been removed.",
+    "reason": "Align verification notes with the removal of the unverifiable citation."
+   }
+  ]
+ }
 ]
