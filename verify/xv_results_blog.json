@@ -295,5 +295,40 @@
       "https://theindianlawyer.in/right-to-close-vs-duty-to-justify-supreme-court-clarifies-section-25-o-of-the-industrial-dispute-act-1947/"
     ],
     "note": "Harinagar Sugar Mills v State of Maharashtra (4 June 2025, 2025 INSC 801, Karol and Mishra JJ) holding that only the Maharashtra Labour Minister (not a Deputy Secretary) could decide the application, and that deemed closure under Section 25-O(3) followed, checks out. The guide appropriately declines to state an unconfirmed specific number of days for the statutory response window."
+  },
+  {
+    "file": "_drafts/batch2/blog/19-section-24-hma-interim-maintenance-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.scconline.com/blog/?p=245505",
+      "https://blog.ipleaders.in/maintenance-under-section-125-crpc-section-144-bnss/",
+      "https://www.scobserver.in/journal/court-frames-comprehensive-guidelines-on-maintenance/"
+    ],
+    "note": "Rajnesh v Neha (2021) 2 SCC 324, the Article 142 disclosure-affidavit guidelines, and the Section 125 CrPC / Section 144 BNSS correspondence all check out. The guide correctly avoids stating the informal one-fourth/one-fifth rule as binding law."
+  },
+  {
+    "file": "_drafts/batch2/blog/20-attachment-before-judgment-order-38-rule-5-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/lk-prabhu-l-krishna-prabhu-died-through-lrs-v-kt-mathew-thampan-thomas-ors-2025-insc-1364-1599524",
+      "https://law.drishtiias.com/current-affairs/fraudulent-transfer-and-attachment-before-judgment",
+      "https://www.legitquest.com/case/ms-raman-tech-process-enggcoanr-v-ms-solanki-traders/A5E41",
+      "https://www.caseciter.com/l-k-prabhu-v-k-t-mathew-neutral-citation-2025-insc-1364-order-xxxviii-rule-5-cpc-attachment-before-judgment-already-transferred-property/"
+    ],
+    "note": "Raman Tech. (2008) 2 SCC 302 checks out. L.K. Prabhu v K.T. Mathew (28 Nov 2025, 2025 INSC 1364) exists, but the guide overstates its scope: the registered sale deed in that case (28 June 2004) was executed before the suit was even filed (18 December 2004), well before the attachment (13 Feb 2005). The Court's holding is tied to a pre-suit transfer, not simply any transfer 'before the attachment' as the guide states; a transfer made after suit filing but before attachment raises a separate lis pendens question the ruling does not resolve the same way.",
+    "fixes": [
+      {
+        "find": "holding that an attachment before judgment under Order XXXVIII Rule 5 cannot be extended to reach property that has already been transferred to a third party before the attachment, where that third party's rights were acquired independently of the dispute between the original parties.",
+        "replace": "holding that an attachment before judgment under Order XXXVIII Rule 5 cannot be extended to reach property that was already conveyed to a third party by a registered sale deed executed before the suit was even filed, where that third party's rights were acquired independently of the dispute between the original parties. The ruling does not resolve what happens where the transfer occurs after the suit is filed but before the attachment order itself, a scenario the lis pendens doctrine under Section 52 of the Transfer of Property Act may separately affect.",
+        "reason": "In L.K. Prabhu, the sale deed was executed before the suit was even filed, not merely before the attachment order; the guide's broader framing ('before the attachment') overstates the protection to cover post-suit, pre-attachment transfers that the ruling did not address."
+      },
+      {
+        "find": "Generally no, if the third party acquired the property bona fide and independently of your dispute, following the Supreme Court's 2025 ruling in L.K. Prabhu v. K.T. Mathew. If you believe the transfer itself was designed to defeat your claim, you would need to separately challenge that transfer as fraudulent, rather than assume the original attachment automatically extends to it.",
+        "replace": "It depends on when the transfer happened. The Supreme Court's 2025 ruling in L.K. Prabhu v. K.T. Mathew held that attachment cannot reach property already conveyed by a registered sale deed executed before the suit was even filed. A transfer made after the suit was filed but before the attachment order raises a different question involving the lis pendens doctrine, which that ruling did not decide. If you believe the transfer itself was designed to defeat your claim, you would need to separately challenge that transfer as fraudulent, rather than assume the original attachment automatically extends to it.",
+        "reason": "Same overstatement in the FAQ answer: the ruling protects a pre-suit transfer specifically, not any transfer that predates the attachment order."
+      }
+    ]
   }
 ]
