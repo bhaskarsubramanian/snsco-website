@@ -1,0 +1,92 @@
+{
+  "slug": "nclat-e-filing-portal-failure-limitation-ibc-guide",
+  "title": "E-Filing Portal Failures at NCLAT: When the Limitation Clock Stops Running Against You",
+  "meta_description": "How the Supreme Court's Mamta Binani ruling lets an NCLAT appeal survive a last-day e-filing portal failure, and what evidence actually proves it happened.",
+  "practice_area": "IBC & Insolvency",
+  "intro": [
+    "Every IBC practitioner has had this call. The junior who was filing the appeal says the NCLAT portal would not accept the memo, the OTP never arrived, and by the time the upload finally went through it was a day past the deadline. For years the answer to that call was grim: the Supreme Court has held that the 45-day outer limit for an appeal to the NCLAT under Section 61(2) is absolute, and the tribunal has no power to stretch it by even a single day, however good the excuse. A September 2026 ruling has now carved out a narrow but real exception for exactly this situation, and it matters because the fact pattern it addresses is common and almost never the appellant's fault.",
+    "This guide sets out what the Supreme Court actually decided in Regional Provident Fund Commissioner-II v. Mamta Binani, why it does not disturb the general rule that the 45-day period cannot be condoned, and what a litigant in this position needs to have preserved to make the same argument."
+  ],
+  "sections": [
+    {
+      "heading": "Why the 45-Day Limit Is Treated as a Wall, Not a Guideline",
+      "paragraphs": [
+        "Section 61(2) of the Insolvency and Bankruptcy Code gives a party 30 days from the date of the NCLT order to file an appeal before the NCLAT, extendable by a further 15 days if the appellant shows sufficient cause for the delay. That is 45 days in total, and the Supreme Court has said repeatedly that this is the end of the road. In Tata Steel Ltd v. Raj Kumar Banerjee (2025 INSC 639), the Court set aside an NCLAT order that had condoned a delay running past the 45-day mark, holding that the NCLAT is a creature of statute with no equitable power to enlarge a limitation period Parliament has fixed in absolute terms. Section 4 of the Limitation Act, which would ordinarily help a litigant where the last day falls on a court holiday, was held to apply only within the first 30-day window, not to the additional 15-day condonable period.",
+        "That line of authority goes back further, through National Spot Exchange v. Anil Kohli and V. Nagarajan v. SKS Ispat, both of which refused relief for delays that, on the facts, were the litigant's own. The combined effect is that NCLAT benches now dismiss appeals filed even one day beyond 45 days almost as a matter of course, because departing from that position risks their own order being set aside on exactly this ground. A litigant walking into an NCLAT hearing with a portal-failure story needs to know this backdrop, because without more, that story reads like just another delay explanation the Tata Steel line has already foreclosed."
+      ]
+    },
+    {
+      "heading": "What Mamta Binani Actually Decided",
+      "paragraphs": [
+        "The Mamta Binani case arose out of an appeal against the NCLT Mumbai's approval of a resolution plan for Rolta India Limited. Counsel for the appellant tried to e-file the appeal on 28 and 29 January 2026, within the 45-day period, but the attempts failed because of backend problems with the NCLAT portal, including an OTP that never arrived. The appeal finally went through on 30 January, one day after the outer limit expired. The NCLAT refused to condone the one-day delay and dismissed the appeal as time-barred on 21 May 2026, applying the same strict approach the Supreme Court itself had endorsed in Tata Steel.",
+        "On appeal, the Supreme Court bench of Justices Dipankar Datta and Sheel Nagu set aside that dismissal and restored both the appeal and the condonation application to the NCLAT for fresh consideration. The Court did not say the 45-day limit had been breached and excused anyway. It said that where the record showed a genuine, timely attempt to file before the deadline that failed only because the tribunal's own system malfunctioned, the NCLAT could not simply treat the date of actual upload as the date the clock stopped. The case is reported as 2026 INSC 1003."
+      ]
+    },
+    {
+      "heading": "The Principle Behind It: A Court's Own Failure Cannot Be Held Against You",
+      "paragraphs": [
+        "The reasoning rests on an old maxim, actus curiae neminem gravabit: an act, or failure, of the court or tribunal itself should not cause prejudice to a party who has acted diligently. Applied here, it means that if a litigant's first bona fide attempt to file was within time and the only reason it did not register was a fault in the NCLAT's own e-filing infrastructure, the period the system was down is not fairly counted as delay attributable to the litigant at all. This is conceptually distinct from condoning a delay. Condonation asks the tribunal to excuse a lateness that did, in fact, occur. What Mamta Binani permits is closer to treating the limitation period as not having run during the window the portal itself was unusable.",
+        "That distinction is why this ruling does not conflict with Tata Steel. Tata Steel was about whether NCLAT can forgive a delay that is genuinely the appellant's, once the 45 days are over. Mamta Binani is about whether a day should be counted as delay in the first place when the appellant tried, and failed only because of the forum's own glitch. The Supreme Court left the underlying question of whether sufficient cause existed for any residual, unrelated delay to be decided afresh by the NCLAT, so this is not a blanket rescue for anyone who files late and later blames the portal."
+      ]
+    },
+    {
+      "heading": "What You Need in Hand Before You Can Make This Argument",
+      "paragraphs": [
+        "This relief is only as good as the contemporaneous record a litigant can produce, and courts have been clear that a bare assertion of portal trouble will not do. The first thing to preserve is a timestamped screenshot or system log of every failed attempt, including any error message, failed OTP notification, or payment gateway rejection, showing the attempt was made before the deadline, not after. Emails to the filing counter or the NCLAT registry raising the problem as it happened carry weight precisely because they were sent in real time, not reconstructed afterward.",
+        "Equally important is getting the tribunal's own registry to confirm the glitch. The Mamta Binani bench placed real reliance on a registry-submitted report acknowledging the portal's technical failure on the relevant dates, because that report comes from the forum itself rather than the litigant's own say-so. Any counsel in this situation should write to the registry the same day the filing fails, asking for written acknowledgment of the system's downtime, and should follow up in writing if no response comes. Waiting until the hearing on the condonation application to raise the issue for the first time puts the litigant in a much weaker position than raising it immediately, on the record, while the portal problem is still verifiable."
+      ]
+    },
+    {
+      "heading": "What This Ruling Does Not Give You",
+      "paragraphs": [
+        "It is tempting to read Mamta Binani as reopening the 45-day limit generally, and that reading will not survive scrutiny at the NCLAT or on a further appeal. The ruling is confined to a narrow fact pattern: a genuine attempt made before the deadline, defeated by the forum's own system, with contemporaneous evidence of both. A litigant who simply left the filing to the last possible hour, encountered ordinary user error, or cannot show any attempt before the cutoff gets no benefit from this line of cases. The Supreme Court remitted the matter rather than deciding the appeal was automatically in time, which tells its own story: even on facts this clear, the NCLAT still gets to examine whether the explanation holds up and whether any further, unconnected delay deserves condonation.",
+        "Counsel should also not treat this as license to be casual about deadlines generally. The safer course remains to file well before the last day wherever the volume of a resolution plan or an avoidance application allows it, and to treat the portal-failure argument as a fallback for the rare case where an early attempt genuinely was blocked, not as a routine excuse to be reached for after the fact."
+      ]
+    },
+    {
+      "heading": "The Same Logic Travels Beyond IBC Appeals",
+      "paragraphs": [
+        "Although Mamta Binani arose in an IBC appeal, the actus curiae principle it relies on is not confined to the NCLAT. The same reasoning has surfaced in e-filing failures before other tribunals, including income-tax appellate forums, where a taxpayer's return or appeal was rejected as late purely because of a glitch on the department's own portal. Any litigant facing a statutory limitation period enforced through a mandatory e-filing system, whether before the NCLAT, an appellate tribunal, or a quasi-judicial authority with its own online filing mandate, can draw on the same basic argument if the facts genuinely fit: a timely attempt, a system failure beyond the litigant's control, and contemporaneous proof of both.",
+        "The forum will still decide whether those facts are actually made out, and that decision turns entirely on the quality of the record built at the time, not afterward. A tribunal asked to apply this reasoning outside the IBC context will look for the same markers the Supreme Court looked for in Mamta Binani: an attempt logged before the cutoff, a documented system fault rather than a vague complaint about slowness, and prompt communication to the registry once the problem surfaced. Counsel appearing before any e-filing mandated forum would do well to build a short internal checklist around those three markers, so that if a portal does fail on a deadline day, the record needed to make this argument is already being created in real time rather than reconstructed weeks later under pressure."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Mamta Binani mean NCLAT can now condone delay beyond 45 days?",
+      "a": "No. The Supreme Court did not disturb the rule from Tata Steel that the 45-day outer limit under Section 61(2) cannot be condoned. It held only that time during which a litigant's timely, bona fide filing attempt was blocked by the NCLAT's own portal failure should not be counted as delay in the first place, which is a different question from condoning delay that actually occurred."
+    },
+    {
+      "q": "What evidence actually matters if the e-filing portal fails on the deadline day?",
+      "a": "Contemporaneous proof made at the time, not reconstructed later. Screenshots of error messages, failed OTP notifications, system timestamps, and an email to the registry raising the problem as it happens all count. A registry report confirming the portal was down on those dates is the single strongest piece of evidence, as it was in Mamta Binani itself."
+    },
+    {
+      "q": "Can I rely on this if I simply filed at the last minute and ran into ordinary technical trouble?",
+      "a": "Only if you can show the attempt was genuine and made before the deadline expired, and that the failure was the system's fault rather than, say, an incomplete upload or a missed step on your end. Filing at the last possible hour is still risky, because there is no time left to generate the kind of contemporaneous record this argument depends on."
+    },
+    {
+      "q": "Does this exclusion of time apply outside IBC appeals?",
+      "a": "The underlying principle, that a court or tribunal's own failure should not prejudice a diligent litigant, has been applied to e-filing glitches before other tribunals, including income-tax appellate forums. It is not formally limited to Section 61(2) appeals, though each forum will apply it to its own facts and its own limitation framework."
+    },
+    {
+      "q": "What happens to my case after the Supreme Court restores it?",
+      "a": "The Supreme Court in Mamta Binani did not decide the appeal was automatically within time. It remitted the matter to the NCLAT to decide, on the restored record, whether the exclusion of the portal-downtime period is justified and whether any further, unrelated delay deserves separate consideration under the sufficient-cause standard."
+    }
+  ],
+  "references": [
+    "Insolvency and Bankruptcy Code, 2016, Section 61(2)",
+    "Regional Provident Fund Commissioner-II v. Mamta Binani & Ors., 2026 INSC 1003 (Supreme Court, 10 September 2026)",
+    "Tata Steel Ltd v. Raj Kumar Banerjee, 2025 INSC 639",
+    "V. Nagarajan v. SKS Ispat and Power Ltd, (2022) 2 SCC 244",
+    "National Spot Exchange Ltd v. Anil Kohli, (2021) 9 SCC 220",
+    "Limitation Act, 1963, Section 4"
+  ],
+  "sources": [
+    "https://www.barandbench.com/news/litigation/litigant-cannot-be-shown-the-door-for-nclat-portal-failure-supreme-court-restores-appeal-filed-one-day-late",
+    "https://www.livelawbiz.com/top-stories/litigant-cannot-be-rendered-remediless-for-nclat-e-filing-system-failure-in-ibc-appeal-supreme-court-550373",
+    "https://www.livelaw.in/amp/supreme-court/tata-steel-ltd-raj-kumar-banerjee-s-612-ibc-appeal-filed-beyond-45-days-not-condonable-by-nclat-291537",
+    "https://www.sansalegal.com/post/supreme-court-holds-the-first-bona-fide-attempt-to-e-file-is-the-date-of-presentation-where-a-tribun",
+    "https://www.casemine.com/commentary/in/no-condonation-beyond-45-days:-supreme-court-re-affirms-absolute-time-bar-under-section-61(2)-ibc/view"
+  ],
+  "verification_notes": "Mamta Binani holding, bench composition (Dipankar Datta and Sheel Nagu JJ), decision date (10 Sept 2026), citation 2026 INSC 1003, and the Rolta India facts confirmed across Bar & Bench, LiveLawBiz and SansaLegal reporting. Tata Steel v. Raj Kumar Banerjee holding (45-day absolute bar, 2025 INSC 639, Section 4 Limitation Act confined to first 30 days) confirmed across LiveLaw and Casemine. National Spot Exchange and V. Nagarajan cited by secondary sources as the precedent line Tata Steel relied on; citations given per standard reporters, not independently pulled from the judgment text, so treated as background rather than quoted holdings. No specific limitation period, fee or threshold is stated beyond the confirmed 30+15 day structure. Extension of the actus curiae reasoning to income-tax appellate forums is based on secondary commentary describing the principle as not confined to IBC; no specific income-tax case name is given, so that claim is kept general rather than tied to an unverified case."
+}
