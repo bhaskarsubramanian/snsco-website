@@ -1,7 +1,7 @@
 {
   "slug": "cirp-expiry-automatic-liquidation-section-33-guide",
   "title": "CIRP Deadline Passed Without a Resolution Plan? Why Liquidation Follows Even Without a CoC Vote",
-  "meta_description": "What happens when a CIRP's statutory timeline expires without an approved resolution plan, and why NCLAT treats Section 33(1)(a) liquidation as automatic once the deadline lapses.",
+  "meta_description": "What happens when a CIRP's timeline expires without a plan, and why NCLAT treats Section 33(1)(a) liquidation as automatic once that deadline lapses.",
   "practice_area": "IBC & Insolvency",
   "intro": [
     "Creditors sitting on a Committee of Creditors sometimes assume that liquidation only happens if they vote for it. A 2026 NCLAT ruling in the Syska E-Retails matter is a sharp correction to that assumption. Where the CIRP period, including any extension actually granted, lapses without a resolution plan approved under Section 30(6), Section 33(1)(a) of the IBC requires the Adjudicating Authority to order liquidation, and tribunals have treated that consequence as automatic once the deadline has genuinely passed, regardless of how the Committee of Creditors voted, or failed to vote, on a separate liquidation proposal.",
@@ -40,7 +40,8 @@
     {
       "heading": "Distinguishing this from a CoC's own voluntary decision to liquidate",
       "paragraphs": [
-        "It is worth keeping Section 33(2) in view as a genuinely separate route, because conflating the two can lead to confused advice. A Committee of Creditors that concludes, well before any deadline pressure, that liquidation is commercially the better outcome, say because no viable resolution plan has emerged and continuing the process would simply erode asset value, can vote to liquidate under Section 33(2) on its own initiative. That is a deliberate commercial choice, assessed on its own commercial-wisdom standard, and it is not the same mechanism, procedurally or in substance, as the deadline-driven, automatic consequence under Section 33(1)(a) that the Syska E-Retails ruling addresses. A CoC that mistakes the two risks either moving prematurely to Section 33(2) when an extension was still realistically available, or assuming a failed Section 33(2) vote protects it from the automatic consequence once the deadline actually passes."
+        "Section 33(2) is worth keeping in view as a genuinely separate route, because conflating the two can lead to confused advice. A Committee of Creditors that concludes, well before any deadline pressure, that liquidation is commercially the better outcome, say because no viable resolution plan has emerged and continuing the process would simply erode asset value, can vote to liquidate under Section 33(2) on its own initiative. That is a deliberate commercial choice, assessed on its own commercial-wisdom standard, and it is not the same mechanism, procedurally or in substance, as the deadline-driven, automatic consequence under Section 33(1)(a) that the Syska E-Retails ruling addresses.",
+        "A CoC that mistakes the two risks either moving prematurely to Section 33(2) when an extension was still realistically available and a genuine resolution plan might still have landed, or assuming a failed Section 33(2) vote somehow protects it from the automatic consequence once the deadline actually passes without any approved plan. The Syska ruling closes off precisely that second mistake."
       ]
     }
   ],
@@ -55,11 +56,11 @@
     },
     {
       "q": "What is the only way to avoid automatic liquidation as a CIRP deadline nears?",
-      "a": "Securing a valid extension of the CIRP period, meeting the statutory conditions for one, before the existing deadline passes. Once the deadline has already lapsed, a vote taken afterwards on extending it is too late regardless of the outcome."
+      "a": "Securing a valid extension of the CIRP period, meeting the statutory conditions for one, before the existing deadline actually passes. Once the deadline has already lapsed, a vote taken afterwards on extending it is too late regardless of how that vote actually goes."
     },
     {
       "q": "Is a Committee of Creditors voting to liquidate under Section 33(2) the same as deadline-driven liquidation under Section 33(1)(a)?",
-      "a": "No. Section 33(2) is a voluntary, commercial decision by the CoC to liquidate before the CIRP deadline, assessed on a commercial-wisdom standard. Section 33(1)(a) is a separate, automatic consequence that attaches once the deadline passes without an approved plan."
+      "a": "No. Section 33(2) is a voluntary, commercial decision by the CoC to liquidate before the CIRP deadline, assessed on a commercial-wisdom standard. Section 33(1)(a) is a separate, automatic consequence that attaches on its own once the deadline passes without any approved plan in hand."
     },
     {
       "q": "What happened in the Syska E-Retails case specifically?",

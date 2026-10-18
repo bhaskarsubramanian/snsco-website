@@ -1,7 +1,7 @@
 {
   "slug": "dark-pattern-basket-sneaking-remediation-liability-guide",
   "title": "Fixed the Dark Pattern After Getting Caught? Why That Does Not Erase CCPA Liability",
-  "meta_description": "Why removing a dark pattern such as basket sneaking after a CCPA notice does not clear liability for the period it was live, and what e-commerce platforms should do instead.",
+  "meta_description": "Why removing a dark pattern after a CCPA notice does not clear liability for the period it stayed live, per the 2026 PhysicsWallah order.",
   "practice_area": "Consumer Protection",
   "intro": [
     "E-commerce, ed-tech and other digital platforms have a predictable reflex once a dark pattern draws regulatory attention: fix the checkout flow quietly, point to the fix as evidence of good faith, and hope the matter is treated as resolved. The Central Consumer Protection Authority's order against PhysicsWallah, issued on 1 June 2026, shows that reflex does not work. The CCPA penalised the platform for a pre-ticked donation checkbox at checkout, a practice its 2023 Guidelines classify as basket sneaking, and held expressly that removing the feature after the notice did not absolve liability for the period it had actually been live.",
@@ -66,16 +66,17 @@
     },
     {
       "q": "What other practices did the CCPA flag alongside basket sneaking in this order?",
-      "a": "Emotionally charged messaging around the donation prompt, and advertising courses as free while actually requiring a user to disclose a phone number and email address before access, were both examined in the same order alongside the pre-ticked checkbox."
+      "a": "Emotionally charged messaging around the donation prompt, shown when a user asked to know more, and advertising courses as free while actually requiring a user to disclose a phone number and email address before getting access, were both examined in the same order alongside the pre-ticked checkbox."
     },
     {
       "q": "Is there a deadline to comply once the CCPA passes a dark pattern order?",
-      "a": "Orders of this kind typically carry a compliance reporting deadline counted in days from the order date, alongside the direction to remove the pattern. A platform should have its implementation plan ready to execute immediately, not merely underway."
+      "a": "Orders of this kind typically carry a compliance reporting deadline counted in days from the order date, alongside the direction to remove the pattern altogether. A platform should have its implementation plan ready to execute the moment the order is passed, not merely underway by then."
     }
   ],
   "references": [
     "Consumer Protection (Prevention and Regulation of Dark Patterns) Guidelines, 2023 (effective 30 November 2023), listing thirteen prohibited dark pattern categories including basket sneaking",
-    "Central Consumer Protection Authority order against PhysicsWallah (Case No. CCPA-2/94/2025-CCPA), dated 1 June 2026, penalising a pre-ticked donation checkbox and holding post-notice removal does not absolve prior liability"
+    "Central Consumer Protection Authority order against PhysicsWallah (Case No. CCPA-2/94/2025-CCPA), dated 1 June 2026, penalising a pre-ticked donation checkbox and holding post-notice removal does not absolve prior liability",
+    "Consumer Protection Act, 2019 (statutory basis for the Central Consumer Protection Authority's power to investigate and penalise unfair trade practices, including dark patterns, on digital platforms)"
   ],
   "sources": [
     "https://www.mondaq.com/india/dodd-frank-consumer-protection-act/1799382/dark-patterns-in-ed-tech-ccpa-imposes-penalty-on-physicswallah",
