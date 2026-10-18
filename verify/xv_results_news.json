@@ -511,5 +511,45 @@
    "https://images.assettype.com/barandbench/2026-09-26/xy5cbd71/Ramamurthy_Vs_Rajendran.pdf"
   ],
   "note": "Independently confirmed via Bar & Bench and SupremeToday.ai: Justice A.D. Maria Clete's ruling dismissing M.G. Chakrapani's heirs' Letters of Administration petition (O.P. No. 69 of 2012) over the Virugambakkam property, holding it was covered by MGR's will dated 18 January 1987, probated by the Madras High Court on 14 July 1992 (O.P. No. 388 of 1992), leaving no room for an intestacy claim. The case caption Ramamurthy v. Rajendran is corroborated by the order PDF filename as the draft itself notes."
+ },
+ {
+  "file": "_drafts/batch3/news/15-karnataka-hc-aroha-labs-foreign-seat-section-9.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/arbitration/foreign-seat-of-arbitration-alone-doesnt-oust-indian-courts-jurisdiction-to-grant-interim-relief-karnataka-high-court-544065",
+   "https://supremetoday.ai/karnataka-high-court-rules-foreign-seat-arbitration-does-not-bar-interim-relief-under-section-9-20260805116",
+   "https://trilegal.com/news-insights/press-release/trilegal-successfully-represented-aroha-labs-in-section-9-petition-before-karnataka-high-court-in-siac-arbitration/"
+  ],
+  "note": "Independently confirmed via LiveLawBiz, SupremeToday.ai and Trilegal's press release: Justice M.G.S. Kamal's ruling in Aroha Labs Pte. Ltd. v. Prem Dharmani & Ors., partly allowing a Section 9 petition despite the SIAC Singapore-seated arbitration, the master service agreements (May 2024-Nov 2025), the Astro 247 app, Creato Club's Bangalore civil suit, the holding that a foreign seat alone does not oust Section 9 jurisdiction absent express exclusion, the restraint on the five disputed applications, and the refusal to order return of devices/source code at this interim stage. Exact decision date remains unconfirmed beyond the 3 August 2026 report date, consistent with the draft's own disclosure."
+ },
+ {
+  "file": "_drafts/batch3/news/16-nclat-polycab-stay-asier-metals-insolvency.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.barandbench.com/news/nclat-stays-insolvency-proceedings-against-polycab-india-over-278-crore-debt",
+   "https://www.livelawbiz.com/ibc/nclat-stays-cirp-admission-against-polycab-india-limited-554741",
+   "https://www.sahi.com/news/polycab-india-secures-nclat-stay-on-insolvency-order-over-2-79-crore-debt-claim"
+  ],
+  "note": "Independently confirmed via Bar & Bench, LiveLawBiz and other outlets: NCLAT Principal Bench's 9 October 2026 stay of NCLT Ahmedabad's Section 9 CIRP admission (7 October 2026) against Polycab India on Asier Metals' claim (reported as Rs 2.79 crore / Rs 2,78,70,157.22), the conditional FDR deposit requirement with the NCLAT Registrar within one week, the provisional-billing defence, and the appeal listed for 26 October 2026. One source notes the appeal was formally filed by suspended director Bharat Ajay Jaisinghani on Polycab's behalf, consistent with standard IBC appellate practice once a board is suspended on admission; this does not materially contradict the draft's framing of Polycab as the appellant. Bench composition remains unconfirmed in available reporting, as the draft discloses."
+ },
+ {
+  "file": "_drafts/batch3/news/17-madras-hc-reassessment-gst-piggyback-ramegowdu.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/income-tax/high-court/income-tax-reassessment-must-be-independent-of-gst-adjudication-549904",
+   "https://supremetoday.ai/reassessment-cannot-be-based-solely-on-gst-adjudication-madras-high-court-20260915027",
+   "https://taxguru.in/?p=1080917"
+  ],
+  "note": "Independently confirmed via LiveLawBiz, SupremeToday.ai and TaxGuru: Justice Senthilkumar Ramamoorthy's ruling in Ramegowdu Mahendra v. Deputy Commissioner of Income Tax, W.P. No. 32056 of 2026, the Section 148 notice dated 27 May 2026 for AY 2023-24, the GST adjudication order of 3 February 2025, the piggyback holding, the Section 148(3)/CBDT risk-management-strategy gap in the record, the Revenue's assurance of independent reassessment, the court declining to quash the notice, and the two-way principle on GST appeal outcomes not automatically dictating the income tax result. SupremeToday's report is dated 15 September 2026, consistent with the draft's 20 August 2026 decision date plus normal reporting lag."
+ },
+ {
+  "file": "_drafts/batch3/news/18-kerala-hc-ifci-hotel-mythri-sarfaesi-res-judicata.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/high-court/kerala-high-court/kerala-high-court-lessee-cannot-file-fresh-suit-after-suffering-adverse-order-debt-recovery-tribunal-sarfaesi-act-551083",
+   "https://supremetoday.ai/kerala-high-court-rules-hotel-mythri-cannot-re-litigate-sarfaesi-grievance-after-adverse-drt-order-20260922051",
+   "https://thetaxcorp.in/article/kerala-high-court-lessee-barred-from-civil-court-after-drt-defeat-in-sarfaesi"
+  ],
+  "note": "Independently confirmed via LiveLawBiz, SupremeToday.ai and TheTaxCorp (citing OP(C) No. 2569 of 2026, order dated 15 September 2026): Justice Easwaran's ruling in IFCI Limited v. Hotel Mythri, the registered mortgage, the nine-year lease executed during the mortgage's subsistence, Hotel Mythri's S.A. No. 174/2020 before DRT-II Ernakulam dismissed 5 December 2024, the subsequent civil suit before the Sub Court Nedumangad, the High Court setting aside the Sub Court's refusal to reject the plaint, the Section 35/res judicata bar, and the Section 65A Transfer of Property Act finding that an unconsented lease does not bind the mortgagee."
  }
 ]
