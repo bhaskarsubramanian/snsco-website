@@ -1,0 +1,87 @@
+{
+  "slug": "cirp-expiry-automatic-liquidation-section-33-guide",
+  "title": "CIRP Deadline Passed Without a Resolution Plan? Why Liquidation Follows Even Without a CoC Vote",
+  "meta_description": "What happens when a CIRP's statutory timeline expires without an approved resolution plan, and why NCLAT treats Section 33(1)(a) liquidation as automatic once the deadline lapses.",
+  "practice_area": "IBC & Insolvency",
+  "intro": [
+    "Creditors sitting on a Committee of Creditors sometimes assume that liquidation only happens if they vote for it. A 2026 NCLAT ruling in the Syska E-Retails matter is a sharp correction to that assumption. Where the CIRP period, including any extension actually granted, lapses without a resolution plan approved under Section 30(6), Section 33(1)(a) of the IBC requires the Adjudicating Authority to order liquidation, and tribunals have treated that consequence as automatic once the deadline has genuinely passed, regardless of how the Committee of Creditors voted, or failed to vote, on a separate liquidation proposal.",
+    "The ruling matters because it closes off an argument that keeps surfacing in CIRP matters running close to their statutory deadline: that a deadlocked or failed CoC vote on liquidation itself somehow keeps the process alive. It does not."
+  ],
+  "sections": [
+    {
+      "heading": "The Syska E-Retails facts: two failed votes and an expired deadline",
+      "paragraphs": [
+        "The corporate debtor's CIRP commenced on 17 June 2025, after the NCLT admitted Canara Bank's petition under Section 7 of the IBC. As the process approached its statutory limit, the Committee of Creditors was asked to vote on two separate propositions: extending the CIRP period further, and, separately, liquidating the corporate debtor under Section 33(2). Neither proposal secured the 66 percent voting share the Code requires for either course of action. With no extension in place and no approved resolution plan on the table, the CIRP period expired on 14 December 2025.",
+        "After the deadline had already passed, the suspended partner of the corporate debtor and another prospective applicant came forward expressing interest in submitting resolution plans. The NCLT, Mumbai bench, was not persuaded that this late interest justified reopening the process, declined to condone the delay, and ordered liquidation under Section 33(1)(a). The suspended partner appealed to the NCLAT."
+      ]
+    },
+    {
+      "heading": "Why a failed liquidation vote did not save the process",
+      "paragraphs": [
+        "The appellant's core argument was that because the Committee of Creditors had failed to pass the Section 33(2) liquidation resolution by the required majority, liquidation could not be ordered; in effect, the argument treated the CoC's inability to agree on liquidation as leaving the corporate debtor in limbo rather than in liquidation. The NCLAT, with Justice Sharad Kumar Sharma presiding alongside Technical Members Arun Baroka and Indevar Pandey, rejected that reasoning. The bench held that the vote on a separate, voluntary liquidation resolution under Section 33(2) was never a condition precedent to the Adjudicating Authority's exercise of its statutory power under Section 33(1)(a).",
+        "The distinction the NCLAT drew is between two genuinely different liquidation routes within the same section. Section 33(2) lets a Committee of Creditors choose liquidation proactively, before the CIRP deadline, as a commercial decision, and that route does require a CoC vote. Section 33(1)(a) is a different, backward-looking trigger: once the deadline has actually passed without an approved plan, the statutory consequence attaches on its own, and a failure to agree on the voluntary route under Section 33(2) simply means that route was never activated, not that the automatic consequence under Section 33(1)(a) is somehow switched off."
+      ]
+    },
+    {
+      "heading": "Late expressions of interest do not revive an expired CIRP",
+      "paragraphs": [
+        "The NCLAT's reasoning also disposed of the suspended partner's argument based on the late expressions of interest received after the deadline had passed. Timing relative to the statutory deadline, not the mere existence of an interested party willing to submit a plan, is what the Code looks at. A draft resolution plan or an expression of interest that surfaces only after the CIRP period has already expired cannot forestall liquidation or reopen a process that has, by operation of the statute, already concluded.",
+        "This is a harder line than many stakeholders expect going into a CIRP that is running close to its outer limit. It means a resolution applicant who waits for the deadline pressure to produce a better deal risks losing the opportunity altogether, and a Committee of Creditors that is still negotiating with a prospective applicant as the deadline nears needs either a concluded, voted resolution plan or a validly granted extension in hand before the clock runs out, not merely a promising ongoing conversation."
+      ]
+    },
+    {
+      "heading": "What this means for a Committee of Creditors approaching a deadline",
+      "paragraphs": [
+        "The only way to avoid the automatic liquidation consequence, on this reasoning, is to secure a valid extension of the CIRP period, where the statutory conditions for an extension are actually met, before the existing deadline passes. A vote taken on an extension proposal after the deadline has already lapsed is too late regardless of how it goes, because there is, by that point, no extant CIRP period left to extend.",
+        "For resolution professionals managing a CIRP running close to its outer limit, the practical discipline this ruling imposes is to treat the statutory deadline, not the Committee's internal negotiating timeline, as the governing constraint. An extension application that is filed and decided with days to spare, rather than negotiated informally and left to the last possible CoC meeting, is the only reliable way to keep the Section 33(1)(a) consequence from attaching automatically.",
+        "There is also a drafting lesson buried in the Syska timeline for resolution professionals reporting to the Committee. A report that frames an extension and a liquidation vote as two options on the same agenda item, to be decided at the same meeting close to the deadline, invites exactly the kind of deadlock that doomed both proposals in Syska. Separating the two questions earlier, and forcing the Committee to commit to one path with enough runway left to execute it properly, reduces the risk of arriving at the deadline with neither an extension nor a liquidation resolution in hand."
+      ]
+    },
+    {
+      "heading": "Distinguishing this from a CoC's own voluntary decision to liquidate",
+      "paragraphs": [
+        "It is worth keeping Section 33(2) in view as a genuinely separate route, because conflating the two can lead to confused advice. A Committee of Creditors that concludes, well before any deadline pressure, that liquidation is commercially the better outcome, say because no viable resolution plan has emerged and continuing the process would simply erode asset value, can vote to liquidate under Section 33(2) on its own initiative. That is a deliberate commercial choice, assessed on its own commercial-wisdom standard, and it is not the same mechanism, procedurally or in substance, as the deadline-driven, automatic consequence under Section 33(1)(a) that the Syska E-Retails ruling addresses. A CoC that mistakes the two risks either moving prematurely to Section 33(2) when an extension was still realistically available, or assuming a failed Section 33(2) vote protects it from the automatic consequence once the deadline actually passes."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a Committee of Creditors have to vote for liquidation before it happens under Section 33(1)(a)?",
+      "a": "No. NCLAT has held that once the CIRP period lapses without an approved resolution plan or a valid extension, liquidation under Section 33(1)(a) follows automatically. A separate CoC vote on liquidation under Section 33(2) is a different, voluntary route, not a precondition."
+    },
+    {
+      "q": "Can a resolution applicant revive a CIRP by submitting a plan after the deadline has passed?",
+      "a": "No. NCLAT has held that expressions of interest or draft resolution plans received only after the CIRP period has already expired cannot forestall liquidation. Timing relative to the statutory deadline is what matters, not the existence of a late-arriving interested party."
+    },
+    {
+      "q": "What is the only way to avoid automatic liquidation as a CIRP deadline nears?",
+      "a": "Securing a valid extension of the CIRP period, meeting the statutory conditions for one, before the existing deadline passes. Once the deadline has already lapsed, a vote taken afterwards on extending it is too late regardless of the outcome."
+    },
+    {
+      "q": "Is a Committee of Creditors voting to liquidate under Section 33(2) the same as deadline-driven liquidation under Section 33(1)(a)?",
+      "a": "No. Section 33(2) is a voluntary, commercial decision by the CoC to liquidate before the CIRP deadline, assessed on a commercial-wisdom standard. Section 33(1)(a) is a separate, automatic consequence that attaches once the deadline passes without an approved plan."
+    },
+    {
+      "q": "What happened in the Syska E-Retails case specifically?",
+      "a": "The CIRP period expired in December 2025 after neither an extension proposal nor a Section 33(2) liquidation resolution secured the required 66 percent CoC vote. NCLT ordered liquidation under Section 33(1)(a), and NCLAT upheld that order in 2026, rejecting the suspended partner's appeal."
+    }
+  ],
+  "references": [
+    "Insolvency and Bankruptcy Code, 2016, Section 33(1)(a) (mandatory liquidation where the CIRP period expires without an approved resolution plan)",
+    "Insolvency and Bankruptcy Code, 2016, Section 33(2) (Committee of Creditors' voluntary decision to liquidate before CIRP expiry)",
+    "Insolvency and Bankruptcy Code, 2016, Section 12 (CIRP timelines and extension)",
+    "Rajesh Uttamchandani v. Vijay Pitambar Lulla & Ors., NCLAT, 2026 (CIRP expiry without an approved resolution plan mandates liquidation under Section 33(1)(a); failed CoC liquidation vote and late expressions of interest held irrelevant)"
+  ],
+  "sources": [
+    "https://www.livelawbiz.com/ibc/cirp-expiry-without-resolution-plan-mandates-liquidation-cocs-failed-liquidation-vote-irrelevant-nclat-552859",
+    "https://supremetoday.ai/nclat-holds-cirp-expiry-without-resolution-plan-mandates-liquidation-failed-coc-vote-irrelevant-20261003016",
+    "https://courtkutchehry.com/judgments/mr-rajesh-uttamchandani-vs-mr-vijay-pitambar-lulla-and-ors",
+    "https://www.taxscan.in/corporate-laws/absence-of-a-66-vote-in-favour-of-liquidation-does-not-prevent-liquidation-us-331a-nclat-dismisses-appeal-read-order"
+  ],
+  "verification_notes": [
+    "The core NCLAT ruling (CIRP commenced 17 June 2025 on Canara Bank's Section 7 petition, neither extension nor Section 33(2) liquidation proposal securing 66 percent CoC vote, CIRP period expiring 14 December 2025, NCLT ordering liquidation under Section 33(1)(a), NCLAT dismissing the suspended partner's appeal and holding the Section 33(1)(a) consequence automatic and independent of the failed Section 33(2) vote) is confirmed across at least three independent sources: livelawbiz.com, supremetoday.ai and taxscan.in, all reporting in early-to-mid October 2026.",
+    "The NCLAT bench composition (Justice Sharad Kumar Sharma, Technical Members Arun Baroka and Indevar Pandey) and the case reference (Rajesh Uttamchandani v. Vijay Pitambar Lulla & Ors., reported as (2026) 09 NCLAT CK 5975) are confirmed via courtkutchehry.com's case record, corroborated by livelawbiz.com's report.",
+    "A discrepancy was found between sources on the NCLT's original liquidation order date (one source stating 08.09.2026, the NCLAT appeal summary stating 08.01.2026); since the appeal and NCLAT ruling occurred in 2026 after the CIRP's December 2025 expiry, 08.01.2026 is the more internally consistent date and the guide does not state a specific NCLT order date at all, to avoid asserting the unresolved figure.",
+    "The general distinction between Section 33(1)(a) (automatic, deadline-driven liquidation) and Section 33(2) (CoC's voluntary liquidation resolution, assessed on a commercial-wisdom standard) reflects the IBC's own statutory structure as consistently described across the livelawbiz.com, taxmann.com and taxscan.in sources found in research, and is treated here as settled general law rather than requiring a separate citation beyond the Syska ruling itself."
+  ]
+}

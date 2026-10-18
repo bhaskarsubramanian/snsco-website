@@ -1,0 +1,86 @@
+{
+  "slug": "nhai-termination-notice-multiple-grounds-guide",
+  "title": "NHAI Terminated Your Contract on Two Grounds. Winning on One in Court Does Not Mean You Have Won",
+  "meta_description": "Why a multi-ground termination notice from an authority like NHAI needs every ground challenged, and what the Supreme Court's stay in the Tata Projects dispute signals for contractors.",
+  "practice_area": "Infrastructure & PPP",
+  "intro": [
+    "Public authorities terminating an infrastructure contract rarely rely on a single alleged default. NHAI's notice terminating Tata Projects' Rs 940.68 crore EPC contract for a stretch of NH-709A cited two separate grounds, and the dispute that followed shows exactly why that drafting choice matters to a contractor planning its legal challenge. A contractor who wins on one ground and ignores the other can still lose the fight, because an authority's termination can stand on whichever ground the court never actually addressed.",
+    "The Supreme Court's intervention in that dispute in August 2026, staying an Allahabad High Court judgment that had quashed the termination, turned on exactly this point: the High Court's reasoning engaged with only one of NHAI's two grounds, and the Solicitor General's argument that the second ground had gone unaddressed was enough to get the judgment stayed pending further consideration."
+  ],
+  "sections": [
+    {
+      "heading": "The two grounds NHAI relied on, and why authorities cite more than one",
+      "paragraphs": [
+        "NHAI's termination notice to Tata Projects rested on two independent allegations: failure to complete the contracted work within the stipulated timeline, and failure to maintain the existing highway in a traffic-worthy condition during the construction period. Each ground, on its own terms, is capable of independently justifying termination under a typical EPC contract's default provisions.",
+        "Authorities draft notices this way deliberately. If a contractor successfully disproves one alleged default, say by showing the delay was actually caused by the authority's own failure to hand over land, the termination can still survive on the second, separately pleaded ground, provided that second ground is itself sound and was actually considered. A contractor facing a multi-ground notice should assume from the outset that disproving the easier ground to attack is not, by itself, a complete answer to the notice, however persuasive that single answer might feel in isolation.",
+        "This is not a drafting trick peculiar to NHAI. Any authority terminating a long-term concession, EPC or works contract tends to build a notice around every default it can document, precisely because a single-ground notice gives the contractor one clean target to knock down. A contractor who treats the notice as a list of separate, independently fatal allegations, rather than as one combined narrative, is better placed to see where a response needs to be built on each point."
+      ]
+    },
+    {
+      "heading": "What went wrong for Tata Projects at the High Court stage",
+      "paragraphs": [
+        "Tata Projects' central argument before the Allahabad High Court was that NHAI had failed to provide hindrance-free land with Right of Way in the contiguous five-kilometre stretches the agreement required, and that this failure, not any default by Tata Projects, was the real cause of the delay. The High Court accepted that there was a serious dispute over whether hindrance-free land had actually been handed over, held that an arbitration clause does not bar writ jurisdiction where a state authority has acted arbitrarily in terminating a public contract, and on 8 July 2026 quashed the termination, the forfeiture of bank guarantees, and the fresh tender NHAI had floated, directing a joint site inspection instead.",
+        "What the High Court's judgment did not do, according to NHAI's submission before the Supreme Court, was engage with the second ground at all: the allegation that Tata Projects had failed to maintain the existing highway in traffic-worthy condition while the new construction was underway. Solicitor General Tushar Mehta argued precisely this point to the Supreme Court bench of Justices J.B. Pardiwala and K. Vinod Chandran, and it was enough to get the High Court's judgment stayed on 31 August 2026, pending further consideration of the dispute."
+      ]
+    },
+    {
+      "heading": "Why a reviewing court looks for reasoning on every ground, not just the one argued hardest",
+      "paragraphs": [
+        "A court reviewing a multi-ground termination, whether in a writ petition, an arbitration challenge, or on further appeal, is not simply checking whether the contractor's strongest argument succeeded. It is looking for whether the lower court's or tribunal's reasoning actually addresses each ground cited in the termination notice, because a judgment that is silent on one ground leaves that ground effectively undecided rather than implicitly rejected.",
+        "This is precisely the gap that undid the High Court's ruling at the Supreme Court stage. A court will not infer that a second, unaddressed ground was rejected merely because the parties spent most of their argument on the first ground, or because the contractor appeared to win convincingly on that first point. The 'practical impossibility' argument Tata Projects could have made, that maintaining ageing infrastructure while simultaneously demolishing and rebuilding the same stretch is operationally unworkable, needed to actually be made and ruled upon, not assumed to follow from the contractor's success on the land-handover point. The Supreme Court bench's own question at the hearing, asking how NHAI expected the contractor to maintain the existing road while building the new one, suggests the merits of that argument may yet be live, but a live argument is not the same as one a court has actually decided."
+      ]
+    },
+    {
+      "heading": "Why a stay, not a final reversal, was the outcome at this stage",
+      "paragraphs": [
+        "The Supreme Court's order was a stay of the High Court's judgment, not a final ruling reinstating NHAI's termination or deciding the second ground itself. That distinction matters for how contractors should read this kind of Supreme Court intervention generally. Where an SLP identifies an unaddressed ground at the appellate stage, the Supreme Court typically restores the dispute to a live, contested status, often by remitting it or, as happened here, by suggesting the parties negotiate given the public interest in completing the highway, rather than deciding the unaddressed ground itself in the first instance without the benefit of the High Court's or an arbitrator's reasoning on it.",
+        "For Tata Projects and NHAI, that means the underlying dispute, including the maintenance-ground question the High Court never reached, remains open rather than resolved in either party's favour. The bench's own suggestion that arbitration might be the more sensible route going forward is a signal worth taking seriously: a public contract dispute of this scale, with an unaddressed ground still live, is not well suited to being finally decided through further rounds of writ litigation."
+      ]
+    },
+    {
+      "heading": "Drafting the challenge so no ground is left unaddressed",
+      "paragraphs": [
+        "The practical lesson for any contractor drafting a Section 34 petition, a writ challenge, or an arbitration statement of claim against a multi-ground termination notice is structural: every ground cited in the notice needs its own pleaded response and its own prayer for relief, even the ground that looks weaker or less central to the real dispute. A pleading that devotes most of its force to the strongest point and treats the weaker ground in a single dismissive paragraph risks producing exactly the kind of judgment that unravelled here, one that a reviewing court can pick apart for failing to engage with everything the termination notice actually said.",
+        "This discipline costs more drafting effort upfront, since it means building out evidence and argument on a ground the contractor might genuinely believe is weak or made up after the fact. But the alternative, as Tata Projects has now discovered at the Supreme Court stage, is a hard-won victory on the stronger ground becoming vulnerable to being unwound entirely because the weaker ground was never properly put to rest."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why do authorities like NHAI cite more than one ground in a termination notice?",
+      "a": "Because each ground is independently capable of justifying termination. If a contractor successfully disproves one ground, the termination can still stand on the other, provided that second ground is sound and was actually addressed by the court or tribunal reviewing the dispute."
+    },
+    {
+      "q": "What happened in the NHAI v. Tata Projects dispute?",
+      "a": "The Allahabad High Court quashed NHAI's termination of a Rs 940.68 crore EPC contract, addressing only the ground about land handover delays. The Supreme Court stayed that judgment in August 2026 after the Solicitor General argued a second ground, about highway maintenance, had gone unaddressed."
+    },
+    {
+      "q": "Does winning the strongest argument in a termination challenge guarantee success?",
+      "a": "Not if the termination notice cited multiple independent grounds and the court's judgment does not address all of them. A reviewing court can find the judgment incomplete and vulnerable to being stayed or reversed if one cited ground was never actually decided."
+    },
+    {
+      "q": "Does a Supreme Court stay of a High Court judgment mean the contractor has lost?",
+      "a": "No. A stay pauses the effect of the High Court's judgment pending further consideration; it does not finally decide the dispute. In the Tata Projects matter, the underlying question of whether the termination was valid, including the unaddressed ground, remains open."
+    },
+    {
+      "q": "How should a contractor draft a challenge to a multi-ground termination notice?",
+      "a": "By pleading and arguing every ground cited in the notice individually, including grounds that look weaker, rather than concentrating all effort on the strongest point. This avoids producing a judgment that a reviewing court can later find incomplete for failing to address every ground raised."
+    }
+  ],
+  "references": [
+    "National Highways Authority of India v. Tata Projects Limited, SLP(C) No. 29512 of 2026, Supreme Court (stay of Allahabad High Court judgment, 31 August 2026, Justices J.B. Pardiwala and K. Vinod Chandran)",
+    "Allahabad High Court judgment dated 8 July 2026 quashing NHAI's termination of Tata Projects' Rs 940.68 crore EPC contract for NH-709A (Garhmukteshwar to Meerut), bank guarantee forfeiture and fresh tender"
+  ],
+  "sources": [
+    "https://foxmandal.in/News/supreme-court-stays-allahabad-hc-order-quashing-termination-of-%e2%82%b9940-crore-nhai-tata-projects-contract",
+    "https://www.livelaw.in/amp/high-court/allahabad-high-court/allahabad-high-court-grants-relief-tata-nhai-terminate-contract-540801",
+    "https://supremetoday.ai/supreme-court-stays-allahabad-hc-order-quashing-nhais-rs940-crore-contract-termination-with-tata-projects-20260831077",
+    "https://www.livelawbiz.com/top-stories/supreme-court-stays-allahabad-hc-order-quashing-940-crore-nhai-contract-termination-against-tata-projects-547841"
+  ],
+  "verification_notes": [
+    "The core facts (Rs 940.68 crore EPC contract for a 50.254 km stretch of NH-709A between Garhmukteshwar and Meerut, Allahabad High Court judgment dated 8 July 2026 quashing the termination, bank guarantee forfeiture and fresh tender, Supreme Court stay dated 31 August 2026 in SLP(C) No. 29512 of 2026 before Justices J.B. Pardiwala and K. Vinod Chandran) are confirmed across at least four independent sources: foxmandal.in, livelaw.in, supremetoday.ai and livelawbiz.com.",
+    "The two specific termination grounds (failure to complete work within the stipulated timeline; failure to maintain the existing highway in traffic-worthy condition during construction) and the Solicitor General's submission that the High Court had not addressed the second ground are confirmed via supremetoday.ai and livelawbiz.com, two independent sources reporting consistent detail.",
+    "The bench's question at the hearing about how NHAI expected the contractor to maintain the existing road while building the new one is reported in one source (livelawbiz.com/supremetoday.ai reporting); it is presented in the guide as an indication of the bench's live thinking at the hearing, not as a concluded finding, consistent with the stay being interim rather than final.",
+    "No report found in research confirmed a final resolution of the underlying dispute following the August 2026 stay; the guide accordingly describes the matter as remaining open rather than asserting any outcome beyond the stay itself, per the research note flagging this as unresolved at the time of research."
+  ]
+}
