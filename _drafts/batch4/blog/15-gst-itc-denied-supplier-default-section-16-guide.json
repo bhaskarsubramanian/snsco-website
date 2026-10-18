@@ -1,0 +1,87 @@
+{
+  "slug": "gst-itc-denied-supplier-default-section-16-guide",
+  "title": "GST ITC Denied Because Your Supplier Didn't Pay? What Section 16(2)(c) Actually Requires",
+  "meta_description": "Why GST input tax credit cannot usually be denied over a supplier's default once you have paid them, and where High Courts currently disagree.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "A buyer who has paid every invoice in full, through proper banking channels, with a valid tax invoice in hand, still gets a GST demand notice months later saying their input tax credit stands denied because the figures in GSTR-2A do not match what the supplier actually deposited with the government. The buyer's first reaction is usually disbelief: they paid the tax to the supplier as part of the invoice amount, and have no way of making the supplier actually remit it onward. The department's position, built on a literal reading of Section 16(2)(c) of the CGST Act, is that credit depends on the tax having actually reached the government, regardless of whose fault it was that it did not.",
+    "This is one of the more unsettled corners of GST litigation right now, with different High Courts pulling in different directions. A buyer facing such a demand needs to know both the taxpayer-favourable line of authority and its limits, because the outcome in any given case depends heavily on whether there is a hint of collusion on the facts, not just on citing the right judgment."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 16(2)(c) Actually Says",
+      "paragraphs": [
+        "Section 16(2)(c) of the CGST Act, 2017 lists conditions a registered person must satisfy to claim input tax credit, and one of them is that the tax charged on the supply has actually been paid to the government, either in cash or through utilisation of admissible credit, by the supplier. Read literally, this makes the buyer's entitlement contingent on something entirely outside the buyer's control: whether the supplier, having collected the tax as part of the invoice price, actually deposits it with the government.",
+        "The department's enforcement pattern has leaned heavily on GSTR-2A, the auto-populated statement reflecting what suppliers have reported, and GSTR-3B, the buyer's own return. Where an invoice appears in the buyer's claimed credit but not in GSTR-2A, or appears with a different figure, the standard notice treats this mismatch as proof that the condition in Section 16(2)(c) has not been met, and proposes to reverse the credit along with interest and, in many notices, a penalty."
+      ]
+    },
+    {
+      "heading": "The Taxpayer-Favourable Line: Suncraft and What Followed",
+      "paragraphs": [
+        "Calcutta High Court's 2023 ruling in Suncraft Energy is the starting point for the buyer-protective line of cases. The Court held that a buyer's input tax credit cannot be denied over a GSTR-2A versus GSTR-3B mismatch without any investigation into the supplier first, reasoning that GSTR-2A exists mainly to help a taxpayer take an informed decision at the time of self-assessment, and is not itself the final word on entitlement. Once a buyer has actually paid the supplier, including the tax component, the buyer's entitlement should not be defeated simply because the supplier later failed to deposit that tax, at least not without the department first making a genuine attempt to recover from the defaulting supplier.",
+        "That ruling gained real force when the Supreme Court dismissed the department's appeal against it in December 2023, though a dismissal of a special leave petition is not the same as a reasoned merits judgment affirming every line of the High Court's reasoning, so it should be cited with that distinction kept in mind. The Allahabad High Court followed a similar approach in May 2025 in a matter involving R.T. Infotech, holding that credit cannot be denied where payment was made through banking channels and the invoices are valid, and criticising the department for failing to conduct any proper inquiry into the supplier's side of the default before proceeding against the buyer."
+      ]
+    },
+    {
+      "heading": "Where High Courts Disagree",
+      "paragraphs": [
+        "Not every High Court has read the provision the same way. The Gujarat High Court, in the Maruti Enterprise line of cases, has taken a stricter, more textual approach, treating actual payment by the supplier as a mandatory condition that the statute itself imposes, regardless of the buyer's own diligence. The Supreme Court dismissed special leave petitions against this view as well, in the Bhandari Scrap Traders matter, holding that Section 16(2)(c) is neither unconstitutional nor liable to be read down, which gives the stricter reading its own standing authority to point to.",
+        "Both outcomes being supported by Supreme Court dismissals of special leave petitions, rather than detailed merits judgments resolving the conflict, is precisely why this area remains unsettled. A Punjab and Haryana High Court ruling in the Shaurya Alloys matter tried to reconcile the two positions by upholding the provision's validity while holding that it cannot be mechanically applied against a genuine purchasing dealer merely because the supplier defaulted, treating supplier default as a trigger for inquiry rather than automatic proof of the buyer's liability. A more recent Tripura High Court ruling, in January 2026, went further, describing the provision as needing to be read down to apply only to collusive or fraudulent transactions, and rejecting the idea of forcing buyers to police their suppliers' payment behaviour as an impossible burden."
+      ]
+    },
+    {
+      "heading": "What a Buyer Actually Needs to Show",
+      "paragraphs": [
+        "Across the taxpayer-favourable decisions, a consistent pattern emerges in what protects a genuine buyer: payment of the full invoice value, including the tax component, through a traceable banking channel rather than cash; a valid tax invoice containing all the particulars the law requires; actual receipt of the goods or services; and no indication of any relationship, prior dealing pattern, or circumstantial evidence suggesting the buyer knew, or should have known, that the supplier was not going to remit the tax.",
+        "Where any of these elements is missing, particularly where the department can point to circumstances suggesting the buyer and supplier were not dealing at arm's length, or where the supplier turns out to be a shell entity the buyer ought reasonably to have been suspicious of, the taxpayer-favourable line offers much less protection, since it was built specifically around the idea of a genuine, diligent buyer being penalised for someone else's default, not around shielding transactions that were never genuine in the first place."
+      ]
+    },
+    {
+      "heading": "Responding to a Mismatch-Based Notice",
+      "paragraphs": [
+        "A buyer receiving a show cause notice built on a GSTR-2A mismatch should resist the temptation to simply reverse the credit to avoid the dispute, since that reversal can be read later as an admission weakening a stronger legal position. The reply should set out, with supporting documents, the four elements courts have looked for: proof of payment through banking channels, the invoice itself, evidence of actual receipt of goods or services, and a request that the department first pursue the defaulting supplier rather than proceed directly against the buyer, citing the specific High Court authority applicable in that jurisdiction.",
+        "Where the demand proceeds anyway, an appeal to the Commissioner (Appeals), and beyond that to the GST Appellate Tribunal as it becomes operational across different benches, remains the normal route, and a buyer should be realistic that the final outcome may still depend on which High Court's jurisdiction the matter falls within until the Supreme Court resolves the conflict on a full merits hearing rather than through a series of special leave petition dismissals."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can my GST input tax credit be denied just because my supplier didn't deposit the tax?",
+      "a": "It depends on which High Court's jurisdiction applies and on your own facts. Several High Courts, including Calcutta and Allahabad, hold that a genuine buyer who paid through banking channels should not be denied credit without the department first pursuing the defaulting supplier. Others have taken a stricter, more literal view of Section 16(2)(c)."
+    },
+    {
+      "q": "Does paying my supplier in cash change my position?",
+      "a": "Yes, significantly. The taxpayer-favourable rulings rest heavily on the buyer having paid the full invoice value, including the tax component, through a traceable banking channel. A cash payment removes the clearest evidence courts have relied on to treat a buyer as genuine and diligent."
+    },
+    {
+      "q": "Is Section 16(2)(c) itself unconstitutional?",
+      "a": "No. The Supreme Court has dismissed a challenge to its constitutional validity, in the Bhandari Scrap Traders matter, affirming the Gujarat High Court's stricter reading on that specific point. The live dispute is not about the provision's validity but about how mechanically it can be applied to a genuinely diligent buyer."
+    },
+    {
+      "q": "What should I do if I get a notice based on a GSTR-2A versus GSTR-3B mismatch?",
+      "a": "Gather proof of banking-channel payment, the valid invoice, and evidence of actual receipt of the goods or services before replying. Avoid reversing the credit as a quick fix, since that can be treated as an admission later, and cite the High Court authority applicable in your jurisdiction in the reply."
+    }
+  ],
+  "references": [
+    "Central Goods and Services Tax Act, 2017, Section 16(2)(c) (input tax credit conditional on tax actually having been paid to the government by the supplier)",
+    "Suncraft Energy Pvt. Ltd. v. Assistant Commissioner, State Tax, Calcutta High Court, 2023 (credit cannot be denied over a GSTR-2A mismatch without investigating the supplier; Supreme Court dismissed the department's appeal, December 2023)",
+    "R.T. Infotech v. State of U.P., Allahabad High Court, 30 May 2025 (credit cannot be denied where payment was through banking channels and invoices are valid, absent a proper inquiry into the supplier's default)",
+    "Shaurya Alloys v. State of Punjab (and connected matters), Punjab and Haryana High Court (Section 16(2)(c) and Section 155 upheld as valid but not to be mechanically applied against a genuine purchasing dealer)",
+    "Bhandari Scrap Traders v. Union of India & Ors., Supreme Court (special leave petitions dismissed, affirming the Gujarat High Court's Maruti Enterprise ruling that Section 16(2)(c) is constitutionally valid and not liable to be read down)"
+  ],
+  "sources": [
+    "https://www.rsm.global/india/sites/default/files/media/documents/1.%20RSM%20India%20Newsflash%20Calcutta%20HC%20-%20Denial%20of%20ITC%20for%20non-reflection%20-%20without%20investigating%20supplier%20-%20unsustainable%20%26%20non-justified.pdf",
+    "https://taxo.online/latest-news/06-06-2025-itc-denial-merely-for-mismatch-or-non-payment-by-supplier-is-unsustainable-especially-where-the-purchaser-is-diligent-allahabad-high-court/",
+    "https://taxo.online/latest-articles/no-automatic-reversal-of-itc-from-the-buyer-upon-non-payment-by-the-supplier-supreme-court-upholds-calcutta-high-court-order/",
+    "https://www.taxheal.com/?p=116249",
+    "https://www.taxheal.com/?p=113871",
+    "https://taxguru.in/goods-and-service-tax/karnataka-hc-grants-interim-relief-itc-denial-due-supplier-default.html"
+  ],
+  "verification_notes": [
+    "The Suncraft Energy holding (ITC cannot be denied over a GSTR-2A/3B mismatch without investigating the supplier, and the Supreme Court's December 2023 dismissal of the department's appeal) is confirmed via the rsm.global newsflash and the taxo.online article on the Supreme Court upholding the Calcutta High Court order, both describing the same ruling and disposal consistently; this guide notes the distinction between a dismissal of a special leave petition and a reasoned merits affirmation, since the sources themselves flag that point.",
+    "The Allahabad High Court's R.T. Infotech ruling (30 May 2025, credit cannot be denied where payment was through banking channels and invoices were valid, absent proper inquiry into supplier default) is confirmed via the taxo.online report naming the case, date and holding.",
+    "The Gujarat High Court's stricter, textual reading in the Maruti Enterprise line, and the Supreme Court's dismissal of special leave petitions against it in Bhandari Scrap Traders (holding Section 16(2)(c) constitutionally valid and not liable to be read down), is confirmed via the taxheal.com commentary describing both the Gujarat ruling and the Supreme Court's disposal in consistent terms.",
+    "The Punjab and Haryana High Court's Shaurya Alloys ruling (provision upheld as valid, but not to be mechanically applied against a genuine purchasing dealer) and the Tripura High Court's Sahil Enterprises ruling (January 2026, provision read down to apply only to collusive or fraudulent transactions) are each drawn from a single taxheal.com-style secondary report; a second independent source naming each specific case was not located, so both are described in the general terms those reports use, and are presented as illustrating a documented split among High Courts rather than as independently cross-verified holdings in every specific detail.",
+    "The Karnataka High Court's interim relief in the Sunlog Services matter is confirmed via the taxguru.in report, which itself describes the relief as interim and not a final ruling; this guide accordingly does not rely on it as settled authority, only as evidence that the Suncraft Energy line is actively being invoked in pending matters."
+  ]
+}
