@@ -1,0 +1,110 @@
+[
+ {
+  "file": "_drafts/batch2/news/01-jamnabai-v-vasudev-mutation-title-supreme-court.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://taxguru.in/finance/sc-mutation-not-confer-title-unregistered-relinquishment-cannot-defeat-owners-rights.html",
+   "https://thelawgist.org/jamnabai-v-vasudev-supreme-court-mutation-co-ownership-partition-2026/",
+   "https://www.thelawadvice.com/news/supreme-court-holds-revenue-mutation-cannot-extinguish-property-title-restores-family-s-co-ownership-rights"
+  ],
+  "note": "Independently confirmed: 2026 INSC 900, 20 Aug 2026, bench of Justices Sanjay Karol and Augustine George Masih, the 12.41-acre Indore land dispute between brothers Ramprasad and Vasudev, the mutation-does-not-confer-title holding, and that the SC set aside the 2025 MP High Court judgment and restored the 2019 first appellate decree affirming the 2016 trial court decree."
+ },
+ {
+  "file": "_drafts/batch2/news/02-sail-v-british-marine-maritime-arbitrator-bias.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.verdictum.in/delhi-high-court/steel-authority-of-india-limited-v-british-marine-2026dhc7953-db-maritime-arbitrators-clause-1622274",
+   "https://www.livelawbiz.com/high-court/delhi-high-court/issue-conflict-is-not-statutory-ground-for-disqualification-delhi-high-court-holds-arbitrators-not-ineligible-merely-for-taking-prior-view-on-same-clause-307882",
+   "https://www.barandbench.com/news/litigation/delhi-high-court-blocks-213-crore-payout-by-sail-to-british-company-over-unstamped-arbitral-award"
+  ],
+  "note": "Independently confirmed: citation 2026:DHC:7953-DB / FAO(OS)(COMM) 17/2026, Division Bench of Justices Prathiba M. Singh and Vikas Mahajan upholding the single judge (Justice Jyoti Singh, 13 Oct 2025), the Clause 62 contract-of-affreightment dispute, the issue-conflict-is-not-bias holding, the waiver/timing point, and the 6% pre-award / 9% post-award interest rates under Section 31(7). A later, separate Oct 2026 order blocked release of funds over an unstamped award, but that enforcement issue does not disturb or reverse this bias ruling."
+ },
+ {
+  "file": "_drafts/batch2/news/03-vikas-mandoth-globe-mark-madras-hc-trademark.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/using-visually-similar-vernacular-versions-of-registered-trademark-is-infringement-madras-high-court",
+   "https://www.livelawbiz.com/amp/trademark/madras-high-court-refuses-to-lift-injunction-against-chennai-trader-over-use-of-globe-mark-for-padlocks-549111",
+   "https://supremetoday.ai/using-tamil-version-of-globe-mark-infringes-registered-trademark-madras-high-court-20260915037"
+  ],
+  "note": "Independently confirmed: Justice K. Kumaresh Babu, order dated 7 Sept 2026, Madras High Court Commercial Division, the Tamil-transliteration-of-Globe infringement holding, the prior-user finding favouring Shanghai Huanqiu, the trade dress/packaging relief, and deferral of the fabrication/maintainability defences to trial. One source names a co-plaintiff (Valaram/Prince Impex) not mentioned in the draft, but this is an omission, not an error."
+ },
+ {
+  "file": "_drafts/batch2/news/04-century-plyboards-cestat-kolkata-cenvat-credit.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://taxguru.in/excise-duty/depot-sales-commission-qualifies-cenvat-credit-cestat-kolkata.html",
+   "https://www.livelawbiz.com/custom-excise-service-tax/cestat-kolkata-allows-cenvat-credit-on-sales-commission-for-goods-sold-through-depots-554316"
+  ],
+  "note": "Core holding independently confirmed (depot as place of removal under Section 4(3)(c), commission as eligible input service, ISD distribution valid, demand/interest/penalty set aside, Excise Appeal No. 77334 of 2019, bench of R. Muralidhar and K. Anpazhakan). However TaxGuri reports the order was pronounced in open court on 09.10.2026, not 12 October 2026 as the draft states; 12 October appears to be the LiveLaw publication date, not the decision date.",
+  "fixes": [
+   {
+    "find": "order dated 12 October 2026",
+    "replace": "order dated 9 October 2026",
+    "reason": "TaxGuru reports the order was pronounced in open court on 09.10.2026; 12 October 2026 is the LiveLaw publication date, not the decision date."
+   },
+   {
+    "find": "\"decision_date\": \"2026-10-12\",",
+    "replace": "\"decision_date\": \"2026-10-09\",",
+    "reason": "Correcting decision date to match the order pronouncement date of 9 October 2026."
+   },
+   {
+    "find": "the underlying order PDF uploaded by LiveLawBiz, dated 12 October 2026.",
+    "replace": "the underlying order PDF uploaded by LiveLawBiz. A TaxGuru report of the same order records it as pronounced in open court on 9 October 2026; 12 October 2026 reflects only the LiveLawBiz publication date, not the decision date.",
+    "reason": "Correcting decision date in verification notes."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/news/05-raisa-khan-madarsa-teacher-gratuity-allahabad-hc.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://www.livelaw.in/high-court/allahabad-high-court/gratuity-cant-be-denied-to-madarsa-teacher-merely-for-not-exercising-option-to-retire-at-60-allahabad-high-court-553123",
+   "https://www.verdictum.in/allahabad-high-court/raisa-khan-v-state-of-uttar-pradesh-2026ahc-lko70249-retirement-dues-gratuity-1623436",
+   "https://courtkutchehry.com/judgments/smt-raisa-khan-vs-state-of-u-p-thru-prin-secy-deptt-of-minority-welfare-lko-and-ors"
+  ],
+  "note": "Core facts confirmed (petitioner, 1992 appointment, retirement in March 2019 at 62, Justice Irshad Ali, Lucknow Bench, quashing of rejection, 6% interest from 31 March 2019, citation 2026:AHC:LKO:70249). However two independent sources (LiveLaw and CourtKutchehry) give the judgment date as 30 September 2026, not 1 October 2026 as the draft states; the judgment was reserved 09.09.2026 and delivered 30.09.2026.",
+  "fixes": [
+   {
+    "find": "\"decision_date\": \"2026-10-01\",",
+    "replace": "\"decision_date\": \"2026-09-30\",",
+    "reason": "LiveLaw and CourtKutchehry both report the judgment was delivered on 30 September 2026, not 1 October 2026."
+   },
+   {
+    "find": "the decision date is recorded as on or about 1 October 2026 based on the case citation numbering and reporting pattern, and this approximation is noted.",
+    "replace": "the decision date is confirmed as 30 September 2026 (reserved 9 September 2026, delivered 30 September 2026) by LiveLaw and CourtKutchehry.",
+    "reason": "Correcting the approximated decision date with the confirmed date."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch2/news/06-orris-infrastructure-v-rakesh-kumar-gupta-nclt-recall-fraud.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.scobserver.in/?p=22220",
+   "https://www.barandbench.com/news/litigation/cirp-under-ibc-can-continue-even-if-insolvency-plea-that-triggered-it-was-fraudulent-supreme-court",
+   "https://archive.nclt.gov.in/sites/default/files/January2021/Interim-order-pdf/Straight%20Edge%20Contracts_11.pdf"
+  ],
+  "note": "Citation 2026 INSC 1070, decision date 30 Sept 2026, bench of Justices P.S. Narasimha and Alok Aradhe, and the two-part holding (recall power exists for fraud-induced admission; CIRP termination is a separate discretionary question) are independently confirmed by SCObserver and Bar & Bench. The underlying Section 9 case (Straight Edge Contracts v. Three C Shelters, IB-2721/ND/2019) and Orris Infrastructures involvement via a RERA-linked bank account are independently corroborated by archived NCLT order PDFs. The approx. Rs 29.96 crore debt figure could not be independently confirmed from a second source but was not contradicted either."
+ },
+ {
+  "file": "_drafts/batch2/news/07-vcare-technologies-nclat-oppression-restructuring.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://thetaxcorp.in/article/nclat-delhi-sets-aside-nclt-order-in-vcare-technologies-oppression-case",
+   "https://www.taxscan.in/corporate-laws/nclat-sets-aside-nclt-order-on-oppression-mismanagement-directs-fresh-examination-of-vcare-technologies-restructuring-dispute",
+   "https://www.livelawbiz.com/company-law/commercial-necessity-of-restructuring-cannot-dispense-with-nclts-adjudication-of-oppression-claims-nclat-552104"
+  ],
+  "note": "Independently confirmed: appeal number and 25 Sept 2026 decision date, appellants shareholding (~11.28%, matching the drafts over 11%), the NCLT order of 9 July 2026 dismissing Company Petition No. 157/241-242/ND/2019 and allowing the perjury IA, the asset-transfer allegations to Diro Inc/Diro Labs and reduced IOD interest, the commercial-necessity-cannot-override-oppression holding, and the remand with restoration of the October 2019 status quo order."
+ },
+ {
+  "file": "_drafts/batch2/news/08-shyam-kushwaha-mp-hc-custody-live-in-relationship.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-childs-custody-goes-to-with-mother-once-father-remarries-or-enters-live-in-relationship-553580",
+   "https://lawbeat.in/news-updates/mp-high-court-gives-custody-of-4-year-old-to-father-but-only-until-he-remarries-or-enters-live-in-relationship-1639152",
+   "https://lawchakra.in/high-court/mp-high-court/custody-of-daughter-father/"
+  ],
+  "note": "Independently confirmed: Writ Petition No. 39794 of 2026, bench of Chief Justice Alpesh Y. Kogje and Justice Vivek Jain, the 25 Sept 2026 production order followed by the 30 Sept 2026 final order, the father getting custody conditional on remarriage or a live-in relationship (custody then shifting to mother), the mothers access terms, and the mother/child being traced in Etawah, UP."
+ }
+]
