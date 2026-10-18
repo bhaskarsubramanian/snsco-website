@@ -632,5 +632,156 @@
    "https://www.mondaq.com/india/arbitration-dispute-resolution/1075370/arbitrability-of-fraud-disputes-in-india-supreme-courts-attempt-to-solve-the-intriguing-puzzle"
   ],
   "note": "Full case chain verified: N. Radhakrishnan (2010) 1 SCC 72, Ayyasamy (2016) 10 SCC 386, Rashid Raza v. Sadaf Akhtar (4 Sept 2019, three-judge bench of Nariman, Subhash Reddy and Surya Kant JJ., twin test), Avitel v. HSBC (2020) 4 SCC 725 (USD 60m SIAC award upheld), Vidya Drolia (2021) 2 SCC 1 overruling Radhakrishnan, and N.N. Global v. Indo Unique Flame's civil-fraud-is-arbitrable holding all match independent sources."
+ },
+ {
+  "file": "_drafts/batch3/blog/12-bank-recovery-deceased-borrower-legal-heirs-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-orders-sbi-refund-widow-fd-husband-loan-550599",
+   "https://www.verdictum.in/court-updates/high-courts/kerala-high-court/abhijith-b-v-bank-of-maharashtra-ors-2025ker91045-sarfaesi-act-1603000",
+   "https://www.livelaw.in/amp/high-court/kerala-high-court/kerala-high-court-sarfaesi-section-14-demand-notice-deceased-borrower-516510",
+   "https://www.casemine.com/commentary/in/hindus-sons'-liability-for-avyavaharika-debts:-hemraj-v.-khem-chand-commentary/view"
+  ],
+  "note": "Neha Mishra v RBI/SBI facts (loan amount, FD debit of about Rs 19.9 lakh, refund with interest, Rs 1 lakh compensation, privity-of-contract holding) confirmed across LiveLaw, Verdictum and The Print. Kerala HC Abhijith B. v Bank of Maharashtra holding (no fresh SARFAESI notice to heirs once lifetime Section 13(2) notice period has run) confirmed via Verdictum and LiveLaw, though the exact decision date is reported inconsistently across sources (18 Nov vs Dec 2025); the guide's 'December 2025' is within the reported range. Pious obligation and avyavaharika framework and the Periasami Mudaliar holding are consistent with secondary commentary. No significant errors found."
+ },
+ {
+  "file": "_drafts/batch3/blog/13-amendment-plaint-after-limitation-order-vi-rule-17-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://future.indiankanoon.org/doc/1033493",
+   "https://www.lawweb.in/2014/05/factors-to-be-taken-into-consideration.html",
+   "https://lexibal.com/revajeetu-builders-developers-v-narayanaswamy-sons/",
+   "https://app.vaquill.ai/cases/2024_INSC_1021"
+  ],
+  "note": "Pirgonda, Sampath Kumar and Mallavva holdings, citations, bench and dates all confirmed. But Revajeetu Builders & Developers v. Narayanaswamy & Sons, (2009) 10 SCC 84 was wrongly attributed to Justices R.V. Raveendran and P. Sathasivam; the judgment text itself (via Indian Kanoon and LawWeb, which quote paragraph 63 directly) shows the bench was Dalveer Bhandari and Harjit Singh Bedi, JJ. Only one secondary source (Lexibal) gave the Raveendran/Sathasivam attribution the draft relied on.",
+  "fixes": [
+   {
+    "find": "decided by Justices R.V. Raveendran and P. Sathasivam,",
+    "replace": "decided by Justices Dalveer Bhandari and Harjit Singh Bedi,",
+    "reason": "The judgment text (Indian Kanoon, LawWeb) shows the Revajeetu Builders bench was Dalveer Bhandari and Harjit Singh Bedi JJ, not Raveendran and Sathasivam."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/14-possession-undertaking-consumer-claim-survives-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelaw.in/amp/top-stories/flat-owners-dont-forfeit-right-to-claim-amenities-promised-by-builder-by-taking-possession-of-apartments-supreme-court-221199",
+   "https://www.advocatekhoj.com/library/judgments/announcement.php?WID=14496",
+   "https://lawsathi.in/judgements/sc/2022/samruddhi-co-operative-housing-society-ltd-mumbai-mahalaxmi-construction-pvt-ltd/",
+   "https://api.sci.gov.in/supremecourt/2017/25873/25873_2017_43_1501_33206_Judgement_08-Feb-2022.pdf"
+  ],
+  "note": "Debashis Sinha v RNR Enterprise (bench, 9 Feb 2023 date, holding on possession not forfeiting amenity claims) confirmed. Samruddhi Co-operative Housing Society v Mumbai Mahalaxmi Construction (citation, 11 Jan 2022 date, continuing-wrong holding) confirmed, but the bench was misstated: it was Justices D.Y. Chandrachud and A.S. Bopanna, not Chandrachud and M.M. Sundresh, confirmed independently via advocatekhoj, LawSathi and the official SCI judgment PDF, none of which name Sundresh.",
+  "fixes": [
+   {
+    "find": "Justices D.Y. Chandrachud and M.M. Sundresh,",
+    "replace": "Justices D.Y. Chandrachud and A.S. Bopanna,",
+    "reason": "Multiple independent sources (advocatekhoj, LawSathi, the official Supreme Court judgment PDF) confirm the Samruddhi bench was Chandrachud and Bopanna JJ, not Chandrachud and Sundresh."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/15-selective-share-buyback-equal-treatment-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.asianlaws.org/blog/?p=2770",
+   "https://taxguru.in/?p=1061430",
+   "https://treelife.in/legal/capital-reduction-under-section-66/",
+   "https://ca2013.com/rule-17-companies-share-capital-and-debentures-rules-2014/"
+  ],
+  "note": "SEBI (Buy-Back of Securities) Regulations 2018 negotiated-deal/private-arrangement bar, tender offer and open market routes, and the small-shareholder/odd-lot carve-outs all check out against secondary compliance sources (the draft itself flags the regulation sub-clause numbering as unconfirmed against the current consolidated text, a fair caveat). Section 66 capital reduction as a route for targeted/selective extinguishment of specific shareholders' shares is consistent with NCLAT (Bharti Telecom) and reported Supreme Court treatment. No significant errors found."
+ },
+ {
+  "file": "_drafts/batch3/blog/16-probationer-termination-motive-foundation-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://research.lawsathi.in/supreme-court/1996/krishnamani/",
+   "https://www.ndl.gov.in/lw_document/supreme_court_india/supreme_court/12373",
+   "https://www.bharatlaw.ai/blog/termination-must-not-be-selective-or-arbitrary-supreme-court-s-landmark-ruling-on-judicial-probati",
+   "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/aman-pratap-singh-v-govt-of-nct-of-delhi-2026dhc996-db-viral-video-judge-judicial-officer-misconduct-1607049"
+  ],
+  "note": "K.V. Krishnamani v Lalit Kala Academy (1996, motive-vs-foundation holding) and Ratnesh Kumar Choudhary v IGIMS (2015, ex parte enquiry, stigma, reinstatement with 50% back wages/salary) both confirmed. Aman Pratap Singh v Govt of NCT of Delhi (2026 DHC, viral video, termination upheld as simpliciter) confirmed via Verdictum and Raw Law. No significant errors found; the draft itself appropriately hedges the State of Orissa v Ram Narayan Das two-part test as resting on secondary commentary only."
+ },
+ {
+  "file": "_drafts/batch3/blog/17-second-wife-maintenance-undissolved-first-marriage-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.legitquest.com/case/kvimal-v-kveeraswamy/a66",
+   "https://lawfoyer.in/smt-n-usha-rani-and-anr-v-moodudula-srinivas-2025-1-s-c-r-1442-2025-insc-129/",
+   "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/wifes-maintenance-second-husband-despite-first-marriage-545497",
+   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/sukhdev-singh-v-sukhbir-kaurmaintenance-in-a-void-hindu-marriage-sukhdev-singh-v-sukhbir-kaur/"
+  ],
+  "note": "K. Vimala v K. Veeraswamy and the Sukhdev Singh v Sukhbir Kaur reference (Feb 2025, Section 25 HMA covers nullity decrees) both confirmed. But N. Usha Rani v Moodudula Srinivas is mischaracterised: multiple sources (LiveLaw headline, lawfoyer headnote) confirm the undissolved earlier marriage belonged to the claimant woman herself (ended only by a private MoU, not a divorce decree), not the husband. This is a different fact pattern from the classic bigamous-husband scenario the guide otherwise discusses, and the draft's own hedged phrasing ('her own earlier marriage, or ... the husband's own prior circumstances') shows the drafting agent was unsure which it was.",
+  "fixes": [
+   {
+    "find": "held that a woman can claim maintenance from her second husband under the maintenance provision even though her own earlier marriage, or in the fact pattern actually before the Court the husband's own prior circumstances, meant the second marriage could not be treated as a conventional valid marriage. The Family Court had found that the husband was fully aware of the complicating circumstance and had knowingly gone ahead with the marriage regardless.",
+    "replace": "held that a woman can claim maintenance from her second husband under the maintenance provision even though her own earlier marriage had never been formally dissolved by a decree of divorce, only ended through a private memorandum of understanding recording a de facto separation from her first husband. The Family Court had found that the second husband was fully aware of this complicating circumstance and had knowingly gone ahead with the marriage regardless.",
+    "reason": "Sources confirm the undissolved earlier marriage in N. Usha Rani was the claimant woman's own first marriage (ended only by an MoU, not a divorce decree), not the husband's prior marriage; the draft hedged between the two possibilities instead of stating the confirmed fact."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/18-fssai-retailer-liability-manufacturer-defect-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/piyush-gupta-and-another-v-state-of-up-and-another-2025ahc19425-liability-restaurant-unsafe-raw-material-manufacturer-1567833",
+   "https://lawx.in/acts/section/102/930/8094",
+   "https://taxclue.in/blog/liability-food-seller-distributor-fss-act"
+  ],
+  "note": "Piyush Gupta v State of UP (Allahabad HC, 2025:AHC:19425, sealed turmeric/lead chromate, quashing restaurant prosecution) confirmed, including facts and holding. Section 27 FSS Act role-based liability structure (manufacturer/packer vs wholesaler/distributor vs seller, with 'knowledge of being unsafe' for sellers) confirmed against statutory text. No significant errors found."
+ },
+ {
+  "file": "_drafts/batch3/blog/19-interim-finance-cirp-super-priority-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.mbgcorp.com/in/insights/latest-news-and-updates-from-the-desk-of-ministry-of-law-and-justice/",
+   "https://www.scconline.com/blog/?p=252658",
+   "https://www.taxmann.com/post/blog/ibbi-cirp-amendments-interim-finance-observers-allowed",
+   "https://www.livelawbiz.com/ibc-cases/interim-finance-is-financial-debt-requiring-66-coc-approval-nclt-cannot-direct-contribution-without-such-approval-nclt-mumbai-309120"
+  ],
+  "note": "Section 5(13)(a)/53(1)(a) priority chain, the Section 28 66% CoC voting threshold, and the 2025 insertion of CIRP Regulation 18(5) (observer rights for interim finance providers) all confirmed. But the extension of 'interim finance' under Section 5(15) to cover the pre-packaged insolvency resolution process was done by the Insolvency and Bankruptcy Code (Amendment) Ordinance/Act, 2021 (deemed effective 4 April 2021), not by '2025 amendments' as the draft states twice (once in the body text and once in the references list).",
+  "fixes": [
+   {
+    "find": "and, following the 2025 amendments, this now extends to the pre-packaged insolvency resolution process as well.",
+    "replace": "and, following the 2021 amendments, this now extends to the pre-packaged insolvency resolution process as well.",
+    "reason": "The extension of the Section 5(15) interim finance definition to the pre-packaged insolvency resolution process was made by the 2021 Ordinance/Amendment Act (effective 4 April 2021), not by any 2025 amendment."
+   },
+   {
+    "find": "Insolvency and Bankruptcy Code (Amendment), 2025 (extension of interim finance treatment to pre-packaged insolvency resolution process)",
+    "replace": "Insolvency and Bankruptcy Code (Amendment) Act, 2021 (extension of interim finance treatment to pre-packaged insolvency resolution process)",
+    "reason": "Same date correction applied to the references list entry."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/20-writ-versus-arbitration-ppp-termination-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-grants-relief-tata-nhai-terminate-contract-540801",
+   "https://foxmandal.in/news/supreme-court-stays-allahabad-hc-order-quashing-termination-of-%e2%82%b9940-crore-nhai-tata-projects-contract/",
+   "https://supremetoday.ai/supreme-court-stays-allahabad-hc-order-quashing-nhais-rs940-crore-contract-termination-with-tata-projects-20260831077",
+   "https://www.livelawbiz.com/top-stories/supreme-court-stays-allahabad-hc-order-quashing-940-crore-nhai-contract-termination-against-tata-projects-547841"
+  ],
+  "note": "Tata Projects v Union of India (Allahabad HC, 8 July 2026, Writ-C No. 4559 of 2025, about Rs 940 crore NHAI EPC contract, pre-determination reasoning) and the Supreme Court stay (SLP(C) No. 29512 of 2026, 31 August 2026) both confirmed in detail, including case numbers and relief granted. M.P. Power Management v Sky Power Southeast Solar (2022 INSC 1208, 16 Nov 2022, bench K.M. Joseph and Hrishikesh Roy, appeal dismissed) also confirmed. No significant errors found."
+ },
+ {
+  "file": "_drafts/batch3/blog/21-nri-succession-certificate-legal-heir-certificate-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.barandbench.com/law-firms/view-point/omission-of-section-213-of-the-indian-succession-act-1925-seeking-probate-of-will-is-no-longer-mandatory",
+   "https://treelife.in/legal/mandatory-probate-rule-scrapped-indias-succession-law-reform/",
+   "https://www.jsalaw.com/?p=56740"
+  ],
+  "note": "The 2025 repeal of Section 213 of the Indian Succession Act (via the Repealing and Amending Act, 2025, assented 20 December 2025, removing probate as a precondition to enforcing rights under a will in the affected jurisdictions) is confirmed. The succession-certificate-vs-legal-heir-certificate distinction, the NRI power-of-attorney/apostille points, and the agricultural land NRI/OCI transfer restriction are all standard and consistent with cited sources; the draft appropriately hedges the FEMA repatriation limit instead of stating an unconfirmed figure. No significant errors found."
  }
 ]
