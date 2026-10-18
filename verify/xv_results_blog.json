@@ -190,5 +190,48 @@
       "https://www.scconline.com/blog/post/2021/06/12/indus-biotech-v-kotak/"
     ],
     "note": "Indus Biotech v Kotak (26 Mar 2021, 2021 INSC 216) holding on default-first inquiry under Section 7 confirmed, as are the Innoventive Industries (2018) 1 SCC 407 and Mobilox (2018) 1 SCC 353 citations and the Section 238/Section 8 IBC framework described."
+  },
+  {
+    "file": "_drafts/batch2/blog/13-part-performance-section-53a-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://pure.jgu.edu.in/id/eprint/1966/",
+      "https://www.livelaw.in/amp/parliament-passes-specific-relief-amendment-bill-making-specific-performance-of-contract-compulsorily-enforceable",
+      "https://cbcl.nliu.ac.in/contemporary-issues/substituted-performance-a-new-perspective-in-specific-relief-amendment-act-2018/",
+      "https://lawfoyer.in/doctrine-of-part-performance-section-53a-transfer-of-property-act/"
+    ],
+    "note": "Section 53A doctrine, the 2001 registration requirement, and the Balbir Singh Maini shield-not-sword framing all check out. But the references list cites Specific Relief Act Sections 10 and 20 for the specific-performance discussion; the 2018 amendment substituted Section 20 entirely to deal with 'substituted performance' (not discretionary guidelines for specific performance), so citing it here is a stale/wrong pointer for a buyer reading this guide today.",
+    "fixes": [
+      {
+        "find": "Specific Relief Act, 1963, Sections 10 and 20",
+        "replace": "Specific Relief Act, 1963, Sections 10 and 16",
+        "reason": "Section 20 was substituted by the Specific Relief (Amendment) Act, 2018 and now deals with a creditor's right to substituted performance, not with specific performance guidelines; it no longer supports the specific-performance discussion in this guide. Section 16 (personal bars, including readiness and willingness to perform) is the current provision relevant to that discussion."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch2/blog/14-land-acquisition-section-24-2-lapse-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://lawfoyer.in/state-of-haryana-others-v-aalamgir-others-2025-3-s-c-r-1460-2025-insc-407/",
+      "https://www.supremecourtcases.com/state-of-haryana-and-others-v-aalamgir-and-others/",
+      "https://www.verdictum.in/court-updates/supreme-court/state-of-haryana-v-aalamgir-2024-insc-407-land-acquisition-case-costs-imposed-1572614",
+      "https://www.scobserver.in/cases/indore-development-authority-manoharlal-land-acquisition-case-background/"
+    ],
+    "note": "Indore Development Authority v Manoharlal (2020) 8 SCC 129 and its overruling of Pune Municipal Corporation (2014) 3 SCC 183 check out. But State of Haryana v. Aalamgir was decided 18 March 2025 (bench of Nagarathna and Satish Chandra Sharma JJ), not 2024; the correct neutral citation is 2025 INSC 407, not 2024 INSC 407 as the guide states (the '2024' appears to come from appeal numbers in the consolidated matter, not the judgment date).",
+    "fixes": [
+      {
+        "find": "a 2024 Supreme Court order in State of Haryana v. Aalamgir",
+        "replace": "a 2025 Supreme Court order in State of Haryana v. Aalamgir",
+        "reason": "State of Haryana v. Aalamgir was decided on 18 March 2025, not in 2024."
+      },
+      {
+        "find": "State of Haryana v. Aalamgir, 2024 INSC 407",
+        "replace": "State of Haryana v. Aalamgir, 2025 INSC 407",
+        "reason": "The correct neutral citation for this judgment, decided 18 March 2025, is 2025 INSC 407."
+      }
+    ]
   }
 ]
