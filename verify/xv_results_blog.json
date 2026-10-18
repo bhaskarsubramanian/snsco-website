@@ -452,5 +452,51 @@
     "reason": "The ruling (Gensol Electric Vehicles v. Mahindra) was passed on 13 January 2025, not in 2024; only the underlying suit carries a 2024 case number."
    }
   ]
+ },
+ {
+  "file": "_drafts/batch2/blog/30-rera-vs-consumer-forum-jurisdiction-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.livelaw.in/amp/top-stories/complaint-before-consumer-fora-by-allottee-against-builders-not-barred-by-rera-act-165345",
+   "https://barandbench.com/news/litigation/rera-act-does-not-bar-initiation-of-proceedings-under-the-consumer-protection-act-rules-supreme-court-directing-refund-of-flat-purchase-cost",
+   "https://ssrana.in/articles/rera-does-not-bar-remedies-consumer-protection-act/",
+   "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2020/volume%2012/Part%20I/2020_12_373-410_1702456920.pdf"
+  ],
+  "note": "Imperia Structures Ltd. v. Anil Patni, decided 2 November 2020 by Justices U.U. Lalit and Vineet Saran, confirmed in full: Section 79 RERA bars only civil courts (consumer commissions are not civil courts), Section 71(1) gives allottees a choice of forum, and Section 88's saving clause preserves other remedies. Official report is [2020] 12 S.C.R. 373; (2020) 10 SCC 783 is a commonly used parallel SCC citation, consistent with the draft's own hedge on citation form. Guide's framing of the ruling's continuing force, practical forum differences, and the no-double-dipping point all match well-established practitioner commentary. No incorrect claims found."
+ },
+ {
+  "file": "_drafts/batch2/blog/31-mining-royalty-revision-mid-lease-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 9,
+  "evidence": [
+   "https://indiankanoon.org/doc/81002593/",
+   "https://mines.gov.in/admin/download/6932ab31a99451764928305.pdf",
+   "https://app.vaquill.ai/cases/1993_INSC_378",
+   "https://www.verdictum.in/supreme-court/state-of-haryana-ors-v-ms-faridabad-gurgaon-minerals-anr-with-state-of-haryana-ors-v-ms-ganpati-enterprises-slate-mines-2026-insc-690-1617782"
+  ],
+  "note": "The core holding of State of Haryana v. Faridabad Gurgaon Minerals, 2026 INSC 690 (13 July 2026, Dipankar Datta and Satish Chandra Sharma JJ.) is confirmed exactly as described, including the June 2005 Haryana notification, the 50% dead rent enhancement, and Section 15/Rule 21/Rule 10(2) basis. However the guide's description of the Section 9(3) major-mineral proviso is outdated on two points: (1) the 20% of pit's-head sale price cap on royalty was deleted by the Mines and Minerals (Regulation and Development) Amendment Act, 1972, and has not existed in the statute for over 50 years; (2) the 'once in four years' enhancement limit was itself changed to 'once in three years' by Act 37 of 1986, effective 10 February 1987, and current official consolidated texts of the Act (Ministry of Mines, IBM) confirm the three-year period is still the operative proviso. The guide states both the 20% cap and the four-year period as current law in the main text, an FAQ answer, and the references list, when neither reflects the Act as it currently stands.",
+  "fixes": [
+   {
+    "find": "which the Central Government can revise under Section 9(3), subject to its own cap of twenty per cent of the sale price of the mineral at the pit's head and a bar on enhancing the rate more than once in four years.",
+    "replace": "which the Central Government can revise under Section 9(3), subject to a bar on enhancing the rate more than once in any three-year period (the proviso's original four-year gap was itself shortened to three years by a 1986 amendment, and an earlier cap limiting royalty to twenty per cent of the mineral's sale price at the pit's head was removed from the provision back in 1972 and no longer applies).",
+    "reason": "The 20% pit's-head cap was deleted in 1972 and the enhancement-frequency limit was shortened from four to three years in 1986; current law allows enhancement once every three years with no percentage cap."
+   },
+   {
+    "find": "A lessee negotiating a major mineral lease should treat the twenty per cent and four-year figures as the outer limit on any single revision, not as a promise that revision will happen only that often or only up to that ceiling every time; the Central Government still decides whether and when to exercise the power within those limits.",
+    "replace": "A lessee negotiating a major mineral lease should treat the three-year gap as the outer limit on how often a single revision can occur, not as a promise that revision will happen only that often; the Central Government still decides whether and when to exercise the power within that limit, and there is no longer any percentage ceiling on how large a single revision can be.",
+    "reason": "Removes the incorrect 20% ceiling and corrects four years to three years, consistent with the corrected main text."
+   },
+   {
+    "find": "The mechanism differs. Major mineral royalty is fixed by the Second Schedule to the MMDR Act, revisable by the Central Government under Section 9(3), subject to a cap of twenty per cent of the sale price at the pit's head and a bar on revising more than once in four years. The underlying principle that the statute, not the lease deed, controls revision is the same.",
+    "replace": "The mechanism differs. Major mineral royalty is fixed by the Second Schedule to the MMDR Act, revisable by the Central Government under Section 9(3), subject to a bar on revising more than once in any three-year period (there is no longer a percentage cap on the size of a single revision; an earlier twenty per cent ceiling was removed from the provision in 1972). The underlying principle that the statute, not the lease deed, controls revision is the same.",
+    "reason": "Same correction applied to the FAQ answer."
+   },
+   {
+    "find": "    \"Mines and Minerals (Development and Regulation) Act, 1957, Sections 9, 9(1), 9(3), 9A, 15(1), 15(3)\",",
+    "replace": "    \"Mines and Minerals (Development and Regulation) Act, 1957, Sections 9, 9(1), 9(3) (as amended by Act 37 of 1986, w.e.f. 10 February 1987), 9A, 15(1), 15(3)\",",
+    "reason": "Flags that the Section 9(3) proviso cited is the post-1986 version, not the earlier four-year/20%-cap text."
+   }
+  ]
  }
 ]
