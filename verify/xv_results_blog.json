@@ -255,5 +255,45 @@
       "https://khuranaandkhurana.com/?p=11078"
     ],
     "note": "Section 18 Indian Stamp Act three-month stamping window for instruments executed outside India, the apostille/consular attestation distinction, and the Section 17 Registration Act registrability points all check out. The guide appropriately hedges on state-specific duty rates and the current Hague Convention member list rather than asserting unconfirmed specifics."
+  },
+  {
+    "file": "_drafts/batch2/blog/17-advocates-consumer-protection-act-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://lawsathi.in/judgements/sc/2024/bar-indian-lawyers-through-its-president-jasbir-singh-malik-gandhi-ps-national/",
+      "https://www.livelaw.in/amp/top-stories/supreme-court-refuses-to-reconsider-judgment-which-brought-doctors-under-consumer-protection-act-says-reference-was-unnecessary-274529",
+      "https://www.barandbench.com/law-firms/view-point/are-advocates-liable-for-deficiency-in-service-under-the-consumer-protection-act",
+      "https://www.iasgyan.in/daily-current-affairs/indian-medical-association-vs-v-p-shantha-1995"
+    ],
+    "note": "Bar of Indian Lawyers v D.K. Gandhi (14 May 2024, 2024 INSC 410, Trivedi and Mithal JJ) and its holding on advocates check out. But the guide is outdated on the medical-profession question: a three-judge bench led by Justice B.R. Gavai already declined, on 7 November 2024, to revisit Indian Medical Association v. V.P. Shantha, holding the reference unnecessary. The guide still frames this as an open question pending before a larger bench, when the larger bench has in fact already acted (by declining to revisit), so doctors/hospitals remaining covered is now settled, not pending.",
+    "fixes": [
+      {
+        "find": "Until that larger bench actually decides the question, Indian Medical Association v. V.P. Shantha continues to apply, and consumer complaints against doctors and hospitals for medical negligence remain maintainable as they were before this ruling.",
+        "replace": "On 7 November 2024, a three-judge bench led by Justice B.R. Gavai declined to revisit Indian Medical Association v. V.P. Shantha, holding that the reference was unnecessary. That ruling continues to apply, and consumer complaints against doctors and hospitals for medical negligence remain maintainable as they were before the Bar of Indian Lawyers ruling.",
+        "reason": "The question was not left open for a larger bench to decide later; a three-judge bench already declined to revisit V.P. Shantha on 7 November 2024, so the position is settled rather than pending."
+      },
+      {
+        "find": "Anyone advising a client in either field should track whether and how the larger bench eventually rules on the medical question, since that could bring the two closer together or could confirm the distinction the Court has drawn.",
+        "replace": "A three-judge bench has already confirmed this distinction, declining on 7 November 2024 to revisit the medical-profession ruling, so the difference between the two professions under consumer law should be treated as settled rather than pending.",
+        "reason": "Same outdated 'pending larger bench' framing; the larger bench already ruled on 7 November 2024."
+      },
+      {
+        "find": "No, not yet. The Court expressed doubt about the correctness of the earlier ruling covering medical practitioners and referred that question to a larger bench, but did not overrule it. Until a larger bench decides otherwise, consumer complaints against doctors and hospitals for medical negligence remain maintainable as before.",
+        "replace": "No. The Court expressed doubt about the correctness of the earlier ruling covering medical practitioners and referred that question to a larger bench, but a three-judge bench declined to revisit it on 7 November 2024, holding the reference was unnecessary. Consumer complaints against doctors and hospitals for medical negligence remain maintainable as before.",
+        "reason": "FAQ answer repeats the outdated 'not yet decided' framing; the larger bench already declined to revisit the ruling on 7 November 2024."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch2/blog/18-section-25o-closure-permission-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://lawfoyer.in/harinagar-sugar-mills-ltd-biscuit-division-anr-v-state-of-maharashtra-ors-2025-7-scr-427-2025-insc-801/",
+      "https://rawlaw.in/supreme-court-holds-deemed-closure-valid-where-no-proper-order-issued-by-competent-authority-business-cannot-be-forced-to-run-indefinitely-in-face-of-administrative-inaction-article-19/",
+      "https://theindianlawyer.in/right-to-close-vs-duty-to-justify-supreme-court-clarifies-section-25-o-of-the-industrial-dispute-act-1947/"
+    ],
+    "note": "Harinagar Sugar Mills v State of Maharashtra (4 June 2025, 2025 INSC 801, Karol and Mishra JJ) holding that only the Maharashtra Labour Minister (not a Deputy Secretary) could decide the application, and that deemed closure under Section 25-O(3) followed, checks out. The guide appropriately declines to state an unconfirmed specific number of days for the statutory response window."
   }
 ]
