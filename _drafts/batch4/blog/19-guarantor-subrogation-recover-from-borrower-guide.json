@@ -1,0 +1,86 @@
+{
+  "slug": "guarantor-subrogation-recover-from-borrower-guide",
+  "title": "A Guarantor Who Paid the Bank Wants to Recover From the Borrower: What Subrogation Actually Lets You Do",
+  "meta_description": "What Section 140 of the Contract Act gives a guarantor who has paid a bank in full, and where that right stops working once insolvency enters the picture.",
+  "practice_area": "Banking & Finance",
+  "intro": [
+    "A guarantor who has just paid off a defaulting borrower's loan, often under pressure from a bank threatening to invoke the guarantee and sue immediately, usually assumes the matter ends there: the debt is cleared, the bank is satisfied, and the guarantor can now simply ask the borrower to pay them back. The law gives this expectation a real legal basis, called the right of subrogation, but the right works very differently depending on whether the borrower is solvent and simply unwilling to pay, or already heading into insolvency proceedings by the time the guarantor comes looking for reimbursement.",
+    "That difference matters because a guarantor's practical recovery options, and the forum where they actually get pursued, change substantially once a resolution process under the Insolvency and Bankruptcy Code enters the picture. A guarantor who assumes subrogation always works the same way the textbook describes it can find the right considerably harder to enforce than expected."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 140 Actually Gives the Guarantor",
+      "paragraphs": [
+        "Section 140 of the Indian Contract Act, 1872 provides that where a guarantor has paid the guaranteed debt, or performed the guaranteed duty, after the principal debtor has defaulted, the guarantor is invested with all the rights which the creditor had against the principal debtor. This is the subrogation right in its plain statutory form: the guarantor effectively steps into the bank's shoes and can pursue the borrower using whatever remedies the bank itself could have used, including suing on the underlying loan documents.",
+        "A related provision, Section 141, adds a protection concerning security. A guarantor is also entitled to the benefit of every security the creditor held against the principal debtor at the time the guarantee was given, whether or not the guarantor actually knew about that security when the guarantee was executed. If the creditor loses or, without the guarantor's consent, parts with a security it held, the guarantor's own liability is reduced to the extent of the value of that security, which is a protection that matters at the guarantee stage, before payment, as much as it does afterward."
+      ]
+    },
+    {
+      "heading": "Co-Extensive Liability and Why Banks Can Still Sue Both",
+      "paragraphs": [
+        "Separately, Section 128 of the Contract Act makes a guarantor's liability co-extensive with that of the principal debtor, unless the guarantee contract itself provides otherwise. In practical terms, this means a bank does not have to exhaust its remedies against the borrower before going after the guarantor, and can pursue both simultaneously if it chooses to.",
+        "The Supreme Court's 2024 decision in BRS Ventures Investments Ltd. v. SREI Infrastructure Finance Ltd. reaffirmed this co-extensive character for corporate guarantors specifically, holding that separate or simultaneous proceedings against the borrower and the guarantor are permissible. The Court also addressed what happens once a guarantor has paid part of the debt: it held that subrogation to the extent of the amount a resolution applicant pays on behalf of a corporate guarantor does not extinguish the underlying financial creditor's right to recover the remaining balance from the corporate debtor. For a guarantor, the practical lesson is that paying the bank in full is what actually triggers full subrogation rights; a partial payment only subrogates the guarantor to that same partial extent, while the bank keeps chasing the rest from the borrower directly."
+      ]
+    },
+    {
+      "heading": "Subrogation Works Cleanly Outside Insolvency",
+      "paragraphs": [
+        "Where the borrower remains solvent and is simply refusing or delaying payment, subrogation functions largely the way Section 140 describes it. The guarantor who has paid the bank can sue the borrower directly, relying on the same loan documents, the same default, and often the same evidence the bank itself would have used, without having to independently prove a fresh cause of action from scratch. This is the straightforward case, and it is also the majority of subrogation claims that actually reach a civil court or arbitration, since insolvency is the exception rather than the norm even among defaulted borrowers.",
+        "A guarantor pursuing this route should preserve the full paper trail from the original guarantee: the demand notice from the bank, proof of the actual payment made, and the loan documents the bank relied on, since a subrogation suit is essentially a derivative claim standing on the bank's original rights, and a gap in that paper trail weakens the claim in exactly the way it would have weakened the bank's own case against the borrower. A guarantor who pays informally, without insisting on a clear receipt and a written acknowledgment from the bank that the guaranteed debt stands discharged, often finds this is the first thing a reluctant borrower's lawyer challenges when the recovery suit is eventually filed."
+      ]
+    },
+    {
+      "heading": "Where It Breaks Down: the Borrower's Insolvency",
+      "paragraphs": [
+        "The position becomes considerably harder where the borrower enters a corporate insolvency resolution process, and a resolution plan is eventually approved. Foundational Supreme Court authority in Lalit Kumar Jain v. Union of India established that approval of a resolution plan for the corporate debtor does not automatically discharge a personal guarantor of the corporate debtor from their own separate liability under the guarantee contract, which protects the creditor's ability to still pursue the guarantor. But it does not, by itself, settle what happens to the guarantor's own subrogation claim against the now-resolved corporate debtor.",
+        "Tribunal-level rulings have gone further than the Supreme Court's own pronouncements on this specific point, and in a direction that is not favourable to guarantors. The National Company Law Appellate Tribunal held, in a 2024 ruling, that personal and corporate guarantors have no right of subrogation after a resolution plan has been approved, reasoning from the same Section 140 framework but concluding that once the corporate debtor's liabilities are restructured and discharged under the approved plan, there is effectively nothing left of the original debt for the guarantor to step into. Earlier tribunal decisions had reached a broadly similar conclusion. This leaves a genuine gap: a guarantor who pays the bank in full, expecting to recover later from the corporate debtor, can find that right has little practical value if the debtor has already gone through resolution by the time the guarantor tries to enforce it."
+      ]
+    },
+    {
+      "heading": "What a Guarantor Should Actually Do Before Paying",
+      "paragraphs": [
+        "Given this gap, a guarantor facing a demand from a bank, where the borrower is already showing signs of financial distress, should check the status of any insolvency proceeding against the borrower before simply paying the full guaranteed amount and assuming subrogation will take care of the rest later. Where a resolution process is already underway, the guarantor's own exposure, and realistic recovery prospects, look very different from a case where the borrower is merely a reluctant but solvent debtor.",
+        "Where paying the bank cannot practically be avoided, because the guarantee is being invoked and litigation over the guarantee itself would likely fail, a guarantor should at minimum preserve every document needed to pursue a subrogation claim promptly, and should consider filing that claim as a creditor within the corporate debtor's own resolution process if the timeline allows, rather than waiting until after the plan is approved, since the tribunal-level authority on post-approval subrogation currently runs against a guarantor who waits that long."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a bank sue both the guarantor and the borrower at the same time?",
+      "a": "Yes. A guarantor's liability under Section 128 of the Contract Act is co-extensive with the borrower's unless the guarantee says otherwise, and the Supreme Court's 2024 ruling in BRS Ventures confirmed that simultaneous or separate proceedings against both the borrower and a corporate guarantor are permissible."
+    },
+    {
+      "q": "What does subrogation actually let a guarantor do after paying the bank?",
+      "a": "Under Section 140 of the Contract Act, a guarantor who pays the guaranteed debt steps into the bank's own rights against the borrower, and can pursue recovery using the same loan documents and remedies the bank itself could have used, rather than having to build an entirely separate claim from scratch."
+    },
+    {
+      "q": "Does a resolution plan for the borrower wipe out a guarantor's right to recover from them later?",
+      "a": "Tribunal rulings, including a 2024 NCLAT decision, have held that personal and corporate guarantors have no right of subrogation once a resolution plan is approved for the corporate debtor. This is a significant practical limit the guarantor should check for before paying, not after."
+    },
+    {
+      "q": "Does approving a resolution plan for the company automatically release a personal guarantor from liability?",
+      "a": "No. The Supreme Court in Lalit Kumar Jain v. Union of India held that approval of a resolution plan for the corporate debtor does not automatically discharge a personal guarantor from their own separate liability under the guarantee, so the bank can usually still pursue the guarantor even after the plan takes effect."
+    }
+  ],
+  "references": [
+    "Indian Contract Act, 1872, Section 128 (guarantor's liability co-extensive with the principal debtor's unless otherwise agreed)",
+    "Indian Contract Act, 1872, Section 140 (guarantor subrogated to the creditor's rights against the principal debtor upon paying the guaranteed debt)",
+    "Indian Contract Act, 1872, Section 141 (guarantor entitled to the benefit of securities the creditor held against the principal debtor)",
+    "BRS Ventures Investments Ltd. v. SREI Infrastructure Finance Ltd., Supreme Court, 2024 (co-extensive liability affirmed for corporate guarantors; subrogation to the extent paid does not extinguish the creditor's right to the balance)",
+    "Lalit Kumar Jain v. Union of India, Supreme Court, 2021 (approval of a corporate debtor's resolution plan does not automatically discharge a personal guarantor's own liability)"
+  ],
+  "sources": [
+    "https://blog.ipleaders.in/suretys-right-of-subrogation-under-section-140-and-141-of-the-ica/",
+    "https://thelegalschool.in/blog/right-of-subrogation-in-contract-of-guarantee",
+    "https://naiknaik.com/2024/08/05/case-analysis-of-brs-ventures-v-srei-infrastructure-finance-ltd-anr/",
+    "https://www.livelaw.in/amp/ibc-cases/nclat-delhi-personal-and-corporate-guarantors-have-no-right-of-subrogation-after-approval-of-resolution-plan-251607",
+    "https://mondaq.com/india/contracts-and-commercial-law/1499802/guarantor-liability-under-ibc-and-contract-act-critical-gaps-in-the-application-of-principle-of-subrogation"
+  ],
+  "verification_notes": [
+    "The text and effect of Sections 140, 141 and 128 of the Contract Act (subrogation on payment, benefit of security, co-extensive liability) are confirmed across the blog.ipleaders.in and thelegalschool.in summaries, both describing the same statutory provisions in consistent terms.",
+    "BRS Ventures Investments Ltd. v. SREI Infrastructure Finance Ltd. (Supreme Court, 2024) and its holdings on co-extensive liability for corporate guarantors and on subrogation not extinguishing the creditor's right to the balance are confirmed via the naiknaik.com case analysis and corroborated by the mondaq.com commentary identifying it as the leading recent decision on this point; the precise paragraph reference is drawn from the naiknaik.com analysis and was not independently cross-checked against the full judgment text.",
+    "Lalit Kumar Jain v. Union of India (Supreme Court, 2021) and its holding that resolution plan approval does not automatically discharge a personal guarantor's liability is confirmed via the mondaq.com commentary and corroborated by the general description of this foundational precedent in the naiknaik.com article discussing BRS Ventures.",
+    "The NCLAT Delhi 2024 ruling denying guarantors a right of subrogation after resolution plan approval is confirmed via the livelaw.in report, which names the tribunal, the year and the holding; a second, independently reported source for this exact ruling was not located, so it is attributed to this single report, and the guide notes it as tribunal-level rather than Supreme Court authority.",
+    "The description of an earlier, similarly guarantor-unfavourable NCLT Hyderabad ruling is drawn from the mondaq.com commentary referencing it; since the case name and precise holding could not be independently confirmed from a second source, this guide refers to it only in general terms as an earlier tribunal decision reaching a broadly similar conclusion, rather than citing it by name."
+  ]
+}

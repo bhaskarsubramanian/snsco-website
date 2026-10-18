@@ -1,0 +1,86 @@
+{
+  "slug": "counterclaim-commercial-suit-120-day-reply-guide",
+  "title": "Filing a Counterclaim in a Commercial Suit: Timing, Court Fees and the Plaintiff's New 120-Day Deadline",
+  "meta_description": "When a defendant can file a counterclaim in a commercial suit, how court fees work on it, and the 120-day limit a 2026 Supreme Court ruling put on replies.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "A defendant served with a commercial suit often has a counterclaim of their own sitting against the plaintiff, arising from the same contract or transaction, and the instinct is simply to raise it in the written statement and let the court sort out the netting at trial. Order VIII Rule 6A of the Code of Civil Procedure does allow this, but a counterclaim in a commercial suit comes with its own timing rules, its own court fee treatment, and, after a July 2026 Supreme Court ruling, a new deadline running against the plaintiff that did not exist in quite this form before.",
+    "Getting the mechanics right matters more in a commercial suit than in an ordinary civil suit, because the Commercial Courts Act, 2015 imports strict, largely non-extendable timelines into pleadings that an ordinary suit would treat more flexibly. A counterclaim filed, or responded to, outside those timelines risks being struck off entirely, regardless of its merits."
+  ],
+  "sections": [
+    {
+      "heading": "A Counterclaim Is Treated as a Cross-Suit",
+      "paragraphs": [
+        "Indian courts have long treated a counterclaim as, in substance, a cross-suit filed by the defendant against the plaintiff within the same proceeding. This classification is not a technicality; it carries real consequences. A counterclaim has to be properly pleaded with its own cause of action, has to be supported by the requisite court fee calculated on the value of the relief actually being claimed in the counterclaim, and limitation for the counterclaim itself is generally assessed as if it were a separate suit filed on the date the counterclaim was presented.",
+        "Because a counterclaim is valued and fee-stamped as its own cross-suit, a defendant who includes a high-value counterclaim inside a comparatively modest commercial suit should check whether the combined pecuniary value affects which court or commercial division actually has jurisdiction to hear the matter, since an oversized counterclaim can, in some circumstances, push the dispute beyond the forum's ordinary pecuniary limits."
+      ]
+    },
+    {
+      "heading": "When a Counterclaim Can Actually Be Filed",
+      "paragraphs": [
+        "The Supreme Court's decision in Ashok Kumar Kalra clarified a point that used to generate real uncertainty: Order VIII Rule 6A does not bar a defendant from filing a counterclaim after the written statement has already been filed. The restriction in the rule relates instead to when the cause of action for the counterclaim itself accrued, not to the calendar date on which the defendant gets around to pleading it.",
+        "This flexibility is not unlimited, though. The Court made clear that this does not create an absolute right to file a counterclaim after a substantial delay, and that the court hearing the matter must still weigh the delay and the outer procedural limits that apply to pleadings in that suit. A Calcutta High Court decision applying this principle allowed a counterclaim introduced by amendment after the written statement, but only because it fell within the outer limit for pleadings and was raised before issues had been framed in the suit, which is the practical cutoff most courts treat as the last realistic opportunity to bring one in."
+      ]
+    },
+    {
+      "heading": "The 120-Day Outer Limit and Why It Now Cuts Both Ways",
+      "paragraphs": [
+        "The Commercial Courts Act, 2015 inserted a proviso into Order VIII Rule 1 of the Code, making the 120-day outer limit for filing a written statement in a commercial suit mandatory rather than merely directory. The Supreme Court's 2019 decision in SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd. confirmed this reading: a defendant who misses the 120-day window loses the right to file a written statement altogether, and the court has no power, including through its inherent jurisdiction under Section 151, to allow a late filing beyond that point.",
+        "In July 2026, deciding A.K. Ghosh v. Biman Bose, the Supreme Court extended the same logic to the other side of a counterclaim. Order VIII Rule 6G applies the written statement rules to a plaintiff's reply to a counterclaim, and the Court held that a plaintiff facing a counterclaim in a commercial suit must file their written statement to it within the same 120-day outer limit, extendable only for sufficient cause recorded in writing and ordinarily within the first thirty days of that window. The practical effect is that a plaintiff who treats a defendant's counterclaim as something to respond to at leisure, on the theory that the clock belongs to the defendant, not them, is working from an outdated assumption."
+      ]
+    },
+    {
+      "heading": "Limits on Who a Counterclaim Can Be Directed Against",
+      "paragraphs": [
+        "A counterclaim in a commercial suit is not a general-purpose vehicle for raising every grievance the defendant has against anyone connected to the dispute. The Supreme Court held, in an older but still-cited ruling, that a counterclaim cannot be directed against a co-defendant; it has to be a claim against the plaintiff, consistent with its character as a cross-suit by the defendant against the party who sued them, not a mechanism for resolving disputes among defendants in the same proceeding.",
+        "This matters in multi-party commercial disputes, where a defendant sometimes has a genuine, related claim against another defendant rather than against the plaintiff itself. That claim generally has to be pursued separately, whether by a fresh suit, an application for impleadment with appropriate relief sought against the co-defendant, or some other procedural route, rather than being folded into a counterclaim that the rule simply does not permit for that purpose."
+      ]
+    },
+    {
+      "heading": "Drafting and Filing Practice That Avoids These Traps",
+      "paragraphs": [
+        "A defendant who anticipates having a counterclaim should raise it at the earliest realistic opportunity, ideally within the written statement itself, rather than relying on the Ashok Kumar Kalra flexibility to bring it in later, since that flexibility depends on a court's discretion and on staying within the outer procedural limits for the suit, not on an open-ended right to amend whenever convenient. Calculating and paying the correct court fee on the counterclaim's own valuation at the outset avoids a separate dispute over fee deficiency that can delay the counterclaim being taken on record at all.",
+        "On the plaintiff's side, the practical lesson from the 2026 ruling is to calendar the 120-day deadline for replying to a counterclaim the moment one is filed, with the same discipline that would apply to filing an original written statement, and to seek any extension for sufficient cause well within the window rather than after it has closed, since the Court's reasoning leaves very little room for a late reply once the 120 days, and the narrower 30-day window ordinarily expected for an extension application, have both run out. Litigators who have grown used to commercial courts treating written statement deadlines strictly, while being more relaxed about replies, should not assume that pattern survives this ruling, since the whole point of extending the same rule to Order VIII Rule 6G was to close exactly that procedural gap between the two sides of a commercial pleading once and for all."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I file a counterclaim after I have already submitted my written statement?",
+      "a": "Generally yes. The Supreme Court in Ashok Kumar Kalra held that Order VIII Rule 6A does not bar filing a counterclaim after the written statement, since the restriction concerns when the cause of action accrued, not the filing date. This is not unlimited, though, and courts still weigh delay against the suit's outer procedural limits."
+    },
+    {
+      "q": "Does my counterclaim need its own court fee, separate from the suit?",
+      "a": "Yes. A counterclaim is treated as a cross-suit, and court fee is payable on the value of the relief actually claimed in the counterclaim, separately from whatever fee was paid on the original suit, following the long-settled principle that a counterclaim functions as its own cross-suit."
+    },
+    {
+      "q": "How long does a plaintiff have to reply to a counterclaim in a commercial suit?",
+      "a": "The Supreme Court's July 2026 ruling in A.K. Ghosh v. Biman Bose held that a plaintiff must file a written statement to a counterclaim within the same 120-day mandatory outer limit that applies to an original written statement in a commercial suit, extendable only for sufficient cause and ordinarily within the first thirty days."
+    },
+    {
+      "q": "Can a defendant bring a counterclaim against another defendant in the same suit?",
+      "a": "No. The Supreme Court has held that a counterclaim cannot be directed against a co-defendant, since it is a claim against the plaintiff by character. A genuine claim against a co-defendant generally has to be pursued through a separate suit or another appropriate procedural route instead."
+    }
+  ],
+  "references": [
+    "Code of Civil Procedure, 1908, Order VIII Rule 1 proviso and Rule 6A (mandatory 120-day outer limit for written statements in commercial suits; counterclaim not barred by timing of the written statement, subject to cause of action accrual)",
+    "Code of Civil Procedure, 1908, Order VIII Rule 6G (applying written statement rules to a plaintiff's reply to a counterclaim)",
+    "M/s SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd., Supreme Court, 12 February 2019 (120-day limit for a written statement in a commercial suit is mandatory, not directory)",
+    "A.K. Ghosh and Company and Others v. Biman Bose and Others, 2026 INSC 684, Supreme Court, 13 July 2026 (120-day outer limit applies equally to a plaintiff's written statement in reply to a counterclaim)",
+    "Ashok Kumar Kalra v. Wing Cdr. Surendra Agnihotri, Supreme Court (Order VIII Rule 6A does not bar filing a counterclaim after the written statement; no absolute right to file after substantial delay)"
+  ],
+  "sources": [
+    "https://www.verdictum.in/app-lite/supreme-court/ak-ghosh-company-and-others-v-biman-bose-and-others-2026-insc-684-1617737",
+    "https://webiis10.mondaq.com/india/trials-appeals-compensation/1725644/supreme-court-clarification-on-maintainability-of-counterclaims-strategic-implications-for-litigators",
+    "https://www.sansalegal.com/post/supreme-court-written-statement-to-counter-claim-must-be-filed-within-120-days-in-commercial-suits",
+    "https://rawlaw.in/calcutta-high-court-allows-counterclaim-by-amendment-despite-delay-no-bar-under-order-viii-rule-6a-cpc-on-filing-counterclaim-after-written-statement-if-within-outer-limit-and-before-issues/",
+    "https://law.asia/defendants-must-file-written-statement-within-120-days/"
+  ],
+  "verification_notes": [
+    "The A.K. Ghosh v. Biman Bose ruling (2026 INSC 684, decided 13 July 2026, 120-day outer limit applied to a plaintiff's reply to a counterclaim in a commercial suit via Order VIII Rule 6G) is confirmed via the verdictum.in report and the sansalegal.com summary, both naming the same case, date and holding consistently.",
+    "The SCG Contracts India v. K.S. Chamankar Infrastructure holding (120-day limit for a written statement in a commercial suit mandatory, not directory, no power to extend through Section 151 CPC) is confirmed across the law.asia report and the elplaw.in commentary referenced in research, both describing the same 2019 ruling and holding.",
+    "The Ashok Kumar Kalra holding (Order VIII Rule 6A does not bar filing a counterclaim after the written statement; restriction concerns accrual of the cause of action, not filing date; no absolute right to file after substantial delay) is confirmed via the mondaq.com commentary and corroborated by the rawlaw.in report on the Calcutta High Court decision applying the same principle.",
+    "The description of a counterclaim as a cross-suit requiring its own court fee calculated on the relief claimed is confirmed via the sansalegal.com guide on filing counterclaims and corroborated by a general practitioner description of the cross-suit principle referenced in research, tracing to the long-settled Jag Mohan Chawla line of authority; the precise citation for that older case was not independently re-verified in this research round, so it is referred to as settled, long-standing doctrine rather than cited with a specific law report number.",
+    "The rule that a counterclaim cannot be directed against a co-defendant is confirmed via the indialaw.in summary of the relevant Supreme Court ruling describing this specific limitation; a second independently named source for the exact case citation was not located, so the case name and year are not stated with full citation precision in the references, and the point is presented as a settled procedural rule rather than tied to a single, fully verified citation."
+  ]
+}
