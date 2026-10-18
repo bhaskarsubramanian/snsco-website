@@ -783,5 +783,185 @@
    "https://www.jsalaw.com/?p=56740"
   ],
   "note": "The 2025 repeal of Section 213 of the Indian Succession Act (via the Repealing and Amending Act, 2025, assented 20 December 2025, removing probate as a precondition to enforcing rights under a will in the affected jurisdictions) is confirmed. The succession-certificate-vs-legal-heir-certificate distinction, the NRI power-of-attorney/apostille points, and the agricultural land NRI/OCI transfer restriction are all standard and consistent with cited sources; the draft appropriately hedges the FEMA repatriation limit instead of stating an unconfirmed figure. No significant errors found."
+ },
+ {
+  "file": "_drafts/batch3/blog/22-nri-oci-agricultural-land-farmhouse-fema-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://nriinformation.com/property/agricultural-land",
+   "https://website.rbi.org.in/web/rbi/faq-page-4",
+   "https://assetlyhq.com/blog/can-nri-buy-agricultural-land-india-fema/",
+   "https://www.sansalegal.com/post/fema-and-nri-property-in-india-rights-acquisition-and-repatriation-rules-explained"
+  ],
+  "note": "The core structure (purchase/gift of agricultural land, plantation property and farmhouse barred for NRI/OCI; inheritance permitted from a resident or from a non-resident who lawfully acquired it; resale of inherited such property restricted to a person resident in India, not to another NRI/OCI) is confirmed from the RBI's own FAQ table and corroborating commentary. The gift route's disputed treatment is correctly flagged as unsettled rather than asserted either way, consistent with conflicting secondary sources found independently."
+ },
+ {
+  "file": "_drafts/batch3/blog/23-patent-form-27-working-statement-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 6,
+  "evidence": [
+   "https://ipindia.gov.in/frontend/pdf/patents/1001_1_final_faqs_form-27_26thaugust2024.pdf",
+   "https://ksandk.com/intellectual-property-rights/form-27-compliance-compulsory-licence-india/",
+   "https://khuranaandkhurana.com/?p=15083",
+   "https://www.mondaq.com/india/patent/1445504/patent-amendment-rules-2024"
+  ],
+  "note": "The 15 March 2024 commencement, the annual-to-triennial change, Section 146(2)/122/84 and Rule 131 are all confirmed. But the guide's specific 'patents granted on or before 31 March 2023' cutoff for the first triennial block is not what the Patent Office's own FAQ (26 August 2024) says: the FAQ fixes the first window as FY2023-24 to FY2025-26 (filing due 1 April-30 September 2026, extendable to 31 December 2026 and in limited cases 30 June 2027) for patents already granted and in force before the 15 March 2024 commencement date, not by reference to a 31 March 2023 grant cutoff. That specific date appears to be the drafting agent's own simplification and is not supported by the primary source.",
+  "fixes": [
+   {
+    "find": "For patents granted on or before 31 March 2023, the working period under the new triennial system covers financial years 2023 to 24, 2024 to 25 and 2025 to 26 together, with the filing due within six months after the close of that block, which falls around 30 September 2026.",
+    "replace": "For patents already granted and in force before the amendment's commencement date of 15 March 2024, the Patent Office's own FAQ fixes the first working period under the new triennial system as financial years 2023-24, 2024-25 and 2025-26 together, with the unextended filing window running from 1 April 2026 to 30 September 2026 (extendable to 31 December 2026, and in limited circumstances to 30 June 2027). Patents granted on or after 15 March 2024 start their own three year block from the financial year following grant, with a correspondingly later first deadline.",
+    "reason": "The Patent Office's own FAQ ties the first triennial block to whether a patent was already granted and in force before the 15 March 2024 commencement date, not to a 31 March 2023 grant cutoff; the guide's specific cutoff date is an unsupported simplification."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/24-liquidated-damages-public-infrastructure-contract-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-liquidated-damages-legal-injury-253305",
+   "https://www.verdictum.in/court-updates/supreme-court/sahakarmaharshi-bhausaheb-thorat-sahakari-sakhar-karkhana-ltd-v-thyssen-krupp-industries-india-pvt-ltd-2025-insc-219-contract-act-1568288",
+   "https://www.lekhanews.in/judgment/sup-m-s-saisudhir-energy-ltd-vs-m-s-ntpc-vidyut-vyapar-nigam-ltd-ml1lumwe/",
+   "https://www.barandbench.com/amp/story/law-firms/view-point/damages-without-proof-of-loss-the-supreme-courts-overbroad-public-utility-presumption"
+  ],
+  "note": "BHEL v Kanohar Electricals (Delhi HC Division Bench, Shakdher and Bansal JJ, FAO(OS)(COMM) 245/2023, 26 Feb 2024) and Thyssen Krupp (Oka and Bhuyan JJ, CA 3194/2014, 2025 INSC 219, 14 Feb 2025) are both confirmed exactly as described. But the guide's 'NTPC Vidyut Vyapar Nigam' presumed-loss ruling is a real, identifiable, more recent case the guide leaves uncited: M/s Saisudhir Energy Ltd v NTPC Vidyut Vyapar Nigam Ltd, 2026 INSC 103, decided 30 January 2026, which the guide's own framing ('the law on this point moved significantly in 2024 and 2025') wrongly excludes from its timeline. Construction & Design Services v DDA (2015) is accurately described as background precedent.",
+  "fixes": [
+   {
+    "find": "and the law on this point moved significantly in 2024 and 2025.",
+    "replace": "and the law on this point moved significantly in 2024, 2025 and into early 2026.",
+    "reason": "The key public-utility presumed-loss ruling discussed later in the guide was decided on 30 January 2026, not in 2024 or 2025."
+   },
+   {
+    "find": "The Supreme Court has held, in a ruling involving NTPC Vidyut Vyapar Nigam Ltd, that in contracts for public utility projects",
+    "replace": "The Supreme Court has held, in M/s Saisudhir Energy Ltd v NTPC Vidyut Vyapar Nigam Ltd (2026 INSC 103, decided 30 January 2026), that in contracts for public utility projects",
+    "reason": "Adds the missing citation and date for the central ruling this section discusses, confirmed via verdictum.in and lekhanews.in."
+   },
+   {
+    "find": "NTPC Vidyut Vyapar Nigam Ltd related ruling on presumed loss in public utility project contracts under Section 74, and the limited scope of Section 37 appellate review of a Section 34 court's reasonable compensation finding",
+    "replace": "M/s Saisudhir Energy Ltd v NTPC Vidyut Vyapar Nigam Ltd, 2026 INSC 103 (decided 30 January 2026), on presumed loss in public utility project contracts under Section 74, and the limited scope of Section 37 appellate review of a Section 34 court's reasonable compensation finding",
+    "reason": "Reference list should carry the actual case name and citation rather than leaving it unnamed and undated."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/25-sugarcane-frp-arrears-recovery-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/raju-alias-devappa-anna-shetti-v-the-state-of-maharashtra-2025-bhc-as-12379-db-frp-sugarcane-farmers-1573013",
+   "https://www.freepressjournal.in/amp/mumbai/bombay-hc-quashes-feb-2022-gr-allowing-frp-payment-to-sugarcane-farmers-in-2-instalments",
+   "https://www.thc.nic.in/Central%20Governmental%20Ordinances/Sugarcane%20(Control)%20Order,%201966.pdf"
+  ],
+  "note": "Raju alias Devappa Anna Shetti v State of Maharashtra (Bombay HC Division Bench, Kulkarni and Sethna JJ, 2025 BHC-AS-12379-DB) is confirmed: the state has no authority to deny farmers FRP within the 14-day window, and the court quashed a GR permitting delayed instalment payment. The 14-day deadline under clause 3(3) and the 15% per annum interest on delay are confirmed from an official copy of the Order and from parliamentary answers, though the specific sub-clause label '3(3A)' for the interest provision could not be independently confirmed from the gazette text in these results (one commercial source uses that label; the official text I found does not break out a separate numbered sub-clause for it). This is a minor citation-precision point, not a substantive error, since the underlying 14-day/15% rule itself is well supported."
+ },
+ {
+  "file": "_drafts/batch3/blog/26-ppvfr-farmers-privilege-pepsico-potato-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.jsalaw.com/deals-matter/jsa-successfully-represents-pepsico-in-setting-aside-the-revocation-of-its-registration-for-its-potato-variety/",
+   "https://www.livelawbiz.com/amp/digests/monthly-digests/livelawbiz-ipr-monthly-digest-august-2026-548498",
+   "https://www.downtoearth.org.in/agriculture/sc-upholds-pepsicos-potato-variety-registration-says-sued-farmers-can-invoke-statutory-protection",
+   "https://eng.ruralvoice.in/supreme-court-verdict-on-pepsico-potato-farmers-disappointing-says-farmers-rights-activist-kavitha-kuruganti"
+  ],
+  "note": "The guide gets the procedural history backwards in one important respect. A Delhi HC single judge upheld the PPVFR Authority's 2021 revocation in July 2023, but a Delhi HC Division Bench (Varma and Sharma JJ) SET ASIDE that revocation on 9 January 2024, restoring PepsiCo's registration and rejecting activist Kavitha Kuruganti's public-interest argument -- a step the guide omits entirely. It was Kuruganti, not PepsiCo, who then took the matter to the Supreme Court (SLP(C) 10320-10321/2024), which dismissed her appeal on 5 August 2026 (Pardiwala and K Vinod Chandran JJ), leaving the Division Bench's restoration of PepsiCo's registration in place while confirming individual farmers can still invoke Section 39(1)(iv) as a defence. The guide's statement that 'PepsiCo carried the matter to the Supreme Court' and that the SC ruling 'restor[ed] PepsiCo's position' reverses who was appealing from what. The underlying law (Section 39(1)(iv) privilege, branded-seed exclusion, outcome that PepsiCo's registration stands and farmers can still raise the privilege case-by-case) is correct.",
+  "fixes": [
+   {
+    "find": "The Delhi High Court upheld that revocation in 2023, and PepsiCo carried the matter to the Supreme Court.",
+    "replace": "A single judge of the Delhi High Court upheld that revocation in July 2023, but a Division Bench of the High Court set aside the revocation in January 2024, restoring PepsiCo's registration and rejecting Kavitha Kuruganti's public interest argument. It was Kuruganti, the activist who had sought the revocation, not PepsiCo, who then carried the matter to the Supreme Court.",
+    "reason": "The guide omits the January 2024 Division Bench reversal and wrongly states PepsiCo was the party appealing to the Supreme Court; it was the activist challenging a ruling already in PepsiCo's favour."
+   },
+   {
+    "find": "In August 2026, the Supreme Court declined to let the revocation stand on the ground argued by the party challenging the registration, restoring PepsiCo's position with respect to the FL 2027 registration itself, while making clear that this did not leave farmers without protection going forward.",
+    "replace": "In August 2026, the Supreme Court dismissed Kavitha Kuruganti's appeal against the Delhi High Court Division Bench's 2024 ruling, declining to revive the revocation on the public interest ground she argued and leaving PepsiCo's FL 2027 registration as the Division Bench had already restored it, while making clear that this did not leave farmers without protection going forward.",
+    "reason": "Corrects the same reversed procedural posture: the Supreme Court was reviewing the activist's challenge to a ruling already favourable to PepsiCo, not restoring PepsiCo from an adverse position."
+   },
+   {
+    "find": "The ruling restored PepsiCo's registration on the specific ground argued, but it also confirmed that an individual farmer sued for infringement can still raise the Section 39(1)(iv) privilege as a defence",
+    "replace": "The ruling left PepsiCo's registration as the Delhi High Court Division Bench had already restored it in January 2024, declining the activist's further challenge on the public interest ground argued, but it also confirmed that an individual farmer sued for infringement can still raise the Section 39(1)(iv) privilege as a defence",
+    "reason": "Same correction applied to the FAQ answer."
+   },
+   {
+    "find": "Delhi High Court ruling (2023) upholding the Protection of Plant Varieties and Farmers' Rights Authority's 2021 revocation of the FL 2027 registration",
+    "replace": "Delhi High Court rulings: a single judge upholding the Protection of Plant Varieties and Farmers' Rights Authority's 2021 revocation of the FL 2027 registration in July 2023, and a Division Bench setting that revocation aside in January 2024",
+    "reason": "The reference list should reflect both Delhi HC rulings, not only the superseded single-judge one."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/27-change-in-law-ppa-compensation-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://api.sci.gov.in/supremecourt/2024/26876/26876_2024_7_1501_62069_Judgement_23-May-2025.pdf",
+   "https://ksandk.com/md/newsletter/sc-upholds-adani-powers-change-in-law-claims-vs-jvvnl/",
+   "https://theindianlawyer.in/levy-of-evacuation-facility-charges-as-change-in-law-under-power-purchase-agreement/"
+  ],
+  "note": "Jaipur Vidyut Vitran Nigam Ltd v Adani Power Rajasthan Ltd, Civil Appeal No. 4336 of 2025, decided 23 May 2025 by a bench of Justices Sundresh and Bindal, upholding APTEL's finding that the Coal India evacuation facility charge was a Change in Law event entitling carrying cost from the notification date and rejecting the discoms' notice-timing argument, is confirmed exactly as described, including the bench composition. The general Electricity Act Section 63/79 jurisdictional framework and the restitution principle are standard and consistent with the primary judgment."
+ },
+ {
+  "file": "_drafts/batch3/blog/28-probate-no-longer-mandatory-section-213-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.livelaw.in/high-court/jammu-kashmir/probate-no-longer-required-to-claim-rights-under-will-after-omission-of-section-213-indian-succession-act-jkl-high-court-549245",
+   "https://www.barandbench.com/law-firms/view-point/omission-of-section-213-of-the-indian-succession-act-1925-seeking-probate-of-will-is-no-longer-mandatory",
+   "https://kashmirlife.net/jammu-kashmir-high-court-sets-aside-order-rejecting-mutation-based-on-unprobated-will-450955/",
+   "https://courtkutchehry.com/judgments/premila-surendran-vs-prasanna-chandran"
+  ],
+  "note": "The Repealing and Amending Act, 2025 omitting Section 213 (presidential assent 20 December 2025) and the J&K&L High Court's application of that omission to set aside a mutation rejection (Rakesh Kumar v UT of J&K, decided by Justice Sanjay Dhar, September 2026) are both confirmed. The guide's claim about a Kerala High Court ruling 'continuing to treat probate as mandatory' for a pre-amendment Kannur will is not supported as stated: the actual 2026 case (Premila Surendran v Prasanna Chandran, Kerala HC, decided 20 May 2026) does raise exactly that question, but the result available in these searches shows only that the appeal was dismissed, without confirming which way the court resolved the Section 213 point. The guide states a specific holding that the evidence available does not establish.",
+  "fixes": [
+   {
+    "find": "A Kerala High Court judgment dealing with a will executed before the 2025 amendment, concerning property in Kannur, continued to treat probate as mandatory on the facts before it, which is a useful reminder that the timing of execution and the stage of the underlying dispute both matter.",
+    "replace": "A 2026 Kerala High Court ruling, Premila Surendran v Prasanna Chandran, took up exactly this question for a Hindu will executed before the 2025 amendment over property in Kannur, with one side arguing probate was mandatory on those facts; the reported outcome of that appeal does not make clear whether the court accepted that argument, so the point should be checked against the full judgment rather than assumed either way. What is clear is that the timing of execution and the stage of the underlying dispute both matter.",
+    "reason": "The guide asserted a specific holding (probate still mandatory) that available sources do not confirm; the case exists and raises the question, but its resolution of that question is not established."
+   },
+   {
+    "find": "A Kerala High Court ruling continued to require probate for a pre-amendment will on its specific facts, so this needs case-specific advice rather than a blanket assumption that the repeal cures every earlier situation.",
+    "replace": "A 2026 Kerala High Court ruling took up this exact question for a pre-amendment will, but the reported outcome does not confirm how the court resolved it, so this needs case-specific advice rather than a blanket assumption that the repeal cures every earlier situation.",
+    "reason": "Same correction applied to the FAQ answer."
+   },
+   {
+    "find": "Kerala High Court ruling continuing to apply the probate requirement to a will executed before the 2025 amendment (Kannur property)",
+    "replace": "Kerala High Court ruling (Premila Surendran v Prasanna Chandran, 2026) raising, for a pre-2025-amendment will over Kannur property, whether the probate requirement continues to apply",
+    "reason": "The reference list should not assert a specific holding the available record does not confirm."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch3/blog/29-suspicious-circumstances-will-challenge-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.verdictum.in/supreme-court/2026-insc-669-sardari-lal-v-bishan-dass-1617279",
+   "https://lawfoyer.in/gurdial-singh-dead-through-lr-v-jagir-kaur-dead-and-anr-etc-2025-8-s-c-r-257-2025-insc-866/",
+   "https://www.livelaw.in/amp/supreme-court/supreme-court-judgment-execution-of-will-section-63-indian-succession-act-279949",
+   "https://theindianlawyer.in/analysis-of-the-supreme-court-judgment-in-lilian-coelho-ors-v-myra-philomena-coalho/"
+  ],
+  "note": "All three cases check out. Sardari Lal v Bishan Dass, 2026 INSC 669 (Misra and Viswanathan JJ, decided 6 July 2026) set aside a Himachal Pradesh HC ruling on a 1974 will by an illiterate testator, holding attestation proof alone insufficient against suspicious circumstances -- matches exactly. Gurdial Singh v Jagir Kaur (2025 INSC 866, Karol and Bagchi JJ, 17 July 2025) declared a will invalid for suspicious circumstances (undue influence, failure to mention the lawful wife) -- matches. Lilian Coelho v Myra Philomena Coelho (decided 2 January 2025, reported as a 2025 LiveLaw (SC) item) held a validly executed will can still be refused effect if suspicious circumstances are unexplained, and left the merits to be redecided by the Division Bench on remand -- matches the guide's description that it 'did not finally decide the merits.'"
+ },
+ {
+  "file": "_drafts/batch3/blog/30-mineral-rights-tax-mada-retrospective-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.ey.com/en_in/technical/alerts-hub/2024/08/sc-decides-on-timelines-for-operationality-of-tax-on-mineral-rights-and-waiver-of-interest-and-penalty",
+   "https://www.livelaw.in/amp/top-stories/states-can-recover-past-tax-dues-on-mineral-rights-but-not-for-period-before-april-1-2005-supreme-court-266689",
+   "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-refuses-to-give-prospective-effect-to-july-25-verdict-on-power-of-states-to-tax-mineral-lands/"
+  ],
+  "note": "The nine-judge bench's 25 July 2024 ruling overruling India Cement by an 8:1 majority (Nagarathna J dissenting), holding royalty under the MMDR Act is not a tax, is confirmed. The later retrospective order permitting recovery only from transactions on or after 1 April 2005, in instalments (up to 12 years), is also confirmed. The guide's description of interest and penalty being 'curtailed' is a fair, if slightly softened, characterisation of what sources describe as a waiver of interest/penalty specifically for demands predating the 25 July 2024 judgment; this is a minor wording imprecision, not a substantive error."
+ },
+ {
+  "file": "_drafts/batch3/blog/31-fssai-section-59-criminal-prosecution-limitation-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/ram-nath-v-the-state-of-uttar-pradesh-2024-insc-138-food-safety-and-standards-act-1522052",
+   "https://www.verdictum.in/court-updates/high-courts/jammu-ladakh-high-court/ali-mohammad-bhat-ors-v-ut-of-jk-crmm-no3102024-food-safety-standard-act-section-42-complaint-quash-1580644",
+   "https://www.indialaw.in/blog/civil/prosecution-limitation-in-fssa-insights-from-kewal-dairy-case/",
+   "https://foodsafetyworks.com/fssai_updates/changes-in-penalties-under-fssa-2006"
+  ],
+  "note": "Ram Nath v State of UP, 2024 INSC 138 : [2024] 2 S.C.R. 743 (Oka and Karol JJ, 21 Feb 2024, Section 59 overrides IPC 272/273 via Section 89, no simultaneous prosecution) is confirmed exactly, including the citation. Ali Mohammad Bhat v UT of J&K, CRM(M) 310/2024 (Dhar J, reserved 27 May 2025, pronounced 6 June 2025, quashing for an unexplained Section 42 delay) is confirmed exactly, including the date. M/s Kewal Dairy v State of UP (Allahabad HC, 2024) confirming the offence date runs from the Food Analyst's report and that Section 77 overrides Section 468 CrPC via Section 89 is confirmed, though the guide's framing that the case specifically 'examined' the Commissioner's written-reasons requirement for a 3-year extension is a slightly stronger characterisation than the search results directly establish (the point was argued but the court's resolution of it was not confirmed). The Jan Vishwas Act's change to Section 59's no-injury tier (six months/one lakh to three months/three lakh, effective 7 November 2023) is confirmed exactly."
  }
 ]
