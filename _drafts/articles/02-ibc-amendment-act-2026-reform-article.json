@@ -1,0 +1,162 @@
+{
+  "slug": "ibc-amendment-act-2026-reform-article",
+  "title": "The IBC Amendment Act, 2026: What Actually Changes for Lenders, Operational Creditors and Promoters",
+  "subtitle": "A legislative correction to a decade of case law on admission, a new creditor-initiated route, a second chance before liquidation, and several reforms still waiting on rules.",
+  "meta_description": "What is actually in force under the IBC (Amendment) Act, 2026, what still needs rules, and what changes for creditors and promoters.",
+  "practice_area": "IBC & Insolvency",
+  "author": "Bhaskar Subramanian",
+  "author_role": "Advocate, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-10-19",
+  "standfirst": "The Insolvency and Bankruptcy Code (Amendment) Act, 2026 received Presidential assent on 6 April 2026 and most of its provisions were brought into force from 26 May 2026. It settles, by statute, an admission-stage argument the Supreme Court had been working through for four years, creates a creditor-driven route into insolvency, and gives a failed process one more chance before liquidation. Its most discussed reforms, on group and cross-border insolvency, are not yet operative, and that distinction matters for anyone advising on a live matter.",
+  "key_points": [
+    "The 2026 Act makes admission of a financial creditor's application effectively mandatory once debt, default and completeness are shown, settling the discretion debate that followed Vidarbha Industries Power v. Axis Bank and ending it in favour of the earlier Innoventive position.",
+    "The NCLT must now decide on admission within 14 days, and the proviso requiring written reasons for missing that deadline has been removed from the statute.",
+    "A new creditor-initiated insolvency resolution process lets specified financial institutions, with the backing of at least 51 percent of financial creditors, push a corporate debtor into a structured process without first going through adjudication; commentary is divided on whether this route is actually usable yet.",
+    "A new provision lets the NCLT allow one restart of a failed resolution process, with 66 percent committee of creditors approval, before ordering liquidation, giving a stalled case a single second chance within a further 120 days.",
+    "Group insolvency and cross-border insolvency provisions were enacted but were carved out of the May 2026 commencement notification and remain inoperative pending rules; India has still not adopted the UNCITRAL Model Law framework in force.",
+    "A codified project-wise resolution mechanism for real estate developers responds to years of informal practice and is likely to matter most for homebuyers in stalled housing projects."
+  ],
+  "sections": [
+    {
+      "heading": "From discretion back to certainty: the admission stage",
+      "paragraphs": [
+        "The single most contested question in Indian insolvency practice over the last four years has been deceptively narrow: once a financial creditor shows debt and default, does the NCLT have to admit the Section 7 application, or can it look further and decide the application does not deserve admission. The Supreme Court answered this once in Innoventive Industries Ltd v. ICICI Bank Ltd in 2017, reported at (2018) 1 SCC 407, holding that once debt, default and a complete application are shown, the adjudicating authority must admit the petition; the inquiry at that stage is not open-ended.",
+        "In July 2022, a two-judge bench complicated that position considerably. In Vidarbha Industries Power Ltd v. Axis Bank Ltd, reported at (2022) 8 SCC 352, the Court held that the word \"may\" in Section 7(5)(a) gives the NCLT discretion not to admit an application even where default is established, and that the tribunal could weigh factors going to the corporate debtor's overall financial health. Lenders read this as an invitation for corporate debtors to resist admission on viability grounds that had nothing to do with whether the debt was actually due and unpaid, and admission hearings lengthened accordingly.",
+        "The Supreme Court narrowed Vidarbha's reach earlier this year, holding in Power Trust v. Bhuvan Madan, reported as 2026 INSC 166, that Vidarbha turned on its own unusual facts and does not dilute Innoventive as the governing rule; at the Section 7 stage the tribunal's inquiry remains confined to whether financial debt and default exist, not whether the corporate debtor can still be saved. The 2026 Amendment Act now puts that outcome beyond further judicial debate. It substitutes Section 7(5) so that the adjudicating authority shall admit an application where default has occurred, the application is complete and no disciplinary proceeding is pending against the proposed resolution professional, and shall reject it otherwise, removing the open texture that produced Vidarbha in the first place. The authority must decide within fourteen days of receipt, and the former proviso requiring it to record reasons in writing when it misses that deadline has itself been omitted, a small but telling signal that Parliament wanted the focus on meeting the deadline rather than on excusing a failure to do so."
+      ]
+    },
+    {
+      "heading": "A creditor-initiated route into insolvency",
+      "paragraphs": [
+        "Chapter IV-A of the amended Code introduces a Creditor-Initiated Insolvency Resolution Process, a mechanism that lets a corporate debtor be pushed into a structured resolution process on the strength of a financial creditor decision rather than only through adjudication by the NCLT at the outset. The threshold is a resolution backed by financial creditors holding at least 51 percent of the financial debt, and the process is intended to run on a tighter clock than ordinary CIRP: a maximum of 150 days, extendable once by up to 45 days. The design is aimed at large, clearly distressed exposures where financial creditors have already reached internal consensus and do not need a contested adjudication to get the process moving.",
+        "Two features of CIIRP deserve particular attention from anyone on the creditor side of a large exposure. First, commentary suggests the route is initially confined to financial institutions the Central Government specifies, rather than being open to every financial creditor, which means its practical reach will depend on a notification identifying who qualifies to invoke it. Second, and this is the point advisers should flag rather than assume away, reporting on whether CIIRP can actually be used today is inconsistent. One report in late May 2026 described the mechanism as having been operationalised; other, more cautious commentary around the same period described the chapter as enacted but not yet notified for actual use, pending the rules needed to specify which institutions can invoke it and how. Anyone considering this route on a live file should check the current state of notification directly with the Ministry of Corporate Affairs or the Insolvency and Bankruptcy Board of India rather than relying on secondary commentary, including this article, for that specific operational fact.",
+        "If and once it is fully usable, CIIRP is likely to shift some bargaining leverage toward larger institutional lenders in syndicated exposures, since they will not need to wait for an NCLT admission contest before the clock starts running on a structured process. Promoters and smaller creditors in the same exposure should expect less room to use admission-stage delay as a negotiating tool once this route is live for a given lender group."
+      ]
+    },
+    {
+      "heading": "One more chance before liquidation",
+      "paragraphs": [
+        "A new sub-section, Section 33(1A), addresses a problem that had become common under the pre-amendment Code: a CIRP that runs its course without producing an approved resolution plan, or whose only plan is rejected, used to move more or less directly toward liquidation. The amendment now lets the NCLT permit a single restart of the resolution process instead, provided the committee of creditors approves the restart with at least 66 percent voting share. The restarted process must conclude within a further 120 days, and if it again fails to produce an approved plan within that window, liquidation follows without a second restart being available.",
+        "The provision is a measured compromise rather than an open-ended lifeline. It does not let a committee of creditors keep a corporate debtor in limbo through repeated restarts, and the 66 percent threshold ensures the restart reflects a real majority view among financial creditors rather than a holdout minority's preference. For a corporate debtor whose assets retain some going-concern value but whose first resolution process failed for reasons unconnected to the underlying business, such as an inadequate information memorandum, poor market timing, or a resolution applicant that withdrew late, this is a meaningful second opportunity that did not exist before.",
+        "For creditors, the provision changes the calculation at the point a process looks likely to fail. Rather than treating a failed plan vote as the end of the road, a committee now has a genuine decision to make about whether a restart is worth the additional 120 days, and resolution professionals advising committees will need to build that assessment into their recommendations well before the statutory deadline for the first process actually expires."
+      ]
+    },
+    {
+      "heading": "Group and cross-border insolvency: enabled, but not yet switched on",
+      "paragraphs": [
+        "Two of the most discussed reforms in the 2026 Act are also the two that are not currently operative, and the distinction matters because a great deal of commentary has blurred it. Chapter VA of the amended Code creates an enabling framework for group insolvency, under which the insolvency processes of two or more companies within the same corporate group can, in principle, be coordinated or consolidated rather than run as entirely separate proceedings before different benches. Section 240C separately empowers the Central Government to frame rules for recognising and cooperating with insolvency proceedings against a corporate debtor's assets or operations outside India.",
+        "Neither provision was included in the commencement notification that brought most of the 2026 Act into force from 26 May 2026, and no rules have yet been framed under either Chapter VA or Section 240C as of the date of this article. This means India has still not formally adopted the UNCITRAL Model Law on Cross-Border Insolvency in its domestic insolvency framework, notwithstanding commentary that sometimes describes the 2026 Act as having done so; what exists today is a statutory hook for a framework that still needs to be built through subordinate legislation. Tribunals continue to handle group and cross-border questions, where they arise, through case-by-case judicial improvisation, the same approach that has applied for years.",
+        "For lenders and promoters with group structures or cross-border asset exposure, the practical advice for now is to plan around the current reality rather than the eventual rules. Coordination between insolvency processes of group companies still depends on persuading each bench to cooperate informally, or on separate applications seeking consolidation on the specific facts, and recognition of a foreign proceeding's effect on Indian assets still depends on general principles rather than a codified gateway. This is likely to change once rules are notified, and it is worth tracking that notification closely, but it has not happened yet."
+      ]
+    },
+    {
+      "heading": "Project-wise resolution for real estate developers",
+      "paragraphs": [
+        "A further reform responds to a problem that has been familiar to anyone handling real estate insolvencies for years: a developer commonly runs several distinct projects, each with its own land, approvals, financing and set of homebuyers, yet a single CIRP against the developer company used to treat the whole business as one undifferentiated estate. A viable, nearly complete project could be dragged down by a separate, genuinely failed project simply because both sat inside the same corporate shell, to the detriment of homebuyers who had paid for flats in the project that was otherwise sound.",
+        "The amended framework now gives statutory footing to project-wise resolution, letting a resolution professional structure the process, and invite resolution plans, at the level of an individual project or a cluster of related projects rather than only at the level of the whole corporate debtor. This builds on a more limited, regulation-based practice that the Insolvency and Bankruptcy Board of India had already permitted under its CIRP Regulations before the statutory amendment, and the amendment is best understood as putting firmer legal footing under a practice tribunals and resolution professionals were already improvising.",
+        "The real test of this reform will be in implementation rather than in the statute's text. The Board issued a discussion paper in mid-2026 proposing further changes to the CIRP Regulations specifically to support project-wise resolution in real estate, which suggests the mechanics, how claims are segregated, how a committee of creditors is constituted project by project, and how surplus from one project interacts with shortfall in another, are still being worked out at the regulatory level. Homebuyers' associations and developers currently mid-process should watch these regulatory developments closely rather than assume the statutory provision alone resolves the practical difficulties."
+      ]
+    },
+    {
+      "heading": "What this means for lenders and financial creditors",
+      "paragraphs": [
+        "For a financial creditor contemplating a Section 7 filing, the practical change is a shorter and more predictable path to admission. Resisting admission on the corporate debtor's general financial health, the argument Vidarbha had opened up, is no longer a credible strategy once debt, default and a complete application are shown; the tribunal's own discretion to look past those three facts has been removed by statute rather than merely narrowed by a later judgment that a persistent counsel could still try to distinguish.",
+        "Large institutional lenders in syndicated facilities should also start tracking whether CIIRP becomes usable for their specific category of exposure, since a confirmed internal majority of 51 percent by financial debt could let them move a genuinely distressed account into a structured process on a faster timetable than a contested Section 7 admission would allow, once the mechanism is actually notified for use. Until that notification is confirmed, however, filing under Section 7 in the ordinary way remains the only reliable route, and treating CIIRP as available without checking current notifications is a risk no lender's counsel should take on a live file.",
+        "Committees of creditors handling a process that looks likely to end without an approved plan now have a genuine, statutorily backed alternative to immediate liquidation in the Section 33(1A) restart, and resolution professionals should build an assessment of whether a restart is worth pursuing into their reporting to the committee well before the existing process's deadline arrives, rather than treating liquidation as the default outcome once a first plan vote fails."
+      ]
+    },
+    {
+      "heading": "What this means for operational creditors and promoters",
+      "paragraphs": [
+        "Operational creditors filing under Section 9 are not the direct subject of the admission-stage reform, which is framed around Section 7 and financial creditors, and this research did not find confirmation that the 2026 Act altered the pre-existing-dispute defence or the general Section 9 framework that governs operational creditor applications. Operational creditors should continue to proceed on the existing law in that respect, while watching for any further rule-making that might extend the admission-stage changes to their own filings.",
+        "For promoters, the combined effect of mandatory admission and the removal of viability-based resistance at the Section 7 stage is to shift the real contest earlier in the relationship, to the negotiating table before a default actually occurs, since the admission hearing itself is no longer a venue where a promoter can credibly argue the company deserves more time on anything other than the narrow facts of debt, default and completeness. This research found no indication that Section 29A, which bars certain categories of persons, including promoters whose conduct falls within its terms, from submitting a resolution plan, was itself amended in 2026; a promoter's eligibility to bid for their own company accordingly continues to depend on the pre-existing Section 29A analysis, unaffected by the admission-stage changes discussed here.",
+        "Promoters of real estate developers specifically should treat the project-wise resolution reform as a double-edged development. It can protect a viable project of theirs from being pulled down by a failed one in the same corporate group, which is a genuine benefit, but it also means creditors and the resolution professional now have a clearer statutory tool to carve out and resolve the failing project on its own timetable, without waiting for, or being constrained by, the fortunes of the developer's other projects.",
+        "A separate practical point for promoters involved in group structures concerns timing rather than substance. Because Chapter VA's group insolvency framework is not yet operative, a promoter currently facing proceedings against one group company cannot assume that a parallel process against a related entity will automatically be coordinated or consolidated. Each entity's process still needs to be defended, and settled, on its own facts before its own bench, and planning should proceed on that basis until rules under Chapter VA actually arrive."
+      ]
+    },
+    {
+      "heading": "What remains unsettled",
+      "paragraphs": [
+        "The gap between statutory intent and operational reality is the theme that runs through this entire amendment, and it is worth stating plainly rather than glossing over. Industry data available as of early 2026 showed cases that did reach an approved resolution plan taking an average of around 621 days even after excluding periods formally excluded by the tribunal, against a statutory outer limit of 330 days, and roughly three-quarters of ongoing processes had already run past 270 days. Faster statutory deadlines at the admission stage do not, on their own, fix delay at the later stages of a process, where the bulk of the time is actually lost.",
+        "Whether CIIRP is genuinely available for use today is itself unsettled, as the conflicting reports described earlier in this article show, and the same caution applies to group and cross-border insolvency, where the statutory framework exists but the rules that would make it operative do not. Readers relying on any claim that these mechanisms are fully functional should verify the current notification status before acting on it, since commentary published within weeks of each other has reached opposite conclusions on at least the CIIRP point.",
+        "Finally, no amendment to Section 29A, to the operational creditor framework under Section 9, or to the overall 330-day outer limit for CIRP accompanied this round of reform, based on the sources reviewed for this article. Businesses and lenders should treat the 2026 Act as a significant but partial reform: real and immediate at the admission stage, promising but not yet operative for group and cross-border cases, and silent on several other long-standing points of friction in the insolvency process.",
+        "There is also a sequencing question worth flagging for anyone structuring a transaction around these reforms over the next year. Rules under Chapter VA and Section 240C, once framed, will themselves need to bed in through early applications and probably through a round of tribunal interpretation before the group and cross-border framework behaves predictably, much as the CIRP framework itself took several years of NCLT and NCLAT decisions to settle after the Code was first enacted in 2016. Treating a rule that is notified next year as immediately reliable for a transaction being structured today would repeat a mistake this sector has made before, when early CIRP practice assumed a degree of procedural certainty that only arrived after several rounds of litigation up to the Supreme Court."
+      ]
+    }
+  ],
+  "conclusion": [
+    "The 2026 Amendment Act is best read as Parliament stepping in to settle an argument the courts had been unable to close cleanly on their own, the admission-stage discretion debate that ran from Innoventive through Vidarbha and into this year's clarification in Power Trust v. Bhuvan Madan, and then adding two genuinely new tools, the creditor-initiated process and the one-time restart before liquidation, aimed at speed and at avoiding needless liquidations respectively. Both of those additions are worth tracking closely as they bed in.",
+    "What the Act has not yet done is deliver the group and cross-border insolvency framework that much of the surrounding commentary has treated as already arrived. Advisers, lenders and corporate debtors with group structures or cross-border assets should plan on the basis of the law as it stands today, not as it is eventually expected to look once rules under Chapter VA and Section 240C are notified, and should keep checking official notifications rather than relying on any single secondary source, including this one, for that specific, fast-moving fact."
+  ],
+  "faqs": [
+    {
+      "q": "Can an NCLT still refuse to admit my Section 7 application if it thinks my company is otherwise viable?",
+      "a": "Not on that basis alone. The 2026 Amendment Act requires admission once debt, default and a complete application are shown, and the Supreme Court had already confined Vidarbha Industries Power v. Axis Bank to its own facts earlier in 2026. Viability-based resistance to admission is no longer a credible argument once those three conditions are met."
+    },
+    {
+      "q": "Can my company use the new creditor-initiated insolvency process right now?",
+      "a": "That depends on your lender and on the current notification status, which this research found to be reported inconsistently as of mid-2026. Some reports describe the mechanism as operational; others describe it as enacted but not yet notified for use. Check directly with the Ministry of Corporate Affairs or the Insolvency and Bankruptcy Board of India before relying on it for a specific transaction."
+    },
+    {
+      "q": "Has India finally adopted the UNCITRAL Model Law for cross-border insolvency?",
+      "a": "Not yet, as of the date of this article. Section 240C of the amended Code gives the government power to frame rules enabling recognition of and cooperation with foreign insolvency proceedings, but no such rules had been notified, and the provision was carved out of the main commencement notification in May 2026."
+    },
+    {
+      "q": "My company's resolution plan was just rejected by the committee of creditors. Does liquidation automatically follow?",
+      "a": "Not necessarily. The new Section 33(1A) lets the NCLT permit one restart of the resolution process if the committee of creditors approves it with at least 66 percent voting share, giving the process a further 120 days. If that restarted process also fails, liquidation follows without a further restart."
+    },
+    {
+      "q": "Does the admission-stage reform change anything for an operational creditor filing under Section 9?",
+      "a": "This research found no indication that the 2026 Act changed the Section 9 framework or the pre-existing-dispute defence available to a corporate debtor resisting an operational creditor's application. Operational creditors should continue to work with the existing law on that point."
+    },
+    {
+      "q": "I am a promoter. Can I now bid for my own company more easily after this amendment?",
+      "a": "The 2026 Act does not appear to have changed Section 29A, which bars certain categories of persons, including some promoters, from submitting a resolution plan. Your eligibility continues to depend on the existing Section 29A analysis, which this amendment left untouched."
+    }
+  ],
+  "references": [
+    "Insolvency and Bankruptcy Code, 2016, Sections 7, 9, 29A, 33 and new Chapter IV-A and Chapter VA, Section 240C",
+    "Insolvency and Bankruptcy Code (Amendment) Act, 2026 (Presidential assent 6 April 2026; commencement notification bringing most provisions into force from 26 May 2026)",
+    "Innoventive Industries Ltd v. ICICI Bank Ltd, (2018) 1 SCC 407 (Supreme Court, 31 August 2017)",
+    "Vidarbha Industries Power Ltd v. Axis Bank Ltd, (2022) 8 SCC 352 (Supreme Court, 12 July 2022)",
+    "Power Trust v. Bhuvan Madan, 2026 INSC 166 (Supreme Court, 2026)",
+    "E.S. Krishnamurthy v. Bharath Hi-Tecch Builders Pvt Ltd (Supreme Court), cited for reaffirming the Innoventive admission standard",
+    "IBBI, Discussion Paper on Strengthening Resolution Outcomes in Real Estate Insolvency (30 June 2026)",
+    "IBBI data and ICRA analysis on CIRP timelines as on 31 March 2026, cited in industry commentary"
+  ],
+  "related_pages": [
+    "/blog/ibc-section-7-9-10-admission-defenses-guide.html",
+    "/blog/nclt-admission-delay-condonation-section-7-listing-challenge.html",
+    "/blog/ibc-resolution-timelines-guide.html",
+    "/blog/ibc-cross-border-insolvency-uncitral-model-law-guide.html",
+    "/blog/section-9-operational-creditor-pre-existing-dispute-guide.html",
+    "/legal-news/ibc-amendment-act-2026-statutory-charge-secured-creditor-nclat.html"
+  ],
+  "sources": [
+    "https://taxguru.in/corporate-law/ibc-amendment-act-2026-faster-timelines-creditor-driven-regime.html",
+    "https://blog.ipleaders.in/ibc-amendment-act-2026-what-changes-for-creditors-and-resolution-professionals/",
+    "https://www.livelawbiz.com/amp/compliance/ibc/centre-notifies-key-ibc-amendment-provisions-operationalises-creditor-initiated-insolvency-resolution-process-535725",
+    "https://taxguru.in/corporate-law/delays-mandatory-admission-strict-timelines-ibc-amendment-act-2026.html",
+    "https://www.crisilratings.com/en/home/newsroom/press-releases/2026/04/ibc-amendment-act-2026-signals-intent-to-expedite-resolutions.html",
+    "https://conventuslaw.com/report/india-vidarbha-the-final-chapter/",
+    "https://www.barandbench.com/view-point/supreme-court-ruling-in-vidarbha-dilution-of-innoventive",
+    "https://thelegalquorum.com/case-summary-vidarbha-industries-power-limited-v-axis-bank-limited/",
+    "https://www.verdictum.in/app-lite/court-updates/supreme-court/power-trust-v-bhuvan-madan-2026insc166-cirp-adjudicating-authority-insolvency-resolution-section-7-1608009",
+    "https://blog.ipleaders.in/cross-border-and-group-insolvency-under-the-ibc-amendment-act-2026/",
+    "https://www.argus-p.com/papers-publications/thought-paper/a-new-era-for-real-estate-insolvency-ibc-amendment-act-2026-and-the-ibbi-discussion-paper/",
+    "https://www.sansalegal.com/post/ibc-amendment-act-2026-key-changes-to-india-s-insolvency-and-bankruptcy-framework",
+    "https://www.icra.in/Rating/DownloadResearchSpecialCommentReport?id=6881",
+    "https://bhattandjoshiassociates.com/timeline-of-the-corporate-insolvency-resolution-process-cirp/"
+  ],
+  "verification_notes": [
+    "Act enactment and commencement: Presidential assent on 6 April 2026 confirmed via TaxGuru and Bar and Bench; commencement notification and the 26 May 2026 in-force date for most provisions confirmed via Crisil Ratings and SanSa Legal, with Argus Partners separately reporting the notification date as 25 May 2026, a minor discrepancy noted in the text as 'around late May 2026' rather than asserted to the day.",
+    "Section 7 admission changes (14-day deadline, omission of the reasons proviso, effectively mandatory admission) confirmed via TaxGuru's dedicated analysis and corroborated by Crisil Ratings' description of mandatory 14-30 day NCLT windows.",
+    "Innoventive, Vidarbha and Power Trust v. Bhuvan Madan: case names, years, and the discretion-then-correction narrative confirmed across Bar and Bench, The Legal Quorum, Verdictum and Conventus Law. Citations (2018) 1 SCC 407 and (2022) 8 SCC 352 confirmed from dedicated citation sources (JSA Prism and law.asia materials; LawSathi and SCC-citing commentary respectively); the 2026 INSC 166 citation for Power Trust v. Bhuvan Madan is taken directly from the Verdictum article URL and headline, a single primary report, and is flagged here as resting on one strong source rather than two independent ones.",
+    "CIIRP design (51 percent threshold, 150-day period extendable by 45 days, Chapter IV-A) confirmed across TaxGuru and the Vision IAS current affairs note. Whether CIIRP is actually usable as of the date of this article is explicitly left unsettled in the text because LiveLaw's report of operationalisation conflicts with iPleaders' description of the chapter as enacted but not notified; both are from 2026 and the conflict could not be resolved from the sources gathered.",
+    "Section 33(1A) restart mechanism (66 percent CoC threshold, one-time use, 120-day window) confirmed via a dedicated search returning consistent description across the sources reviewed; this was the single clearest, least contested provision found in the research for this article.",
+    "Group insolvency (Chapter VA) and cross-border insolvency (Section 240C) being carved out of the May 2026 commencement notification, with no rules yet framed, confirmed via the iPleaders cross-border and group insolvency analysis; this directly contradicts looser commentary elsewhere describing India as having 'adopted' the UNCITRAL Model Law, which the article explicitly flags as inaccurate on the sources reviewed.",
+    "Project-wise resolution for real estate: statutory codification, its 2024 regulatory precursor, and the June 2026 IBBI discussion paper confirmed via Argus Partners and SanSa Legal, both independently describing the same reform.",
+    "No change to Section 29A or to the Section 9 operational creditor framework was found in any source reviewed; this absence is stated in the article as the basis for saying those areas are unchanged, rather than asserting a negative without basis.",
+    "CIRP delay statistics (621-day average, 330-day statutory outer limit, roughly 78 percent of processes past 270 days as of 31 March 2026) confirmed via ICRA's analysis as reported in secondary commentary; the underlying ICRA report itself was not directly retrieved, so the figures are attributed to the secondary source rather than to ICRA's report directly."
+  ]
+}
