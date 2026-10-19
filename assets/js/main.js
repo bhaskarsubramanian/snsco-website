@@ -108,3 +108,13 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
 });
+
+/* NAV: Insights dropdown, click/keyboard toggle (hover is handled in CSS) */
+(function(){
+  var dd = document.querySelector('.nav-dd');
+  if (!dd) return;
+  var btn = dd.querySelector('.dd-toggle');
+  btn.addEventListener('click', function(e){ e.stopPropagation(); var o = dd.classList.toggle('open'); btn.setAttribute('aria-expanded', o ? 'true' : 'false'); });
+  document.addEventListener('click', function(e){ if (!dd.contains(e.target)) { dd.classList.remove('open'); btn.setAttribute('aria-expanded','false'); } });
+  document.addEventListener('keydown', function(e){ if (e.key === 'Escape') { dd.classList.remove('open'); btn.setAttribute('aria-expanded','false'); } });
+})();
