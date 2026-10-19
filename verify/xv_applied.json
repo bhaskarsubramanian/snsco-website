@@ -1,0 +1,525 @@
+{
+ "applied": [
+  {
+   "file": "_drafts/batch2/news/04-century-plyboards-cestat-kolkata-cenvat-credit.json",
+   "find": "order dated 12 October 2026",
+   "reason": "TaxGuru reports the order was pronounced in open court on 09.10.2026; 12 October 2026 is the LiveLaw publication date, not the decision date."
+  },
+  {
+   "file": "_drafts/batch2/news/13-adani-power-tiroda-aptel-merc-coal-shortfall-compensation.json",
+   "find": "APTEL's bench of Officiating Chairperson Justice Seema Gupta and Technical Membe",
+   "reason": "Correcting Bhat's designation to Judicial Member."
+  },
+  {
+   "file": "_drafts/batch2/news/29-hari-dutta-sharma-cholamandalam-vehicle-repossession-sc.json",
+   "find": "On that basis the Court ordered Cholamandalam to close Sharma's loan account and",
+   "reason": "The draft omitted the Rs 10 lakh compensation for mental agony and loss of livelihood and the Rs 50,000 costs the Court actually awarded, and did not state the Rs 4.5 lakh sale price; independent sources (LiveLaw, ThePrint, SupremeToday) confirm all three figures."
+  },
+  {
+   "file": "_drafts/batch3/news/29-odisha-reat-bhawani-construction-penalty-wrong-address-notice.json",
+   "find": "On that basis, the Tribunal set aside ORERA's Rs 7 lakh penalty in full. The ord",
+   "reason": "LiveLawBiz reports the Tribunal held the company is 'legally entitled to be afforded reasonable opportunity of hearing by the learned ORERA,' and the order PDF is itself filed as a 'remit back' document, indicating a remand for a fresh hearing rather than an open-ended quashing as the draft describes."
+  },
+  {
+   "file": "_drafts/batch4/news/03-cci-agro-input-dealers-cartel-boycott-agrostar.json",
+   "find": "CCI penalises two dealer associations and two office bearers for organising a bo",
+   "reason": "CCI held four individuals liable, not two."
+  },
+  {
+   "file": "_drafts/batch4/news/03-cci-agro-input-dealers-cartel-boycott-agrostar.json",
+   "find": "the CCI imposed monetary penalties on the Agro Input Dealers Association, the Ag",
+   "reason": "CCI held four individuals liable (per LiveLawBiz's report), not two."
+  },
+  {
+   "file": "_drafts/batch4/news/03-cci-agro-input-dealers-cartel-boycott-agrostar.json",
+   "find": "CCI penalises two agro-input dealer associations and two office bearers for orga",
+   "reason": "CCI held four individuals liable, not two."
+  },
+  {
+   "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+   "find": "KEPL did not accept that outcome quietly. It asked the same court to reconsider,",
+   "reason": "The 28 September ruling was a Division Bench dismissing a Section 37 appeal, not the same court declining to reconsider its own order."
+  },
+  {
+   "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+   "find": "Its exchange filing says it believes it has a strong case and is taking further ",
+   "reason": "The Section 37 appeal had already been heard and dismissed by the Division Bench on 28 September 2026, so KEPL's next available step would be an SLP to the Supreme Court, not a fresh Section 37 appeal."
+  },
+  {
+   "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+   "find": "and once a High Court takes that view at the Section 34 stage, a second attempt ",
+   "reason": "Clarifying that the second round was an appellate review by a Division Bench, not a reconsideration by the same bench."
+  },
+  {
+   "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+   "find": "A Section 37 appeal, if KEPL files one, would go to a Division Bench and would h",
+   "reason": "The draft incorrectly framed the Section 37 appeal as a hypothetical future step, when the 28 September 2026 Division Bench ruling already was that appeal."
+  },
+  {
+   "file": "_drafts/batch4/news/25-delhi-hc-ozone-spa-co-incept-execution-pecuniary-jurisdiction.json",
+   "find": "On the specific objection about Sections 38 and 39 of the CPC, the court held th",
+   "reason": "Multiple independent sources (Bar and Bench, LiveLawBiz, and the judgment itself on Indian Kanoon) show the court's holding on which CPC provisions apply to commercial decrees cited Sections 37 and 38, not Sections 38 and 39."
+  },
+  {
+   "file": "_drafts/batch2/blog/01-section-11-foreign-seat-arbitration-guide.json",
+   "find": "going back to the Constitution Bench ruling in Bharat Aluminium Co. v. Kaiser Al",
+   "reason": "Hardy Exploration is misdescribed as refining/supporting the BALCO seat-venue test; it actually reached the opposite result and was later held per incuriam in BGS SGS Soma JV v NHPC for misapplying BALCO."
+  },
+  {
+   "file": "_drafts/batch2/blog/02-sarfaesi-redemption-right-cutoff-guide.json",
+   "find": "Where an auction notice has already been published and the borrower missed that ",
+   "reason": "Adds the on-point 2025 Supreme Court decision reaffirming Celir LLP, which exists and was missed."
+  },
+  {
+   "file": "_drafts/batch2/blog/05-fssai-front-of-pack-warning-labels-guide.json",
+   "find": "In proceedings in 35 And Our Health Society v. Union of India, the Supreme Court",
+   "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
+  },
+  {
+   "file": "_drafts/batch2/blog/05-fssai-front-of-pack-warning-labels-guide.json",
+   "find": "the FSSAI regulatory process and the Supreme Court proceedings in 35 And Our Hea",
+   "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
+  },
+  {
+   "file": "_drafts/batch2/blog/07-standard-essential-patent-frand-dispute-guide.json",
+   "find": "The current reported status of that challenge was not confirmed at the time this",
+   "reason": "Updates an outdated 'status not confirmed' statement with the now-available, single-sourced but specific procedural update (SLP admitted, status quo order of 8 July 2026)."
+  },
+  {
+   "file": "_drafts/batch2/blog/13-part-performance-section-53a-guide.json",
+   "find": "Specific Relief Act, 1963, Sections 10 and 20",
+   "reason": "Section 20 was substituted by the Specific Relief (Amendment) Act, 2018 and now deals with a creditor's right to substituted performance, not with specific performance guidelines; it no longer supports the specific-performance discussion in this guide. Section 16 (personal bars, including readiness and willingness to perform) is the current provision relevant to that discussion."
+  },
+  {
+   "file": "_drafts/batch2/blog/14-land-acquisition-section-24-2-lapse-guide.json",
+   "find": "a 2024 Supreme Court order in State of Haryana v. Aalamgir",
+   "reason": "State of Haryana v. Aalamgir was decided on 18 March 2025, not in 2024."
+  },
+  {
+   "file": "_drafts/batch2/blog/14-land-acquisition-section-24-2-lapse-guide.json",
+   "find": "State of Haryana v. Aalamgir, 2024 INSC 407",
+   "reason": "The correct neutral citation for this judgment, decided 18 March 2025, is 2025 INSC 407."
+  },
+  {
+   "file": "_drafts/batch2/blog/17-advocates-consumer-protection-act-guide.json",
+   "find": "Until that larger bench actually decides the question, Indian Medical Associatio",
+   "reason": "The question was not left open for a larger bench to decide later; a three-judge bench already declined to revisit V.P. Shantha on 7 November 2024, so the position is settled rather than pending."
+  },
+  {
+   "file": "_drafts/batch2/blog/17-advocates-consumer-protection-act-guide.json",
+   "find": "Anyone advising a client in either field should track whether and how the larger",
+   "reason": "Same outdated 'pending larger bench' framing; the larger bench already ruled on 7 November 2024."
+  },
+  {
+   "file": "_drafts/batch2/blog/17-advocates-consumer-protection-act-guide.json",
+   "find": "No, not yet. The Court expressed doubt about the correctness of the earlier ruli",
+   "reason": "FAQ answer repeats the outdated 'not yet decided' framing; the larger bench already declined to revisit the ruling on 7 November 2024."
+  },
+  {
+   "file": "_drafts/batch2/blog/20-attachment-before-judgment-order-38-rule-5-guide.json",
+   "find": "holding that an attachment before judgment under Order XXXVIII Rule 5 cannot be ",
+   "reason": "In L.K. Prabhu, the sale deed was executed before the suit was even filed, not merely before the attachment order; the guide's broader framing ('before the attachment') overstates the protection to cover post-suit, pre-attachment transfers that the ruling did not address."
+  },
+  {
+   "file": "_drafts/batch2/blog/20-attachment-before-judgment-order-38-rule-5-guide.json",
+   "find": "Generally no, if the third party acquired the property bona fide and independent",
+   "reason": "Same overstatement in the FAQ answer: the ruling protects a pre-suit transfer specifically, not any transfer that predates the attachment order."
+  },
+  {
+   "file": "_drafts/batch2/blog/28-drb-vs-arbitration-ppp-epc-guide.json",
+   "find": "This is not a merely technical point that tribunals wave through: Indian courts ",
+   "reason": "The original sentence overstates Indian courts as 'generally' requiring strict compliance, when the case law is actually split between mandatory and directory treatment of pre-arbitral steps."
+  },
+  {
+   "file": "_drafts/batch2/blog/29-trademark-infringement-interim-injunction-guide.json",
+   "find": "In a 2024 Delhi High Court order in a dispute between the marks MAHINDRA ZEO and",
+   "reason": "The ruling (Gensol Electric Vehicles v. Mahindra) was passed on 13 January 2025, not in 2024; only the underlying suit carries a 2024 case number."
+  },
+  {
+   "file": "_drafts/batch2/blog/31-mining-royalty-revision-mid-lease-guide.json",
+   "find": "which the Central Government can revise under Section 9(3), subject to its own c",
+   "reason": "The 20% pit's-head cap was deleted in 1972 and the enhancement-frequency limit was shortened from four to three years in 1986; current law allows enhancement once every three years with no percentage cap."
+  },
+  {
+   "file": "_drafts/batch2/blog/31-mining-royalty-revision-mid-lease-guide.json",
+   "find": "A lessee negotiating a major mineral lease should treat the twenty per cent and ",
+   "reason": "Removes the incorrect 20% ceiling and corrects four years to three years, consistent with the corrected main text."
+  },
+  {
+   "file": "_drafts/batch2/blog/31-mining-royalty-revision-mid-lease-guide.json",
+   "find": "The mechanism differs. Major mineral royalty is fixed by the Second Schedule to ",
+   "reason": "Same correction applied to the FAQ answer."
+  },
+  {
+   "file": "_drafts/batch3/blog/02-personal-guarantor-ibc-pre-admission-hearing-guide.json",
+   "find": "and what the Supreme Court held on this in Jiwrajika.",
+   "reason": "Correct spelling of the case name (Jiwrajka, not Jiwrajika)."
+  },
+  {
+   "file": "_drafts/batch3/blog/02-personal-guarantor-ibc-pre-admission-hearing-guide.json",
+   "find": "The Supreme Court closed that argument on 9 November 2023 in Surendra B. Jiwraji",
+   "reason": "The holding described belongs to Dilip B. Jiwrajka v. Union of India, not to Surendra B. Jiwrajika v. Omkara Assets Reconstruction, which was a separate connected SLP disposed of by following the Dilip B. Jiwrajka judgment; also removed the unverified '384 petitions' figure."
+  },
+  {
+   "file": "_drafts/batch3/blog/02-personal-guarantor-ibc-pre-admission-hearing-guide.json",
+   "find": "The Supreme Court in Jiwrajika held that no adjudicatory hearing is required",
+   "reason": "Correct spelling of the case name."
+  },
+  {
+   "file": "_drafts/batch3/blog/02-personal-guarantor-ibc-pre-admission-hearing-guide.json",
+   "find": "Surendra B. Jiwrajika and Another v. Omkara Assets Reconstruction Private Limite",
+   "reason": "Correct case name and citation for the holding described in this guide."
+  },
+  {
+   "file": "_drafts/batch3/blog/13-amendment-plaint-after-limitation-order-vi-rule-17-guide.json",
+   "find": "decided by Justices R.V. Raveendran and P. Sathasivam,",
+   "reason": "The judgment text (Indian Kanoon, LawWeb) shows the Revajeetu Builders bench was Dalveer Bhandari and Harjit Singh Bedi JJ, not Raveendran and Sathasivam."
+  },
+  {
+   "file": "_drafts/batch3/blog/14-possession-undertaking-consumer-claim-survives-guide.json",
+   "find": "Justices D.Y. Chandrachud and M.M. Sundresh,",
+   "reason": "Multiple independent sources (advocatekhoj, LawSathi, the official Supreme Court judgment PDF) confirm the Samruddhi bench was Chandrachud and Bopanna JJ, not Chandrachud and Sundresh."
+  },
+  {
+   "file": "_drafts/batch3/blog/17-second-wife-maintenance-undissolved-first-marriage-guide.json",
+   "find": "held that a woman can claim maintenance from her second husband under the mainte",
+   "reason": "Sources confirm the undissolved earlier marriage in N. Usha Rani was the claimant woman's own first marriage (ended only by an MoU, not a divorce decree), not the husband's prior marriage; the draft hedged between the two possibilities instead of stating the confirmed fact."
+  },
+  {
+   "file": "_drafts/batch3/blog/19-interim-finance-cirp-super-priority-guide.json",
+   "find": "and, following the 2025 amendments, this now extends to the pre-packaged insolve",
+   "reason": "The extension of the Section 5(15) interim finance definition to the pre-packaged insolvency resolution process was made by the 2021 Ordinance/Amendment Act (effective 4 April 2021), not by any 2025 amendment."
+  },
+  {
+   "file": "_drafts/batch3/blog/19-interim-finance-cirp-super-priority-guide.json",
+   "find": "Insolvency and Bankruptcy Code (Amendment), 2025 (extension of interim finance t",
+   "reason": "Same date correction applied to the references list entry."
+  },
+  {
+   "file": "_drafts/batch3/blog/23-patent-form-27-working-statement-guide.json",
+   "find": "For patents granted on or before 31 March 2023, the working period under the new",
+   "reason": "The Patent Office's own FAQ ties the first triennial block to whether a patent was already granted and in force before the 15 March 2024 commencement date, not to a 31 March 2023 grant cutoff; the guide's specific cutoff date is an unsupported simplification."
+  },
+  {
+   "file": "_drafts/batch3/blog/24-liquidated-damages-public-infrastructure-contract-guide.json",
+   "find": "and the law on this point moved significantly in 2024 and 2025.",
+   "reason": "The key public-utility presumed-loss ruling discussed later in the guide was decided on 30 January 2026, not in 2024 or 2025."
+  },
+  {
+   "file": "_drafts/batch3/blog/24-liquidated-damages-public-infrastructure-contract-guide.json",
+   "find": "The Supreme Court has held, in a ruling involving NTPC Vidyut Vyapar Nigam Ltd, ",
+   "reason": "Adds the missing citation and date for the central ruling this section discusses, confirmed via verdictum.in and lekhanews.in."
+  },
+  {
+   "file": "_drafts/batch3/blog/24-liquidated-damages-public-infrastructure-contract-guide.json",
+   "find": "NTPC Vidyut Vyapar Nigam Ltd related ruling on presumed loss in public utility p",
+   "reason": "Reference list should carry the actual case name and citation rather than leaving it unnamed and undated."
+  },
+  {
+   "file": "_drafts/batch3/blog/26-ppvfr-farmers-privilege-pepsico-potato-guide.json",
+   "find": "The Delhi High Court upheld that revocation in 2023, and PepsiCo carried the mat",
+   "reason": "The guide omits the January 2024 Division Bench reversal and wrongly states PepsiCo was the party appealing to the Supreme Court; it was the activist challenging a ruling already in PepsiCo's favour."
+  },
+  {
+   "file": "_drafts/batch3/blog/26-ppvfr-farmers-privilege-pepsico-potato-guide.json",
+   "find": "In August 2026, the Supreme Court declined to let the revocation stand on the gr",
+   "reason": "Corrects the same reversed procedural posture: the Supreme Court was reviewing the activist's challenge to a ruling already favourable to PepsiCo, not restoring PepsiCo from an adverse position."
+  },
+  {
+   "file": "_drafts/batch3/blog/26-ppvfr-farmers-privilege-pepsico-potato-guide.json",
+   "find": "The ruling restored PepsiCo's registration on the specific ground argued, but it",
+   "reason": "Same correction applied to the FAQ answer."
+  },
+  {
+   "file": "_drafts/batch3/blog/26-ppvfr-farmers-privilege-pepsico-potato-guide.json",
+   "find": "Delhi High Court ruling (2023) upholding the Protection of Plant Varieties and F",
+   "reason": "The reference list should reflect both Delhi HC rulings, not only the superseded single-judge one."
+  },
+  {
+   "file": "_drafts/batch3/blog/28-probate-no-longer-mandatory-section-213-guide.json",
+   "find": "A Kerala High Court judgment dealing with a will executed before the 2025 amendm",
+   "reason": "The guide asserted a specific holding (probate still mandatory) that available sources do not confirm; the case exists and raises the question, but its resolution of that question is not established."
+  },
+  {
+   "file": "_drafts/batch3/blog/28-probate-no-longer-mandatory-section-213-guide.json",
+   "find": "A Kerala High Court ruling continued to require probate for a pre-amendment will",
+   "reason": "Same correction applied to the FAQ answer."
+  },
+  {
+   "file": "_drafts/batch3/blog/28-probate-no-longer-mandatory-section-213-guide.json",
+   "find": "Kerala High Court ruling continuing to apply the probate requirement to a will e",
+   "reason": "The reference list should not assert a specific holding the available record does not confirm."
+  },
+  {
+   "file": "_drafts/batch4/blog/01-garnishee-order-bank-defences-inoperative-account-guide.json",
+   "find": "SBI's response was that the account had carried a nil balance since December 202",
+   "reason": "The 'nil balance since December 2020' detail is not supported for the Murgasol branch/Eastern Division Projects Engineers Cooperative Society matter this guide describes; that specific fact traces instead to a separate, related Calcutta HC matter involving SBI's Durgapur C-Zone branch, and attributing it here appears to be a conflation of two distinct cases."
+  },
+  {
+   "file": "_drafts/batch4/blog/04-minimum-public-shareholding-non-compliance-guide.json",
+   "find": "Those consequences include freezing of promoter shareholding and voting rights i",
+   "reason": "SEBI's governing circular directs a freeze of the entire promoter and promoter group shareholding in the non-compliant entity, not a proportional freeze limited to the excess over 25 percent public float."
+  },
+  {
+   "file": "_drafts/batch4/blog/04-minimum-public-shareholding-non-compliance-guide.json",
+   "find": "The portion of promoter shareholding in excess of what the 25 percent public flo",
+   "reason": "Same correction as above, applied to the FAQ answer: the freeze under SEBI's framework covers the entire promoter and promoter group shareholding, not just the excess over the threshold."
+  },
+  {
+   "file": "_drafts/batch4/blog/05-esi-contribution-contract-workers-principal-employer-guide.json",
+   "find": "Not necessarily. The ESI Corporation can proceed against the principal employer ",
+   "reason": "The blanket statement that registration status is irrelevant to Section 40 liability overstates the law; a Karnataka High Court ruling on the same ESI provisions reached the contrary result where the immediate employer was itself compliant, and the guide should disclose that split rather than present Height Insurance Services as a uniform rule."
+  },
+  {
+   "file": "_drafts/batch4/blog/14-sale-deed-fraud-limitation-knowledge-guide.json",
+   "find": "Mallavva v. Kalsammanavara Kalamma, Supreme Court, 2024 (three-year period under",
+   "reason": "The draft attributes the opposite holding to this case. Mallavva actually holds Article 65 (12 years) applies in a declaration-of-title suit with consequential possession relief, not Article 59 (3 years). Confirmed by casemine.com and indianlawlive.net commentary on the judgment."
+  },
+  {
+   "file": "_drafts/batch4/blog/16-sarfaesi-agricultural-land-exemption-guide.json",
+   "find": "That appeal must ordinarily be filed within thirty days of the order being chall",
+   "reason": "Section 18's second proviso sets the standard deposit at 50% of the debt due, reducible only at DRAT's discretion (for written reasons) to not below 25%. The draft incorrectly stated the standard requirement itself as 25%."
+  },
+  {
+   "file": "_drafts/batch4/blog/29-deemed-distribution-licensee-twin-test-guide.json",
+   "find": "and dismissed the appeals, directing that outstanding cross-subsidy and addition",
+   "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
+  }
+ ],
+ "unmatched": [
+  {
+   "file": "_drafts/batch2/news/04-century-plyboards-cestat-kolkata-cenvat-credit.json",
+   "find": "\"decision_date\": \"2026-10-12\",",
+   "matches": 0,
+   "reason": "Correcting decision date to match the order pronouncement date of 9 October 2026."
+  },
+  {
+   "file": "_drafts/batch2/news/04-century-plyboards-cestat-kolkata-cenvat-credit.json",
+   "find": "the underlying order PDF uploaded by LiveLawBiz, dated 12 October 2026.",
+   "matches": 0,
+   "reason": "Correcting decision date in verification notes."
+  },
+  {
+   "file": "_drafts/batch2/news/05-raisa-khan-madarsa-teacher-gratuity-allahabad-hc.json",
+   "find": "\"decision_date\": \"2026-10-01\",",
+   "matches": 0,
+   "reason": "LiveLaw and CourtKutchehry both report the judgment was delivered on 30 September 2026, not 1 October 2026."
+  },
+  {
+   "file": "_drafts/batch2/news/05-raisa-khan-madarsa-teacher-gratuity-allahabad-hc.json",
+   "find": "the decision date is recorded as on or about 1 October 2026 based on the case citation numbering and",
+   "matches": 0,
+   "reason": "Correcting the approximated decision date with the confirmed date."
+  },
+  {
+   "file": "_drafts/batch2/news/13-adani-power-tiroda-aptel-merc-coal-shortfall-compensation.json",
+   "find": "\"bench\": \"Officiating Chairperson Justice Seema Gupta and Technical Member Virender Bhat\",",
+   "matches": 0,
+   "reason": "Virender Bhat is APTEL's Judicial Member, not Technical Member, per APTEL's own notifications."
+  },
+  {
+   "file": "_drafts/batch2/news/13-adani-power-tiroda-aptel-merc-coal-shortfall-compensation.json",
+   "find": "the bench (Officiating Chairperson Justice Seema Gupta and Technical Member Virender Bhat), the unde",
+   "matches": 0,
+   "reason": "Correcting Bhat's designation to Judicial Member."
+  },
+  {
+   "file": "_drafts/batch2/news/18-karnataka-hc-acc-mining-lease-penalty-quashed.json",
+   "find": "\"case_name\": \"ACC Limited v. State of Karnataka and Others\",",
+   "matches": 0,
+   "reason": "Multiple independent reports and the case PDF list the respondent as Union of India, not State of Karnataka (lead matter: Writ Petition No. 25298 of 2024)."
+  },
+  {
+   "file": "_drafts/batch2/news/18-karnataka-hc-acc-mining-lease-penalty-quashed.json",
+   "find": "\"bench\": \"Not confirmed in available reports\",",
+   "matches": 0,
+   "reason": "Bench identity now confirmed by Bar & Bench and LiveLawBiz reporting."
+  },
+  {
+   "file": "_drafts/batch2/news/18-karnataka-hc-acc-mining-lease-penalty-quashed.json",
+   "find": "The name of the bench was not confirmed from the available secondary reports and has accordingly bee",
+   "matches": 0,
+   "reason": "Updating verification notes to reflect confirmed bench and correct case caption."
+  },
+  {
+   "file": "_drafts/batch2/news/29-hari-dutta-sharma-cholamandalam-vehicle-repossession-sc.json",
+   "find": "\"card_summary\": \"SC holds a financier's night-time, no-notice repossession of a hypothecated truck v",
+   "matches": 0,
+   "reason": "The card summary omitted the Rs 10 lakh compensation for mental agony and loss of livelihood that the Court awarded, confirmed by independent sources."
+  },
+  {
+   "file": "_drafts/batch2/news/29-hari-dutta-sharma-cholamandalam-vehicle-repossession-sc.json",
+   "find": "the loan-closure and refund-with-interest direction, and the direction to RBI to enforce compliance ",
+   "matches": 0,
+   "reason": "Updating verification notes to record the compensation and costs figures confirmed by independent re-verification, which the original draft omitted."
+  },
+  {
+   "file": "_drafts/batch3/news/19-sat-omaxe-sebi-round-tripping-dismissed.json",
+   "find": "\"bench\": \"Securities Appellate Tribunal, Mumbai (bench composition not specified in the reporting re",
+   "matches": 0,
+   "reason": "LiveLaw Biz reports this bench composition, independently corroborated by Bar & Bench's report confirming these are SAT's three sitting members."
+  },
+  {
+   "file": "_drafts/batch3/news/19-sat-omaxe-sebi-round-tripping-dismissed.json",
+   "find": "The tribunal's bench composition was not stated in any source reviewed.",
+   "matches": 0,
+   "reason": "Correcting the verification notes to reflect the now-confirmed bench composition."
+  },
+  {
+   "file": "_drafts/batch3/news/29-odisha-reat-bhawani-construction-penalty-wrong-address-notice.json",
+   "find": "\"bench\": \"Odisha REAT (coram not specified in reporting reviewed)\",",
+   "matches": 0,
+   "reason": "LiveLawBiz reporting identifies the coram as Justice P. Patnaik (Chairperson), S.K. Rajguru and Dr. B.K. Das."
+  },
+  {
+   "file": "_drafts/batch3/news/29-odisha-reat-bhawani-construction-penalty-wrong-address-notice.json",
+   "find": "a second, fully independent outlet's coverage of this specific appeal was not located, though the tr",
+   "matches": 0,
+   "reason": "Updating verification notes to record the confirmed coram and remand disposition."
+  },
+  {
+   "file": "_drafts/batch4/news/02-shabu-achary-dharampal-premchand-sc-cross-examination.json",
+   "find": "\"bench\": \"Not confirmed in sources reviewed\",",
+   "matches": 0,
+   "reason": "Bench composition independently confirmed via the official SC order (api.sci.gov.in) and supremecourtcases.com; citation is 2026 INSC 819."
+  },
+  {
+   "file": "_drafts/batch4/news/02-shabu-achary-dharampal-premchand-sc-cross-examination.json",
+   "find": "The names of the judges on the bench were not clearly stated in the sources reviewed and are therefo",
+   "matches": 0,
+   "reason": "Update verification notes to reflect the now-confirmed bench composition."
+  },
+  {
+   "file": "_drafts/batch4/news/03-cci-agro-input-dealers-cartel-boycott-agrostar.json",
+   "find": "the parties penalised (Agro Input Dealers Association, Agro Input Welfare Association, Manmohan C. K",
+   "matches": 0,
+   "reason": "Update verification notes to list all four penalised individuals, not two."
+  },
+  {
+   "file": "_drafts/batch4/news/05-allahabad-hc-tushar-agrawal-specific-performance-mandatory.json",
+   "find": "\"bench\": \"Not confirmed in sources reviewed\",\n  \"case_name\": \"Tushar Agrawal v. Ganesh Prasad\",",
+   "matches": 0,
+   "reason": "Judge independently confirmed as Justice Sandeep Jain by two sources (LiveLaw, Verdictum)."
+  },
+  {
+   "file": "_drafts/batch4/news/05-allahabad-hc-tushar-agrawal-specific-performance-mandatory.json",
+   "find": "the panel of judges was not confirmed in the sources reviewed.",
+   "matches": 0,
+   "reason": "Update verification notes to reflect confirmed bench."
+  },
+  {
+   "file": "_drafts/batch4/news/06-nclat-raja-udyog-insolvency-threshold-loknath-gupta.json",
+   "find": "\"bench\": \"Not confirmed in sources reviewed\",\n  \"case_name\": \"Loknath Prasad Gupta v. Dinesh Chand &",
+   "matches": 0,
+   "reason": "Bench independently confirmed by two sources."
+  },
+  {
+   "file": "_drafts/batch4/news/06-nclat-raja-udyog-insolvency-threshold-loknath-gupta.json",
+   "find": "this article states only the NCLAT's own order date, reported as 25 August 2026, and omits the dispu",
+   "matches": 0,
+   "reason": "Update verification notes to reflect confirmed bench."
+  },
+  {
+   "file": "_drafts/batch4/news/13-calcutta-hc-funidea-projects-ghosh-order-ii-rule-2-3.json",
+   "find": "\"citation\": \"Division Bench ruling reported 14 October 2026; exact neutral citation not independentl",
+   "matches": 0,
+   "reason": "Law Street reports the judgment was delivered on 7 October 2026; 14 October 2026 is only the date the article was published, not the decision date."
+  },
+  {
+   "file": "_drafts/batch4/news/13-calcutta-hc-funidea-projects-ghosh-order-ii-rule-2-3.json",
+   "find": "\"decision_date\": \"2026-10-14\",",
+   "matches": 0,
+   "reason": "Correcting decision date to the confirmed delivery date of 7 October 2026."
+  },
+  {
+   "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+   "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Paym",
+   "matches": 0,
+   "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
+  },
+  {
+   "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+   "find": "\"bench\": \"Bench composition not confirmed in available reporting\",",
+   "matches": 0,
+   "reason": "Both benches are now independently confirmed by SupremeToday.ai and LiveLawBiz reporting."
+  },
+  {
+   "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+   "find": "\"citation\": \"2026:DHC:5961 (as reported); order dated 28 September 2026 declining to disturb the ord",
+   "matches": 0,
+   "reason": "Verdictum's report ties 2026:DHC:5961 specifically to the single-judge order, not the later Division Bench order."
+  },
+  {
+   "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+   "find": "The exact bench (judge's name) was not confirmed in the reporting reviewed and is left out rather th",
+   "matches": 0,
+   "reason": "Updating verification notes to reflect the confirmed bench and corrected procedural posture."
+  },
+  {
+   "file": "_drafts/batch4/news/17-sc-kk-praveen-jm-financial-arc-sarfaesi-drt-decree.json",
+   "find": "\"citation\": \"Order dated 9 September 2026 (SLP admission stage; petition number not confirmed in ava",
+   "matches": 0,
+   "reason": "Independent sources (SupremeToday.ai) identify the case as W.P. (Civil) No. 1091/2026, a writ petition, not an SLP, and the petition number is confirmed, contrary to the draft's claim that it was unconfirmed."
+  },
+  {
+   "file": "_drafts/batch4/news/21-cestat-pmi-electro-mobility-customs-duty-exemption.json",
+   "find": "\"bench\": \"Bench composition not confirmed in available reporting\",",
+   "matches": 0,
+   "reason": "JurisHour's reporting identifies the CESTAT bench as Dr. Rachna Gupta (Officiating President) and Hemambika R. Priya (Technical Member)."
+  },
+  {
+   "file": "_drafts/batch4/news/29-meghalaya-hc-jorabat-shillong-expressway-gst-writ-maintainability.json",
+   "find": "\"bench\": \"Not independently confirmed in available reporting\",",
+   "matches": 0,
+   "reason": "Two independent sources (Fox Mandal law firm commentary and LiveLawBiz) identify the Division Bench as Justices H.S. Thangkhiew and B. Bhattacharjee."
+  },
+  {
+   "file": "_drafts/batch4/news/29-meghalaya-hc-jorabat-shillong-expressway-gst-writ-maintainability.json",
+   "find": "The bench could not be identified from the reporting reviewed and is left unstated. ",
+   "matches": 0,
+   "reason": "The bench (Justices H.S. Thangkhiew and B. Bhattacharjee) is confirmable from independent sources, so this hedge is no longer accurate once the bench field is corrected."
+  },
+  {
+   "file": "_drafts/batch2/blog/02-sarfaesi-redemption-right-cutoff-guide.json",
+   "find": "No 2024-2026 Supreme Court or High Court decision applying or refining Celir LLP could be confirmed ",
+   "matches": 0,
+   "reason": "Corrects the verification note's inaccurate claim that no later confirming decision exists."
+  },
+  {
+   "file": "_drafts/batch2/blog/05-fssai-front-of-pack-warning-labels-guide.json",
+   "find": "\"35 And Our Health Society v. Union of India, Supreme Court of India, order dated 10 February 2026\"",
+   "matches": 0,
+   "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
+  },
+  {
+   "file": "_drafts/batch2/blog/05-fssai-front-of-pack-warning-labels-guide.json",
+   "find": "\"35 And Our Health Society v. Union of India, Supreme Court of India, hearing of 28 September 2026 (",
+   "matches": 0,
+   "reason": "Petitioner's name is '3S and Our Health Society', not '35 And Our Health Society'."
+  },
+  {
+   "file": "_drafts/batch2/blog/22-consumer-complaint-jurisdiction-limitation-guide.json",
+   "find": "    \"Punjab Urban Planning and Development Authority v. Kanwaljit Singh, First Appeal No. 581 of 202",
+   "matches": 0,
+   "reason": "Citation does not verify: no First Appeal No. 581 of 2023 on this point exists between these parties; the only real case with these names is an unrelated 2018 Supreme Court plot-possession ruling."
+  },
+  {
+   "file": "_drafts/batch2/blog/22-consumer-complaint-jurisdiction-limitation-guide.json",
+   "find": "(Punjab Urban Planning and Development Authority v. Kanwaljit Singh and Rawal Acids v. United India ",
+   "matches": 0,
+   "reason": "Align verification notes with the removal of the unverifiable citation."
+  },
+  {
+   "file": "_drafts/batch2/blog/31-mining-royalty-revision-mid-lease-guide.json",
+   "find": "    \"Mines and Minerals (Development and Regulation) Act, 1957, Sections 9, 9(1), 9(3), 9A, 15(1), 1",
+   "matches": 0,
+   "reason": "Flags that the Section 9(3) proviso cited is the post-1986 version, not the earlier four-year/20%-cap text."
+  },
+  {
+   "file": "_drafts/batch4/blog/16-sarfaesi-agricultural-land-exemption-guide.json",
+   "find": "the exact deposit percentage (not less than twenty-five percent) is stated based on the statutory te",
+   "matches": 0,
+   "reason": "Corrects the same error in the verification notes to match the statutory text."
+  }
+ ]
+}

@@ -19,13 +19,13 @@
       "heading": "How the PepsiCo dispute actually unfolded",
       "paragraphs": [
         "PepsiCo India held registration for the FL 2027 potato variety, grown under contract for its Lay's potato chip supply chain, and in 2018 and 2019 it filed infringement suits against at least nine farmers in Gujarat alleging unauthorised cultivation of the registered variety. The suits drew sharp public criticism, including from farmer advocacy groups, and PepsiCo withdrew all of them within months rather than pursue the litigation to judgment.",
-        "The registration itself did not disappear from the picture after the suits were withdrawn. An application seeking revocation of the FL 2027 registration, brought on grounds connected to the earlier farmer litigation and to how the variety had been registered, led the Protection of Plant Varieties and Farmers' Rights Authority to revoke the registration in 2021. The Delhi High Court upheld that revocation in 2023, and PepsiCo carried the matter to the Supreme Court."
+        "The registration itself did not disappear from the picture after the suits were withdrawn. An application seeking revocation of the FL 2027 registration, brought on grounds connected to the earlier farmer litigation and to how the variety had been registered, led the Protection of Plant Varieties and Farmers' Rights Authority to revoke the registration in 2021. A single judge of the Delhi High Court upheld that revocation in July 2023, but a Division Bench of the High Court set aside the revocation in January 2024, restoring PepsiCo's registration and rejecting Kavitha Kuruganti's public interest argument. It was Kuruganti, the activist who had sought the revocation, not PepsiCo, who then carried the matter to the Supreme Court."
       ]
     },
     {
       "heading": "What the Supreme Court actually decided in 2026",
       "paragraphs": [
-        "In August 2026, the Supreme Court declined to let the revocation stand on the ground argued by the party challenging the registration, restoring PepsiCo's position with respect to the FL 2027 registration itself, while making clear that this did not leave farmers without protection going forward. The Court held that an individual farmer sued for infringement by the registration holder can still invoke Section 39(1)(iv) as a defence in that infringement proceeding, provided the farmer can show the facts bring the conduct within the privilege, such as genuinely saved or exchanged seed rather than branded commercial distribution.",
+        "In August 2026, the Supreme Court dismissed Kavitha Kuruganti's appeal against the Delhi High Court Division Bench's 2024 ruling, declining to revive the revocation on the public interest ground she argued and leaving PepsiCo's FL 2027 registration as the Division Bench had already restored it, while making clear that this did not leave farmers without protection going forward. The Court held that an individual farmer sued for infringement by the registration holder can still invoke Section 39(1)(iv) as a defence in that infringement proceeding, provided the farmer can show the facts bring the conduct within the privilege, such as genuinely saved or exchanged seed rather than branded commercial distribution.",
         "The ruling drew criticism from the activist who had brought the revocation petition, who argued that the outcome now requires each individual farmer to prove entitlement to the privilege in the course of defending an infringement suit, rather than treating a pattern of suits against farmers as itself a public interest ground to cancel the registration under Section 34(h) of the Act. That criticism captures the practical asymmetry at the centre of this entire area: a large seed or food company can fund protracted litigation far more easily than an individual farmer can fund a defence, even where the farmer is likely to succeed on the merits of the Section 39(1)(iv) privilege itself."
       ]
     },
@@ -51,7 +51,7 @@
     },
     {
       "q": "Does the Supreme Court's 2026 ruling mean PepsiCo can now sue any farmer growing its potato variety?",
-      "a": "The ruling restored PepsiCo's registration on the specific ground argued, but it also confirmed that an individual farmer sued for infringement can still raise the Section 39(1)(iv) privilege as a defence, provided the facts support it. It does not mean every farmer growing the variety is automatically liable; it means the privilege has to be established in each case rather than relied on to block the registration itself."
+      "a": "The ruling left PepsiCo's registration as the Delhi High Court Division Bench had already restored it in January 2024, declining the activist's further challenge on the public interest ground argued, but it also confirmed that an individual farmer sued for infringement can still raise the Section 39(1)(iv) privilege as a defence, provided the facts support it. It does not mean every farmer growing the variety is automatically liable; it means the privilege has to be established in each case rather than relied on to block the registration itself."
     },
     {
       "q": "What exactly makes seed 'branded' and therefore outside the farmers' privilege?",
@@ -65,7 +65,7 @@
   "references": [
     "Protection of Plant Varieties and Farmers' Rights Act, 2001, Section 39(1)(iv) (farmers' privilege) and Section 34(h) (revocation on public interest grounds)",
     "Supreme Court ruling in the PepsiCo India FL 2027 potato variety registration dispute, decided August 2026",
-    "Delhi High Court ruling (2023) upholding the Protection of Plant Varieties and Farmers' Rights Authority's 2021 revocation of the FL 2027 registration"
+    "Delhi High Court rulings: a single judge upholding the Protection of Plant Varieties and Farmers' Rights Authority's 2021 revocation of the FL 2027 registration in July 2023, and a Division Bench setting that revocation aside in January 2024"
   ],
   "sources": [
     "https://www.downtoearth.org.in/agriculture/sc-upholds-pepsicos-potato-variety-registration-says-sued-farmers-can-invoke-statutory-protection",

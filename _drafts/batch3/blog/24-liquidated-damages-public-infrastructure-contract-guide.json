@@ -4,7 +4,7 @@
   "meta_description": "How Section 74 of the Contract Act applies to liquidated damages in government infrastructure contracts, and what recent court rulings decided.",
   "practice_area": "Infrastructure & PPP",
   "intro": [
-    "Almost every EPC and construction contract on a public infrastructure project carries a liquidated damages clause for delay, usually expressed as a percentage of contract value per week of delay up to a stated cap. When the project actually runs late and the employer tries to deduct those damages, the contractor's first instinct is to demand proof of actual loss, on the theory that Section 74 of the Indian Contract Act only permits reasonable compensation, not an automatic windfall. Whether that argument succeeds now depends heavily on whether the project counts as a public utility or public interest contract, and the law on this point moved significantly in 2024 and 2025.",
+    "Almost every EPC and construction contract on a public infrastructure project carries a liquidated damages clause for delay, usually expressed as a percentage of contract value per week of delay up to a stated cap. When the project actually runs late and the employer tries to deduct those damages, the contractor's first instinct is to demand proof of actual loss, on the theory that Section 74 of the Indian Contract Act only permits reasonable compensation, not an automatic windfall. Whether that argument succeeds now depends heavily on whether the project counts as a public utility or public interest contract, and the law on this point moved significantly in 2024, 2025 and into early 2026.",
     "This guide sets out the current, somewhat unsettled state of the law on proof of loss for liquidated damages in government infrastructure contracts, and what a contractor and an employer should each be building into their case."
   ],
   "sections": [
@@ -18,7 +18,7 @@
     {
       "heading": "The public utility exception: NTPC and presumed loss",
       "paragraphs": [
-        "Running against that general requirement to show injury is a separate, specific line applicable to public utility and public interest projects. The Supreme Court has held, in a ruling involving NTPC Vidyut Vyapar Nigam Ltd, that in contracts for public utility projects, or contracts otherwise affecting the public interest, delay in execution is presumed to cause loss, and the party complaining of the delay does not need to independently prove actual damage before claiming reasonable compensation under Section 74. The reasoning rests on the practical difficulty of quantifying the diffuse harm caused by delay to a power plant, a highway, or similar public infrastructure, where the loss is real but resists conventional proof through invoices or lost profit calculations in the way a straightforward commercial supply contract would.",
+        "Running against that general requirement to show injury is a separate, specific line applicable to public utility and public interest projects. The Supreme Court has held, in M/s Saisudhir Energy Ltd v NTPC Vidyut Vyapar Nigam Ltd (2026 INSC 103, decided 30 January 2026), that in contracts for public utility projects, or contracts otherwise affecting the public interest, delay in execution is presumed to cause loss, and the party complaining of the delay does not need to independently prove actual damage before claiming reasonable compensation under Section 74. The reasoning rests on the practical difficulty of quantifying the diffuse harm caused by delay to a power plant, a highway, or similar public infrastructure, where the loss is real but resists conventional proof through invoices or lost profit calculations in the way a straightforward commercial supply contract would.",
         "The same ruling addressed the scope of appellate review, holding that where a Section 34 court has exercised a plausible view on what counts as reasonable compensation in such a case, a Section 37 appellate court should not substitute its own view unless the original finding is shown to be arbitrary. This matters tactically: once a contractor loses the proof-of-loss argument at the Section 34 stage in a public utility matter, the room to reargue it on appeal narrows considerably unless the original finding can be shown to be genuinely unreasonable rather than merely debatable."
       ]
     },
@@ -66,7 +66,7 @@
     "Indian Contract Act, 1872, Section 74",
     "Sahakarmaharshi Bhausaheb Thorat Sahakari Sakhar Karkhana Ltd v Thyssen Krupp Industries India Pvt Ltd, 2025 INSC 219",
     "BHEL v Kanohar Electricals, Delhi High Court Division Bench, 26 February 2024",
-    "NTPC Vidyut Vyapar Nigam Ltd related ruling on presumed loss in public utility project contracts under Section 74, and the limited scope of Section 37 appellate review of a Section 34 court's reasonable compensation finding",
+    "M/s Saisudhir Energy Ltd v NTPC Vidyut Vyapar Nigam Ltd, 2026 INSC 103 (decided 30 January 2026), on presumed loss in public utility project contracts under Section 74, and the limited scope of Section 37 appellate review of a Section 34 court's reasonable compensation finding",
     "Construction & Design Services v Delhi Development Authority"
   ],
   "sources": [

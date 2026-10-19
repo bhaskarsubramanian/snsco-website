@@ -6,9 +6,12 @@
   "court": "Customs, Excise and Service Tax Appellate Tribunal, Kolkata Bench",
   "bench": "R. Muralidhar (Judicial Member) and K. Anpazhakan (Technical Member)",
   "case_name": "Century Plyboards (I) Ltd. v. Commissioner of CGST & Central Excise",
-  "citation": "Excise Appeal No. 77334 of 2019, CESTAT Kolkata, order dated 12 October 2026",
-  "decision_date": "2026-10-12",
-  "reported_by": ["LiveLawBiz", "TaxScan"],
+  "citation": "Excise Appeal No. 77334 of 2019, CESTAT Kolkata, order dated 9 October 2026",
+  "decision_date": "2026-10-09",
+  "reported_by": [
+    "LiveLawBiz",
+    "TaxScan"
+  ],
   "sources": [
     "https://www.livelawbiz.com/custom-excise-service-tax/cestat-kolkata-allows-cenvat-credit-on-sales-commission-for-goods-sold-through-depots-554316",
     "https://www.taxscan.in/top-stories/cestat-weekly-round-up-1450310",
@@ -25,5 +28,5 @@
   "why_it_matters": "Manufacturers who sell through depot or consignment-agent networks frequently see input tax credit on agents' commission challenged by the department on the theory that commission is a post-sale cost outside CENVAT or GST credit. This ruling gives such taxpayers a concrete, recent precedent for arguing that a depot is itself a place of removal, so commission paid to agents operating there qualifies as credit-eligible, and it reinforces that ISD-distributed credit built on that commission should also survive scrutiny.",
   "card_summary": "CESTAT Kolkata quashes a CENVAT credit demand against Century Plyboards, ruling that commission paid to depot sales agents is an eligible input service because the depot itself counts as the place of removal.",
   "card_tip": "In any depot-sales CENVAT or input tax credit dispute, lead with the place-of-removal or place-of-supply characterisation of the depot rather than arguing the nature of the commission in the abstract.",
-  "verification_notes": "The appellant's name (Century Plyboards (I) Ltd.), the appeal number (Excise Appeal No. 77334 of 2019), the Kolkata bench composition (R. Muralidhar, Judicial Member, and K. Anpazhakan, Technical Member), the place-of-removal holding under Section 4(3)(c) of the Central Excise Act, the ISD distribution point, and the setting aside of interest and penalty are all confirmed in the LiveLawBiz report and the underlying order PDF uploaded by LiveLawBiz, dated 12 October 2026. TaxScan's CESTAT weekly roundup for the same period independently reports CESTAT activity consistent with this ruling, though its own write-up of this specific case was not opened in full; the order PDF itself is treated as the primary corroborating source alongside the LiveLawBiz report. The Gujarat High Court Cadila Healthcare reliance is as stated in the LiveLawBiz report; the precise citation of that earlier ruling was not independently verified and is therefore not given a citation number here."
+  "verification_notes": "The appellant's name (Century Plyboards (I) Ltd.), the appeal number (Excise Appeal No. 77334 of 2019), the Kolkata bench composition (R. Muralidhar, Judicial Member, and K. Anpazhakan, Technical Member), the place-of-removal holding under Section 4(3)(c) of the Central Excise Act, the ISD distribution point, and the setting aside of interest and penalty are all confirmed in the LiveLawBiz report and the underlying order PDF uploaded by LiveLawBiz. A TaxGuru report of the same order records it as pronounced in open court on 9 October 2026; 12 October 2026 reflects only the LiveLawBiz publication date, not the decision date. TaxScan's CESTAT weekly roundup for the same period independently reports CESTAT activity consistent with this ruling, though its own write-up of this specific case was not opened in full; the order PDF itself is treated as the primary corroborating source alongside the LiveLawBiz report. The Gujarat High Court Cadila Healthcare reliance is as stated in the LiveLawBiz report; the precise citation of that earlier ruling was not independently verified and is therefore not given a citation number here."
 }
