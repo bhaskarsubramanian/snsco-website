@@ -1006,5 +1006,52 @@
    "https://www.maritimegateway.com/bombay-hc-quashes-retrospective-mumbai-port-authority-rent-hikes-says-authority-cannot-indulge-in-profiteering-and-rack-renting/"
   ],
   "note": "Independently confirmed: lead petitioner Arsheesh Jamshed Wadia (Writ Petition No. 3143 of 2022, part of a batch of 145 writ petitions, consistent with the draft's 145/154 hedge), Division Bench of Justices Bharati Dangre and Manjusha Deshpande, the 2004 Jamshed Hormusji Wadia Supreme Court compromise-rate precedent, the holding that those rates governed till 31 March 2024, the quashing of retrospective rate fixation and arrears demands, and the holding that prospective revisions from 1 April 2024 must be fair, reasonable and not profiteering. The exact pronouncement date is reported inconsistently across sources (25, 28 and 31 August 2026); the draft's 28 August 2026 figure is a reasonable choice within that spread and is already flagged as approximate in the draft's own verification notes."
+ },
+ {
+  "file": "_drafts/batch4/news/21-cestat-pmi-electro-mobility-customs-duty-exemption.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://www.jurishour.in/indirect-taxes/customs-duty-exemption-electric-bus-parts-job-worker/",
+   "https://taxguru.in/?p=1089539",
+   "https://www.jurishour.in/?p=1457672"
+  ],
+  "note": "Core holding independently confirmed: CESTAT New Delhi set aside a differential customs duty demand of Rs 1,06,69,156 (approx. Rs 1.07 crore) against PMI Electro Mobility Solutions, holding that routing bus-body fabrication through the related entity PMI Coaches (under an MOU, for a Himachal Road Transport Corporation order) did not defeat the end-use exemption under Sl. Nos. 528/528A of Notification 50/2017-Customs and the IGCR Rules. However, the bench is in fact identifiable from reporting: Dr. Rachna Gupta (Officiating President) and Hemambika R. Priya (Technical Member), contrary to the draft's claim that bench composition was unconfirmed.",
+  "fixes": [
+   {
+    "find": "\"bench\": \"Bench composition not confirmed in available reporting\",",
+    "replace": "\"bench\": \"Dr. Rachna Gupta (Officiating President) and Hemambika R. Priya (Technical Member)\",",
+    "reason": "JurisHour's reporting identifies the CESTAT bench as Dr. Rachna Gupta (Officiating President) and Hemambika R. Priya (Technical Member)."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/22-patna-hc-balaji-enterprises-mining-lease-deposit-forfeiture.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://lawchakra.in/high-court/patna-high-court/patna-high-court-mining/",
+   "https://www.uniindia.com/east-india/law-patnahc-mining-lease-case/199917",
+   "https://lawchakra.in/wp-content/uploads/2026/10/State-of-Bihar-v-Balaji-Enterprises-Patna-High-Court-LPA-865-2024.pdf"
+  ],
+  "note": "Independently confirmed: LPA No. 865 of 2024 (State of Bihar v. M/s Balaji Enterprises, from CWJC No. 11678 of 2023), Division Bench of Justices Bibek Chaudhuri and Rana Vikram Singh, the 21 September 2017 letter of intent for Stone Block No. 27 at Mauza Hazratpur Mandro Chandi, Sheikhpura, the District Survey Report's missing geo-coordinates as the cause of the lease failing, the January 2023 forfeiture of the Rs 2.90 crore deposit, the 1 October 2026 order setting that forfeiture aside and ordering a refund, and the forward-looking guidelines sent to the Chief Secretary. The 12% interest rate, reported only by LawChakra, was appropriately omitted by the draft for lack of a second corroborating source."
+ },
+ {
+  "file": "_drafts/batch4/news/23-gauhati-hc-talaq-e-hassan-registration-assam-act.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-talaq-e-hassan-registration-registrar-muslim-marriages-divorces-act-549534",
+   "https://www.scconline.com/blog/post/2026/09/14/talaq-e-hassan-valid-form-divorce-gauhati-hc/",
+   "https://theprint.in/india/talaq-e-hassan-valid-form-of-divorce-to-be-registered-under-new-act-gauhati-hc/3039921/"
+  ],
+  "note": "Independently confirmed: Justice Arun Dev Choudhury's order, the three pronouncement dates (22 March, 26 April, 27 May 2026), the holding that Talaq-e-Hassan is not currently prohibited, the 2 June 2026 Section 12 application, the Barpeta sub-registrar (appointed under the repealed 1935 Act) being unable to act, and the direction to the jurisdictional registrar under the 2024 Assam Act. The draft's deliberately neutral framing of the Barpeta registrar's conduct ('turned him down') is an appropriately cautious way to describe a point sources phrase slightly differently (refusal vs non-consideration)."
+ },
+ {
+  "file": "_drafts/batch4/news/24-delhi-hc-bharat-forge-tarsem-jain-unilateral-arbitrator.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/arbitration/pre-2015-arbitration-no-shield-for-unilateral-appointment-delhi-high-court-upholds-setting-aside-of-77-crore-award-against-bharat-forge-553407",
+   "https://www.psuconnect.in/legal-updates/delhi-high-court-dismisses-appeal-against-bharat-forge-in-tarsem-jain-litigation",
+   "https://www.basispointinsight.com/Story/delhi-hc-quashed--770-million-arbitral-award-against-bharat-forge-subsidiary_289f4e88297a.html"
+  ],
+  "note": "Independently confirmed: the 18 December 2010 SPA between Tarsem/T.K. Jain and BF Infrastructure (a Bharat Forge subsidiary), the 24 July 2014 reminder and 15 December 2014 unilateral arbitrator nomination, the 10 May 2019 award (~Rs 77 crore, consistent with the Rs 770 million figure which is the same amount), Justice Jasmeet Singh's 26 May 2025 single-judge order setting aside the award and dismissing the enforcement petition, the appeal as FAO(OS)(COMM) 150/2025, and the Division Bench of Justices Avneesh Jhingan and Shail Jain's 1 October 2026 order holding that a pre-2015 arbitration commencement does not validate a unilateral appointment under Clause 20 of the SPA and Section 11(6) of the Arbitration Act."
  }
 ]
