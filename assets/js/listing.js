@@ -135,7 +135,7 @@
     var view = res.slice(0, shown2);
     list.innerHTML = view.map(function (r) {
       var x = r.x;
-      return '<li class="sr-item"><div class="sr-meta"><span class="sr-badge ' + (x.k === 'news' ? 'n' : '') + '">' + (x.k === 'news' ? 'Legal news' : 'Blog') + '</span><span>' + esc(x.c) + '</span><span>' + monthYear(x.dt) + '</span></div>' +
+      return '<li class="sr-item"><div class="sr-meta"><span class="sr-badge ' + (x.k === 'news' ? 'n' : '') + '">' + (x.k === 'news' ? 'Legal news' : x.k === 'article' ? 'Article' : 'Blog') + '</span><span>' + esc(x.c) + '</span><span>' + monthYear(x.dt) + '</span></div>' +
         '<h2 class="sr-title"><a href="' + esc(x.u) + '">' + highlight(x.t, terms) + '</a></h2><p class="sr-desc">' + highlight(x.d, terms) + '</p></li>';
     }).join('') || '<li class="sr-item"><p class="sr-desc">No articles match. Try fewer words, a different spelling or All subjects.</p></li>';
     more2.hidden = res.length <= view.length;
