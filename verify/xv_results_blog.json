@@ -1102,5 +1102,139 @@
    "https://haryanarera.gov.in/assistancecontrol/viewOrderPdf/MjkzNTAx"
   ],
   "note": "Godrej Projects Development Limited v. Anil Karlekar (2025 INSC 143, 3 Feb 2025, Gavai and Bhatti JJ) is confirmed: Godrej Summit, Gurgaon booking, 20 percent BSP forfeiture clause held excessive under Section 74 Indian Contract Act and reduced to 10 percent, upholding NCDRC on forfeiture while disagreeing on the interest rate awarded. Haryana RERA's Regulation 11(5) 10 percent cap (with contrary agreement clauses void) is confirmed via Haryana RERA's own order database. MahaRERA's 2 percent cap for pre-agreement cancellations under Order No. 35/2022 (12 Aug 2022) is confirmed across multiple MahaRERA orders (Piramal Estates, Ruparel Infra, Godrej). The specific Ashok Bindra v Emaar MGF order was not independently located, but is consistent with a confirmed Haryana RERA pattern of upholding full forfeiture where the amount paid was itself below the 10 percent threshold. No errors found."
+ },
+ {
+  "file": "_drafts/batch4/blog/11-patent-illegality-arbitration-award-section-34-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelaw.in/amp/arbitration-cases/court-cant-re-appreciate-evidence-re-interpret-contracts-while-examining-patent-illegality-calcutta-high-court-268863",
+   "https://www.verdictum.in/court-updates/supreme-court/arbitral-award-considered-suffering-patent-illegality-only-apparent-on-1476039",
+   "https://www.supremecourtcases.com/haryana-urban-development-authority-karnal-v-mehta-construction-company-and-another/",
+   "https://www.livelaw.in/amp/top-stories/s-4-limitation-act-cant-be-invoked-using-30-day-extension-for-arbitration-appeals-filed-beyond-3-months-from-award-supreme-court-262951"
+  ],
+  "note": "Ssangyong (2019) 15 SCC 131, the domestic-award-only scope of patent illegality, Reliance Infrastructure v. State of Goa (2023, illegality must be apparent on the face of the award), and the Calcutta HC's Sept 2024 ruling (Great Eastern Energy v. SRMB Srijan) all confirmed. Haryana Urban Development Authority, Karnal v. Mehta Construction Co. (decided 30 March 2022, Civil Appeal No. 2693/2022, 2022 LiveLaw (SC) 348) exists and matches the draft's holding exactly, resolving the draft's own flagged uncertainty. Section 34(3) limitation (3 months + 30 days, not further extendable under Limitation Act s.4) confirmed via Rajpath Contractors (2024)."
+ },
+ {
+  "file": "_drafts/batch4/blog/12-dna-test-paternity-dispute-courts-reluctance-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://api.sci.gov.in/supremecourt/2022/9691/9691_2022_15_1501_42221_Judgement_20-Feb-2023.pdf",
+   "https://www.supremecourtcases.com/chaturbhuj-pradhan-v-amar-pradhan-and-another/",
+   "https://www.supremecourtcases.com/r-rajendran-v-kamar-nisha-and-others/",
+   "https://law.drishtiias.com/current-affairs/dna-tsting-and-presumption-of-legitimacy"
+  ],
+  "note": "Section 112 presumption, Goutam Kundu (1993 AIR 2295) strong-prima-facie-case standard, and Aparna Ajinkya Firodia v. Ajinkya Arun Firodia (SC, 20 Feb 2023, costs Rs 1 lakh) all confirmed. Chaturbhuj Pradhan v. Amar Pradhan (2026 INSC 600, decided 29 May 2026) confirmed as real and matches the draft's description (SC dismissed appeal against a DNA order, paternity was directly in issue). R. Rajendran v. Kamar Nisha (2025 INSC 1304, decided 10 Nov 2025) confirmed, matches draft's criminal-context holding."
+ },
+ {
+  "file": "_drafts/batch4/blog/13-electricity-theft-compounding-section-152-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.casemine.com/in/column/allegations-of-electricity-theft-in-india/view",
+   "https://www.mahadiscom.in/consumer/wp-content/uploads/2018/03/Comm_CircularNo.86.pdf",
+   "https://www.livelaw.in/amp/high-court/punjab-and-haryana-high-court"
+  ],
+  "note": "Section 126 (civil assessment) vs Section 135 (criminal theft) two-track structure confirmed. Section 152 deemed-acquittal effect and Suresh Ganpati Halvankar v. State of Maharashtra (SC, decided 22 Jan 2018, holding Sections 135 and 138 both compoundable under Section 152) confirmed. Guide appropriately hedges the state-specific payment-window hours and the unconfirmed Punjab & Haryana HC ruling on post-payment estoppel, consistent with its own verification notes."
+ },
+ {
+  "file": "_drafts/batch4/blog/14-sale-deed-fraud-limitation-knowledge-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 5,
+  "evidence": [
+   "https://api.sci.gov.in/supremecourt/2024/43437/43437_2024_12_13_57759_Judgement_11-Dec-2024.pdf",
+   "https://desikaanoon.in/limitation-period-in-fraud-cases-begins-from-date-of-knowledge-not-registration-sc/",
+   "https://www.casemine.com/commentary/in/clarification-on-limitation-periods-and-amendment-of-pleadings-at-appellate-stage:-supreme-court's-judgment-in-mallavva-v.-kalsammanavara-kalamma-(2024-insc-1021)/view",
+   "https://indianlawlive.net/2024/12/25/mallavva-v-kalsammanavara-kalamma-2024-insc-1021-composite-suit-cancellation-recovery-substantive-relief-determines-limitation/"
+  ],
+  "note": "Daliben Valjibhai v. Prajapati Kodarbhai Kachrabhai (SC, 11 Dec 2024, 2024 INSC 1049) confirmed exactly as described: limitation for fraud-based cancellation runs from knowledge, not registration. However the reference to Mallavva v. Kalsammanavara Kalamma (2024 INSC 1021, decided 20 Dec 2024) is wrong: that case actually holds the OPPOSITE of what the draft states. It holds that where declaration of title is the primary relief and recovery of possession is only consequential, the 12-year period under Article 65 governs, not the 3-year period under Article 59. Confirmed by two independent sources (casemine.com commentary, indianlawlive.net).",
+  "fixes": [
+   {
+    "find": "Mallavva v. Kalsammanavara Kalamma, Supreme Court, 2024 (three-year period under Article 59 governs a suit to set aside a sale deed to regain title and possession)",
+    "replace": "Mallavva v. Kalsammanavara Kalamma, Supreme Court, 2024 INSC 1021 (where declaration of title is the primary relief and possession only consequential, the twelve-year period under Article 65, not the three-year period under Article 59, governs the suit)",
+    "reason": "The draft attributes the opposite holding to this case. Mallavva actually holds Article 65 (12 years) applies in a declaration-of-title suit with consequential possession relief, not Article 59 (3 years). Confirmed by casemine.com and indianlawlive.net commentary on the judgment."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/blog/15-gst-itc-denied-supplier-default-section-16-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://taxo.online/latest-news/15-12-2023-no-automatic-reversal-of-itc-from-the-buyer-upon-non-payment-of-tax-by-the-supplier-supreme-court-upheld-the-ruling-of-calcutta-high-court/",
+   "https://taxo.online/latest-news/06-06-2025-itc-denial-merely-for-mismatch-or-non-payment-by-supplier-is-unsustainable-especially-where-the-purchaser-is-diligent-allahabad-high-court/",
+   "https://supremetoday.ai/can-purchasing-dealers-be-forced-to-reverse-itc-punjab-and-haryana-high-court-says-no-20261005030",
+   "https://taxguru.in/goods-and-service-tax/limits-bhandari-scrap-traders.html"
+  ],
+  "note": "Suncraft Energy (Calcutta HC, 2 Aug 2023; SLP dismissed by SC 14 Dec 2023) confirmed. R.T. Infotech (Allahabad HC, 30 May 2025) confirmed. Gujarat HC's stricter Maruti Enterprise line and Bhandari Scrap Traders SLP dismissal (SC, 24 Jul 2026, upholding Section 16(2)(c) as constitutionally valid) confirmed. Shaurya Alloys (Punjab & Haryana HC, 1 Oct 2026, 424 writ petitions, provision upheld but not mechanically applied against genuine purchasing dealer) confirmed. Tripura HC's Sahil Enterprises reading-down ruling also corroborated via the Bhandari Scrap Traders commentary noting a pending related SLP. All matches draft's characterisation of an unsettled, split authority."
+ },
+ {
+  "file": "_drafts/batch4/blog/16-sarfaesi-agricultural-land-exemption-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.livelaw.in/amp/top-stories/supreme-court-agricultural-lands-secured-properties-sarfaesi-k-sreedhar-vs-raus-constructions-private-ltd-2022-livelaw-sc-13-218231",
+   "https://verdictum.in/court-updates/supreme-court/burden-of-proof-is-on-borrower-under-sarfaesi-act-1456308",
+   "https://www.livelaw.in/amp/top-stories/supreme-court-explains-pre-deposit-borrower-sarfaesi-drat-sidha-neelkanth-paper-industries-private-limited-vs-prudent-arc-limited-218221",
+   "https://scconline.com/blog/?p=281208"
+  ],
+  "note": "K. Sreedhar v. Raus Constructions (SC, 5 Jan 2023), ITC Ltd. v. Blue Coast Hotels (2018) 15 SCC 99, and Indian Bank v. K. Pappireddiyar (2018) 18 SCC 252 all confirmed exactly as described: burden on borrower, revenue records alone insufficient. However the Section 18 deposit figure is wrong: the draft states the deposit condition as 'not less than twenty-five percent,' but the statutory default is fifty percent of the debt due (as claimed by the secured creditor or determined by the DRT, whichever is less); the Appellate Tribunal may reduce this only for reasons recorded in writing, and not below twenty-five percent. The draft has conflated the discretionary floor with the standard requirement.",
+  "fixes": [
+   {
+    "find": "That appeal must ordinarily be filed within thirty days of the order being challenged, and comes with a condition that the borrower deposit not less than twenty-five percent of the amount of debt claimed by the secured creditor, or determined by the Debt Recovery Tribunal, whichever is less, as applicable under the facts of the case.",
+    "replace": "That appeal must ordinarily be filed within thirty days of the order being challenged, and comes with a condition that the borrower deposit fifty percent of the amount of debt claimed by the secured creditor, or determined by the Debt Recovery Tribunal, whichever is less, though the Appellate Tribunal may reduce this, for reasons recorded in writing, to not less than twenty-five percent.",
+    "reason": "Section 18's second proviso sets the standard deposit at 50% of the debt due, reducible only at DRAT's discretion (for written reasons) to not below 25%. The draft incorrectly stated the standard requirement itself as 25%."
+   },
+   {
+    "find": "the exact deposit percentage (not less than twenty-five percent) is stated based on the statutory text of Section 18 itself, which was described consistently in both of those sources.",
+    "replace": "the deposit percentage is stated based on the statutory text of Section 18 itself: fifty percent of the debt due as the standard requirement, reducible by the Appellate Tribunal for reasons recorded in writing to not less than twenty-five percent.",
+    "reason": "Corrects the same error in the verification notes to match the statutory text."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/blog/17-will-revocation-marriage-section-69-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.verdictum.in/kerala-high-court/suo-motu-civil-reference-to-examine-the-validity-of-section-69-of-the-indian-succession-act-1925-2026ker77525-1623695",
+   "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-indian-succession-act-section-69-554194",
+   "https://www.legalkart.com/bn/legal-blog/everything-you-need-to-know-about-section-57-of-the-indian-succession-act"
+  ],
+  "note": "Kerala HC suo motu civil reference (2026:KER:77525, decided 8 Oct 2026, Sathish Ninan and P. Krishna Kumar JJ) confirmed: Section 69 upheld against Article 14/15 challenge, held not to conflict with Section 20. Section 57 proviso exempting Hindus/Buddhists/Sikhs/Jains, and Section 69's omission from Schedule III, both confirmed via the judgment's own text as reported. Draft appropriately flags the divorce-revocation gap as genuinely unsettled rather than asserting a false certainty."
+ },
+ {
+  "file": "_drafts/batch4/blog/18-nri-repatriation-inherited-property-usd-million-scheme-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 4,
+  "evidence": [
+   "https://website.rbi.org.in/documents/87730/39710850/64105.pdf",
+   "https://dbs.com/in/treasures/articles/nri-hub/live-enriched/repatriation-for-nris-and-how-it-works",
+   "https://website.rbi.org.in/documents/87730/39710850/02MRN280610.pdf"
+  ],
+  "note": "USD 1 million per-year facility from NRO balances covering inherited-asset sale proceeds confirmed via RBI circular text and corroborating secondary sources. Document requirements (will/succession certificate/legal heir certificate/probate, Form 15CA/15CB) and the no-carry-forward rule confirmed. Draft's deliberate hedge on calendar-year vs financial-year wording is reasonable since the statutory default is financial year but this is not stated as a hard error in the draft; no overclaim found."
+ },
+ {
+  "file": "_drafts/batch4/blog/19-guarantor-subrogation-recover-from-borrower-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://conventuslaw.com/report/india-simultaneous-ibc-proceedings-against-corporate-debtor-and-corporate-guarantor-critical-takeaways-from-brs-ventures-case/",
+   "https://www.livelaw.in/amp/ibc-cases/nclat-delhi-personal-and-corporate-guarantors-have-no-right-of-subrogation-after-approval-of-resolution-plan-251607",
+   "https://indiacorplaw.in/?p=13147"
+  ],
+  "note": "Sections 128, 140, 141 Contract Act confirmed. BRS Ventures Investments v. SREI Infrastructure Finance (SC, 2024, Civil Appeal No. 4565/2021) confirmed: co-extensive liability for corporate guarantors, and subrogation limited to amount actually paid without extinguishing creditor's right to the balance. Lalit Kumar Jain v. Union of India (SC, 2021) confirmed. NCLAT Delhi's March 2024 Jaypee Infratech ruling (personal/corporate guarantors have no subrogation right post resolution-plan approval) confirmed, correctly flagged by the draft as tribunal-level (contested) rather than settled SC authority."
+ },
+ {
+  "file": "_drafts/batch4/blog/20-counterclaim-commercial-suit-120-day-reply-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/supreme-court/ak-ghosh-company-and-others-v-biman-bose-and-others-2026-insc-684-1617737",
+   "https://www.mondaq.com/india/contracts-and-commercial-law/789056/supreme-court-filing-of-written-statement-within-120-days-from-issuance-of-summons-is-mandatory",
+   "https://www.verdictum.in/app-lite/court-updates/supreme-court/order-viii-rule-6-a-cpc-counter-claim-1443894"
+  ],
+  "note": "Ashok Kumar Kalra v. Wing Cdr. Surendra Agnihotri, (2020) 2 SCC 394, confirmed (counterclaim after written statement not barred, but must come before issues are framed, absent exceptional circumstances). SCG Contracts India v. K.S. Chamankar Infrastructure (SC, 12 Feb 2019) confirmed: 120-day written-statement limit mandatory, not extendable via s.151 CPC. A.K. Ghosh & Co. v. Biman Bose (2026 INSC 684, decided 13 July 2026) confirmed exactly as described: 120-day outer limit applies equally to a plaintiff's reply to a counterclaim via Order VIII Rule 6G. Counterclaim-against-co-defendant bar is well-settled and consistent with draft's cautious, uncited treatment."
  }
 ]
