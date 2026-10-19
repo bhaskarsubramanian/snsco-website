@@ -992,5 +992,40 @@
    "https://www.casemine.com/commentary/in/affirmation-of-appeal-restrictions-in-summary-suits:-d.-shanalal-v.-bank-of-maharashtra/view"
   ],
   "note": "The IL&FS Financial Services Bombay HC decree (Justice Gauri Godse, four summary suits, ~Rs 848.80 crore, non-deposit certificates on conditional leave, stamp duty cure, stay for insolvency-protected parties, reliance on D. Shanalal v. Bank of Maharashtra, AIR 1989 Bom 150) is confirmed. D. Shanalal v. Bank of Maharashtra is a real, correctly described Bombay HC authority on the preclusive effect of non-compliance with a conditional leave order. The 'moonshine defence' and 'plausible but improbable' terminology used generically (without naming a specific case) is well-established Order 37 terminology (Kiranmoyee Dassi principles, as applied in Mechelec Engineers and refined in IDBI Trusteeship v. Hubtown). No errors found."
+ },
+ {
+  "file": "_drafts/batch4/blog/03-dark-pattern-basket-sneaking-remediation-liability-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.mondaq.com/india/dodd-frank-consumer-protection-act/1799382/dark-patterns-in-ed-tech-ccpa-imposes-penalty-on-physicswallah",
+   "https://digitalpolicyalert.org/event/40372-central-consumer-protection-authority-issued-fine-of-inr-5-lakh-against-physicswallah-over-deploying-dark-patterns",
+   "https://mondaq.com/india/consumer-trading-unfair-trading/1398262/ccpa-issues-guidelines-for-prevention-and-regulation-of-dark-patterns-2023-effective-30-november-2023"
+  ],
+  "note": "CCPA's order against PhysicsWallah (Case No. CCPA-2/94/2025-CCPA, dated 1 June 2026, Rs 5 lakh penalty, pre-ticked donation checkbox classified as basket sneaking, 15-day compliance reporting deadline, holding that post-notice removal does not erase prior liability, additional findings on coercive messaging and 'free' courses requiring data disclosure) is confirmed. The 2023 Dark Patterns Guidelines (effective 30 November 2023, 13 prohibited categories including basket sneaking) are confirmed. No errors found."
+ },
+ {
+  "file": "_drafts/batch4/blog/04-minimum-public-shareholding-non-compliance-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.deccanchronicle.com/business/gautam-adani-4-group-companies-settle-shareholding-norm-violation-case-with-sebi-for-rs-148-cr-1991372",
+   "https://www.moneylife.in/article/sebi-clears-vinod-adani-in-mps-case-gautam-adani-4-group-companies-settle-for-148-crore/81785.html",
+   "https://taxguru.in/sebi/non-compliance-with-minimum-public-shareholding-action-to-be-taken-by-stock-exchanges.html",
+   "https://www.corporateprofessionals.com/media/sebi-to-freeze-promoter-holdings-if-a-firm-violates-minimum-shareholding-norms/"
+  ],
+  "note": "Rule 19A SCRR's 25 percent continuing-listing threshold and 12-month cure period are confirmed, as is the Adani settlement (four companies, Rs 1.48 crore total/Rs 37.05 lakh each, Gautam Adani and 13 others, SCN 27 Sep 2024, supplementary SCN 3 Mar 2025, investigation from Oct 2020, settlement 28 Sep 2026, Vinod Adani cleared). However, the draft's description of the enforcement freeze as proportional ('only the portion of promoter holding in excess of what would be consistent with 25 percent public float is frozen, not the promoter's entire stake') is inaccurate. SEBI's governing 2017 circular (and secondary summaries of it) direct the depositories to freeze the ENTIRE shareholding of the promoter and promoter group in the non-compliant listed entity, not merely the excess over the threshold, until compliance is restored. This is a real error, repeated in a FAQ answer.",
+  "fixes": [
+   {
+    "find": "Those consequences include freezing of promoter shareholding and voting rights in proportion to the extent of non-compliance, so that only the portion of promoter holding in excess of what would be consistent with 25 percent public float is frozen, not the promoter's entire stake. Corporate benefits such as dividends, bonus shares and rights entitlements on the frozen portion are withheld as well.",
+    "replace": "Those consequences include a freeze on the entire shareholding of the promoter and promoter group in the listed entity, not merely the amount in excess of the 25 percent public float, which the depositories are directed to maintain until compliance is restored. Corporate benefits such as dividends, bonus shares and rights entitlements on the frozen shares are withheld as well.",
+    "reason": "SEBI's governing circular directs a freeze of the entire promoter and promoter group shareholding in the non-compliant entity, not a proportional freeze limited to the excess over 25 percent public float."
+   },
+   {
+    "find": "The portion of promoter shareholding in excess of what the 25 percent public float would allow can be frozen, along with associated voting rights and corporate benefits such as dividends and bonus shares, and that freeze stays in place until the company actually restores compliance with the threshold.",
+    "replace": "The entire shareholding of the promoter and promoter group, not just the amount in excess of the 25 percent public float, can be frozen, along with associated corporate benefits such as dividends and bonus shares, and that freeze stays in place until the company actually restores compliance with the threshold.",
+    "reason": "Same correction as above, applied to the FAQ answer: the freeze under SEBI's framework covers the entire promoter and promoter group shareholding, not just the excess over the threshold."
+   }
+  ]
  }
 ]
