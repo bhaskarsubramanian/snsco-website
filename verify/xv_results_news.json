@@ -865,5 +865,99 @@
    "https://www.sahi.com/news/meghmani-organics-secures-nclt-nod-for-merger-with-2-subsidiaries-stakeholder-meet-set-for-june-06-5071-PE1_COR"
   ],
   "note": "Bench (Shammi Khan, Sanjeev Sharma), order date, appointed date, the 99.99% shareholder vote on 10,67,12,427 shares, secured creditor approval, and the Income Tax Department's Section 281 intervention/tax-caveat language are all confirmed across independent sources."
+ },
+ {
+  "file": "_drafts/batch4/news/13-calcutta-hc-funidea-projects-ghosh-order-ii-rule-2-3.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://lawstreet.co/judiciary/suit-barred-by-order-ii-rule-23-cpc-must-be-rejected-at-the-threshold-even-without-trial-calcutta-hc",
+   "https://www.livelawbiz.com/commercial-court-act/share-purchase-agreement-not-a-shareholders-agreement-under-commercial-courts-act-calcutta-high-court-554479",
+   "https://legalsuvidha.com/latest-updates/calcutta-hc-bars-suit-under-cpc-rule-141026"
+  ],
+  "note": "Core holdings independently confirmed: the Division Bench of Justices Sabyasachi Bhattacharyya and Sandip Kumar De allowed appeals (A.P.O. Nos. 84 and 85 of 2021, from a 5 March 2021 Single Judge order in C.S. 250 of 2015), held the cancellation suit barred by Order II Rule 2(3) CPC and the doctrine of election, and held a share purchase agreement with a stranger to the company is not a shareholders' agreement/commercial dispute under Section 2(1)(c)(xii) of the Commercial Courts Act. However, Law Street reports the judgment was delivered on 7 October 2026 (orders reserved 9 September 2026), with the article itself dated 14 October 2026; the draft's decision_date of 2026-10-14 reflects the reporting date, not the decision date.",
+  "fixes": [
+   {
+    "find": "\"citation\": \"Division Bench ruling reported 14 October 2026; exact neutral citation not independently confirmed\",",
+    "replace": "\"citation\": \"Division Bench ruling (A.P.O. Nos. 84 and 85 of 2021), decided 7 October 2026, reported 14 October 2026; exact neutral citation not independently confirmed\",",
+    "reason": "Law Street reports the judgment was delivered on 7 October 2026; 14 October 2026 is only the date the article was published, not the decision date."
+   },
+   {
+    "find": "\"decision_date\": \"2026-10-14\",",
+    "replace": "\"decision_date\": \"2026-10-07\",",
+    "reason": "Correcting decision date to the confirmed delivery date of 7 October 2026."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/14-bombay-hc-srb-da-joint-parenting-child-custody.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.freepressjournal.in/mumbai/joint-parenting-not-recognised-under-indian-law-childs-welfare-must-come-first-bombay-hc",
+   "https://www.livelaw.in/high-court/bombay-high-court/custody-battle-joint-parenting-child-welfare-parent-rights-548202",
+   "https://rawlaw.in/bombay-high-court-quashes-5050-joint-parenting-order-keeps-teenager-with-mother-grants-father-alternate-weekend-access-and-orders-fresh-family-court-hearing-on-custody-dispute/"
+  ],
+  "note": "Independently confirmed: Justice Gauri Godse's 1 September 2026 ruling in Writ Petition No. 14746 of 2024 (parties identified by Rawlaw as Snehasis Rashbihari Batabyal v. Dolan Acharya, matching the SRB v. DA initials), the holding that Indian law does not recognise joint parenting as a 50:50 entitlement and that parents' rights cannot override the child's welfare, the quashing of the Family Court's 50:50 vacation-time order, the remand for a fresh welfare inquiry, and the interim arrangement keeping physical custody with the mother with holiday-period access for the father."
+ },
+ {
+  "file": "_drafts/batch4/news/15-ccpa-weblink-exportersindia-picric-acid-penalty.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://taxguru.in/corporate-law/ccpa-penalises-weblink-rs-10-lakh-misleading-picric-acid-listings.html",
+   "https://www.dailypioneer.com/news/ccpa-acts-on-illegal-online-sale-of-explosives-and-chemicals-on-e-commerce-platforms",
+   "https://ianslive.in/ccpa-warns-e-commerce-platforms-over-sale-of-hazardous-chemicals--20260527141059"
+  ],
+  "note": "Independently confirmed: the CCPA's order against Weblink.In Private Limited (ExportersIndia.com) over picric acid listings is dated 10 September 2026 (case no. consistent with CCPA-2/54/2026-CCPA), with a Rs 10 lakh penalty, the lack-of-verification findings, and the non-transactional-directory defence and its rejection. The wider May 2026 CCPA sweep covering IndiaMART, Justdial, Sigma-Aldrich India, Dial4Trade and ExportersIndia, with eight notices issued, is independently confirmed. Note a separate, distinct CCPA order against the same platform over ammonium nitrate/PETN listings exists (dated on or about 8 September 2026); this is a different case from the one the draft covers and the draft does not conflate the two."
+ },
+ {
+  "file": "_drafts/batch4/news/16-nhai-kurukshetra-expressway-delhi-hc-termination-payment.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://supremetoday.ai/words-of-restriction-in-contract-must-be-given-meaning-delhi-hc-in-kurukshetra-expressway-v-nhai-20260929033",
+   "https://www.livelawbiz.com/arbitration/contractual-limits-on-termination-liability-cannot-be-ignored-delhi-hc-upholds-setting-aside-911-cr-arbitral-award-552131",
+   "https://www.psuconnect.in/legal-updates/delhi-high-court-upholds-order-against-kepl-in-nhai-arbitration-dispute"
+  ],
+  "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
+  "fixes": [
+   {
+    "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+    "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+    "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
+   },
+   {
+    "find": "\"bench\": \"Bench composition not confirmed in available reporting\",",
+    "replace": "\"bench\": \"Single judge Justice Sachin Datta (28 July 2026 order); Division Bench of Justices Anil Kshetarpal and Shail Jain (28 September 2026 order)\",",
+    "reason": "Both benches are now independently confirmed by SupremeToday.ai and LiveLawBiz reporting."
+   },
+   {
+    "find": "\"citation\": \"2026:DHC:5961 (as reported); order dated 28 September 2026 declining to disturb the order dated 28 July 2026\",",
+    "replace": "\"citation\": \"2026:DHC:5961 (the neutral citation for the single judge's 28 July 2026 order, per Verdictum); the Division Bench's 28 September 2026 order dismissing KEPL's Section 37 appeal carries a separate citation not independently confirmed\",",
+    "reason": "Verdictum's report ties 2026:DHC:5961 specifically to the single-judge order, not the later Division Bench order."
+   },
+   {
+    "find": "KEPL did not accept that outcome quietly. It asked the same court to reconsider, and on 28 September 2026 the Court declined. The order of 28 July stayed exactly as it was: the termination payment component remains set aside, and the rest of the award remains intact.",
+    "replace": "KEPL did not accept that outcome quietly. It appealed under Section 37 of the Arbitration Act, and on 28 September 2026 a Division Bench of Justices Anil Kshetarpal and Shail Jain dismissed the appeal. Justice Sachin Datta's order of 28 July stayed exactly as it was: the termination payment component remains set aside, and the rest of the award remains intact.",
+    "reason": "The 28 September ruling was a Division Bench dismissing a Section 37 appeal, not the same court declining to reconsider its own order."
+   },
+   {
+    "find": "Its exchange filing says it believes it has a strong case and is taking further legal steps, including filing a petition, language that points toward an appeal under Section 37 of the Arbitration Act rather than acceptance of the result.",
+    "replace": "Its exchange filing says it believes it has a strong case and is taking further legal steps, including filing a petition, language that most plausibly points toward a special leave petition to the Supreme Court, since the Section 37 appeal route was the one the Division Bench had just rejected.",
+    "reason": "The Section 37 appeal had already been heard and dismissed by the Division Bench on 28 September 2026, so KEPL's next available step would be an SLP to the Supreme Court, not a fresh Section 37 appeal."
+   },
+   {
+    "find": "and once a High Court takes that view at the Section 34 stage, a second attempt to reopen it before the same court was always going to be an uphill climb.",
+    "replace": "and once a High Court takes that view at the Section 34 stage, a Section 37 appeal asking a Division Bench to reopen it faces the same narrow standard of interference and was always going to be an uphill climb.",
+    "reason": "Clarifying that the second round was an appellate review by a Division Bench, not a reconsideration by the same bench."
+   },
+   {
+    "find": "A Section 37 appeal, if KEPL files one, would go to a Division Bench and would have to grapple with the same narrow standard of interference that already decided the matter once, which is a demanding brief even for a well-resourced litigant.",
+    "replace": "KEPL's Section 37 appeal has already been heard and dismissed by a Division Bench applying that same narrow standard of interference; any further challenge would have to proceed by way of a special leave petition to the Supreme Court, a considerably higher bar even for a well-resourced litigant.",
+    "reason": "The draft incorrectly framed the Section 37 appeal as a hypothetical future step, when the 28 September 2026 Division Bench ruling already was that appeal."
+   },
+   {
+    "find": "The exact bench (judge's name) was not confirmed in the reporting reviewed and is left out rather than guessed. The precise nature of KEPL's further legal recourse (an appeal under Section 37 versus another remedy) is described only in general terms in the company's own filing, so the article does not assert a specific forum beyond what the filing says.",
+    "replace": "Independent re-verification confirms the bench: Justice Sachin Datta passed the single-judge Section 34 order of 28 July 2026, and a Division Bench of Justices Anil Kshetarpal and Shail Jain dismissed KEPL's Section 37 appeal against it on 28 September 2026. Any further recourse for KEPL would be a special leave petition to the Supreme Court, since the Section 37 appeal route has already been exhausted.",
+    "reason": "Updating verification notes to reflect the confirmed bench and corrected procedural posture."
+   }
+  ]
  }
 ]
