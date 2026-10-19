@@ -959,5 +959,52 @@
     "reason": "Updating verification notes to reflect the confirmed bench and corrected procedural posture."
    }
   ]
+ },
+ {
+  "file": "_drafts/batch4/news/17-sc-kk-praveen-jm-financial-arc-sarfaesi-drt-decree.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://supremetoday.ai/kk-praveen-loses-challenge-supreme-court-says-sarfaesi-act-overrides-drt-decree-20260916027",
+   "https://foxmandal.in/news/earlier-drt-decree-no-bar-to-sarfaesi-action-sc-dismisses-plea-citing-section-35/",
+   "https://www.livelaw.in/top-stories/supreme-court-sarfaesi-proceedings-invoked-despite-decree-passed-drt-suit-res-judicata-inapplicable-550165"
+  ],
+  "note": "Core holding independently confirmed: bench of Justices B.V. Nagarathna and R. Mahadevan dismissed the petition at the admission stage on 9 September 2026, holding Section 35's overriding effect means an earlier ex parte DRT decree (O.A. No. 439/2014, DRT Ernakulam) does not bar a later SARFAESI action; the MSMED Act rejection and the unresolved 'ARCs are not banking companies' question are also confirmed. However, the proceeding was a Writ Petition (Civil) No. 1091/2026, not a Special Leave Petition, and the petition number is in fact available in reporting, contrary to the draft's citation field.",
+  "fixes": [
+   {
+    "find": "\"citation\": \"Order dated 9 September 2026 (SLP admission stage; petition number not confirmed in available reporting)\",",
+    "replace": "\"citation\": \"W.P. (Civil) No. 1091/2026, order dated 9 September 2026 (admission stage)\",",
+    "reason": "Independent sources (SupremeToday.ai) identify the case as W.P. (Civil) No. 1091/2026, a writ petition, not an SLP, and the petition number is confirmed, contrary to the draft's claim that it was unconfirmed."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/18-delhi-hc-jamuna-dass-gratuity-withheld-criminal-appeal.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/high-court/delhi-high-court/gratuity-can-be-withheld-until-all-judicial-proceedings-including-criminal-appeals-conclude-delhi-hc-549461",
+   "https://courtbook.in/posts/gratuity-can-be-withheld-till-criminal-appeal-is-decided-delhi-high-court",
+   "https://drishtijudiciary.com/current-affairs/gratuity-can-be-withheld-until-all-judicial-proceedings"
+  ],
+  "note": "Independently confirmed: W.P.(C) 2936/2021, Division Bench of Justices C. Hari Shankar and Vinod Kumar, Jamuna Dass's December 2011 retirement, his January 2012 CBI conviction and pending Criminal Appeal 344/2012, the Rule 69(1)(c) CCS Pension Rules holding that it covers pending judicial proceedings including criminal appeals (not just departmental proceedings), the setting aside of the Tribunal's order, and the claim reviving once the appeal is disposed of. The exact pronouncement date (draft uses 9 September 2026) could not be pinned down beyond the 10 September 2026 reporting date in this run either, but nothing found contradicts it, and the draft already discloses this as an approximation."
+ },
+ {
+  "file": "_drafts/batch4/news/19-mahareat-purva-oak-thane-refund-possession-delay.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.freepressjournal.in/mumbai/mahareat-orders-purva-oak-to-refund-185-crore-to-thane-homebuyer-over-delayed-possession",
+   "https://www.livelawbiz.com/rera/complaint-filed-before-possession-deadline-can-still-succeed-if-developer-fails-to-deliver-flat-mahareat-554442",
+   "https://thelawsuits.in/mahareat-directs-new-developer-to-honor-agreements-in-thane-housing-dispute"
+  ],
+  "note": "Independently confirmed: MahaREAT's 9 October 2026 order on the One Park Avenue, Thane project reversing MahaRERA's 2021 premature-complaint dismissal, the refund of approximately Rs 1.85-1.86 crore with interest and Rs 25,000 costs, the holding that a complaint filed before the possession deadline is not barred where the developer later defaults, the holding that a registered completion-date extension (to 30 April 2027) does not alter the contractual possession date, and Purva Oak's liability as the project's incoming promoter under Section 15 RERA (separately confirmed for the same One Park Avenue project in a related MahaREAT ruling on other buyers)."
+ },
+ {
+  "file": "_drafts/batch4/news/20-bombay-hc-wadia-mumbai-port-authority-rent-hike.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://supremetoday.ai/bombay-high-court-quashes-retrospective-rent-hikes-by-mumbai-port-authority-reaffirms-wadia-judgment-20260901052",
+   "https://www.livelaw.in/high-court/bombay-high-court/mumbai-port-authority-retrospective-rent-hikes-quashed-547815",
+   "https://www.maritimegateway.com/bombay-hc-quashes-retrospective-mumbai-port-authority-rent-hikes-says-authority-cannot-indulge-in-profiteering-and-rack-renting/"
+  ],
+  "note": "Independently confirmed: lead petitioner Arsheesh Jamshed Wadia (Writ Petition No. 3143 of 2022, part of a batch of 145 writ petitions, consistent with the draft's 145/154 hedge), Division Bench of Justices Bharati Dangre and Manjusha Deshpande, the 2004 Jamshed Hormusji Wadia Supreme Court compromise-rate precedent, the holding that those rates governed till 31 March 2024, the quashing of retrospective rate fixation and arrears demands, and the holding that prospective revisions from 1 April 2024 must be fair, reasonable and not profiteering. The exact pronouncement date is reported inconsistently across sources (25, 28 and 31 August 2026); the draft's 28 August 2026 figure is a reasonable choice within that spread and is already flagged as approximate in the draft's own verification notes."
  }
 ]
