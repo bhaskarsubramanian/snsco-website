@@ -919,8 +919,8 @@
   "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
   "fixes": [
    {
-    "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
-    "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+    "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+    "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
     "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
    },
    {
@@ -1053,5 +1053,51 @@
    "https://www.basispointinsight.com/Story/delhi-hc-quashed--770-million-arbitral-award-against-bharat-forge-subsidiary_289f4e88297a.html"
   ],
   "note": "Independently confirmed: the 18 December 2010 SPA between Tarsem/T.K. Jain and BF Infrastructure (a Bharat Forge subsidiary), the 24 July 2014 reminder and 15 December 2014 unilateral arbitrator nomination, the 10 May 2019 award (~Rs 77 crore, consistent with the Rs 770 million figure which is the same amount), Justice Jasmeet Singh's 26 May 2025 single-judge order setting aside the award and dismissing the enforcement petition, the appeal as FAO(OS)(COMM) 150/2025, and the Division Bench of Justices Avneesh Jhingan and Shail Jain's 1 October 2026 order holding that a pre-2015 arbitration commencement does not validate a unilateral appointment under Clause 20 of the SPA and Section 11(6) of the Arbitration Act."
+ },
+ {
+  "file": "_drafts/batch4/news/25-delhi-hc-ozone-spa-co-incept-execution-pecuniary-jurisdiction.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/delhi-high-court-rules-it-can-execute-commercial-decrees-below-2-crore-if-original-suit-was-within-its-jurisdiction",
+   "https://www.livelawbiz.com/commercial-court-act/delhi-high-court-holds-it-can-execute-commercial-decrees-below-2-crores-where-original-suit-exceeded-pecuniary-jurisdiction-554779",
+   "https://indiankanoon.org/doc/149174797/"
+  ],
+  "note": "Core ruling, parties, Ex.P. 56/2022, the Rs 2,53,66,750 suit value, 5/19 July 2018 settlement and consent decree for Rs 1,19,43,000, and the 6 October 2026 decision date (per the judgment itself, as the draft already notes) are confirmed. However, independent sources (Bar and Bench, LiveLawBiz, and the Indian Kanoon copy of the judgment) show the court's holding relied on CPC Sections 37 and 38, not Sections 38 and 39 as the draft states for the court's holding; the debtor's own objection was framed around Sections 38-39, but the court's reasoning that those provisions 'apply to decrees passed in commercial suits' was about Sections 37 and 38.",
+  "fixes": [
+   {
+    "find": "On the specific objection about Sections 38 and 39 of the CPC, the court held that those provisions do apply to decrees passed in commercial suits, rejecting the debtor's attempt to carve commercial decrees out of the ordinary civil execution framework altogether.",
+    "replace": "On the specific objection, the court held that Sections 37 and 38 of the CPC do apply to decrees passed in commercial suits, rejecting the debtor's attempt to carve commercial decrees out of the ordinary civil execution framework altogether.",
+    "reason": "Multiple independent sources (Bar and Bench, LiveLawBiz, and the judgment itself on Indian Kanoon) show the court's holding on which CPC provisions apply to commercial decrees cited Sections 37 and 38, not Sections 38 and 39."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/26-ncdrc-railway-coach-robbery-security-deficiency-service.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelaw.in/consumer-cases/lack-of-security-escorts-unfastened-doors-in-reserved-coaches-amounts-to-deficiency-in-service-ncdrc-549283",
+   "https://lawtrend.in/?p=365695",
+   "https://ksandk.com/news/ncdrc-railway-passenger-compensation/"
+  ],
+  "note": "Independently confirmed: the Awadh-Assam Express robbery on 28 August 2004 (Hapur to Guwahati, coach S-8, between Barpeta and Rangiya), bench of Justice A.P. Sahi (President) and Bharatkumar Pandya (Member), the maintainability holding that a consumer complaint over negligent security is an additional remedy alongside the Railways Act untoward-incident framework, the deficiency-in-service finding over missing escorts and unfastened doors, the Rs 59,725 claimed loss figure, and the reduced Rs 20,000 consolidated compensation with interest after the Commission found the claimed loss weakly proven. No indication of a stay or reversal found."
+ },
+ {
+  "file": "_drafts/batch4/news/27-nclat-amba-grains-mastana-foods-resolution-plan-finality.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://psuwatch.com/newsupdates/tribunals-cannot-hold-an-appeal-against-coc-approved-resolution-plan-nclat",
+   "https://legalsuvidha.com/latest-updates/nclat-bars-tribunals-from-appealing-coc-approved-resolution-plans-151026",
+   "https://www.livelawbiz.com/ibc/nclt-delhi-approves-hr-commercialscrown-steels-consortium-rs-13539-cr-resolution-plan-for-mastana-foods-pvt-ltd-537743"
+  ],
+  "note": "Independently confirmed: the Mastana Foods plan value (Rs 135.39 crore) and HR Commercials/Crown Steels consortium, SBI as sole secured financial creditor, the five dismissed appeals by Amba Grains (an unsuccessful bidder) and the suspended directors/personal guarantors, and the core holding limiting appellate review to Section 30(2) IBC compliance and Section 32/61(3) procedural compliance, not the CoC's commercial wisdom. The exact bench composition and precise decision date could not be independently confirmed either by the original drafter or by my own search, matching the draft's own hedge on this point."
+ },
+ {
+  "file": "_drafts/batch4/news/28-nclat-rukshmani-syntex-thakkar-family-status-quo-buyback.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.livelawbiz.com/company-law/nclat-restores-status-quo-over-company-assets-pending-valuation-and-determination-on-share-buyback-547301",
+   "https://taxguru.in/?p=1074662"
+  ],
+  "note": "Independently confirmed: Mehul Narayan Thakkar's 45,993 shares / 37.09% stake in Rukshmani Syntex, his brother Vikram's equal stake, the oppression and mismanagement claims, the 27 March 2026 status quo order, the 18 August 2026 NCLAT order narrowing the dispute because Mehul himself offered a buyback, the direction to NCLT Mumbai to appoint a valuer, and that the underlying oppression allegations were left undecided. One search result named a specific bench (Justice Sharad Kumar Sharma and Indevar Pandey) but I could not independently corroborate that pairing with a second source specific to this case, so the draft's hedge leaving the bench unstated is reasonable and is left as is."
  }
 ]
