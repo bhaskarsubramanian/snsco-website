@@ -963,5 +963,34 @@
    "https://foodsafetyworks.com/fssai_updates/changes-in-penalties-under-fssa-2006"
   ],
   "note": "Ram Nath v State of UP, 2024 INSC 138 : [2024] 2 S.C.R. 743 (Oka and Karol JJ, 21 Feb 2024, Section 59 overrides IPC 272/273 via Section 89, no simultaneous prosecution) is confirmed exactly, including the citation. Ali Mohammad Bhat v UT of J&K, CRM(M) 310/2024 (Dhar J, reserved 27 May 2025, pronounced 6 June 2025, quashing for an unexplained Section 42 delay) is confirmed exactly, including the date. M/s Kewal Dairy v State of UP (Allahabad HC, 2024) confirming the offence date runs from the Food Analyst's report and that Section 77 overrides Section 468 CrPC via Section 89 is confirmed, though the guide's framing that the case specifically 'examined' the Commissioner's written-reasons requirement for a 3-year extension is a slightly stronger characterisation than the search results directly establish (the point was argued but the court's resolution of it was not confirmed). The Jan Vishwas Act's change to Section 59's no-injury tier (six months/one lakh to three months/three lakh, effective 7 November 2023) is confirmed exactly."
+ },
+ {
+  "file": "_drafts/batch4/blog/01-garnishee-order-bank-defences-inoperative-account-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://indiankanoon.org/doc/159343627/",
+   "https://www.livelawbiz.com/banking-nbfc/calcutta-high-court-quashes-garnishee-orders-against-sbi-over-inoperative-account-553289",
+   "https://courtkutchehry.com/judgments/state-bank-of-india-and-anr-vs-employees-state-insurance-corporation-and-ors"
+  ],
+  "note": "The core ruling is confirmed: State Bank of India & Anr v. Employees' State Insurance Corporation & Ors (WPA 6511 of 2025, Calcutta HC, Justice Shampa Dutt (Paul), judgment ~5 Oct 2026), ESI prohibitory order of 12 Aug 2024 and garnishee orders of 21 and 26 Feb 2025 against SBI's Murgasol branch account of Eastern Division (Projects) Engineers Cooperative Society, deemed-defaulter finding quashed for want of application of mind and breach of natural justice. However, the draft's claim that SBI's account had carried a 'nil balance since December 2020' is unsupported for THIS matter: fresh searches show the 'zero balance from 31st December 2020' fact instead belongs to a separate, related Calcutta HC matter involving SBI's Durgapur C-Zone branch and Pascas Associate (reported as (2026) 09 CAL CK 4029), which the Murgasol-matter case record does not confirm having that fact; the Murgasol matter instead involved a Division Bench order keeping Rs 5 lakh frozen pending the dispute. This looks like a conflation of two distinct SBI/ESI garnishee matters.",
+  "fixes": [
+   {
+    "find": "SBI's response was that the account had carried a nil balance since December 2020 and had been inoperative for years before the order was ever served.",
+    "replace": "SBI's response was that the account was inoperative and that it could not lawfully remit any sum from it.",
+    "reason": "The 'nil balance since December 2020' detail is not supported for the Murgasol branch/Eastern Division Projects Engineers Cooperative Society matter this guide describes; that specific fact traces instead to a separate, related Calcutta HC matter involving SBI's Durgapur C-Zone branch, and attributing it here appears to be a conflation of two distinct cases."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/blog/02-order-37-summary-suit-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.livelawbiz.com/commercial-court-act/bombay-high-court-rules-in-favour-of-ilfs-in-84880-crore-recovery-suits-545946",
+   "https://rawlaw.in/bombay-high-court-decrees-four-il-holds-order-xxxvii-entitles-plaintiff-to-judgment-forthwith/",
+   "https://www.casemine.com/commentary/in/affirmation-of-appeal-restrictions-in-summary-suits:-d.-shanalal-v.-bank-of-maharashtra/view"
+  ],
+  "note": "The IL&FS Financial Services Bombay HC decree (Justice Gauri Godse, four summary suits, ~Rs 848.80 crore, non-deposit certificates on conditional leave, stamp duty cure, stay for insolvency-protected parties, reliance on D. Shanalal v. Bank of Maharashtra, AIR 1989 Bom 150) is confirmed. D. Shanalal v. Bank of Maharashtra is a real, correctly described Bombay HC authority on the preclusive effect of non-compliance with a conditional leave order. The 'moonshine defence' and 'plausible but improbable' terminology used generically (without naming a specific case) is well-established Order 37 terminology (Kiranmoyee Dassi principles, as applied in Mechelec Engineers and refined in IDBI Trusteeship v. Hubtown). No errors found."
  }
 ]
