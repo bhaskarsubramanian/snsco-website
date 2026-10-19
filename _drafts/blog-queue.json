@@ -3063,5 +3063,59 @@
       "to cite precisely when drafting: the Delhi High Court ruling (reported as Sun Pharma v. Dabur, 2024) on the Registrar's lack of power to extend the opposition-evidence deadline — confirm exact case name, citation and year before publishing"
     ],
     "added_on": "2026-10-18"
+  },
+  {
+    "id": "gig-workers-social-security-code-2026-guide",
+    "topic_title": "What the Code on Social Security Actually Gives a Gig or Platform Worker Today (and What Is Still a Draft)",
+    "angle": "A plain-language guide for platform aggregators and gig workers on what social-security protection actually exists right now under the Code on Social Security, 2020, separating what is already in force from what remains at the draft-rules stage state by state — since most online discussion conflates the two.",
+    "key_points": [
+      "The Code on Social Security, 2020 treats 'gig worker' and 'platform worker' as distinct defined categories from traditional 'employees', and envisages their social security coverage through government-framed welfare schemes rather than the standard employer-employee statutory benefits (PF, ESI) that apply to regular workers.",
+      "Funding for gig/platform worker schemes is meant to come from a Social Security Fund, with aggregators (ride-hailing, delivery, e-commerce platforms, etc.) required to contribute between 1% and 2% of their annual turnover, subject to a cap of 5% of the amount paid to gig and platform workers.",
+      "Central implementation has reportedly progressed furthest, with Central Rules said to have been notified in May 2026, but state-level rules — which are necessary for many of the Code's provisions to actually operate in a given state — remain at a draft or pre-publication stage in a large number of States/UTs, so the practical protection available to a gig worker still depends heavily on which state they work in.",
+      "Because coverage runs through government schemes rather than direct employer obligations enforceable the way minimum wages or PF contributions are, a gig worker's actual day-to-day recourse (e.g., for an arbitrary platform deactivation or non-payment) often still runs through contract law, consumer forums, or writ jurisdiction rather than labour law in the way a regular employee's would.",
+      "Confirm at drafting time, from the Ministry of Labour & Employment or PIB directly: (a) the exact commencement date of the Code and whether all provisions are in force nationally, (b) the current count of States/UTs with finalised (not merely draft) rules, and (c) whether the Social Security Fund and its scheme(s) for gig/platform workers have actually been operationalised in any state, since secondary sources disagree on all three points."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "to verify at drafting time: exact date the Code on Social Security, 2020 (or its relevant gig/platform-worker provisions) came into force — sources gave 21 November 2025 but this needs confirmation against an official notification",
+      "to verify at drafting time: current number/list of States and UTs that have finalised (not just pre-published draft) rules under the Code",
+      "confirmed (subject to re-check against the Act's text): aggregator contribution to the Social Security Fund is 1-2% of annual turnover, capped at 5% of amounts paid to gig and platform workers"
+    ],
+    "added_on": "2026-10-19"
+  },
+  {
+    "id": "ibc-avoidance-transactions-guide",
+    "topic_title": "Your Company Transferred Assets Before Insolvency: When Can the Resolution Professional Claw It Back?",
+    "angle": "A guide for a counterparty, creditor or former promoter facing an avoidance application, explaining the three distinct statutory tracks under the IBC — preferential (Section 43), undervalued (Section 45) and fraudulent/wrongful trading (Section 66) transactions — and why which track applies changes both the look-back period and what the other side actually has to prove.",
+    "key_points": [
+      "Section 43 (preferential transactions) targets a transfer that puts a particular creditor, surety or guarantor in a better position than they would get under the Section 53 liquidation waterfall, made on account of an antecedent debt; Section 45 (undervalued transactions) targets transfers made for significantly less than their value, each with their own look-back period fixed by Section 46 running back from the insolvency commencement date.",
+      "Section 66 (fraudulent or wrongful trading) sits in a different chapter of the Code and requires a finding that the business was carried on with intent to defraud creditors or for a fraudulent purpose, or that a director failed to exercise due diligence in minimising loss to creditors once insolvency became unavoidable — it is not simply a label for 'any' suspicious pre-insolvency transaction.",
+      "Under Section 25(2)(j), the resolution professional has an affirmative duty to identify and apply to the Adjudicating Authority (NCLT) to avoid such transactions, and under the CIRP Regulations the RP is expected to form and record a preliminary opinion within a set period after the insolvency commencement date — confirm the current regulatory deadline (reported as the 75th day) before citing it.",
+      "Where a resolution professional files a single combined application covering both avoidance-transaction grounds (Sections 43/45) and fraudulent-trading grounds (Section 66), the Adjudicating Authority must independently decide which specific provision actually applies on the facts rather than treating the application as a single composite claim, since the two sit in different chapters of the Code with different elements and consequences.",
+      "Confirm at drafting time whether the IBC Amendment Bill's reported proposal to let individual creditors (not just the RP) apply directly under an expanded Section 47, and to set dedicated NCLT timelines for avoidance applications, has actually been enacted — as of the research for this guide it remained a legislative proposal, not current law."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Sections 43 (preferential), 45 (undervalued) and 66 (fraudulent/wrongful trading) of the IBC are distinct tracks with different elements, and the Supreme Court has held the Adjudicating Authority must decide which applies when a combined RP application invokes both",
+      "to verify at drafting time: the exact current regulatory deadline (reported as day 75 of the insolvency commencement date) by which an RP must form a preliminary opinion on avoidable transactions",
+      "to verify at drafting time: whether the IBC Amendment Bill provisions on creditor-initiated avoidance applications and dedicated NCLT timelines have been enacted, or remain proposals"
+    ],
+    "added_on": "2026-10-19"
+  },
+  {
+    "id": "managerial-remuneration-section-197-private-company-guide",
+    "topic_title": "Does the 11% Pay Cap on Directors Even Apply to Your Company? Section 197 for Private vs Public Companies",
+    "angle": "A short, practical clarification guide for closely-held companies on a frequently misunderstood point — that Section 197 of the Companies Act, 2013's 11%-of-net-profit cap (and its 5%/10% sub-limits) on managerial remuneration applies only to public companies, not private ones, with the one major exception (a private company that is itself a subsidiary of a public company) that catches people out.",
+    "key_points": [
+      "Section 197's overall cap of 11% of net profits on total managerial remuneration, with sub-limits of 5% of net profits for a single managing/whole-time director or manager and 10% in aggregate if there is more than one, applies by its own wording only to a 'public company' — a private company is not subject to this ceiling at all.",
+      "A private company can pay its directors any remuneration authorised by its Articles of Association and approved through its normal board/shareholder approval process, without needing to meet Schedule V's 'inadequate profits' conditions that a public company must satisfy to pay beyond the cap.",
+      "The practical trap: a private company that is itself a subsidiary of a public company is treated as a 'deemed public company' for various purposes and can be pulled back within Section 197's reach — always check a company's own status and holding structure before assuming the private-company exemption applies.",
+      "Exceeding Section 197's cap for a public company (or a deemed public company) that does not meet Schedule V's conditions requires special resolution shareholder approval; confirm at drafting time whether a central-government-approval route still separately exists for exceeding the cap, since sources gave conflicting answers on whether that requirement has since been removed.",
+      "Even where Section 197 itself does not apply, a private company's director remuneration still has to satisfy unrelated requirements that do apply regardless of company type — TDS under the Income Tax Act, GST treatment where relevant, and related-party-transaction disclosure/approval rules under Section 188 where the director is also a related party."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "confirmed: Section 197 of the Companies Act, 2013, including its 11% overall cap and 5%/10% sub-limits, applies only to public companies by its own text; private companies are not subject to it",
+      "confirmed (trap to flag): a private company that is a subsidiary of a public company can be treated as a deemed public company and pulled within Section 197's scope",
+      "to verify at drafting time: whether exceeding the Section 197 cap (for a company it does apply to, failing Schedule V conditions) still requires a separate Central Government approval route, or whether that has been replaced entirely by special-resolution shareholder approval — sources disagreed"
+    ],
+    "added_on": "2026-10-19"
   }
 ]

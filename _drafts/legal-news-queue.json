@@ -2115,5 +2115,40 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-18"
+  },
+  {
+    "id": "ebix-technologies-amadeus-foreign-award-enforcement",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Ebix Cash World Money / Ebix Technologies v. Amadeus IT Group SA",
+    "citation": "Delhi High Court judgment dated 1 July 2026; SLP against it dismissed by the Supreme Court (Diary No., bench of CJI Surya Kant, Justices Joymalya Bagchi and V. Mohana)",
+    "court": "Delhi High Court (enforcement order), Supreme Court (dismissed Ebix's SLP)",
+    "date": "2026-07-01",
+    "holding_summary": "The Delhi High Court (Justice Jasmeet Singh) held an ICC arbitral award in favour of the Spanish travel-technology company Amadeus IT Group enforceable in India to the extent of the outstanding EUR 9.71 million (around Rs. 104.55 crore), rejecting Ebix's objections on limitation, public policy and force majeure. On limitation, the Court held there is 'no straight jacket formula' for when the right to apply for enforcement accrues, and that in this case it ran from the date the award was communicated, not from the date of the underlying default. On public policy, it rejected Ebix's argument that the transaction was impermissible debt-factoring. The Supreme Court subsequently declined to interfere with the High Court's judgment, finding no ground to disturb it.",
+    "why_it_matters": "Confirms that limitation for enforcing a foreign award in India is assessed flexibly by reference to when the award was communicated rather than a fixed limitation trigger, and that a factoring-style commercial arrangement does not by itself breach Indian public policy at the enforcement stage — both narrow the grounds available to award-debtors resisting enforcement of large foreign arbitral awards.",
+    "sources": [
+      "https://www.livelawbiz.com/top-stories/supreme-court-refuses-to-interfere-with-enforcement-of-971-million-icc-award-in-favour-of-spanish-travel-tech-company-552267",
+      "https://www.livelawbiz.com/arbitration/delhi-high-court-allows-enforcement-of-971-million-foreign-arbitral-award-against-ebix-cash-says-no-straight-jacket-formual-for-enforcment-539617",
+      "https://newsable.asianetnews.com/india/delhihcdirectsebixtopayrs10455croretoamadeusitgroup-articleshow-mrrct7x"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-19"
+  },
+  {
+    "id": "tv-today-saurashtra-aaj-tak-trademark-prior-user",
+    "practice_area": "Intellectual Property",
+    "case_name": "TV Today Network Ltd. v. Saurashtra Aaj Tak (Gujarati newspaper)",
+    "citation": "Delhi High Court judgment dated 30 July 2026; Supreme Court subsequently declined to interfere (bench led by CJI Surya Kant)",
+    "court": "Delhi High Court (Supreme Court declined to interfere with its order)",
+    "date": "2026-07-30",
+    "holding_summary": "In a passing-off and trademark suit first filed in 2003 and for decades limited at the trial-court stage to permitting the Rajkot-based Gujarati newspaper to continue using 'Saurashtra Aaj Tak' alongside a disclaimer, the Delhi High Court held TV Today Network to be the prior user of the 'Aaj Tak' mark, declared 'Aaj Tak' a well-known trademark, and granted a permanent and mandatory injunction directing the newspaper to stop using 'Aaj Tak' in its name. The Supreme Court declined to interfere with that order on the newspaper's appeal, while giving it three months to comply and change its name; the newspaper had argued TV Today had not placed documentary evidence of its own trademark use or licence agreement on record, but the Court found no ground to disturb the High Court's findings.",
+    "why_it_matters": "Reaffirms that a long-standing disclaimer-based coexistence arrangement does not harden into a permanent right to use a confusingly similar name, and that a mark's well-known status and a plaintiff's prior use can still be established and enforced even decades into litigation, with the disclaimer route treated only as interim relief rather than a final resolution.",
+    "sources": [
+      "https://www.livelawbiz.com/top-stories/supreme-court-refuses-to-interfere-with-hc-order-restraining-saurashtra-aaj-tak-from-using-aaj-tak-name-553478",
+      "https://www.barandbench.com/news/litigation/delhi-high-court-restrains-gujarati-newspaper-from-using-saurashtra-aaj-tak-after-aaj-tak-objects",
+      "https://theprint.in/india/sc-upholds-delhi-hc-order-restraining-gujarati-newspaper-from-using-saurashtra-aaj-tak-name/3064257/",
+      "https://www.verdictum.in/supreme-court/delhi-hc-order-restraining-gujarati-newspaper-from-using-saurashtra-aaj-tak-name-1623533"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-19"
   }
 ]
