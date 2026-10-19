@@ -1099,5 +1099,37 @@
    "https://taxguru.in/?p=1074662"
   ],
   "note": "Independently confirmed: Mehul Narayan Thakkar's 45,993 shares / 37.09% stake in Rukshmani Syntex, his brother Vikram's equal stake, the oppression and mismanagement claims, the 27 March 2026 status quo order, the 18 August 2026 NCLAT order narrowing the dispute because Mehul himself offered a buyback, the direction to NCLT Mumbai to appoint a valuer, and that the underlying oppression allegations were left undecided. One search result named a specific bench (Justice Sharad Kumar Sharma and Indevar Pandey) but I could not independently corroborate that pairing with a second source specific to this case, so the draft's hedge leaving the bench unstated is reasonable and is left as is."
+ },
+ {
+  "file": "_drafts/batch4/news/29-meghalaya-hc-jorabat-shillong-expressway-gst-writ-maintainability.json",
+  "verdict": "FIX",
+  "evidence": [
+   "https://foxmandal.in/news/writ-petition-challenging-gst-on-bot-annuity-receipts-not-maintainable-meghalaya-hc/",
+   "https://www.livelawbiz.com/gst/bot-annuity-gst-classification-dispute-statutory-appeal-meghalaya-hc-dismisses-writ-540379",
+   "https://www.taxmann.com/post/blog/hc-rejects-writ-against-gst-demand-on-bot-annuity-project/"
+  ],
+  "note": "Core ruling confirmed: WP(C) No. 245 of 2024, decided 2 June 2026, the Rs 112.39 crore GST demand on BOT annuity payments for the Jorabat-Shillong NH-40 section, the SAC 9967/Entry 23A exemption claim, the challenge to CBIC Circular 150/06/2021-GST, dismissal on maintainability with four weeks' liberty to appeal under Section 107 CGST, and the later review dismissal and Supreme Court SLP. Unlike the draft, which leaves the bench unstated as not independently confirmed, two independent sources (Fox Mandal's law firm note and a LiveLawBiz summary) identify the bench as Justices H.S. Thangkhiew and B. Bhattacharjee, so this is now confirmable and the draft's hedge should be corrected.",
+  "fixes": [
+   {
+    "find": "\"bench\": \"Not independently confirmed in available reporting\",",
+    "replace": "\"bench\": \"H.S. Thangkhiew and B. Bhattacharjee, JJ.\",",
+    "reason": "Two independent sources (Fox Mandal law firm commentary and LiveLawBiz) identify the Division Bench as Justices H.S. Thangkhiew and B. Bhattacharjee."
+   },
+   {
+    "find": "The bench could not be identified from the reporting reviewed and is left unstated. ",
+    "replace": "",
+    "reason": "The bench (Justices H.S. Thangkhiew and B. Bhattacharjee) is confirmable from independent sources, so this hedge is no longer accurate once the bench field is corrected."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/news/30-bombay-hc-park-inn-radisson-fssai-suspension-two-insects.json",
+  "verdict": "PASS",
+  "evidence": [
+   "https://www.barandbench.com/news/bombay-high-court-revokes-fda-decision-to-suspend-radisson-hotels-licence",
+   "https://www.latestly.com/india/news/we-are-in-india-we-have-to-take-a-realistic-stand-bombay-high-court-quashes-fda-action-against-park-inn-by-radisson-7540387.html",
+   "https://www.outlookindia.com/national/be-realistic-were-in-india-hc-quashes-suspension-of-hotel-licence-by-fda-over-hygiene"
+  ],
+  "note": "Independently confirmed: Park Inn by Radisson (Navi Mumbai), the 3 July 2026 suspension following an inspection, bench of Acting Chief Justice Ravindra Ghuge and Justice Gautam Ankhad, the two-insects finding against an otherwise compliant/satisfactory report, the licence restoration, and the 'We are in India. We have to take a realistic stand' quote. Reports differ on the exact hearing date (29 vs 30 July 2026), matching the draft's own hedge of 'on or about 29 July 2026'. No indication of reversal found."
  }
 ]
