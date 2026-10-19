@@ -1,0 +1,95 @@
+{
+  "slug": "bank-set-off-lien-fixed-deposit-guide",
+  "title": "A Bank's Right of Set-Off and Lien Over Deposits: When Can It Adjust One Account for Another's Default?",
+  "meta_description": "What actually lets a bank adjust your fixed deposit against someone else's loan default, and where the courts have drawn the line on that power.",
+  "practice_area": "Banking & Finance",
+  "intro": [
+    "A fixed deposit matures, the customer goes to withdraw it, and the bank says no, we have adjusted it against your overdue loan, or against a guarantee you signed years ago, or against a joint account that someone else defaulted on. Whether the bank can actually do that depends on a distinction most customers, and more than a few bank officers, get wrong: the difference between a lien and a set-off, and whether there is an actual debt owed to the bank in the first place.",
+    "This guide works through where a bank's power to retain or adjust a customer's money comes from, the limits courts have placed on it, and what a customer facing an unexplained adjustment on a statement can actually do about it."
+  ],
+  "sections": [
+    {
+      "heading": "The statutory source: Section 171 of the Contract Act",
+      "paragraphs": [
+        "A bank's right to hold on to a customer's property comes from Section 171 of the Indian Contract Act, 1872, which gives bankers, along with factors, wharfingers, attorneys of a High Court and policy brokers, a general lien over goods bailed to them as security for a general balance of account, unless there is a contract to the contrary. This is wider than an ordinary lien, which would only let the bank hold a specific item against the specific debt connected to it. A general lien lets a bank treat securities deposited for one purpose as available against a customer's entire outstanding balance with the bank, not just the transaction the security was originally given for.",
+        "The Supreme Court confirmed how far this reaches in Syndicate Bank v. Vijay Kumar in 1992, upholding a bank's lien over fixed deposit receipts that had been given as security for a bank guarantee, and allowing the bank to hold them against the customer's other outstanding dues even after the guarantee itself had been discharged. The security, once in the bank's hands in the ordinary course of business, is not limited to the transaction that brought it there."
+      ]
+    },
+    {
+      "heading": "Why some courts call this 'set-off' rather than 'lien'",
+      "paragraphs": [
+        "A fixed deposit is not, strictly, goods bailed to the bank in the way a lien classically contemplates. It is a debt the bank owes the depositor, since the money has already become the bank's own money to use, with the bank promising to repay it with interest on maturity. Some High Court reasoning has picked up on this and questioned whether Section 171's language of a lien over goods even fits a fixed deposit at all, suggesting that what is really happening when a bank adjusts a matured deposit against a customer's dues is better described as a set-off of mutual debts, rather than a lien in the strict sense.",
+        "For a practising purpose this distinction rarely changes the outcome, since banks succeed under either label as long as an actual debt is owed and the terms of the deposit do not exclude the right. It matters more when a customer's lawyer is arguing a borderline case, where framing the issue as a set-off of a debt, governed by its own separate contract law, can open up defences that an argument purely about a lien over goods would not.",
+        "What both the lien and the set-off framing agree on is that the bank's own account terms matter. Section 171 itself is subject to a contract to the contrary, so an account opening form or deposit receipt that expressly excludes the bank's right to adjust the deposit against other dues will usually be honoured, which makes reading that fine print before signing a genuinely useful exercise rather than a formality."
+      ]
+    },
+    {
+      "heading": "The one condition that decides most disputes: is there actually a debt?",
+      "paragraphs": [
+        "Whichever label is used, the right only exists where the customer actually owes the bank a debt. A bank cannot invoke Section 171 or any set-off doctrine to hold on to a deposit simply because it is nervous about a related company's exposure, or because a group entity associated with the depositor owes it money elsewhere. The National Company Law Appellate Tribunal made exactly this point in a 2024 ruling involving a bank's lien over a company's fixed deposit, holding that where the depositor company itself owed the bank nothing, reliance on Section 171 to withhold the deposit was untenable, and that continuing to withhold it after the company had entered insolvency resolution also cut across the moratorium provisions of the Insolvency and Bankruptcy Code.",
+        "The practical lesson from that kind of dispute is that a customer disputing an adjustment should start by asking the bank to show, in writing, exactly which debt it says is being secured or set off, and whose debt it actually is. A surprising number of disputes collapse once the bank is forced to identify the specific liability, because the adjustment was made against the wrong account holder's obligation, or against a liability that had already been settled, or against a group company's debt the depositor was never personally liable for."
+      ]
+    },
+    {
+      "heading": "Joint accounts and the limits of combining balances",
+      "paragraphs": [
+        "A recurring source of disputes is the joint account held on an either-or-survivor basis, where a bank treats either account holder's consent as sufficient to allow adjustment against one holder's personal default. Banks are generally understood to be able to merge or combine different accounts held by the same customer in their own name, but a long line of authority going back to Calcutta-era banking decisions holds that a bank cannot simply combine a customer's personal account with a joint account the customer holds together with someone else, treating the joint account as though it belonged solely to the defaulting account holder.",
+        "This matters particularly for families where one spouse or relative has taken a personal loan and later defaults, and the bank looks to adjust a joint fixed deposit held with another family member who was never a borrower on that loan. The co-holder's own share of the joint deposit is, in principle, protected from being swept up in someone else's personal default, though the facts of how the joint account was actually operated, and whether the co-holder had given some separate undertaking, can change that analysis considerably."
+      ]
+    },
+    {
+      "heading": "What a lien or set-off does not protect against: a prior court attachment",
+      "paragraphs": [
+        "A bank's lien is a right against its own customer. It is not automatically a shield against a third party's claim enforced through the court, such as a decree holder who has obtained a garnishee order attaching the same deposit in execution proceedings. Courts have held that a banker's lien does not by itself bar the attachment of a fixed deposit receipt in execution against the customer, but a bank facing that situation as a garnishee should not simply hand over the funds or ignore the lien either. The correct course is for the bank to approach the executing court under Order 21 Rule 46A of the Code of Civil Procedure and seek directions, disclosing its own claim over the deposit so the court can decide how the competing claims are to be resolved.",
+        "A depositor caught between a bank asserting a lien and a creditor trying to attach the same funds through a decree is usually best served by getting both claims before the same court quickly, rather than letting the bank and the decree holder fight it out administratively while the money sits frozen for longer than either dispute actually requires."
+      ]
+    },
+    {
+      "heading": "What to actually do when a deposit is adjusted without warning",
+      "paragraphs": [
+        "The first step is almost always a written demand to the branch, asking for the exact account number, the amount, and the contractual or statutory basis for the adjustment, in a form specific enough that the bank cannot answer with a vague reference to 'outstanding dues'. Banks that have acted correctly will usually produce this without much resistance, because a lien properly exercised against an actual, identifiable debt is not something they need to hide. Banks that have acted on a mistaken internal flag, or against the wrong customer's liability, tend to go quiet or start walking the adjustment back once pressed for specifics, which is itself a useful signal about which situation you are in.",
+        "Where the bank maintains its position and the amount involved justifies it, a complaint to the RBI's Banking Ombudsman under the current Reserve Bank Integrated Ombudsman Scheme is usually faster and cheaper than a civil suit, and works well for a straightforward dispute about whether a debt genuinely existed. A civil suit, or in an appropriate case a writ petition if the bank is one amenable to writ jurisdiction, becomes the better route once the dispute turns on a disputed question of fact that the Ombudsman's summary process is not well suited to resolve, such as a contested joint account mandate or a disputed guarantee.",
+        "Throughout this process, keep the original deposit receipt or its digital equivalent, the account opening form, and any communication in which the bank varied the account's terms. These documents decide whether the bank's own 'contract to the contrary' argument, or the customer's argument that no such contract was ever agreed, actually succeeds, and disputes are regularly lost or won on exactly this kind of paperwork rather than on the broader legal principle."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a bank adjust my fixed deposit against a loan I never personally took?",
+      "a": "Generally no. The right of lien or set-off depends on there being an actual debt owed by you to the bank. Courts have struck down adjustments made against a group company's or a relative's separate debt where the depositor itself owed the bank nothing, so ask the bank to identify the specific debt in writing before accepting the adjustment."
+    },
+    {
+      "q": "Does it matter whether the bank calls this a 'lien' or a 'set-off'?",
+      "a": "For most practical purposes, no, since the bank succeeds under either label once a genuine debt and no contrary agreement exist. The distinction matters more in a closely argued dispute, since a fixed deposit is technically a debt the bank owes you rather than goods it is holding, and some courts have treated set-off as the more accurate description."
+    },
+    {
+      "q": "Can my bank take money from a joint account to cover my spouse's personal loan default?",
+      "a": "Not automatically. Courts have generally held that a bank can merge different accounts belonging to the same customer, but cannot simply treat a joint account as though it belonged entirely to the one account holder who defaulted, without a clearer basis for doing so on the facts."
+    },
+    {
+      "q": "What should I do if I think a bank wrongly adjusted my deposit?",
+      "a": "Write to the bank demanding full details of the debt it says justifies the adjustment, including the account and the amount. If the explanation does not hold up, you can escalate through the bank's internal grievance process, the RBI Banking Ombudsman, or a civil suit, depending on the amount and how clearly the bank's position fails on the facts."
+    }
+  ],
+  "references": [
+    "Indian Contract Act, 1872, Section 171 (banker's general lien, subject to a contract to the contrary)",
+    "Syndicate Bank v. Vijay Kumar and Others, 1992 SCC (2) 331 (Supreme Court upholding a bank's lien over fixed deposit receipts for other outstanding dues after the connected guarantee was discharged)",
+    "ICBC v. Anish Niranjan Nanavaty, Company Appeal (AT) (Ins.) No. 69 of 2024 (NCLAT holding Section 171 cannot be invoked absent an actual debt owed by the depositor, and that withholding a deposit during CIRP conflicts with the IBC moratorium under Sections 17 and 18)",
+    "Code of Civil Procedure, 1908, Order 21 Rule 46A (garnishee's duty to seek the executing court's directions where it claims a lien over attached property)"
+  ],
+  "sources": [
+    "https://www.khuranaandkhurana.com/2023/04/05/case-comment-anumati-vs-punjab-national-bank/",
+    "https://www.indialaw.in/blog/insolvency-bankruptcy/nclat-rejects-icbcs-lien-on-r-coms-%e2%82%b927-6-cr-deposit/",
+    "https://www.taxscan.in/top-stories/lien-cannot-cover-group-company-debts-when-cd-has-no-liability-nclat-orders-icbc-to-release-cr-fd-1437499",
+    "https://blog.ipleaders.in/understanding-bankers-right-to-lien-and-set-off/",
+    "https://www.casemine.com/in/column/an-analysis-of-section-171-of-the-indian-contract-act,-1872:-the-general-lien/view"
+  ],
+  "verification_notes": [
+    "Section 171 text and scope (general lien for bankers, subject to contrary agreement): confirmed across casemine.com's two columns on Section 171 and ipleaders.in's explainer, both reproducing the same statutory text.",
+    "Syndicate Bank v. Vijay Kumar holding on lien over FDRs surviving discharge of the connected guarantee: confirmed across khuranaandkhurana.com's case comment and the casemine.com commentary, both citing the same 1992 Supreme Court ruling consistently.",
+    "ICBC v. Anish Niranjan Nanavaty NCLAT ruling requiring an actual debt before Section 171 applies, and its interaction with the IBC moratorium: confirmed across indialaw.in's report and taxscan.in's report of the same Company Appeal (AT)(Ins.) No. 69 of 2024, both describing the same facts and outcome.",
+    "Kerala High Court line questioning whether a fixed deposit is properly subject to a 'lien' versus a 'set-off': confirmed by a Kerala Law Academy case-database summary and referenced consistently in the ipleaders.in explainer; stated here in general, hedged terms since only one primary-adjacent source was available.",
+    "Rule against combining a customer's personal account with a joint account held with another person: confirmed by a Calcutta-origin line of authority described in the ipleaders.in explainer; a specific recent Madras High Court ruling on margin-money fixed deposits was found in only one unverifiable secondary source (an unnamed, undated case-note) and was therefore deliberately left out of this guide rather than cited without a confirmable case name or date.",
+    "Order 21 Rule 46A CPC and the garnishee's duty to seek court directions where it claims a lien: confirmed as a standard, well-established CPC provision referenced in the ipleaders.in explainer alongside the general commentary on lien versus attachment."
+  ]
+}
