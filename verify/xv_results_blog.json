@@ -1027,5 +1027,35 @@
     "reason": "Same correction as above, applied to the FAQ answer: the freeze under SEBI's framework covers the entire promoter and promoter group shareholding, not just the excess over the threshold."
    }
   ]
+ },
+ {
+  "file": "_drafts/batch4/blog/05-esi-contribution-contract-workers-principal-employer-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.taxscan.in/other-taxations/calcutta-hc-rules-principal-employer-liable-for-wages-paid-through-immediate-employer-under-esi-act-1452272",
+   "https://www.globalhealthrights.org/c-e-s-c-ltd-v-subhash-chandra-bose-and-ors/",
+   "https://lawtext.in/judgement.php?bid=86497"
+  ],
+  "note": "Section 2(9) and Section 40 ESI Act are correctly described. C.E.S.C. Ltd. v. Subhash Chandra Bose (1992 AIR 573/[1991] SCR Supl.(2) 267/(1992) 1 SCC 441, decided 15 Nov 1991) is confirmed, including its accept/reject-work holding. Height Insurance Services Ltd v ESIC (Calcutta HC, writ dismissed, Rs 6.13 crore demand on payments to Golden Trust Financial Services, principal employer held liable) is confirmed. However, FAQ 3's claim that the ESI Corporation 'can proceed against the principal employer directly under Section 40 regardless of the contractor's own registration status' overstates the settled state of ESI case law: a Karnataka HC ruling involving a manpower supplier placed at ISRO's Satellite Centre held, under the same ESI provisions, that principal employer liability is secondary and does not arise where the immediate employer is itself registered and has paid its contributions -- the opposite of what Height Insurance Services found on its facts. The guide should not present the Height Insurance Services position as the uniform rule without flagging this conflicting authority.",
+  "fixes": [
+   {
+    "find": "Not necessarily. The ESI Corporation can proceed against the principal employer directly under Section 40 regardless of the contractor's own registration status, as the Calcutta High Court confirmed in the 2026 Height Insurance Services case. A contractor's registration reduces risk but does not eliminate it.",
+    "replace": "Not necessarily, and the case law is not entirely uniform. The Calcutta High Court's 2026 Height Insurance Services ruling held the ESI Corporation could proceed against the principal employer directly under Section 40 even though payments were routed through an intermediary. But a Karnataka High Court ruling involving a manpower supplier placed at ISRO's Satellite Centre reached the opposite result on similar facts, holding that principal employer liability is secondary and does not arise where the immediate employer is itself registered and compliant. A contractor's registration reduces risk but should not be assumed to eliminate it.",
+    "reason": "The blanket statement that registration status is irrelevant to Section 40 liability overstates the law; a Karnataka High Court ruling on the same ESI provisions reached the contrary result where the immediate employer was itself compliant, and the guide should disclose that split rather than present Height Insurance Services as a uniform rule."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch4/blog/06-fssai-unsafe-vs-substandard-vs-misbranded-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.outlookbusiness.com/corporate/nestle-indias-low-fat-dairy-whitener-found-unsafe-substandard-at-hotel-lalit-fssai",
+   "https://www.khaleejtimes.com/world/asia/india-nestle-low-fat-dairy-whitener-sample-unsafe",
+   "https://www.verdictum.in/court-updates/supreme-court/ram-nath-v-the-state-of-uttar-pradesh-2024-insc-138-food-safety-and-standards-act-1522052",
+   "https://foodsafetyworks.com/fssai_updates/changes-in-penalties-under-fssa-2006"
+  ],
+  "note": "Section 59 FSS Act's Jan Vishwas-amended penalty tiers (no-injury: 6 months/Rs 1 lakh reduced to 3 months but increased to Rs 3 lakh; non-grievous 1 year; grievous 6 years; death: min 7 years to life plus min Rs 10 lakh fine) are confirmed. Ram Nath v. State of UP (2024 INSC 138, Oka and Karol JJ) confirmed exactly, including the Section 59/IPC 272-273 overriding-effect holding. The October 2026 Nestle India low-fat dairy whitener/Hotel Lalit matter (unsafe and substandard classification, stop-sale direction, notice to Bharat Hotels, Nestle's phosphorus-methodology dispute) is confirmed. No errors found."
  }
 ]
