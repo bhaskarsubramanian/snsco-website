@@ -1619,5 +1619,27 @@
    "https://www.livelawbiz.com/high-court/karnataka-high-court/karnataka-high-court-adani-group-company-acc-limited-gets-relief-karnataka-high-court-rupees-482-crore-mining-penalty-dispute-549865"
   ],
   "note": "duplicate of live content. This exact ruling (ACC Limited v. State of Karnataka, Kalaburagi limestone mine, Rs 482.69 crore penalty quashed, lease deemed-extended under Section 8A(5) MMDR Act, decision date 2026-09-08) is already published live at /legal-news/karnataka-hc-acc-kalaburagi-mining-penalty-quashed.html with identical facts and the same decision date, confirmed via assets/search-index.json on origin/main."
+ },
+ {
+  "file": "_drafts/batch5/updates/07-gstat-dismisses-shakti-industrial-appeal-non-prosecution.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.taxscan.in/top-stories/failure-to-rectify-appeal-defects-despite-repeated-opportunities-gstat-invokes-rule-42-dismisses-appeal-for-non-prosecution-1451336",
+   "https://taxguru.in/?p=1080179",
+   "https://www.taxheal.com/?p=140550"
+  ],
+  "note": "Confirmed via Taxscan/GSTLaw Report, TaxGuru and TaxHeal. APL/DD35/HYD/2026, four registry defects, three missed hearings after earlier cure opportunities, dismissal under Rules 10 and 42 of the GSTAT Procedure Rules 2025 for non-prosecution without a merits review, with liberty to seek restoration. The 2 Sept 2026 decision date (last missed hearing) is a reasonable proxy, as no source states a separate order date. No live-site duplicate found."
+ },
+ {
+  "file": "_drafts/batch5/updates/08-nclat-tata-capital-secured-creditor-liquidation-estate.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.taxscan.in/corporate-laws/secured-creditor-cannot-claim-hypothecated-assets-after-missing-30-days-deadline-nclat-rejects-tata-capitals-plea-us-52-of-ibc-read-order",
+   "https://taxguru.in/?p=1090392",
+   "https://foxmandal.in/?p=60753"
+  ],
+  "note": "Confirmed via Taxscan, TaxGuru and Fox Mandal. Company Appeal (AT)(Insolvency) No. 1067 of 2026, decided 6 Oct 2026, nil Form D security-interest entry, a 19 Feb 2025 election letter held too late, and Section 230 scheme proceedings held not to toll the Section 52 30-day window. This is distinct from an unrelated live-site Tata Capital case (Bombay HC, personal-guarantor arbitration under the 2026 IBC amendment) -- not a duplicate."
  }
 ]
