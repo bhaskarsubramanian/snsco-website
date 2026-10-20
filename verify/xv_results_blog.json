@@ -1339,7 +1339,7 @@
   "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
   "fixes": [
    {
-    "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
+    "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
     "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
     "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
    }
@@ -1354,5 +1354,29 @@
    "https://medicaldialogues.in/news/health/medico-legal/no-evidence-justifying-dialysis-on-patient-with-cardiac-complications-consumer-court-orders-hospital-cardiologist-to-pay-rs-99-lakh-compensation-176508"
   ],
   "note": "Kakinada order facts fully confirmed: Medicover Hospitals Nellore and Dr. Paluru Manohar Reddy ordered to pay Rs 99 lakh plus Rs 10,000 costs, patient admitted 28 Feb 2025 and died 2 March 2025, failure to justify dialysis and failure to produce the complete case sheet, 45-day compliance window, Rs 50 lakh apportioned to the minor daughter in a fixed deposit until majority. No errors found."
+ },
+ {
+  "file": "_drafts/batch5/blog/01-transfer-of-residence-nri-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.scconline.com/blog/?p=374569",
+   "https://www.shankariasparliament.com/current-affairs/baggage-rules-2026",
+   "https://taxguru.in/?p=1022765",
+   "https://nriinformation.com/returning-to-india/transfer-residence"
+  ],
+  "note": "Independently confirmed Notification 14/2026-Customs (N.T.) dated 1 Feb 2026, effective 2 Feb 2026, superseding the 2016 rules; ToR value slabs of Rs 1.5 lakh / Rs 3 lakh / Rs 7.5 lakh by period abroad; weight-based jewellery allowance (40g women / 20g others, no value cap, after 1+ year abroad); one duty-free laptop for 18+; and the general duty-free allowance raised to Rs 75,000 (Rs 25,000 for foreign tourists, none for land arrivals). The guide's deliberate hedging on the minimum qualifying stay abroad and on exact vehicle-import conditions matches genuinely inconsistent public reporting found in fresh search. No case claims in this guide to check for stay/reversal."
+ },
+ {
+  "file": "_drafts/batch5/blog/02-living-will-advance-directive-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://lawfoyer.in/common-cause-a-regd-society-vs-union-of-india-2023-scc-online-sc-99/",
+   "https://www.verdictum.in/court-updates/supreme-court/removal-magistrate-approval-in-living-will-process-1459195",
+   "https://www.mondaq.com/india/wills-intestacy-estate-planning/1487854/mhco-update-%7c-custodians-appointed-for-living-wills",
+   "https://foxmandal.in/News/karnataka-government-issues-circular-implementing-right-to-die-with-dignity/"
+  ],
+  "note": "Independently confirmed Common Cause v. Union of India (2018) 5 SCC 1 recognising passive euthanasia under Article 21, and the 24 January 2023 order (2023 SCC OnLine SC 99 / (2023) 14 SCC 131) replacing Judicial Magistrate attestation with a notary or gazetted officer plus two witnesses, and changing the magistrate's role from prior approval to later intimation. Maharashtra's Nikhil Datar PIL (PIL 3/2024) and the ~417 custodians figure, and Karnataka's 30 January 2025 circular with a primary/secondary medical board structure (treating physician plus senior experts, three practitioners total), are both confirmed by independent reporting. The draft's hedging on exact custodian counts and board-composition variants matches real inconsistency across sources. No unconfirmed claims found that need a fix."
  }
 ]
