@@ -1552,5 +1552,27 @@
       "https://www.taxscan.in/income-tax/search-linked-s148-notice-for-ay-2015-16-issued-in-march-2026-beyond-10-years-limit-delhi-hc-quashes-notice-read-order"
     ],
     "note": "Case, petition number, bench, decision date, Section 132 search date, notice date and the limitation arithmetic (AY 2026-27 minus 10 years = AY 2017-18, outside which AY 2015-16 falls) are all independently confirmed. Not duplicated on the live site."
+  },
+  {
+    "file": "_drafts/batch5/updates/01-sc-new-india-assurance-fire-claim-repudiation-upheld.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelaw.in/top-stories/fire-doesnt-seem-accidental-supreme-court-upholds-repudiation-of-rs-24-crore-fire-insurance-claim-551172",
+      "https://www.verdictum.in/supreme-court/ms-new-india-assurance-company-limited-v-ms-hemkund-duplex-and-board-private-limited-2026-insc-1023-1622489",
+      "https://supremetoday.ai/supreme-court-upholds-new-india-assurances-repudiation-of-rs-2-4-crore-fire-claim-on-policy-breach-20260922097"
+    ],
+    "note": "Case, citation, decision date, Rs 2.4 crore award figure, repudiation grounds (false declarations, manipulated accounts) and the surveyor-report holding (NCDRC cannot brush aside a detailed survey report without identifying a specific flaw) all independently confirmed. Not duplicated on the live site."
+  },
+  {
+    "file": "_drafts/batch5/updates/02-sc-declines-interfere-ganguly-arbitral-award-percept.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/supreme-court-dismisses-percepts-appeal-against-1449-crore-arbitral-award-to-sourav-ganguly",
+      "https://www.livelaw.in/top-stories/supreme-court-talent-manager-plea-against-arbitral-award-in-favor-of-former-cricketer-sourav-ganguly-552095",
+      "https://www.exchange4media.com/marketing-news/sc-refuses-percept-appeal-upholds-rs-14-crore-award-in-sourav-ganguly-dispute-158669.html"
+    ],
+    "note": "Case, citation (SLP (C) No. 24927 of 2026), decision date, award figure (Rs 14.49 crore), the Calcutta HC's April 2026 Section 37 dismissal, and the termination-right waiver finding (notice given 21 Nov 2007 though the triggering absence ended 30 Nov 2006) all independently confirmed. Not duplicated on the live site."
   }
 ]
