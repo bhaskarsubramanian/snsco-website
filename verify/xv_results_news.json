@@ -1598,5 +1598,26 @@
    "https://ksandk.com/newsletter/itc-gold-flake-trademark-injunction/"
   ],
   "note": "Confirmed via LiveLaw, Verdictum, World Trademark Review and King Stubb & Kasiva. Division Bench (Bhattacharyya and Bhattacharya JJ), 2026:CHC-OS:400-DB, 18 Sept 2026, dismissed Pravin Kumar's appeal and ITC's cross-objection; the 85% health-warning point and 'Gold' secondary meaning holding both confirmed. Sources differ slightly on whether the single judge's order itself rested on passing off alone, but reports agree the Division Bench held the existing order already covers infringement too, supporting the card's framing. No live-site duplicate found."
+ },
+ {
+  "file": "_drafts/batch5/updates/05-bombay-hc-breach-candy-gratuity-nerkar.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.freepressjournal.in/mumbai/bombay-hc-directs-breach-candy-swimming-bath-trust-to-pay-1167-lakh-gratuity-to-former-manager",
+   "https://rawlaw.in/bombay-high-court-orders-breach-candy-club-to-pay-ex-manager-%e2%82%b911-67-lakh-gratuity-rejects-%e2%82%b95-crore-loss-defence-awards-15-compound-interest-and-%e2%82%b91-lakh-costs-against-trust/"
+  ],
+  "note": "Confirmed via Free Press Journal and Rawlaw (plus Rawlaw's posted order copy). Justice Sandeep Marne, WP 9972 of 2026, pronounced 1 Sept 2026, Rs 11.67 lakh gratuity plus Rs 1 lakh costs, dismissed for bypassing the statutory Gratuity Act appeal, Rs 5 crore loss defence rejected. The interest-rate conflict between sources (10% vs 15%) is correctly kept out of the card. No live-site duplicate found."
+ },
+ {
+  "file": "_drafts/batch5/updates/06-karnataka-hc-acc-mining-royalty-penalty-quashed.json",
+  "verdict": "FAIL",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/karnataka-high-court-quashes-482-crore-penalty-on-adanis-acc-limited-for-mining-in-kalaburagi",
+   "https://www.livelaw.in/high-court/karnataka-high-court/mining-penalty-adani-acc-ltd-quashed-supplementary-lease-deed-not-mandatory-549580",
+   "https://www.livelawbiz.com/high-court/karnataka-high-court/karnataka-high-court-adani-group-company-acc-limited-gets-relief-karnataka-high-court-rupees-482-crore-mining-penalty-dispute-549865"
+  ],
+  "note": "duplicate of live content. This exact ruling (ACC Limited v. State of Karnataka, Kalaburagi limestone mine, Rs 482.69 crore penalty quashed, lease deemed-extended under Section 8A(5) MMDR Act, decision date 2026-09-08) is already published live at /legal-news/karnataka-hc-acc-kalaburagi-mining-penalty-quashed.html with identical facts and the same decision date, confirmed via assets/search-index.json on origin/main."
  }
 ]
