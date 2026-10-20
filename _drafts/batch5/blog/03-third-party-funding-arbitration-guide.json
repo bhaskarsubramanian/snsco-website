@@ -1,0 +1,95 @@
+{
+  "slug": "third-party-funding-arbitration-india-guide",
+  "title": "Third-Party Funding of Arbitration in India: What the Tomorrow Sales Agency Ruling Actually Settled",
+  "meta_description": "Is funding someone else's arbitration for a share of the winnings legal in India, and what a funder cannot be made to pay.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "A claimant with a genuine claim but no money to run a long arbitration has an obvious option that is used far more quietly in India than its size would suggest: find a commercial funder who pays the legal fees and tribunal costs in exchange for a cut of whatever is eventually recovered. Unlike England, India never adopted a rule making this kind of arrangement automatically unlawful, and a nineteenth-century Privy Council decision from Calcutta is still the starting point courts cite when the question comes up. What India has never done is build a statute or set of regulations around it, which leaves practitioners working from a handful of judicial decisions and institutional rules borrowed from abroad.",
+    "This guide sets out where Indian law currently stands on funding a party's arbitration costs, what a funding agreement needs to get right, and what a 2023 Delhi High Court ruling decided about whether a funder can be made to pay an adverse costs award against the party it funded."
+  ],
+  "sections": [
+    {
+      "heading": "Why funding litigation is not automatically illegal in India",
+      "paragraphs": [
+        "English law for a long time treated champerty, meaning funding someone else's litigation for a share of the proceeds, and maintenance, meaning funding it without any personal interest at all, as against public policy and potentially illegal. India's courts took a different turn as early as 1876, in the Privy Council's decision in Ram Coomar Coondoo v. Chunder Canto Mookerjee. A mooktear who had advanced money to fund ejectment suits, in exchange for repayment with interest plus a share of the recovered profits, later sued to recover what he was owed under that arrangement. The Privy Council held that an agreement is not void merely because it would be called champertous in England. It becomes void only if it is also, on its own facts, contrary to public policy, such as where the terms are extortionate or amount to little more than a bet on the outcome of someone else's lawsuit.",
+        "That reasoning has been picked up by later Indian decisions, including a Privy Council ruling in the 1930s that went so far as to say a funder may fairly be allowed some chance of an above-average return, given the risk being taken on. The upshot is a general, judge-made position that a fair, good-faith funding arrangement is enforceable, while one with unconscionable or extortionate terms is not. There is still no Indian statute setting out when a funding agreement crosses that line, so the test is applied case by case on the facts of the particular agreement."
+      ]
+    },
+    {
+      "heading": "A separate, stricter rule for advocates themselves",
+      "paragraphs": [
+        "This permissive position for commercial, non-lawyer funders should not be confused with what an advocate is allowed to do. Rule 20 of the Bar Council of India Rules bars an advocate from charging a fee that is contingent on the outcome of the case, or from agreeing to take a share of what the client eventually recovers. The Supreme Court treated an agreement of this kind between a lawyer and client as void and professionally improper in B. Sunitha v. State of Telangana in 2018, and the position has not changed since.",
+        "The practical consequence is that a party's lawyer cannot structure their own fees as a share of the arbitration award, however common that arrangement is in some other jurisdictions, but a separate commercial funder who is not acting as the party's counsel can lawfully take exactly that kind of return. Clients occasionally try to blur this line by routing a funding arrangement through their own law firm. That is worth avoiding, since it risks tainting the lawyer's own fee arrangement with the same objection that applies to contingent legal fees."
+      ]
+    },
+    {
+      "heading": "What Tomorrow Sales Agency actually decided",
+      "paragraphs": [
+        "The leading recent authority is the Delhi High Court's ruling in Tomorrow Sales Agency Private Limited v. SBS Holdings, Inc. and Global Enterprise Logistics Pte Ltd. The claimants had brought a Singapore-seated arbitration against SBS and GEL, funded by Tomorrow Sales Agency, an NBFC, seeking damages of roughly INR 250 crore. The tribunal dismissed the claim and ordered the claimants to pay the respondents' costs. When the claimants did not pay, the respondents went to the Delhi High Court under Section 9 of the Arbitration and Conciliation Act seeking an order to secure the costs award, this time against the funder directly rather than against the claimants alone.",
+        "A single judge initially sided with the respondents, reasoning that a funder with a financial stake in the outcome could be treated as having a vested interest justifying interim relief against it. A Division Bench reversed that view on appeal in May 2023. It held that the funder was never a signatory to the arbitration agreement and was never a party to the arbitration itself, so it could not be treated as a judgment debtor and the costs award could not be enforced against it under Section 36 of the Act. An application for interim relief against a non-party funder, at the stage of securing an award that was never made against that funder, was accordingly not maintainable.",
+        "The ruling is often read, correctly, as an implicit endorsement of third-party funding as a legitimate way to finance arbitration and improve access to justice for claimants who could not otherwise afford it. The same bench flagged a disclosure gap that remains open in Indian law, discussed below."
+      ]
+    },
+    {
+      "heading": "The disclosure gap this leaves open",
+      "paragraphs": [
+        "Section 12 of the Arbitration and Conciliation Act requires an arbitrator to disclose any circumstance likely to give rise to justifiable doubts about independence or impartiality, but that obligation runs to the arbitrator's own conflicts, not to whether a party is being funded by an entity connected to the arbitrator, a co-arbitrator, or even the tribunal's own institution. Without routine disclosure of a funder's identity, a party has little practical way of checking for that kind of hidden conflict before it becomes a ground to challenge the award much later.",
+        "Several major international institutions have moved ahead of India on this. Singapore's arbitration rules now require disclosure of funding arrangements and the funder's identity, and similar obligations exist under rules used by arbitral institutions in Hong Kong and under the ICC's own rules. India has no equivalent requirement in its own statute, and a 2017 government-appointed committee flagged the regulatory gap years ago without it being closed since. Until that changes, a party funding its own claim should expect the question of disclosure to be decided, if it comes up at all, through the specific institutional rules chosen for that arbitration rather than through Indian statute."
+      ]
+    },
+    {
+      "heading": "Drafting a funding agreement that survives scrutiny",
+      "paragraphs": [
+        "Given that Indian courts test a funding agreement for fairness rather than banning the category outright, the terms of the agreement itself carry real weight if the arrangement is ever challenged. A funder's return should be proportionate to the risk taken and the capital actually advanced, rather than structured as a windfall unconnected to either. The agreement should be clear about who controls strategic decisions in the arbitration, since a funder dictating settlement decisions against the funded party's own interest invites the argument that the arrangement is closer to an improper assignment of the claim than a funding relationship.",
+        "It is also worth addressing, expressly, what happens if the claim fails and an adverse costs order follows, even though Tomorrow Sales Agency currently protects a non-signatory funder from being treated as a judgment debtor on that award. A tribunal seated outside India, or a differently framed application, could reach a different result on a different set of facts, and a funding agreement that is silent on this risk leaves the funded party to argue the point alone if the other side tries a fresh approach.",
+        "A funded party should also think through what happens mid-arbitration if the funder itself runs into financial trouble, since the funding agreement is a separate contract that can fail independently of how the arbitration is going. Building in a reserve, a staged drawdown structure, or at least a clear exit mechanism if funding dries up partway through a long reference protects the claimant from being forced to abandon or settle a strong claim purely for want of cash at the wrong moment."
+      ]
+    },
+    {
+      "heading": "A word on respondent-side and portfolio funding",
+      "paragraphs": [
+        "Most of the commentary on this subject, and most of the case law, concerns funding a claimant who needs money to bring a claim. Funding a respondent who needs money to defend one is less common in India but not conceptually different, and the same fairness test from Ram Coomar Coondoo applies equally. A respondent's funder typically takes its return from the value of what is successfully defended against, or from an agreed fee structure, rather than from a damages award, which makes the agreement's drafting even more important since there may be no single recovery fund for the funder to point to at the end of the case.",
+        "Portfolio funding, where a single funder backs several unrelated claims or defences held by the same client across multiple matters, is increasingly used by larger Indian corporates managing many disputes at once. It raises the same disclosure and conflict questions discussed above, multiplied across every tribunal involved, and a client considering it should expect each arbitration in the portfolio to be assessed on its own facts rather than assuming the whole portfolio arrangement is validated once by a single ruling."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it legal in India to fund someone else's arbitration for a share of the award?",
+      "a": "Generally yes. Indian courts, following the Privy Council's 1876 ruling in Ram Coomar Coondoo, treat a fair, good-faith funding arrangement as enforceable rather than automatically champertous. An agreement with extortionate or unconscionable terms can still be struck down, but the category of commercial litigation funding itself is not unlawful."
+    },
+    {
+      "q": "Can my own lawyer fund my arbitration in exchange for a share of what I win?",
+      "a": "No. Rule 20 of the Bar Council of India Rules bars an advocate from taking a fee contingent on the outcome or a share of the recovery, and the Supreme Court treated this kind of arrangement as void in B. Sunitha v. State of Telangana. A separate, non-lawyer commercial funder is not bound by that rule."
+    },
+    {
+      "q": "Can the other side go after my funder if I lose and I cannot pay the costs award?",
+      "a": "Under the Delhi High Court's ruling in Tomorrow Sales Agency v. SBS Holdings, a funder who is not a signatory to the arbitration agreement and not a party to the arbitration cannot be treated as a judgment debtor, so a costs award against you cannot currently be enforced directly against the funder."
+    },
+    {
+      "q": "Does India require a funder's identity to be disclosed to the arbitral tribunal?",
+      "a": "There is no Indian statutory requirement to do so, unlike some international institutional rules that now mandate it. Disclosure, if it happens, currently depends on the specific arbitral institution's rules chosen for that case rather than on the Arbitration and Conciliation Act itself."
+    }
+  ],
+  "references": [
+    "Ram Coomar Coondoo and Another v. Chunder Canto Mookerjee (Privy Council, 1876), holding a champertous agreement is not void unless also contrary to public policy on its facts",
+    "Bar Council of India Rules, Part VI, Chapter II, Section II, Rule 20 (advocate barred from a fee contingent on outcome or a share of litigation proceeds)",
+    "B. Sunitha v. State of Telangana, (2018) 1 SCC 638 (Supreme Court holding a contingent fee agreement between advocate and client void)",
+    "Tomorrow Sales Agency Private Limited v. SBS Holdings, Inc. and Another, 2023 SCC OnLine Del 3191 (Delhi High Court Division Bench, 29 May 2023)",
+    "Arbitration and Conciliation Act, 1996, Sections 12, 36 and 9"
+  ],
+  "sources": [
+    "https://www.scconline.com/blog/post/2023/06/24/can-indian-third-party-funders-party-to-arbitration-tomorrow-sales-case/",
+    "https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/third-party-funding-is-funder-bound-by-an-award-for-costs-indian-court-rules-10619",
+    "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-third-party-funder-liability-arbitration-award-229943",
+    "https://blog.ipleaders.in/status-success-fees-indian-litigation-arbitration-proceedings/",
+    "https://www.scconline.com/blog/post/2025/10/14/understanding-third-party-arbitration-funding-in-india/"
+  ],
+  "verification_notes": [
+    "Ram Coomar Coondoo holding on champerty and public policy: confirmed across legitquest.com's case summary and scconline.com/legalserviceindia.com secondary commentary on the same Privy Council ruling.",
+    "Tomorrow Sales Agency facts, single-judge order and Division Bench reversal, and the Section 36/non-party reasoning: confirmed across nishithdesai.com, livelaw.in, scconline.com and the Kluwer/Wolters Kluwer arbitration blog commentary, all describing the same May 2023 ruling consistently on the core holding.",
+    "Rule 20 BCI Rules barring contingent fees for advocates, and B. Sunitha v. State of Telangana treating such an agreement as void: confirmed across ipleaders.in and the Kluwer arbitration blog's 'Feevolution' article discussing the same rule and case.",
+    "Absence of an Indian statutory disclosure requirement for third-party funders, versus disclosure rules at SIAC/HKIAC/ICC: confirmed by the scconline.com October 2025 explainer, cross-checked against the general commentary trend in the barandbench.com and ccadr.cnlu.ac.in articles describing the same regulatory gap.",
+    "No Indian statute or regulation specifically governing third-party funding of arbitration as of the time of writing: stated in general terms since this absence is confirmed by multiple 2024-2025 commentary sources and no contrary statute or notification turned up in search results."
+  ]
+}

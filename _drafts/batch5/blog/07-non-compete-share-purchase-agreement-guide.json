@@ -1,0 +1,88 @@
+{
+  "slug": "non-compete-clause-share-purchase-agreement-guide",
+  "title": "Non-Compete Clauses in Share Purchase Agreements: Why the Goodwill Exception Makes Them Enforceable",
+  "meta_description": "Why a non-compete clause in an SPA can survive Section 27 of the Contract Act when an employee's non-compete usually cannot.",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "Ask an Indian corporate lawyer whether a non-compete clause is enforceable and the honest first answer is almost always it depends on what kind of non-compete you mean. A clause restraining a departing employee from working for a competitor after they leave is, in the overwhelming run of cases, void. The same restraint, written into a share purchase agreement binding a promoter who has just sold the company, is routinely upheld. The reason both outcomes sit inside the same statutory provision, Section 27 of the Indian Contract Act, 1872, is that the Act carves out one narrow exception, and a business sale genuinely fits inside it in a way an employment contract almost never does.",
+    "This guide works through why that distinction holds, what a court actually looks for before upholding a non-compete tied to a sale of shares, and how a 2025 Supreme Court ruling on an entirely different kind of restraint, an employment bond, sharpened the line between restraints that operate during a relationship and restraints that try to bind someone after it has ended."
+  ],
+  "sections": [
+    {
+      "heading": "Section 27's one exception, and why it is narrow",
+      "paragraphs": [
+        "Section 27 states that an agreement by which anyone is restrained from exercising a lawful profession, trade or business of any kind is, to that extent, void. India has never adopted the English common law's reasonableness test for post-termination restraints, under which a restraint confined to a reasonable area and duration can be upheld even outside any statutory exception. Indian courts apply Section 27 as a flat rule: a restraint on carrying on a lawful trade after a relationship ends is void, full stop, unless it falls within the one statutory exception the section itself provides.",
+        "That exception covers a person who sells the goodwill of a business and agrees, as part of that sale, not to carry on a similar business within specified local limits, so long as the limits are ones the buyer, the nature of the business, and the court consider reasonable. The exception exists because the goodwill being sold, meaning the customer relationships, reputation and ongoing earning capacity the business has built up, would be worth a fraction of its price if the seller could simply walk away and rebuild the same customer base next door. A buyer paying for that goodwill is, in substance, also paying for the seller's silence about competing with it, and Section 27 lets that bargain stand."
+      ]
+    },
+    {
+      "heading": "Why this fits a share sale and not an ordinary employment exit",
+      "paragraphs": [
+        "A share purchase agreement restraining the selling promoter from competing with the target company after closing sits comfortably inside the goodwill exception, provided the promoter is genuinely selling an interest with real goodwill attached and is being compensated for it as part of the transaction. The Delhi High Court recognised exactly this in its interim order in Affle Holdings Pte. Ltd. v. Saurabh Singh, upholding a thirty-six month non-compete binding a promoter who had sold shares and received the full consideration for them, reasoning that the promoter had also transferred the goodwill of the business as part of that sale.",
+        "An employee leaving a company, by contrast, has not sold anything resembling business goodwill. They have simply ended an employment relationship, however senior their role or however much confidential knowledge they carry with them. Courts have consistently refused to stretch the goodwill exception to cover this situation, which is why a standard post-termination non-compete clause in an employment contract is, in the ordinary case, treated as void under Section 27 regardless of how reasonable its duration or geography might look on paper. India simply does not run the reasonableness balancing test that would otherwise save a narrowly drafted employee restraint."
+      ]
+    },
+    {
+      "heading": "What actually has to be true for the exception to apply",
+      "paragraphs": [
+        "A business sale labelled as transferring goodwill does not automatically get the benefit of the exception if there is no genuine goodwill actually being sold. Where a transaction is structured mainly as an asset purchase with no real customer relationship or brand value changing hands, or where the seller received no identifiable consideration for an associated non-compete, a court is entitled to look past the label and ask whether there was real goodwill to sell in the first place. An agreement dressed up as a goodwill sale, without the substance behind it, does not escape Section 27 merely because the drafter used the right words.",
+        "The restraint itself also has to be reasonable in scope, confined to limits the buyer, the nature of the business and the court consider appropriate given what was actually sold. A non-compete that tries to bar the seller from any business activity anywhere in the world forever, when the target company's actual operations were regional and the sale consideration modest, invites exactly the scrutiny the goodwill exception is meant to withstand only when the restraint is proportionate to what was bought."
+      ]
+    },
+    {
+      "heading": "The 2025 Supreme Court ruling that sharpened the during-versus-after line",
+      "paragraphs": [
+        "In May 2025, the Supreme Court decided Vijaya Bank v. Prashant B. Narnaware, a case that did not involve a business sale at all but clarified the underlying logic that also shapes how SPA non-competes are analysed. An employee had accepted an appointment condition requiring a minimum three-year service period or payment of a liquidated sum if he left early, resigned before that period ended to join another bank, paid the sum under protest, and then challenged the clause as an unlawful restraint of trade. The Karnataka High Court had agreed with him and struck the clause down under Section 27. The Supreme Court reversed that finding, holding that a condition operating during the term of employment, rather than after it ends, does not amount to a restraint of trade under Section 27 at all, and is simply tested for ordinary contractual reasonableness and proportionality rather than against the goodwill exception.",
+        "The significance for SPA drafting is the reminder that Section 27 only ever bites on restraints operating after a relationship ends. An in-term restriction, such as a promoter who stays on as an employee or consultant of the target company and agrees not to engage in a competing side business while still employed there, is judged on ordinary contract principles, not on whether it fits the goodwill exception. It is the post-closing, post-employment tail of a non-compete, the part that continues to bind the seller after they have left the business entirely, that needs the goodwill exception to survive at all, and where the quality of the underlying sale matters most."
+      ]
+    },
+    {
+      "heading": "Drafting practice: tying the restraint visibly to the sale",
+      "paragraphs": [
+        "Given how closely courts examine whether genuine goodwill actually changed hands, the safer drafting practice allocates an identifiable, separately stated portion of the purchase consideration to the non-compete covenant, or at least makes clear in the agreement's recitals that the covenant is part of what the buyer is paying for in acquiring the business's goodwill. A non-compete that reads as an afterthought bolted onto a share transfer, with no connection drawn to the consideration paid, is an easier target for a seller who later wants out of it.",
+        "Duration and geography should track the actual business sold rather than the drafter's habitual template. A thirty-six month restraint tied to a target operating across India can be defensible on the same reasoning that supported it in Affle Holdings, but the same thirty-six months applied to a business that only ever operated in one city invites an argument that the restraint has overreached what the sale of that particular goodwill can justify. Where the promoter will continue working for the target post-closing, as is common in a staged earn-out structure, the agreement should also separately and explicitly address the in-term restriction that Narnaware confirms is tested differently from the post-exit tail, rather than leaving both bundled into a single undifferentiated clause.",
+        "It is also worth building a severability mechanism into the clause itself, so that if a court later finds the duration or geography excessive, the restraint can be read down to what is reasonable rather than failing entirely for want of proportion. Indian courts are generally reluctant to rewrite a contract's terms for the parties, so a severability clause that expressly anticipates this outcome, rather than leaving the court to improvise one, materially improves the odds that at least some version of the restraint survives a later challenge."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is a non-compete in a share sale agreement enforceable when an employee's non-compete is not?",
+      "a": "Section 27 of the Contract Act voids restraints on trade except for a seller of business goodwill who agrees not to compete within reasonable limits. A share sale genuinely fits that exception when real goodwill and consideration change hands. An employee leaving a job has not sold goodwill, so the exception does not apply and the restraint is void."
+    },
+    {
+      "q": "Does labelling a deal as a 'goodwill sale' automatically make the non-compete valid?",
+      "a": "No. A court can look past the label to ask whether genuine goodwill, meaning real customer relationships and reputation, was actually transferred and paid for. A non-compete attached to a transaction with no real goodwill behind it does not escape Section 27 simply because the agreement uses the right wording."
+    },
+    {
+      "q": "What did the Vijaya Bank v. Narnaware ruling change for SPA drafting?",
+      "a": "It confirmed that Section 27 only applies to restraints operating after a relationship ends, not during it. A promoter's in-term restriction while still working for the target company is tested on ordinary reasonableness grounds, while the post-exit non-compete tail still needs the goodwill exception to survive at all."
+    },
+    {
+      "q": "How long can a non-compete in an M&A deal reasonably last?",
+      "a": "There is no fixed statutory number. Courts look at whether the duration and geography are proportionate to the business and goodwill actually sold and the consideration paid for it. A multi-year, nationwide restraint has been upheld where the target operated nationally and the consideration reflected that, but the same term applied to a small, local business invites challenge."
+    }
+  ],
+  "references": [
+    "Indian Contract Act, 1872, Section 27 (restraint of lawful trade void, except for the sale of goodwill)",
+    "Affle Holdings Pte. Ltd. v. Saurabh Singh, Delhi High Court (interim order upholding a 36-month non-compete in a share purchase agreement where the promoter had received full consideration and transferred the business's goodwill)",
+    "Gujarat Bottling Co. Ltd. v. Coca Cola Co., (1995) 5 SCC 545 (restraints operating during the term of a franchise agreement do not offend Section 27)",
+    "Percept D'Mark (India) Pvt. Ltd. v. Zaheer Khan, (2006) 4 SCC 227 (restrictive covenants extending beyond the contract term are void under Section 27)",
+    "Vijaya Bank v. Prashant B. Narnaware, 2025 INSC 691, Supreme Court, decided 14 May 2025 (in-term service conditions do not amount to a restraint of trade under Section 27)"
+  ],
+  "sources": [
+    "https://www.azbpartners.com/bank/scope-of-non-compete-clauses-in-private-ma-transactions/",
+    "https://bhattandjoshiassociates.com/non-compete-clauses-in-india-2026-enforceability-in-employment-contracts-vs-shareholder-agreements/",
+    "https://ssrana.in/articles/revisiting-employment-bond-enforceability-in-india-vijaya-bank-vs-prashant-b-narnaware/",
+    "https://www.mondaq.com/india/contract-of-employment/1680958/supreme-court-endorses-bond-clauses-in-employment-contracts",
+    "https://www.bharucha.in/vijaya-bank-and-beyond-where-do-employment-bonds-stand-now/"
+  ],
+  "verification_notes": [
+    "Section 27's text and the single goodwill-sale exception: confirmed across casemine.com's commentary and the azbpartners.com and bhattandjoshiassociates.com articles, all reproducing the same statutory position consistently.",
+    "India not applying the English common-law reasonableness test for post-termination restraints: confirmed by the bhattandjoshiassociates.com article, consistent with the general, well-settled commentary on Section 27 across the other sources reviewed.",
+    "Affle Holdings v. Saurabh Singh facts and holding (36-month non-compete upheld on an interim basis, tied to full consideration and goodwill transfer): confirmed by the azbpartners.com article's direct account of the Delhi High Court's interim order; stated here as an interim order since the sources did not confirm a final, fully reasoned judgment on the point.",
+    "Gujarat Bottling and Percept D'Mark holdings on in-term versus post-term restraints: confirmed by the azbpartners.com and bhattandjoshiassociates.com commentary, both citing the same two Supreme Court decisions for the same propositions.",
+    "Vijaya Bank v. Prashant B. Narnaware facts, citation (2025 INSC 691), decision date (14 May 2025) and holding (in-term conditions are not a restraint of trade under Section 27, overturning the Karnataka High Court): confirmed across ssrana.in, mondaq.com and bharucha.in, all describing the same facts and outcome consistently, including the reversal of the Karnataka High Court's contrary finding.",
+    "Whether a specific 2024-2026 Supreme Court or High Court decision has directly addressed a non-compete clause inside a share purchase agreement itself: no such decision was located in the searches conducted. This guide therefore draws the SPA-drafting implications from Narnaware's general clarification of the during/after distinction under Section 27, rather than overstating it as a direct SPA ruling, and names Affle Holdings as the operative (but older, interim) SPA-specific authority."
+  ]
+}

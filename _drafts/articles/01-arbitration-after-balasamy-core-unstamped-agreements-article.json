@@ -1,0 +1,163 @@
+{
+  "slug": "arbitration-after-balasamy-core-unstamped-agreements-article",
+  "title": "Arbitration in India After Balasamy, CORE and the Stamp Act Ruling: Where the Law Stands Today",
+  "subtitle": "Three Constitution Bench decisions between December 2023 and April 2025 have reshaped how arbitration agreements are stamped, how arbitrators are appointed, and how far a court can go in reworking an award.",
+  "meta_description": "How the Supreme Court's 2023-2025 rulings on stamping, arbitrator appointment and award modification change arbitration strategy in India.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "author": "Bhaskar Subramanian",
+  "author_role": "Advocate, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-10-19",
+  "standfirst": "Between December 2023 and April 2025 the Supreme Court decided, through three separate Constitution Benches, questions that had divided High Courts and earlier Supreme Court benches for a decade: whether an unstamped contract can carry a live arbitration clause, whether one party can control how the arbitrator is chosen, and whether a court can modify an award rather than only set it aside. Each answer narrows what used to be a wide field of threshold objections, though none of the three rulings closes every door it touches.",
+  "key_points": [
+    "An arbitration agreement in an unstamped or under-stamped contract is no longer void. The Supreme Court held in December 2023 that the stamping defect is curable and goes to admissibility, not existence, and that the arbitral tribunal itself decides the objection.",
+    "A party to a public-private contract can no longer insist that the other side pick an arbitrator from a panel the first party alone controls. The November 2024 CORE ruling found this violates Article 14, though the Court limited some of its directions to appointments made after that date.",
+    "In April 2025 a five-judge bench held, by a 4:1 majority, that a court hearing a Section 34 or Section 37 proceeding has a narrow power to modify an award, confined to four situations, and is not free to reappraise the merits.",
+    "The dissenting judge warned that the 1996 Act deliberately dropped the modification power the 1940 Act had given courts, and that reading it back in by interpretation risks eroding finality and the enforceability of modified awards abroad.",
+    "Contracts signed before these rulings, particularly government and PSU contracts with employer-controlled appointment panels, need a fresh look before the next dispute reaches the appointment stage.",
+    "Several practical questions, including how the severability test will be applied to sole-arbitrator appointments and to purely private contracts, remain open."
+  ],
+  "sections": [
+    {
+      "heading": "Three rulings that changed the ground rules",
+      "paragraphs": [
+        "Arbitration in India has spent much of the last decade fighting battles that had nothing to do with the merits of the underlying dispute. Parties disputed whether an unstamped contract could even go to arbitration, whether the arbitrator named by one side was validly appointed, and, once an award was passed, how much a court could change it on a challenge. These were not minor procedural quibbles. Each question could consume years of litigation before a tribunal ever examined the facts of the dispute, and in many cases the answer differed depending on which bench of which court happened to be hearing the matter.",
+        "Three Constitution Bench decisions have now answered each of these questions, at least for the most part. In December 2023 a seven-judge bench settled the stamping question. In November 2024 a five-judge bench settled, for public-private contracts, the question of who controls the appointment process. In April 2025 another five-judge bench settled, by a narrow majority, whether a court can modify an award rather than simply uphold or set it aside. None of these rulings arrived without warning. Each resolved a direct conflict between earlier Supreme Court decisions, which is why each required a bench larger than the usual two or three judges.",
+        "What follows sets out what each ruling actually decided, flags the parts that remain contested or unclear, and draws out what a business, lender, contractor or advocate drafting or litigating under the Arbitration and Conciliation Act, 1996 should now be doing differently. Readers wanting the fuller doctrinal background on any one of these three strands, stamping, unilateral appointment, or the Section 34 and Section 37 framework generally, will find dedicated guides on this site; this piece is concerned with reading the three together and with what has changed since those were written."
+      ]
+    },
+    {
+      "heading": "Unstamped agreements no longer block the door",
+      "paragraphs": [
+        "For years, Indian courts gave inconsistent answers to a simple-sounding question: if a contract carrying an arbitration clause was unstamped or insufficiently stamped under the Indian Stamp Act, 1899, could the arbitration clause still be acted upon. In SMS Tea Estates in 2011 and again in Garware Wall Ropes, the Supreme Court had held that an unstamped instrument was not a contract in the eyes of the law at all, so an arbitration clause inside it had no independent existence. That position hardened further in April 2023, when a five-judge bench in N.N. Global Mercantile v. Indo Unique Flame held, by a 3:2 majority, that an unstamped arbitration agreement was not enforceable and could not even be referred to arbitration under Section 11.",
+        "The N.N. Global position lasted barely eight months. In In Re: Interplay Between Arbitration Agreements and the Indian Stamp Act, a seven-judge bench led by the then Chief Justice D.Y. Chandrachud unanimously overruled it on 13 December 2023. The Court held that non-stamping or insufficient stamping is a curable defect under the Stamp Act, not a defect that voids the contract. An unstamped contract is inadmissible in evidence until the stamp duty and any penalty are paid, but inadmissibility is not the same as non-existence. The arbitration clause survives, and once the deficiency is cured the document can be relied upon. The bench also held that it is the arbitral tribunal, not the court hearing a Section 8 or Section 11 application, that decides objections about stamping; a referral court's role at that stage is confined to checking that an arbitration agreement exists on its face.",
+        "The practical effect is substantial. A respondent can no longer stall a reference to arbitration, or an appointment under Section 11, by raising a stamping objection before the court; that fight now happens before the tribunal, after it is constituted, and it does not stop the arbitration from starting. Businesses still have every reason to stamp their contracts correctly and promptly: an unstamped award can face objections at the enforcement stage, and the Stamp Act penalty for deficient stamping has not gone away. But the stamping question is no longer a trapdoor that can swallow an otherwise valid arbitration agreement before the dispute is even heard."
+      ]
+    },
+    {
+      "heading": "Why employer-controlled appointment panels no longer work",
+      "paragraphs": [
+        "The second fault line ran through government and public sector contracts. A standard clause in many such contracts let the employer, often a railway, highway or infrastructure authority, either name the sole arbitrator directly or hand the contractor a short panel of names, typically its own retired or serving officers, from which the contractor had to choose. Contractors argued this stacked the tribunal in the employer's favour before a single hearing took place. The Supreme Court's own case law had gone back and forth: a three-judge bench in 2020, in the first CORE decision, had upheld a version of this practice on the footing that the contractor retained some choice within the panel.",
+        "That 2020 position did not survive long either. On 8 November 2024, a five-judge Constitution Bench in Central Organisation for Railway Electrification v. ECI-SPIC-SMO-MCML (JV) overruled it, holding that a clause letting one party unilaterally curate the panel of arbitrators, or unilaterally appoint a sole arbitrator, for a public-private contract violates Article 14's guarantee of equal treatment. The majority, led by Chief Justice Chandrachud, held that equal participation in constituting the tribunal is itself part of a fair arbitration process, not merely a matter of post-appointment independence. The ruling also confirmed that a person ineligible under Section 12(5) read with the Seventh Schedule cannot be rescued by the parties' contractual agreement to the contrary, and cannot nominate someone else in their place.",
+        "Two qualifications matter for anyone relying on this ruling. First, the Court limited some of its directions, particularly those requiring broad-based, non-exclusive panels for three-member tribunals, to apply prospectively, to appointments made after the date of the judgment, so as not to unsettle arbitrations already under way. Second, while the ruling's logic plainly extends to sole-arbitrator appointments controlled by one party, its application to that specific scenario has been treated with more caution by High Courts applying it since, and the position is still being worked out case by case. Contractors and counterparties facing an employer-controlled panel clause in a live dispute should raise the point early, under Section 11, rather than assume the clause is self-evidently a dead letter."
+      ]
+    },
+    {
+      "heading": "The new, narrow power to modify an award",
+      "paragraphs": [
+        "The most contested of the three rulings concerns what a court can do once an award exists and a party challenges it. Section 34 of the 1996 Act, on its face, lets a court only set aside an award on specified grounds, or decline to do so; nothing in the text lets a court change the award's terms. In National Highways Authority of India v. M. Hakeem in 2021, the Supreme Court had read this literally: a court exercising Section 34 or Section 37 jurisdiction cannot modify an award, because modification is effectively an appellate power the 1996 Act, unlike its 1940 predecessor, does not confer. High Courts nonetheless kept modifying awards in practice, usually by severing what they called a bad part from a good part, creating an unresolved conflict that reached a five-judge bench.",
+        "On 30 April 2025, that bench decided Gayatri Balasamy v. ISG Novasoft Technologies Ltd by a 4:1 majority. The majority, comprising Chief Justice Sanjiv Khanna and Justices B.R. Gavai, P.V. Sanjay Kumar and Augustine George Masih, held that courts do have a limited power to modify an award under Sections 34 and 37, and to that extent departed from M. Hakeem. The power is not general. The majority confined it to four situations: severing an invalid part of an award from a valid part that can stand independently; correcting clerical, computational or typographical errors that are apparent on the face of the record without need for fresh evidence; adjusting post-award interest where the rate fixed by the tribunal needs correction; and, only for the Supreme Court itself and only in rare cases, invoking the complete-justice power under Article 142 of the Constitution.",
+        "What the ruling does not do is restore a general power of appellate review. A court still cannot reweigh evidence, revisit the tribunal's interpretation of the contract, or substitute its own view of quantum merely because it would have decided differently. The severability ground, in particular, is meant to operate where distinct and independent parts of a claim can be segregated without touching the tribunal's underlying findings, not as a license to recompute the award. Whether every High Court will hold that line in practice is a separate question, and it is the one the dissent was most anxious about."
+      ]
+    },
+    {
+      "heading": "The dissent, and why it is not a footnote",
+      "paragraphs": [
+        "Justice K.V. Viswanathan's dissent deserves attention on its own terms, because it goes to the structure of the 1996 Act rather than to a point of detail. His reasoning begins with the 1940 Act, whose Sections 15 and 16 expressly gave courts the power to modify an award or remit it to the arbitrator for reconsideration. The 1996 Act, drafted to align India's law with the UNCITRAL Model Law and to cut down judicial interference with awards, dropped that express power. Section 34's structure, confining the court to setting aside an award or leaving it undisturbed, was, in his reading, a deliberate legislative choice rather than an oversight that courts should now correct by interpretation.",
+        "The dissent also raised a consequence the majority's opinion does not fully resolve: what happens to an award once a court has modified it. An arbitral award enforced abroad typically relies on the New York Convention's framework for foreign awards, which assumes the award is the tribunal's own product. A court-modified award blurs that line, because part of its content now originates from the judiciary rather than the tribunal, and the dissent warned this could complicate enforcement outside India. Commentary since the ruling has echoed the concern that a four-category test built around severability will, in application, invite exactly the merits-based argument the 1996 Act was designed to foreclose, turning a Section 34 hearing into something closer to a first appeal in disguise.",
+        "None of this means the majority's view will not hold. A Constitution Bench ruling binds every court below it, and the four categories are narrower than the free-standing modification power some High Courts had assumed for themselves before 2021. But the dissent is a serious signal that Parliament, not just the courts, may eventually need to settle this question through amendment, particularly if High Courts begin treating severability expansively."
+      ]
+    },
+    {
+      "heading": "What changes in Section 34 and Section 37 practice",
+      "paragraphs": [
+        "For an award debtor resisting enforcement, Balasamy adds an argument that did not exist, in this form, before April 2025: instead of asking a court to set aside the entire award for an infirmity in one part of it, counsel can now ask the court to sever and modify only that part, provided it is genuinely independent of the rest. This matters most in awards with multiple, discrete heads of claim, where one head might rest on a computational slip or an interest calculation that can be corrected without disturbing the tribunal's findings on liability or on other heads of relief.",
+        "For an award creditor, the ruling cuts both ways. A court that might previously have set aside an entire award because of a defect in one severable part may now instead preserve the rest of the award and correct only the defective portion, which can be the faster and more favourable outcome for a creditor holding an otherwise sound award. The same logic applies at the Section 37 appellate stage, where an appellate bench reviewing a Section 34 order now has the same four-category toolkit available to it, rather than being limited to affirming or reversing the first court's decision to set aside or uphold.",
+        "The practical message for litigants is to plead precisely. An application that frames every defect as grounds for setting aside the whole award, without addressing whether any part is severable, now risks losing an argument that a more carefully structured submission could have won. Conversely, a party resisting a Section 34 petition should be alert to the risk that a court, even where it is not persuaded to uphold the award in full, may reach for the narrower remedy of modification rather than denying relief altogether."
+      ]
+    },
+    {
+      "heading": "Drafting lessons for commercial contracts",
+      "paragraphs": [
+        "Contracts under negotiation now, and contracts signed before November 2024 that are still running, need to be checked against each of these three rulings rather than treated as settled simply because they were drafted by experienced counsel at the time. An arbitration clause that lets one party name the sole arbitrator, or lets one party curate the only panel the other side can choose from, should be rewritten for any public-private or government contract, and is now a real litigation risk even in some purely commercial arrangements where equal participation in the tribunal's constitution is at stake. A broad-based panel, agreed in advance or left to an appointing institution, is the safer structure going forward.",
+        "Stamp duty discipline has not become less important merely because an unstamped arbitration clause is no longer void. Parties should still execute and stamp contracts correctly at the outset, because an unstamped instrument remains inadmissible until cured, which can delay proceedings and add cost even if it no longer kills the arbitration clause outright. Where a contract is already in place and found to be under-stamped, the better course is usually to cure the deficiency promptly, since the tribunal will in any event require this before relying on the document.",
+        "On the award side, drafting an arbitration clause cannot insulate a party from Balasamy's modification power, since that power attaches to the Act rather than to the contract. What a careful contract can still do is reduce the scope for post-award argument: a well-drafted clause on interest, on how distinct heads of claim are to be treated, and on the arbitrator's obligation to give reasoned findings on each head, makes it easier for a reviewing court to identify what is genuinely severable and what is not, and harder for either side to use the new modification power as a backdoor to reopen the merits."
+      ]
+    },
+    {
+      "heading": "What remains unsettled",
+      "paragraphs": [
+        "Several questions raised by these three rulings do not yet have a settled answer. The clearest is how far CORE's logic extends to sole-arbitrator appointment clauses in purely private, non-government contracts; the ruling's constitutional reasoning was anchored in Article 14, which applies to state and state-instrumentality action, so its direct application to two private commercial parties is not automatic and will need to be worked out through further litigation or through the ordinary unilateral-appointment case law that predates CORE.",
+        "A second open question is how expansively High Courts will read the severability test in Balasamy. The majority's four categories are narrow on paper, but severability as a concept has elastic edges, and the dissent's warning that it could be used to revisit findings on liability or quantum under the label of correcting an error is a real risk rather than a hypothetical one. It will likely take a further round of Supreme Court clarification, in a case testing the outer boundary of what counts as severable, before this settles.",
+        "A third is timing. CORE's limitation of some directions to prospective effect leaves genuine uncertainty for arbitrations where the tribunal was appointed before 8 November 2024 but the award, or a challenge to it, is still pending. Parties in that position should take specific advice on their own facts rather than assume either that the old clause is automatically valid or that it is automatically void. Finally, no legislative amendment to the 1996 Act has followed any of these three rulings as of the date of this article, so for now the law on modification, appointment and stamping rests entirely on judicial interpretation, which is inherently more open to further refinement than a statutory text would be.",
+        "Practitioners should also watch how these three strands interact with one another rather than treating each as a closed compartment. A dispute can easily raise a stamping objection at the reference stage, an appointment challenge once the tribunal is constituted, and an argument about severability once the award is passed, all arising from the same contract. Advising only on the strand that happens to be in front of a court at a given moment, without checking whether the other two are also live, risks missing an argument that could shorten or lengthen the dispute considerably."
+      ]
+    }
+  ],
+  "conclusion": [
+    "Taken together, these three rulings move Indian arbitration in a consistent direction: fewer disputes should die at the threshold over stamping or appointment, and more of the court's post-award role should be confined to genuinely narrow corrections rather than a fresh look at the merits. That is a coherent policy, and it matches what the 1996 Act's drafters said they wanted when the Act was first passed. Whether the practice on the ground matches the policy is a different question, and it will depend heavily on how disciplined High Courts are in applying the severability test the Balasamy majority has now handed them.",
+    "For anyone negotiating a contract today, the sensible course is not to wait for that discipline to be tested. Review appointment clauses now, keep stamping current, and draft award-stage provisions, on interest and on the separation of claims, with an eye to how a reviewing court will now read them. The rulings have narrowed the threshold fights of the last decade; they have not removed the need for careful drafting at the outset."
+  ],
+  "faqs": [
+    {
+      "q": "Can a court now rewrite the amount an arbitrator awarded me?",
+      "a": "Only in narrow circumstances. After Gayatri Balasamy, a court can modify an award to sever an invalid part from a valid one, correct a clerical or computational error apparent on the record, adjust post-award interest, or, for the Supreme Court alone, use its Article 142 power in rare cases. It cannot generally reweigh evidence or substitute its own view of quantum."
+    },
+    {
+      "q": "My contract was signed before November 2024 and lets the other side pick my arbitrator from its own panel. Is that clause now void?",
+      "a": "Not automatically. The CORE ruling applies fully to appointments made after 8 November 2024, and some of its directions were expressly made prospective. If your tribunal was already constituted before that date, the position needs to be assessed on the specific facts and procedural stage, rather than assumed either way."
+    },
+    {
+      "q": "If my contract is unstamped, is my arbitration clause dead?",
+      "a": "No. Since the Supreme Court's December 2023 ruling, an unstamped or under-stamped contract is not void for this reason. The arbitration clause survives; the stamping deficiency makes the document inadmissible in evidence until cured, and it is the arbitral tribunal, not the referral court, that decides objections about stamping."
+    },
+    {
+      "q": "Does the CORE ruling apply to a purely private contract between two companies, with no government party involved?",
+      "a": "The ruling's reasoning rests on Article 14, which binds the state and state instrumentalities, so its direct application to two private parties is not automatic. The broader concern about one-sided appointment control still matters under the ordinary case law on arbitrator independence, but a purely private contract needs separate analysis rather than a direct read-across from CORE."
+    },
+    {
+      "q": "What should a new contract do differently about appointing arbitrators?",
+      "a": "Avoid giving either party sole control over the appointment, and avoid panels curated by only one side. A broad-based panel agreed jointly, appointment through a neutral institution, or a mechanism where each party nominates one arbitrator and the two nominees choose a presiding arbitrator, are all safer structures after CORE."
+    },
+    {
+      "q": "Is Gayatri Balasamy likely to be reconsidered or overturned?",
+      "a": "It was decided by a five-judge Constitution Bench with a 4:1 majority, which makes it binding on all other courts for now. The dissent has drawn serious academic and professional criticism, and commentators have suggested Parliament may eventually need to legislate on the point, but no amendment had been made as of the date of this article."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Sections 8, 11, 12(5), 34 and 37, and the Seventh Schedule",
+    "Indian Stamp Act, 1899",
+    "Constitution of India, Articles 14 and 142",
+    "In Re: Interplay Between Arbitration Agreements Under the Arbitration and Conciliation Act, 1996 and the Indian Stamp Act, 1899 (Supreme Court, seven-judge bench, 13 December 2023)",
+    "N.N. Global Mercantile Pvt Ltd v. Indo Unique Flame Ltd (Supreme Court, five-judge bench, 2023), overruled",
+    "Garware Wall Ropes Ltd v. Coastal Marine Constructions & Engineering Ltd, (2019) 9 SCC 209, partially overruled",
+    "SMS Tea Estates Pvt Ltd v. Chandmari Tea Co Pvt Ltd, (2011) 14 SCC 66",
+    "Central Organisation for Railway Electrification v. ECI-SPIC-SMO-MCML (JV) (Supreme Court, five-judge Constitution Bench, 8 November 2024)",
+    "Central Organisation for Railway Electrification v. M/s ECI-SPIC-SMO-MCML (JV), (2020) 14 SCC 712, overruled",
+    "TRF Ltd v. Energo Engineering Projects Ltd (Supreme Court, 2017)",
+    "Voestalpine Schienen GmbH v. Delhi Metro Rail Corporation Ltd (Supreme Court, 2017)",
+    "Gayatri Balasamy v. M/s ISG Novasoft Technologies Ltd, 2025 INSC 605 (Supreme Court, five-judge Constitution Bench, 30 April 2025)",
+    "National Highways Authority of India v. M. Hakeem, 2021 INSC 344 (Supreme Court, 10 July 2021), partially overruled"
+  ],
+  "related_pages": [
+    "/blog/unstamped-arbitration-agreement-validity-guide.html",
+    "/blog/unilateral-arbitrator-appointment-core-guide.html",
+    "/blog/challenging-arbitral-award-section-34-guide.html",
+    "/blog/section-37-appeal-arbitration-guide.html",
+    "/blog/patent-illegality-arbitration-award-section-34-guide.html",
+    "/blog/arbitration-clause-drafting-guide.html"
+  ],
+  "sources": [
+    "https://www.scobserver.in/cases/courts-power-to-modify-an-arbitral-award-gayatri-balasamy-v-m-s-isg-novasoft-technologies-ltd/",
+    "https://www.barandbench.com/columns/gayatri-balasamy-v-isg-novasoft-a-limited-power-to-modify-or-a-pandoras-box",
+    "https://thelegalquorum.com/case-summary-gayatri-balasamy-v-m-s-isg-novasoft-technologies-limited-2025-insc-605/",
+    "https://www.ibanet.org/balasamy-judgment-fading-principle-of-finality-in-arbitration",
+    "https://www.scconline.com/blog/post/2025/06/27/allowing-modification-of-arbitral-award-by-court-a-retrograde-step/",
+    "https://blogs.law.ox.ac.uk/oblb/blog-post/2025/06/judicial-innovation-or-overreach-indian-supreme-courts-new-take-modification",
+    "https://www.livelaw.in/amp/top-stories/arbitration-clauses-in-unstamped-agreements-enforceable-supreme-court-7-judge-bench-overruled-nn-global-decision-244387",
+    "https://www.nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/enforceability-of-unstamped-or-inadequately-stamped-arbitration-agreements-seven-judge-bench-settles-the-law-13871",
+    "https://www.stewartslaw.com/news/indian-supreme-court-confirms-that-unstamped-arbitration-agreements-are-enforceable-but-not-admissible/",
+    "https://www.barandbench.com/view-point/appointment-arbitrators-supreme-court-balance-party-autonomy-equality",
+    "https://www.scconline.com/blog/post/2024/11/08/unilateral-appointment-arbitrator-public-private-contracts-violate-article-14-supreme-court",
+    "https://www.livelawbiz.com/arbitration-cases/delhi-high-court-appoints-sole-arbitrator-gas-supply-dispute-invalidates-previous-arbitration-clause-in-view-of-core-judgment-277613"
+  ],
+  "verification_notes": [
+    "In Re: Interplay (unstamped agreements): date (13 December 2023), bench size (seven judges), and holding confirmed across LiveLaw, Nishith Desai, Stewarts Law and IndiaCorpLaw. The precise neutral citation number was not consistently confirmed across two independent sources and is therefore omitted; the case is cited by name, bench and date instead.",
+    "CORE II (unilateral appointment): date (8 November 2024), five-judge bench composition (CJI Chandrachud, Roy, Pardiwala, Narasimha, Misra JJ) and the Article 14 holding confirmed across Bar and Bench and SCC Online Blog. The prospective-effect qualification and the unresolved status of sole-arbitrator appointments confirmed via a further search returning Kluwer Arbitration Blog commentary and a LiveLaw report of a Delhi High Court application of CORE. A precise neutral citation for the 2024 ruling itself was not found and is therefore omitted; the overruled 2020 decision is cited as (2020) 14 SCC 712, confirmed via two sources.",
+    "Gayatri Balasamy (modification power): date (30 April 2025), 4:1 majority, bench composition, the four modification categories, and the overruling of M. Hakeem confirmed across IBA, Bar and Bench, The Legal Quorum, SCC Online Blog and the Oxford law faculty blog. Justice Viswanathan's dissenting reasoning on Sections 15-16 of the 1940 Act, UNCITRAL alignment and New York Convention enforceability risk confirmed via SCC Online Blog and Oxford Business Law Blog commentary.",
+    "NHAI v. M. Hakeem: case name, 2021 date and the bar on modification confirmed via Caseon and LawSathi; the neutral citation 2021 INSC 344 is drawn from LawSathi and is noted as not independently cross-verified against a second citation source.",
+    "TRF v. Energo and Voestalpine v. DMRC are cited by name, court and year only; a specific SCC volume citation could not be confirmed from two independent sources within the research carried out for this article and has accordingly been left out rather than invented.",
+    "No legislative amendment to the Arbitration and Conciliation Act, 1996 following any of these three rulings was found as of the date of this article; this is stated as a current gap rather than a settled fact, based on an absence of contrary reporting across all sources consulted.",
+    "The application of CORE to sole-arbitrator appointments and to purely private (non-state) contracts is flagged as unsettled in the article itself, rather than asserted either way, because sources diverge or are silent on how lower courts will extend the ruling in those specific fact patterns.",
+    "No reliable report of a review or curative petition against Gayatri Balasamy was located; the article does not claim one exists or does not exist, beyond noting that academic and professional criticism has followed the ruling."
+  ]
+}
