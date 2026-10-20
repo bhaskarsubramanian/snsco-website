@@ -1454,5 +1454,61 @@
         "reason": "Search and seizure belongs to Section 22, a separate provision from Section 19."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch5/blog/07-non-compete-share-purchase-agreement-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.azbpartners.com/bank/scope-of-non-compete-clauses-in-private-ma-transactions/",
+      "https://www.bharucha.in/vijaya-bank-and-beyond-where-do-employment-bonds-stand-now/",
+      "https://www.livelaw.in/lawschool/articles/supreme-court-employment-bonds-restrictive-covenants-section-27-indian-contract-act-543701"
+    ],
+    "note": "Section 27 and its goodwill exception, Vijaya Bank v. Narnaware (14 May 2025), Gujarat Bottling, and Percept D'Mark v. Zaheer Khan (2006) 4 SCC 227 all independently confirmed. However Affle Holdings v. Saurabh Singh has a final judgment dated 22 January 2015 (OMP 1257/2014) confirming the earlier interim order -- the draft's own cited source (azbpartners.com) states this, but the draft describes it only as an interim order and its own verification notes flag this as unconfirmed.",
+    "fixes": [
+      {
+        "find": "The Delhi High Court recognised exactly this in its interim order in Affle Holdings Pte. Ltd. v. Saurabh Singh, upholding a thirty-six month non-compete binding a promoter who had sold shares and received the full consideration for them, reasoning that the promoter had also transferred the goodwill of the business as part of that sale.",
+        "replace": "The Delhi High Court recognised exactly this in Affle Holdings Pte. Ltd. v. Saurabh Singh (OMP 1257/2014, judgment dated 22 January 2015, confirming an earlier interim order), upholding a thirty-six month non-compete binding a promoter who had sold shares and received the full consideration for them, reasoning that the promoter had also transferred the goodwill of the business as part of that sale.",
+        "reason": "A final judgment dated 22 January 2015 confirmed the interim order; the case is not merely an interim order as stated."
+      },
+      {
+        "find": "Affle Holdings Pte. Ltd. v. Saurabh Singh, Delhi High Court (interim order upholding a 36-month non-compete in a share purchase agreement where the promoter had received full consideration and transferred the business's goodwill)",
+        "replace": "Affle Holdings Pte. Ltd. v. Saurabh Singh, OMP 1257/2014, Delhi High Court, judgment dated 22 January 2015 (upholding a 36-month non-compete in a share purchase agreement where the promoter had received full consideration and transferred the business's goodwill)",
+        "reason": "Correcting the case reference to the final judgment, with case number and date."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch5/blog/08-apprentices-act-not-workman-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/high-courts/indian-oil-corporation-writ-petitions-rajasthan-hc-apprentices-act-labour-laws-industrial-dispute-1491167",
+      "https://www.livelaw.in/amp/high-court/rajasthan-high-court/rajasthan-high-court-apprentice-workmen-labour-court-jurisdiction-industrial-disputes-act-235954",
+      "https://www.casemine.com/commentary/in/clarification-on-'workman'-status-for-apprentices-in-industrial-employment-law/view"
+    ],
+    "note": "Section 18 and Section 20 of the Apprentices Act, Indian Oil Corporation v. Narendra Singh Shekhawat (Rajasthan HC, decided 18 August 2023), U.P. State Electricity Board v. Shiv Mohan Singh (2004), and Chittaranjan Das v. Durgapur Project (Cal HC, 21 Dec 1994) all independently confirmed with matching dates, bench and holdings."
+  },
+  {
+    "file": "_drafts/batch5/blog/09-section-16-hma-legitimacy-succession-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/hindu-succession-is-child-from-voidvoidable-marriage-entitled-to-coparcenary-share-inherited-by-father-supreme-court-discusses-235280",
+      "https://www.scconline.com/blog/post/2023/09/05/legitimacy-coparcenary-supreme-court-decides-rights-of-children-from-null-and-void-marriages/",
+      "https://www.verdictum.in/court-updates/high-courts/orissa-high-court/smt-sandhya-rani-sahoo-mohanty-v-smt-anasuya-mohanty-inheritance-hindu-succession-act-hindu-marriage-act-hma-1573410"
+    ],
+    "note": "Revanasiddappa v. Mallikarjun (three-judge bench, decided 1 September 2023, 2023 INSC 783), Jinia Keotin v. Kumar Sitaram Manjhi (2003) 1 SCC 730, and Sandhya Rani Sahoo Mohanty v. Anasuya Mohanty (Orissa HC, April 2025) all independently confirmed with matching holdings. Draft appropriately hedges the unsettled lifetime-partition question and the unconfirmed AP HC decision date."
+  },
+  {
+    "file": "_drafts/batch5/blog/10-fssai-cloud-kitchen-home-food-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 4,
+    "evidence": [
+      "https://inc42.com/buzz/cloud-kitchen-supply-products-innumerable-brands-fssai/",
+      "https://ssrana.in/articles/fssai-raises-turnover-limits-for-food-business-registration-and-licensing/",
+      "https://www.incorpx.io/blog/food-delivery-business-registration-india"
+    ],
+    "note": "Multi-brand-from-one-licensed-premises FSSAI position confirmed by multiple sources. Draft deliberately avoided citing specific turnover thresholds and licence validity periods, which was the right call: a March 2026 amendment raised the basic-registration ceiling from Rs 12 lakh to Rs 1.5 crore and the central-licence threshold from Rs 20 crore to Rs 50 crore, effective 1 April 2026, which would have made any stated 2025-era figure stale. No case law claimed, consistent with sources reviewed."
   }
 ]
