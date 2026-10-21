@@ -1339,7 +1339,7 @@
     "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
     "fixes": [
       {
-        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
+        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
         "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
         "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
       }
@@ -1546,5 +1546,41 @@
       "https://www.energetica-india.net/news/mnre-flags-incorrect-rooftop-solar-billing-by-discoms-refers-complaints-for-resolution"
     ],
     "note": "The Ministry of Power's October 2025 directive and its Rule 4(10) basis, Gujarat's Fifth Amendment to its 2016 net metering regulations (notified Nov 2025) dropping the separate agreement, Andhra Pradesh's fee waiver up to 10kW while keeping the agreement mandatory, Haryana's draft second amendment proposing 75% of the last discovered SECI tariff (or a reference rate) for surplus power, MERC's partial allowance of net metering with open access for the 660kW project while rejecting the litigation-cost claim, and MNRE's referral of incorrect-billing complaints back to DISCOMs are all independently confirmed by at least two trade-press/primary sources each (SolarQuarter, Mercom, Energetica India, and the GERC/HERC primary PDFs). No numeric or statutory claim was found to be incorrect; the guide's hedging on unconfirmed points (no single national feed-in rate, HERC proposal not yet finalized) matches what the sources show."
+  },
+  {
+    "file": "_drafts/batch6/blog/03-parallel-imports-grey-market-goods-trademark-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.iam-media.com/article/court-rules-in-favour-of-international-trademark-exhaustion",
+      "https://spicyip.com/2012/10/breaking-news-delhi-high-court.html",
+      "https://ssrana.in/articles/india-legality-of-parallel-imports-vis-a-vis-trade-marks-law/",
+      "https://spicyip.com/2014/03/trademark-parallel-imports-delhi-hc-on-the-marlboro-trademark-case.html"
+    ],
+    "note": "Kapil Wadhwa v Samsung (Division Bench, Oct 2012) international exhaustion holding, the Section 30(3)/30(4) framework, importer burden of proof, and the 2014 Philip Morris/Marlboro case all independently confirmed. One nuance: at least two sources (a NALSAR law journal and a general search) indicate Samsung carried a further appeal of the Division Bench ruling to the Supreme Court (Civil Appeal No. 8600/2013) that may still be pending; the draft already omits this appeal from its body (noted in its own verification_notes as uncorroborated at the time) and the appeal has not stayed or reversed the ruling, which subsequent courts (Marlboro, 2014) have continued to apply, so the guide's statement of current law remains accurate. Not treated as requiring a fix."
+  },
+  {
+    "file": "_drafts/batch6/blog/04-subsequent-allottee-rights-rera-assignment-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.supremecourtcases.com/laureate-buildwell-pvt-ltd-v-charanjeet-singh/",
+      "https://theindianlawyer.in/supreme-court-holds-subsequent-purchaser-has-same-rights-as-original-allottee/",
+      "https://itatonline.org/digest/verdicts/laureate-buildwell-private-limited-vs-charanjeet-singh-supreme-court",
+      "https://lawsathi.in/judgements/sc/2021/laureate-buildwell-pvt-ltd-charanjeet-singh/"
+    ],
+    "note": "Laureate Buildwell v Charanjeet Singh (22 July 2021, Civil Appeal No. 7042 of 2019) confirmed: holding that a subsequent purchaser steps into the original allottee's shoes with the same rights, HUDA v Raje Ram and Wing Commander Arifur Rahman Khan held no longer good law on this point, and relief being fact-dependent. The case itself arose from an NCDRC consumer complaint rather than a RERA authority complaint, but the guide correctly treats this as a general subsequent-purchaser principle and separately cites RERA Section 2(d)'s own statutory inclusion of transferees, rather than claiming the Supreme Court decided a RERA case; this synthesis is accurate."
+  },
+  {
+    "file": "_drafts/batch6/blog/05-non-compete-negative-covenant-section-27-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 11,
+    "evidence": [
+      "https://lawfoyer.in/vijaya-bank-anr-v-prashant-b-narnaware-2025-6-s-c-r-240-2025-insc-691/",
+      "https://www.verdictum.in/app-lite/court-updates/high-courts/delhi-high-court/varun-tyagi-v-daffodil-software-pvt-ltd-neutral-citation-2025dhc5015-1582584",
+      "https://itatonline.org/digest/verdicts/neosky-india-limited-versus-mr-nagendran-kandasamy-delhi-high-court",
+      "https://www.livelaw.in/amp/high-court/delhi-high-court/post-termination-restrictive-covenants-in-employment-contracts-are-void-us-27-of-contract-act-delhi-high-court-300970"
+    ],
+    "note": "All four cases confirmed independently: Vijaya Bank v Prashant B. Narnaware (14 May 2025, 2025 INSC 691, Narasimha and Bagchi JJ, in-term minimum-service clause not a restraint of trade); Percept D'Mark v Zaheer Khan (2006) 4 SCC 227 (post-term restraints unenforceable); Varun Tyagi v Daffodil Software (FAO 167/2025, 2025:DHC:5015, injunction set aside, no confidential info/source code at stake, manpower-supply role); Neosky India v Nagendran Kandasamy (O.M.P.(I)(COMM.) 183/2024, 11 Aug 2025, post-tenure promoter restraint vacated, relying on Vijaya Bank and Percept D'Mark). Section 27 and the goodwill-sale exception text match the statute."
   }
 ]
