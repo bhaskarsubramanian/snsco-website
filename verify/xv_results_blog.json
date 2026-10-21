@@ -1510,5 +1510,41 @@
       "https://www.incorpx.io/blog/food-delivery-business-registration-india"
     ],
     "note": "Multi-brand-from-one-licensed-premises FSSAI position confirmed by multiple sources. Draft deliberately avoided citing specific turnover thresholds and licence validity periods, which was the right call: a March 2026 amendment raised the basic-registration ceiling from Rs 12 lakh to Rs 1.5 crore and the central-licence threshold from Rs 20 crore to Rs 50 crore, effective 1 April 2026, which would have made any stated 2025-era figure stale. No case law claimed, consistent with sources reviewed."
+  },
+  {
+    "file": "_drafts/batch6/blog/01-food-analyst-report-sampling-retest-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 11,
+    "evidence": [
+      "https://www.scconline.com/blog/post/2025/02/14/bomhc-quashes-case-against-nestle-for-allegedly-selling-sub-standard-maggie-noodles/",
+      "https://www.verdictum.in/court-updates/high-courts/bombay-nagpur-tata-chemicals-limited-v-state-of-maharashtra-2024-bhc-nag-5692-substandard-iodized-salt-fssai-1535464",
+      "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court-2024-ahc-177238-kewal-dairy-v-state-of-up-food-safety-standards-act-date-of-offence-1559385",
+      "https://supremetoday.ai/bombay-hc-quashes-britannia-dairy-case-over-denial-of-right-to-re-test-under-fss-act-20260919009",
+      "https://lawx.in/acts/section/102/932/8113",
+      "https://www.advocatekhoj.com/library/bareacts/foodsafety/40.php"
+    ],
+    "note": "Section 47(1)(c)'s four-way split, Section 40's purchaser-testing right and fee refund mechanism, Section 46(4)/Rule 2.4.6's appeal to the Designated Officer with a 30-day filing window and a final referral-lab report, the Tata Chemicals 2024 Bombay HC ruling on strict time-limit compliance, the Kewal Dairy 2024 Allahabad HC limitation-from-report-date holding, and the Britannia Dairy 2026 Bombay HC shelf-life/retest-denial quashing are all independently confirmed from statutory text and at least two independent reports each. One imprecision: the draft states the Nestle/Maggi prosecution was quashed because 'the samples had not been analysed by a Section 43-accredited laboratory.' In fact, per SCC Online Blog and LiveLaw, the first analysis (in Pune) found the noodles compliant; it was specifically the Referral Food Laboratory (Ghaziabad), invoked on the operator's appeal, that was found not NABL-accredited, and that is what the court held could not found a prosecution. The current wording could mislead a reader into citing this as 'the testing lab lacked accreditation' generally rather than specifically about the referral lab stage.",
+    "fixes": [
+      {
+        "find": "and a Bombay High Court decision quashing a prosecution against Nestle over its Maggi noodles turned on exactly this point: the samples had not been analysed by an Section 43-accredited laboratory, so the report could not be relied upon to found a prosecution at all.",
+        "replace": "and a Bombay High Court decision quashing a prosecution against Nestle over its Maggi noodles turned on exactly this point: the Referral Food Laboratory that examined the sample on the operator's appeal was not shown to be NABL-accredited as Section 43 requires, so its adverse finding could not be relied upon to found a prosecution at all, even though the first laboratory's analysis had found the product compliant.",
+        "reason": "The court's basis was the unaccredited status of the Referral Food Laboratory invoked on appeal, not the original testing laboratory, which had in fact cleared the product; the generalised wording risks misleading a reader about which stage of testing was defective."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch6/blog/02-rooftop-solar-net-metering-disputes-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://solarquarter.com/2025/10/06/ministry-of-power-directs-states-to-waive-net-metering-agreements-and-charges-for-rooftop-solar-under-pm-surya-ghar-scheme/",
+      "https://mercomindia.com/power-ministry-urges-states-to-scrap-separate-net-metering-agreements",
+      "https://gercin.org/wp-content/uploads/2025/11/GERC-Net-Metering-Rooftop-Solar-PV-Grid-Interactive-Systems-5th-Amendment-Regulations-2025-Gazette.pdf",
+      "https://mercomindia.com/andhra-waives-fees-for-rooftop-solar-projects-10-kw",
+      "https://mercomindia.com/merc-allows-net-metering-with-open-access-for-rooftop-solar-project-2",
+      "https://herc.gov.in/WriteReadData/Pdf/D20250709.pdf",
+      "https://www.energetica-india.net/news/mnre-flags-incorrect-rooftop-solar-billing-by-discoms-refers-complaints-for-resolution"
+    ],
+    "note": "The Ministry of Power's October 2025 directive and its Rule 4(10) basis, Gujarat's Fifth Amendment to its 2016 net metering regulations (notified Nov 2025) dropping the separate agreement, Andhra Pradesh's fee waiver up to 10kW while keeping the agreement mandatory, Haryana's draft second amendment proposing 75% of the last discovered SECI tariff (or a reference rate) for surplus power, MERC's partial allowance of net metering with open access for the 660kW project while rejecting the litigation-cost claim, and MNRE's referral of incorrect-billing complaints back to DISCOMs are all independently confirmed by at least two trade-press/primary sources each (SolarQuarter, Mercom, Energetica India, and the GERC/HERC primary PDFs). No numeric or statutory claim was found to be incorrect; the guide's hedging on unconfirmed points (no single national feed-in rate, HERC proposal not yet finalized) matches what the sources show."
   }
 ]
