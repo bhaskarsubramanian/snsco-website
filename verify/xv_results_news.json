@@ -919,8 +919,8 @@
     "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
     "fixes": [
       {
-        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
-        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
         "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
       },
       {
@@ -1783,5 +1783,17 @@
       "https://taxguru.in/?p=1091257"
     ],
     "note": "Bench (Justices M.S. Karnik and Sandesh D. Patil), parties, the Rs 1.50 crore deposit during investigation, the Rs 14.77 crore GST demand (reverse charge on cotton purchased from agriculturists), the Commissioner (Appeals) dismissal without a defect memo/notice/hearing, the quashing of that rejection, and the 12-week fresh-hearing direction are all confirmed across LiveLawBiz, Taxscan and TaxGuru independently. One search surfaced an unverified petition number (WP 9256/2026) that a second search could not corroborate, so leaving the citation blank as the draft does is reasonable pending confirmation against the certified order. No duplicate found on the live site."
+  },
+  {
+    "file": "_drafts/batch6/news/05-sc-ibc-section-62-limitation-nclat-pronouncement-certified-copy.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/the-assistant-commissioner-of-central-tax-v-sreenivasa-rao-ravinuthala-2026-insc-1121-1624047",
+      "https://www.livelawbiz.com/top-stories/ibc-appeal-limitation-period-begins-from-pronouncement-of-order-not-collection-of-certified-copy-supreme-court-554685",
+      "https://www.supremecourtcases.com/assistant-commissioner-of-central-tax-cgst-division-v-sreenivasa-rao-ravinuthala-and-another/amp/",
+      "https://taxguru.in/?p=1090861"
+    ],
+    "note": "Case, citation (2026 INSC 1121, Civil Appeal No. 7882 of 2023), bench, 14 Oct 2026 decision date, NCLAT Chennai 2 Aug 2023 pronouncement, certified-copy application/receipt dates, appeal filing date and the Section 62/Section 12(2) limitation holding all independently confirmed by Verdictum, LiveLaw, SupremeCourtCases and Taxguru. No duplicate found on live site (checked search-index.json and legal-updates/index.html for Ravinuthala/Samyu Glass)."
   }
 ]
