@@ -80,5 +80,24 @@
       "https://www.medianama.com/2025/05/223-e-zero-fir-cyber-fraud-rs-10-lakh/"
     ],
     "note": "Independently re-verified via fresh searches. Sanjabij Tari v Kishore S. Borcar (2025 INSC 1158, 25 Sept 2025, Manmohan and N.V. Anjaria JJ, BNSS s.223 pre-cognizance hearing not required for s.138 NI Act complaints) confirmed. Sumit Bansal v MGI Developers (2026 INSC 40, 8 Jan 2026, Sanjay Karol and Prashant Kumar Mishra JJ, each dishonoured cheque is a separate cause of action) confirmed. BNS ss.111/112 organised and petty organised crime thresholds (prior chargesheet history within 10 years for s.111; no such requirement for s.112; 1-7 year sentence for s.112) confirmed, including the unverified secondary report of a 2026 High Court distinguishing the two sections, which the draft itself flags as unverified. Allahabad HC guidelines on BNSS s.356 trial in absentia (Ravi alias Ravindra Singh, 2026 AHC 101857, including the 90-day post-charge waiting period and state-funded amicus curiae) confirmed. BNSS s.193 investigation timelines (90/60 days, s.193(3) reasons requirement, treated as mandatory by Kerala HC) confirmed. e-Zero FIR pilot (I4C, Delhi, launched 19 May 2025, Rs 10 lakh threshold, NCRP/1930 helpline route) confirmed. The genuinely unsettled points the draft flags as unsettled (BSA s.63 vs the Arjun Panditrao original-device exception; the split among High Courts on the consequence of missing BNSS s.105 videography) remain correctly described as unresolved in current commentary; no court has resolved either squarely as of this run. All four related_pages paths exist in origin/main:assets/search-index.json. The draft is unusually careful about flagging single-sourced or unverified figures (the FIR/chargesheet statistics, the MP High Court s.111/s.112 ruling), which independent verification bears out as the correct posture."
+  },
+  {
+    "file": "_drafts/articles/06-rera-ten-years-india-homebuyer-remedies-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/high-time-states-rethink-constituting-rera-benefits-only-defaulting-builders-cji-surya-kant-522897",
+      "https://www.livelaw.in/amp/top-stories/homebuyers-who-secure-rera-decrees-cant-be-treated-differently-from-other-financial-creditors-under-ibc-supreme-court-240198",
+      "https://www.livelawbiz.com/nclt/ibc-prevails-over-rera-where-resolution-plan-conflicts-with-individual-refund-rights-nclt-mumbai-550051",
+      "https://egazette.gov.in/WriteReadData/2026/274061.pdf"
+    ],
+    "note": "Independently re-verified via fresh searches. CJI Surya Kant's 12 Feb 2026 oral remarks on RERA (bench also included Justice Joymalya Bagchi), the Himachal Pradesh RERA office relocation context, and the stay of the High Court's 30 Dec 2025 direction all confirmed, correctly reported as oral observations not a formal direction. The 2023 Supreme Court ruling on RERA decree-holders as financial creditors under the IBC is confirmed (the case is actually styled Vishal Chelani v Debashis Nanda, Civil Appeal No. 3806/2023, decided by Justices S. Ravindra Bhat and Aravind Kumar, concerning the Bulland Elevates project by Bulland Buildtech; the draft's generic description as the \"Bulland Buildtech matter\" is directionally accurate as to the facts but does not name the actual case). Spenta Enclave NCLT Mumbai order (9 Sept 2026, Rs 1,048.95 crore plan, ~300 homebuyers, Rs 264.29 crore admitted claims, Section 238 IBC override of individual refund rights) confirmed. One factual error found: the references section cites \"Jan Vishwas (Amendment of Provisions) Act, 2023\" for the RERA Section 68 decriminalisation change effective 7 May 2026. Independent verification shows this is actually a distinct, later statute, the Jan Vishwas (Amendment of Provisions) Act, 2026 (the 2023 Act was the first, 42-Act edition of the programme; the RERA-related decriminalisation is part of a second, 2026 edition, per egazette.gov.in notifications and multiple law-firm commentaries including barandbench.com and ksandk.com). The body text and FAQ correctly avoid naming a year, so only the references entry needs correction.",
+    "fixes": [
+      {
+        "find": "Jan Vishwas (Amendment of Provisions) Act, 2023, RERA-related amendments brought into force with effect from 7 May 2026",
+        "replace": "Jan Vishwas (Amendment of Provisions) Act, 2026, RERA-related amendments brought into force with effect from 7 May 2026",
+        "reason": "The RERA Section 68 decriminalisation is part of the 2026 edition of the Jan Vishwas programme, not the 2023 Act"
+      }
+    ]
   }
 ]
