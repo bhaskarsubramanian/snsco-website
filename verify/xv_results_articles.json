@@ -67,5 +67,18 @@
         "reason": "Precise order date (31 August 2026) is now confirmed by independent re-verification"
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/05-bns-bnss-bsa-criminal-law-two-years-article.json",
+    "verdict": "PASS",
+    "claims_checked": 15,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/supreme-court-to-decide-if-s223-bnss-will-apply-when-cognizance-is-taken-of-complaints-filed-before-july-1-2024-300985",
+      "https://www.verdictum.in/court-updates/supreme-court/sumit-bansal-v-mgi-developers-and-promoters-2026-insc-40-section-138-ni-act-1603951",
+      "https://blog.ipleaders.in/organised-crime-under-bns-section-111/",
+      "https://www.verdictum.in/allahabad-high-court/ravi-alias-ravindra-singh-v-state-of-up-2026ahc101857-mandatory-trial-in-absentia-1613587",
+      "https://www.medianama.com/2025/05/223-e-zero-fir-cyber-fraud-rs-10-lakh/"
+    ],
+    "note": "Independently re-verified via fresh searches. Sanjabij Tari v Kishore S. Borcar (2025 INSC 1158, 25 Sept 2025, Manmohan and N.V. Anjaria JJ, BNSS s.223 pre-cognizance hearing not required for s.138 NI Act complaints) confirmed. Sumit Bansal v MGI Developers (2026 INSC 40, 8 Jan 2026, Sanjay Karol and Prashant Kumar Mishra JJ, each dishonoured cheque is a separate cause of action) confirmed. BNS ss.111/112 organised and petty organised crime thresholds (prior chargesheet history within 10 years for s.111; no such requirement for s.112; 1-7 year sentence for s.112) confirmed, including the unverified secondary report of a 2026 High Court distinguishing the two sections, which the draft itself flags as unverified. Allahabad HC guidelines on BNSS s.356 trial in absentia (Ravi alias Ravindra Singh, 2026 AHC 101857, including the 90-day post-charge waiting period and state-funded amicus curiae) confirmed. BNSS s.193 investigation timelines (90/60 days, s.193(3) reasons requirement, treated as mandatory by Kerala HC) confirmed. e-Zero FIR pilot (I4C, Delhi, launched 19 May 2025, Rs 10 lakh threshold, NCRP/1930 helpline route) confirmed. The genuinely unsettled points the draft flags as unsettled (BSA s.63 vs the Arjun Panditrao original-device exception; the split among High Courts on the consequence of missing BNSS s.105 videography) remain correctly described as unresolved in current commentary; no court has resolved either squarely as of this run. All four related_pages paths exist in origin/main:assets/search-index.json. The draft is unusually careful about flagging single-sourced or unverified figures (the FIR/chargesheet statistics, the MP High Court s.111/s.112 ruling), which independent verification bears out as the correct posture."
   }
 ]
