@@ -1,0 +1,90 @@
+{
+  "slug": "non-compete-negative-covenant-section-27-guide",
+  "title": "Non-Compete and Negative Covenant Clauses in Commercial Contracts: What Section 27 Actually Allows",
+  "meta_description": "Why courts enforce a restraint during a contract but void it once the relationship ends, and what the 2025 Supreme Court ruling on bond clauses changed.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "Almost every employment contract, shareholder exit agreement and franchise or distribution arrangement in India carries some version of a clause stopping one side from competing with the other. The drafting usually looks confident: a three-year restraint, a defined territory, sometimes a liquidated damages figure if it is breached. What the clause often does not reflect is that Indian contract law treats this entire category of clause with deep suspicion the moment the underlying relationship actually ends.",
+    "A business that assumes its carefully worded non-compete will simply be enforced as written, the way a confidentiality clause usually is, tends to be surprised when a court refuses an injunction on exactly the clause it spent the most time negotiating. Two 2025 rulings, one from the Supreme Court and one from the Delhi High Court, sharpen exactly where that line sits, and why a restraint that is perfectly valid while a contract runs can become unenforceable the moment it ends."
+  ],
+  "sections": [
+    {
+      "heading": "The Section 27 rule, and the one statutory exception",
+      "paragraphs": [
+        "Section 27 of the Indian Contract Act, 1872 states the rule in blunt terms: every agreement by which anyone is restrained from exercising a lawful profession, trade or business of any kind is void to that extent. The only exception written into the section itself covers a person who sells the goodwill of a business and agrees, as part of that sale, not to carry on a similar business within specified local limits, so long as the restriction is reasonable.",
+        "Outside that narrow carve-out for the sale of goodwill, Indian courts have not developed a general doctrine of reasonable partial restraint the way some common law jurisdictions have. A clause either falls within the goodwill exception or it is tested against the basic rule that a restraint on trade, if it operates as such, is void. This makes the real battleground not whether a restraint is reasonable in scope, but whether it actually operates as a restraint of trade on the facts, and above all, when in the life of the relationship it is meant to bite."
+      ]
+    },
+    {
+      "heading": "During the relationship: the Supreme Court's 2025 ruling on bond clauses",
+      "paragraphs": [
+        "The clearest recent statement of the during-the-relationship side of this line comes from the Supreme Court's decision in Vijaya Bank and Another v. Prashant B. Narnaware, decided on 14 May 2025 and reported as 2025 INSC 691. The respondent had accepted a public sector bank appointment on a condition that he serve a minimum tenure, failing which he would pay liquidated damages of two lakh rupees. He resigned early, paid under protest, and then challenged the clause, and the Karnataka High Court had quashed it and ordered a refund, relying on an earlier Karnataka High Court ruling in a separate matter.",
+        "The Supreme Court, through a bench of Narasimha and Bagchi, JJ., reversed that finding. It held that a negative covenant operating during the subsistence of a contract of employment does not amount to a restraint of trade under Section 27, and that minimum service tenure clauses of this kind serve a legitimate purpose, in that case protecting a public sector bank against the attrition that follows soon after recruitment and training investment. The Court also found the quantum of damages reasonable on the facts, noting the employee held a senior position and was financially placed to absorb the sum, while acknowledging separately that a standard-form clause imposed on unequal bargaining power can in principle be unconscionable, without holding that this particular clause crossed that line.",
+        "The ruling is important mainly for confirming, at the highest level, a distinction that lower courts had already been applying: a restraint that operates only while the relationship continues is judged far more leniently than one meant to survive its end. It does not give employers a free hand to enforce in-term restraints of any severity, but it does settle that a reasonably calibrated minimum-service obligation, with proportionate damages, is not automatically void merely because it restricts the employee's choices for a period."
+      ]
+    },
+    {
+      "heading": "After the relationship ends: why the same reasoning does not carry over",
+      "paragraphs": [
+        "The moment a restraint is meant to operate after an employment, consultancy or shareholder relationship has ended, the analysis changes. The settled authority here is the Supreme Court's earlier ruling in Percept D'Mark (India) Pvt. Ltd. v. Zaheer Khan, reported at (2006) 4 SCC 227, which held that restrictive covenants extending beyond the term of a contract are not enforceable under Indian law, reflecting the policy that a person should not be prevented from earning a livelihood once the contract that justified the restraint has run its course.",
+        "The Delhi High Court applied this squarely in Varun Tyagi v. Daffodil Software Private Limited, FAO 167/2025, decided in June 2025 and reported with the neutral citation 2025:DHC:5015. Tyagi had worked on a government project that Daffodil Software ran for a client, and his contract purported to stop him from working with that client or any of Daffodil's other business associates for three years after he left. A trial court had granted an ex parte interim injunction enforcing this. The High Court set it aside, holding that the restraint could not stand once Tyagi's employment had ended, and specifically noting that there was no confidential information, source code or other proprietary material at stake, since his actual work had been limited to supplying manpower under the arrangement.",
+        "A closely related 2025 ruling, Neosky India Limited v. Nagendran Kandasamy, arising from an arbitration-related petition numbered O.M.P.(I) (COMM.) 183/2024 and decided on 11 August 2025, reached the same conclusion in a different setting. Neosky had acquired a majority stake in a company whose founders agreed, under the share subscription and shareholders' agreements, not to compete for three years. The founders resigned as promoters and started a competing venture afterward, and Neosky sought an injunction under Section 9 of the Arbitration and Conciliation Act. The Delhi High Court vacated the injunction, holding that the restraint applied only during the respondents' tenure as promoters, drawing on both Percept D'Mark and the Vijaya Bank reasoning to reach the same during-versus-after distinction outside a pure employment setting."
+      ]
+    },
+    {
+      "heading": "What still survives, and what a business should actually rely on instead",
+      "paragraphs": [
+        "None of these rulings touch confidentiality. A separate obligation not to use or disclose confidential information, trade secrets or proprietary material survives the end of a relationship perfectly well, because it is not framed as a restraint on the person's ability to work or trade, only as a limit on using specific information belonging to someone else. Businesses that have been relying on a broad post-termination non-compete as their main protection, rather than on a properly drafted confidentiality and trade secret clause, are often protecting the wrong thing.",
+        "Liquidated damages clauses tied to a minimum-service obligation, as in Vijaya Bank, remain a workable tool precisely because they operate during the relationship and attach a cost to early exit rather than attempting to control what the person does after leaving. A business structuring a shareholder exit or key-employee arrangement would do better to combine a reasonable in-term restraint, calibrated damages if that term is breached early, and separate confidentiality and non-solicitation obligations that are genuinely about protecting specific information or client relationships, rather than drafting a single broad non-compete and hoping a court enforces it as written after the relationship ends."
+      ]
+    },
+    {
+      "heading": "Litigation strategy on either side of this line",
+      "paragraphs": [
+        "A party seeking to enforce a restraint should lead with the timing question before anything else: is the conduct complained of happening while the contract is still in force, or after it has ended. If it is during the relationship, Vijaya Bank gives real support for an injunction or damages claim, provided the restriction and any damages figure are proportionate to the legitimate interest being protected. If it is after the relationship, the same party is far better served building the case around confidentiality or trade secret misuse, where actual evidence exists, than around the bare restraint clause, which the Varun Tyagi and Neosky rulings suggest is likely to be set aside at the interim stage regardless of how it is worded.",
+        "The side resisting such a restraint, typically a departing employee, founder or dealer, should focus the opposition on exactly when the restraint is meant to operate and what specific confidential material, if any, is genuinely at risk. An argument that simply asserts unfairness, without engaging with this distinction, tends to be less persuasive than one that walks the court through why the clause, properly read, is attempting to restrain trade after the relevant relationship has ended rather than protect something specific during it."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can my employer enforce a non-compete clause that applies after I resign?",
+      "a": "Generally not in India. The Supreme Court's ruling in Percept D'Mark v. Zaheer Khan and the Delhi High Court's 2025 decision in Varun Tyagi v. Daffodil Software both treat post-termination restraints on a person's ability to work as void under Section 27, unless the restriction is really about protecting confidential information rather than restraining competition itself."
+    },
+    {
+      "q": "Does the Vijaya Bank ruling mean all minimum-service clauses with penalty payments are enforceable?",
+      "a": "It means a minimum-service clause operating during employment is not automatically treated as a restraint of trade, and the damages figure in that case was found reasonable on its specific facts. A clause with a disproportionate penalty, or one imposed through clearly unequal bargaining power, could still be challenged on other grounds, including unconscionability."
+    },
+    {
+      "q": "I have a non-compete in my shareholder exit agreement after selling my stake. Is it enforceable?",
+      "a": "It depends on when it is meant to apply and whether it fits the narrow statutory exception for the sale of goodwill. The Neosky India v. Nagendran Kandasamy ruling struck down a restraint that was meant to survive the founders' exit as promoters, since it operated after, not during, the relevant tenure."
+    },
+    {
+      "q": "What should a business rely on instead of a broad post-employment non-compete?",
+      "a": "A properly drafted confidentiality and trade secret protection clause, combined with narrowly targeted non-solicitation obligations concerning specific clients or employees, tends to hold up far better than a blanket restraint on competing, which Indian courts have consistently struck down once the underlying relationship has ended."
+    }
+  ],
+  "references": [
+    "Indian Contract Act, 1872, Section 27",
+    "Percept D'Mark (India) Pvt. Ltd. v. Zaheer Khan, (2006) 4 SCC 227",
+    "Vijaya Bank and Another v. Prashant B. Narnaware, Supreme Court of India, decided 14 May 2025, 2025 INSC 691",
+    "Varun Tyagi v. Daffodil Software Private Limited, FAO 167/2025, Delhi High Court, decided June 2025, neutral citation 2025:DHC:5015",
+    "Neosky India Limited v. Nagendran Kandasamy, O.M.P.(I) (COMM.) 183/2024, Delhi High Court, decided 11 August 2025"
+  ],
+  "sources": [
+    "https://www.supremecourtcases.com/vijaya-bank-and-another-v-prashant-b-narnaware/",
+    "https://lexplosion.in/?p=143039",
+    "https://www.livelaw.in/lawschool/articles/supreme-court-employment-bonds-restrictive-covenants-section-27-indian-contract-act-543701",
+    "https://www.verdictum.in/app-lite/court-updates/high-courts/delhi-high-court/varun-tyagi-v-daffodil-software-pvt-ltd-neutral-citation-2025dhc5015-1582584",
+    "https://www.livelaw.in/amp/high-court/delhi-high-court/post-termination-restrictive-covenants-in-employment-contracts-are-void-us-27-of-contract-act-delhi-high-court-300970",
+    "https://itatonline.org/digest/verdicts/neosky-india-limited-versus-mr-nagendran-kandasamy-delhi-high-court"
+  ],
+  "verification_notes": [
+    "Vijaya Bank v. Prashant B. Narnaware: case name, decision date (14 May 2025), citation (2025 INSC 691), bench (Narasimha and Bagchi, JJ.), the minimum-tenure clause and the two-lakh-rupee liquidated damages figure, and the holding that an in-term negative covenant is not a restraint of trade, confirmed by supremecourtcases.com's full-text report and corroborated independently by lexplosion.in's and livelaw.in's dedicated commentaries, all three agreeing on the facts and holding.",
+    "Percept D'Mark (India) Pvt. Ltd. v. Zaheer Khan, (2006) 4 SCC 227, holding that restrictive covenants beyond the contract term are unenforceable: confirmed as the authority relied on in both the Neosky India ruling (per itatonline.org's summary) and general Section 27 commentary found in the initial search results; treated as settled Supreme Court authority rather than attributed to a single secondary source.",
+    "Varun Tyagi v. Daffodil Software: case number (FAO 167/2025), neutral citation (2025:DHC:5015), the POSHAN Tracker/DIC factual background, and the holding setting aside the injunction because no confidential information or proprietary material was at stake, confirmed by verdictum.in's court-update listing and corroborated by livelaw.in's and the JSA Prism commentary's independent summaries of the same ruling.",
+    "Neosky India Limited v. Nagendran Kandasamy: case number (O.M.P.(I) (COMM.) 183/2024), decision date (11 August 2025), the share subscription and shareholders' agreement background, the three-year promoter restraint, and the holding that the restraint did not survive the respondents' resignation as promoters, confirmed by itatonline.org's headnote and corroborated by amlegals.com's and livelaw.in's independent write-ups of the same case.",
+    "Neosky's reliance on both Percept D'Mark and the Vijaya Bank reasoning: confirmed by itatonline.org's summary, which lists both authorities as relied upon in the judgment.",
+    "Left out: any claim that the Vijaya Bank ruling extends its reasoning to private-sector employers generally, since the sources describe the case as concerning a public sector bank and note that its application to private employment is less settled; the guide states this caveat rather than generalising the holding beyond what was confirmed."
+  ]
+}

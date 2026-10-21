@@ -1064,7 +1064,7 @@
   "title": "Mandatory Product Recall Under Section 20 of the Consumer Protection Act: When the CCPA Can Order It",
   "references": [
    "Consumer Protection Act, 2019, Section 20 (Central Authority's power to order recall of unsafe goods and withdrawal of unsafe services, and reimbursement of price)",
-   "Consumer Protection Act, 2019, Section 18 (Central Authority's general functions to protect consumer rights) and Section 19 (power to investigate, call for records and conduct search and seizure)",
+   "Consumer Protection Act, 2019, Section 18 (Central Authority's general functions to protect consumer rights), Section 19 (power to investigate, call for records and refer matters for detailed investigation) and Section 22 (search and seizure powers, applying Code of Criminal Procedure safeguards)",
    "Consumer Protection Act, 2019, Section 88 (penalty for non-compliance with a direction of the Central Authority)",
    "Food Safety and Standards Act, 2006 and related FSSAI regulations on food recall procedure, as a sector-specific regime distinct from the general Section 20 power"
   ]
@@ -1075,7 +1075,7 @@
   "title": "Non-Compete Clauses in Share Purchase Agreements: Why the Goodwill Exception Makes Them Enforceable",
   "references": [
    "Indian Contract Act, 1872, Section 27 (restraint of lawful trade void, except for the sale of goodwill)",
-   "Affle Holdings Pte. Ltd. v. Saurabh Singh, Delhi High Court (interim order upholding a 36-month non-compete in a share purchase agreement where the promoter had received full consideration and transferred the business's goodwill)",
+   "Affle Holdings Pte. Ltd. v. Saurabh Singh, OMP 1257/2014, Delhi High Court, judgment dated 22 January 2015 (upholding a 36-month non-compete in a share purchase agreement where the promoter had received full consideration and transferred the business's goodwill)",
    "Gujarat Bottling Co. Ltd. v. Coca Cola Co., (1995) 5 SCC 545 (restraints operating during the term of a franchise agreement do not offend Section 27)",
    "Percept D'Mark (India) Pvt. Ltd. v. Zaheer Khan, (2006) 4 SCC 227 (restrictive covenants extending beyond the contract term are void under Section 27)",
    "Vijaya Bank v. Prashant B. Narnaware, 2025 INSC 691, Supreme Court, decided 14 May 2025 (in-term service conditions do not amount to a restraint of trade under Section 27)"
@@ -1113,6 +1113,66 @@
    "Food Safety and Standards Act, 2006 and FSSAI Licensing and Registration Regulations (registration versus licence thresholds based on annual turnover and business category)",
    "FSSAI's FoSCoS online portal framework for registration, licensing and renewal of food business operators, including phased validity and renewal changes",
    "Food Safety and Standards Act, 2006, penalty and prosecution provisions applicable to any food business operator, regardless of scale, for operating without the required registration or licence or for selling unsafe, substandard or misbranded food"
+  ]
+ },
+ {
+  "file": "_drafts/batch6/blog/01-food-analyst-report-sampling-retest-guide.json",
+  "slug": "food-analyst-report-sampling-retest-guide",
+  "title": "Challenging a Food Analyst's Report Under the FSS Act: Sampling, Retesting and Prosecution Defences",
+  "references": [
+   "Food Safety and Standards Act, 2006, Sections 38, 40, 42, 43, 46 and 47",
+   "Food Safety and Standards (Food Safety Officers and Food Analysts) Rules, 2011, Rules 2.4.4 to 2.4.6",
+   "Tata Chemicals matter, Bombay High Court, 2024, on strict compliance with time limits for analysis",
+   "Nestle India (Maggi) matter, Bombay High Court, 2025, on the requirement of a Section 43-accredited laboratory",
+   "Kewal Dairy v. State of U.P., Allahabad High Court, 2024, on limitation running from the date the Food Analyst's report is received",
+   "Britannia Dairy matter, Bombay High Court, 2026, on loss of the retest opportunity where notice follows expiry of shelf life"
+  ]
+ },
+ {
+  "file": "_drafts/batch6/blog/02-rooftop-solar-net-metering-disputes-guide.json",
+  "slug": "rooftop-solar-net-metering-disputes-guide",
+  "title": "Rooftop Solar Net Metering Disputes With Your DISCOM: What the Current Rules Actually Allow",
+  "references": [
+   "Electricity (Rights of Consumers) Rules, 2020, Rule 4(10)",
+   "Ministry of Power directive, October 2025, to States and Union Territories on waiving separate net metering agreements under PM Surya Ghar Muft Bijli Yojana",
+   "Gujarat Electricity Regulatory Commission, Fifth Amendment to the Net Metering Rooftop Solar PV Grid Interactive Systems Regulations, 2016",
+   "Andhra Pradesh Electricity Regulatory Commission order waiving fees for rooftop systems up to 10 kW while retaining the net metering agreement requirement",
+   "Haryana Electricity Regulatory Commission, draft second amendment on compensation for surplus exported solar power",
+   "Maharashtra Electricity Regulatory Commission order on a 660 kW rooftop solar project seeking net metering with open access"
+  ]
+ },
+ {
+  "file": "_drafts/batch6/blog/03-parallel-imports-grey-market-goods-trademark-guide.json",
+  "slug": "parallel-imports-grey-market-goods-trademark-guide",
+  "title": "Parallel Imports and Grey Market Goods: What Section 30(3) of the Trade Marks Act Actually Permits",
+  "references": [
+   "Trade Marks Act, 1999, Sections 29, 30(3) and 30(4)",
+   "Kapil Wadhwa and Others v. Samsung Electronics Co. Ltd. and Another, FAO(OS) 93/2012, Delhi High Court Division Bench, decided 3 October 2012",
+   "Samsung Electronics Co. Ltd. v. G. Choudhary and Another, earlier Delhi High Court line of decisions applying a material differences approach",
+   "Philip Morris Products S.A. matter concerning Marlboro cigarettes, Delhi High Court, 2014"
+  ]
+ },
+ {
+  "file": "_drafts/batch6/blog/04-subsequent-allottee-rights-rera-assignment-guide.json",
+  "slug": "subsequent-allottee-rights-rera-assignment-guide",
+  "title": "Buying a Flat From the Original Allottee: Does Your RERA Remedy Survive the Assignment?",
+  "references": [
+   "Real Estate (Regulation and Development) Act, 2016, Sections 2(d) and 18",
+   "M/s Laureate Buildwell Pvt. Ltd. v. Charanjeet Singh, Civil Appeal No. 7042 of 2019, Supreme Court of India, decided 22 July 2021, 2021 SCC OnLine SC 479",
+   "HUDA v. Raje Ram, and Wing Commander Arifur Rahman Khan v. DLF Southern Homes Pvt. Ltd., both discussed and distinguished in Laureate Buildwell",
+   "Raajyam Realty LLP v. Radhika Ganatra, Maharashtra Real Estate Regulatory Authority"
+  ]
+ },
+ {
+  "file": "_drafts/batch6/blog/05-non-compete-negative-covenant-section-27-guide.json",
+  "slug": "non-compete-negative-covenant-section-27-guide",
+  "title": "Non-Compete and Negative Covenant Clauses in Commercial Contracts: What Section 27 Actually Allows",
+  "references": [
+   "Indian Contract Act, 1872, Section 27",
+   "Percept D'Mark (India) Pvt. Ltd. v. Zaheer Khan, (2006) 4 SCC 227",
+   "Vijaya Bank and Another v. Prashant B. Narnaware, Supreme Court of India, decided 14 May 2025, 2025 INSC 691",
+   "Varun Tyagi v. Daffodil Software Private Limited, FAO 167/2025, Delhi High Court, decided June 2025, neutral citation 2025:DHC:5015",
+   "Neosky India Limited v. Nagendran Kandasamy, O.M.P.(I) (COMM.) 183/2024, Delhi High Court, decided 11 August 2025"
   ]
  }
 ]
