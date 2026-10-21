@@ -1,0 +1,17 @@
+{
+  "slug": "nclat-dickey-resolution-plan-prudent-arc",
+  "title": "NCLAT: CoC Approval Cannot Cure a Resolution Plan That Breaches Section 30(2)(f)",
+  "practice_area": "IBC & Insolvency",
+  "court": "NCLAT",
+  "case_name": "Dickey Special Situation Investment Trust-DSSF Series 2 v. Manish Agarwal & Ors.",
+  "citation": "Company Appeal (AT)(Ins) Nos. 1725 & 1706 of 2026; 2026 LLBiz NCLAT 396",
+  "decision_date": "2026-10-12",
+  "reported_by": ["LiveLawBiz", "ibclaw.in"],
+  "sources": [
+    "https://www.livelawbiz.com/ibc/coc-approval-cannot-cure-resolution-plans-failure-to-meet-mandatory-ibc-requirements-nclat-554489",
+    "https://ibclaw.in/nclat-upholds-liquidation-as-plan-failed-regulation-383a-default-test/"
+  ],
+  "card_summary": "NCLAT upheld liquidation after a resolution plan, despite 94.86% CoC approval, failed to disclose the cause of default under Regulation 38(3)(a). It held CoC approval cannot cure this, since that would strip Section 30(2)(f) of meaning once the CoC has voted. It also clarified a plan need not match liquidation value, but set aside a separate restriction on the dissenting assignee's recovery, leaving that point open.",
+  "card_tip": "Check that a resolution plan discloses the cause of default under Regulation 38(3)(a) before relying on a high CoC approval percentage; the vote will not save a plan that skips this disclosure.",
+  "verification_notes": "Cross verified against LiveLawBiz's report of the NCLAT order and ibclaw.in's independent summary, which agree on the case numbers, the 94.86% CoC share, the April 23, 2026 plan approval, the August 14, 2026 NCLT rejection, and the October 12, 2026 NCLAT order upholding liquidation on the Regulation 38(3)(a)/Section 30(2)(f) ground while setting aside the Prudent ARC recovery restriction."
+}
