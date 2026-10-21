@@ -1,0 +1,97 @@
+{
+  "slug": "rooftop-solar-net-metering-disputes-guide",
+  "title": "Rooftop Solar Net Metering Disputes With Your DISCOM: What the Current Rules Actually Allow",
+  "meta_description": "Why rooftop solar billing and net metering agreements with DISCOMs go wrong under PM Surya Ghar, and where a consumer or MSME can actually complain.",
+  "practice_area": "Power, Energy & Mining",
+  "intro": [
+    "A household or small business signs up for a rooftop solar installation under the PM Surya Ghar Muft Bijli Yojana expecting a straightforward adjustment to its electricity bill. The panels go up, the system gets commissioned, and then the trouble starts: the distribution company delays executing the net metering paperwork, or the bill that follows does not reflect the units the system actually exported to the grid. The consumer is left holding a functioning solar system and a bill that makes no sense, with no obvious person at the DISCOM able to explain why.",
+    "The legal position here has been moving quickly over the last two years, mostly in the consumer's favour on paper, though implementation on the ground still varies sharply from state to state. Knowing what the current directives actually require, and which forum deals with a billing complaint versus a regulatory dispute, saves a great deal of back and forth with a call centre that often has no authority to fix the problem."
+  ],
+  "sections": [
+    {
+      "heading": "Net metering versus gross metering, and why the difference matters for your bill",
+      "paragraphs": [
+        "Under net metering, the electricity a rooftop system exports to the grid is subtracted from what the consumer draws, so the bill reflects only the net units consumed over a billing cycle, with any surplus usually carried forward or settled periodically. Under gross metering, by contrast, every unit the system generates is purchased separately by the DISCOM at a set tariff, while the consumer continues to pay for everything drawn from the grid at the retail rate. For a small residential or MSME installation, net metering is almost always the better outcome, because the retail tariff a household avoids paying is usually higher than the feed-in rate a DISCOM would pay for exported units under gross metering.",
+        "This is exactly why some DISCOMs have pushed to move high-penetration categories toward gross metering, arguing that net metering erodes the revenue they need to maintain the grid that rooftop consumers still rely on for backup supply. A consumer evaluating a dispute should first check which arrangement their sanction letter and connectivity agreement actually promised, since a billing error is a very different problem from a DISCOM trying to shift the consumer's category altogether."
+      ]
+    },
+    {
+      "heading": "The push to simplify net metering agreements under PM Surya Ghar",
+      "paragraphs": [
+        "In October 2025, the Ministry of Power wrote to all States and Union Territories asking them to stop requiring a separate, physically executed net metering agreement for residential rooftop solar consumers under the PM Surya Ghar scheme. The directive relies on sub-rule 10 of Rule 4 of the Electricity (Rights of Consumers) Rules, 2020, and asks that the agreement instead be generated digitally as part of the online application on the national rooftop solar portal. The same communication asked utilities to waive application, registration, meter-testing and commissioning fees, and noted that a number of States had already done so.",
+        "Several State regulators have since amended their own net metering regulations to fall in line. Gujarat's regulator issued a fifth amendment to its 2016 net metering regulations removing the separate connectivity agreement requirement for PM Surya Ghar systems, treating the commissioning date itself as the point from which the existing regulations bind the consumer. Madhya Pradesh has circulated a draft amendment along similar lines, proposing to waive processing and meter-testing fees and drop the separate agreement requirement for scheme applicants.",
+        "Not every State has gone the same way. Andhra Pradesh's regulator waived fees for systems up to 10 kW but explicitly kept the net metering agreement itself mandatory, reasoning that the agreement protects the rights of both the consumer and the utility and cannot simply be dispensed with. A consumer in a State that has not adopted the digital-agreement approach should not assume the October 2025 directive automatically overrides the local regulation. What governs any individual connection is the regulation actually in force in that State, not the Ministry's advisory by itself."
+      ]
+    },
+    {
+      "heading": "Where billing disputes are actually coming from",
+      "paragraphs": [
+        "The most common complaint reaching the Ministry has nothing to do with the policy framework and everything to do with execution. Consumers have reported bills that do not correctly account for units exported to the grid after a rooftop system is commissioned, and the Ministry has been routing these complaints back to the relevant DISCOM for resolution rather than resolving them centrally. In practice, this usually comes down to a meter that has not been properly configured for bidirectional recording, or a billing system that has not been updated to apply the net calculation at all.",
+        "A second recurring problem is delay itself. Even where a State no longer requires a separate paper agreement, a consumer can still face months of inaction between commissioning and the DISCOM actually recognising the connection in its billing system, during which bills continue to be raised as though no solar system exists. Haryana's regulator has separately proposed compensating surplus exported power at a share of the last discovered tariff from the Solar Energy Corporation of India or a reference rate it notifies, which points to a wider issue: compensation for exported units is not uniform across States, and a consumer should check the applicable State regulation rather than assume a single national rate applies."
+      ]
+    },
+    {
+      "heading": "Which forum actually deals with your complaint",
+      "paragraphs": [
+        "A billing error or a delay in executing paperwork is a service complaint against the DISCOM, and the first stop is the Consumer Grievance Redressal Forum that every distribution licensee is required to maintain. If the Forum's decision is unsatisfactory, the next step is an appeal to the Electricity Ombudsman appointed for that State, a route built specifically for individual consumer grievances rather than for broader policy questions.",
+        "A dispute over the regulatory framework itself, such as whether a DISCOM can impose a capacity cap, a grid support charge, or restrict net metering for a category of consumers altogether, is a different matter and goes before the State Electricity Regulatory Commission, with a further appeal available to the Appellate Tribunal for Electricity. The Maharashtra Electricity Regulatory Commission's handling of a petition from a company seeking net metering alongside open access for a 660 kW rooftop project shows how this plays out at the regulatory level: the commission partly allowed the net metering arrangement sought, while separately rejecting the petitioner's claim for litigation costs, illustrating that even a successful petition does not automatically carry cost consequences for the other side.",
+        "Consumers sometimes approach the regulatory commission directly for what is really a billing dispute, which tends to be slower and less suited to the kind of individual correction a consumer actually needs. Sorting out at the outset whether the complaint is about a policy the DISCOM is applying, or about an error in how that policy was applied to one connection, saves a great deal of time."
+      ]
+    },
+    {
+      "heading": "What a consumer or small business should actually do",
+      "paragraphs": [
+        "Before raising a dispute, pull the sanction letter, the net metering agreement if one was executed, and at least two billing cycles' worth of bills showing the units recorded by the meter against the units the inverter's own generation log shows were actually produced and exported. A mismatch between these two figures is usually the clearest evidence a Forum or Ombudsman can act on quickly.",
+        "Where the dispute is about delay in execution rather than a wrong bill, a written complaint to the DISCOM referencing the applicable State regulation, and the Ministry of Power's 2025 directive where the State has adopted it, puts the utility on notice that the consumer is aware of the current framework rather than relying on whatever a call centre representative happens to say. If that does not move matters within a reasonable period, escalating in writing to the Forum, with copies retained, builds the record needed for an Ombudsman appeal if it comes to that.",
+        "For an MSME considering a larger rooftop installation, it is worth checking before signing any vendor contract whether the relevant State regulation still treats the system as subject to a capacity ceiling relative to the sanctioned load, since several States continue to cap net metering eligibility as a percentage of contracted demand even as the paperwork around PM Surya Ghar gets simpler."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I still need to sign a separate net metering agreement for my rooftop solar system?",
+      "a": "It depends on your State. Several States, including Gujarat, have moved to a digital agreement built into the online application following the Ministry of Power's October 2025 directive. Others, such as Andhra Pradesh, have kept a formal net metering agreement mandatory even while waiving fees. Check your State regulator's current regulation before assuming either way."
+    },
+    {
+      "q": "My bill does not reflect the solar units I exported. What should I do first?",
+      "a": "Compare the units your inverter's generation log shows against what the meter and bill record, then raise a written complaint with your DISCOM's Consumer Grievance Redressal Forum. This is a service deficiency complaint, not a regulatory dispute, so it belongs with the Forum and, on appeal, the Electricity Ombudsman, not directly with the State Regulatory Commission."
+    },
+    {
+      "q": "Can my DISCOM refuse net metering and insist on gross metering instead?",
+      "a": "Some DISCOMs have sought this change from their State regulator, citing revenue concerns, and a few States have moved toward gross metering for certain categories. Whether this applies to you depends on the specific regulation your State Commission has approved, so check the current regulation rather than assume net metering is guaranteed everywhere."
+    },
+    {
+      "q": "Is the rate I get for exported units the same across India?",
+      "a": "No. Compensation for surplus exported power is set at the State level and varies, with some States linking it to a share of the last discovered solar tariff and others setting their own reference rate. There is no single national feed-in rate."
+    },
+    {
+      "q": "What if my DISCOM simply delays acting on my application for months?",
+      "a": "Document the commissioning date and every follow-up in writing, then escalate formally to the Consumer Grievance Redressal Forum rather than continuing to rely on informal calls. A paper trail showing unreasonable delay is what an Ombudsman appeal, if needed later, will actually rely on."
+    }
+  ],
+  "references": [
+    "Electricity (Rights of Consumers) Rules, 2020, Rule 4(10)",
+    "Ministry of Power directive, October 2025, to States and Union Territories on waiving separate net metering agreements under PM Surya Ghar Muft Bijli Yojana",
+    "Gujarat Electricity Regulatory Commission, Fifth Amendment to the Net Metering Rooftop Solar PV Grid Interactive Systems Regulations, 2016",
+    "Andhra Pradesh Electricity Regulatory Commission order waiving fees for rooftop systems up to 10 kW while retaining the net metering agreement requirement",
+    "Haryana Electricity Regulatory Commission, draft second amendment on compensation for surplus exported solar power",
+    "Maharashtra Electricity Regulatory Commission order on a 660 kW rooftop solar project seeking net metering with open access"
+  ],
+  "sources": [
+    "https://solarquarter.com/2025/10/06/ministry-of-power-directs-states-to-waive-net-metering-agreements-and-charges-for-rooftop-solar-under-pm-surya-ghar-scheme/",
+    "https://mercomindia.com/power-ministry-urges-states-to-scrap-separate-net-metering-agreements",
+    "https://www.energetica-india.net/news/gujarat-amends-net-metering-rules-to-ease-rooftop-solar-adoption-under-pm-surya-ghar-scheme",
+    "https://solarquarter.com/2025/04/28/aperc-waives-fees-and-net-metering-costs-for-domestic-solar-rooftop-installations-under-pm-surya-ghar-muft-bijili-yojana/",
+    "https://herc.gov.in/WriteReadData/Pdf/D20250709.pdf",
+    "https://www.energetica-india.net/news/mnre-flags-incorrect-rooftop-solar-billing-by-discoms-refers-complaints-for-resolution"
+  ],
+  "verification_notes": [
+    "Ministry of Power's October 2025 directive waiving separate net metering agreements and its reliance on Rule 4(10) of the Electricity (Rights of Consumers) Rules, 2020: confirmed independently by solarquarter.com and mercomindia.com, both trade-press reports of the same directive.",
+    "Gujarat's Fifth Amendment removing the separate connectivity agreement for PM Surya Ghar systems: confirmed by energetica-india.net's dedicated report; corroborated in substance by the broader pattern described across the solarquarter.com and mercomindia.com reports of other States following the same approach.",
+    "Andhra Pradesh keeping the net metering agreement mandatory despite waiving fees: confirmed by solarquarter.com's dedicated AP report, and consistent with the Ministry of Power source noting the directive is an advisory States can diverge from.",
+    "Haryana's proposed compensation formula tied to the last discovered SECI tariff or a notified reference rate: taken from HERC's own draft regulation document; this is a single primary source, so the guide describes it as a proposal under a draft amendment rather than as a settled final rule, and no comment deadline or final figure is stated as adopted.",
+    "MNRE/Ministry flagging incorrect billing and referring complaints to DISCOMs: confirmed by the energetica-india.net report, which is itself reporting an official Ministry statement; treated as a single confirmed proposition about the nature of the complaints received, not as a quantified figure of how many complaints exist.",
+    "MERC's order on the 660 kW project partly allowing net metering with open access while rejecting the litigation-cost claim: confirmed from the Mercom Insider report, which is the only detailed source found; the guide states this as a single reported order illustrating regulatory practice, not as a general rule applicable to all such petitions.",
+    "Left out: any claim about a 2024-specific State net metering rule, since the search results found the PM Surya Ghar scheme was launched in February 2024 but the implementing State amendments described are dated 2025 and 2026; left out any single national feed-in tariff figure, since compensation was confirmed to vary by State rather than follow one rate."
+  ]
+}
