@@ -18,7 +18,7 @@
     {
       "heading": "What Order XI does not carry over from the ordinary CPC procedure",
       "paragraphs": [
-        "The rewritten Order XI for commercial suits deliberately leaves out several mechanisms that exist under the general Order XI applicable to an ordinary civil suit, including interrogatories, formal discovery applications, orders for inspection in the older style, verified copies, and the detailed machinery around using a party's answers to interrogatories at trial. The drafting choice reflects the Act's broader purpose: a commercial suit is meant to move through pleadings, disclosure, admission and denial of documents, and a case-management hearing at a pace an ordinary suit rarely achieves, and a long interrogatories process cuts directly against that purpose.",
+        "The rewritten Order XI for commercial suits keeps discovery by interrogatories, now in a leaner Rule 2 that still requires the court's leave, but deliberately leaves out several other mechanisms that exist under the general Order XI applicable to an ordinary civil suit, including formal premature-discovery applications, orders for inspection in the older style, verified copies, and some of the detailed machinery around using a party's answers to interrogatories at trial. The drafting choice reflects the Act's broader purpose: a commercial suit is meant to move through pleadings, disclosure, admission and denial of documents, and a case-management hearing at a pace an ordinary suit rarely achieves, and a long interrogatories process cuts directly against that purpose.",
         "What survives, and matters most in practice, is the structured process for admitting and denying the documents each side has disclosed, feeding into the case management hearing where the court settles exactly which documents are in dispute and which are treated as admitted for the purposes of trial. Getting the admission and denial exercise right early tends to narrow a commercial trial considerably, since a document the other side has formally admitted rarely needs to be proved again through a witness."
       ]
     },
@@ -59,7 +59,7 @@
     },
     {
       "q": "Can I still send interrogatories to the other side in a commercial suit?",
-      "a": "The formal interrogatories machinery from the ordinary Order XI was not carried over into the version of Order XI that applies to commercial suits under the Commercial Courts Act. The process instead runs through mandatory disclosure, inspection, and an admission-and-denial exercise managed at the case management hearing."
+      "a": "Yes, in a leaner form. Rule 2 of the commercial-suit version of Order XI retains discovery by interrogatories, subject to the court's leave, running alongside the mandatory disclosure, inspection, and admission-and-denial exercise managed at the case management hearing."
     },
     {
       "q": "What do I need to show to bring in a document I missed disclosing earlier?",
