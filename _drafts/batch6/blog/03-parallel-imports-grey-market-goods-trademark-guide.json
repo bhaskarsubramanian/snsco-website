@@ -1,0 +1,97 @@
+{
+  "slug": "parallel-imports-grey-market-goods-trademark-guide",
+  "title": "Parallel Imports and Grey Market Goods: What Section 30(3) of the Trade Marks Act Actually Permits",
+  "meta_description": "Why genuine branded goods imported without the owner's Indian distributor often do not infringe, and where a brand owner can still stop resale in India.",
+  "practice_area": "Intellectual Property",
+  "intro": [
+    "A brand owner finds genuine goods bearing its registered mark being sold in India by a trader who was never appointed as a distributor and never bought the goods from the Indian arm of the business at all. The goods are not counterfeit. They are the real product, bought abroad and brought in through an import channel the brand owner did not authorise. The instinctive reaction is to treat this as straightforward trademark infringement, since the trader has no agreement with the brand owner and no licence to sell under the mark in India.",
+      "Indian law does not support that instinct in anything like the way most brand owners expect. The Trade Marks Act, 1999 carries a specific statutory exception for genuine goods, and a Division Bench of the Delhi High Court settled, over a decade ago now, how far that exception actually runs. Understanding where the line sits matters just as much for a trader bringing in genuine stock as it does for a brand owner trying to protect an authorised distribution network."
+  ],
+  "sections": [
+    {
+      "heading": "The basic infringement rule and the exception that complicates it",
+      "paragraphs": [
+        "Section 29 of the Trade Marks Act gives a registered owner the right to stop anyone else from using an identical or deceptively similar mark on goods without consent. On a plain reading, importing and reselling goods bearing someone else's registered mark without any authorisation from that owner looks like exactly the kind of unauthorised use Section 29 is meant to catch.",
+        "Section 30(3) cuts into that right for a specific situation: goods that were lawfully put on the market somewhere, under the registered mark, by the owner or with the owner's consent. Where that is true, the Act says that a further sale or dealing in those particular goods by someone who acquired them lawfully does not amount to infringement, even though that person has no direct relationship with the trademark owner. The provision exists because trademark law is meant to prevent confusion about the origin of goods, not to let a brand owner control every resale of something it has already sold once, somewhere in the world."
+      ]
+    },
+    {
+      "heading": "Samsung v. Kapil Wadhwa: how the courts actually read Section 30(3)",
+      "paragraphs": [
+        "The leading Indian authority on this question is the Delhi High Court's ruling in Kapil Wadhwa and Others v. Samsung Electronics Co. Ltd. and Another, decided in 2012. Wadhwa had been an authorised Samsung dealer and continued, after that relationship ended, to import genuine Samsung printers bought in Korea and sell them in India. Samsung sued for infringement, and at the single judge stage succeeded: Samsung had argued that the word 'market' in Section 30(3) meant the domestic Indian market, so goods first sold abroad were outside the exception altogether, and the judge agreed, holding that Indian law followed a national exhaustion principle under which only the first sale within India exhausts the owner's rights.",
+        "A Division Bench reversed that reading on appeal. It held that the Trade Marks Act, 1999 embodies an international exhaustion principle, not a national one, and that reading 'market' as meaning only the domestic market was too narrow. On this view, once Samsung or someone with its consent had put the printers on the market anywhere in the world, a further genuine sale of those same units did not infringe Samsung's Indian registration merely because the importer bypassed Samsung's own distribution chain. The Bench did place the burden squarely on the importer to actually prove the chain of consent, that is, that the specific goods being resold were first placed on the market by the trademark owner or with its consent, which is not a burden an importer can discharge by asserting it alone.",
+        "This reasoning has been applied consistently since, including in a 2014 Delhi High Court matter involving Marlboro cigarettes, where the court again treated genuine goods lawfully acquired abroad as falling outside the scope of infringement once the consent chain was shown. The practical effect across these decisions is that India sits closer to the international exhaustion end of the spectrum than many brand owners assume when they draft their distribution agreements."
+      ]
+    },
+    {
+      "heading": "What still lets a brand owner object: Section 30(4) and genuine condition changes",
+      "paragraphs": [
+        "International exhaustion is not unconditional. Section 30(4) carves out its own exception to the exception: the defence under Section 30(3) is not available where the condition of the goods has been changed or impaired after they were put on the market, and the brand owner has legitimate reasons to object to further dealing in them. This is the hook a brand owner actually has, and it is narrower than it sounds, because the change has to be real and material, not merely that the goods reached India through a channel the owner dislikes.",
+        "An earlier line of Delhi High Court decisions, predating Kapil Wadhwa and involving the same Samsung name against a different importer, had applied something closer to a material differences doctrine, under which packaging, warranty terms, or product specifications that differ between the market of first sale and the Indian market could justify stopping the import even without outright counterfeiting. Kapil Wadhwa did not entirely erase this line of reasoning, since Section 30(4) remains on the books, but it shifted the default position: a brand owner relying on condition or material difference now has to actually show it, rather than simply asserting that unauthorised import is itself the harm.",
+        "In practice this means repackaging, removal or alteration of batch codes, expired warranty documentation that misleads an Indian buyer about after-sales support, or goods that were never approved for the Indian market's regulatory requirements, are the kinds of facts that can still support an infringement or passing-off claim even where the goods are genuine. A bare argument that the import undercuts an authorised distributor's pricing is not, by itself, one of those facts."
+      ]
+    },
+    {
+      "heading": "What each side actually needs to prove",
+      "paragraphs": [
+        "An importer relying on Section 30(3) carries the burden of showing the specific goods in question were first placed on the market by the trademark owner or with consent. Invoices, authentic distributor paperwork from the country of first sale, and a traceable chain from manufacture to the import in question are what a court will actually look for. A trader who cannot show where the goods came from, and simply asserts they are genuine, has not discharged this burden, and a bare denial of counterfeiting is not the same as proving lawful first sale.",
+        "A brand owner resisting the exception, in turn, needs more than discomfort at losing control of its distribution network. It needs to show either that consent for the first sale was never actually given, which is a different claim from a condition-change argument, or that the goods have been altered, repackaged, or otherwise changed in a way that would mislead the Indian consumer, which is the Section 30(4) route. Conflating these two arguments, treating any unauthorised import as automatically a condition-change case, tends to weaken rather than strengthen the brand owner's position in court.",
+        "Interim relief follows the same logic. A court asked for an injunction at the first hearing, before either side has led evidence, will usually want at least a prima facie account of where the specific consignment came from and why the brand owner says the chain of consent is broken or the condition has changed. A plaint that simply recites that the defendant is not an authorised dealer, without addressing either limb, tends to struggle at the injunction stage even where the underlying facts might support a case once fully argued."
+      ]
+    },
+    {
+      "heading": "Why recording your mark with Customs is not a complete answer",
+      "paragraphs": [
+        "Brand owners often record their registered marks with Customs under the Intellectual Property Rights (Imported Goods) Enforcement Rules, framed under the Customs Act, so that officers can suspend clearance of suspected shipments and notify the right holder before releasing them. This recordal route is built mainly around goods made or circulated without the right holder's consent, and it works well against straightforward counterfeits, where an officer can compare a shipment against a genuine sample.",
+        "Genuine parallel imports sit less comfortably in that framework, because the goods are not fakes, and whether they were put on the market with the brand owner's consent somewhere else in the world is precisely the fact-heavy question Kapil Wadhwa says a court, not a customs officer at the port, should resolve. A brand owner relying solely on a customs recordal to keep genuine grey market stock out of India should expect an importer who can show a lawful first sale to eventually succeed in having the consignment released and the underlying dispute decided on the merits in court."
+      ]
+    },
+    {
+      "heading": "Drafting lessons for distribution and licensing agreements",
+      "paragraphs": [
+        "Given this legal background, a brand owner that wants to actually restrict grey market resale in India needs to build the protection into its contracts and its products, not assume trademark law alone will do the job. Distribution and licensing agreements should impose contractual restrictions on where an authorised buyer can resell stock, since a contractual breach by an authorised distributor is a separate claim from trademark infringement and does not depend on Section 30(3) at all.",
+        "Product-level measures matter just as much. Market-specific packaging, region-locked warranty registration, and batch tracking that can show whether a unit was intended for a different market all create the evidentiary basis for a genuine Section 30(4) argument later, if it comes to that. A business that relies purely on its trademark registration, without any of this contractual or product-level groundwork, is likely to find that genuine goods bought abroad and resold in India are simply outside what Indian trademark law lets it stop."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it legal to import and sell genuine branded goods in India without the brand owner's permission?",
+      "a": "Often yes, under Section 30(3) of the Trade Marks Act, provided the importer can show the goods were first put on the market by the trademark owner or with its consent somewhere in the world. This is not the same as counterfeiting, and Indian courts have treated such resale as outside the scope of infringement when that consent chain is proved."
+    },
+    {
+      "q": "Does this mean a trademark owner can never stop a grey market import?",
+      "a": "No. Section 30(4) still allows objection where the condition of the goods has been changed or impaired, or where there are other legitimate reasons, such as misleading warranty information. Lack of consent to the original first sale is also a separate ground that defeats the exception entirely."
+    },
+    {
+      "q": "What proof does an importer need to rely on the genuine goods defence?",
+      "a": "Documentation tracing the goods back to a lawful first sale by the owner or with consent, such as authentic invoices and distributor records from the country of purchase. The burden is on the importer, and a bare assertion that the goods are genuine is not enough on its own."
+    },
+    {
+      "q": "Can a brand owner use its distribution agreements to stop grey market resale instead of relying on trademark law?",
+      "a": "Yes, and this is usually the more reliable route. Contractual restrictions on an authorised distributor's resale territory create a separate breach of contract claim that does not depend on proving infringement under the Trade Marks Act at all, and courts enforce such contractual limits even against buyers the Section 30(3) exception would otherwise protect from an infringement claim."
+    }
+  ],
+  "references": [
+    "Trade Marks Act, 1999, Sections 29, 30(3) and 30(4)",
+    "Kapil Wadhwa and Others v. Samsung Electronics Co. Ltd. and Another, FAO(OS) 93/2012, Delhi High Court Division Bench, decided 3 October 2012",
+    "Samsung Electronics Co. Ltd. v. G. Choudhary and Another, earlier Delhi High Court line of decisions applying a material differences approach",
+    "Philip Morris Products S.A. matter concerning Marlboro cigarettes, Delhi High Court, 2014"
+  ],
+  "sources": [
+    "https://barandbench.com/delhi-hc-rules-indian-trademark-law-follows-international-exhaustion-regime-saikrishna/",
+    "https://ssrana.in/articles/india-legality-of-parallel-imports-vis-a-vis-trade-marks-law/",
+    "https://www.iam-media.com/article/parallel-import-issues-under-indian-trademark-law",
+    "https://spicyip.com/2014/03/trademark-parallel-imports-delhi-hc-on-the-marlboro-trademark-case.html",
+    "https://law.asia/same-same-but-different/"
+  ],
+  "verification_notes": [
+    "Single-judge national exhaustion holding and the Division Bench's reversal to international exhaustion in Kapil Wadhwa (FAO(OS) 93/2012): confirmed by barandbench.com's dedicated report on the ruling and corroborated by ssrana.in's and iam-media.com's independent summaries of the same case; the Delhi High Court's own cause list record confirmed the case number, bench composition (Nandrajog and Mridul JJ.) and the 3 October 2012 pronouncement date.",
+    "Burden on the importer to show the goods were first placed on the market by the owner or with consent: confirmed by barandbench.com and ssrana.in, both describing this as the operative test the Division Bench applied.",
+    "Marlboro/Philip Morris 2014 decision reaffirming the exhaustion approach for genuine goods: confirmed by spicyip.com's dedicated case commentary and corroborated by law.asia's broader summary of the line of Delhi High Court cases on grey market goods.",
+    "Earlier Samsung v. G. Choudhary line applying a material differences doctrine: confirmed by iam-media.com and law.asia, both describing this as the pre-Wadhwa approach that Section 30(4) can still support.",
+    "Left out: a claimed appeal of Kapil Wadhwa to the Supreme Court, since this appeared only in a single sponsored, undated commentary and could not be corroborated by any independent source; the guide therefore treats the Division Bench ruling as the current leading authority without asserting any later appellate outcome.",
+    "Left out: any 2024 or 2025 judgment specifically on parallel imports, since none was found in the sources searched; the guide states the Kapil Wadhwa line as the settled position rather than implying a recent ruling exists.",
+    "Customs recordal mechanism under the Intellectual Property Rights (Imported Goods) Enforcement Rules, its basis in the Customs Act, and the suspension-of-clearance procedure: confirmed from multiple corroborating practitioner summaries (rkdewan.com and the Mondaq/asiaiplaw commentaries) describing the same framework; specific figures appearing in only one weaker, AI-flagged source (such as a 30-day registration period or 5-year validity) were left out rather than stated as settled."
+  ]
+}
