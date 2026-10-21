@@ -1,0 +1,26 @@
+[
+  {
+    "file": "_drafts/articles/01-arbitration-after-balasamy-core-unstamped-agreements-article.json",
+    "verdict": "PASS",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.scobserver.in/cases/courts-power-to-modify-an-arbitral-award-gayatri-balasamy-v-m-s-isg-novasoft-technologies-ltd/",
+      "https://www.livelaw.in/amp/top-stories/arbitration-clauses-in-unstamped-agreements-enforceable-supreme-court-7-judge-bench-overruled-nn-global-decision-244387",
+      "https://www.scconline.com/blog/post/2024/11/08/unilateral-appointment-arbitrator-public-private-contracts-violate-article-14-supreme-court",
+      "https://dailyjus.com/world/2025/07/why-the-minority-view-got-it-right-in-gayatri-balasamy"
+    ],
+    "note": "Independently re-verified via fresh searches: In Re Interplay (13 Dec 2023, seven-judge bench, unanimous, overruled N.N. Global/SMS Tea Estates, partially overruled Garware), N.N. Global (April 2023, five-judge, 3:2, Joseph/Bose/Ravikumar/Rastogi/Roy JJ), CORE II (8 Nov 2024, five-judge bench of Chandrachud CJI, Roy, Pardiwala, Narasimha, Misra JJ, Article 14 holding, prospective effect for 3-member panels, includes the Section 12(5)/Seventh Schedule ineligible-nomination point via the companion JSW Steel reference), the overruled 2020 CORE decision correctly cited as (2020) 14 SCC 712, Gayatri Balasamy (30 Apr 2025, 2025 INSC 605, 4:1, CJI Khanna with Gavai/Sanjay Kumar/Masih JJ in majority, Viswanathan J dissenting on the four categories but concurring on clerical-error correction) and NHAI v M Hakeem (10 July 2021, 2021 INSC 344). Dissent's reliance on 1940 Act Sections 15-16, UNCITRAL alignment and New York Convention enforceability risk confirmed via independent commentary. No Arbitration Act amendment has been enacted as of Oct 2026 (the 2024 draft Bill remains at consultation stage), consistent with the article's 'as of this article' statement. All six related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language present. The draft's own verification_notes already and correctly flag the handful of citations (TRF v Energo, Voestalpine, precise neutral citations for In Re Interplay and CORE II) that could not be cross-verified against two independent sources, rather than asserting invented precision, which is good practice."
+  },
+  {
+    "file": "_drafts/articles/02-ibc-amendment-act-2026-reform-article.json",
+    "verdict": "PASS",
+    "claims_checked": 16,
+    "evidence": [
+      "https://www.maheshwariandco.com/press-release/ibc-amendment-act-2026/",
+      "https://www.verdictum.in/court-updates/supreme-court/power-trust-v-bhuvan-madan-2026insc166-cirp-adjudicating-authority-insolvency-resolution-section-7-1608009",
+      "https://www.barandbench.com/law-firms/view-point/the-insolvency-and-bankruptcy-code-amendment-act-2026-a-comprehensive-analysis",
+      "https://blog.ipleaders.in/cross-border-and-group-insolvency-under-the-ibc-amendment-act-2026/"
+    ],
+    "note": "Independently re-verified: Presidential assent 6 April 2026 (Act No. 6 of 2026, passed Lok Sabha 30 Mar, Rajya Sabha 1 Apr) and commencement of most provisions from 26 May 2026 confirmed. Power Trust v Bhuvan Madan is a real decision, 2026 INSC 166, decided 18 Feb 2026 (CJI Surya Kant bench, Civil Appeal No. 2211/2024), and independently confirmed to hold that Vidarbha's observations are confined to its own facts and that Innoventive's narrow debt-and-default inquiry at Section 7 admission still governs; viability and part-settlement arguments were rejected as grounds to resist admission - matches the draft's characterisation. CIIRP (Chapter IV-A, 51% financial-creditor threshold, 150 days +45 day extension, confined to Central-Government-notified institutions) confirmed, including the genuine, unresolved conflict in commentary over whether it is actually notified for use, which the draft correctly flags as unsettled rather than asserting either way. Section 33(1A) restart (66% CoC threshold, one-time, 120-day window, effective 26 May 2026, Regulation 40F procedure) confirmed via Bar & Bench and an IBBI-published NCLT order. Chapter VA group insolvency and Section 240C cross-border provisions being carved out of the May 2026 commencement notification with no rules framed, and the draft's explicit correction of commentary that wrongly describes India as having adopted the UNCITRAL Model Law, independently confirmed via iPleaders' dedicated analysis, which also separately confirms tribunals are still handling such cases through ad hoc judicial improvisation. Innoventive (2018) 1 SCC 407 and Vidarbha (2022) 8 SCC 352 citations, dates and holdings are consistent with established case law. All six related_pages paths exist in origin/main:assets/search-index.json. No Section 29A or Section 9 amendment was found in any source, consistent with the draft's stated absence of findings on that point. No client anecdotes or marketing language present. The draft is unusually careful throughout to flag genuinely conflicting secondary sources (CIIRP operational status, the 25 vs 26 May commencement date) as open questions rather than resolving them by invention, which is exactly the right approach for a fast-moving, recently enacted statute."
+  }
+]
