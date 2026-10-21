@@ -34,5 +34,38 @@
       "https://www.miniorange.com/blog/dpdp-consent-manager-registration/"
     ],
     "note": "Independently re-verified: DPDP Rules, 2025 notified 13/14 November 2025 (date reported inconsistently across sources, matching the draft's own deliberate 'mid-November 2025' hedge) with a three-phase commencement (immediate: Board constitution, Rules 1-2 and 17-21; +12 months, mid-Nov 2026: consent manager registration under Rule 4; +18 months, mid-May 2027: substantive obligations) confirmed. Penalty Schedule figures (250 crore security safeguards/s.8(5), 200 crore each for breach notification/s.8(6) and children's data/s.9, 150 crore significant data fiduciary/s.10, 50 crore residual, assessed per instance not as an annual cap) independently confirmed across two sources matching exactly. Appeal route (Board order to TDSAT within 60 days, s.29, further appeal to Supreme Court on questions of law under s.30) confirmed, including TDSAT's own six-month disposal mandate. Consent manager conditions (Rule 4, Part A First Schedule, 2 crore net worth up from a 20-million draft figure, Indian incorporation, independent interoperability certification with technical standards still pending from the Board) confirmed. Children's data provisions (18-year threshold, verifiable parental/guardian consent, Digital Locker/Rule 10 identity verification route, bar on tracking and targeted advertising to minors subject to limited exceptions) confirmed, though most detailed commentary available was still describing the January 2025 draft rather than confirming final Rules text, which the article's own verification_notes already and correctly flag as a limitation rather than asserting false certainty. Cross-border transfer blacklist model (Rule 15, transfer permitted unless a destination is specifically restricted, no restricted-country notification found) confirmed, as was the genuine, unresolved status of the breach-notification '72 hours' figure, which independent sources likewise could trace only to the January 2025 draft rather than confirmed final Rules text; the article's explicit hedging on this exact point ('reported in current compliance commentary... has not been entirely uniform') is accurate and appropriately cautious rather than an error. Both related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language present. This draft's verification_notes are unusually disciplined about flagging precisely the points (exact notification day, further-appeal forum, breach-notification hour figure, survival of the critical-personal-data cross-border rule) where the underlying Rules text could not be confirmed, rather than resolving them by invention."
+  },
+  {
+    "file": "_drafts/articles/04-generative-ai-indian-intellectual-property-article.json",
+    "verdict": "FIX",
+    "claims_checked": 16,
+    "evidence": [
+      "https://corporate.cyrilamarchandblogs.com/2026/07/ani-v-open-ai-delhi-high-court-refuses-interim-injunction-in-landmark-ai-copyright-dispute/",
+      "https://www.intepat.com/blog/dabus-copyright-order-india-ai-authorship",
+      "https://blog.galalaw.com/post/102micu/indias-2026-it-rules-amendment-regulating-ai-generated-content-and-accelerating",
+      "https://www.storyboard18.com/how-it-works/aishwarya-rai-bachchan-moves-delhi-high-court-to-safeguard-personality-rights-80576.htm",
+      "https://www.livelaw.in/amp/top-stories/delhi-high-court-anil-kapoor-voice-image-misuse-personality-rights-238217",
+      "https://globalfreedomofexpression.columbia.edu/wp-content/uploads/2025/03/arijit-singh-vs-codible-ventures-llp-552701.pdf",
+      "https://www.outlookbusiness.com/deeptech/artificial-intelligence/inside-indias-ai-trademark-wars-gemini-chatgpt-grok-and-the-legal-fights-over-naming-rights",
+      "https://storyboard18.com/digital/belagavi-startup-sues-anthropic-over-brand-name-court-posts-next-hearing-for-march-23-91735.htm"
+    ],
+    "note": "Independently re-verified via fresh searches. ANI v OpenAI (CS(COMM) 1028/2024, interim order 24 July 2026, Justice Amit Bansal, Section 52(1)(a) fair dealing on training, no substantial reproduction found on outputs, jurisdiction upheld) matches the draft. Anil Kapoor v Simply Life India (CS(COMM) 652/2023, 20 Sept 2023, Prathiba Singh J), Jackie Shroff v Peppy Store (15 May 2024, Sanjeev Narula J), Arijit Singh v Codible Ventures (Bombay HC, ex parte ad interim, 26 July 2024, R.I. Chagla J, IA(L) 23560/2024 in Com IPR Suit(L) 23443/2024), and Aishwarya Rai Bachchan v Aishwaryaworld.com (CS(COMM) 956/2025, 9 Sept 2025, Tejas Karia J) all confirmed. IT Rules 2026 amendment (G.S.R. 120(E), notified 10 Feb 2026, effective 20 Feb 2026, SGI definition, 3-hour takedown window) confirmed. Trade mark oppositions (ChatGPT/Flaxxi AI, Gemini/Sun TV, Grok/Groke) and the pending Anthropic Softwares v Anthropic PBC Belagavi suit confirmed as still undecided, consistent with the draft. One factual correction: the DABUS Registrar of Copyrights order rejecting DABUS as author is dated 31 August 2026 (confirmed by spicyip.com, intepat.com, supremetoday.ai and ksandk.com), not \"around September 2026\" as the draft hedges; the draft itself flagged this date as unconfirmed in its verification_notes, and a precise date is now available. Both related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or result claims found (BCI Rule 36 compliant).",
+    "fixes": [
+      {
+        "find": "the Registrar of Copyrights held, by around September 2026, that the image met the originality threshold",
+        "replace": "the Registrar of Copyrights held, on 31 August 2026, that the image met the originality threshold",
+        "reason": "Exact order date is confirmed by multiple sources as 31 August 2026, not the hedged \"around September 2026\""
+      },
+      {
+        "find": "Registrar of Copyrights order following Delhi High Court direction of April 2026, decided around September 2026",
+        "replace": "Registrar of Copyrights order dated 31 August 2026, following Delhi High Court direction of April 2026",
+        "reason": "Exact order date now confirmed"
+      },
+      {
+        "find": "the Registrar's rejection of DABUS as author (reported around September 2026) are confirmed by business-standard.com, ksandk.com and organiser.org. The precise calendar date of the Registrar's order was not found in any source and is therefore given only as 'around September 2026'.",
+        "replace": "the Registrar's rejection of DABUS as author, dated 31 August 2026, are confirmed by business-standard.com, ksandk.com, intepat.com and supremetoday.ai.",
+        "reason": "Precise order date (31 August 2026) is now confirmed by independent re-verification"
+      }
+    ]
   }
 ]
