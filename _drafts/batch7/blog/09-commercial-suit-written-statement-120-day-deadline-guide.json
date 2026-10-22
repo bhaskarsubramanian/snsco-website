@@ -1,0 +1,98 @@
+{
+  "slug": "commercial-suit-written-statement-120-day-deadline-guide",
+  "title": "Missing the 120-Day Deadline for a Written Statement in a Commercial Suit Forfeits the Right to File One",
+  "meta_description": "What the Supreme Court held on the 120-day cap for filing a written statement in a commercial suit, and why asking for more time usually fails.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "A defendant served with summons in a commercial suit often behaves the way defendants behave in any ordinary civil suit: file a vakalatnama, ask the plaintiff's counsel for time while settlement talks are explored, and assume the court will accommodate a written statement filed some months later once those talks go nowhere. In a suit governed by the Commercial Courts Act, that assumption can be fatal, and the Supreme Court has said so in terms that leave little room to argue otherwise.",
+    "The default period to file a written statement is thirty days from service of summons. A commercial court can extend that, for reasons it records and usually on payment of costs, but the cumulative outer limit is 120 days from service, full stop. Miss that date and the right to file a written statement is gone, not merely delayed, and the suit moves ahead treating the defendant as having nothing on record responding to the plaint's version of facts."
+  ],
+  "sections": [
+    {
+      "heading": "Where the 120-Day Rule Comes From",
+      "paragraphs": [
+        "The Commercial Courts Act, 2015 inserted a proviso into Order VIII Rule 1 of the Code of Civil Procedure that applies specifically to suits before a designated commercial court or commercial division. It keeps the general thirty-day period but allows extension for recorded reasons and on costs, subject to an absolute ceiling of 120 days from the date of service of summons on the defendant.",
+        "The same amendment inserted Order VIII Rule 10 to spell out the consequence of missing that ceiling: once the 120 days run out without a written statement on file, the court may pronounce judgment against the defendant or pass such other order as it thinks fit in relation to the suit. This pairing, a hard outer limit plus an explicit consequence provision, is what later let the Supreme Court treat the limit as mandatory rather than aspirational."
+      ]
+    },
+    {
+      "heading": "SCG Contracts: Why the Supreme Court Called It Mandatory",
+      "paragraphs": [
+        "In SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors., decided on 12 February 2019, the dispute arose out of a construction contract where the written statement had been filed well beyond 120 days from service, and the lower courts had gone along with it. The Supreme Court reversed that approach, holding that the proviso to Order VIII Rule 1, read together with Order VIII Rule 10, leaves a commercial court with no discretion to accept a written statement filed after the 120-day outer limit.",
+        "The Court's reasoning tied directly back to why the Commercial Courts Act exists at all: speedy disposal of high-value commercial disputes, a goal that extending timelines indefinitely for written statements would undercut. Once the 120 days passed, the defendant in that case had simply forfeited the right to file one, regardless of how reasonable the explanation for the delay might otherwise have sounded in an ordinary suit."
+      ]
+    },
+    {
+      "heading": "How This Differs From an Ordinary Civil Suit",
+      "paragraphs": [
+        "Outside the commercial courts framework, the time limit for filing a written statement under the general Order VIII Rule 1 has been treated by the Supreme Court as directory rather than mandatory, reported commentary on the point notes, meaning a court retains discretion to accept a late written statement where sufficient cause is shown. That distinction matters for any litigation team moving between commercial and non-commercial rosters, since the habits that work in one setting can be the exact habits that cause a defendant to lose the right to file anything at all in the other.",
+        "Lawyers used to the more forgiving ordinary-suit practice are the ones most likely to get caught out, precisely because nothing on the face of a commercial summons flags how differently the clock behaves once the matter is classified as a commercial dispute under the Act."
+      ]
+    },
+    {
+      "heading": "What Actually Happens If You Miss It",
+      "paragraphs": [
+        "Order VIII Rule 10 gives the court two broad options once the 120 days have lapsed: pronounce judgment against the defendant, or make such other order in relation to the suit as it thinks fit. In practice, courts have generally taken the second route rather than the first, proceeding to decide the suit on the material the plaintiff has placed on record without the benefit of the defendant's own pleaded version of the facts.",
+        "A defendant in this position does not simply disappear from the case. Appearance, cross-examination of the plaintiff's witnesses and legal argument generally remain open, but without a written statement there is no vehicle for the defendant's own account of disputed facts to go on record as pleadings, which weakens the defence considerably in a system where Indian civil courts decide suits substantially on the strength of what each side has pleaded."
+      ]
+    },
+    {
+      "heading": "Protecting Yourself Before the Clock Runs Out",
+      "paragraphs": [
+        "Count the 120 days from the actual date of service on each individual defendant, not from the date a vakalatnama was filed or from the date of the first hearing, since service dates can differ across multiple defendants in the same suit and each one's own clock matters separately. Settlement talks are not a reason to sit on a blank written statement; if talks fail close to the deadline, a defendant with nothing filed is in the worst possible position.",
+        "Where time is genuinely short, filing whatever defence is ready by around day 115 to 118, with a request for leave to amend if needed later, preserves the record far better than filing nothing and hoping for an extension that SCG Contracts makes clear the court cannot grant once the outer limit is crossed."
+      ]
+    },
+    {
+      "heading": "A Deadline That May Now Cut Both Ways",
+      "paragraphs": [
+        "A 2026 ruling reported by Verdictum, AK Ghosh and Company v. Biman Bose (2026 INSC 684), is said to extend comparable reasoning to a plaintiff's own reply to a defendant's counterclaim in a commercial suit, with an ordinary thirty-day window from service of the counterclaim and the same 120-day outer cap. This is reported from a single source at the time of writing and should be checked against the full judgment text before being treated as settled, but it points toward the same mandatory-timeline logic applying on both sides of a commercial pleading, not just to a defendant's original written statement."
+      ]
+    },
+    {
+      "heading": "Trying to Argue the Suit Isn't Really 'Commercial'",
+      "paragraphs": [
+        "Some defendants, realising how unforgiving the 120-day regime is, try to argue late in the day that the dispute does not meet the 'specified value' threshold or does not fall within the definition of a commercial dispute under Section 2(1)(c) of the Act, hoping to escape into the more forgiving ordinary-suit regime. Courts scrutinise this carefully because it goes to the jurisdiction of the commercial court itself, not merely to procedure.",
+        "A defendant who has already appeared and participated before the commercial court without raising the classification question rarely succeeds in reviving it purely to escape a missed written statement deadline, since by that stage the defendant has effectively submitted to the forum's jurisdiction."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the 120 days run from the date the suit was filed or the date summons was served?",
+      "a": "From the date of service of summons on the defendant, not the date the plaintiff filed the suit. Where there are multiple defendants served on different dates, each defendant's own 120-day period runs separately from their own date of service."
+    },
+    {
+      "q": "Can the plaintiff and defendant simply agree between themselves to extend the deadline?",
+      "a": "No. The Supreme Court in SCG Contracts treated the limit as mandatory precisely because it protects the court's own timeline for commercial disputes and not merely the plaintiff's private interest, so a private agreement between the parties does not bind the court to accept a late filing."
+    },
+    {
+      "q": "If the written statement is rejected as time-barred, can the defendant still contest the case at trial?",
+      "a": "Generally yes, in the sense of appearing, cross-examining the plaintiff's witnesses and arguing points of law, but without a written statement the defendant has no pleaded version of the disputed facts on record, which is a real disadvantage in a system that decides suits largely on pleadings."
+    },
+    {
+      "q": "Is there any way a commercial court can extend the 120 days once it has expired?",
+      "a": "Based on the Supreme Court's reading of Order VIII Rule 10, no; the provision is understood as leaving no residual discretion once the outer limit has passed, which is a sharper position than the directory treatment given to the equivalent timeline in an ordinary, non-commercial suit."
+    }
+  ],
+  "references": [
+    "Order VIII Rule 1, proviso, and Order VIII Rule 10, Code of Civil Procedure, 1908, as inserted by the Commercial Courts Act, 2015",
+    "Section 2(1)(c), Commercial Courts Act, 2015 (definition of commercial dispute)",
+    "SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors., Supreme Court of India, decided 12 February 2019",
+    "Desh Raj v. Balkishan, Supreme Court of India (as reported in commentary on the directory treatment of the general Order VIII Rule 1 timeline)",
+    "AK Ghosh and Company v. Biman Bose, 2026 INSC 684 (reported)"
+  ],
+  "sources": [
+    "https://www.livelaw.in/amp/top-stories/supreme-court-time-limit-written-statement-order-viii-rule-1-cpc-not-mandatory-bharat-kalra-vs-raj-kishan-chabra-2022-livelaw-sc-465-198764",
+    "https://law.asia/defendants-must-file-written-statement-within-120-days/",
+    "https://elplaw.in/leadership/m-s-scg-contracts-india-pvt-ltd-v-k-s-chamankar-infrastructure-pvt-ltd1-supreme-court-12-february-2019/",
+    "https://www.verdictum.in/app-lite/supreme-court/ak-ghosh-company-and-others-v-biman-bose-and-others-2026-insc-684-1617737",
+    "https://ssrana.in/articles/time-limit-filing-written-statement-cpc-supreme-court/"
+  ],
+  "verification_notes": [
+    "SCG Contracts holding (120 days mandatory for commercial suits, no residual court discretion beyond it): confirmed from the ELP law alert on the judgment and the law.asia summary, both of which agree on the date (12 February 2019), the mandatory characterisation, and the construction-contract fact pattern.",
+    "Distinction between the mandatory commercial-suit timeline and the directory ordinary-suit timeline: drawn from the LiveLaw report on Bharat Kalra v. Raj Kishan Chabra and the ipleaders/ssrana commentary discussing Desh Raj v. Balkishan; both sources treat the ordinary Order VIII Rule 1 period as directory, consistent with the guide's framing.",
+    "2026 extension to a plaintiff's reply to a counterclaim (AK Ghosh and Company v. Biman Bose, 2026 INSC 684): sourced from a single Verdictum report; flagged in the guide itself as needing confirmation against the full judgment rather than stated as settled.",
+    "Order VIII Rule 10 consequence (judgment against defendant, or such other order as the court thinks fit): confirmed from the ssrana and law.asia summaries of the statutory provision, both describing the same two options."
+  ]
+}
