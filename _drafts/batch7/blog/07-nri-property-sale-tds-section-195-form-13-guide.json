@@ -1,0 +1,98 @@
+{
+  "slug": "nri-property-sale-tds-section-195-form-13-guide",
+  "title": "Selling Property in India as an NRI: Why Section 195 TDS Runs So High, and How Form 13 Brings It Down",
+  "meta_description": "How Section 195 TDS on an NRI's property sale is calculated, the current capital gains rate, and how a Form 13 certificate stops the buyer over-deducting.",
+  "practice_area": "NRI Legal Services",
+  "intro": [
+    "An NRI who sells a flat or a plot in India usually finds out about Section 195 at the worst possible moment, at the registration office, when the buyer's lawyer says tax has to be withheld before a rupee changes hands. For a resident seller the number is simple: the buyer deducts a flat one percent of the sale price under Section 194-IA if the deal crosses fifty lakh rupees. For a non-resident seller the number is anything but simple, because Section 195 pegs the withholding to the actual capital gain, computed in the way an assessing officer would compute it, and in practice buyers tend to deduct far more than the seller's real liability out of caution.",
+    "The gap between what gets withheld and what is actually owed can run into several lakh rupees on an ordinary flat sale, money that then sits with the government until the NRI files a return for that year and waits for the refund to be processed. Form 13 exists precisely to close that gap before the sale closes, not after. Done properly, it lets the assessing officer fix the correct rate in advance and hands that figure to the buyer, so the deduction tracks the real tax bill rather than a worst-case estimate."
+  ],
+  "sections": [
+    {
+      "heading": "Why the Deduction Is Usually Bigger Than the Tax You Actually Owe",
+      "paragraphs": [
+        "Section 194-IA, which applies to a resident seller, is a blunt instrument by design: one percent of the sale consideration, full stop, with no reference to profit or loss on the transaction. Section 195 works on a different logic altogether. It requires the person paying a non-resident to deduct tax on the income component of the payment, which for a property sale means the capital gain, not the gross price.",
+        "The practical problem is that the buyer, not the seller, has to make this calculation, and the buyer has every incentive to be conservative. If a buyer under-deducts, the Income Tax Department can come after the buyer for the shortfall along with interest and penalty. Few buyers' lawyers are willing to independently verify a seller's cost of acquisition, improvement expenses or indexation workings, so the default move is to deduct at the applicable rate on the entire sale consideration, or close to it, rather than on the computed gain. The seller then has to claim the difference back through a tax return, a process that can take the better part of a year."
+      ]
+    },
+    {
+      "heading": "The Rate That Actually Applies",
+      "paragraphs": [
+        "For property held more than twenty-four months, the transfer counts as long-term and the capital gains rate for a non-resident seller is 12.5 percent for transfers on or after 23 July 2024, down from the earlier 20 percent rate that still applies to transfers completed before that date, according to guidance published on the Income Tax Department's own site. Indexation benefit, which used to reduce the taxable gain for pre-2024 transfers, does not apply to the post-July 2024, 12.5 percent regime.",
+        "Property held for twenty-four months or less is short-term, and the gain is taxed at the NRI's applicable slab rate rather than a flat capital gains rate. On top of whichever base rate applies, surcharge is added according to the seller's total income slab, and health and education cess of four percent is added on top of that. Where a Double Taxation Avoidance Agreement gives the NRI a more favourable rate, that treaty rate can be claimed instead, though tax advisors differ on whether surcharge and cess still ride on top of a treaty rate, and this point needs to be checked against the specific treaty and a current practitioner's advice rather than assumed either way."
+      ]
+    },
+    {
+      "heading": "What Form 13 Actually Does",
+      "paragraphs": [
+        "Form 13 is an application under Section 197 of the Income-tax Act, 1961, asking the jurisdictional assessing officer to issue a certificate for deduction of tax at a lower rate, or at nil, instead of the default rate a buyer would otherwise apply. It is filed online through the TRACES portal, verified with a digital signature, though a manual filing with the assessing officer remains possible where the online route isn't workable.",
+        "Once the officer is satisfied with the seller's computation of the real capital gain, a certificate is issued specifying the rate (or amount) the buyer is permitted, and required, to deduct. The seller then hands that certificate to the buyer before the deduction is made. Without it, the buyer has no basis to deviate from the default and will almost always deduct on the safer, higher side."
+      ]
+    },
+    {
+      "heading": "What the Assessing Officer Wants to See, and When to Apply",
+      "paragraphs": [
+        "A Form 13 application for a property sale typically needs the seller's PAN, proof of non-resident status such as a passport or OCI card, the draft sale agreement, a computation of the capital gain (cost of acquisition, cost of improvement, indexation where it still applies, and the resulting gain), Form 26AS, and copies of income tax returns filed for the preceding few years. Advisors generally recommend applying at least a month before the planned date of registration, since officers routinely raise queries or ask for clarifications before issuing the certificate.",
+        "Sellers who have not filed Indian returns in recent years because they had no taxable Indian income sometimes assume this disqualifies them. In practice it mainly means the application takes longer to process, since the officer has less on file to verify the seller's claims against, so building in extra time matters even more in that situation."
+      ]
+    },
+    {
+      "heading": "What Happens If You Skip Form 13",
+      "paragraphs": [
+        "Nothing prevents a sale from going through without a Form 13 certificate. The buyer simply deducts at whatever rate it decides is safe, usually the applicable rate on the full consideration, deposits it with the government, and the seller is left to recover the excess by filing an Indian income tax return for that financial year and claiming the TDS as tax already paid.",
+        "The refund, when due, comes only after the return is processed, and for an NRI this can mean a large sum sitting with the tax department for the better part of a year with no interest that meaningfully compensates for the delay. Anyone who is relying on the sale proceeds to fund a purchase elsewhere within the same year should treat this timing gap as a real planning problem, not a minor inconvenience."
+      ]
+    },
+    {
+      "heading": "Mistakes That Keep Coming Up",
+      "paragraphs": [
+        "A common one is assuming the buyer will quietly apply the one percent resident rate under Section 194-IA because the seller used to be resident before moving abroad; tax status at the time of the transfer is what matters, not residential history. Another is applying for Form 13 to the assessing officer who has jurisdiction over the property's location rather than the one who has jurisdiction over the seller's own PAN, which simply delays matters once the error is caught.",
+        "Sellers also sometimes let the registration go ahead on an assumption of what the buyer will deduct, without first reconciling the actual figure against Form 26AS once the buyer deposits it. A mismatch discovered after the sale deed is registered is far harder to sort out than one caught before signing, since the buyer has no real incentive to revisit the deduction once the transaction is closed."
+      ]
+    },
+    {
+      "heading": "After the Tax Is Settled: Moving the Money Out",
+      "paragraphs": [
+        "Getting the TDS rate right is only the tax half of the exercise. Repatriating the net proceeds abroad brings in a separate set of requirements under FEMA, typically a chartered accountant's certificate in Forms 15CA and 15CB confirming the tax position before the authorised bank will remit the funds, and a cap on how much can be sent out in a financial year under the scheme that applies to NRIs liquidating Indian assets. None of that changes because Form 13 was obtained, it simply becomes a smoother step once the tax position on the sale itself is no longer in dispute."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an NRI seller just ask the buyer to deduct one percent like for a resident seller?",
+      "a": "No. The one percent rate under Section 194-IA applies only when the seller is resident in India for tax purposes at the time of transfer. Once the seller is non-resident, the buyer is obliged to deduct under Section 195, based on the actual capital gain and the applicable rate, whatever the parties privately agree between themselves."
+    },
+    {
+      "q": "How long does a Form 13 application usually take to clear?",
+      "a": "Practitioners commonly report several weeks, longer where the officer raises queries on the computation or the seller's documentation is incomplete. Applying only days before a planned registration is risky; most advisors suggest starting at least a month ahead."
+    },
+    {
+      "q": "If the buyer deducts at the higher default rate anyway, after a Form 13 certificate is issued, what can the seller do?",
+      "a": "The certificate fixes the rate the buyer is meant to apply, but if the buyer still over-deducts, the seller's practical remedy remains the same as if no certificate existed: claim the excess back through an income tax return and refund process, which defeats much of the purpose of getting the certificate in the first place."
+    },
+    {
+      "q": "Does the tax treatment change if the property was inherited rather than purchased?",
+      "a": "The computation of the gain changes, since the cost of acquisition is usually taken as the previous owner's cost or a specified fair market value rather than any price the NRI paid, but the Section 195 withholding mechanism and the option to apply for a Form 13 certificate work exactly the same way."
+    }
+  ],
+  "references": [
+    "Section 195, Income-tax Act, 1961 (tax deduction at source on payments to non-residents)",
+    "Section 197, Income-tax Act, 1961, read with Form 13 (application for certificate of lower or nil deduction)",
+    "Section 194-IA, Income-tax Act, 1961 (TDS on transfer of immovable property by a resident, for contrast)",
+    "Finance (No. 2) Act, 2024 amendment reducing the long-term capital gains rate on immovable property to 12.5 percent for transfers on or after 23 July 2024",
+    "Income Tax Department FAQ on the applicable TDS rate when a non-resident sells immovable property in India"
+  ],
+  "sources": [
+    "https://www.incometaxindia.gov.in/w/what-is-the-applicable-tds-rate-when-a-non-resident-sells-immovable-property-in-india-",
+    "https://sbnri.com/blog/nri-income-tax/tds-certificate-for-nri-property-sale",
+    "https://sbnri.com/blog/nri-income-tax/income-tax-form-13-for-lower-deduction-certificate",
+    "https://www.adityabirlacapital.com/abc-of-money/section-195-income-tax-act-tds-nri-income",
+    "https://www.taxbuddy.com/blog/form-13-for-capital-gains-on-sale-of-property-by-nris"
+  ],
+  "verification_notes": [
+    "12.5 percent LTCG rate for non-resident property transfers on or after 23 July 2024, and 20 percent for earlier transfers: confirmed from the Income Tax Department's own FAQ page, cross-checked against the Aditya Birla Capital explainer; both agree on the 23 July 2024 cut-off and the rate change.",
+    "Surcharge and cess treatment where a DTAA rate is invoked: sources disagreed on whether cess and surcharge still apply on top of a treaty rate, so the guide states this as an open point requiring specific advice rather than a settled figure.",
+    "Form 13 process (TRACES filing, documents, assessing officer approval): confirmed across SBNRI, TaxBuddy and TataAIA explainers, which converge on PAN, passport/OCI proof, computation of gains, Form 26AS and prior ITRs as the core document set; exact processing time was not uniformly reported, so only a general 'several weeks, apply a month ahead' guideline is given rather than a specific day count.",
+    "Resident 1 percent TDS under Section 194-IA used only for contrast, not as the operative rule for NRIs, to avoid the common confusion the guide flags."
+  ]
+}
