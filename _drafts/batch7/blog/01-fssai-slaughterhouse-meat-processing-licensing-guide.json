@@ -1,0 +1,103 @@
+{
+  "slug": "fssai-slaughterhouse-meat-processing-licensing-guide",
+  "title": "FSSAI Licensing for Slaughterhouses: Why a Registration Certificate Stops Protecting You Once You Scale Up",
+  "meta_description": "Why FSSAI treats slaughtering by daily capacity, not turnover, and what the Allahabad High Court held when a registered abattoir was shut down.",
+  "practice_area": "Food Safety & FSSAI",
+  "intro": [
+    "A client running an abattoir usually has every paper a municipal inspector could ask for: an FSSAI registration certificate, a GST number, an Udyam certificate, lab reports for the meat going out the gate, sometimes even a no-objection certificate from the local body. None of that protects the unit once the District Magistrate or a Food Safety Officer decides the operation has outgrown what a registration was ever meant to cover. That is the position the Allahabad High Court confirmed in September 2026, in a case that will be familiar to a lot of meat processors who assumed registration was simply a lighter, cheaper way of staying compliant as volumes went up.",
+    "The confusion is understandable because most of FSSAI's licensing structure runs on annual turnover. A small manufacturer registers, a mid-sized one takes a state licence, a large one takes a central licence, and the line between the tiers is mostly a rupee figure. Slaughtering does not work that way. For an abattoir or a meat-processing unit, the regulator looks at how many animals or birds pass through in a day, and that number decides which tier applies regardless of what the business's books show at the end of the year."
+  ],
+  "sections": [
+    {
+      "heading": "Registration is not a cheaper licence",
+      "paragraphs": [
+        "Section 31 of the Food Safety and Standards Act, 2006 sets up the basic scheme. Section 31(1) prohibits any person from running a food business without a licence. Section 31(2) then carves out a narrow exception: a petty food manufacturer or petty food business operator may run on registration instead of a full licence. Registration is that exception, not a trimmed-down or starter version of a licence that every small operator can choose for convenience.",
+        "This matters because operators sometimes treat registration as a form of grandfathering, something they got early and can keep using as the business grows, topping it up with other paperwork along the way. The Food Safety and Standards (Licensing and Registration of Food Businesses) Regulations, 2011 do not work like that. Once an operation stops meeting the definition of a petty business, continuing on registration is not a compliance choice available to it. It is an operator running without the licence the law actually requires for that scale of activity."
+      ]
+    },
+    {
+      "heading": "What decides the threshold: animals per day, not rupees per year",
+      "paragraphs": [
+        "For most categories of food business, the petty-to-licensed line is a turnover test. Slaughtering is treated differently under Regulation 1.2.1(4) of the 2011 Regulations, where the petty-business band for slaughtering is set by daily capacity rather than annual revenue. Secondary sources commonly describe the registration-tier cutoff as something in the region of two large animals, ten small animals, or fifty poultry birds a day, with higher bands for a state licence and a central licence above that. The exact figures at each boundary are worth confirming against the current regulation or with the licensing authority before relying on them, since summaries of the Regulations are not fully consistent at the edges.",
+        "The practical point survives that uncertainty. A slaughterhouse can be small by every financial measure, modest turnover, a handful of staff, little fixed investment, and still fall outside the petty-business band purely because of how many animals or birds it processes in a day. Turnover and throughput are not the same test here, and an operator who only checks the turnover figure can miss the licence requirement entirely."
+      ]
+    },
+    {
+      "heading": "The Kanpur case that settled the point",
+      "paragraphs": [
+        "Junaid Alam v. State of U.P. (Writ-C No. 34620 of 2026, reported as 2026 LiveLaw (AB) 700) involved a two-unit slaughterhouse in Kanpur Nagar that the District Magistrate had ordered shut in May 2025. The owner held a registration certificate valid until 2028, a GST registration, an Udyam registration, lab reports, and a municipal no-objection certificate, and argued that this bundle of documents was enough to justify reopening.",
+        "The Allahabad High Court disagreed. It held that the fundamental right to carry on a trade under Article 19(1)(g) of the Constitution does not override a valid licensing condition imposed for food safety and public health. It also noted that the petitioner's own application for a state licence, filed in March 2025 and disclosing a proposed capacity of twenty large animals a day, had been returned for deficiencies and no licence had actually been granted by the time the matter reached the court. The writ petition was dismissed, and the closure order stood."
+      ]
+    },
+    {
+      "heading": "Why the other documents did not help",
+      "paragraphs": [
+        "Each of the documents the Kanpur operator held does a different, narrower job. GST registration and Udyam registration are tax and MSME-classification records; they confirm the business exists and how it is categorised for other purposes, and say nothing about whether the premises is licensed to process food at the scale it is running at. A municipal no-objection certificate addresses the local body's own concerns, zoning, drainage, nuisance to neighbours, which sit entirely outside FSSAI's statutory scheme. Lab reports show that a particular sample tested clean on a particular day; they say nothing about the capacity at which the unit is permitted to operate.",
+        "Put together, an operator can hold every one of these correctly, keep them all current, and still be running illegally for want of the one authorisation that actually governs capacity under the FSS Act. Courts have shown little patience for arguments built on that bundle of ancillary paperwork once the licensing gap itself is established."
+      ]
+    },
+    {
+      "heading": "Sequencing the licence before you scale, not after",
+      "paragraphs": [
+        "The Kanpur case is also a reminder that getting a licence takes time, and that time should be built into any decision to expand capacity. The operator's March 2025 application sat with the authority for months, came back with queries, and still had not resulted in a licence by the time the shutdown order and the writ petition followed. An operator planning to cross the petty-business threshold should apply well ahead of the date it expects to need the higher tier, not treat the application as something to file once volumes have already moved past the registration band.",
+        "FSSAI's fee schedule also lists slaughtering and meat-processing units as their own category, separate from general food manufacturing. The licence fee and the compliance obligations that come with it will not track what a comparable-turnover food manufacturer pays or files, so budgeting for the licence purely by comparison to other food businesses of similar size is likely to understate what is actually needed."
+      ]
+    },
+    {
+      "heading": "Buying or leasing an existing slaughterhouse",
+      "paragraphs": [
+        "The licensing gap shows up particularly often when a buyer takes over an existing slaughterhouse on the strength of the seller's paperwork rather than checking the actual authorisation against actual throughput. A registration certificate transferring with the premises, or a seller's assurance that everything is in order, is worth testing against the capacity the unit has actually been running at, not just the documents on file. A buyer who inherits an under-licensed operation inherits the enforcement risk with it, and discovering the gap after the purchase is a far weaker position than catching it during due diligence.",
+        "The same caution applies to leasing out part of a licensed facility to a third party for processing. The licence sits with the licensee and the capacity it discloses, and a sub-arrangement that pushes combined throughput above that figure creates exposure for the party actually running the operation, whatever the lease documents say about who is responsible for what."
+      ]
+    },
+    {
+      "heading": "What enforcement actually looks like",
+      "paragraphs": [
+        "Closure, rather than a notice and a chance to regularise, is often the first response once an authority establishes that a unit is operating above its registered capacity. That was the sequence in Kanpur: a closure order in May 2025, followed by litigation seeking to reopen on the strength of the existing paperwork. Continuing to operate on the old registration while a licence application is pending carries real risk, since a pending application is not itself a licence and does not appear to buy an operator any protection against enforcement in the meantime.",
+        "Prosecution for operating without the required licence sits alongside closure as an available remedy under the FSS Act, and an operator facing a capacity-related closure should treat regularising the licence, not arguing around it, as the only route back to lawful operation. Reopening on the back of a writ petition, as the Kanpur operator tried, is a slow and uncertain path compared to simply securing the licence before the closure order is ever passed.",
+        "A unit that has already been shut down should also expect the authority to scrutinise the eventual licence application closely, including the capacity figure disclosed in it. Understating capacity to stay inside a lower tier creates its own exposure, since the gap between disclosed and actual throughput is exactly the kind of mismatch that drew scrutiny in the first place."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a registration certificate that is valid for several more years protect my unit if my capacity grows in the meantime?",
+      "a": "No. Registration is tied to staying within the petty-business band at the time you operate, not to the certificate's expiry date. If your daily slaughtering capacity moves above that band, you need the state or central licence that matches your actual throughput, whatever date is printed on the registration certificate."
+    },
+    {
+      "q": "Why is slaughtering treated differently from other food businesses under FSSAI's rules?",
+      "a": "Most food categories use annual turnover to decide between registration and a licence. Slaughtering and meat processing are measured by daily capacity, the number of large animals, small animals, or poultry birds handled per day, because throughput rather than revenue is what the Licensing and Registration Regulations use to set the tier for this activity."
+    },
+    {
+      "q": "Can a GST number, Udyam registration, or municipal NOC substitute for an FSSAI licence?",
+      "a": "No. Each document serves a separate purpose, tax registration, MSME classification, or local body clearance, and none of them assesses food safety compliance or capacity under the FSS Act. The Allahabad High Court treated this bundle as irrelevant once the licensing gap itself was established."
+    },
+    {
+      "q": "What did the Allahabad High Court actually decide in the Kanpur slaughterhouse case?",
+      "a": "It upheld a District Magistrate's closure of a two-unit slaughterhouse operating on registration alone, holding that a valid-looking registration certificate, GST and Udyam registrations, lab reports and a municipal NOC did not substitute for the full licence the operator's own disclosed capacity required."
+    },
+    {
+      "q": "What should an operator do before increasing slaughtering capacity?",
+      "a": "Apply for the matching state or central licence before crossing the petty-business threshold, allowing real time for the authority to raise and resolve deficiencies. Do not treat a pending application, or a registration certificate with years left on it, as cover for operating above the registered capacity in the meantime."
+    }
+  ],
+  "references": [
+    "Food Safety and Standards Act, 2006, Section 31(1) and Section 31(2)",
+    "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulations, 2011, Regulation 1.2.1(4) (petty food business capacity criteria for slaughtering)",
+    "Junaid Alam v. State of U.P., Writ-C No. 34620 of 2026, Allahabad High Court (2026 LiveLaw (AB) 700)",
+    "Article 19(1)(g), Constitution of India"
+  ],
+  "sources": [
+    "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-large-scale-slaughterhouse-fssai-licence-registration--549889",
+    "https://legalsuvidha.com/latest-updates/fssai-license-required-for-large-slaughterhouses-registration-not-enough-140926",
+    "https://www.jurishour.in/other-laws/fssai-registration-licence-slaughterhouse-operations/",
+    "https://supremetoday.ai/can-a-slaughterhouse-reopen-with-just-registration-allahabad-high-court-answers-with-key-distinction-20260914058",
+    "https://foodsafetyhelpline.com/slaughter-houses-meat-shops-mandatory-licenses/"
+  ],
+  "verification_notes": [
+    "Case facts (parties, writ number, District Magistrate's order date, disclosed capacity, outcome): confirmed across LiveLaw, Legal Suvidha, JurisHour and SupremeToday reporting of the same Allahabad High Court order.",
+    "Statutory basis (FSS Act Section 31(1) and 31(2), and the court's reliance on Article 19(1)(g)): confirmed across LiveLaw and JurisHour summaries of the court's reasoning.",
+    "Capacity bands (approximately two large animals, ten small animals, or fifty poultry birds a day for the registration tier): reported consistently across independent secondary-source summaries of the 2011 Regulations' Regulation 1.2.1(4), but not checked against the regulation's primary gazette text. The guide states this as a reported approximate figure with an explicit instruction to verify the current notified cutoff, rather than asserting an exact number.",
+    "Left out: no reliable current figure was found for the licence fee amount or renewal timeline specific to slaughterhouses, so the guide does not state one."
+  ]
+}

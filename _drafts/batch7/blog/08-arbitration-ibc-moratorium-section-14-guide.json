@@ -1,0 +1,100 @@
+{
+  "slug": "arbitration-ibc-moratorium-section-14-guide",
+  "title": "Your Counterparty Just Entered Insolvency: Can the Arbitration Against Them Continue?",
+  "meta_description": "What Section 14 of the IBC moratorium does to a pending or fresh arbitration against a corporate debtor, and what the Supreme Court has actually decided.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "Midway through an arbitration, a claimant can get word that the respondent has been admitted into the corporate insolvency resolution process. The moratorium under Section 14 of the Insolvency and Bankruptcy Code kicks in automatically on admission, and the claimant is suddenly unsure whether to keep showing up before the tribunal or to stop. Neither choice is free of risk. Carrying on could mean months of hearings and costs that later get treated as if they never happened. Stopping could mean losing ground on limitation, or handing the other side an argument that the claim was abandoned.",
+    "The Supreme Court settled the easy version of this question back in 2017, when it held that an arbitration started after the moratorium begins has no legal existence at all. What it has not settled quite as cleanly is what happens to a proceeding that was already running before the moratorium arrived, and a 2026 ruling on a related point shows the courts are still working out how far that 2017 position actually reaches."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 14 Actually Freezes",
+      "paragraphs": [
+        "Once the National Company Law Tribunal admits an insolvency application, Section 14 suspends the institution of new suits and the continuation of pending suits or proceedings against the corporate debtor, for the duration of the moratorium, which runs until a resolution plan is approved or a liquidation order takes its place. Courts have read 'proceedings' in that provision to include arbitral proceedings, not just civil suits in ordinary courts.",
+        "The bar is directional. It stops proceedings against the corporate debtor. It says nothing on its face about a claim the corporate debtor itself wants to pursue against someone else, which is why the direction of a claim, not merely its existence during the moratorium, tends to decide how a tribunal or court treats it."
+      ]
+    },
+    {
+      "heading": "Alchemist: Starting an Arbitration After the Moratorium Gets You Nowhere",
+      "paragraphs": [
+        "In Alchemist Asset Reconstruction Co. Ltd. v. Hotel Gaudavan Pvt. Ltd., decided in October 2017, a notice invoking the arbitration clause was issued after the moratorium against the corporate debtor had already begun. The Supreme Court held that arbitral proceedings instituted in that window are non est in law, meaning the law treats them as if they were never validly started at all, not simply paused or voidable.",
+        "The Court's reasoning rested on the purpose of the moratorium itself: a calm period meant to let the resolution process run without creditors racing to enforce individual claims, which a freshly invoked arbitration would directly undercut. Anyone thinking of invoking an arbitration clause against a company already under CIRP should treat this as settled law, not a point worth testing."
+      ]
+    },
+    {
+      "heading": "A Pending Arbitration Is a Murkier Question",
+      "paragraphs": [
+        "Alchemist concerned a fresh invocation, not an arbitration that had already been running for months or years before the moratorium arrived. The NCLAT, in commentary and rulings on this point, has applied similar reasoning to ongoing proceedings by relying on Section 238 of the IBC, which gives the Code overriding effect over other laws including the Arbitration and Conciliation Act, 1996.",
+        "The Delhi High Court has pushed back against reading the bar quite that widely. In Power Grid Corporation of India Ltd. v. Jyoti Structures Ltd., the Court took the view that Section 14(1)(a) does not say 'all proceedings', and that a proceeding which is for the benefit of the corporate debtor, rather than a drain on it, sits outside the provision's purpose. The upshot reported in current commentary is that the position for a genuinely pending arbitration is still being worked out case by case, and a party should not assume either outcome without checking where the particular tribunal or bench sits on the question."
+      ]
+    },
+    {
+      "heading": "Claims the Corporate Debtor Itself Is Pursuing",
+      "paragraphs": [
+        "Because the statutory bar runs against proceedings against the corporate debtor, a claim where the corporate debtor is the one asserting a right against a counterparty sits outside the plain words of Section 14(1)(a). Commentary on the provision draws this distinction directly: the moratorium does not, on its own text, stop the corporate debtor from being the claimant and pursuing that claim.",
+        "In practice this does not mean nothing changes. The resolution professional steps into management of the corporate debtor's affairs once CIRP begins, and typically takes over instructing counsel in any arbitration the corporate debtor is pursuing. Where the other side has filed a counterclaim against the corporate debtor in the same arbitration, that counterclaim brings the proceeding back within the bar even if the corporate debtor's own claim would not have been caught by it."
+      ]
+    },
+    {
+      "heading": "Ankhim Holdings: What a Substitution Application Cannot Decide",
+      "paragraphs": [
+        "A February 2026 ruling, Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd. (2026 INSC 137), dealt with a related but distinct problem. The Bombay High Court, while appointing a substitute arbitrator under Section 15(2) of the Arbitration and Conciliation Act, had gone further and declared that everything the earlier tribunal did between 17 March and 25 August 2022 was a nullity, on the ground that this window fell within a Section 14 moratorium.",
+        "The Supreme Court set aside that part of the order. Flat sale agreements had already been executed by the appellants relying on interim orders the tribunal passed under Section 17 during that period, and unwinding those orders in a substitution proceeding, without the moratorium question being properly argued and decided on its own merits, risked being both unfair to parties who had relied on the earlier orders and wasteful of proceedings that had already progressed. The Court directed the substitute arbitrator to pick up from the existing stage rather than start over.",
+        "The ruling is narrower than it might sound. It does not say a proceeding run during a moratorium is automatically valid, nor does it dilute Alchemist. It says a Section 15(2) substitution application, which exists to appoint a new arbitrator, is the wrong forum to retroactively adjudicate whether the moratorium barred the earlier proceeding in the first place."
+      ]
+    },
+    {
+      "heading": "What a Claimant Facing a Moratorium Mid-Arbitration Should Actually Do",
+      "paragraphs": [
+        "The safest course, given how unsettled the pending-arbitration question remains, is to notify the tribunal of the moratorium as soon as it is known and seek directions, rather than silently carrying on or silently stopping. Checking which stage the insolvency process has reached matters too: once a resolution plan is approved the moratorium ends, while if the corporate debtor instead moves into liquidation, Section 33(5) imposes its own, separately worded bar requiring the liquidator's or the Tribunal's leave before any suit or legal proceeding can be instituted or continued by or against the corporate debtor.",
+        "A claimant worried about limitation should not treat instituting a fresh proceeding in the teeth of the moratorium as a safe workaround, since a proceeding the law treats as non est does nothing to stop a limitation clock either. Where recovery against the corporate debtor is the real objective, filing a claim with the resolution professional as a creditor in the CIRP itself is usually the more productive route than fighting over whether the arbitration can technically continue."
+      ]
+    },
+    {
+      "heading": "Where the Law Still Isn't Settled",
+      "paragraphs": [
+        "Whether a genuinely pending arbitration (as opposed to a fresh invocation) automatically halts the moment a moratorium begins, and how far the 'non est' label reaches on interim orders already passed, are argued differently depending on the bench and the facts in front of it. A party on either side of this situation is better served by getting a view specific to its tribunal, its stage of CIRP, and the particular high court's existing line of authority, rather than relying on a general rule drawn from any single ruling."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the moratorium start the moment an insolvency application is filed, or only once it is admitted?",
+      "a": "Only once the NCLT admits the application under Section 7, 9 or 10 and declares the moratorium. The mere filing or pendency of an insolvency petition does not by itself suspend proceedings against the company."
+    },
+    {
+      "q": "If my arbitration was already filed before the moratorium began, can I safely keep going?",
+      "a": "Not automatically. Courts have taken different positions on pending proceedings, so the safer course is to seek the tribunal's directions and, where needed, the resolution professional's or NCLT's position, rather than assume continuation is permitted purely because the case predates the moratorium."
+    },
+    {
+      "q": "What happens to an award that was already passed before the corporate debtor's insolvency began?",
+      "a": "Passing the award is a separate stage from enforcing it. Execution of a decree or award against the corporate debtor's assets during CIRP is itself restricted, since Section 14 also covers execution proceedings against the corporate debtor, so a pre-existing award does not bypass the moratorium at the enforcement stage."
+    },
+    {
+      "q": "Who actually runs the corporate debtor's side of a pending arbitration once CIRP starts?",
+      "a": "The resolution professional, who takes over management of the corporate debtor's affairs, ordinarily steps in to instruct counsel in any matter the corporate debtor is party to, though whether the proceeding can continue at all is the separate question this guide addresses first."
+    }
+  ],
+  "references": [
+    "Section 14, Insolvency and Bankruptcy Code, 2016 (moratorium on institution and continuation of proceedings against the corporate debtor)",
+    "Section 238, Insolvency and Bankruptcy Code, 2016 (overriding effect over other laws)",
+    "Section 33(5), Insolvency and Bankruptcy Code, 2016 (bar on suits during liquidation absent leave)",
+    "Alchemist Asset Reconstruction Co. Ltd. v. Hotel Gaudavan Pvt. Ltd., Civil Appeal No. 16929 of 2017, Supreme Court of India, decided 23 October 2017",
+    "Power Grid Corporation of India Ltd. v. Jyoti Structures Ltd., Delhi High Court",
+    "Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd., 2026 INSC 137, decided 4 February 2026"
+  ],
+  "sources": [
+    "https://www.livelaw.in/amp/arbitration-proceedings-after-the-imposition-of-moratorium-under-s-14-of-insolvency-and-bankruptcy-code-is-non-est-in-law-sc-read-order",
+    "https://www.verdictum.in/court-updates/supreme-court/ankhim-holdings-pvt-ltd-v-zaveri-construction-pvt-ltd-2026-insc-137-arbitrator-high-court-arbitration-1607091",
+    "https://www.indialaw.in/blog/arbitration-and-conciliation/arbitration-during-ibc-moratorium/",
+    "https://www.barandbench.com/columns/moratorium-provisionsfate-of-arbitrations-in-the-ibc-age",
+    "https://jgu.edu.in/mappingADR/alchemist-asset-reconstruction-v-hotel-gaudavan/"
+  ],
+  "verification_notes": [
+    "Alchemist holding (arbitration started post-moratorium is non est): confirmed from the LiveLaw report of the order and the JGU Mapping ADR case note, both of which use the 'non est' terminology rather than 'void'; the guide deliberately keeps that distinction rather than saying 'void'.",
+    "NCLAT extending the same logic to pending arbitrations via Section 238, and the Delhi High Court's narrower Power Grid v. Jyoti Structures reading: both appear in the indialaw.in and Bar and Bench commentary pieces, which describe the position as unsettled and argued case by case; the guide states this as unsettled rather than as a firm rule, consistent with both sources.",
+    "Ankhim Holdings facts and holding (Feb 2026, 2026 INSC 137): confirmed from the Verdictum report and the indialaw.in commentary piece, which agree on the date, the moratorium window (17 March to 25 August 2022), the Section 15(2) substitution context, and the outcome that the High Court's nullity finding was set aside.",
+    "Section 33(5) liquidation-stage bar requiring leave of the Tribunal or liquidator: included as a statutory cross-reference distinct from the moratorium under Section 14, to avoid conflating the two stages; not a disputed proposition requiring multi-source case-law verification."
+  ]
+}

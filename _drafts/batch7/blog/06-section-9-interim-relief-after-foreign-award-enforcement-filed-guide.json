@@ -1,0 +1,95 @@
+{
+  "slug": "section-9-interim-relief-after-foreign-award-enforcement-filed-guide",
+  "title": "Already Filed to Enforce Your Foreign Arbitral Award? You May Still Get Section 9 Interim Relief",
+  "meta_description": "Filing to enforce a foreign award does not close off Section 9 interim relief while recognition is pending, a Bombay High Court ruling holds.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "An award creditor holding a foreign arbitral award against an Indian counterparty usually moves straight to filing a petition for recognition and enforcement under Part II of the Arbitration and Conciliation Act, 1996, and treats that filing as the only step available until the court eventually decides whether the award is enforceable. That assumption leaves a real gap open. An award debtor often has every incentive to move assets out of reach precisely during the period when recognition is pending and formal execution has not yet begun, which is exactly the period a creditor might most want protective relief.",
+    "The Bombay High Court addressed this gap in Osterreichischer Lloyd Seereederei (Cyprus) Ltd. v. Victore Ships Pvt. Ltd., holding that filing a Part II enforcement petition does not, by itself, shut off a separate application for interim relief under Section 9 of the Act. The two remedies can run together, and a creditor who assumes they are mutually exclusive risks leaving assets exposed during exactly the window that needs protecting most, before the court has even decided whether the award will be recognised at all."
+  ],
+  "sections": [
+    {
+      "heading": "Why enforcement of a foreign award happens in two stages",
+      "paragraphs": [
+        "Part II of the Act gives effect to India's obligations under the New York Convention. A party holding a foreign award produces it before the relevant High Court under Section 47. The court then examines, under Section 48, the narrow set of grounds on which enforcement can be refused, grounds affecting arbitral jurisdiction, grounds affecting only a party's own interests, and public-policy grounds narrowed by the 2015 amendment to fraud or corruption, conflict with India's fundamental legal policy, or basic notions of morality or justice. Only once the court is satisfied that none of these grounds applies does Section 49 treat the award as a decree of that court, at which point the matter effectively converts into an execution proceeding.",
+        "The practical point is that a Part II petition is not itself an execution proceeding from the moment it is filed. It is first a recognition proceeding, and only becomes an execution proceeding once the court has actually recorded its satisfaction under Section 48 and Section 49. That gap, between filing the petition and the court reaching that satisfaction, can run for a meaningful stretch of time, and it is during that stretch that an award debtor has the clearest opportunity to make itself judgment-proof."
+      ]
+    },
+    {
+      "heading": "What the Bombay High Court held",
+      "paragraphs": [
+        "In Commercial Arbitration Petition No. 398 of 2025, decided on 10 March 2026, Justice Somasekhar Sundaresan held that Section 9 relief remains available to an award creditor even after a Part II enforcement petition has been filed, so long as the award has not yet been recognised as an enforceable decree. The court granted protective relief in support of an award of roughly USD 269,105.08, treating the pending enforcement petition as no bar to the creditor also seeking interim protection under Section 9.",
+        "The reasoning tracks the two-stage structure of Part II itself. Since the enforcement petition has not yet resulted in a decree, the proceeding is still at the recognition stage, and nothing in the Act suggests that filing for recognition surrenders the separate interim-relief jurisdiction Section 9 otherwise provides. The court treated the two applications as addressing different problems: one asks whether the award should be recognised at all, the other asks what should happen to the debtor's assets while that question is being decided."
+      ]
+    },
+    {
+      "heading": "How to actually use this in practice",
+      "paragraphs": [
+        "A creditor does not need to choose between the two remedies or file them sequentially. A 'rolled-up' approach, combining the Part II enforcement petition with a Section 9 application in the same proceeding or in parallel filings before the same court, lets a creditor seek protective relief without waiting for recognition to be decided first. Given how long a contested recognition proceeding can run, waiting for that outcome before seeking interim protection can mean asking for the relief only after the assets it was meant to protect have already moved.",
+        "A creditor's Section 9 application still has to do the ordinary work any interim-relief application does. It is not enough to point generally at the risk that a foreign award debtor might dissipate assets; the application should identify the specific assets at risk and the basis for believing dissipation is a real possibility, since Victore Ships treats the relief as protective and targeted, not as a freestanding attachment power that follows automatically from holding an award."
+      ]
+    },
+    {
+      "heading": "The question Victore Ships leaves open",
+      "paragraphs": [
+        "The ruling does not settle how long this Section 9 window stays open. Commentators following the case describe High Courts as still divided on whether Section 9 relief remains available once the award has actually been recognised as a decree and the matter has moved into execution proper, as opposed to the earlier recognition stage Victore Ships addressed. Nothing in the research for this guide located a ruling resolving that divide, so it should be treated as unsettled rather than assumed to run indefinitely through the execution stage.",
+        "A creditor planning litigation strategy around this gap should treat the period before recognition is granted as the clearest window for Section 9 relief, and should not assume the same relief will necessarily remain available once the award has been recognised and converted into a decree. Where protection is needed at that later stage too, the safer course is to seek it explicitly and be ready to argue the point, rather than assume Victore Ships already answers the question."
+      ]
+    },
+    {
+      "heading": "What this does not do for a party resisting enforcement",
+      "paragraphs": [
+        "Victore Ships is squarely an award-creditor's tool. A party resisting enforcement, including a non-signatory disputing that it is bound by the award at all, cannot invert the logic and use Section 9 to revive its own position once an enforcement court has already declined to enforce the award against it. The relief runs with recognition, protecting a creditor whose award is still being considered, not against recognition once a court has ruled the other way.",
+        "This distinction matters in multi-party enforcement disputes where one respondent is disputing the award's application to it specifically while another respondent's liability is not seriously contested. The creditor's Section 9 relief against the second respondent's assets does not translate into any corresponding tool for the first respondent to use defensively, and the two positions should be argued and assessed separately rather than treated as mirror images of each other.",
+        "Counsel for a disputing respondent should also be wary of conceding ground on the Section 9 point in an effort to look cooperative, since nothing about resisting a creditor's interim-relief application weakens a separate, genuine jurisdictional or merits challenge to the award itself. The two fights can and should be kept apart."
+      ]
+    },
+    {
+      "heading": "Drafting and strategy takeaways for award creditors",
+      "paragraphs": [
+        "A creditor expecting to need protective relief should start identifying the debtor's assets and the dissipation risk well before the enforcement petition is even filed, rather than treating that groundwork as something to assemble once a Section 9 application becomes urgent. Specificity is what the relief turns on, and generic assertions about an award debtor's incentive to move assets rarely do the work a focused, evidence-backed application can do.",
+        "Filing the Section 9 application alongside, rather than after, the Part II petition also signals to the court and to the debtor that the creditor is treating enforcement as a live, urgent matter from the outset, which can itself discourage the kind of asset movement the relief is meant to prevent. Waiting to see how the recognition proceeding unfolds before seeking interim protection gives up exactly the advantage Victore Ships makes available.",
+        "None of this requires a creditor to over-litigate. A tightly framed Section 9 application, aimed at a specific bank account, receivable, or identified asset, is both easier to get and easier to defend on appeal than a broad request covering the debtor's assets generally, and it keeps the focus on the protective purpose the relief actually serves rather than inviting a debtor to argue the creditor is using Section 9 as a pressure tactic."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does filing a Part II petition to enforce a foreign award rule out seeking interim relief under Section 9?",
+      "a": "No. The Bombay High Court held in Victore Ships that Section 9 relief remains available while a Part II enforcement petition is pending, since the petition is still at the recognition stage under Sections 48 and 49 and has not yet become an execution proceeding."
+    },
+    {
+      "q": "Can a creditor file the Section 9 application and the Part II petition together?",
+      "a": "Yes. A rolled-up approach, filing or pursuing both around the same time rather than waiting for recognition to be decided first, lets a creditor seek protective relief without losing the time a contested recognition proceeding can take to run before it is finally resolved one way or the other."
+    },
+    {
+      "q": "Is Section 9 relief still available once a foreign award has been recognised as a decree and execution has begun?",
+      "a": "That is unsettled. Commentary describes High Courts as divided on whether Section 9 jurisdiction continues once recognition is granted and the matter moves into execution, and no ruling resolving that divide was found for this guide. Treat it as an open question, not a settled extension of Victore Ships."
+    },
+    {
+      "q": "What does a creditor need to show to get Section 9 relief alongside a Part II petition?",
+      "a": "The application should identify specific assets at risk of dissipation and the basis for that concern, rather than relying on a general assertion that an award debtor might move assets. Victore Ships treats the relief as targeted and protective, not as an automatic attachment that follows from holding an award."
+    },
+    {
+      "q": "Can a party resisting enforcement use Section 9 to its own advantage under this ruling?",
+      "a": "No. The relief in Victore Ships runs in favour of an award creditor protecting its position while recognition is pending. It gives a party disputing enforcement against it no corresponding tool to revive its position once a court has already declined to enforce the award."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Sections 9, 47, 48 and 49",
+    "Osterreichischer Lloyd Seereederei (Cyprus) Ltd. v. Victore Ships Pvt. Ltd., Commercial Arbitration Petition No. 398 of 2025, Bombay High Court (decided 10 March 2026)"
+  ],
+  "sources": [
+    "https://conventuslaw.com/report/india-section-9-and-foreign-award-enforcement-jurisdictional-question-settled-but-boundaries-still-uncertain/",
+    "https://disputeresolution.cyrilamarchandblogs.com/2026/08/section-9-and-foreign-award-enforcement-jurisdictional-question-settled-but-boundaries-still-uncertain/",
+    "https://www.livelawbiz.com/arbitration/voluntary-absence-from-arbitration-does-not-constitute-denial-of-opportunity-to-present-case-bombay-hc-enforces-200733-foreign-award-against-victore-ships-545084",
+    "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/osterreichischer-lloyd-seereederei-cyprus-ltd-v-victore-ships-pvt-ltd-commercial-arbitration-petition-no-398-of-2025-relief-us-9-arbitration-act-1610853"
+  ],
+  "verification_notes": [
+    "Core holding (Section 9 relief available despite a pending Part II petition, since recognition has not yet converted into execution): confirmed across Conventus Law's and Cyril Amarchand Mangaldas's reporting of the same ruling, both describing the same jurisdictional conclusion.",
+    "Case name, petition number, bench, decision date and the award amount: confirmed across Verdictum's dedicated case report and LiveLawBiz's report on the related enforcement ruling against Victore Ships in the same dispute.",
+    "The two-stage structure of Part II enforcement (Sections 47 to 49, recognition followed by execution) and the narrowed public-policy grounds under the 2015 amendment: confirmed across general secondary-source summaries of the statutory scheme consistent with both case reports.",
+    "The open question on Section 9 availability after recognition/at the execution stage: stated as unsettled per Conventus Law's and Cyril Amarchand Mangaldas's own framing of the issue as one High Courts are divided on; no resolving judgment was located, so the guide does not assert a settled answer.",
+    "Left out: the exact grounds on which Victore Ships resisted enforcement in the related ruling are described only briefly, since this guide's focus is the Section 9 jurisdictional question rather than the merits of that separate enforcement dispute."
+  ]
+}

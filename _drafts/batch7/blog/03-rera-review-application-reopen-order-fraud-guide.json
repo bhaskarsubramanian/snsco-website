@@ -1,0 +1,100 @@
+{
+  "slug": "rera-review-application-reopen-order-fraud-guide",
+  "title": "Can a RERA Order Be Reopened After It Is Final? What a Review Application Actually Allows",
+  "meta_description": "RERA review powers are narrow and rectification-only in most cases. Here is when concealment discovered during execution can still get an order revisited.",
+  "practice_area": "Real Estate & RERA",
+  "intro": [
+    "A homebuyer who finally wins a possession order from a RERA authority tends to treat the fight as over. It often is not. Builders routinely come back with a review application once an order goes against them, and buyers executing an old order sometimes discover, years later, that the flat they were promised has quietly changed hands while the matter sat unenforced. Both situations raise the same underlying question: how final is a RERA order, really, once the authority has passed it.",
+    "The short answer is that it is quite final, and the review power most RERA authorities operate under is built to correct clerical slips, not to give a disappointed party a second shot at the merits. That rule holds firm in the ordinary run of cases. Where it bends is the narrower, more unusual situation where a party concealed material facts from the authority in the first place, and that concealment only comes to light once the order is already being enforced."
+  ],
+  "sections": [
+    {
+      "heading": "Section 39 is a rectification power, not a second hearing",
+      "paragraphs": [
+        "Section 39 of the RERA Act lets an authority amend its own order to rectify a mistake apparent from the record. The provision itself carries a proviso that the authority shall not, while rectifying such a mistake, amend the substantive part of the order. State RERA authorities applying this section, including orders from Haryana and Bihar, have read it narrowly: it reaches typographical errors, arithmetic slips, and similar defects visible on the face of the record, not a fresh look at facts or legal arguments the authority has already weighed.",
+        "This is a meaningfully lower bar than an appeal, and authorities treat it that way. A party who disagrees with how the authority assessed the evidence, or wants to introduce a new argument it did not raise the first time, has a remedy, an appeal to the Real Estate Appellate Tribunal within the statutory limitation period, but that remedy is not a review application dressed up as something else.",
+        "Counsel drafting a review application sometimes try to frame a substantive disagreement as a clerical error, pointing to a figure or a finding the authority got wrong and arguing that correcting it is all the review asks for. Authorities have generally seen through this framing once the correction sought would actually change the outcome of the case rather than merely tidy up the record, which is exactly the line Section 39's proviso is meant to hold."
+      ]
+    },
+    {
+      "heading": "MahaRERA's own practice: a review is not a substitute for an appeal",
+      "paragraphs": [
+        "MahaRERA's General Regulations, 2017 set out the grounds for review under Regulation 36, and the authority has been firm about keeping those grounds narrow in practice. In a reported July 2026 order, MahaRERA rejected a developer's attempt to review an April 2026 delayed-possession order, holding that the application did not meet Regulation 36's requirements and that the plea largely repeated arguments already considered and decided. The authority was explicit that a review proceeding cannot be used as an alternative to an appeal.",
+        "That order is a useful marker for both sides of a dispute. A developer hoping to buy time or soften an adverse order by filing a review, rather than an appeal, should expect the same short answer MahaRERA gave here: raising a grace period, a part occupancy certificate, or a soft-possession argument that the authority has already rejected once is not a ground for review merely because the developer wants a different outcome."
+      ]
+    },
+    {
+      "heading": "Where concealment changes the picture",
+      "paragraphs": [
+        "The harder case is where a party did not simply lose on the merits but actively kept something from the authority while the original complaint was pending, and that fact only surfaces once the buyer tries to enforce the order. A July 2026 report by the Free Press Journal describes one such case: a Bhayandar East buyer who had paid Rs 18 lakh toward a Rs 29 lakh flat booked in 2010, never got a registered agreement for sale or possession, and obtained a MahaRERA order in April 2025 directing the developer to hand over possession.",
+        "According to that report, the buyer later discovered, through registered documents, that the same flat had already been sold to two different third parties in 2016 and 2017, with a further transfer in August 2025, and that the developer had stayed away from the original proceedings throughout. On review, MahaRERA is reported to have converted the possession order into a full refund of the Rs 18 lakh paid, with interest, and separately imposed a Rs 20,000 penalty on the developer for creating third-party rights in defiance of its own order.",
+        "This outcome looks like more than a rectification of a clerical mistake, which is what Section 39 ordinarily permits, and it has been reported from a single source rather than confirmed across independent outlets. Readers relying on this fact pattern should treat it as an illustration of how an authority can respond to concealment discovered during execution, not as settled, universally applicable doctrine."
+      ]
+    },
+    {
+      "heading": "The general principle behind this kind of reopening",
+      "paragraphs": [
+        "Indian courts have long treated fraud and the deliberate concealment of material facts as something that can unravel even a final judicial order, independent of whatever specific review provision a particular statute provides. The Supreme Court's 1993 ruling in S.P. Chengalvaraya Naidu v. Jagannath held that a decree obtained by suppressing a central fact is a nullity that can be challenged even outside the usual channels, and that res judicata does not protect an order secured this way. The Court applied the same logic as recently as July 2025, recalling its own earlier judgment in a Noida land dispute after finding it had been obtained through fraud and suppression.",
+        "That general principle gives the concealment scenario above a coherent legal footing even though it sits uneasily with Section 39's narrow, rectification-only language. A party who stays deliberately absent from a proceeding while concealing a fact that would have changed its outcome is in a different position from a party who simply lost after a full and fair hearing, and the remedy available to the other side correspondingly looks different too."
+      ]
+    },
+    {
+      "heading": "What a buyer sitting on an old, unenforced order should do",
+      "paragraphs": [
+        "A buyer holding a possession order that has sat unenforced for a long stretch should not assume the order remains capable of being executed as possession simply because nobody has said otherwise. Checking the property's current ownership and registration records before pursuing execution is a cheap step that can save a great deal of wasted effort, particularly where years have passed and the developer has had every opportunity to deal with the unit in the meantime.",
+        "If that check turns up a resale the authority was never told about, treat it as the basis for a review application aimed specifically at the concealment, laying out what was hidden and when it came to light, rather than trying to force execution of a possession order against a flat that has already gone to someone else through registered documents.",
+        "Timing matters here too. The longer a buyer waits after discovering the resale, the easier it becomes for the developer to argue that the delay itself undermines the claim, or that further transfers have occurred in the meantime that make any order harder to enforce. A review application built around freshly discovered concealment is a stronger position than one filed years after the buyer first had reason to suspect something was wrong."
+      ]
+    },
+    {
+      "heading": "What a developer facing a review application should expect",
+      "paragraphs": [
+        "A developer on the other side of this should recognise that the narrow reading of Section 39 cuts both ways. Filing a review to reargue a point the authority has already decided, as the developer did in the Kumar Properties matter, is likely to fail quickly and simply confirm the original order. The only version of a review likely to succeed is one resting on a genuine clerical or arithmetic error apparent on the face of the record, or, in the concealment scenario, a reason tied to something the authority was never told rather than something it already considered and rejected.",
+        "Where a developer has in fact dealt with a unit covered by a pending or existing RERA order without disclosing that to the authority, the exposure is not limited to the original buyer's claim. A separate penalty for creating third-party rights in defiance of a regulatory direction, as reported in the Bhayandar case, sits on top of whatever relief the original complainant is given."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a developer get a RERA order reversed simply by filing a review application?",
+      "a": "Generally no. Review under Section 39 and the equivalent state regulations is meant to correct clerical or arithmetic mistakes apparent from the record, not to reopen arguments the authority already considered. MahaRERA has rejected review applications that amounted to reraising rejected arguments, treating a review as no substitute for an appeal."
+    },
+    {
+      "q": "What should a buyer do if a possession order has gone unenforced for years?",
+      "a": "Check the property's current ownership and registration records before assuming the order remains executable as possession. A developer that has resold the unit to third parties during the delay changes what relief is realistic, and a refund-with-interest claim may now fit the facts better than insisting on possession."
+    },
+    {
+      "q": "Does concealing a fact from RERA during the original proceedings protect a developer later?",
+      "a": "No. Indian courts treat fraud and concealment of material facts as capable of unravelling even a final order, independent of the narrow review provision in a particular statute. A party that stays deliberately absent while concealing relevant facts is in a weaker position, not a stronger one, once the concealment comes to light."
+    },
+    {
+      "q": "Is reopening a RERA order on discovered concealment a routine remedy?",
+      "a": "No. It is reported as an unusual outcome rather than a routine one, and the one detailed instance available in reporting has not been independently confirmed by a second source. Treat it as an illustration of what an authority can do when concealment surfaces during execution, not as an established rule that any old order can be reopened this way."
+    },
+    {
+      "q": "What is the difference between a review application and an appeal at RERA?",
+      "a": "A review asks the same authority to correct a mistake apparent from its own record without touching the substantive part of the order. An appeal, filed with the Real Estate Appellate Tribunal within the statutory limitation period, is the proper route to challenge the authority's reasoning or its assessment of the evidence."
+    }
+  ],
+  "references": [
+    "Real Estate (Regulation and Development) Act, 2016, Section 39",
+    "Maharashtra Real Estate Regulatory Authority General Regulations, 2017, Regulation 36",
+    "MahaRERA order rejecting Kumar Properties' review application, 47 East project (reported July 2026)",
+    "MahaRERA review order, Bhayandar East flat dispute (reported by Free Press Journal, 28 July 2026)",
+    "S.P. Chengalvaraya Naidu v. Jagannath, (1994) 1 SCC 1 (Supreme Court, 1993)"
+  ],
+  "sources": [
+    "https://www.outlookmoney.com/invest/delayed-possession-what-homebuyers-should-know-if-a-builder-seeks-review-of-a-maharera-order-in-their-favour",
+    "https://www.punekarnews.in/?p=239796",
+    "https://www.freepressjournal.in/business/mumbai-man-gets-18-lakh-refund-after-16-year-wait-maharera-penalises-builder-for-selling-flats-to-third-parties",
+    "https://www.casemine.com/commentary/in/fraud-on-the-court:-insights-from-s.p-chengalvaraya-naidu-v.-jagannath/view",
+    "https://moneylife.in/article/fraud-unravels-everything-supreme-court-overturns-its-own-verdict-in-highstakes-noida-land-case/77785.html"
+  ],
+  "verification_notes": [
+    "Section 39's rectification-only scope, and the proviso against amending the substantive part of an order on review: confirmed through a Haryana RERA order and a Bihar RERA order, both reproducing the same statutory language and reasoning.",
+    "MahaRERA's July 2026 rejection of Kumar Properties' review application, and its statement that review is not a substitute for appeal: confirmed across Outlook Money's and Punekar News's reporting of the same order.",
+    "The Bhayandar East (Natwar Parmar) review outcome, converting a possession order into a refund with a separate penalty for third-party sales: reported only by the Free Press Journal (28 July 2026). This was not independently confirmed by a second outlet despite additional searches, so the guide presents it explicitly as a single-sourced, reported instance rather than as settled doctrine, and does not state it as a general rule.",
+    "The general principle that fraud or concealment of material facts can unravel a final order independent of a statute's specific review provision: confirmed through two independent sources discussing S.P. Chengalvaraya Naidu v. Jagannath (1993) and the Supreme Court's 2025 recall of its own Noida land judgment on the same ground.",
+    "Left out: the exact statutory or regulatory basis MahaRERA relied on to convert the Bhayandar order's relief (as opposed to merely rectifying it) was not available in the single source found, so the guide does not assert a specific provision for that step."
+  ]
+}
