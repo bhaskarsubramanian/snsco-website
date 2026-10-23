@@ -1924,5 +1924,26 @@
       "https://delhihighcourt.nic.in/app/showFileJudgment/JSM13102026CW72032026_182000.pdf"
     ],
     "note": "Independently confirmed: citation 2026 DHC 9120, case number W.P.(C) 7203/2026, Justice Jasmeet Singh's 13 October 2026 order, the one-third undivided share in a Gulmohar Park, Delhi property excluded from e-auction pending adjudication of the loan documents' genuineness, the alternate-remedy/Section 34 bar not applying where the mortgage's very existence is challenged on a credible forgery claim, and the holding that an assignee ARC steps into the assignor bank's shoes and gains no better title than the assignor had. The Delhi High Court's own published judgment (accessible via the court's showFileJudgment link, matching the case number and date) and Indian Kanoon's text independently corroborate the case's core facts and holding beyond the single Verdictum summary. Senior counsel appearances (Vaibhav Gaggar for the petitioner, Rajiv Nayar for Prudent ARC) surfaced as additional detail not in the draft but do not contradict it. The ICICI loan quantum (Rs 14.96 crore across five facilities), the EOW FIR and forensic-forgery status report, and the September 2024 assignment to Prudent ARC, all drawn from Indian Kanoon's judgment text by the draft, were not separately re-extracted from the primary PDF in this run but are consistent with independent summaries of the same ruling. No duplicate found on the live site (checked search-index.json for 'Jatia', 'Prudent ARC', 'Gulmohar Park': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/updates/01-sikkim-hc-zydus-healthcare-reassessment-audit-objection.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelawbiz.com/income-tax/high-court/audit-objection-alone-not-enough-to-reopen-income-tax-assessment-sikkim-high-court-grants-relief-to-zydus-healthcare-555054",
+      "https://www.taxscan.in/income-tax/sikkim-hc-quashes-income-tax-reassessment-of-zydus-healthcare-over-2299-cr-excise-duty-refund-treated-as-capital-receipt-read-order"
+    ],
+    "note": "Independently confirmed across LiveLawBiz and Taxscan: the 14 October 2026 Sikkim High Court quashing of reassessment notices for three years (WP(C) Nos. 39 of 2022, 13 of 2024, 50 of 2025), Justice Bhaskar Raj Pradhan's holding that Section 149(1)(b) requires new evidence rather than a new opinion on an audit objection, the Rs 22.99 crore excise duty refund (AY 2015-16) treated as a capital receipt, and that the other two years' reopening concerned depreciation on goodwill rather than the excise refund. No neutral citation for the judgment was found in either source, consistent with the draft stating none. No duplicate found on the live site (checked search-index.json for 'Zydus': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/updates/02-madras-hc-mythri-ranabaali-anti-piracy-injunction.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelawbiz.com/copyright/madras-high-court-grants-interim-injunction-to-mythri-movie-makers-against-piracy-of-vijay-deverakonda-starrer-ranaballi-554981",
+      "https://lawbhoomi.com/king-stubb-kasiva-secures-john-doe-anti-piracy-injunction-from-the-madras-high-court-for-mythri-movie-makers-ahead-of-ranabaali-release/",
+      "https://www.livelaw.in/news-updates/bengaluru-court-passes-john-doe-order-defamation-mythri-movie-makers-ranabaali-release-554953"
+    ],
+    "note": "Independently confirmed across LiveLawBiz and Lawbhoomi: Justice P.B. Balaji's 15 October 2026 interim John Doe anti-piracy injunction in O.A. Nos. 1144 to 1147 of 2026 in C.S.(Comm Div) No. 288 of 2026, restraining telecom operators, ISPs and platforms (X Corp, YouTube, Telegram and others) from unauthorised recording/distribution of 'Ranabaali' ahead of its 16 October 2026 release, with the matter returnable 11 November 2026. A separate Bengaluru civil court defamation order (O.S. No. 7696 of 2026, 14 October 2026) concerning the same film is correctly treated by the draft as a distinct proceeding not reported here. The film's title spelling variance ('Ranabaali'/'Ranaballi') across sources is consistent with the draft's own note. No duplicate found on the live site (checked search-index.json for 'Mythri Movie Makers', 'Ranabaali': the only 'mythri' hit is an unrelated Kerala HC case about 'Hotel Mythri', a different party)."
   }
 ]
