@@ -1889,5 +1889,40 @@
       "https://supremetoday.ai/gujarat-high-court-upholds-collector-order-rejecting-decades-old-land-claim-involving-reliance-industries-project-20261019046"
     ],
     "note": "Independently confirmed across Bar & Bench, LiveLawBiz, CourtBook and SupremeToday: Justice Devan M. Desai's 14 October 2026 decision, the roughly nine-acre Navagam village (Jamnagar) plot inside Reliance's petroleum/petrochemicals SEZ, the June 1962 grant to Deva Sajan Rabari, the December 1972 cancellation for non-cultivation, the heirs' 2005 re-grant application under the 16 March 1982 Government Resolution, the Collector's 19 May 2006 rejection on delay grounds, the April 2008 allotment to Reliance, the State Special Secretary's (October) 2008 order reviving the re-grant claim and declining to hear Reliance, and the High Court's holding that the unchallenged 1972 cancellation attained finality and that a third party's allotment is not held hostage by pending litigation over the underlying title. Counsel appearances (Mihir Joshi for Reliance, Rajvi Shah for the State) and the dismissal of the heirs' own 2010 civil suit for default are corroborated by at least two of the four sources. No case/application number was found in any source, consistent with the draft leaving that field open rather than inventing one. No duplicate found on the live site (checked search-index.json for 'Reliance Industries', 'Jamnagar', 'Navagam', 'Rabari': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/news/09-supreme-court-lodha-homebuyer-refund-own-money-only.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/madhu-kudapa-madhusudhan-rao-v-lodha-healthy-constructions-and-developer-private-limited-lhcpl-2026-insc-1131-1624190",
+      "https://lawtrend.in/homebuyer-cannot-claim-refund-of-banks-unpaid-loan-amount-from-builder-as-it-would-amount-to-unjust-enrichment-supreme-court/",
+      "https://courtbook.in/posts/homebuyer-can-claim-refund-only-of-own-money-not-bank-loan-amount-from-defaulting-builder-supreme-court",
+      "https://www.legalserviceindia.com/Legal-Articles/?p=34477"
+    ],
+    "note": "Core facts independently reconfirmed: citation 2026 INSC 1131, decision date 15 October 2026, bench, the 2009 Lodha Bellezza booking, the Rs 51.11 lakh/Rs 2 crore HDFC loan/Rs 1.68 crore disbursed-in-13-tranches facts, the July 2022 NCDRC order, the Rs 2 lakh deficiency penalty against HDFC left undisturbed, the refund capped at Rs 1,27,34,726 with 12% simple interest, and the unjust-enrichment reasoning for excluding the bank-disbursed portion. However, the draft's own verification_notes say an 'additional Rs 15 lakh compensation figure... could not be corroborated elsewhere and is not stated.' On fresh, independent re-verification this run, that figure is in fact corroborated by two independent sources (lawtrend.in and a second summary), both reporting that the Court separately awarded Rs 15 lakh as consolidated compensation covering rent, mental agony, harassment and litigation costs, distinct from (not a double-count of) the interest-on-refund head. This should be added rather than omitted.",
+    "fixes": [
+      {
+        "find": "The Court accordingly restricted Kudapa's refund entitlement to Rs 1,27,34,726, representing what he had actually paid from his own funds across the transaction, with 12% simple interest running from the respective dates of each payment rather than the 9% the NCDRC had fixed. On the separate question of rent, the Court held that a buyer who already receives interest calculated to compensate for being kept out of the use of his money cannot also claim rent for the same period of delay; interest at an appropriate rate already serves that compensatory purpose, and a separate rent award on top would double-count a single loss arising from a single default.",
+        "replace": "The Court accordingly restricted Kudapa's refund entitlement to Rs 1,27,34,726, representing what he had actually paid from his own funds across the transaction, with 12% simple interest running from the respective dates of each payment rather than the 9% the NCDRC had fixed. On the separate question of rent, the Court held that a buyer who already receives interest calculated to compensate for being kept out of the use of his money cannot also claim a separate rent award duplicating that same loss; interest at an appropriate rate already serves that compensatory purpose. In place of a separate rent claim, the Court awarded Kudapa a consolidated Rs 15 lakh covering rent, mental agony, harassment and litigation costs as a single, one-time figure, rather than letting those heads be claimed piecemeal on top of the interest-bearing refund.",
+        "reason": "Independent sources (lawtrend.in and a second summary) confirm the Court awarded a consolidated Rs 15 lakh for rent/mental agony/harassment/litigation costs, a figure the draft's own verification_notes flagged as uncorroborated and omitted; it is now corroborated and should be included rather than left out."
+      },
+      {
+        "find": "One source referred to an additional Rs 15 lakh compensation figure that could not be corroborated elsewhere and is not stated here; the exact composition of the Rs 2 lakh bank penalty beyond 'deficiency in service' was not separately detailed in the sources found.",
+        "replace": "A Rs 15 lakh consolidated compensation figure (covering rent, mental agony, harassment and litigation costs) is now corroborated by two independent sources and is included above; the exact composition of the Rs 2 lakh bank penalty beyond 'deficiency in service' was not separately detailed in the sources found.",
+        "reason": "Updating verification notes to reflect that the Rs 15 lakh figure is now independently corroborated, rather than stating it could not be confirmed."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch7/news/10-delhi-hc-writ-maintainable-sarfaesi-forged-mortgage.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.verdictum.in/delhi-high-court/shashi-r-jatia-v-prudent-arc-2026dhc9120-fraud-and-forgery-alternative-remedy-not-absolute-bar-1624270",
+      "https://indiankanoon.org/doc/162652252/",
+      "https://delhihighcourt.nic.in/app/showFileJudgment/JSM13102026CW72032026_182000.pdf"
+    ],
+    "note": "Independently confirmed: citation 2026 DHC 9120, case number W.P.(C) 7203/2026, Justice Jasmeet Singh's 13 October 2026 order, the one-third undivided share in a Gulmohar Park, Delhi property excluded from e-auction pending adjudication of the loan documents' genuineness, the alternate-remedy/Section 34 bar not applying where the mortgage's very existence is challenged on a credible forgery claim, and the holding that an assignee ARC steps into the assignor bank's shoes and gains no better title than the assignor had. The Delhi High Court's own published judgment (accessible via the court's showFileJudgment link, matching the case number and date) and Indian Kanoon's text independently corroborate the case's core facts and holding beyond the single Verdictum summary. Senior counsel appearances (Vaibhav Gaggar for the petitioner, Rajiv Nayar for Prudent ARC) surfaced as additional detail not in the draft but do not contradict it. The ICICI loan quantum (Rs 14.96 crore across five facilities), the EOW FIR and forensic-forgery status report, and the September 2024 assignment to Prudent ARC, all drawn from Indian Kanoon's judgment text by the draft, were not separately re-extracted from the primary PDF in this run but are consistent with independent summaries of the same ruling. No duplicate found on the live site (checked search-index.json for 'Jatia', 'Prudent ARC', 'Gulmohar Park': no hits)."
   }
 ]
