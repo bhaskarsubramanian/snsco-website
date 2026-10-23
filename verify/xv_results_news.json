@@ -919,8 +919,8 @@
     "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
     "fixes": [
       {
-        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
-        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
         "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
       },
       {
@@ -1945,5 +1945,29 @@
       "https://www.livelaw.in/news-updates/bengaluru-court-passes-john-doe-order-defamation-mythri-movie-makers-ranabaali-release-554953"
     ],
     "note": "Independently confirmed across LiveLawBiz and Lawbhoomi: Justice P.B. Balaji's 15 October 2026 interim John Doe anti-piracy injunction in O.A. Nos. 1144 to 1147 of 2026 in C.S.(Comm Div) No. 288 of 2026, restraining telecom operators, ISPs and platforms (X Corp, YouTube, Telegram and others) from unauthorised recording/distribution of 'Ranabaali' ahead of its 16 October 2026 release, with the matter returnable 11 November 2026. A separate Bengaluru civil court defamation order (O.S. No. 7696 of 2026, 14 October 2026) concerning the same film is correctly treated by the draft as a distinct proceeding not reported here. The film's title spelling variance ('Ranabaali'/'Ranaballi') across sources is consistent with the draft's own note. No duplicate found on the live site (checked search-index.json for 'Mythri Movie Makers', 'Ranabaali': the only 'mythri' hit is an unrelated Kerala HC case about 'Hotel Mythri', a different party)."
+  },
+  {
+    "file": "_drafts/batch7/updates/03-delhi-hc-educomp-sfio-probe-quashed.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.barandbench.com/news/delhi-high-court-quashes-sfio-probe-into-educomp-solutions",
+      "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-quashes-sfio-probe-into-educomp-says-govt-cannot-form-opinion-whimsically-555116",
+      "https://www.livelawbiz.com/company-law/high-court/delhi-high-court-quashes-serious-fraud-investigation-probe-educomp-solution-limited-says-centre-order-lacked-reasons-555191",
+      "https://lawchakra.in/high-court/delhi-high-court/delhi-hc-sfio-educomp/"
+    ],
+    "note": "Court, judge (Amit Mahajan), decision date (16 Oct 2026), case numbers (W.P.(Crl) 1242/2022 and 2970/2022), petitioners, and holding (2018 Sec 212(1)(c) order quashed for want of reasons, prior inspection reports found allegations unfounded, SFIO's 2022 criminal complaint also disposed of) confirmed across four independent outlets. No duplicate on live site."
+  },
+  {
+    "file": "_drafts/batch7/updates/04-cci-approves-grt-jewellers-tbz-acquisition.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-approves-grt-jewellers-acquisition-majority-stake-tribhovandas-bhimji-zaveri-554862",
+      "https://www.kotakneo.com/news/stocks/tribhovandas-bhimji-zaveri-shares-grt-jewellers-takeover-cci-approval/",
+      "https://insights.dsij.in/dsijarticledetail/cci-clears-grt-jewellers-proposed-majority-stake-acquisition-in-tbz-id022",
+      "https://www.businesstoday.in/latest/corporate/story/grt-jewellers-to-acquire-74-12-stake-in-tribhovandas-bhimji-zaveri-for-rs-1033-71-crore-552378-2026-08-31"
+    ],
+    "note": "CCI clearance disclosed 13 Oct 2026, 74.12% stake, Rs 1,033.71 crore deal value, Rs 209/share promoter price, Rs 249.61/share open offer, and 31 Aug 2026 SPA date confirmed across multiple independent market-news sources. Card correctly caveats that approval is not completion. No duplicate on live site."
   }
 ]
