@@ -1819,5 +1819,27 @@
       "https://www.arthneeti.com/announcements/dharmaj-crop-announcement-under-regulation-30-lodr-award_of_order_receipt_of_order-16-oct-2026"
     ],
     "note": "Independently confirmed: the 15 October 2026 order dismissing SML Limited's interim injunction application against Mohan & Company and Dharmaj Crop Guard over the ZeekaSulf product, case numbers (COMS No. 7 of 2023, OMP(I) No. 324 of 2023), the two grounds (no prima facie territorial jurisdiction in Himachal Pradesh; insufficient evidence the defendants supplied the product to the retailer SML relied on), and that the main suit remains pending, all corroborated by Dharmaj's own NSE/BSE regulatory filing, LiveLawBiz and Conventus Law. A fourth, unrelated SML matter against Happy Agro Chemicals over a different product (SELZIC) and an earlier 2025 SML v Mohan & Company/Safex Chemicals injunction over a product called 'Aladdin' surfaced in searches but concern different suits and were correctly not conflated with this one. Bench could not be confirmed from any source, consistent with the draft leaving it blank rather than guessing. No duplicate found on the live site (checked search-index.json for 'SML Limited', 'Dharmaj' and 'ZeekaSulf': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/news/03-nclat-upholds-mastana-foods-resolution-plan.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://psuwatch.com/newsupdates/tribunals-cannot-hold-an-appeal-against-coc-approved-resolution-plan-nclat",
+      "https://legalsuvidha.com/latest-updates/nclat-bars-tribunals-from-appealing-coc-approved-resolution-plans-151026",
+      "https://www.livelawbiz.com/ibc/nclt-delhi-approves-hr-commercialscrown-steels-consortium-rs-13539-cr-resolution-plan-for-mastana-foods-pvt-ltd-537743"
+    ],
+    "note": "Independently confirmed across PSU Watch and Legal Suvidha: a two-member NCLAT bench dismissed five appeals against the NCLT Delhi's approval of Mastana Foods' resolution plan, filed by rival bidder Amba Grains Pvt Ltd and by suspended directors who are also personal guarantors of the corporate debtor, holding that neither the adjudicating authority nor the Appellate Tribunal can sit in appeal over a CoC-approved plan's commercial wisdom (citing the Supreme Court's Kalyani Transco line), with review confined to Section 30(2) compliance at the NCLT stage and Section 32/61(3) at the NCLAT stage. The underlying NCLT Delhi order approving the Rs 135.39 crore HR Commercials-Crown Steels plan (June 2026, CIRP since September 2019 on SBI's petition) is independently confirmed by LiveLawBiz. The suspended directors' names (Anil Khurana, Krishan Mohan Mendiratta) could not be independently matched to this specific NCLAT appeal beyond PSU Watch's description of 'suspended directors who are also personal guarantors,' though IBBI's case records do show personal-guarantor insolvency proceedings against individuals of those names linked to Mastana Foods, which is consistent with but does not independently confirm their role as appellants here. As the draft itself flags, the 15 October 2026 decision date rests on the two reports' publication date rather than a copy of the NCLAT order itself; this remains the weakest-sourced fact but is not contradicted by anything found. No duplicate found on the live site (checked search-index.json for 'Mastana Foods', 'Amba Grains': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/news/04-delhi-hc-nil-award-nhai-road-maintenance.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/arbitration/delhi-high-court-upholds-nil-arbitral-award-in-favour-of-nhai-rejects-highway-contractors-claims-over-additional-work-554620",
+      "https://supremetoday.ai/delhi-high-court-upholds-nil-arbitral-award-rejecting-contractor-claims-over-extra-road-repair-work-20261015012",
+      "https://rawlaw.in/delhi-high-court-upholds-nil-arbitral-award-in-favour-of-nhai-rejects-highway-contractors-claims-over-additional-work/"
+    ],
+    "note": "Independently confirmed across three sources: case name and citation (O.M.P. (COMM) 107/2023, 2026 LLBiz HC (DEL) 1117), Justice Subramonium Prasad's 13 October 2026 dismissal, the Rs 4.37 crore Baharampore-Farakka (NH 34) road maintenance contract, the 30 November 2022 split arbitral award (majority nil, dissent for Rs 6.22 crore), the rainfall-clipping evidence mismatch (wrong location), the defect-liability-period finding, and the settled Section 34 standard that a dissent does not by itself make the majority's view perverse. LiveLawBiz additionally confirms NHAI encashed a Rs 43.74 lakh performance guarantee and withheld a Rs 35.27 lakh security deposit, and that the court relied on joint inspection reports of 16 January and 13 February 2007 over the contractor's unilateral correspondence - detail not in the draft but consistent with, not contradicting, its account. No duplicate found on the live site (checked search-index.json for 'Abhoy Charan Bakshi', 'Baharampore': no hits)."
   }
 ]
