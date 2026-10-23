@@ -1841,5 +1841,29 @@
       "https://rawlaw.in/delhi-high-court-upholds-nil-arbitral-award-in-favour-of-nhai-rejects-highway-contractors-claims-over-additional-work/"
     ],
     "note": "Independently confirmed across three sources: case name and citation (O.M.P. (COMM) 107/2023, 2026 LLBiz HC (DEL) 1117), Justice Subramonium Prasad's 13 October 2026 dismissal, the Rs 4.37 crore Baharampore-Farakka (NH 34) road maintenance contract, the 30 November 2022 split arbitral award (majority nil, dissent for Rs 6.22 crore), the rainfall-clipping evidence mismatch (wrong location), the defect-liability-period finding, and the settled Section 34 standard that a dissent does not by itself make the majority's view perverse. LiveLawBiz additionally confirms NHAI encashed a Rs 43.74 lakh performance guarantee and withheld a Rs 35.27 lakh security deposit, and that the court relied on joint inspection reports of 16 January and 13 February 2007 over the contractor's unilateral correspondence - detail not in the draft but consistent with, not contradicting, its account. No duplicate found on the live site (checked search-index.json for 'Abhoy Charan Bakshi', 'Baharampore': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/news/05-delhi-hc-stays-fssai-emami-healthy-tasty.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.barandbench.com/news/delhi-high-court-stops-fssai-from-acting-against-emami-for-using-healthy-tasty-mark-for-edible-oils",
+      "https://www.livelawbiz.com/news-updates/delhi-high-court-restrains-fssai-from-acting-against-emami-over-healthy-tasty-brand-name-555001",
+      "https://lawchakra.in/high-court/delhi-high-court/delhi-hc-stops-fssai/",
+      "https://lapaasvoice.com/delhi-high-court-questions-fssai-notice-over-emamis-healthy-tasty-edible-oil-branding-bars-coercive-action/"
+    ],
+    "note": "Independently confirmed across Bar and Bench, LiveLawBiz and Lawchakra: case number (W.P.(C) 15491/2026), Justice Amit Mahajan's 15 October 2026 order, the 5 June 2026 show cause notice, the 23 June 2026 reply, the 17 July 2026 enforcement letter to state food safety commissioners, the court's finding that the notice gave no reason for calling 'Healthy and Tasty' misleading, and the restraint on further action pending the next hearing. The February 2027 (15 Feb 2027) next-hearing date is independently confirmed by a second source beyond LiveLawBiz. One source adds that FSSAI issued similar notices to seven to eight other food brands around the same time (Health Aid, Troovy and others), which is consistent with, not contradicting, the draft's reference to Dabur and Britannia. No duplicate found on the live site (checked search-index.json for 'Emami', 'Healthy & Tasty': no hits; the existing Dabur FSSAI update card is a different, already-covered dispute, not this one)."
+  },
+  {
+    "file": "_drafts/batch7/news/06-supreme-court-gururaj-ryotwari-patta-waterbody.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/gururaj-v-the-additional-chief-secretarycommissioner-of-land-administration-and-others-2026-insc-1146-1624269",
+      "https://www.dtnext.in/news/tamilnadu/sc-upholds-cancellation-of-patta-over-tn-water-body-orders-alternative-site-for-20-flat-owners",
+      "https://courtbook.in/posts/supreme-court-upholds-cancellation-of-patta-over-tiruvallur-water-body-land-orders-alternate-site-for-20-flat-owners",
+      "https://taxguru.in/?p=1091548"
+    ],
+    "note": "Independently confirmed: citation 2026 INSC 1146, 16 October 2026 decision by Justices S.V.N. Bhatti and N.V. Anjaria, three civil appeals (Gururaj's and the bank's two) dismissed, the 1911 revenue register classifying the land as 'Government Poramboke - Kanakkan Kuttai' at Thirumullaivoyal village, the patta granted to P. Ramadoss (dated 21 January 2011), its cancellation by the Commissioner of Land Administration on 26 December 2019, the Madras High Court's upholding of that cancellation, the twenty-flat residential complex on the 0.22-acre built area, and the Court's direction that the state allot a comparable alternative site within six months before demolition follows. Tamil Nadu Mercantile Bank's mortgage amount (Rs 3.40 crore) and P. Ramadoss's identity, not independently confirmed in the draft's own sources, are now corroborated by a second independent source (DTNext/TheSwipeUp citing the same underlying report). On the 'fraud' framing used throughout the draft's body text: secondary sources are mixed, several independently describe the patta as issued 'fraudulently' or citing 'administrative fraud', while other, more PTI-derived reports describe the Commissioner's finding more cautiously as a grant 'in violation of applicable legal provisions' without using the word fraud. Both framings are sourced, so this is a difference in secondary-source emphasis rather than an unsupported claim, but a stricter draft might have hedged the fraud language. No duplicate found on the live site (checked search-index.json for 'Gururaj', 'Tiruvallur', 'ryotwari patta': no hits)."
   }
 ]
