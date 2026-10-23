@@ -1969,5 +1969,29 @@
       "https://www.businesstoday.in/latest/corporate/story/grt-jewellers-to-acquire-74-12-stake-in-tribhovandas-bhimji-zaveri-for-rs-1033-71-crore-552378-2026-08-31"
     ],
     "note": "CCI clearance disclosed 13 Oct 2026, 74.12% stake, Rs 1,033.71 crore deal value, Rs 209/share promoter price, Rs 249.61/share open offer, and 31 Aug 2026 SPA date confirmed across multiple independent market-news sources. Card correctly caveats that approval is not completion. No duplicate on live site."
+  },
+  {
+    "file": "_drafts/batch7/updates/05-gujarat-hc-amul-gst-cross-charge-demand-quashed.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.taxscan.in/gst/failure-to-cross-charge-head-office-services-does-not-establish-fraudulent-tax-evasion-gujarat-hc-quashes-rs-4343-crores-igst-demand-against-amul",
+      "https://www.livelawbiz.com/gst-vat-cst/gujarat-high-court-quashes-4343-crore-gst-demand-against-amul-over-cross-charging-555089",
+      "https://deshgujarat.com/2026/10/15/no-evidence-of-tax-evasion-gujarat-hc-quashes-rs-43-43-crore-gst-demand-against-amul/",
+      "https://studycafe.in/high-court-quashes-gst-demand-against-amul-over-non-cross-charging-of-common-expenses-427486.html"
+    ],
+    "note": "Rs 43.43 crore IGST demand, bench (Justices Supehia and Nanavati), 2017-19 period, Section 74 extended-limitation holding, and Rule 28 nil-valuation reasoning confirmed across five independent outlets. Draft's own hedge on the exact decision date (14 vs 15/16 Oct 2026) is reasonable since sources vary; no case number available anywhere. No duplicate on live site."
+  },
+  {
+    "file": "_drafts/batch7/updates/06-mcia-tribunal-rejects-allied-silica-claim-against-tata-chemicals.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.indianchemicalnews.com/general/tata-chemicals-wins-arbitration-relief-as-tribunal-rejects-rs-908-crore-claim-32321",
+      "https://www.businesstoday.in/markets/stocks/story/tata-chemicals-shares-rise-2-as-tribunal-rejects-rs908-crore-claim-562100-2026-10-16",
+      "https://nsearchives.nseindia.com/corporate/TATACHEMYS_16102026123404_SE_Intimation_signed.pdf",
+      "https://www.psuconnect.in/corporate-news/tata-chemicals-wins-major-relief-in-908-crore-arbitration-case"
+    ],
+    "note": "Rs 908 crore claim unanimously rejected, Rs 1 crore counter-payment ordered by majority with one dissent, final award dated 15 Oct 2026 disclosed via Tata Chemicals' own NSE filing, and prior failed NCLT/NCLAT/SC challenges by Allied Silica all confirmed across primary filing and independent coverage. No duplicate on live site."
   }
 ]
