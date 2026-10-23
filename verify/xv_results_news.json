@@ -1865,5 +1865,29 @@
       "https://taxguru.in/?p=1091548"
     ],
     "note": "Independently confirmed: citation 2026 INSC 1146, 16 October 2026 decision by Justices S.V.N. Bhatti and N.V. Anjaria, three civil appeals (Gururaj's and the bank's two) dismissed, the 1911 revenue register classifying the land as 'Government Poramboke - Kanakkan Kuttai' at Thirumullaivoyal village, the patta granted to P. Ramadoss (dated 21 January 2011), its cancellation by the Commissioner of Land Administration on 26 December 2019, the Madras High Court's upholding of that cancellation, the twenty-flat residential complex on the 0.22-acre built area, and the Court's direction that the state allot a comparable alternative site within six months before demolition follows. Tamil Nadu Mercantile Bank's mortgage amount (Rs 3.40 crore) and P. Ramadoss's identity, not independently confirmed in the draft's own sources, are now corroborated by a second independent source (DTNext/TheSwipeUp citing the same underlying report). On the 'fraud' framing used throughout the draft's body text: secondary sources are mixed, several independently describe the patta as issued 'fraudulently' or citing 'administrative fraud', while other, more PTI-derived reports describe the Commissioner's finding more cautiously as a grant 'in violation of applicable legal provisions' without using the word fraud. Both framings are sourced, so this is a difference in secondary-source emphasis rather than an unsupported claim, but a stricter draft might have hedged the fraud language. No duplicate found on the live site (checked search-index.json for 'Gururaj', 'Tiruvallur', 'ryotwari patta': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/news/07-allahabad-hc-co-adulterer-hearing-maintenance.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.verdictum.in/allahabad-high-court/gs-v-state-of-up-and-2-others-2026ahc214569-divorce-adultery-maintenance-section-125-crpc-1623961",
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-section-125-crpc-alleged-co-adulterer-554930",
+      "https://lawbeat.in/news-updates/section-125-crpc-allahabad-hc-flags-absence-of-procedure-to-hear-named-alleged-co-adulterer-1642416",
+      "https://lawchakra.in/high-court/allahabad-high-court/co-adulterer-notice-rules/"
+    ],
+    "note": "Independently confirmed across Verdictum, LiveLaw, LawBeat and LawChakra: citation 2026:AHC:214569, Justice Lakshmi Kant Shukla's 13 October 2026 order, the Family Court's 19 March 2025 maintenance order (Rs 20,000 to the wife, Rs 10,000 to the son), the photograph-based adultery defence rejected for want of proven provenance/authenticity, the dismissal of the revision, the flagged procedural gap in Section 125 CrPC for hearing a named co-adulterer, the Article 21/audi alteram partem reasoning, the two proposed fixes (new rules, or extending Rule 6(a) of the Hindu Marriage and Divorce Rules, 1956), and the referral to the Registrar General for placement before the Chief Justice. One source (a legal-update aggregator) names the husband as 'Gaurav Srivastav' with a case number of Criminal Revision No. 3039 of 2025, which appears to be the single uncorroborated full-name source the draft's own verification_notes already flag and correctly declined to use, since the anonymised 'G.S. v. State of U.P. and 2 Others' form matches the citation used by the other three, better-corroborated sources. No duplicate found on the live site (checked search-index.json for 'co-adulterer', 'Lakshmi Kant Shukla': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/news/08-gujarat-hc-rejects-33-year-land-claim-reliance-sez.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/gujarat-high-court-rejects-states-plea-to-take-back-land-allotted-to-reliance-industries-33-years-ago",
+      "https://www.livelawbiz.com/high-court/gujarat-high-court/gujarat-high-court-sets-aside-order-reviving-33-year-old-land-re-grant-claim-against-reliance-industries-limited-555303",
+      "https://courtbook.in/posts/gujarat-high-court-rejects-decades-old-land-re-grant-claim-against-reliance-industries",
+      "https://supremetoday.ai/gujarat-high-court-upholds-collector-order-rejecting-decades-old-land-claim-involving-reliance-industries-project-20261019046"
+    ],
+    "note": "Independently confirmed across Bar & Bench, LiveLawBiz, CourtBook and SupremeToday: Justice Devan M. Desai's 14 October 2026 decision, the roughly nine-acre Navagam village (Jamnagar) plot inside Reliance's petroleum/petrochemicals SEZ, the June 1962 grant to Deva Sajan Rabari, the December 1972 cancellation for non-cultivation, the heirs' 2005 re-grant application under the 16 March 1982 Government Resolution, the Collector's 19 May 2006 rejection on delay grounds, the April 2008 allotment to Reliance, the State Special Secretary's (October) 2008 order reviving the re-grant claim and declining to hear Reliance, and the High Court's holding that the unchallenged 1972 cancellation attained finality and that a third party's allotment is not held hostage by pending litigation over the underlying title. Counsel appearances (Mihir Joshi for Reliance, Rajvi Shah for the State) and the dismissal of the heirs' own 2010 civil suit for default are corroborated by at least two of the four sources. No case/application number was found in any source, consistent with the draft leaving that field open rather than inventing one. No duplicate found on the live site (checked search-index.json for 'Reliance Industries', 'Jamnagar', 'Navagam', 'Rabari': no hits)."
   }
 ]
