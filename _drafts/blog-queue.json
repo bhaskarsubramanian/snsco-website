@@ -3117,5 +3117,41 @@
       "to verify at drafting time: whether exceeding the Section 197 cap (for a company it does apply to, failing Schedule V conditions) still requires a separate Central Government approval route, or whether that has been replaced entirely by special-resolution shareholder approval — sources disagreed"
     ],
     "added_on": "2026-10-19"
+  },
+  {
+    "id": "rule-96-10-omission-igst-refund-exporters-guide",
+    "topic_title": "Rule 96(10) Is Gone: What Exporters With Refund Claims Still Pending Can Recover",
+    "angle": "A practical guide for exporters whose IGST refund applications were filed or pending before Rule 96(10) of the CGST Rules was omitted on 8 October 2024, explaining why the Supreme Court's Goodluck India ruling means the restriction no longer applies to those pending claims, and what evidence to show a refund-sanctioning officer who still cites the old rule.",
+    "key_points": [
+      "What Rule 96(10) restricted and why it was controversial (denial of IGST refund where certain duty-exemption/concessional schemes were availed on inputs)",
+      "The 8 October 2024 omission and the absence of a saving clause",
+      "Why an omission without a saving clause does not preserve pending proceedings under Section 6 of the General Clauses Act (per Rayala Corporation, Kolhapur Canesugar, Fibre Boards)",
+      "What Goodluck India Ltd. v. Union of India (2026 INSC 821) actually held and who it covers (claims pending as of the omission date)",
+      "Practical steps: how to flag a pending or earlier-rejected claim and what to cite if a refund officer still applies Rule 96(10)"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Rule 96(10) omitted with effect from 8 October 2024: confirmed (LiveLaw, Verdictum, Taxscan, TaxGuru coverage of Goodluck India Ltd. v. Union of India, 2026 INSC 821, decided 6 August 2026)",
+      "Bench: Justices J.B. Pardiwala and K. Vinod Chandran: confirmed across sources",
+      "Exact refund application/claim window and any CBIC circular implementing the ruling: verify against a CBIC circular or instruction, if one has issued, before publishing"
+    ],
+    "added_on": "2026-10-23"
+  },
+  {
+    "id": "section-62-ibc-appeal-limitation-certified-copy-guide",
+    "topic_title": "Appealing an NCLAT Order to the Supreme Court: Why Waiting for the Certified Copy Can Cost You the Appeal",
+    "angle": "A guide for IBC litigants on how the Section 62 limitation clock actually runs — from the date of pronouncement, not receipt of the certified copy — following the Supreme Court's Sreenivasa Rao Ravinuthala ruling, and the narrow 'time requisite' exclusion under Section 12(2) of the Limitation Act that will and will not save a late appeal.",
+    "key_points": [
+      "Section 62 IBC's 45-day limitation period plus the 15-day condonable window, and why the 60-day outer limit cannot be extended further",
+      "Why limitation starts running from pronouncement in open court, not from actual receipt of a certified copy",
+      "What Section 12(2) of the Limitation Act actually excludes: only the time genuinely needed to obtain the certified copy, not delay before applying for it",
+      "Lesson from the facts of Sreenivasa Rao Ravinuthala: apply for the certified copy immediately after pronouncement, don't wait",
+      "How this interacts with the Section 61(2) NCLT-to-NCLAT appeal timeline and the Sanket Kumar Agarwal line of authority"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Assistant Commissioner of Central Tax v. Sreenivasa Rao Ravinuthala, 2026 INSC 1121, decided 14 October 2026: confirmed (Verdictum, LiveLaw, CourtBook, LawStreet)",
+      "Bench: Justices S.V.N. Bhatti and N.V. Anjaria: confirmed across sources",
+      "Precise interplay with Sanket Kumar Agarwal v. APG Logistics (2023) on Section 61(2): verify against the judgment text before publishing, since secondary sources did not reconcile the two rulings"
+    ],
+    "added_on": "2026-10-23"
   }
 ]

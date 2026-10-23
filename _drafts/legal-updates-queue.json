@@ -2379,5 +2379,22 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-19"
+  },
+  {
+    "id": "madras-hc-andavar-transport-duplicate-gst-orders-same-period-quashed",
+    "practice_area": "Tax Litigation",
+    "case_name": "Andavar Transport v. Deputy State Tax Officer",
+    "citation": "W.P. Nos. 21226 & 21227 of 2026, Madras High Court, order dated 22 June 2026",
+    "court": "Madras High Court",
+    "date": "2026-06-22",
+    "holding_summary": "A goods transporter faced two separate GST assessment orders (dated 26 April 2024 and 13 August 2024) under Section 73 for the same tax period, 2019-20, despite having reversed the disputed input tax credit from its electronic credit ledger under the first order. Justice C. Senthilkumar Ramamoorthy, with the department's counsel not disputing that both orders covered the same issue, quashed the duplicate order and remanded the matter for fresh adjudication, directing the department to grant a hearing and pass a fresh order within three months.",
+    "why_it_matters": "Continues a consistent Madras High Court line that two GST orders covering the same tax period and the same alleged default cannot both stand — a taxpayer facing a second, overlapping assessment for a period already covered by an earlier order has a straightforward quashing-and-remand remedy.",
+    "sources": [
+      "https://www.taxscan.in/gst/two-gst-orders-for-same-tax-period-unsustainable-madras-hc-orders-reconsideration-1448146",
+      "https://blog.saginfotech.com/madras-hc-orders-reconsideration-dual-gst-orders-same-tax-period",
+      "https://taxguru.in/goods-and-service-tax/madras-hc-sets-gst-orders-assessments-covered-tax-period.html"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-23"
   }
 ]

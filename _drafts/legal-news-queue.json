@@ -2150,5 +2150,59 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-19"
+  },
+  {
+    "id": "sc-sreenivasa-rao-ravinuthala-ibc-section-62-limitation-pronouncement",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Assistant Commissioner of Central Tax, CGST Division v. Sreenivasa Rao Ravinuthala & Anr.",
+    "citation": "Civil Appeal No. 7882 of 2023; 2026 INSC 1121",
+    "court": "Supreme Court of India",
+    "date": "2026-10-14",
+    "holding_summary": "A Bench of Justices S.V.N. Bhatti and N.V. Anjaria held that the limitation period for an appeal under Section 62 of the IBC runs from the date the NCLAT pronounces its order in open court, not from the date the appellant actually receives a certified copy. The Court held that only the time genuinely and diligently spent in applying for and obtaining a certified copy is excluded under Section 12(2) of the Limitation Act; any period of inaction before applying for the copy is not excluded. On the facts, the Revenue had applied for the certified copy only on 6 September 2023, received it on 11 October 2023, and filed its appeal on 21 November 2023, which the Court held was beyond the 45-day limitation period plus the further 15-day condonable window under Section 62, with the 60-day outer limit incapable of further extension.",
+    "why_it_matters": "A strict reading that penalises delay in even applying for a certified copy of an NCLAT order, not just delay after receiving one — any party appealing an NCLAT order under Section 62 should apply for the certified copy immediately after pronouncement rather than waiting, since the limitation clock does not pause for that initial inaction.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/the-assistant-commissioner-of-central-tax-v-sreenivasa-rao-ravinuthala-2026-insc-1121-1624047",
+      "https://www.livelaw.in/supreme-court/supreme-court-ibc-section-62-nclat-order-appeal-limitation-prnouncement-certified-copy-554668",
+      "https://courtbook.in/posts/s-62--ibc-appeal-limitation-runs-from-nclat-order-pronouncement-not-certified-copy-collection",
+      "https://lawstreet.co/judiciary/ibc-appeal-limitation-runs-from-nclat-order-pronouncement-not-certified-copy-receipt-sc"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-23"
+  },
+  {
+    "id": "sc-vodafone-idea-gst-363-crore-demand-non-existent-merged-entity",
+    "practice_area": "Tax Litigation",
+    "case_name": "Union of India v. Vodafone Idea Ltd. (Vodafone Mobile Services Ltd. merger GST demand)",
+    "citation": "SLP dismissed by Supreme Court, order dated 7 September 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-09-07",
+    "holding_summary": "Vodafone Mobile Services Ltd. had transferred its telecom tower business to ATC Telecom Infrastructure in 2017 and was later merged into Vodafone Idea (then Vodafone India Ltd./Idea Cellular Ltd.) under an NCLT order of August 2018. The DGGI nonetheless issued an August 2024 show cause notice to the already-merged, non-existent entity proposing a Rs. 363 crore demand, which culminated in a January 2025 adjudication order; the Bombay High Court quashed the proceedings in April 2026, relying on the Supreme Court's 2019 Maruti Suzuki ruling that tax proceedings against a company that has ceased to exist post-amalgamation are invalid, especially once the authorities knew of the merger. A Bench of Justices J.B. Pardiwala and K. Vinod Chandran dismissed the Union's special leave petition at the threshold, leaving the Bombay High Court's quashing order intact and rejecting the Centre's reliance on Section 87 of the CGST Act.",
+    "why_it_matters": "Reinforces, in the GST context, that a show cause notice or demand cannot validly be issued to a company that has already ceased to exist by amalgamation once the department is aware of the merger — Section 87 of the CGST Act does not rescue a notice issued to the wrong, non-existent legal person, though the decision leaves the underlying taxability question itself untouched.",
+    "sources": [
+      "https://www.barandbench.com/news/litigation/supreme-court-refuses-to-revive-363-crore-gst-demand-against-vodafone-idea",
+      "https://www.taxscan.in/gst/supreme-court-drops-rs-363-crores-gst-demand-against-vodafone-idea-post-merger-1451233",
+      "https://www.outlookbusiness.com/corporate/vodafone-idea-wins-363-cr-gst-battle-why-sc-rejected-centres-plea",
+      "https://courtbook.in/posts/363-crore-gst-demand-against-vodafone-idea-supreme-court-refuses-to-revive-proceedings"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-23"
+  },
+  {
+    "id": "sc-goodluck-india-rule-96-10-omission-pending-igst-refund-exporters",
+    "practice_area": "Tax Litigation",
+    "case_name": "M/s Goodluck India Limited v. Union of India",
+    "citation": "2026 INSC 821, decided 6 August 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-08-06",
+    "holding_summary": "Rule 96(10) of the CGST Rules had restricted IGST refunds on exports where the exporter availed certain exemption or concessional-rate benefits on inputs; the Central Government omitted Rule 96(10) with effect from 8 October 2024 without inserting any saving clause. A Bench of Justices J.B. Pardiwala and K. Vinod Chandran held, relying on Rayala Corporation, Kolhapur Canesugar Works and Fibre Boards, that Section 6 of the General Clauses Act does not preserve proceedings arising under an omitted rule absent a saving clause, so exporters whose refund applications were still pending when Rule 96(10) was omitted are entitled to claim IGST refunds without the restriction the omitted rule had imposed. The Court rejected the Revenue's argument that the GST Council had intended the omission to operate only prospectively, holding the Council's recommendation is advisory and not binding on the rule-making authority.",
+    "why_it_matters": "A clear, reusable precedent for exporters who had refund claims rejected or kept pending on Rule 96(10) grounds before 8 October 2024 — the Supreme Court's ruling confirms those claims should now be processed without that restriction, regardless of any departmental argument that the Council intended the change to apply only going forward.",
+    "sources": [
+      "https://www.livelaw.in/supreme-court/gst-exporters-whose-applications-were-pending-before-omission-of-rule-9610-entitled-to-igst-refund-supreme-court-545143",
+      "https://www.verdictum.in/supreme-court/ms-goodluck-india-limited-v-union-of-india-2026-insc-821-rule-96-10-cgst-1619628",
+      "https://www.taxscan.in/top-stories/gst-rule-9610-omission-applies-to-pending-igst-refunds-supreme-court-read-judgement-1449870",
+      "https://taxguru.in/?p=1075847"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-23"
   }
 ]
