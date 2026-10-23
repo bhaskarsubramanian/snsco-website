@@ -1795,5 +1795,29 @@
       "https://taxguru.in/?p=1090861"
     ],
     "note": "Case, citation (2026 INSC 1121, Civil Appeal No. 7882 of 2023), bench, 14 Oct 2026 decision date, NCLAT Chennai 2 Aug 2023 pronouncement, certified-copy application/receipt dates, appeal filing date and the Section 62/Section 12(2) limitation holding all independently confirmed by Verdictum, LiveLaw, SupremeCourtCases and Taxguru. No duplicate found on live site (checked search-index.json and legal-updates/index.html for Ravinuthala/Samyu Glass)."
+  },
+  {
+    "file": "_drafts/batch7/news/01-allahabad-hc-jurisdiction-before-plaint-amendment.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/trademark/sarkari-result-trademark-suit-allahabad-high-court-says-jurisdiction-objection-must-be-decided-before-plaint-amendment-553954",
+      "https://supremetoday.ai/allahabad-high-court-says-subject-matter-jurisdiction-decided-before-amendment-in-sarkari-result-suit-20261010017",
+      "https://drishtijudiciary.com/current-affairs/jurisdiction-objection-must-be-decided-before-amendment-of-plaint",
+      "https://www.livelaw.in/round-ups/weekly/allahabad-high-court-weekly-round-up-october12-october18-2026-555257"
+    ],
+    "note": "Independently confirmed via fresh searches: case name, Justice Rohit Ranjan Agarwal as the deciding judge, the Varanasi Commercial Court jurisdiction objection under Order VII Rules 10/11 filed by the defendants, the plaintiff's 9 August 2026 amendment application seeking to peg the suit's value at Rs 5 lakh, the Commercial Court's order sequencing jurisdiction-first, the Article 227 petition and its dismissal, and the core holding (an amendment aimed at fixing the facts that confer jurisdiction cannot cure the jurisdictional defect; a court lacking jurisdiction cannot create it by allowing an amendment) are all corroborated across LiveLawBiz, SupremeToday and Drishti Judiciary. LiveLaw's own weekly round-up index for 12-18 October 2026 confirms the citation 2026 LiveLaw (AB) 825 maps to this exact case. One source (LiveLawBiz) gives the petition number as Matters Under Article 227 No. 13309 of 2026 and a parallel citation 2026 LLBiz HC (ALL) 84, and separately notes the Commercial Court had earlier granted a temporary injunction in June 2025 which the Supreme Court stayed on 16 January 2026 - background not in the draft but not contradicting it either. No duplicate found on the live site (checked search-index.json for 'Sarkari Result', 'I Think Apps' and 'Anugya Gupta': no hits)."
+  },
+  {
+    "file": "_drafts/batch7/news/02-himachal-hc-dismisses-sml-interim-injunction.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://nsearchives.nseindia.com/corporate/DHARMAJ_16102026153629_BSENSEUPDATEONORDER.pdf",
+      "https://www.livelawbiz.com/patent/himachal-pradesh-high-court-refuses-interim-relief-in-sml-patent-infringement-suit-over-territorial-jurisdiction-541840",
+      "https://conventuslaw.com/report/india-himachal-pradesh-high-court-refuses-interim-relief-in-patent-infringement-suit-over-territorial-jurisdiction/",
+      "https://www.arthneeti.com/announcements/dharmaj-crop-announcement-under-regulation-30-lodr-award_of_order_receipt_of_order-16-oct-2026"
+    ],
+    "note": "Independently confirmed: the 15 October 2026 order dismissing SML Limited's interim injunction application against Mohan & Company and Dharmaj Crop Guard over the ZeekaSulf product, case numbers (COMS No. 7 of 2023, OMP(I) No. 324 of 2023), the two grounds (no prima facie territorial jurisdiction in Himachal Pradesh; insufficient evidence the defendants supplied the product to the retailer SML relied on), and that the main suit remains pending, all corroborated by Dharmaj's own NSE/BSE regulatory filing, LiveLawBiz and Conventus Law. A fourth, unrelated SML matter against Happy Agro Chemicals over a different product (SELZIC) and an earlier 2025 SML v Mohan & Company/Safex Chemicals injunction over a product called 'Aladdin' surfaced in searches but concern different suits and were correctly not conflated with this one. Bench could not be confirmed from any source, consistent with the draft leaving it blank rather than guessing. No duplicate found on the live site (checked search-index.json for 'SML Limited', 'Dharmaj' and 'ZeekaSulf': no hits)."
   }
 ]
