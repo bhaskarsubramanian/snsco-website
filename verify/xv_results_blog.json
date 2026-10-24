@@ -1594,5 +1594,89 @@
       "https://www.jurishour.in/other-laws/fssai-registration-licence-slaughterhouse-operations/"
     ],
     "note": "Case (Junaid Alam v. State of U.P., Writ-C No. 34620 of 2026, 2026 LiveLaw (AB) 700), Section 31(1)/31(2) FSS Act scheme, Article 19(1)(g) reasoning, the 29 June 2024 registration certificate, the 19 March 2025 licence application (20 large animals/day) returned for deficiencies on 27 April 2025, and the 22 May 2025 DM closure order all confirmed against the court order PDF and multiple independent reports. The Regulation 1.2.1(4) petty-business capacity bands (2 large animals/10 small animals/50 poultry birds per day) are confirmed directly from FSSAI's own regulation text, actually stronger than the draft's own hedged 'reported approximate figure' framing. No factual errors found."
+  },
+  {
+    "file": "_drafts/batch7/blog/02-fssai-misleading-brand-name-imagery-prohibition-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.moneylife.in/article/fssai-bans-folineuro-syrup-stops-sale-of-neuherbs-true-vitamin-orders-recall-of-wonderland-raisins/81211.html",
+      "https://morungexpress.com/fssai-bans-sale-of-folineuro-syrup-neuherbs-true-vitamin-over-misleading-claims",
+      "https://telanganatoday.com/fssai-bans-sale-of-folineuro-syrup-neuherbs-true-vitamin-over-misleading-claims",
+      "https://www.orissapost.com/fssai-bans-sale-of-folineuro-syrup-neuherbs-true-vitamin-over-misleading-claims/"
+    ],
+    "note": "Both FSSAI orders (FOLINEURO/Vatave Health Care and Neuherbs TRUE VITAMIN/Global Healthfit Retail India), dated 30 July 2026, confirmed across multiple outlets, all tracing to the same IANS wire story. Grounds (brain-image/category gap; undefined trade name), non-lab basis, and the 30-day Action Taken Report requirement all match. Minor note: FSSAI had already flagged the term True Vitamin in a mid-June 2026 notice, but the draft does not claim this was the first time, so no fix needed."
+  },
+  {
+    "file": "_drafts/batch7/blog/03-rera-review-application-reopen-order-fraud-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.punekarnews.in/?p=239796",
+      "https://www.mypunepulse.com/pune-maharera-rejects-kumar-properties-review-plea-in-delayed-flat-possession-case/",
+      "https://www.freepressjournal.in/business/mumbai-man-gets-18-lakh-refund-after-16-year-wait-maharera-penalises-builder-for-selling-flats-to-third-parties",
+      "https://www.casemine.com/commentary/in/fraud-on-the-court:-insights-from-s.p-chengalvaraya-naidu-v.-jagannath/view"
+    ],
+    "note": "Section 39, the Kumar Properties/47 East MahaRERA review rejection, S.P. Chengalvaraya Naidu v. Jagannath (1994) 1 SCC 1, and the July 2025 Supreme Court recall of its own Noida land judgment (Reddy Veerana) all confirmed. The Bhayandar East (Natwar Parmar) resale detail is over-specific: fresh research confirms only one registered resale (Flat No. 101, 14 July 2017) plus general reporting that the flat was sold more than once, but found no independent confirmation of a 2016 sale or an August 2025 further transfer as the draft states.",
+    "fixes": [
+      {
+        "find": "that the same flat had already been sold to two different third parties in 2016 and 2017, with a further transfer in August 2025, and",
+        "replace": "that the same flat had already been sold to third parties through registered documents, including at least one sale in 2017, and",
+        "reason": "Fresh research confirmed only a 2017 registered resale; no independent source confirmed a 2016 sale or an August 2025 further transfer."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch7/blog/05-foreign-court-decree-fema-rbi-ceiling-enforcement-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/peter-beck-und-partner-v-prakash-industries-ltd-2026dhc1547-foreign-courts-wales-fema-rbi-1608456",
+      "https://rawlaw.in/delhi-high-court-enforces-english-commercial-court-decree-against-prakash-industries-damages-awarded-by-foreign-court-cannot-be-curtailed-by-fema-ceilings-execution-allowe/",
+      "https://www.mondaq.com/india/international-courts-tribunals/1780976/delhi-high-court-holds-that-damages-awarded-by-foreign-courts-not-subject-to-fema-rbi-directions",
+      "https://www.livelawbiz.com/fema/high-court/damages-awarded-by-foreign-court-cannot-be-subject-to-fema-ceiling-delhi-high-court-524404"
+    ],
+    "note": "Case name, judge (Amit Bansal), decision date, holding, Section 13/44A CPC analysis, RBI November 2024 no-objection statement, party roles (Peter Beck as decree-holder, Prakash Industries as judgment-debtor), and underlying FCCB facts and figures all confirmed across multiple independent sources. A pending Division Bench appeal against the Feb 2026 order (EFA(OS) 1/2026) is confirmed separately from an unrelated earlier October 2025 Division Bench episode on a different single-judge order; the draft is appropriately vague and does not conflate the two, so no fix needed."
+  },
+  {
+    "file": "_drafts/batch7/blog/07-nri-property-sale-tds-section-195-form-13-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://grantthornton.in/link/13ad390f3b9540929127f87b9e47cf04.aspx",
+      "https://www.dpncindia.com/indexation-benefit-allowed-to-resident-individuals-huf-for-immovable-properties-acquired-before-23rd-july-2024",
+      "https://taxmann.com/post/blog/cbdt-notifies-procedure-for-filing-form-13-for-lower-nil-tds-certificate-when-payer-details-are-unavailable",
+      "https://sbnri.com/blog/nri-income-tax/form-15ca-cb-is-now-form-145-146-what-nris-need-to-know"
+    ],
+    "note": "Sections 194-IA, 195, 197/Form 13 process, and the 4% cess all confirmed. Three fixes needed: (1) the 12.5%-without-indexation rate for non-residents is correct but the draft should explain the indexation-choice relief exists but is restricted to resident individuals/HUFs, so NRIs get no alternative; (2) manual Form 13 filing was only a 2018-19 transitional allowance, not a current general fallback to TRACES e-filing; (3) Forms 15CA/15CB were replaced by Forms 145/146 effective 1 April 2026 under the new Income-tax Act, 2025, which is already in effect as of today.",
+    "fixes": [
+      {
+        "find": "Indexation benefit, which used to reduce the taxable gain for pre-2024 transfers, does not apply to the post-July 2024, 12.5 percent regime.",
+        "replace": "Indexation benefit, which used to reduce the taxable gain for pre-2024 transfers, does not apply to the post-July 2024, 12.5 percent regime for a non-resident seller. Parliament later added a grandfathering option letting a seller choose between 20 percent with indexation and 12.5 percent without it for property acquired before 23 July 2024, but that choice is restricted to resident individuals and Hindu Undivided Families; it does not extend to non-residents, so an NRI seller has no indexation alternative under the current regime.",
+        "reason": "The indexation-choice relief for pre-23-July-2024 acquisitions exists but is limited to resident individuals/HUFs and does not extend to non-residents; the draft should say why NRIs have no indexation option rather than implying indexation was simply abolished for everyone."
+      },
+      {
+        "find": "It is filed online through the TRACES portal, verified with a digital signature, though a manual filing with the assessing officer remains possible where the online route isn't workable.",
+        "replace": "It is filed online through the TRACES portal, verified with a digital signature or EVC; a manual filing route was permitted only as a one-time transitional relief for NRIs and resident applicants in 2018-19 and is not a general current fallback.",
+        "reason": "CBDT Notification No. 02/2023 made TRACES e-filing the current mandatory route; manual filing was a time-limited 2018-19 transitional allowance, not an ongoing fallback."
+      },
+      {
+        "find": "typically a chartered accountant's certificate in Forms 15CA and 15CB confirming the tax position before the authorised bank will remit the funds",
+        "replace": "typically a chartered accountant's certificate in Forms 145 and 146 (which replaced Forms 15CA and 15CB from 1 April 2026 under the Income-tax Act, 2025) confirming the tax position before the authorised bank will remit the funds",
+        "reason": "Forms 15CA/15CB were renumbered to Forms 145/146 effective 1 April 2026, which has already taken effect as of the current date."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch7/blog/04-rera-aggrieved-person-locus-title-claimant-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 4,
+    "evidence": [
+      "https://www.livelawbiz.com/rera/persons-unconnected-to-a-real-estate-project-cannot-seek-relief-under-rera-telangana-reat-537418",
+      "https://livelaw.in/consumer-cases/telangana-rera-aggrieved-party-sec-31-rera-act-252968",
+      "https://courtbook.in/real-estate-regulation-and-development-act-2016/section-31",
+      "https://courtbook.in/real-estate-regulation-and-development-act-2016/section-44"
+    ],
+    "note": "Case name, numbers, dates, party roles (land claimants as appellants, Registrar as respondent) and holding in N.L. Ravi Shankar v. Registrar, TG RERA (Aparna Sunstone) all confirmed, as is the 2024 Ashrita Group precedent and Sections 31(1)/44 of the RERA Act. Only a trivial spacing variant was found (developer is registered as Aparna Infrahousing, one word, vs the drafts Aparna Infra Housing); immaterial, no fix needed. Single-sourced to LiveLawBiz but internally consistent across two separate searches."
   }
 ]
