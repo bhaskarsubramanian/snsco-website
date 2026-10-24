@@ -1709,5 +1709,16 @@
       "https://www.barandbench.com/columns/moratorium-provisionsfate-of-arbitrations-in-the-ibc-age"
     ],
     "note": "Alchemist (non est holding), Power Grid v. Jyoti Structures (Delhi HC, benefit-to-corporate-debtor carve-out), Ankhim Holdings v. Zaveri Construction (2026 INSC 137, party roles and court hierarchy correct, Supreme Court set aside Bombay HCs nullity finding), and Sections 14/238/33(5) IBC all confirmed, as is commentary describing the pending-arbitration question as unsettled. Only the specific Section 17 label on the interim orders in Ankhim Holdings could not be verbatim-confirmed from secondary sources (plausible, not contradicted), so no fix made."
+  },
+  {
+    "file": "_drafts/batch7/blog/06-section-9-interim-relief-after-foreign-award-enforcement-filed-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 4,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/osterreichischer-lloyd-seereederei-cyprus-ltd-v-victore-ships-pvt-ltd-commercial-arbitration-petition-no-398-of-2025-relief-us-9-arbitration-act-1610853",
+      "https://disputeresolution.cyrilamarchandblogs.com/2026/08/section-9-and-foreign-award-enforcement-jurisdictional-question-settled-but-boundaries-still-uncertain/",
+      "https://www.mondaq.com/india/arbitration-dispute-resolution/1782286/interim-relief-under-section-9-of-the-arbitration-and-conciliation-act-1996-available-even-after-initiation-of-enforcement-proceedings"
+    ],
+    "note": "Case (CAP 398 of 2025, Justice Sundaresan, 10 March 2026), holding, Part II/NY Convention structure, and the unsettled post-decree question are all confirmed. Checked the USD 269,105.08 figure carefully: there is a separate, later petition (CAP 403 of 2025, a different judge) enforcing a different figure (USD 200,733.01 plus interest/costs) on the same underlying award, but that is a different proceeding the draft does not cite; the USD 269,105.08 figure is independently confirmed as specific to CAP 398, the case the draft is actually about, so no fix needed."
   }
 ]
