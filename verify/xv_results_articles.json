@@ -160,5 +160,17 @@
         "reason": "Date correction matching the body-text fix."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/09-infrastructure-ppp-disputes-termination-payment-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.verdictum.in/delhi-high-court/national-highways-authority-of-india-v-ms-kurukshetra-expressway-private-ltd-2026dhc5961-court-restraint-tribunals-fidelity-to-contract-1618755",
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/gvv-constructions-v-union-of-india-determination-of-excepted-matters-under-the-arbitration-act/",
+      "https://www.livelaw.in/amp/high-court/allahabad-high-court/allahabad-high-court-grants-relief-tata-nhai-terminate-contract-540801",
+      "https://supremetoday.ai/supreme-court-stays-allahabad-hc-order-quashing-nhais-rs940-crore-contract-termination-with-tata-projects-20260831077"
+    ],
+    "note": "Independently re-verified via fresh searches rather than the draft's own sources: NHAI Policy Circular 11.82/2026 (19 Jan 2026, Rs 10 crore threshold, retrospective, pending-arbitration carve-out); Kurukshetra Expressway (2026:DHC:5961, Rs 911.13cr award, Rs 650cr Article 48.1 ceiling, Rs 1,045.5cr disaggregated TPC, 28 Sept 2026 Division Bench affirmance); Somdatt Builders v NHAI (2025 INSC 113, 27 Jan 2025, Section 37 restraint and patent-illegality standard); Tata Projects v Union of India (Allahabad HC quashed Rs 940.68cr termination, July 2026) and the Supreme Court stay (SLP(C) 29512/2026, 31 Aug 2026, Pardiwala/Vinod Chandran JJ); GVV Constructions (2026 INSC 976, 8 Sept 2026, Section 16 competence-competence on excepted matters); DIAL force majeure ruling (2025:DHC:1523, 7 March 2025, Justice Dinesh Kumar Sharma); Patwardhan Infrastructure (2026:BHC-AS:2050, 17 Jan 2026); and Ssangyong v NHAI (2019 SCC OnLine SC 677, unilateral-circular holding). All party roles, figures, dates and holdings matched the draft. Jabalpur Corridor (SC, 29 May 2026) is confirmed as to case, date and the jurisdictional-finality holding; one source gives the award itself as Rs 49 crore with 14.75% interest, which does not contradict the draft's Rs 176cr claim/Rs 277cr counterclaim figures since those appear to describe amounts sought rather than the amount awarded, so no fix made. The draft's own verification_notes already flag the residual uncertainties (GVV SC decision date, DIAL date discrepancy, Jabalpur INSC citation) appropriately rather than overstating certainty."
   }
 ]
