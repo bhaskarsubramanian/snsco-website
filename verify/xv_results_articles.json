@@ -239,5 +239,24 @@
       "https://taxguru.in/corporate-law/delays-mandatory-admission-strict-timelines-ibc-amendment-act-2026.html"
     ],
     "note": "Independently confirmed: Celir LLP v Bafna Motors (Mumbai) Pvt Ltd (2023 INSC 838, Civil Appeal 5542-5543/2023, decided 21 Sept 2023) and its Section 13(8)/Rule 9(1) redemption-cutoff holding; Kotak Mahindra Bank Ltd v Trupti Sanjay Mehta (2 Sept 2026, 2026 LiveLaw (SC) 886) allowing SARFAESI against an NBFC-originated loan; K.K. Praveen v JM Financial ARC (W.P.(Civil) No. 1091/2026, 9 Sept 2026, Nagarathna & Mahadevan JJ, Section 35 overriding effect) and the Bombay HC Tata Capital v Neel Motors ruling (24 July 2026) both match this site's own already-verified news items on the same cases; the DRT 20-lakh pecuniary floor (2018 notification, upheld by Rajasthan HC) and the IBC (Amendment) Act 2026 changes (Section 7(5) 'may' to 'shall', effective 26 May 2026, and the Section 96(4)/124(4) interim-moratorium carve-out for personal guarantors) are also corroborated. B.K. Educational Services v Parag Gupta (Article 137/Section 238A) and SBI v V. Ramakrishnan (2018, guarantor liability survives moratorium) are well-settled law consistent with the draft. All 22 related_pages resolve on the live site. No unsupported claims, client anecdotes or marketing language found; draft appropriately flags its own residual uncertainty (Tata Capital bench composition, old recovery-certificate-to-Section-7 question) rather than overstating settled law."
+  },
+  {
+    "file": "_drafts/articles/15-shareholder-oppression-mismanagement-nclt-article.json",
+    "verdict": "FIX",
+    "claims_checked": 15,
+    "evidence": [
+      "https://www.livelawbiz.com/company-law/nclat-restores-status-quo-over-company-assets-pending-valuation-and-determination-on-share-buyback-547301",
+      "https://www.verdictum.in/supreme-court/dr-bais-surgical-and-medical-institute-pvt-ltd-ors-v-dhananjay-pande-2026-insc-447-1613399",
+      "https://www.livelawbiz.com/company-law/nclat-dismisses-former-shareholders-appeal-against-sintex-industries-holds-section-59-not-a-vehicle-for-adjudicating-monetary-claims-547655",
+      "https://lawx.in/case-laws/view/ms-embassy-property-developments-pvt-ltd-vs-the-state-of-karnataka"
+    ],
+    "note": "Confirmed: Dr. Bais Surgical and Medical Institute v Dhananjay Pande (2026 INSC 447, decided 4 May 2026, Narasimha and Aradhe JJ); the Sintex Industries/Titus Babu Section 59 clean-slate ruling (NCLT Ahmedabad and NCLAT New Delhi, consistent with the draft's own hedged dates and figures); Embassy Property Developments v State of Karnataka (3 Dec 2019, public-law matters outside NCLT's Section 60(5) reach, fraud inquiry permitted under Ss.65/69); the VCare Technologies and Rukshmani Syntex NCLAT rulings both match this site's own already-independently-verified news items on the same cases (xv_results_news.json). One confirmed discrepancy: this site's own prior independent verification of the Rukshmani Syntex matter (two sources, livelawbiz.com and taxguru.in) established the NCLT status quo order date as 27 March 2026, but this article's body text states the status quo was directed '5 March 2026' as a settled fact, even though the draft's own verification_notes field separately flags '27 March 2026' as a conflicting date without resolving which is correct in the visible text. Rest of the article (Section 241-246 scheme, Section 244 threshold and waiver case law, Kalinga Tubes/Needle Industries oppression test, Section 242 remedies, winding-up fallback) is standard, well-settled company law consistent with the draft. All 9 related_pages resolve on the live site.",
+    "fixes": [
+      {
+        "find": "The NCLT directed status quo on 5 March 2026 after the respondents themselves conceded to the request",
+        "replace": "The NCLT directed status quo on 27 March 2026 after the respondents themselves conceded to the request",
+        "reason": "This site's own independently verified news coverage of the same Rukshmani Syntex dispute (cross-checked across livelawbiz.com and taxguru.in) confirms the NCLT status quo order is dated 27 March 2026, not 5 March 2026; the draft's own verification_notes field flags 27 March as a possible date without correcting the body text."
+      }
+    ]
   }
 ]
