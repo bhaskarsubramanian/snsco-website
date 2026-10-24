@@ -227,5 +227,17 @@
         "reason": "The NCDRC ruling (HDFC Bank Ltd. v Thomas Alexander, 2026 SCC OnLine NCDRC 130) allowed HDFC Bank's own revision petition and went in the bank's favour, not against it; the draft had the direction of the holding backwards."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/14-debt-recovery-sarfaesi-drt-ibc-guarantor-exposure-article.json",
+    "verdict": "PASS",
+    "claims_checked": 16,
+    "evidence": [
+      "https://www.livelaw.in/top-stories/supreme-court-sarfaesi-proceedings-invoked-despite-decree-passed-drt-suit-res-judicata-inapplicable-550165",
+      "https://www.livelaw.in/supreme-court/banks-can-invoke-sarfaesi-for-loans-acquired-from-nbfcs-not-covered-under-act-supreme-court-548335",
+      "https://www.verdictum.in/court-updates/supreme-court/2024-insc-978-celir-llp-v-sumati-prasad-bafna-borrower-cannot-redeem-mortgage-upon-publication-of-auction-notice-1561051",
+      "https://taxguru.in/corporate-law/delays-mandatory-admission-strict-timelines-ibc-amendment-act-2026.html"
+    ],
+    "note": "Independently confirmed: Celir LLP v Bafna Motors (Mumbai) Pvt Ltd (2023 INSC 838, Civil Appeal 5542-5543/2023, decided 21 Sept 2023) and its Section 13(8)/Rule 9(1) redemption-cutoff holding; Kotak Mahindra Bank Ltd v Trupti Sanjay Mehta (2 Sept 2026, 2026 LiveLaw (SC) 886) allowing SARFAESI against an NBFC-originated loan; K.K. Praveen v JM Financial ARC (W.P.(Civil) No. 1091/2026, 9 Sept 2026, Nagarathna & Mahadevan JJ, Section 35 overriding effect) and the Bombay HC Tata Capital v Neel Motors ruling (24 July 2026) both match this site's own already-verified news items on the same cases; the DRT 20-lakh pecuniary floor (2018 notification, upheld by Rajasthan HC) and the IBC (Amendment) Act 2026 changes (Section 7(5) 'may' to 'shall', effective 26 May 2026, and the Section 96(4)/124(4) interim-moratorium carve-out for personal guarantors) are also corroborated. B.K. Educational Services v Parag Gupta (Article 137/Section 238A) and SBI v V. Ramakrishnan (2018, guarantor liability survives moratorium) are well-settled law consistent with the draft. All 22 related_pages resolve on the live site. No unsupported claims, client anecdotes or marketing language found; draft appropriately flags its own residual uncertainty (Tata Capital bench composition, old recovery-certificate-to-Section-7 question) rather than overstating settled law."
   }
 ]
