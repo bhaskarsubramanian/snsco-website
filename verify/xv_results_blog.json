@@ -1339,7 +1339,7 @@
     "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
     "fixes": [
       {
-        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
+        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
         "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
         "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
       }
@@ -1724,14 +1724,14 @@
   {
     "file": "_drafts/batch7/blog/10-specific-performance-decree-missed-deposit-deadline-guide.json",
     "verdict": "FIX",
-    "claims_checked": 6,
+    "claims_checked": 9,
     "evidence": [
       "https://www.verdictum.in/supreme-court/anand-narayan-shukla-v-jagat-dhari-2026-insc-463-specific-performance-1613639",
       "https://www.livelaw.in/supreme-court/mere-delay-by-plaintiff-in-depositing-balance-sale-consideration-wont-render-specific-performance-decree-inexecutable-supreme-court-514044",
       "https://www.verdictum.in/court-updates/supreme-court/appellate-courts-must-comply-with-order-xx-rule-12a-cpc-2025-insc-301-ram-lal-v-jarnail-singh-1569977",
-      "https://www.caseon.in/public/case/ramankutty-guptan-vs-avara"
+      "https://lawfoyer.in/ram-lal-v-jarnail-singh-now-deceased-through-its-lrs-ors-2025-2-s-c-r-1745-2025-insc-301/"
     ],
-    "note": "Section 28, Anand Narayan Shukla v. Jagat Dhari, A. Chanda v. Rattni, and Ramankutty Guptan v. Avara all confirmed (no fabricated cases); minor citation variance on Ramankutty Guptan ((1994) 2 SCC 642 vs 882 in one source) not worth a fix. Two fixes made: the December 2025 ruling is named (Dr. Amit Arya v. Kamlesh Kumari, bench Karol and Misra JJ, which the draft left uncited), and the appellate-merger ruling on Order XX Rule 12A (Ram Lal v. Jarnail Singh, 2025 INSC 301) was decided 25 February 2025, not March 2025 as the draft states.",
+    "note": "Merged result of two independent verification passes on this file. Section 28 basics, Anand Narayan Shukla v. Jagat Dhari (2026 INSC 463, confirmed via Verdictum; decree does not auto-lapse), Chanda v. Rattni (2007, rescission on total inaction) and Ramankutty Guptan v. Avara (1994, same-suit rule) all confirmed, no fabricated cases. Three issues found: (1) the uncited December 2025 ruling is Dr. Amit Arya v. Kamlesh Kumari (decided 19 December 2025, Karol and Misra JJ); (2) the 'March 2025 decision' on Order XX Rule 12A is Ram Lal v. Jarnail Singh, 2025 INSC 301, actually decided 25 February 2025 (only reported in early March); (3) that same passage and its matching FAQ answer mischaracterize the legal mechanism -- Ram Lal holds the appellate court itself must fix a fresh deposit period, and if it fails to, the decree is not automatically inexecutable because the court retains Section 28 discretion to fix or extend time, not because the trial court's old timeline carries forward or merges in.",
     "fixes": [
       {
         "find": "A December 2025 ruling of the Supreme Court held that some delay by the buyer in depositing the balance sale consideration beyond the timeline the decree fixed will not make the decree inexecutable, provided the buyer remained ready and willing to perform throughout.",
@@ -1744,9 +1744,19 @@
         "reason": "The ruling was decided 25 February 2025; it was only reported in early March 2025, which the draft appears to have mistaken for the decision date. Case name added since it was otherwise uncited."
       },
       {
+        "find": "Under Order XX Rule 12A of the Code of Civil Procedure, the trial court's original timeline is treated as carrying forward and merging into the appellate court's order in that situation. If the appellate court sets no time limit of its own, denying execution purely because of a late deposit measured against an unclear or merged timeline would be unjust to the buyer.",
+        "replace": "Order XX Rule 12A of the Code of Civil Procedure requires the court disposing of such an appeal to fix its own period for depositing the balance sale consideration, rather than leaving the trial court's earlier deadline to govern by default. The Supreme Court has held that if the appellate court fails to fix that fresh period, the decree does not become inexecutable on that account: the court retains discretion under Section 28 to fix or extend the deposit time, weighing the decree-holder's bona fides, the reason and length of the delay, and the equities created in the meantime.",
+        "reason": "Ram Lal v. Jarnail Singh (2025 INSC 301) holds the appellate court must fix its own deposit period and, if it fails to, Section 28 discretion (not an automatic merger of the trial court's old timeline) is what saves the decree from inexecutability."
+      },
+      {
         "find": "Anand Narayan Shukla v. Jagat Dhari, 2026 INSC 463, Supreme Court of India",
         "replace": "Anand Narayan Shukla v. Jagat Dhari, 2026 INSC 463, Supreme Court of India\",\n    \"Dr. Amit Arya v. Kamlesh Kumari, Supreme Court of India (decided 19 December 2025)",
         "reason": "Add the previously-uncited December 2025 case to the references list."
+      },
+      {
+        "find": "The buyer's position is generally protected in that situation. Reported case law treats the trial court's original deposit timeline as continuing to apply through Order XX Rule 12A, and an appellate court varying the decree is expected to fix its own deadline if it wants a different one, so an ambiguity of that kind is not held against the buyer.",
+        "replace": "The buyer's position is generally protected, but not because the old deadline automatically continues. Order XX Rule 12A requires the appellate court to fix its own deposit period when disposing of the appeal, and the Supreme Court has held that if it fails to do so the decree does not become inexecutable on that account, since the court retains discretion under Section 28 to fix or extend the time.",
+        "reason": "Same correction applied to the matching FAQ answer."
       }
     ]
   }
