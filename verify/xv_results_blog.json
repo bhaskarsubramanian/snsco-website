@@ -1678,5 +1678,36 @@
       "https://courtbook.in/real-estate-regulation-and-development-act-2016/section-44"
     ],
     "note": "Case name, numbers, dates, party roles (land claimants as appellants, Registrar as respondent) and holding in N.L. Ravi Shankar v. Registrar, TG RERA (Aparna Sunstone) all confirmed, as is the 2024 Ashrita Group precedent and Sections 31(1)/44 of the RERA Act. Only a trivial spacing variant was found (developer is registered as Aparna Infrahousing, one word, vs the drafts Aparna Infra Housing); immaterial, no fix needed. Single-sourced to LiveLawBiz but internally consistent across two separate searches."
+  },
+  {
+    "file": "_drafts/batch7/blog/09-commercial-suit-written-statement-120-day-deadline-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 5,
+    "evidence": [
+      "https://nishithdesai.com/default.aspx?id=6032",
+      "https://www.khaitanco.com/thought-leadership/supreme-court-filing-of-written-statement-within-120-days-from-issuance-of-summons-is-mandatory",
+      "https://lawsathi.in/judgements/sc/2020/desh-raj-balkishan-through-proposed-lr-ms-rohini/",
+      "https://www.verdictum.in/supreme-court/ak-ghosh-company-and-others-v-biman-bose-and-others-2026-insc-684-1617737"
+    ],
+    "note": "SCG Contracts (12 Feb 2019), Desh Raj v. Balkishan (2020) 2 SCC 708 (real case, correctly applied, not fabricated), Bharat Kalra v. Raj Kishan Chabra, A.K. Ghosh and Company v. Biman Bose (2026 INSC 684, actually multiply-sourced beyond the single Verdictum report the draft cites), and Section 2(1)(c) all confirmed. One fix needed: the pronounce-judgment-or-pass-other-order power in Order VIII Rule 10 is pre-existing 1976 CPC text, not something the 2015 Commercial Courts Act inserted; what the 2015 Act actually added to Rule 10 for commercial suits is a further proviso barring any extension beyond the Rule 1 limit.",
+    "fixes": [
+      {
+        "find": "The same amendment inserted Order VIII Rule 10 to spell out the consequence of missing that ceiling: once the 120 days run out without a written statement on file, the court may pronounce judgment against the defendant or pass such other order as it thinks fit in relation to the suit. This pairing, a hard outer limit plus an explicit consequence provision, is what later let the Supreme Court treat the limit as mandatory rather than aspirational.",
+        "replace": "The same amendment added a proviso to Order VIII Rule 10 for commercial suits, stating that no court shall extend the time provided under Rule 1 for filing the written statement. Rule 10 itself, unchanged since 1976, already let the court pronounce judgment against the defendant or pass such other order as it thinks fit once the time to file has run out. This pairing, the pre-existing consequence provision plus the new, commercial-suit-specific bar on extension, is what later let the Supreme Court treat the 120-day limit as mandatory rather than aspirational.",
+        "reason": "The judgment-on-default power in Order VIII Rule 10 predates the 2015 Act; the Act added a proviso barring extension beyond Rule 1s limit, not the judgment power itself."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch7/blog/08-arbitration-ibc-moratorium-section-14-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelaw.in/amp/arbitration-proceedings-after-the-imposition-of-moratorium-under-s-14-of-insolvency-and-bankruptcy-code-is-non-est-in-law-sc-read-order",
+      "https://vinodkothari.com/2017/12/no-embargo-on-proceedings-in-favour-of-corporate-debtor-us-141-of-the-code/",
+      "https://www.verdictum.in/court-updates/supreme-court/ankhim-holdings-pvt-ltd-v-zaveri-construction-pvt-ltd-2026-insc-137-arbitrator-high-court-arbitration-1607091",
+      "https://www.barandbench.com/columns/moratorium-provisionsfate-of-arbitrations-in-the-ibc-age"
+    ],
+    "note": "Alchemist (non est holding), Power Grid v. Jyoti Structures (Delhi HC, benefit-to-corporate-debtor carve-out), Ankhim Holdings v. Zaveri Construction (2026 INSC 137, party roles and court hierarchy correct, Supreme Court set aside Bombay HCs nullity finding), and Sections 14/238/33(5) IBC all confirmed, as is commentary describing the pending-arbitration question as unsettled. Only the specific Section 17 label on the interim orders in Ankhim Holdings could not be verbatim-confirmed from secondary sources (plausible, not contradicted), so no fix made."
   }
 ]
