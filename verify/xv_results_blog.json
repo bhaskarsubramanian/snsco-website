@@ -1720,5 +1720,34 @@
       "https://www.mondaq.com/india/arbitration-dispute-resolution/1782286/interim-relief-under-section-9-of-the-arbitration-and-conciliation-act-1996-available-even-after-initiation-of-enforcement-proceedings"
     ],
     "note": "Case (CAP 398 of 2025, Justice Sundaresan, 10 March 2026), holding, Part II/NY Convention structure, and the unsettled post-decree question are all confirmed. Checked the USD 269,105.08 figure carefully: there is a separate, later petition (CAP 403 of 2025, a different judge) enforcing a different figure (USD 200,733.01 plus interest/costs) on the same underlying award, but that is a different proceeding the draft does not cite; the USD 269,105.08 figure is independently confirmed as specific to CAP 398, the case the draft is actually about, so no fix needed."
+  },
+  {
+    "file": "_drafts/batch7/blog/10-specific-performance-decree-missed-deposit-deadline-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/anand-narayan-shukla-v-jagat-dhari-2026-insc-463-specific-performance-1613639",
+      "https://www.livelaw.in/supreme-court/mere-delay-by-plaintiff-in-depositing-balance-sale-consideration-wont-render-specific-performance-decree-inexecutable-supreme-court-514044",
+      "https://www.verdictum.in/court-updates/supreme-court/appellate-courts-must-comply-with-order-xx-rule-12a-cpc-2025-insc-301-ram-lal-v-jarnail-singh-1569977",
+      "https://www.caseon.in/public/case/ramankutty-guptan-vs-avara"
+    ],
+    "note": "Section 28, Anand Narayan Shukla v. Jagat Dhari, A. Chanda v. Rattni, and Ramankutty Guptan v. Avara all confirmed (no fabricated cases); minor citation variance on Ramankutty Guptan ((1994) 2 SCC 642 vs 882 in one source) not worth a fix. Two fixes made: the December 2025 ruling is named (Dr. Amit Arya v. Kamlesh Kumari, bench Karol and Misra JJ, which the draft left uncited), and the appellate-merger ruling on Order XX Rule 12A (Ram Lal v. Jarnail Singh, 2025 INSC 301) was decided 25 February 2025, not March 2025 as the draft states.",
+    "fixes": [
+      {
+        "find": "A December 2025 ruling of the Supreme Court held that some delay by the buyer in depositing the balance sale consideration beyond the timeline the decree fixed will not make the decree inexecutable, provided the buyer remained ready and willing to perform throughout.",
+        "replace": "A December 2025 ruling of the Supreme Court, Dr. Amit Arya v. Kamlesh Kumari, held that some delay by the buyer in depositing the balance sale consideration beyond the timeline the decree fixed will not make the decree inexecutable, provided the buyer remained ready and willing to perform throughout.",
+        "reason": "The case name was confirmed (Dr. Amit Arya v. Kamlesh Kumari, decided 19 December 2025, bench Karol and Misra JJ) but was missing from the draft text."
+      },
+      {
+        "find": "A March 2025 decision addressed what happens when an appellate court varies",
+        "replace": "A February 2025 decision (Ram Lal v. Jarnail Singh, 2025 INSC 301, decided 25 February 2025) addressed what happens when an appellate court varies",
+        "reason": "The ruling was decided 25 February 2025; it was only reported in early March 2025, which the draft appears to have mistaken for the decision date. Case name added since it was otherwise uncited."
+      },
+      {
+        "find": "Anand Narayan Shukla v. Jagat Dhari, 2026 INSC 463, Supreme Court of India",
+        "replace": "Anand Narayan Shukla v. Jagat Dhari, 2026 INSC 463, Supreme Court of India\",\n    \"Dr. Amit Arya v. Kamlesh Kumari, Supreme Court of India (decided 19 December 2025)",
+        "reason": "Add the previously-uncited December 2025 case to the references list."
+      }
+    ]
   }
 ]
