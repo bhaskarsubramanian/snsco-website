@@ -2204,5 +2204,41 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-23"
+  },
+  {
+    "id": "sc-deepak-raheja-omkara-assets-reconstruction-section-7-default-threshold",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Deepak Raheja and Another v. Omkara Assets Reconstruction Private Limited and Another",
+    "citation": "2026 INSC 1134, Civil Appeal No. 12195 of 2025, decided 15 October 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-10-15",
+    "holding_summary": "Hearing appeals under Section 62 of the IBC against an NCLAT order that had upheld admission of Section 7 petitions against two corporate debtors, the Supreme Court (Dipankar Datta and Augustine George Masih, JJ.) held that a Section 7 proceeding is a summary inquiry in which 'default' need only be shown on a preponderance of probabilities based on the documentary record, not through a full forensic reconciliation of accounts. The Court held that a Record of Default from an Information Utility, if unrebutted, is on its own sufficient to prima facie establish default, and that positive profitability or disputes over the exact quantum of interest or penal charges do not defeat an otherwise established default. It also held that the Adjudicating Authority under Section 7 is not an appellate forum over judgments of constitutional courts, and that Section 62 cannot be used to seek a reweighing of evidence already concurrently assessed by the NCLT and NCLAT.",
+    "why_it_matters": "Sets a clear, citable evidentiary bar for Section 7 admissions — financial creditors can rely on an unrebutted Information Utility default record alone, while corporate debtors can no longer resist admission merely by pointing to profitability or disputing interest/penalty quantum.",
+    "sources": [
+      "https://www.verdictum.in/amp/supreme-court/deepak-raheja-and-another-v-omkara-assets-reconstruction-private-limited-and-another-s-62-1624171",
+      "https://ibclaw.in/supreme-court-sets-evidentiary-hierarchy-for-ibc-section-7-default-proof/",
+      "https://www.supremecourtcases.com/deepak-raheja-and-another-v-omkara-assets-reconstruction-private-ltd-and-another/",
+      "https://www.advocatekhoj.com/library/judgments/index.php?go=2026%2Foctober%2Fdeepak-raheja-vs-omkara-assets-reconstruction-pvt-ltd-51"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-24"
+  },
+  {
+    "id": "delhi-hc-niva-bupa-vishal-rattewal-influencer-trademark-use-section-29",
+    "practice_area": "Intellectual Property",
+    "case_name": "Niva Bupa Health Insurance Company Limited v. Vishal Rattewal",
+    "citation": "Delhi High Court, order dated 21 September 2026",
+    "court": "Delhi High Court",
+    "date": "2026-09-21",
+    "holding_summary": "Niva Bupa sued a social media influencer for Rs. 5 crore in damages and a permanent injunction after he criticised the insurer's claim-settlement conduct on Instagram, Facebook, YouTube and X, following a consumer dispute over a rejected medical insurance claim. Justice Anup J. Bhambhani held that merely naming or referring to a company's trademark while criticising its services, where the critic is not engaged in a competing trade, does not amount to use of the mark 'in the course of trade' under Section 29 of the Trade Marks Act, 1999, and so does not constitute infringement. The Court further held that the suit, since it did not genuinely concern infringement of an intellectual property right, was not maintainable before the Court's specialised Intellectual Property Division and amounted to a misuse of that jurisdiction; it permitted Niva Bupa to withdraw the suit with liberty to refile as an ordinary civil suit, subject to costs of Re. 1 payable to the influencer.",
+    "why_it_matters": "Confirms that a consumer or critic's use of a company's mark purely to identify the company being criticised is not trademark 'use in trade' and cannot be dressed up as an IP dispute to access a specialised commercial IP forum — relevant for businesses considering suits against critical customers or influencers.",
+    "sources": [
+      "https://www.livelawbiz.com/ipr/influencers-use-of-niva-bupa-trademark-in-critical-social-media-posts-not-infringment-delhi-high-court-555180",
+      "https://www.barandbench.com/news/litigation/delhi-high-court-imposes-costs-of-1-on-niva-bupa-for-misusing-ip-jurisdiction-to-sue-influencer",
+      "https://www.verdictum.in/delhi-high-court/niva-bupa-health-insurance-company-limited-v-vishal-rattewal-withdraw-suit-vishal-rattewal-trademark-1624189",
+      "https://courtbook.in/posts/delhi-high-court-allows-niva-bupa-to-withdraw-trademark-suit-against-influencer-imposes-1-cost"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-24"
   }
 ]

@@ -3153,5 +3153,42 @@
       "Precise interplay with Sanket Kumar Agarwal v. APG Logistics (2023) on Section 61(2): verify against the judgment text before publishing, since secondary sources did not reconcile the two rulings"
     ],
     "added_on": "2026-10-23"
+  },
+  {
+    "id": "trademark-criticism-influencer-nominative-use-section-29-guide",
+    "topic_title": "When Does Naming a Brand in Criticism Become Trademark Infringement? A Guide to Section 29's 'Use in the Course of Trade' Limit",
+    "angle": "A practical guide for businesses and critics/influencers on where the line sits between legitimate reference to a trademark while criticising a company's goods or services, and actionable infringement under Section 29 of the Trade Marks Act, 1999 -- including why such disputes often don't belong before a specialised commercial IP division at all.",
+    "key_points": [
+      "Section 29's requirement that the impugned use be 'in the course of trade' -- a critic who sells nothing under or in competition with the mark generally falls outside it",
+      "Why calling out a company by its brand name while describing a consumer grievance (e.g. a rejected insurance claim) is referential use, not trademark use",
+      "The difference between infringement claims and defamation/reputational-harm claims -- and why companies sometimes mislabel the latter as the former to access an IP court's faster timelines",
+      "Risk for businesses: courts can find such suits a 'misuse' of specialised IP jurisdiction and impose costs, even if nominal",
+      "Practical steps for a business that believes criticism has crossed into false or defamatory statements: civil defamation vs. trademark remedies",
+      "How this interacts with comparative advertising and genuine nominative fair use by competitors, which is a separate, narrower doctrine"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Niva Bupa Health Insurance Company Limited v. Vishal Rattewal, Delhi High Court, order dated 21 September 2026: confirmed (LiveLawBiz, Bar and Bench, Verdictum, CourtBook)",
+      "Bench: Justice Anup J. Bhambhani: confirmed across sources",
+      "Section 29, Trade Marks Act, 1999 text on 'use in the course of trade': standard statutory provision, verify exact sub-section wording before publishing"
+    ],
+    "added_on": "2026-10-24"
+  },
+  {
+    "id": "patent-fer-email-non-delivery-abandonment-revival-guide",
+    "topic_title": "Patent Application Marked Abandoned Over a Missed Email? How to Seek Revival",
+    "angle": "A guide for patent applicants and agents on contesting a deemed-abandonment under Section 21(1) of the Patents Act, 1970 where the Patent Office's First Examination Report was sent by email but never actually reached the applicant or agent, covering the FER response timeline and the writ remedy available.",
+    "key_points": [
+      "The FER response deadline (6 months from issuance, with extensions available under Rule 138 -- confirm current total cap) and the consequence of missing it under Section 21(1)",
+      "Why mere proof that a system-generated email was dispatched is not proof of delivery, and why abandonment requires a conscious act or manifest intent",
+      "Practical evidence an applicant should gather to show non-receipt: agent's email logs, portal status-check timestamps, correspondence address records on file",
+      "The writ petition route before the High Court (IP Division) to challenge a deemed-abandonment, and what relief courts have granted (revival plus a fresh response window)",
+      "Preventive steps: keeping both postal and email correspondence addresses current with the Patent Office, and periodically checking application status on the IP India portal rather than relying solely on email"
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Tetra Technologies Inc. v. Union of India, W.P.(C)-IPD 33/2024, Delhi High Court, Justice Purushaindra Kumar Kaurav, order around 15-17 October 2026: confirmed (LiveLawBiz, SupremeToday.ai, IAM Media)",
+      "Section 21(1), Patents Act, 1970 -- deemed abandonment for failure to comply with FER requirements within the prescribed period: standard statutory provision, verify exact wording before publishing",
+      "FER response period of 6 months plus extension(s) under Rule 138 of the Patents Rules, 2003 (as amended 2024) -- sources disagree on whether the maximum extended window is 9 or 12 months; verify against the current Rules before publishing"
+    ],
+    "added_on": "2026-10-24"
   }
 ]

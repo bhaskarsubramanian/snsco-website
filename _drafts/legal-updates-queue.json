@@ -2396,5 +2396,39 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-23"
+  },
+  {
+    "id": "delhi-hc-tetra-technologies-patent-fer-email-abandonment-revived",
+    "practice_area": "Intellectual Property",
+    "case_name": "Tetra Technologies Inc. v. Union of India",
+    "citation": "W.P.(C)-IPD 33/2024, Delhi High Court, order dated October 2026",
+    "court": "Delhi High Court",
+    "date": "2026-10-17",
+    "holding_summary": "The Patent Office had treated Tetra Technologies' national-phase patent application as abandoned under Section 21(1) of the Patents Act, 1970 after it did not respond to a First Examination Report said to have been e-mailed to its agent in October 2021; the applicant said neither it nor its agent ever received that e-mail and learned of the abandonment only in April 2023 while checking the application's status online. Justice Purushaindra Kumar Kaurav held that a bare record of dispatch of a system-generated e-mail, without proof the e-mail was actually delivered, cannot by itself establish abandonment, since abandonment requires a conscious act or manifest intention on the applicant's part. The Court revived the application, directed the Patent Office to re-send the First Examination Report to the applicant's agent at both postal and e-mail addresses within a week, and granted eight weeks thereafter to respond.",
+    "why_it_matters": "Gives applicants a concrete precedent to challenge a deemed-abandonment where the Patent Office cannot prove actual delivery of a system-generated FER e-mail, rather than merely dispatch — useful wherever a lapsed response deadline is blamed on a missed e-mail.",
+    "sources": [
+      "https://www.livelawbiz.com/patent/not-responding-to-system-generated-email-on-patent-objections-cannot-lead-to-abandonment-delhi-hc-555195",
+      "https://supremetoday.ai/delhi-high-court-revives-patent-application-over-missing-electronic-communication-delivery-failures-by-authorities-20261018011",
+      "https://www.iam-media.com/article/delhi-high-court-reaches-landmark-decision-patent-examination-report-deadlines"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-24"
+  },
+  {
+    "id": "bombay-hc-bhadrashree-steel-power-nclt-liquidation-stamp-duty-auction-value",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Bhadrashree Steel and Power Limited v. State of Maharashtra",
+    "citation": "Writ Petition No. 1094 of 2022, Bombay High Court, order uploaded 15 October 2026",
+    "court": "Bombay High Court",
+    "date": "2026-10-15",
+    "holding_summary": "Bhadrashree Steel & Power had bought land and a building for about Rs. 8.03 crore (part of a roughly Rs. 13.01 crore total bid) as the successful bidder in an e-auction held by the liquidator of Harneshwar Agro Products Power and Yeast (India) Ltd. under the IBC; the stamp authorities valued the property far higher (first at Rs. 41.96 crore, later revised to Rs. 35.70 crore) under the Annual Statement of Rates and demanded stamp duty on that basis. A Division Bench of Justices Bharati Dangre and Manjusha Deshpande rejected the State's argument that the NCLT is not a 'civil court' for the purposes of Article 16, Schedule I of the Maharashtra Stamp Act, 1958, holding that an NCLT acting as adjudicating authority under the IBC falls within that term; finding the e-auction (with 16 interested bidders) transparent and free of any sign of deliberate undervaluation, the Court directed that stamp duty be levied on the actual auction value of Rs. 8.03 crore and that the sale documents be registered accordingly.",
+    "why_it_matters": "Gives purchasers at NCLT-supervised liquidation auctions in Maharashtra a clear basis to resist stamp duty demands pegged to Ready Reckoner/ASR valuations where the auction itself was transparent and competitive, rather than the (often much higher) government guidance value.",
+    "sources": [
+      "https://www.livelawbiz.com/ibc/high-court/stamp-duty-on-nclt-liquidated-property-can-be-based-on-auction-price-not-asr-rates-bombay-high-court-555143",
+      "https://foxmandal.in/News/ibc-liquidation-sale-certificates-not-liable-to-stamp-duty-unless-used-otherwise-bombay-hc/",
+      "https://www.livelawbiz.com/pdf_upload/2026/10/17/bhadrashree--707057.pdf"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-24"
   }
 ]
