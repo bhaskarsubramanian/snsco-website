@@ -172,5 +172,41 @@
       "https://supremetoday.ai/supreme-court-stays-allahabad-hc-order-quashing-nhais-rs940-crore-contract-termination-with-tata-projects-20260831077"
     ],
     "note": "Independently re-verified via fresh searches rather than the draft's own sources: NHAI Policy Circular 11.82/2026 (19 Jan 2026, Rs 10 crore threshold, retrospective, pending-arbitration carve-out); Kurukshetra Expressway (2026:DHC:5961, Rs 911.13cr award, Rs 650cr Article 48.1 ceiling, Rs 1,045.5cr disaggregated TPC, 28 Sept 2026 Division Bench affirmance); Somdatt Builders v NHAI (2025 INSC 113, 27 Jan 2025, Section 37 restraint and patent-illegality standard); Tata Projects v Union of India (Allahabad HC quashed Rs 940.68cr termination, July 2026) and the Supreme Court stay (SLP(C) 29512/2026, 31 Aug 2026, Pardiwala/Vinod Chandran JJ); GVV Constructions (2026 INSC 976, 8 Sept 2026, Section 16 competence-competence on excepted matters); DIAL force majeure ruling (2025:DHC:1523, 7 March 2025, Justice Dinesh Kumar Sharma); Patwardhan Infrastructure (2026:BHC-AS:2050, 17 Jan 2026); and Ssangyong v NHAI (2019 SCC OnLine SC 677, unilateral-circular holding). All party roles, figures, dates and holdings matched the draft. Jabalpur Corridor (SC, 29 May 2026) is confirmed as to case, date and the jurisdictional-finality holding; one source gives the award itself as Rs 49 crore with 14.75% interest, which does not contradict the draft's Rs 176cr claim/Rs 277cr counterclaim figures since those appear to describe amounts sought rather than the amount awarded, so no fix made. The draft's own verification_notes already flag the residual uncertainties (GVV SC decision date, DIAL date discrepancy, Jabalpur INSC citation) appropriately rather than overstating certainty."
+  },
+  {
+    "file": "_drafts/articles/10-power-sector-disputes-change-in-law-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.etvbharat.com/en/!bharat/sc-rejects-rajasthan-discoms-plea-upholds-aptel-verdict-in-adani-power-case-enn25052307257",
+      "https://www.verdictum.in/supreme-court/indian-railways-v-west-bengal-state-electricity-distribution-company-limited-2026-insc-464-consumer-under-electricity-act-deemed-licensee-1613640",
+      "https://www.scconline.com/blog/post/2026/05/25/entry-tax-imposed-later-by-state-amounts-to-change-in-law/",
+      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/"
+    ],
+    "note": "Independent searches confirmed the SC Adani Power Rajasthan ruling (23 May 2025, bench, holding), the Sundew Properties and Indian Railways deemed-licensee rulings (correctly resolving conflicting secondary commentary in favour of the non-automatic reading), the APTEL entry tax ruling (Appeal No. 322 of 2021, April 2026, PPA/bid-year facts), the August 2026 Adani Power Tiroda compliance order, and the September 2026 Siwana Solar ruling. All related_pages exist on the live site. Draft is already carefully hedged where sources conflict (e.g. unconfirmed SC citation, unnotified curtailment proposal); no unsupported claims found."
+  },
+  {
+    "file": "_drafts/articles/11-fssai-enforcement-labelling-suspension-recall-appeals-article.json",
+    "verdict": "PASS",
+    "claims_checked": 12,
+    "evidence": [
+      "https://www.verdictum.in/bombay-high-court/hotel-alankar-v-state-of-maharashtra-2026bhc-kol8650-db-fssai-license-continued-suspension-1621830",
+      "https://www.verdictum.in/delhi-high-court/fssai-ban-on-dabur-selling-food-products-with-100-claims-stayed-1619391",
+      "https://www.barandbench.com/news/litigation/delhi-high-court-sets-aside-fssai-order-directing-red-bull-to-drop-energy-drink-label",
+      "https://www.etvbharat.com/en/bharat/fssai-registration-and-licences-renewal-news-enn26031306831"
+    ],
+    "note": "Independently verified Hotel Alankar (69%/97% compliance scores, dates, bench), the Dabur/Britannia/ITC/Red Bull interim orders (dates, judge, procedural basis), the 2026 perpetual-validity reform and exact turnover thresholds (12 lakh to 1.5 crore; 50 crore State/Central split), and the Section 70/71(6) limitation periods and forum-inconsistency (Bombay civil side vs Chhattisgarh criminal vs MP miscellaneous second appeal). All related_pages exist on the live site. No factual errors found; draft already hedges the genuinely unsettled points (improvement-notice-as-precondition question, claims merits, Tribunal availability)."
+  },
+  {
+    "file": "_drafts/articles/12-gst-litigation-after-gstat-appeals-pre-deposit-article.json",
+    "verdict": "PASS",
+    "claims_checked": 11,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/union-of-india-v-sunil-biyani-2026-insc-849-order-sec69-cgst-act-anticipatory-bail-accused-arrest-1619773",
+      "https://www.barandbench.com/news/litigation/supreme-court-refuses-to-revive-363-crore-gst-demand-against-vodafone-idea",
+      "https://www.verdictum.in/delhi-high-court/rohit-garg-v-union-of-india-2026dhc7502-db-pre-deposit-amendment-effective-october-1621559",
+      "https://www.verdictum.in/delhi-high-court/gaurav-jain-anr-v-joint-commissioner-appeals-ii-cgst-delhi-zone-2026dhc6124-db-mandatory-10-pre-deposit-appeal-scn-stage-1618981"
+    ],
+    "note": "Independently verified GSTAT operational timeline, the Bhandari Scrap Traders SC ruling upholding Section 16(2)(c) (24 July 2026) against the Tripura Sahil Enterprises read-down, the Gaurav Jain/Rohit Garg vested-right-of-appeal line (wording matches almost verbatim, 629-entity batch confirmed as more than six hundred), the Sunil Biyani pre-arrest communication ruling, and the Vodafone Idea non-existent-entity ruling. All related_pages exist on the live site. Draft already flags its own residual date uncertainties (Sunil Biyani decision date, GSTAT first-hearing date) rather than asserting a single unverified figure; no unsupported or incorrect claims found."
   }
 ]
