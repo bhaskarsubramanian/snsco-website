@@ -318,5 +318,24 @@
       "https://www.barandbench.com/amp/story/view-point/time-for-reciprocity-why-india-should-recognise-uae-for-enforcement-of-arbitral-awards"
     ],
     "note": "Independently re-verified the 2025-2026 developments this piece leans on. Nagaraj V. Mylandla v. PI Opportunities Fund-I (2026 INSC 298, decided ~25 Mar 2026) confirmed: Singapore-seated SIAC award upheld by the Singapore High Court, promoters tried to reargue the same issues before the Madras High Court enforcement proceeding and on appeal to the Supreme Court, which recognised transnational issue estoppel and declined to let public policy become a vehicle to relitigate merits the seat court already decided - matches the draft closely. Aroha Labs v. Prem Dharmani (Karnataka HC, AP.IM No. 4 of 2026, foreign seat alone does not oust Section 9 jurisdiction, partial restraint granted, return of company property declined at the interim stage) confirmed via LiveLawBiz, Trilegal and SupremeToday. Osterreichischer Lloyd v. Victore Ships (Bombay HC, Justice Somasekhar Sundaresan, 10 Mar 2026, Commercial Arbitration Petition No. 398 of 2025, Section 9 relief survives alongside a pending Part II petition until the award becomes a decree, execution-stage question left open) confirmed via Verdictum, JSA and Cyril Amarchand commentary, matching the draft exactly including the open question it flags. The In Re Interplay stamp-duty reference is correctly stated in the body text as a seven-judge, unanimous bench overruling NN Global (confirmed via SCC Observer) - the drafts own verification_notes flags an unresolved 5-judge-vs-7-judge discrepancy internally, but that hedge never reaches the reader-facing text, which already gets this right, so no fix is needed. The UAE Section 44(b) gazette gap is also confirmed current as of 2026: the UAE was notified under Section 44A CPC for court judgments in 2020 but sources through 2026 still describe it as unnotified for Section 44 arbitral-award purposes specifically, exactly the distinction the draft draws. The foundational authorities (Fuerst Day Lawson, Vedanta, Renusagar, Shri Lal Mahal, Vijay Karia, NAFED, Gemini Bay, BALCO, Raffles Design) are long-settled and correctly summarised. All 12 related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language found. No fixes needed."
+  },
+  {
+    "file": "_drafts/articles/19-joint-ventures-acquisitions-contractual-protections-regulatory-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/bombay-high-courts-rules-on-arbitrability-of-oppression-and-mis-management-issues-5998",
+      "https://www.scconline.com/blog/post/2026/05/06/fema-ndi-amendment-allows-100-percentage-fdi-insurance-sector/",
+      "https://www.etvbharat.com/en/bharat/sc-sets-aside-nclat-order-upholding-cci-rs-202-crore-penalty-on-amazon-enn26052702974",
+      "https://www.barandbench.com/law-firms/view-point/rbis-new-acquisition-finance-framework-a-regulatory-shift-towards-bank-financed-acquisitions-in-india"
+    ],
+    "note": "Core case law (Rangaraj, Messer Holdings, World Phone, Rakesh Malhotra, Nirma Industries) and the regulatory claims (March 2024 and 10 September 2024 CCI thresholds, RBI acquisition finance framework effective 1 April 2026, insurance FDI raised to 100% with LIC retained at 20% via the 2 May 2026 Second Amendment Rules, Corporate Laws (Amendment) Bill 2026 referred to a JPC, SEBI's 2026 Uni Abex Alloy and S Chand family-trust exemptions) all check out against independent sources. One defect: the related_pages entry /articles/enforcing-foreign-arbitral-awards-india-interim-relief-article.html is not live (that piece is still an unpublished draft at _drafts/articles/18-...), so the link is currently broken; it is not in origin/main:assets/search-index.json. Also, the Amazon-Future Coupons Supreme Court outcome (27 May 2026) that the draft itself flags as single-source and unverified is now corroborated by multiple independent reports (ETV Bharat, Moneylife, Bar and Bench), so the hedge in the text is unnecessarily cautious but not wrong.",
+    "fixes": [
+      {
+        "find": "    \"/legal-news/persistent-systems-nagarro-acquisition.html\",\n    \"/articles/enforcing-foreign-arbitral-awards-india-interim-relief-article.html\"",
+        "replace": "    \"/legal-news/persistent-systems-nagarro-acquisition.html\"",
+        "reason": "Linked article is not yet published (still a draft); the path does not exist on the live site/search index, so the related_pages link is broken."
+      }
+    ]
   }
 ]
