@@ -258,5 +258,51 @@
         "reason": "This site's own independently verified news coverage of the same Rukshmani Syntex dispute (cross-checked across livelawbiz.com and taxguru.in) confirms the NCLT status quo order is dated 27 March 2026, not 5 March 2026; the draft's own verification_notes field flags 27 March as a possible date without correcting the body text."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/16-redevelopment-joint-development-agreement-disputes-article.json",
+    "verdict": "FIX",
+    "claims_checked": 20,
+    "evidence": [
+      "https://ksandk.com/newsletter/co-promoters-liability-real-estate-projects/",
+      "https://indiankanoon.org/doc/104376017/",
+      "https://www.verdictum.in/app-lite/court-updates/supreme-court/a-a-estates-private-limited-v-kher-nagar-sukhsadan-co-operative-housing-society-ltd-2025-insc-1366-slum-dwellers-1599541",
+      "https://www.scconline.com/blog/post/2026/01/31/bombay-hc-tenants-right-to-timely-redevelopment/",
+      "https://www.freepressjournal.in/mumbai/consumer-connect-maharashtras-new-redevelopment-rules-allow-online-sgbms-registrar-noc-no-longer-required",
+      "https://taxguru.in/corporate-law/rera-landowners-co-promoters-aggrieved-persons.html",
+      "https://www.livelawbiz.com/rera/reat/mp-reat-rera-act-inapplicable-to-disputes-between-co-promoters-under-joint-venture-519174"
+    ],
+    "note": "Independently re-verified: Wadhwa Group Housing v. Vijay Choksi (26 Feb 2024, Bombay HC, Justice Marne) confirmed via 5+ independent sources (Indian Kanoon, taxguru, barandbench, ksandk, freepressjournal, thelawsuits.in) - joint liability regardless of which promoter received the money is correctly stated, appeal dismissed, SLP dismissal 8 Apr 2024 context plausible. Bhopal Development Authority v. Roop Laxmi Singh (MP REAT, 8 Jan 2026) and Mohammad Mustaq v. Sonali Housing Projects (Telangana REAT, 24 Oct 2025) both confirmed via independent sources, holding and facts match draft. A.A. Estates v. Kher Nagar Sukhsadan confirmed as 2025 INSC 1366, decided 28 Nov 2025, SLP (C) No. 10758/2025 is the correct citation (the alternate Appeal (Civil) 14410/2025 flagged in the drafts own notes is not supported). ISON Builders v. Om Sai Ram CHS (23 Jan 2026, Justice Marne) confirmed via SCC Online - termination upheld, Section 9 relief refused, tenants right to timely redevelopment prevails over developer commercial interests; note this is the SAME ruling the draft also cites separately in its tenants-rights section and references list as a generic Jan 2026 ruling, so the two citations are not independently sourced precedents as the drafting implies, though nothing is factually wrong. NCDRC Mantra Lifestyle Homes refund (9 Oct 2025, 9% interest) confirmed via LiveLaw and thelawsuits.in. Satish Inamdar and Nissa Hoosain Nensey non-signatory arbitration holdings substantially confirmed. Main problem: the draft materially undersells 2026 changes to the Maharashtra redevelopment consent framework, describing a further 2026 order as largely restating the 2019 GR, when in fact Maharashtra inserted a new Chapter XI-B (Rules 106C-1 to 106C-14) into the Cooperative Societies Rules, 1961 (notified 18 June 2026, effective 30 June 2026) that converts the GR guidance into statutory rules, permits video-conference attendance at the SGBM, and (per a Registrar circular dated 4 November 2025) removes the requirement for a Registrar NOC before developer selection - a substantive procedural change the as-on-date (22 Oct 2026) article should reflect. Also one related_pages path is wrong directory (/blog/ instead of /articles/) and does not resolve against the live search index.",
+    "fixes": [
+      {
+        "find": "with a further order reported in 2026 that largely restates the 2019 position",
+        "replace": ". In 2026 the state went further than a mere restatement: a new Chapter XI-B (Rules 106C-1 to 106C-14) was inserted into the Maharashtra Co-operative Societies Rules, 1961, notified 18 June 2026 and effective 30 June 2026, converting the earlier GR guidance into statutory rules, permitting members to attend the special general body meeting by video conference, and, following a Registrar circular dated 4 November 2025, removing the requirement for a Registrar no-objection certificate before a developer is selected",
+        "reason": "The 2026 change was a substantive statutory codification with new VC-attendance and no-NOC provisions, not a mere restatement of the 2019 GR; confirmed via Free Press Journal, ksandk and societybee.in coverage of Chapter XI-B (notified 18 June 2026, effective 30 June 2026)."
+      },
+      {
+        "find": "/blog/rera-ten-years-india-homebuyer-remedies-article.html",
+        "replace": "/articles/rera-ten-years-india-homebuyer-remedies-article.html",
+        "reason": "Wrong directory; the live search index lists this page under /articles/, not /blog/, so the related_pages link is currently broken."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/17-trademark-enforcement-passing-off-well-known-marks-article.json",
+    "verdict": "PASS",
+    "claims_checked": 22,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/ghostbuster-row-trademark-need-not-be-formally-declared-well-known-to-get-cross-class-protection-says-delhi-hc",
+      "https://ssrana.in/articles/zara-v-zora-delhi-high-court-holds-prior-well-known-declaration-not-mandatory-to-invoke-section-112/",
+      "https://www.livelaw.in/supreme-court/can-civil-judge-notified-as-commercial-court-hear-trademark-infringement-suits-supreme-court-refers-to-larger-bench-551142",
+      "https://conventuslaw.com/report/india-trademark-infringement-suits-cannot-be-tried-by-courts-below-district-court-kerala-high-court-decides/",
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-790-shabu-kn-achary-v-dharampal-premchand-limited-545420",
+      "https://www.scconline.com/blog/post/2026/04/18/marq-v-marc-trademark-delhi-high-court-injunction-against-flipkart/",
+      "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-interim-court-relief-in-pantocid-trademark-dispute-174326",
+      "https://www.barandbench.com/news/litigation/using-visually-similar-vernacular-versions-of-registered-trademark-is-infringement-madras-high-court",
+      "https://www.businesstoday.in/technology/news/story/google-moves-delhi-hc-against-trademark-infringement-ruling-in-hindware-adwords-case-542291-2026-07-10",
+      "https://www.scconline.com/blog/post/2026/05/13/delhi-hc-toyotas-alphard-declared-well-known-trade-mark/",
+      "https://storyboard18.com/brand-marketing/delhi-high-court-dismisses-parle-appeal-in-20-20-trademark-dispute-with-avon-agro-91970.htm"
+    ],
+    "note": "Independently re-verified every 2026 ruling cited: Columbia Pictures/Ghostbusters (Rule 124 declaration not a precondition to Section 11(2) cross-class protection, matter remitted to Registrar) and Zara v. Zora (ZORA Class 24 registration cancelled, anti-dissection applied) both confirmed via multiple independent sources (barandbench, ssrana, scconline). I.S.D.S. v. Khemka Food Products (21 Sep 2026, SC refers Kandla Export/Jaycee Housing conflict on Section 134 vs Commercial Courts notifications to larger bench) and Cutis International (Kerala HC, 8 Sep 2026, District Court is the floor regardless of pecuniary value) both confirmed. Shabu KN Achary v. Dharampal Premchand (2026 INSC 819, decided 7 Aug 2026, bench of Pardiwala and Vinod Chandran JJ, defendant entitled to cross-examine on brand-use duration raised by the plaintiffs own affidavit) confirmed via LiveLaw, Verdictum and Conventus Law. Flipkart MarQ v. Marc (10 Apr 2026, house mark does not cure confusion), Sun Pharma v. Finecure Pantopacid (Division Bench reverses single judge, July 2026), the Madras HC Tamil Globe mark ruling against Vikas Mandoth (7 Sep 2026, vernacular transliteration can infringe), the Google/Hindware keyword-advertising ruling (Justice Mini Pushkarna, Rs 30 lakh joint damages, Google appeal pending and undecided as the draft states) the Toyota ALPHARD Division Bench reversal (4 May 2026, LPA 176/2023, well-known status via grey-market imports and press coverage) and the Avon Agro v. Parle 20-20 priority dispute (earlier proposed-to-be-use filing date defeats later commercial use) were all independently confirmed and match the draft facts, parties, dates and holdings closely. The long-settled foundational authorities (Wander v. Antox, Midas Hygiene, N.R. Dongre v. Whirlpool, Toyota v. Prius, Bengal Waterproof, Yamini Manohar) are correctly and conventionally stated. All 16 related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes, result claims, or marketing language found. The drafts own verification_notes already candidly flag the handful of points (exact Hindware/Columbia Pictures dates varying slightly across sources, DHC IP exemption status after Yamini Manohar) that could not be pinned down further, which matches what independent searches also found - no fixes needed."
   }
 ]
