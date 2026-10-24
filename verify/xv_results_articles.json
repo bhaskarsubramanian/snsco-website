@@ -111,5 +111,54 @@
       "https://rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=10196"
     ],
     "note": "Independently re-verified via fresh searches. Repealing and Amending Act, 2025 omitting Section 213 ISA 1925 confirmed (Presidential assent 20 Dec 2025, Gazette publication 21 Dec 2025, non-retrospective effect on pending probate petitions); the draft's list of affected communities (Hindu, Parsi, Sikh, Jain) matches several law-firm sources (SSRana, Free Press Journal) even though the bare statutory text and some other commentary also include Buddhists, so this is sources disagreeing rather than a draft error. Vineeta Sharma v Rakesh Sharma, (2020) 9 SCC 1, holding (daughter is a coparcener by birth regardless of father's survival, conditional on the coparcenary existing on 9 Sept 2005) confirmed via the Supreme Court's own judgment PDF and Khaitan & Co./Bar & Bench commentary. Ramesh Nivrutti Bhagwat v Surendra Manohar Parakhe confirmed as a real Supreme Court case on exactly the facts described (ancillary Indian letters of administration granted in 1994 notwithstanding an earlier California probate; revocation petition dismissed as time-barred under Article 137 Limitation Act); the AIR 2019 SC 4948 parallel citation itself could not be independently cross-checked (other sources give 2019 INSC 1122 / [2019] 13 SCR 658) but the case's identity and holding are correct. FEMA's asymmetry on agricultural land/plantation/farmhouse (inheritance from a resident permitted without RBI approval; purchase barred; gift to an NRI/OCI of the same categories excluded under the RBI Master Direction's own gift clause) confirmed directly against the RBI Master Direction text. Estate Duty Act, 1953 abolition effective 16 March 1985 confirmed (parliamentary record), consistent with the draft's 'abolished...1985' statement. India's accession to the Hague Apostille Convention entering into force 14 July 2005 confirmed via HCCH's own records. Section 49(1)/56(2)(x) Income-tax Act mechanism for inherited property, and the ongoing, genuinely unsettled renumbering under the Income-tax Act, 2025 (Section 195 becomes Section 393(2) from 1 April 2026; form and certificate mapping inconsistent across commentary) confirmed, matching the draft's own appropriately hedged treatment in its verification_notes. Succession certificate scope under Part X (limited to debts/securities, excludes immovable property) confirmed via independent commentary on Sections 370 and 381. All thirteen related_pages paths confirmed present in origin/main:assets/search-index.json. No client anecdotes, result claims, or marketing language found (BCI Rule 36 compliant); author voice uses only generic professional-experience framing ('matters I see'). No proposition in the article rests on an uncorroborated source, and the draft's own verification_notes already flag the handful of genuinely unsettled points (exact Section 213 commencement date, specific country list for FEMA approval, new Income-tax Act 2025 form numbers) as open rather than resolving them by invention."
+  },
+  {
+    "file": "_drafts/articles/08-four-labour-codes-operation-article.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://prsindia.org/billtrack/the-industrial-relations-code-2020",
+      "https://www.livelaw.in/amp/high-court/karnataka-high-court/karnataka-high-court-writ-trade-union-restrain-strike-limited-reliefs-industrial-tribunal-544109",
+      "https://www.scobserver.in/cases/uttar-pradesh-jai-bir-singh-definition-of-industry-case-background/",
+      "https://www.mondaq.com/epf-compliance-in-the-gig-economy-is-indias-new-social-security-framework-enough/1831806"
+    ],
+    "note": "Commencement notifications/dates, floor wage non-notification, 300-worker standing-orders figure, Section 114 gig contribution band and non-notification, and State of U.P. v. Jai Bir Singh (2026 INSC 897, nine-judge bench, correctly hedged on vote count) all confirmed. Two real errors found: (1) the article twice claims a state government may lower the Section 28 standing-orders threshold below 300 (key_points, body text, and an FAQ) -- PRS's bill-tracking commentary confirms this flexibility existed only in the 2019 Bill and was dropped before the 2020 Act was passed, so no state has that power today; (2) the Chapter X lay-off/retrenchment/closure section is internally self-contradictory, correctly saying a state may notify a higher threshold in one paragraph but then saying a lower threshold in the next -- PRS and the PIB release confirm the 2020 Code allows only an increase, never a decrease. Also fixed: the Bosch Automotive Electronics Karnataka HC ruling (cited twice) was decided 24 July 2026, not August 2026 as stated; it was only reported more widely in early August.",
+    "fixes": [
+      {
+        "find": "rose from 100 to 300 workers, a change state governments may lower but mostly have not.",
+        "replace": "rose from 100 to 300 workers; state governments may raise the lay-off, retrenchment and closure permission threshold further, but neither it nor the standing-orders threshold can be lowered, and most states have not changed either one.",
+        "reason": "The 2020 Code allows states only to raise the Chapter X permission threshold, never to lower either threshold; the standing-orders threshold has no state-variation power at all."
+      },
+      {
+        "find": "while leaving a state government free to prescribe a lower figure for establishments within its territory.",
+        "replace": "and the 2019 Bill's provision letting the government extend the standing-orders requirement to smaller establishments by notification was dropped before enactment, so no state has the power to lower this threshold today.",
+        "reason": "PRS's bill-tracking commentary confirms this power existed in the 2019 Bill but was removed from the enacted 2020 Code."
+      },
+      {
+        "find": ", unless its state has chosen to keep the lower bar.",
+        "replace": ".",
+        "reason": "No state has a power to keep a lower standing-orders threshold under the enacted Code."
+      },
+      {
+        "find": "A state that has notified a lower threshold changes the analysis entirely, and because",
+        "replace": "A state that has notified a higher threshold changes the analysis, since it moves more establishments into the notice-only category, and because",
+        "reason": "Contradicts the earlier, correct statement in the same section that states may only raise this threshold, not lower it."
+      },
+      {
+        "find": "The Karnataka High Court held in August 2026, in a dispute between Bosch Automotive Electronics and its workers' union, that a writ petition",
+        "replace": "The Karnataka High Court held on 24 July 2026, reported more widely in early August, in a dispute between Bosch Automotive Electronics and its workers' union, that a writ petition",
+        "reason": "LiveLaw reports the ruling was decided 24 July 2026, not in August."
+      },
+      {
+        "find": "Only if your state has kept a lower threshold than the national default of 300 workers, which the Industrial Relations Code allows a state to prescribe. If your state follows the national threshold, an establishment of 150 workers is no longer required to certify standing orders, though you may still want a model or voluntary framework in place.",
+        "replace": "No. Section 28 of the Industrial Relations Code fixes the standing-orders threshold at 300 workers nationally, and unlike an earlier bill version, the enacted Code gives no state the power to lower that figure. An establishment of 150 workers is accordingly no longer required to certify standing orders, though you may still want a model or voluntary framework in place.",
+        "reason": "Corrects the same state-flexibility error in the FAQ answer."
+      },
+      {
+        "find": "The Karnataka High Court held in August 2026 that a writ petition against a trade union to restrain a proposed strike is generally not maintainable",
+        "replace": "The Karnataka High Court held on 24 July 2026 (widely reported in early August) that a writ petition against a trade union to restrain a proposed strike is generally not maintainable",
+        "reason": "Date correction matching the body-text fix."
+      }
+    ]
   }
 ]
