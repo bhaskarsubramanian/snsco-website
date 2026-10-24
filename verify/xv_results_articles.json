@@ -208,5 +208,24 @@
       "https://www.verdictum.in/delhi-high-court/gaurav-jain-anr-v-joint-commissioner-appeals-ii-cgst-delhi-zone-2026dhc6124-db-mandatory-10-pre-deposit-appeal-scn-stage-1618981"
     ],
     "note": "Independently verified GSTAT operational timeline, the Bhandari Scrap Traders SC ruling upholding Section 16(2)(c) (24 July 2026) against the Tripura Sahil Enterprises read-down, the Gaurav Jain/Rohit Garg vested-right-of-appeal line (wording matches almost verbatim, 629-entity batch confirmed as more than six hundred), the Sunil Biyani pre-arrest communication ruling, and the Vodafone Idea non-existent-entity ruling. All related_pages exist on the live site. Draft already flags its own residual date uncertainties (Sunil Biyani decision date, GSTAT first-hearing date) rather than asserting a single unverified figure; no unsupported or incorrect claims found."
+  },
+  {
+    "file": "_drafts/articles/13-consumer-protection-ecommerce-ccpa-dark-patterns-platform-liability-article.json",
+    "verdict": "FIX",
+    "claims_checked": 20,
+    "evidence": [
+      "https://www.scconline.com/blog/post/2026/08/03/ncdrc-held-written-statement-filed-within-45-days-is-maintainable/",
+      "https://api.sci.gov.in/supremecourt/2016/6150/6150_2016_2_107_71816_Judgement_04-Jun-2026.pdf",
+      "https://www.livelaw.in/amp/high-court/andhra-pradesh-high-court/advocates-deficiency-in-service-consumer-protection-act-540787",
+      "https://www.jsalaw.com/newsletters-and-updates/ccpa-issues-guidelines-for-prevention-and-regulation-of-dark-patterns-2023/"
+    ],
+    "note": "Confirmed CCPA statutory structure (Ss.18-22, 2(47), 2(28), 21, 89), the 13 dark patterns in the 2023 guidelines, the E-Commerce Amendment Rules 2026 (notified 9 Sept 2026, effective 1 Jan 2027), the PhysicsWallah/McAfee, Dial4Trade, Weblink and Xboom CCPA orders, T.K.A. Padmanabhan v Abhiyan Cooperative (4 June 2026), Imperia Structures v Anil Patni, and the Andhra Pradesh HC advocates ruling, and all related_pages resolve on the live site. One significant error: the draft frames the 2026 NCDRC written-statement ruling as 'a ruling against HDFC Bank', but the actual order (HDFC Bank Ltd. v Thomas Alexander, 2026 SCC OnLine NCDRC 130, confirmed against the site's own already-verified live article at that slug) allowed HDFC Bank's revision petition and held its written statement was filed within the 45-day window, reversing the State Commission that had struck it off -- i.e. the ruling went in the bank's favour, not against it, though the 45-day-is-a-firm-ceiling principle the draft draws from it is correct.",
+    "fixes": [
+      {
+        "find": "The National Commission held, in a 2026 ruling against HDFC Bank, that the forty-five day period to file a written statement under the Act (thirty days extendable by a further fifteen) is a firm ceiling, not a guideline that a forum can relax by its own discretion, reinforcing a line of Supreme Court authority on the same point reaching back to 2020.",
+        "replace": "The National Commission held, in a 2026 ruling in HDFC Bank's favour, that the forty-five day period to file a written statement under the Act (thirty days extendable by a further fifteen) is a firm, absolute ceiling that a forum cannot shorten through its own stricter view of promptness, setting aside a State Commission order that had struck off the bank's written statement even though it had been filed within that window, and reinforcing a line of Supreme Court authority on the same point reaching back to 2020.",
+        "reason": "The NCDRC ruling (HDFC Bank Ltd. v Thomas Alexander, 2026 SCC OnLine NCDRC 130) allowed HDFC Bank's own revision petition and went in the bank's favour, not against it; the draft had the direction of the holding backwards."
+      }
+    ]
   }
 ]
