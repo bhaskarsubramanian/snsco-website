@@ -2240,5 +2240,22 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-24"
+  },
+  {
+    "id": "nclat-phoenix-arc-sangli-tollways-section-33-1a-liquidation-set-aside",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Phoenix ARC Ltd. v. Rajesh Jhunjhunwala (Erstwhile RP of Supreme Best Value Kolhapur (Shiroli) Sangli Tollways Pvt. Ltd.)",
+    "citation": "Company Appeal (AT) (Insolvency) No. 1745 of 2026, NCLAT Principal Bench",
+    "court": "NCLAT",
+    "date": "2026-10-06",
+    "holding_summary": "The CoC of Supreme Best Value Kolhapur (Shiroli) Sangli Tollways unanimously rejected liquidation and sought up to 120 additional days to revive the CIRP under the newly inserted Section 33(1A) of the IBC, citing the company's roughly Rs 318.94 crore arbitral award against the Maharashtra PWD (under challenge before the Bombay High Court) as a realistic recovery route. The NCLT Mumbai Bench nonetheless ordered liquidation on 23 July 2026, reasoning that the liquidator could pursue the arbitral claim and flagging concerns about the company's roughly Rs 397 crore in carried-forward tax losses. The NCLAT (Justice Mohammad Faiz Alam Khan and Member Naresh Salecha) set the liquidation order aside, holding that Section 33(1A) discretion must be exercised judicially — a CoC-approved restoration request is not automatically binding on the Adjudicating Authority, but it also cannot be rejected merely because the Authority would prefer liquidation, especially where it never required the resolution professional or CoC to address the tax-loss concern it relied on. The matter was remitted to the NCLT, with parties directed to appear on 26 October 2026.",
+    "why_it_matters": "One of the first appellate rulings to interpret the IBC's new Section 33(1A) restoration window, establishing that NCLTs cannot order liquidation over a unanimous CoC revival request without engaging with the specific recovery prospects the CoC has identified, and without first testing any factual concern (such as alleged tax-loss misuse) that no party has actually raised.",
+    "sources": [
+      "https://ibclaw.in/nclat-sets-aside-liquidation-clarifies-section-331a-cirp-restoration-discretion/",
+      "https://www.livelawbiz.com/ibc/nclt-must-assess-prospects-of-recovering-arbitral-claim-before-ordering-liquidation-nclat-555037",
+      "https://ibbi.gov.in/claims/order-process/U31900MH2004PTC147393"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-25"
   }
 ]

@@ -3190,5 +3190,27 @@
       "FER response period of 6 months plus extension(s) under Rule 138 of the Patents Rules, 2003 (as amended 2024) -- sources disagree on whether the maximum extended window is 9 or 12 months; verify against the current Rules before publishing"
     ],
     "added_on": "2026-10-24"
+  },
+  {
+    "id": "competition-law-trade-association-office-bearer-liability-guide",
+    "topic_title": "When Can a Trade Association and Its Office-Bearers Be Penalised Under Competition Law?",
+    "angle": "A practical guide for trade bodies, industry associations and their elected office-bearers on how Sections 3(3)(b) and 48 of the Competition Act, 2002 can make an association — and the individuals who ran it at the relevant time — personally liable for coordinating boycotts, price understandings or supply restrictions among members, using the CCI's 2026 action against agro-input dealer associations as the anchor example.",
+    "key_points": [
+      "Section 3(3)(b) catches horizontal arrangements among competing members — including informal association resolutions or circulars — that limit or control production, supply, markets, technical development, investment or the provision of services, without needing a signed contract.",
+      "An association 'deciding' something at a general body meeting or through office-bearer communication can itself be treated as the anti-competitive agreement; CCI does not need to prove a formal written cartel pact.",
+      "Section 48 extends liability to individuals who were in charge of, and responsible for, the association's conduct of business at the time of the contravention — typically office-bearers such as president, general secretary or named spokespersons.",
+      "A named office-bearer has a statutory due-diligence defence: liability does not attach if the contravention occurred without their knowledge, or if they exercised all diligence to prevent it — this must be affirmatively pleaded and evidenced.",
+      "Remedies under Section 27 go beyond fines: CCI can issue cease-and-desist directions (27(a)) and, increasingly, non-monetary remedies such as mandated competition-compliance training for the association and its members (27(g)).",
+      "Penalties on associations and individual office-bearers are often modest in absolute terms, but the compliance burden, reputational consequences, and precedent value can be significant.",
+      "Practical compliance steps for associations: avoid discussing competitively sensitive topics (pricing, boycotts of specific channels or counterparties, output limits) at meetings; keep minutes that record antitrust caution; limit what office-bearers can commit the association to; adopt a written competition-compliance policy before a CCI reference ever arises."
+    ],
+    "facts_to_verify_or_confirmed": [
+      "Section 3(3)(b) scope confirmed via case commentary and the CCI's AIDA/AIWA order (Case No. 06 of 2023, 21 August 2026) — covers agreements limiting/controlling production, supply, markets, technical development, investment or provision of services",
+      "Section 48 personal liability of office-bearers and the due-diligence defence confirmed via commentary on the Kerala Film Exhibitors Federation case and a Maharashtra liquor retail association cartel case",
+      "Section 27(a) cease-and-desist and Section 27(g) non-monetary directions (e.g., compliance training) confirmed via coverage of the CCI's AIDA/AIWA order",
+      "Exact penalty figures in the AIDA/AIWA order vary slightly by news source (ranging roughly Rs 8,600 to under Rs 5 lakh per party) — cite as approximate pending direct confirmation against the CCI's published order text",
+      "Confirm before publication whether any later Competition Act amendment has renumbered or modified Sections 3(3)(b) or 48 from the citations used here"
+    ],
+    "added_on": "2026-10-25"
   }
 ]

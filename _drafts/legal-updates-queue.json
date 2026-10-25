@@ -2430,5 +2430,56 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-24"
+  },
+  {
+    "id": "cci-aida-aiwa-agro-input-dealers-online-boycott-cartelisation",
+    "practice_area": "Agricultural Industries",
+    "case_name": "In Re: Anti-Competitive Conduct by Agro Input Dealers Association and Agro Input Welfare Association",
+    "citation": "Case No. 06 of 2023, CCI order dated 21 August 2026",
+    "court": "Competition Commission of India",
+    "date": "2026-08-21",
+    "holding_summary": "CCI found the Agro Input Dealers Association (AIDA), the Agro Input Welfare Association (AIWA), and several named office-bearers liable under Section 3(3)(b) read with Section 3(1) of the Competition Act, 2002 for orchestrating a boycott against the online sale of agri-input products, with AIDA acting as the principal platform through which the boycott was initiated and AIWA substantially implementing it in Gujarat. The individual office-bearers were separately held liable under Section 48 for the associations' contravention. The Commission issued cease-and-desist directions under Section 27(a), imposed monetary penalties ranging from roughly Rs 8,600 to about Rs 5 lakh across the different parties, and under Section 27(g) directed them to organise a competition-law compliance training programme.",
+    "why_it_matters": "Confirms that trade and dealer associations — and the office-bearers who run them — face direct CCI liability under Sections 3(3)(b) and 48 when they coordinate boycotts of online retail channels, a recurring friction point as e-commerce expands into regulated input markets like agriculture.",
+    "sources": [
+      "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-penalises-agro-input-associations-four-individuals-cartelisation-competition-commission-act-547167",
+      "https://www.mondaq.com/india/cartels-monopolies/1848612/competition-monthly-september-2026-edition",
+      "https://cci.gov.in/antitrust/press-release/details/685"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-25"
+  },
+  {
+    "id": "sc-pateliya-gujarat-daily-wager-retirement-increment",
+    "practice_area": "Employment & Labour",
+    "case_name": "Chhaganbhai Kohyabhai Pateliya & Ors. v. State of Gujarat & Ors.",
+    "citation": "2026 LiveLaw (SC) 1020; 2026 INSC 1088; SLP (C) No. 26129 of 2025",
+    "court": "Supreme Court of India",
+    "date": "2026-10-06",
+    "holding_summary": "Gujarat Irrigation Department workers initially engaged as daily wagers, who had converted to permanent status after ten years of service under a 1988 state government resolution, retired on 30 June and were denied the annual increment that fell due the next day. A Single Judge upheld their claim relying on the Court's earlier ruling in KPTCL v. C.P. Mundinamani, but a Division Bench reversed. The Supreme Court (Justices Sanjay Kumar and Sanjeev Sachdeva) restored the Single Judge's view, holding that the workers' original daily-wage status could not be used to deny them the notional retirement-day increment once they had been treated as permanent employees, and directed the authorities to calculate and release the resulting pension and retiral benefits within 30 days.",
+    "why_it_matters": "Extends the 'notional increment' protection recognised in Mundinamani to employees who started out as daily wagers, confirming that an employee's origin as a daily-wage worker cannot be used retrospectively to strip away retirement-day benefits once permanency has been conferred.",
+    "sources": [
+      "https://www.livelaw.in/supreme-court/original-status-as-daily-wager-cannot-be-ground-to-deny-annual-increment-after-regularisation-supreme-court-553358",
+      "https://lawchakra.in/supreme-court/annual-increment-after-regularisation/",
+      "https://courtbook.in/posts/supreme-court-grants-retirement-increment-benefit-to-gujarat-daily-wage-workers-orders-arrears-payment-within-30-days"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-25"
+  },
+  {
+    "id": "bombay-hc-sun-pharma-nectar-life-care-kashmik-histac-omesec-settlement",
+    "practice_area": "Intellectual Property",
+    "case_name": "Sun Pharmaceutical Industries Ltd. v. Nectar Life Care & Anr.",
+    "citation": "Commercial IP Suit (L) No. 28038 of 2025",
+    "court": "Bombay High Court",
+    "date": "2026-10-08",
+    "holding_summary": "Sun Pharma sued Ahmedabad-based Nectar Life Care and its sister concern Kashmik Formulations, alleging that drug names including L-HISTACT-M, HISTACT, OMENEC and SNIZACT were deceptively similar to its registered marks HISTAC and OMESEC (both Class 5). Justice Madhav J. Jamdar recorded a consent settlement under which the defendants agreed to permanently stop manufacturing, selling or dealing in seven identified product names, withdraw Nectar's pending trademark application for SNIZACT within seven days, acknowledge Sun Pharma's rights in HISTAC and OMESEC without challenging their validity, destroy remaining stock bearing the impugned marks, and pay litigation costs.",
+    "why_it_matters": "Illustrates that pharmaceutical trademark disputes over phonetically or visually similar drug names are frequently resolved through detailed consent terms rather than contested trials, letting originator companies secure binding commitments — including withdrawal of pending applications — without a final adjudication on infringement.",
+    "sources": [
+      "https://www.livelawbiz.com/amp/trademark/ahmedabad-entities-agree-before-bombay-high-court-to-stop-using-7-drug-names-in-sun-pharma-suit-554068",
+      "https://medicaldialogues.in/news/industry/pharma/sun-pharmas-histac-omesec-trademark-settlement-approved-by-bombay-hc-181312",
+      "https://www.legaleraonline.com/from-the-courts/ahmedabad-entities-agree-before-bombay-high-court-to-stop-using-7-drug-names-in-sun-pharma-suit-990528"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-25"
   }
 ]
