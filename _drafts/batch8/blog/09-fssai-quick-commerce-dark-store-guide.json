@@ -1,0 +1,86 @@
+{
+  "slug": "fssai-licensing-quick-commerce-dark-stores-guide",
+  "title": "FSSAI Licensing for Quick Commerce Dark Stores: Why a Normal Retail Licence Is Not Enough",
+  "meta_description": "Quick commerce platforms need a central FSSAI licence, and state regulators are now scrutinising every dark store on its own as well.",
+  "practice_area": "Food Safety & FSSAI",
+  "intro": [
+    "Ten-minute delivery built an entire retail category around a type of outlet that barely existed in food safety regulation when the Food Safety and Standards Act was drafted: a dark store, a small warehouse with no customer footfall, stocking packaged and sometimes fresh food purely for fulfilment of online orders placed minutes earlier. Operators running dozens of these across a city have discovered through 2025 and 2026 that state food safety authorities are treating each dark store as a site that needs its own scrutiny, not merely an extension of a head-office licence.",
+    "The regulatory question has two layers that often get collapsed into one in casual compliance advice: what licence the platform itself needs as an e-commerce food business operator, and what licence or registration each individual dark store needs as a physical site storing and dispatching food. Getting the first right does not automatically get the second right."
+  ],
+  "sections": [
+    {
+      "heading": "The Platform-Level Rule: A Central Licence for E-Commerce FBOs",
+      "paragraphs": [
+        "FSSAI has long treated e-commerce food business operators as falling within the category that must hold a Central Licence under Schedule I of the Food Safety and Standards (Licensing and Registration of Food Businesses) Regulations, 2011, regardless of the operator's annual turnover. This was clarified through an FSSAI order dated 15 April 2019, which addressed how e-commerce FBOs with operations across multiple states and cities should be licensed, and platforms such as Zepto and Blinkit operate on the footing that their core e-commerce food business requires this Central Licence.",
+        "The practical reason turnover is irrelevant here is that the 2011 Regulations carve out certain categories, large manufacturers, importers and, specifically, e-commerce operators, for Central Licensing on the basis of the nature of the business rather than its size, on the view that a platform operating across state lines needs a single licensing authority overseeing it rather than a patchwork of separate state licences for an operation that is functionally one business."
+      ]
+    },
+    {
+      "heading": "Why a Dark Store Still Needs Its Own Attention",
+      "paragraphs": [
+        "Holding a valid Central Licence at the platform level does not mean every warehouse and dark store the platform operates is automatically covered without more. FSSAI has told platforms directly, in communications through 2025, that every warehouse associated with e-commerce food operations should itself be registered or licensed, and has asked platforms to share data on their warehouses and food handlers so the regulator can actually verify this site by site rather than relying on the platform's own assurance that everything is in order.",
+        "What exact category of licence or registration a given dark store needs, whether that sits as an addition under the platform's existing Central Licence, a separate site-specific licence, or a state-level registration depending on the dark store's scale, is treated differently across commentary, and the regulation's own text on this specific point was not something this guide's research confirmed with the certainty it would need to state a single firm rule. What is clear from enforcement, not just commentary, is that state regulators are not accepting the platform's head-office Central Licence as sufficient cover for a dark store operating without its own site-level compliance in order."
+      ]
+    },
+    {
+      "heading": "What Enforcement Through 2025 and 2026 Actually Looked Like",
+      "paragraphs": [
+        "Maharashtra's Food and Drug Administration suspended the food licence of a Zepto dark store in Dharavi in June 2025 over hygiene and compliance concerns, though the suspension was later revoked following a re-inspection, and separately suspended a Blinkit dark store in Pune reportedly for operating without a valid licence at that specific site. Maharashtra has since directed e-commerce food delivery companies to obtain state approval before opening new dark stores, rather than opening first and regularising later.",
+        "FSSAI itself issued nine separate notices to Swiggy Instamart in July 2026, continuing a pattern of site-level and operational scrutiny well past the initial 2025 wave of enforcement, and has flagged issues including food handlers working without protective gear and improper co-storage of food alongside non-food items such as cosmetic products in the same dark store space. None of this suggests a one-time compliance exercise; it reads as a live, continuing enforcement programme aimed specifically at the dark store format rather than at food e-commerce generally."
+      ]
+    },
+    {
+      "heading": "Hygiene Training and Storage Practice, Not Just Paperwork",
+      "paragraphs": [
+        "Food handlers at a dark store are expected to complete FSSAI's FoSTaC hygiene training, the same baseline training requirement that applies to food handlers in more conventional retail and food service settings, and enforcement reports from Maharashtra specifically called out protective gear and basic hygiene practice as live issues inspectors were finding, not abstract risks. A dark store operator treating hygiene training as a formality to be completed once and forgotten is running the same risk a restaurant would run with the same attitude, except the dark store format gives regulators an easy, visible target precisely because these sites have proliferated so fast.",
+        "Shelf-life rules for products dispatched from a dark store came up in commentary with two different figures, one source describing a requirement that delivered products carry a minimum 30 percent of shelf life or 45 days before expiry, another describing a 70 percent threshold, and this guide did not find a way to resolve that conflict against the primary regulatory text with confidence. An operator should treat the exact percentage as something to confirm directly against current FSSAI guidance for its specific product categories, rather than relying on either secondary figure."
+      ]
+    },
+    {
+      "heading": "Where a Quick Commerce Operator Should Actually Focus",
+      "paragraphs": [
+        "Confirm the platform's Central Licence is current and correctly scoped to the categories of food it actually sells, since a licence drafted for a narrower product range than the business has since grown into is itself a compliance gap waiting to surface during an inspection. Then work through every individual dark store, confirming what site-level registration or licence step each one needs given its state and scale, rather than assuming the head-office licence travels automatically with every new site opened.",
+        "Build FoSTaC training completion and renewal into onboarding for every dark store's staff as a tracked, auditable step rather than a one-off box ticked at launch, and separate food storage physically from non-food inventory at every site, since co-storage has already drawn specific regulatory criticism. Finally, treat a state regulator's pre-opening approval requirement, where one state imposes it, as a real precondition rather than a formality to be sorted out after the store has already started taking orders, since Maharashtra's own enforcement record shows exactly that sequence being punished."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a quick commerce platform need a Central FSSAI Licence regardless of its turnover?",
+      "a": "Yes. FSSAI's 2019 order treats e-commerce food business operators as requiring a Central Licence under Schedule I of the 2011 Licensing Regulations because of the nature of the business, not its turnover, since it typically operates across multiple states and cities rather than a single location."
+    },
+    {
+      "q": "If the platform already holds a Central Licence, does every dark store need anything further?",
+      "a": "Regulators are treating each dark store as needing its own site-level compliance, and FSSAI has asked platforms to share warehouse and food handler data for verification. The exact licensing category for each dark store should be confirmed state by state rather than assumed to be covered by the head-office licence alone."
+    },
+    {
+      "q": "What has actually triggered dark store suspensions so far?",
+      "a": "Hygiene lapses, food handlers without protective gear, improper co-storage of food with non-food items such as cosmetics, and operating without a valid licence at that specific site. Maharashtra has suspended both a Zepto dark store and a Blinkit dark store on these kinds of grounds in 2025."
+    },
+    {
+      "q": "Can a state require approval before a new dark store opens?",
+      "a": "Yes. Maharashtra has directed e-commerce food delivery companies to obtain state approval before opening new dark stores rather than seeking compliance after the fact, following its enforcement actions against existing stores in 2025, and an operator expanding into that state should budget time for this step before committing to a launch date."
+    }
+  ],
+  "references": [
+    "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulations, 2011, Schedule I",
+    "FSSAI order dated 15 April 2019 on licensing of e-commerce food business operators",
+    "Maharashtra Food and Drug Administration enforcement actions against dark stores, 2025",
+    "FSSAI notices to Swiggy Instamart, July 2026"
+  ],
+  "sources": [
+    "https://mail.fssai.gov.in/upload/media/FSSAI_News_E-Commerce_KNN_22-04-2019.pdf",
+    "https://www.medianama.com/2025/07/223-fssai-ecommerce-food-safety-warning/",
+    "https://www.medianama.com/2025/07/223-maharashtra-govt-food-delivery-e-commerce-companies/",
+    "https://www.barristery.in/2026/07/fssai-issues-nine-notices-to-swiggy.html",
+    "https://velcolegalindia.com/blog/e-commerce-food-marketplace-fssai-compliance"
+  ],
+  "verification_notes": [
+    "Central Licence requirement for e-commerce FBOs regardless of turnover, and the 15 April 2019 FSSAI order: confirmed by the FSSAI-hosted KNN news item and corroborated by a separate compliance guide describing the same requirement.",
+    "FSSAI's 2025 instruction that all e-commerce-linked warehouses be registered or licensed, and its request for warehouse and food handler data: confirmed by two Medianama reports describing the same FSSAI communication.",
+    "Maharashtra FDA suspension and revocation of the Zepto Dharavi dark store licence, and separate suspension of a Blinkit Pune dark store: confirmed across the two Medianama reports.",
+    "Maharashtra's pre-opening state approval directive for new dark stores: confirmed by the Medianama report on the state government's action.",
+    "FSSAI's nine notices to Swiggy Instamart in July 2026: sourced from a single dedicated report; stated here as a single-source fact without independent corroboration found in these results.",
+    "Left out: the exact site-level licence category (sub-type of state or central licence) a dark store needs, and the precise shelf-life percentage or day threshold for delivered products, since sources gave conflicting or unconfirmed figures (30 percent/45 days versus 70 percent) and neither was checked against the primary regulatory text."
+  ]
+}
