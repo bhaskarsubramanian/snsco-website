@@ -1,0 +1,102 @@
+{
+  "slug": "development-authority-rera-promoter-status-guide",
+  "title": "Is a Development Authority a RERA Promoter? What the BDA Stay Means for Buyers",
+  "meta_description": "A Karnataka High Court stay has reopened whether statutory development authorities count as RERA promoters. What it means for your complaint right now.",
+  "practice_area": "Real Estate & RERA",
+  "intro": [
+    "A family books a plot in a residential layout developed by a state development authority, not a private builder. Possession is delayed by years, the roads and sewage lines are still not finished, and the buyer finally does what every RERA-era project brochure tells them to do: file a complaint before the state Real Estate Regulatory Authority. The development authority's defence is unusual for this forum. It does not say the delay was justified. It says RERA simply does not apply to it, because the layout traces back to a land acquisition notification issued years before the Real Estate (Regulation and Development) Act, 2016 came into force.",
+    "That defence has actually succeeded, at least for now, in Karnataka. Whether a statutory development authority counts as a promoter for layouts rooted in pre-RERA land acquisition is a live question rather than settled law, and buyers in such layouts need to know what an interim order does and does not change for their own complaint."
+  ],
+  "sections": [
+    {
+      "heading": "Why the Question Even Arises",
+      "paragraphs": [
+        "Private developers rarely argue they sit outside RERA's reach. A statutory body such as a development authority is different. It usually does not sell flats or plots for profit in the ordinary commercial sense; it acquires land under its own enabling statute, carves out sites, and allots them to applicants, often through a lottery or seniority list, at rates fixed by its own board rather than market negotiation. For decades that activity sat outside any dedicated real estate regulator. RERA changed that by defining promoter in Section 2(zk) in functional terms: anyone who constructs, or causes to be constructed, an independent building or apartments for sale, or who develops land into a project for sale, falls within the definition regardless of whether it also happens to be a government body.",
+        "Karnataka's own regulator and appellate tribunal applied exactly that reasoning in the Nadaprabhu Kempegowda Layout dispute, holding the Bangalore Development Authority to be a promoter and directing it to address delays and missing infrastructure. The authority's response was not to deny the facts of delay. It challenged the forum's jurisdiction itself, and took that fight to the High Court."
+      ]
+    },
+    {
+      "heading": "What 'Promoter' Under Section 2(zk) Actually Covers",
+      "paragraphs": [
+        "Section 2(zk) is deliberately wide. It covers a person who constructs a building for sale, a person who develops land and sells plots, cooperative housing societies building for their own members, and anyone who otherwise causes construction to happen even without a direct contract with the eventual buyer. Authorities applying this provision have read 'causes' broadly: an entity does not need to pour the concrete itself, it only needs to be the reason the project happened. On that logic, a development authority allotting plots for consideration is doing what a private township developer does, with a statutory lineage instead of a shareholder register.",
+        "Courts have already rejected the argument that a welfare or cooperative character takes an entity outside Section 2(zk) merely because it is not driven by private profit. The Delhi High Court has held that cooperative housing societies building for their members fall within the promoter definition, rejecting the same kind of 'we are different in character' argument a development authority is now making. A commercial-benefit test used elsewhere, whether the entity gains a share in the developed area or sale proceeds rather than merely passing on cost, tends to work against a development authority that collects allotment money directly from buyers."
+      ]
+    },
+    {
+      "heading": "The Karnataka Stay: What It Actually Decided",
+      "paragraphs": [
+        "On 3 June 2026, the Karnataka High Court, in Bangalore Development Authority v. Union of India & Ors. (W.P. No. 14520/2026), granted the authority an interim stay against RERA's applicability to specific residential layouts where the preliminary land acquisition notification predates RERA's commencement. The order arose out of the Nadaprabhu Kempegowda Layout complaints referred to above, where Karnataka RERA and its appellate tribunal had already held the BDA to be a promoter.",
+        "The stay does three specific things, and buyers should be precise about which. It pauses enforcement of those particular orders pending the larger question. It does not hold that RERA can never apply to a development authority. And it does not extend automatically to every layout the authority has ever developed, only to the subset tied to pre-RERA acquisition notifications. The judge recorded that the stay was granted to examine the applicability of RERA to projects of statutory authorities like the BDA, language that keeps the core question open rather than deciding it either way. Because this is an interim order in a still-pending writ petition, its operative period and any extension or vacation need to be checked against the current docket, since the underlying question of whether a pre-Act acquisition notification carves a project out of a 2016 statute altogether remains to be argued on merits."
+      ]
+    },
+    {
+      "heading": "What a Buyer in Such a Layout Should Actually Do",
+      "paragraphs": [
+        "The practical advice runs opposite to the instinct to wait for the larger case to finish. First, check the specific facts of your own layout: is the land acquisition notification for your project actually dated before RERA's commencement, or is the authority invoking a blanket defence that does not fit your plot. Many layouts developed by the same authority were acquired at different times, and a stay tied to one set of notifications does not cover a later one automatically.",
+        "Second, do not assume a RERA complaint is futile merely because the authority has raised this defence elsewhere. File it, let the authority raise the jurisdictional point as a preliminary objection, and let the regulator or tribunal decide it on your own facts rather than conceding the point by staying away. Third, keep evidence of the authority's own representations, such as allotment letters promising specific infrastructure timelines, since those matter whichever forum eventually hears the dispute. Fourth, track the writ petition's progress for your own state specifically; an interim stay binds the parties to that petition and strongly influences how the regulator treats similar layouts, but it is not Supreme Court law applicable nationwide."
+      ]
+    },
+    {
+      "heading": "The Limitation Trap of Waiting",
+      "paragraphs": [
+        "RERA complaints and the parallel remedies available against a development authority, such as writ jurisdiction under its own enabling Act or a civil suit, each run on their own clocks. Watching a jurisdictional fight play out in the High Court is not, by itself, a recognised ground for extending those clocks indefinitely, and no tribunal is obliged to accept a pending writ petition in another case as a reason to overlook a late filing in yours. A buyer whose claim has a limitation concern is better served filing in whichever forum is currently open, even one whose jurisdiction is under challenge, than sitting out the fight entirely and hoping the clock pauses on its own.",
+        "If a forum later loses jurisdiction, most tribunals and courts are willing to treat time spent pursuing a wrong forum in good faith as excludable when computing limitation for the correct one, but that is an argument you still have to make with your own facts, supported by the record of what you actually filed and when. It works far better when you have something on file to point to than when you did nothing at all while the test case in Karnataka was still being argued."
+      ]
+    },
+    {
+      "heading": "Remedies Outside RERA",
+      "paragraphs": [
+        "Every development authority operates under its own statute, usually with a grievance redress provision, an internal ombudsman-style mechanism, or an appeal to the state government against specific allotment and possession decisions. These remedies predate RERA and remain available regardless of how the Section 2(zk) question is eventually resolved, though they were designed for a narrower kind of complaint, typically around allotment disputes rather than construction delay, and rarely carry RERA's compensation and interest machinery or its comparatively buyer-friendly procedure. A consumer complaint under the Consumer Protection Act is also generally available against a development authority supplying a service for consideration, subject to the same forum-choice considerations that apply to any ordinary builder dispute.",
+        "None of these alternatives should be treated as a substitute for a RERA complaint where RERA plausibly applies to your project. They function as a fallback if the jurisdictional objection succeeds on your specific facts, not as a first choice to reach for while that larger question remains genuinely open before the courts."
+      ]
+    },
+    {
+      "heading": "Beyond Karnataka",
+      "paragraphs": [
+        "Other states run their own development authorities on broadly similar statutory templates, large-scale public land acquisition followed by allotment to individual applicants, so the same jurisdictional argument can surface wherever a project's roots predate 2016. Nothing in the Karnataka order binds another state's RERA authority or High Court, and other authorities and tribunals may simply decline to follow it, particularly since it is an interim measure rather than a reasoned final judgment on the Section 2(zk) question, and a different bench could easily take a different view on broadly similar facts raised by a development authority in its own state.",
+        "Treat any similar defence raised by a development authority in your own state as a fact-specific objection to be tested on its own record and its own acquisition dates, not as a settled exemption you have to accept simply because a sister authority elsewhere has raised the same point in a different writ petition."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does this mean my development authority is exempt from RERA?",
+      "a": "Not necessarily. It only means one High Court has temporarily paused enforcement against one authority for layouts tied to pre-RERA land acquisition notifications, pending a final decision. Your own layout's facts, and your own state's position, may be entirely different, so check before assuming the exemption applies to you."
+    },
+    {
+      "q": "Should I wait for the Karnataka case to finish before filing my RERA complaint?",
+      "a": "No. Filing preserves your position and lets the regulator decide the jurisdictional point on your own facts rather than on assumption. Waiting risks limitation issues under whichever law eventually governs your claim, and there is no guarantee that sitting out the larger fight buys your own complaint anything useful in return."
+    },
+    {
+      "q": "What if my RERA complaint gets dismissed for lack of jurisdiction?",
+      "a": "You can usually fall back on the development authority's own statutory grievance mechanism, a writ petition, or a consumer complaint, each with a different timeline and relief available. Courts are often willing to exclude time spent pursuing a reasonable but wrong forum when computing limitation for whichever remedy you pursue next, provided the choice was made in good faith."
+    },
+    {
+      "q": "Is a private developer affected by any of this?",
+      "a": "No. This argument is specific to statutory bodies claiming an exemption rooted in land acquired before RERA's commencement. A private developer has no basis to invoke it, and RERA applies to such developers in the ordinary way regardless of this dispute."
+    },
+    {
+      "q": "How do I find out if my layout's acquisition predates RERA?",
+      "a": "The original land acquisition notification under the authority's enabling Act, not the allotment letter you received, carries the date that actually matters. Request it from the authority's own records, or check with your local sub-registrar if it is not already in your allotment file."
+    }
+  ],
+  "references": [
+    "Real Estate (Regulation and Development) Act, 2016, Section 2(zk)",
+    "Bangalore Development Authority v. Union of India & Ors., W.P. No. 14520/2026 (GM-RES), Karnataka High Court, interim order dated 3 June 2026",
+    "Karnataka RERA and Karnataka Real Estate Appellate Tribunal orders, Nadaprabhu Kempegowda Layout allottee complaints",
+    "Delhi High Court ruling on cooperative housing societies as promoters under Section 2(zk)(iv)"
+  ],
+  "sources": [
+    "https://www.livelawbiz.com/rera/karnataka-hc-stays-rera-applicability-to-bda-projects-on-pre-rera-land-acquisitions-537146",
+    "https://desikaanoon.in/karnataka-high-court-stays-rera-applicability-to-certain-bda-projects/",
+    "https://www.thenewsminute.com/article/bda-asked-abide-rera-rules-respite-bengaluru-s-npkl-buyers-116283",
+    "https://www.barandbench.com/law-firms/view-point/defining-liability-promoter-co-promoter-real-estate-projects"
+  ],
+  "verification_notes": [
+    "Karnataka HC interim stay (W.P. 14520/2026, 3 June 2026, Justice Suraj Govindaraj): confirmed by both livelawbiz and desikaanoon reports; the exact scope wording (pre-Act acquisition notification versus pre-2016 acquisition generally) differs slightly between the two, so the guide uses the narrower, more precise formulation and flags the stay as interim throughout.",
+    "KRERA and the Karnataka Real Estate Appellate Tribunal holding the BDA to be a promoter under Section 2(zk) in the NPKL dispute: confirmed by livelawbiz and corroborated by thenewsminute's account of the BDA being told to comply with RERA for NPKL buyers.",
+    "Section 2(zk)'s broad 'causes to be constructed' reading and cooperative housing societies' promoter status: confirmed by the barandbench article's discussion of the Delhi High Court ruling; full judgment text was not independently opened, so the guide keeps this point general rather than citing specific paragraph numbers.",
+    "Left out: the MahaRERA 'investor as promoter' decision and the Bombay High Court redevelopment society ruling, since both involve different fact patterns not confirmed as applying to statutory development authorities specifically.",
+    "The stay's current operative status: one report gave a time-bound period that has since lapsed, and no source confirmed an extension or vacation, so the guide tells readers to check the current docket rather than asserting the stay is still in force today."
+  ]
+}
