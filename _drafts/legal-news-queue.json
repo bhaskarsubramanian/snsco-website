@@ -952,5 +952,22 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-25"
+  },
+  {
+    "id": "sc-assistant-commissioner-central-tax-sreenivasa-rao-section-62-ibc-limitation-pronouncement",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Assistant Commissioner of Central Tax v. Sreenivasa Rao Ravinuthala",
+    "citation": "2026 INSC 1121, Supreme Court of India, decided 14 October 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-10-14",
+    "holding_summary": "An appeal under Section 62 of the IBC against an NCLAT Chennai order was filed on 21 November 2023, after the appellant applied for a certified copy only on 6 September 2023 (35 days after the order was pronounced on 2 August 2023) and received it on 11 October 2023. A Bench of Justices S.V.N. Bhatti and N.V. Anjaria held that Section 62's 45-day limitation period runs from the date NCLAT pronounces its order, not from the date a certified copy is received, and that only the time actually spent obtaining the certified copy can be excluded under Section 12(2) of the Limitation Act, 1963 — delay before the copy is even applied for cannot be excluded. Since the appellant's own pre-application delay already exceeded the 45-day period plus the further 15 days available for condonation under Section 62's proviso, the Court held the appeal was filed beyond the absolute 60-day outer limit, which cannot be extended.",
+    "why_it_matters": "A bright-line rule for any party weighing a Section 62 appeal to the Supreme Court: the clock starts running the moment NCLAT pronounces its order, so a litigant cannot sit on a pronounced order and only start the limitation clock by choosing when to apply for a certified copy — only the time the certified-copy process itself actually takes is excludable.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/the-assistant-commissioner-of-central-tax-v-sreenivasa-rao-ravinuthala-2026-insc-1121-1624047",
+      "https://www.taxscan.in/corporate-laws/limitation-for-appeal-against-nclat-order-us-62-begins-from-date-of-order-not-receipt-of-certified-copy-supreme-court-read-order",
+      "https://www.livelaw.in/supreme-court/supreme-court-ibc-section-62-nclat-order-appeal-limitation-prnouncement-certified-copy-554668"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-26"
   }
 ]
