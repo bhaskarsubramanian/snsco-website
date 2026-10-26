@@ -10,17 +10,153 @@
     "Deba Prasad Guha": "Food Safety & Regulatory Expert, Advisory Panel, S&S Co. Advocates & Solicitors"
   },
   "queue": [
-    {"id": "A", "authors": ["Bhaskar Subramanian", "Adv. Rahul Jangra"], "practice_area": "Employment & Labour", "topic": "The four Labour Codes in operation: what changed for employers and workers on wages, standing orders, fixed-term employment, retrenchment and closure thresholds, social security, inspector-cum-facilitator and compliance, and the open questions (status of State rules)."},
-    {"id": "B", "authors": ["Bhaskar Subramanian", "Subhradip Roy", "Chandrayee Roy"], "practice_area": "Infrastructure & PPP", "topic": "Infrastructure and PPP disputes: termination payments, force majeure and change in law, writ jurisdiction versus arbitration in public contracts, and what recent Supreme Court and High Court rulings mean for concessionaires and authorities."},
-    {"id": "C", "authors": ["Subhradip Roy", "Bhaskar Subramanian", "Adv. Rahul Jangra"], "practice_area": "Power, Energy & Mining", "topic": "Power sector disputes: change in law claims, deemed distribution licensee, true-up and carrying cost, regulatory jurisdiction, APTEL's recent line of decisions, and allocation of risk in power purchase agreements."},
-    {"id": "D", "authors": ["Bhaskar Subramanian", "Subhradip Roy", "Deba Prasad Guha"], "practice_area": "Food Safety & FSSAI", "topic": "Food safety enforcement in India: FSSAI labelling and claims (front-of-pack, '100%' and similar claims), licence suspension and cancellation, improvement notices, recall, adjudication and appeals, and what the courts have said recently about proportionality and process."},
-    {"id": "E", "authors": ["Bhaskar Subramanian", "Adv. Rahul Jangra"], "practice_area": "Tax Litigation", "topic": "GST litigation after the GST Appellate Tribunal: where an assessee now stands on show cause notices, pre-deposit, input tax credit denial, writ jurisdiction, limitation under the applicable sections, and appeals; state only what you confirm."},
-    {"id": "F", "authors": ["Bhaskar Subramanian", "Souvik Bose"], "practice_area": "Consumer Protection", "topic": "Consumer protection and e-commerce: CCPA enforcement, dark patterns, misleading advertisements, product liability, platform liability, and the interplay with RERA, banking and insurance disputes at consumer fora."},
-    {"id": "G", "authors": ["Bhaskar Subramanian", "Chandrayee Roy"], "practice_area": "Banking & Finance", "topic": "Debt recovery today: SARFAESI, DRT, the Commercial Courts route, and IBC Section 7 and 9 compared; guarantor and promoter exposure; limitation and the common procedural traps; and what recent Supreme Court rulings changed."},
-    {"id": "H", "authors": ["Bhaskar Subramanian", "Chandrayee Roy"], "practice_area": "Corporate Law & M&A", "topic": "Shareholder disputes in India: oppression and mismanagement before the NCLT, who can file, interim relief, buy-out and winding-up remedies, and what recent NCLAT and Supreme Court rulings say."},
-    {"id": "I", "authors": ["Bhaskar Subramanian", "Adv. Rahul Jangra"], "practice_area": "Real Estate & RERA", "topic": "Redevelopment and joint development agreements: society and developer disputes, delay and termination remedies, RERA, and the arbitration and civil court routes."},
-    {"id": "J", "authors": ["Bhaskar Subramanian", "Subhradip Roy", "Souvik Bose"], "practice_area": "Intellectual Property", "topic": "Trade mark enforcement in India: infringement and passing off, well-known marks, interim injunctions, and what recent High Court rulings say on evidence and delay."},
-    {"id": "K", "authors": ["Bhaskar Subramanian", "Adv. Anupam"], "practice_area": "Arbitration & Dispute Resolution", "topic": "Enforcing foreign awards in India, and interim relief in foreign-seated arbitrations: Part II of the Arbitration Act, grounds of refusal, limitation and recent rulings."},
-    {"id": "L", "authors": ["Bhaskar Subramanian", "Souvik Bose"], "practice_area": "Corporate Law & M&A", "topic": "Joint ventures and acquisitions in India: key contractual protections and regulatory approvals (CCI, FEMA, SEBI), and common drafting traps."}
+    {
+      "id": "A",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Rahul Jangra"
+      ],
+      "practice_area": "Employment & Labour",
+      "topic": "The four Labour Codes in operation: what changed for employers and workers on wages, standing orders, fixed-term employment, retrenchment and closure thresholds, social security, inspector-cum-facilitator and compliance, and the open questions (status of State rules)."
+    },
+    {
+      "id": "B",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Subhradip Roy",
+        "Chandrayee Roy"
+      ],
+      "practice_area": "Infrastructure & PPP",
+      "topic": "Infrastructure and PPP disputes: termination payments, force majeure and change in law, writ jurisdiction versus arbitration in public contracts, and what recent Supreme Court and High Court rulings mean for concessionaires and authorities."
+    },
+    {
+      "id": "C",
+      "authors": [
+        "Subhradip Roy",
+        "Bhaskar Subramanian",
+        "Adv. Rahul Jangra"
+      ],
+      "practice_area": "Power, Energy & Mining",
+      "topic": "Power sector disputes: change in law claims, deemed distribution licensee, true-up and carrying cost, regulatory jurisdiction, APTEL's recent line of decisions, and allocation of risk in power purchase agreements."
+    },
+    {
+      "id": "D",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Subhradip Roy",
+        "Deba Prasad Guha"
+      ],
+      "practice_area": "Food Safety & FSSAI",
+      "topic": "Food safety enforcement in India: FSSAI labelling and claims (front-of-pack, '100%' and similar claims), licence suspension and cancellation, improvement notices, recall, adjudication and appeals, and what the courts have said recently about proportionality and process."
+    },
+    {
+      "id": "E",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Rahul Jangra"
+      ],
+      "practice_area": "Tax Litigation",
+      "topic": "GST litigation after the GST Appellate Tribunal: where an assessee now stands on show cause notices, pre-deposit, input tax credit denial, writ jurisdiction, limitation under the applicable sections, and appeals; state only what you confirm."
+    },
+    {
+      "id": "F",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Souvik Bose"
+      ],
+      "practice_area": "Consumer Protection",
+      "topic": "Consumer protection and e-commerce: CCPA enforcement, dark patterns, misleading advertisements, product liability, platform liability, and the interplay with RERA, banking and insurance disputes at consumer fora."
+    },
+    {
+      "id": "G",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Chandrayee Roy"
+      ],
+      "practice_area": "Banking & Finance",
+      "topic": "Debt recovery today: SARFAESI, DRT, the Commercial Courts route, and IBC Section 7 and 9 compared; guarantor and promoter exposure; limitation and the common procedural traps; and what recent Supreme Court rulings changed."
+    },
+    {
+      "id": "H",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Chandrayee Roy"
+      ],
+      "practice_area": "Corporate Law & M&A",
+      "topic": "Shareholder disputes in India: oppression and mismanagement before the NCLT, who can file, interim relief, buy-out and winding-up remedies, and what recent NCLAT and Supreme Court rulings say."
+    },
+    {
+      "id": "I",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Rahul Jangra"
+      ],
+      "practice_area": "Real Estate & RERA",
+      "topic": "Redevelopment and joint development agreements: society and developer disputes, delay and termination remedies, RERA, and the arbitration and civil court routes."
+    },
+    {
+      "id": "J",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Subhradip Roy",
+        "Souvik Bose"
+      ],
+      "practice_area": "Intellectual Property",
+      "topic": "Trade mark enforcement in India: infringement and passing off, well-known marks, interim injunctions, and what recent High Court rulings say on evidence and delay."
+    },
+    {
+      "id": "K",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Anupam"
+      ],
+      "practice_area": "Arbitration & Dispute Resolution",
+      "topic": "Enforcing foreign awards in India, and interim relief in foreign-seated arbitrations: Part II of the Arbitration Act, grounds of refusal, limitation and recent rulings."
+    },
+    {
+      "id": "L",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Souvik Bose"
+      ],
+      "practice_area": "Corporate Law & M&A",
+      "topic": "Joint ventures and acquisitions in India: key contractual protections and regulatory approvals (CCI, FEMA, SEBI), and common drafting traps."
+    },
+    {
+      "id": "M",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Anupam"
+      ],
+      "practice_area": "Commercial Litigation",
+      "topic": "Commercial disputes in Noida and Greater Noida (Gautam Buddh Nagar): which court has jurisdiction, how the Commercial Courts Act 2015 works there in practice (pre-institution mediation under Section 12A, case management, summary judgment, timelines), and how appeals and writs reach the Allahabad High Court. Verify the court structure, the territorial jurisdiction rules and the current position from official and reported sources; write for businesses and practitioners based in Noida."
+    },
+    {
+      "id": "N",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Anupam"
+      ],
+      "practice_area": "Arbitration & Dispute Resolution",
+      "topic": "Arbitration for Noida and Delhi NCR businesses: seat versus venue, which High Court exercises supervisory jurisdiction (Delhi or Allahabad) for Sections 9, 11, 34 and 37, institutional arbitration options in the region, interim relief and enforcement of awards against assets in Uttar Pradesh. Verify every jurisdiction point and case citation from sources."
+    },
+    {
+      "id": "O",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Rahul Jangra"
+      ],
+      "practice_area": "Real Estate & RERA",
+      "topic": "Real estate disputes in Noida and Greater Noida: the roles of the Noida and Greater Noida development authorities, UP RERA and the UP Real Estate Appellate Tribunal, allottee remedies for delayed possession, lease and allotment cancellations, and the Supreme Court and Allahabad High Court decisions that govern them. Verify the institutions, limitation and procedure from official and reported sources."
+    },
+    {
+      "id": "P",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Chandrayee Roy"
+      ],
+      "practice_area": "Banking & Finance",
+      "topic": "Recovery and insolvency for lenders and borrowers in Noida: SARFAESI action, the Debts Recovery Tribunal and Appellate Tribunal with jurisdiction over Uttar Pradesh, Section 138 Negotiable Instruments Act complaints at Noida courts, and which NCLT bench hears IBC petitions against companies registered in Uttar Pradesh. Verify bench and territorial jurisdiction from official notifications and reported decisions."
+    }
   ]
 }
