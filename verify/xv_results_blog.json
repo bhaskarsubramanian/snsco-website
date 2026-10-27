@@ -2032,5 +2032,28 @@
       "https://www.livelaw.in/amp/news-updates/jammu-kashmir-ladakh-high-court-vicarious-liability-sec-66-food-safety-standard-act-complaint-period-of-limitation-222004"
     ],
     "note": "Rohit Jawa v. State of Karnataka (Criminal Petition 8536/2023, decided 3 July 2025, Justice JM Khazi) confirmed: Karnataka HC quashed proceedings against HUL MD/CEO for non-impleadment of the company over contaminated Horlicks biscuits, with liberty to refile. Aneeta Hada (2012) 5 SCC 661 confirmed as holding company prosecution is a sine qua non for proceeding against officers. Calcutta HC manager-quashing case (e-coli lassi, Partha Sarathi Tripathy) confirmed matching the generic description in the draft. J&K/Ladakh HC rulings on vicarious liability and limitation under Section 66/77 also confirmed in substance."
+  },
+  {
+    "file": "_drafts/batch9/blog/12-eot-claims-epc-critical-path-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://rawlaw.in/delhi-high-court-arbitral-award-granting-484-day-extension-in-railway-tunnel-project-upheld-critical-path-analysis-plausible-no-patent-illegality-in-setting-aside-liquidated-damages/",
+      "https://www.jsalaw.com/articles-publications/delhi-high-court-upholds-arbitral-tribunal-findings-on-delay-analysis-using-the-critical-path-method-and-reiterates-limits-of-section-34-review/",
+      "https://webiis10.mondaq.com/india/arbitration-dispute-resolution/1787172/delhi-high-court-upholds-arbitral-tribunal-findings-on-delay-analysis-using-the-critical-path-method-and-reiterates-limits-of-section-34-review"
+    ],
+    "note": "Ircon International Ltd v. Afcons Infrastructure Ltd, 2026 SCC OnLine Del 558, decided 13 Feb 2026, confirmed in full detail: 484-day extension, main tunnel bore critical path finding, Section 34 challenge dismissed, liquidated damages set aside. Citation and date independently confirmed (draft had flagged the citation as single-source; now corroborated by a second source). General EOT/concurrent delay/critical path principles are standard construction-law doctrine, appropriately caveated in the draft as persuasive rather than settled Indian precedent."
+  },
+  {
+    "file": "_drafts/batch9/blog/13-software-copyright-patent-exclusion-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://asiaiplaw.com/article/not-all-computer-related-inventions-are-hit-by-section-3k-of-the-patents-act",
+      "https://lakshmisri.com/insights/articles/meritorious-win-patentability-of-computer-related-inventions-in-india",
+      "https://mondaq.co.uk/india/copyright/1060536/india-notifies-copyright-amendment-rules-2021",
+      "https://www.intepat.com/ip-services/copyrights/software-registration"
+    ],
+    "note": "Section 2(o) literary-work treatment and automatic copyright confirmed. Copyright Rules 2013 amendment (G.S.R. 225(E), 30 March 2021: first/last 10 pages or full code under 20 pages, no redaction permitted) confirmed. Section 3(k) per se exclusion and its narrowing confirmed. The unnamed Delhi HC technical-effect ruling is identifiable as Ferid Allani v. Union of India (W.P.(C) 7/2014, Dec 2019); the draft already appropriately declines to name it given incomplete sourcing, which is accurate caution rather than an error."
   }
 ]
