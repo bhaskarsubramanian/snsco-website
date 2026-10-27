@@ -1,0 +1,106 @@
+{
+  "slug": "court-power-modify-arbitral-award-guide",
+  "title": "Can a Court Modify an Arbitral Award? What the Supreme Court's Gayatri Balasamy Ruling Actually Allows",
+  "meta_description": "The Constitution Bench in Gayatri Balasamy gave courts a narrow power to modify awards under Sections 34 and 37. Here is exactly where that line sits.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "For years, the safest answer to the question 'can a court change my arbitral award' was a flat no. The Supreme Court had said in Project Director, NHAI v. M. Hakeem that a Section 34 court could only set an award aside or leave it standing, never rewrite it, because the power to modify is conspicuously absent from a provision that Parliament modelled on the UNCITRAL framework. Parties who thought a tribunal had got the arithmetic wrong, or awarded interest on the wrong footing, were told to accept the whole award or start a fresh arbitration.",
+    "That position no longer fully holds. A five-judge Constitution Bench decided Gayatri Balasamy v. ISG Novasoft Technologies Ltd. on 30 April 2025, and by a 4:1 majority held that courts do have a power to modify awards under Sections 34 and 37, though a deliberately narrow one. Anyone currently drafting a Section 34 petition, or weighing whether to appeal a High Court's modification of an award, needs to know exactly how narrow that power is, because the majority went out of its way to say this is not a backdoor merits appeal."
+  ],
+  "sections": [
+    {
+      "heading": "What NHAI v. Hakeem had settled, and why it needed revisiting",
+      "paragraphs": [
+        "The Arbitration and Conciliation Act, 1996 gives a court exactly two things it can do with a challenged award under Section 34: set it aside on the limited grounds listed there, or dismiss the petition and let the award stand. Nowhere does the text say a court may vary, reduce or otherwise rewrite any part of it. NHAI v. Hakeem read that silence as deliberate, pointing out that the Act was built around minimal judicial interference and that allowing modification would blur the line between a challenge proceeding and an appeal on merits, something the Act does not provide for at all.",
+        "The trouble was that several benches, both before and after Hakeem, had in practice modified awards anyway, usually to sever an invalid portion from a valid one, to correct an obvious computational slip, or to adjust post-award interest where the tribunal's rate looked plainly wrong on the facts. These decisions could not easily be reconciled with Hakeem's bright-line rule, and the resulting uncertainty is what the Gayatri Balasamy reference was meant to resolve.",
+        "The underlying dispute itself was an employment-related arbitration where the tribunal had awarded compensation to Ms Balasamy, and the Madras High Court had gone on to revise that award in the course of hearing her Section 34 and Section 37 challenges. Whether a High Court could do that at all was the question the Supreme Court finally took up directly."
+      ]
+    },
+    {
+      "heading": "The four situations where modification is now allowed",
+      "paragraphs": [
+        "The majority did not throw the door open. It identified a limited, specific set of situations in which a court exercising Section 34 or Section 37 jurisdiction may modify an award, rather than only set it aside or uphold it. The first is severability: where an invalid part of the award can be separated from the rest without disturbing the valid portion, the court may strike the invalid part and let the remainder stand, instead of setting aside the whole award over a single defective part.",
+        "The second and third situations are narrow error-correction categories: clerical, computational or typographical mistakes that are apparent on the face of the award, and the rate or running of post-award interest, where there is a compelling reason on the facts to adjust it. Neither of these invites a court to re-examine the tribunal's findings of fact or its reasoning on the merits; they are corrections to the form of the award, not its substance.",
+        "The fourth is the Supreme Court's own Article 142 power to do complete justice, which by definition only the Supreme Court itself can exercise and which a High Court or a Section 34 court cannot rely on to justify modifying an award in the ordinary run of cases. For everyone litigating below the Supreme Court, the first three categories are what actually matter in practice."
+      ]
+    },
+    {
+      "heading": "What the ruling does not change",
+      "paragraphs": [
+        "The majority was explicit that this is not a general merits-review power. A court cannot use the modification doctrine to substitute its own view of damages, liability or contractual interpretation for the tribunal's. If the only complaint about an award is that the tribunal weighed the evidence wrongly or reached a conclusion the petitioner disagrees with, that remains a Section 34 ground for setting aside at most, on the existing patent-illegality or public-policy tests, not a route to a rewritten award.",
+        "The dissenting judge took the position that modification of any kind strikes at the core of what arbitration is supposed to be, since the parties chose a tribunal, not a court, to decide the dispute, and any judicial rewriting of the result undermines that choice regardless of how narrowly it is confined. That dissent matters practically because it signals the doctrine could be read narrowly by some benches going forward, and litigants should not assume every High Court will apply the four categories generously.",
+        "Commentary on the ruling has also flagged a structural concern: Section 34 lists the specific grounds on which an award can be set aside and says nothing about modification, so building a modification power through interpretation, even a narrow one, sits uneasily with the text Parliament actually enacted. That criticism does not change the binding effect of the ruling, but it is a reason to expect continued litigation over where exactly the boundaries of each of the four categories sit."
+      ]
+    },
+    {
+      "heading": "Drafting a Section 34 or Section 37 petition after this ruling",
+      "paragraphs": [
+        "A petitioner who genuinely has a severable defect, a computational error, or a post-award interest problem should now plead modification as an alternative relief to setting aside, rather than only asking the court to set the award aside in full. Courts had sometimes modified awards informally even before this ruling, but pleading it expressly, and identifying which of the three practical categories the request falls under, gives the court a cleaner basis to grant that relief and gives the opposing side fair notice of what is actually being sought.",
+        "Respondents defending an award should resist attempts to dress up an ordinary merits challenge as a severability or computational-error argument. Because the majority tied modification to these specific categories, pointing out that a particular objection is really about the tribunal's factual findings, not a clerical slip or a severable bad part, is now a sharper defence than it would have been when the law on modification was simply unsettled.",
+        "Anyone appealing under Section 37 against a Section 34 order that already modified an award should check carefully which of the four categories the lower court actually invoked, since an appellate court reviewing that decision will ask whether the modification genuinely fell within severability or error-correction, or whether it strayed into re-deciding the dispute on its merits."
+      ]
+    },
+    {
+      "heading": "Does this touch foreign awards being enforced in India?",
+      "paragraphs": [
+        "Gayatri Balasamy decides the scope of Section 34 and Section 37, both of which sit in Part I of the Arbitration and Conciliation Act and deal with domestic awards, or with awards made in a foreign-seated arbitration where the parties have agreed Part I nonetheless applies. A foreign award being enforced under Part II, through Section 48, is a different proceeding altogether, and the ruling does not extend the new modification power to it.",
+        "At the enforcement stage, an Indian court's job under Section 48 is narrower still than the ordinary Section 34 jurisdiction: the court can refuse enforcement on the specific grounds listed there, such as incapacity, lack of proper notice, or conflict with India's public policy, but it has no power to rewrite the award's terms either to correct a computation or to sever a bad part from a good one. A party resisting enforcement of a foreign award gets an all-or-nothing outcome on each ground raised, not a modification remedy.",
+        "This distinction matters for cross-border contracts that specify a foreign seat. Parties sometimes assume that whatever relief an Indian court can give against a domestic award is equally available against a foreign one simply because both end up before an Indian court. After this ruling, that assumption is wrong on the modification point specifically, even though both regimes otherwise borrow heavily from each other on questions like public policy."
+      ]
+    },
+    {
+      "heading": "What this means for how tribunals should draft awards",
+      "paragraphs": [
+        "Arbitrators reading this ruling should not treat the new modification power as a safety net that makes drafting precision less important. Courts are not obliged to exercise the power even where a case technically falls within one of the four categories, and a party seeking modification still has to persuade a court that the defect is genuinely severable or genuinely a clerical slip, rather than a disguised attempt to reargue the merits. An award that is sloppy about interest calculations or that bundles a valid finding together with an unclear or unsupported one is exposing itself to a full set-aside application, with modification only as a secondary, uncertain fallback.",
+        "Tribunals can reduce this risk considerably by keeping discrete heads of claim and relief clearly separated in the award's operative part, so that if one head is later found defective, a court applying the severability category can excise it cleanly without disturbing the rest. Clear statements of the interest rate applied, the period it runs for, and the reasoning behind it also make it far less likely that a party can later argue a compelling reason exists to adjust that interest under the new category for post-award interest.",
+        "Counsel drafting the final submissions to a tribunal have a stake in pressing for this kind of structural clarity in the award too, since a cleanly severable, well-reasoned award is easier to defend if challenged and faster to enforce once any challenge is resolved."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does this ruling mean a court can now change the amount awarded by an arbitral tribunal whenever it thinks the amount is wrong?",
+      "a": "No. The power applies only to clerical, computational or typographical errors apparent on the face of the award, to severing an invalid part from a valid one, and to adjusting post-award interest for a compelling reason. A court still cannot substitute its own view of what the correct damages figure should have been based on the evidence."
+    },
+    {
+      "q": "What happened to Project Director, NHAI v. M. Hakeem after this ruling?",
+      "a": "The Constitution Bench in Gayatri Balasamy specifically reconsidered Hakeem's blanket statement that courts have no power to modify awards. The majority held that courts do have a limited modification power in the four situations it identified, which narrows Hakeem's reach without discarding the Act's general preference for minimal judicial interference."
+    },
+    {
+      "q": "Can a High Court use this power under Section 37, or only under Section 34?",
+      "a": "The majority's holding extends to both Sections 34 and 37, since an appellate court hearing a Section 37 appeal against a Section 34 order is exercising jurisdiction over the same award. The same four categories, and the same limits against reviewing merits, apply at the appellate stage."
+    },
+    {
+      "q": "Is this a unanimous ruling I can rely on without qualification?",
+      "a": "It was decided 4:1 by a five-judge Constitution Bench, so it is binding, but one judge dissented on the basis that modification of any kind undermines arbitration's purpose. Expect continued argument in individual cases about exactly how far each of the four categories extends."
+    },
+    {
+      "q": "If my award has a genuine calculation mistake, do I still need to file a Section 34 petition, or is there a simpler route?",
+      "a": "The Arbitration Act also allows an application to the tribunal itself under Section 33 to correct computational, clerical or typographical errors within thirty days of the award, which is usually faster. Section 34 modification becomes relevant once that window has passed or once the matter is already before the court on other grounds."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Section 34 (grounds for setting aside a domestic award)",
+    "Arbitration and Conciliation Act, 1996, Section 37 (appealable orders)",
+    "Arbitration and Conciliation Act, 1996, Section 33 (correction of computational, clerical or typographical errors by the tribunal itself)",
+    "Gayatri Balasamy v. ISG Novasoft Technologies Ltd., 2025 INSC 605 (Constitution Bench, decided 30 April 2025)",
+    "Project Director, NHAI v. M. Hakeem, the earlier ruling holding that Section 34 courts cannot modify awards, reconsidered in Gayatri Balasamy"
+  ],
+  "sources": [
+    "https://www.scobserver.in/cases/courts-power-to-modify-an-arbitral-award-gayatri-balasamy-v-m-s-isg-novasoft-technologies-ltd/",
+    "https://www.mondaq.com/india/libel-defamation/1621844/modifying-arbitral-awards-supreme-court-resolves-conflict-in-section-34-powers",
+    "https://www.barandbench.com/columns/gayatri-balasamy-v-isg-novasoft-a-limited-power-to-modify-or-a-pandoras-box",
+    "https://www.scobserver.in/journal/2025-supreme-court-half-yearly-review-arbitration/",
+    "https://kbssidhu.substack.com/p/supreme-court-clarifies-judicial"
+  ],
+  "verification_notes": [
+    "Case name, citation (2025 INSC 605), five-judge Constitution Bench, 4:1 majority and decision date of 30 April 2025: confirmed by both the Supreme Court Observer case page and the Mondaq commentary, which agree on all these details.",
+    "The four categories where modification is allowed (severability, clerical/computational/typographical correction, post-award interest adjustment for compelling reasons, and Article 142 complete-justice power): confirmed by the Mondaq summary and corroborated by the Bar & Bench column and the kbssidhu newsletter, all describing the same four-part structure.",
+    "That the ruling reconsiders and narrows Project Director, NHAI v. M. Hakeem rather than overruling the Act's general minimal-interference principle: confirmed by the Supreme Court Observer case page and the Bar & Bench column.",
+    "Existence and basis of the dissent (one judge holding that modification undermines the core of arbitration): confirmed by the Bar & Bench column; the dissenting judge's name and the full text of the dissent's reasoning were not independently confirmed by a second source, so the article refers to it only as 'the dissenting judge' without further detail.",
+    "Section 33 correction-of-errors route as an alternative to Section 34 modification: this is based on the general structure of the Arbitration and Conciliation Act's Section 33 rather than a case-specific source, and is stated only as a procedural option, not as part of the Gayatri Balasamy holding itself.",
+    "Background facts of the underlying dispute (employment arbitration, Madras High Court's earlier revision of the award): confirmed by the Supreme Court Observer case summary; left out the specific amounts discussed in some sources since those figures were reported inconsistently across commentary.",
+    "Section 48 enforcement of foreign awards sitting outside the Section 34/37 modification power: based on the general Part I/Part II structure of the Arbitration and Conciliation Act rather than a case-specific source discussing Gayatri Balasamy's reach; stated as a structural inference from the statute, not as part of the ruling's own holding.",
+    "Practical drafting guidance for tribunals on severability and interest reasoning: presented as practitioner guidance drawn from the four categories described in the verified sources above, not as a separate holding of the Court."
+  ]
+}
