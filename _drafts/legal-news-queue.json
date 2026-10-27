@@ -986,5 +986,21 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-27"
+  },
+  {
+    "id": "delhi-hc-lic-ns-associates-unilateral-arbitrator-entire-award-set-aside",
+    "practice_area": "Arbitration & Dispute Resolution",
+    "case_name": "Life Insurance Corporation of India v. N.S. Associates",
+    "citation": "Delhi High Court, Division Bench, order dated 6 October 2026",
+    "court": "Delhi High Court",
+    "date": "2026-10-06",
+    "holding_summary": "LIC's Executive Director (Engineering) had unilaterally appointed a sole arbitrator on 14 November 2019 at N.S. Associates' own request, and the arbitrator went on to render an award on 10 January 2022; a Single Judge hearing LIC's Section 34 challenge had already found that unilateral appointment impermissible as to the claims under challenge. On appeal, a Division Bench of Justices Anil Kshetarpal and Bharat Parashar held that a defect in the very constitution of the tribunal goes to the root of the arbitral process and cannot be confined to specific claims: because the arbitrator lacked legal competence to have been appointed by one party alone, the Bench set aside the award in its entirety, rejecting N.S. Associates' argument that the challenge (framed only around certain claims) should leave the rest of the award, including portions favourable to it, undisturbed.",
+    "why_it_matters": "Confirms that a party cannot challenge an arbitrator's unilateral appointment only as to the claims that went against it while seeking to preserve the parts of the same award that went in its favour — an invalidly constituted tribunal taints the whole award, not just the portions a party chooses to contest.",
+    "sources": [
+      "https://advocategandhi.com/?p=42074",
+      "https://www.livelawbiz.com/arbitration/delhi-high-court-sets-aside-entire-arbitral-award-against-lic-says-party-cannot-preserve-favourable-parts-after-challenging-arbitrator-553539"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-27"
   }
 ]
