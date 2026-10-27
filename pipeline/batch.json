@@ -4,7 +4,7 @@
   "news_target": 20,
   "updates_target": 20,
   "blog_target": 20,
-  "scope_from": "2026-10-20",
+  "scope_from": "2026-10-08",
   "note": "Edit this file (and push to the pipeline-config branch) to start a new batch: change batch, branch, targets and scope_from, and create the research branch with _drafts/<batch>/{news,updates,blog}/ first.",
   "dedupe_also_against": [
     "research-batch-8:_drafts/batch8",
