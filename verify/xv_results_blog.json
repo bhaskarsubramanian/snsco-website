@@ -1945,5 +1945,27 @@
       "https://blog.ipleaders.in/acquisition-and-transfer-of-immovable-property-in-india-by-a-person-resident-outside-india/"
     ],
     "note": "Core claims corroborated by multiple independent sources: NRIs/OCIs can inherit agricultural land, plantation property and farmhouses despite being barred from purchasing them (no property-type carve-out for inheritance, confirmed via RBI Master Direction summary); onward sale or gift of such inherited land is restricted to a person both resident in India and an Indian citizen, consistently repeated across several law-firm/advisory sources (Ujjivan, Sheokand Legal, ipleaders, and others). General guide with no case citations; draft appropriately hedges that exact current regulation numbers were not independently pinned down, which matches what this search also found (only secondary summaries, not primary RBI text, were retrievable)."
+  },
+  {
+    "file": "_drafts/batch9/blog/06-special-marriage-act-succession-law-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://lawx.in/acts/section/84/724/6605",
+      "https://www.advocatekhoj.com/library/lawreports/hindumarriageact1955special/124.php",
+      "https://courtbook.in/special-marriage-act-1954/section-21A"
+    ],
+    "note": "Section 21 (succession under a Special Marriage Act marriage governed by the Indian Succession Act, 1925) and Section 21A (inserted by Act 68 of 1976, w.e.f. 27-5-1976, disapplying Sections 19 and 21 where both spouses profess Hindu, Buddhist, Sikh or Jaina religion) both confirmed against statutory text and the Law Commission's 59th Report. The contested Muslim one-third-bequest-ceiling point is correctly and carefully presented as an unsettled, interim-stage position rather than settled law, matching what independent sources show. No overreach found; claims are well-hedged throughout."
+  },
+  {
+    "file": "_drafts/batch9/blog/07-court-power-modify-arbitral-award-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.scobserver.in/cases/courts-power-to-modify-an-arbitral-award-gayatri-balasamy-v-m-s-isg-novasoft-technologies-ltd/",
+      "https://kbssidhu.substack.com/p/supreme-court-clarifies-judicial",
+      "https://www.linklaters.com/insights/blogs/arbitrationlinks/2025/may/indian-supreme-court-on-modification-of-awards"
+    ],
+    "note": "Gayatri Balasamy v. ISG Novasoft Technologies Ltd. (2025 INSC 605, five-judge Constitution Bench, 4:1, decided 30 April 2025) confirmed: courts have a limited power under Sections 34/37 to modify awards (severability, clerical/computational/typographical correction, post-award interest, and the Supreme Court's own Article 142 power), narrowing but not overruling NHAI v. Hakeem's minimal-interference principle. Background facts (employment arbitration, Madras HC revision, Rs 2 crore original award) match Supreme Court Observer's summary. Draft is appropriately cautious about the dissent's detail and about Section 48/Part II reach being a structural inference rather than part of the holding."
   }
 ]
