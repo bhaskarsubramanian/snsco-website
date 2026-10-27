@@ -1,0 +1,94 @@
+{
+  "slug": "section-281b-provisional-attachment-guide",
+  "title": "Can the Income Tax Department Freeze Your Bank Account Before Assessment Is Even Done?",
+  "meta_description": "Section 281B lets the taxman provisionally attach bank accounts before an assessment is complete. The conditions, time limits and recent rulings.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "A business owner finds, usually without warning, that a current account has stopped honouring cheques. No demand has been raised, no assessment order has been passed, and the only communication received is an order citing Section 281B of the Income Tax Act, 1961. This is one of the more disruptive powers the Act gives an Assessing Officer, precisely because it operates before the department has even finished deciding how much tax, if any, is actually owed.",
+    "Section 281B exists to stop a taxpayer from stripping assets while an assessment or reassessment is pending, so that any demand later raised still has something to recover against. It is not meant to be a routine tool, and the courts that have reviewed its use have repeatedly said so, but it gets invoked more often than the statute's own safeguards suggest it should."
+  ],
+  "sections": [
+    {
+      "heading": "When the power can be used at all",
+      "paragraphs": [
+        "Section 281B only applies while a proceeding for assessment or reassessment of the taxpayer's income is pending. It cannot be invoked after the assessment is complete and a demand has already been quantified; at that stage the department's recovery machinery under the Act's ordinary demand and recovery provisions takes over instead. The Delhi High Court made this point directly in Dabur Invest Corp. v. ACIT, holding that provisional attachment under Section 281B cannot continue once assessment is complete.",
+        "Even while a proceeding is pending, the Assessing Officer has to form an opinion, recorded in writing, that attachment is necessary to protect the interests of the revenue. This is not a mechanical formality. The Central Board of Direct Taxes has itself instructed field officers that the power should be used only where there is a reasonable likelihood that recovery will become difficult because the taxpayer's assets are inadequate, or where other exceptional circumstances genuinely warrant it, not as a default precaution in every case with a large potential demand.",
+        "The order also requires prior approval from a senior tax authority before it can be issued, which is meant to act as an internal check on an Assessing Officer invoking the power too readily. Courts reviewing these orders have treated a missing or perfunctory approval, and an attachment order that does not explain why the revenue's interest genuinely needs protecting, as a strong ground to set the order aside."
+      ]
+    },
+    {
+      "heading": "Bank accounts specifically: the Kerala High Court's recent ruling",
+      "paragraphs": [
+        "A question that came up repeatedly in practice was whether a bank account, as opposed to immovable property or a fixed deposit, even counts as 'property' that can be attached under Section 281B, since the provision does not mention bank accounts by name the way the GST law does in its own attachment provision. The Kerala High Court's Division Bench resolved this against taxpayers on 27 January 2025, in Assistant Commissioner of Income Tax v. Mohammed Salih, holding that money in a bank account is property within the meaning of Section 281B and can be provisionally attached.",
+        "The court's reasoning turned on the word 'any' in the provision, which it read broadly enough to cover bank balances without needing an explicit reference to accounts. The case arose out of a large cash seizure from a vehicle, with an expected tax and penalty demand running well above the amount attached, and the Division Bench allowed the department's appeal against an earlier single-judge order that had quashed the attachment.",
+        "The same ruling placed an explicit limit on how that power should be exercised: attachment orders should not be blanket orders attaching property, including bank balances, worth far more than the probable demand including penalty. A taxpayer facing an attachment that freezes an amount disproportionate to any realistic demand now has a recent, on-point authority to rely on in challenging the scope of the order, even where the basic power to attach a bank account is no longer in serious doubt."
+      ]
+    },
+    {
+      "heading": "How long an attachment can actually last",
+      "paragraphs": [
+        "The statute puts a firm clock on this. A provisional attachment order automatically ceases to have effect six months after the date it is made, unless the Assessing Officer extends it for reasons recorded in writing. Even with an extension, the total period cannot go beyond two years from the original order, or sixty days after the date of the assessment or reassessment order, whichever of those two limits is later.",
+        "This 'two years or sixty days after assessment, whichever is later' formulation came from the Finance (No. 2) Act, 2014, with effect from 1 October 2014, which also removed earlier provisos that had allowed excluding certain periods, such as the time a Settlement Commission application or a court stay was pending, from the attachment's running validity. Attachments made before that amendment operated under a different, and in some respects more generous to the department, set of rules.",
+        "A government audit by the Comptroller and Auditor General found widespread non-compliance with even these time limits in practice, reviewing a sample of cases and finding that in the large majority of them the validity period of the attachment order had lapsed either before the demand was recovered or even before the assessment itself was completed. A taxpayer whose account remains frozen well past six months, with no recorded extension order on file, has a straightforward basis to challenge the attachment purely on the time limit, without needing to argue the merits of whether attachment was justified at all."
+      ]
+    },
+    {
+      "heading": "Once assessment is complete, the attachment has to shrink to the demand",
+      "paragraphs": [
+        "Two separate High Court rulings bracket this point from different angles. The Delhi High Court's Dabur Invest Corp. decision holds that provisional attachment cannot continue past the point assessment is complete, since the premise of Section 281B is a pending proceeding, not a quantified demand. The Punjab and Haryana High Court, in Nirmal Singh v. Union of India, went further on the quantum question, holding that once assessment is complete the revenue is justified in attaching only up to the amount of the demand actually raised, not the full balance sitting in the taxpayer's accounts.",
+        "Read together, these rulings mean an attachment that was arguably defensible in scope while the department genuinely did not yet know the size of a potential demand becomes indefensible, both in duration and in amount, the moment an assessment order quantifies that demand. A taxpayer who receives an assessment order while a Section 281B attachment is still in force should treat that as the trigger to seek release of any amount above the quantified demand, rather than waiting for the attachment to lapse on its own.",
+        "The Bombay High Court has described the Section 281B power more broadly as a drastic one, to be used only where there is a reasonable apprehension that the taxpayer may thwart eventual collection of the demand, and the Allahabad High Court has held that a pending enquiry on its own, without more, is insufficient to invoke the section. Both rulings reinforce the same theme running through this entire area: attachment is meant to be exceptional and tightly tied to an actual, demonstrable risk to recovery, not a precaution taken because an enquiry happens to be underway."
+      ]
+    },
+    {
+      "heading": "What a taxpayer facing an attachment should actually do",
+      "paragraphs": [
+        "The first step is to obtain the attachment order itself and check whether it records the Assessing Officer's opinion on why the revenue's interest needs protecting, and whether the required prior approval from the senior authority was actually obtained. A bare order that simply cites Section 281B without that reasoning is vulnerable to challenge on its face, independent of whatever the underlying tax dispute is about.",
+        "The second step is tracking the attachment's own timeline against the six-month default period and the two-year or sixty-days-after-assessment outer limit, since an attachment that has outlived its statutory validity can be challenged purely on that ground, without the taxpayer needing to engage with the merits of the underlying demand at all.",
+        "Representations seeking release or reduction of the attachment, particularly once an assessment order has quantified the actual demand, should be made promptly and in writing, pointing specifically to the Dabur Invest and Nirmal Singh line of authority on scope, and to the Kerala High Court's Mohammed Salih ruling on disproportionality where the amount attached clearly exceeds the probable demand including penalty. Where the department does not respond or release the excess within a reasonable time, a writ petition challenging the continued attachment, rather than a fresh round of representations, is usually the more effective route."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can the Income Tax Department attach my bank account before any assessment order has even been passed?",
+      "a": "Yes, provided an assessment or reassessment proceeding is actually pending and the Assessing Officer has formed and recorded an opinion that attachment is necessary to protect the revenue, with prior approval from a senior tax authority. It cannot be used once an assessment is complete, under the Delhi High Court's ruling in Dabur Invest Corp."
+    },
+    {
+      "q": "Does Section 281B let the department freeze the full balance in my bank accounts, or only an amount linked to the expected demand?",
+      "a": "The Kerala High Court has held that attachment orders should not be blanket orders attaching amounts far exceeding the probable demand including penalty. Once an assessment order is actually passed, the Punjab and Haryana High Court's Nirmal Singh ruling limits attachment to the demand actually raised, not the account's full balance."
+    },
+    {
+      "q": "How long can a Section 281B attachment legally stay in force?",
+      "a": "It lapses automatically six months after the order unless extended in writing, and even with extensions the outer limit is two years from the original order or sixty days after the assessment or reassessment order, whichever is later. An attachment still running without a recorded extension beyond six months is vulnerable to challenge on that ground alone."
+    },
+    {
+      "q": "Is a bank account actually 'property' under Section 281B, given that the section doesn't mention bank accounts by name?",
+      "a": "Yes. The Kerala High Court's Division Bench settled this in January 2025, holding that the word 'any' in the provision covers money in a bank account even without an explicit reference, and that the absence of a bank-account-specific clause like the one in the GST law does not exclude bank accounts from Section 281B's reach."
+    }
+  ],
+  "references": [
+    "Income Tax Act, 1961, Section 281B (provisional attachment of property during pendency of assessment or reassessment proceedings)",
+    "Finance (No. 2) Act, 2014, amendment to Section 281B(2) with effect from 1 October 2014 (two-year or sixty-days-after-assessment outer limit)",
+    "Assistant Commissioner of Income Tax v. Mohammed Salih, Kerala High Court Division Bench, decided 27 January 2025 (bank account balances are 'property' attachable under Section 281B; attachment should not exceed the probable demand including penalty)",
+    "Dabur Invest Corp. v. ACIT, Delhi High Court (provisional attachment under Section 281B cannot continue once assessment is complete)",
+    "Nirmal Singh v. Union of India, Punjab and Haryana High Court, 352 ITR 396 (post-assessment attachment limited to the demand actually raised)"
+  ],
+  "sources": [
+    "https://www.livelaw.in/amp/tax-cases/cash-in-bank-account-property-liable-provisional-attachment-section-281b-of-income-tax-act-kerala-high-court-282244",
+    "https://www.taxmann.com/post/blog/money-in-bank-accounts-is-a-property-liable-for-provisional-attachment-u-s-281b-hc/",
+    "https://www.casemine.com/commentary/in/appropriate-exercise-of-section-281b-for-provisional-attachment-in-income-tax-assessments/view",
+    "https://itatonline.org/digest/qa/attachment-under-section-281b-of-income-tax-act/",
+    "https://cag.gov.in/uploads/download_audit_report/2023/09-Chapter-5-06422d4648e0053.02229844.pdf",
+    "https://bcajonline.org/journal/provisional-attachment-section-281b-provisional-attachment-of-bank-accounts-aggregating-to-over-rs-33-lakh-assessment-raising-demand-of-rs-962378-attachment-should-be-restricted-to-the-deman/"
+  ],
+  "verification_notes": [
+    "Core mechanics of Section 281B (opinion to be recorded, prior approval needed, applies only during pending assessment/reassessment): confirmed by the CAG audit chapter and the BCA Journal commentary, both describing the same statutory and CBDT-instruction framework.",
+    "Dabur Invest Corp. v. ACIT holding attachment cannot continue once assessment is complete: confirmed by the ITAT Online digest summary and referenced consistently in the CaseMine judicial-analysis commentary.",
+    "Nirmal Singh v. Union of India (352 ITR 396) limiting post-assessment attachment to the demand raised: confirmed by the ITAT Online digest; the specific reporter citation (352 ITR 396) came from a single source and should be checked against the report before use in a filing, which is why it is flagged here rather than treated as independently cross-verified.",
+    "Assistant Commissioner of Income Tax v. Mohammed Salih, Kerala High Court Division Bench, decided 27 January 2025, holding bank account money is attachable property and that attachment should not exceed the probable demand including penalty: confirmed by the LiveLaw report and the Taxmann blog post, both giving the same date, bench composition description, and the case's origin in a cash seizure from a vehicle.",
+    "Six-month default validity period and the two-year/sixty-days-after-assessment outer limit, with the 2014 amendment date of 1 October 2014: confirmed by the CAG audit's appendix reproduction of the statutory text and corroborated by the general structure described in the BCA Journal commentary.",
+    "CAG audit finding of widespread non-compliance with the attachment time limits across the sample reviewed: confirmed directly from the CAG Subject Specific Compliance Audit chapter and its executive summary.",
+    "Bombay High Court describing the power as 'drastic', requiring reasonable apprehension that recovery will be thwarted, and the Allahabad High Court holding that a pending enquiry alone is insufficient to invoke the section: both points are based on summaries encountered in search results without full citations being independently confirmed by a second source; stated here in general terms without specific case names or citations for that reason."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "software-copyright-patent-exclusion-guide",
+  "title": "Protecting Software in India: What Copyright Actually Covers and When a Patent Is Still Worth Pursuing",
+  "meta_description": "Code is protected as a literary work the moment it's written. Patents for software face a statutory bar. How the two regimes actually divide the work.",
+  "practice_area": "Intellectual Property",
+  "intro": [
+    "A founder building a product usually asks the IP question backwards: is my software patentable? The more useful starting question is what is actually being protected, because copyright and patent law in India answer completely different problems, and most software products need both at different points in their life, not a choice between the two.",
+    "Copyright protects the code as written, arises automatically, and costs nothing to acquire, though registering it gives a founder something far more useful in a dispute: a dated, official record of what was written and when. A patent protects a technical idea embodied in software, is much harder and slower to get, and runs into a specific statutory exclusion that trips up a large share of applicants who file without understanding what it actually excludes."
+  ],
+  "sections": [
+    {
+      "heading": "Copyright protects the code, automatically and from day one",
+      "paragraphs": [
+        "Under the Copyright Act, 1957, a computer programme is treated as a literary work under Section 2(o), which brings it within the Act's general protection the moment it is created in a fixed, tangible form, whether on a hard drive, a repository, or a server. No registration is required for copyright to exist, and no filing fee stands between a developer and protection against someone copying their code outright.",
+        "What registration adds is evidentiary, not substantive. A certificate of registration from the Copyright Office is prima facie proof of authorship and of the date the work existed in that form, which matters enormously when a dispute turns on who wrote something first, or whether a defendant's code was copied from the plaintiff's rather than independently developed. Litigating copyright infringement without a registration is still possible, since the right exists regardless, but proving the two threshold facts a registration establishes automatically becomes a harder, more expensive exercise.",
+        "Copyright protects the specific expression, the actual sequence of code as written, not the underlying idea, algorithm, or functionality the code implements. A competitor who studies what a program does and writes their own, independently created code to do the same thing has not infringed copyright, however similar the end result looks to a user. This is precisely the gap a patent is meant to fill, when the underlying technical idea itself is what needs protecting rather than just the written code."
+      ]
+    },
+    {
+      "heading": "How to actually register a copyright in computer code",
+      "paragraphs": [
+        "Applications for a computer programme are filed on Form XIV with the Copyright Office, along with a Statement of Particulars and, for the typical software filing, a Statement of Further Particulars describing the work's features. Under the Copyright Rules, 2013 as amended with effect from 30 March 2021, the mandatory deposit for source code is the first and last ten pages of the code, or the entire source code where the program runs to fewer than twenty pages in total, and critically, the deposited pages cannot carry any blocked-out, redacted, or blanked portions.",
+        "That no-redaction condition surprises a lot of applicants who assume they can mask proprietary logic within the deposited pages while still claiming the filing as complete. The rule as it currently stands does not permit that; an applicant uncomfortable disclosing any part of the deposited pages has to accept that disclosure as the cost of the registration, or consider whether registering the whole work is the right call for that particular piece of code. The ten-page figure is a floor, not a ceiling, and an applicant can deposit more of the code than the minimum if that better establishes the scope of what is being registered.",
+        "A separate application is required for each distinct work, which matters for a product with multiple modules or versions built up over time; registering an early version does not automatically extend to cover a substantially rewritten later one. Filing promptly after a version is finalised, rather than batching registrations for a later date, keeps the registered deposit genuinely contemporaneous with what was actually running in production at that time, which is exactly the kind of detail that matters if the registration is ever relied on in litigation."
+      ]
+    },
+    {
+      "heading": "The patent route: what Section 3(k) actually excludes",
+      "paragraphs": [
+        "Section 3(k) of the Patents Act, 1970 excludes 'a mathematical or business method or a computer programme per se or algorithms' from being treated as an invention for patent purposes. Read literally and without context, this sounds like software cannot be patented in India at all, which is not the position in practice and has not been for some time.",
+        "The operative word is 'per se'. The phrase was introduced by the 2002 amendment specifically to narrow the exclusion, so that an invention which happens to be implemented through a computer programme, but which solves a genuine technical problem and produces a technical effect beyond the programme simply running on standard hardware, falls outside the bar. What the exclusion actually targets is an abstract algorithm, a bare business method, or a computer programme claimed as such, with no technical contribution attached to it.",
+        "Those Guidelines for Examination of Computer Related Inventions, first issued by the Patent Office in 2013 and substantially revised in 2017, reflect this narrower reading, directing examiners to look for a demonstrable technical advancement or a technical solution to a technical problem, rather than rejecting every claim that happens to involve software outright. Courts have reinforced the same point: a Delhi High Court decision has held that not every computer-related invention is caught by Section 3(k), treating the 'technical effect' inquiry as one that is now reasonably well settled by both judicial precedent and the Patent Office's own examination practice, both in India and internationally."
+      ]
+    },
+    {
+      "heading": "What actually gets through, and what gets rejected",
+      "paragraphs": [
+        "In practice, the test examiners and courts apply turns on whether the claim shows a technical effect going beyond automating something a person could otherwise do manually, or beyond generic use of a computer to run calculations faster. A claim for a new method of processing sensor data to control a physical machine more efficiently has a plausible technical effect. A claim that simply restates an existing business workflow, now performed by software instead of a person with a spreadsheet, usually does not, no matter how commercially valuable the automation turns out to be.",
+        "Device or system claims drafted around software inventions are frequently rejected under Section 3(k) in examination practice for lacking any novel or inventive hardware orientation, where the claimed hardware is just a generic processor and memory running the software, with nothing distinguishing it from any other computer performing any other calculation. Method claims face a parallel problem when they read as a sequence of computational steps or an algorithm, without tying those steps to a concrete technical result outside the computation itself.",
+        "This is also an area where the examination guidelines themselves have been unsettled; a further revision to the CRI guidelines has reportedly been under discussion more recently, which makes it worth checking the Patent Office's current published guidelines, rather than relying on the 2017 version by assumption, before finalising how a software patent application is drafted and filed."
+      ]
+    },
+    {
+      "heading": "Deciding which route actually fits the product",
+      "paragraphs": [
+        "A business building a product where the commercial value sits in the specific code, its architecture, and the engineering effort that went into writing it, rather than in a single novel technical idea underlying it, gets most of its real protection from copyright, and should treat registration as a routine part of each significant release rather than an afterthought pursued only once a dispute looks likely.",
+        "Where the product instead embodies a genuinely novel technical solution, a new way of processing data, controlling a device, or achieving a measurable technical improvement over existing methods, there is a case worth exploring for a patent, but should go in expecting the Section 3(k) hurdle to shape how the claims are drafted from the outset. Claims written around the technical problem being solved and the technical effect achieved survive examination far more often than claims that simply describe software performing a function.",
+        "Many software products genuinely need both, pursued for different parts of the same system: copyright for the code as written, filed as a routine administrative step, and a patent application, if one is justified at all, for the specific technical innovation underneath it, drafted with Section 3(k) squarely in mind rather than treated as a problem to deal with only if an examiner raises it."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to register copyright in my software before I can sue someone for copying it?",
+      "a": "No. Copyright in a computer programme exists automatically from the moment it is created, under Section 2(o) of the Copyright Act, 1957, which treats software as a literary work. Registration is not a precondition to the right existing, though it makes proving authorship and the date of creation considerably easier in litigation."
+    },
+    {
+      "q": "Can I redact parts of my source code when filing a copyright application to protect trade secrets?",
+      "a": "Not under the current rule. The Copyright Rules, 2013 as amended require the deposited first-and-last-ten-pages (or the full code, if under twenty pages) to be free of any blocked-out or redacted portions, so an applicant uncomfortable disclosing that material has to accept the disclosure or reconsider the filing."
+    },
+    {
+      "q": "Does Section 3(k) mean software can never be patented in India?",
+      "a": "No. The exclusion targets a computer programme claimed 'per se', without a technical effect, not every invention that happens to be implemented in software. An invention that solves a genuine technical problem and produces a demonstrable technical effect beyond running on generic hardware can still be patented."
+    },
+    {
+      "q": "If my software patent claim gets rejected under Section 3(k), does that mean I have no protection at all?",
+      "a": "No. The code itself remains protected by copyright regardless of how the patent application fares, since the two rights are independent. A Section 3(k) rejection means the specific claimed invention was not treated as patentable subject matter; it does not affect copyright in the underlying code."
+    }
+  ],
+  "references": [
+    "Copyright Act, 1957, Section 2(o) (computer programme as literary work)",
+    "Copyright Rules, 2013, Rule 70(5) as amended with effect from 30 March 2021 (source code deposit requirements for computer programme applications; no redaction permitted)",
+    "Patents Act, 1970, Section 3(k) (exclusion of mathematical and business methods, computer programmes per se, and algorithms from patentability)",
+    "Patent Office, Guidelines for Examination of Computer Related Inventions (CRI), 2013, revised 2017",
+    "Delhi High Court ruling that not all computer-related inventions are barred by Section 3(k), applying the technical effect test"
+  ],
+  "sources": [
+    "https://copyright.gov.in/Copyright_Rules_2013/chapter_xiii.html",
+    "https://www.intepat.com/blog/software-copyright-registration-india/",
+    "https://www.intepat.com/ip-services/copyrights/software-registration",
+    "https://corporate.cyrilamarchandblogs.com/2020/02/legal-protection-of-software-in-india/",
+    "https://asiaiplaw.com/index.php/section/ip-analysts/not-all-computer-related-inventions-are-hit-by-section-3k-of-the-patents-act",
+    "https://managingip.com/article/2a5cwaewu2cdq7vaiubk0/india-computer-related-inventions-to-be-tested-on-technical-contribution"
+  ],
+  "verification_notes": [
+    "Computer programme treated as literary work under Section 2(o), copyright arising automatically without registration: confirmed by the Cyril Amarchand Mangaldas commentary and the Intepat software-registration service page, both stating the same position independently.",
+    "Form XIV filing, Statement of Particulars/Further Particulars, and the first-and-last-ten-pages source code deposit rule under the Copyright Rules, 2013 (effective 30 March 2021) with no redaction permitted: confirmed directly from the Copyright Office's own Chapter XIII rule text (copyright.gov.in) and corroborated by the Intepat copyright-registration-procedure page; the office's own rule text is treated as the primary source over any secondary commentary that described redaction being permitted.",
+    "Section 3(k) exclusion of computer programmes 'per se', mathematical/business methods and algorithms, and the significance of the word 'per se' following the 2002 amendment: confirmed by the Asia IP Law commentary and the Intepat software-patent explainer, both describing the same statutory history and the narrowing effect of 'per se'.",
+    "CRI Guidelines (2013, revised 2017) directing examiners to assess technical effect/technical advancement, and the Delhi High Court ruling that not all computer-related inventions are barred by Section 3(k): confirmed by the ManagingIP article and the Asia IP Law commentary, both describing the same technical-effect test and the 2017 guideline revision; the specific Delhi High Court case name and citation were not independently confirmed in the search results, so the ruling is described here by its holding only, without a case name, and a further CRI guidelines revision reported as under discussion is noted as unverified and to be checked against the Patent Office's current published guidelines before relying on the 2017 version."
+  ]
+}

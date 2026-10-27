@@ -1,0 +1,99 @@
+{
+  "slug": "local-commissioner-order-xxvi-asset-inspection-guide",
+  "title": "Appointing a Court Commissioner to Inspect or Secure Disputed Assets: What Order XXVI CPC Allows",
+  "meta_description": "How Order XXVI CPC lets a court send a Local Commissioner to inspect or inventory disputed assets, and why that differs from deciding ownership.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "A commercial dispute rarely stays still while the pleadings are being drafted. A landlord locks a tenant out and the tenant's fixtures are still inside. A distributor terminates an agreement and the former dealer's unsold stock sits in a warehouse neither side wants to touch first. A joint venture breaks down and nobody can agree on what equipment is actually on site. In each of these situations, a party often needs the court to record, before anything moves or disappears, exactly what exists and in what condition. Order XXVI of the Code of Civil Procedure is the provision that does this.",
+    "It is a narrower tool than most litigants expect when they first hear the phrase 'local commissioner'. The commissioner does not decide who owns the goods, does not resolve the underlying dispute, and in most cases is not even meant to physically remove anything unless the order specifically says so. What the commissioner does is look, record, and report. Used well, that report becomes the evidentiary anchor for everything that follows, whether the final forum is a civil court, a commercial court, or an arbitral tribunal."
+  ],
+  "sections": [
+    {
+      "heading": "What Order XXVI Actually Lets a Court Do",
+      "paragraphs": [
+        "Order XXVI, Rule 9 of the CPC empowers a court to appoint a commissioner to make a local investigation for the purpose of elucidating any matter in dispute, or of ascertaining the market value of any property, or the amount of any mesne profits or damages, or annual net profits. Related rules in the same Order deal with examining accounts, conducting a scientific investigation, and selling property that is subject to speedy and natural decay. The common thread is that the court is delegating a fact-finding, inspection, or preservation task that it cannot conveniently perform itself from the bench.",
+        "Courts have repeatedly treated an application for appointment of a commissioner for local inspection as something that can be made either before the commencement of trial or during it, rather than at one fixed procedural stage alone. That flexibility matters in a commercial dispute where the need to document the state of assets often arises the moment a lock-out, a termination, or a seizure threat becomes real, long before issues are framed.",
+        "The commissioner appointed under this provision is treated as an officer of the court. That status carries weight: the commissioner's report is not an affidavit from an interested party, and courts give it a measure of presumptive reliability that a party's own photographs or unilateral inventory rarely gets. It does not make the report conclusive, but it does mean the other side has to do real work to displace it, rather than simply disputing it in argument."
+      ]
+    },
+    {
+      "heading": "Where This Shows Up in Commercial and Arbitration Practice",
+      "paragraphs": [
+        "The clearest recent illustration involves a Section 9 petition under the Arbitration and Conciliation Act, 1996, where a tenant sought interim protection after a landlord disputed its right to retain possession of leased premises and remove its own fixtures. The Delhi High Court, in September 2026, appointed a Local Commissioner to inspect and prepare an inventory of the tenant's assets at the leased premises, directed the commissioner to record any objections about the inventory or the condition of those assets, and asked for a report to the arbitral tribunal within a week of the inspection, even as it referred the underlying lease dispute to arbitration. The inspection order and the reference to arbitration were not treated as alternatives; they ran together.",
+        "That pattern recurs often enough to matter for drafting. A commissioner's inspection and inventory is frequently sought alongside, not instead of, an application for an injunction or for interim custody. In a separate Delhi order of the same period, where the parties did not object to a joint inspection, an advocate was appointed local commissioner and directed to prepare an inventory of the petitioner's assets, including fixtures and fittings, record their condition, and take photographs and videographs of the exercise. Neither order purported to decide who was entitled to keep the assets; both simply froze the factual record.",
+        "The same logic applies outside arbitration, in an ordinary civil or commercial suit over disputed machinery, stock, or fit-outs. Where there is a real risk that evidence of condition or quantity will be lost, altered, or disputed by the time the matter reaches trial, a Local Commissioner's contemporaneous report becomes difficult for either side to later argue around."
+      ]
+    },
+    {
+      "heading": "Drafting the Application: Be Specific About the Mandate",
+      "paragraphs": [
+        "The single most common mistake in these applications is vagueness about what the commissioner is actually being asked to do. 'Inspection', 'inventory', and 'custody' are three different things, and a court's order will typically track exactly what was sought rather than what a party later wishes it had asked for. An application that asks only for inspection and inventory will usually not support a commissioner removing or sealing goods; a party that genuinely needs custody or removal has to plead and justify that separately, including why a mere inventory would leave it without an effective remedy.",
+        "It helps to specify the premises precisely, identify (so far as possible) the categories of assets involved, and state why urgency defeats the normal process of waiting for the other side's cooperation or for discovery under Order XI. Courts are more receptive where the applicant shows a concrete, imminent risk, such as an impending lock-out, an eviction notice already served, or a pattern of the other side removing stock, rather than a generalised fear that evidence might one day go missing.",
+        "Costs of the commissioner's fee are usually borne, at least in the first instance, by the applicant, subject to final adjustment depending on the outcome. Building a reasonable costs figure and a proposed scope of work into the draft order sought, rather than leaving the court to work it out, tends to produce a cleaner and faster order."
+      ]
+    },
+    {
+      "heading": "What the Report Can and Cannot Decide",
+      "paragraphs": [
+        "A Local Commissioner's report is evidence of a fact at a point in time: what was present, in what quantity, and in what condition, when the commissioner visited. It is not a finding on title, on contractual entitlement, or on liability, and courts are careful to say so expressly in these orders precisely because litigants on the losing side of an inspection sometimes try to read more into it than was decided.",
+        "This matters when drafting the application and when responding to one. A party resisting an overbroad commissioner application does better by arguing that the relief sought goes beyond mere preservation of evidence and effectively grants the other side final relief without a trial, than by arguing that the court has no power to order any inspection at all. Courts are, as a general matter, far more willing to permit inspection and inventory than they are to permit custody or removal, because the latter can functionally decide the dispute before it is heard."
+      ]
+    },
+    {
+      "heading": "Opposing an Application: Narrow It Rather Than Block It Outright",
+      "paragraphs": [
+        "A respondent facing such an application rarely succeeds by resisting the idea of any commissioner altogether; courts tend to view a request for mere inspection and inventory as low-risk and consistent with preserving everyone's position. The more productive line is to contest scope: object to custody or removal while conceding, or not strongly opposing, inspection; insist on a joint inspection with both sides' representatives present rather than an ex parte one; and ask that the commissioner's report be shared with both parties before it goes to the court or tribunal, so that factual objections can be raised at that stage rather than later in argument.",
+        "Where confidential business information, trade secrets, or sensitive documents are on the premises, it is worth seeking a direction that the commissioner's report and any photographs be filed in a sealed cover or shared on an undertaking of confidentiality, rather than resisting the inspection on that ground alone. Courts are generally willing to build in that kind of protection once asked, because it does not defeat the purpose of the exercise."
+      ]
+    },
+    {
+      "heading": "Combining Inspection With Other Interim Relief",
+      "paragraphs": [
+        "An inventory, by itself, does not stop anyone from removing or dissipating the assets it records; it only creates a record of what existed at the time. For that reason, parties facing a genuine risk of removal typically combine a request for inspection with a separate prayer for a status quo injunction, or, where the real exposure is financial rather than physical, a direction that a specific sum be secured or deposited pending the outcome. These are different forms of relief resting on different tests, and a court will usually examine each on its own footing rather than treating the grant of one as automatically justifying the other.",
+        "Framed and sought this way, Order XXVI stops being a stand-alone curiosity of procedural law and becomes one part of a toolkit, alongside interim injunctions and deposit directions, that a commercial litigant uses to make sure the final judgment, whenever it comes, is not rendered meaningless by what happened to the assets in the meantime."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get a Local Commissioner appointed before I even file my suit or Section 9 petition?",
+      "a": "The appointment is made in the course of a pending proceeding, so the suit or petition has to be on file, but courts have recognised that the application for a commissioner itself can be made very early, including before issues are framed or before the trial properly begins. What matters is showing urgency, not waiting for a later procedural stage."
+    },
+    {
+      "q": "Will the commissioner physically remove or seal my assets?",
+      "a": "Only if the order specifically authorises that. A standard inspection and inventory order lets the commissioner look, measure, photograph, and record condition. Custody, removal, or sealing is a separate and more intrusive form of relief that has to be specifically sought and justified, and courts grant it far less readily than a bare inspection."
+    },
+    {
+      "q": "Does the commissioner's report decide who owns the disputed assets?",
+      "a": "No. The report is evidence of the physical state of things at the time of inspection. Ownership, title, and contractual entitlement are decided later, by the court or tribunal hearing the substantive case, based on all the evidence, of which the commissioner's report is only one part."
+    },
+    {
+      "q": "Who pays for the Local Commissioner?",
+      "a": "The applicant typically bears the commissioner's fee and expenses in the first instance, since the application is theirs. The final allocation of that cost between the parties is usually adjusted later, along with the costs of the proceeding as a whole, once the dispute is decided."
+    },
+    {
+      "q": "What should I do if I think an inspection application against me is really an attempt to get custody of my goods without a proper hearing?",
+      "a": "Focus your opposition on scope rather than on blocking the application outright. Ask the court to limit the order to inspection and inventory, insist on a joint inspection with both sides present, and seek confidentiality protection for sensitive material, rather than arguing the court has no power to order any inspection at all."
+    }
+  ],
+  "references": [
+    "Code of Civil Procedure, 1908, Order XXVI, Rule 9 (appointment of commissioner for local investigation)",
+    "Arbitration and Conciliation Act, 1996, Section 9 (interim measures by court)",
+    "Amazon Seller Services Pvt. Ltd. v. Goodluck Buildtech Pvt. Ltd., Delhi High Court, O.M.P.(I)(COMM.) 443/2026, order dated 28 September 2026 (Local Commissioner appointed to inspect and inventory assets; dispute referred to arbitration)",
+    "Delhi High Court, O.M.P.(I)(COMM.) 387/2026 (Local Commissioner appointed by consent for joint inspection and inventory of petitioner's assets)",
+    "Karnataka High Court, as reported by LiveLaw, on the stage at which an application for appointment of a commissioner for local inspection under Order XXVI Rule 9 CPC may be made"
+  ],
+  "sources": [
+    "https://www.livelawbiz.com/amp/arbitration/delhi-high-court-orders-inspection-of-amazons-120-crore-assets-refers-18250-crore-lease-dispute-to-arbitration-552295",
+    "https://delhihighcourt.nic.in/app/showFileJudgment/75228092026OMPICOMM4432026_200526.pdf",
+    "https://delhihighcourt.nic.in/app/showFileJudgment/75214102026OMPICOMM3872026_172131.pdf",
+    "https://www.livelaw.in/amp/news-updates/karnataka-high-court-application-appointment-of-commissioner-can-be-made-either-before-commencement-of-trial-or-after-221466"
+  ],
+  "verification_notes": [
+    "Order XXVI Rule 9 CPC power to appoint a commissioner for local investigation: this is the Code's own statutory text, treated as settled and not requiring case-law confirmation beyond the provision itself.",
+    "The Amazon Seller Services v. Goodluck Buildtech order (inspection and inventory ordered, dispute referred to arbitration, September 2026): confirmed via two independent sources, the LiveLawBiz report and the Delhi High Court's own published judgment PDF carrying the matching case number and date.",
+    "The point that an application for a local-inspection commissioner can be made before or after commencement of trial: confirmed from a LiveLaw report of a Karnataka High Court ruling on this point; left in general terms since the full judgment text was not independently retrieved.",
+    "The distinction between inspection/inventory orders and custody/removal orders, and that courts more readily grant the former: stated as a general practical pattern drawn from the two Delhi orders reviewed (Amazon-Goodluck and the second O.M.P.(I)(COMM.) 387/2026 order), not as a formal rule stated in any single judgment, and phrased accordingly rather than as a binding legal test.",
+    "Costs of the commissioner being borne by the applicant in the first instance, subject to final adjustment: stated as standard, well-established civil procedure practice rather than tied to a specific citation, since no specific source in this search addressed costs allocation for this type of application."
+  ]
+}

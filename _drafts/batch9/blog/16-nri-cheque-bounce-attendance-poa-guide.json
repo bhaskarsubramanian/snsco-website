@@ -1,0 +1,98 @@
+{
+  "slug": "nri-cheque-bounce-attendance-poa-guide",
+  "title": "An NRI Named in a Cheque Bounce Case: Attendance, Power of Attorney and Quashing Explained",
+  "meta_description": "How an NRI handles personal appearance, a power of attorney holder, and the chance of quashing in a Section 138 cheque dishonour case under the BNSS.",
+  "practice_area": "NRI Legal Services",
+  "intro": [
+    "A family member calls to say a cheque has bounced, a complaint has been filed, and a magistrate's court somewhere in India wants the accused present. For an NRI living in Dubai, London or Toronto, that single piece of news usually triggers the same question: will I have to drop everything and fly back? The same worry runs the other way too. An NRI who sold a flat or lent money before leaving India, and whose cheque was dishonoured by the other side, often assumes the case cannot move forward at all without their physical presence to sign papers and give evidence.",
+    "Neither fear is entirely justified, and neither is entirely misplaced. Criminal procedure in India moved from the Code of Criminal Procedure to the Bharatiya Nagarik Suraksha Sanhita from 1 July 2024, and most of the old CrPC sections now sit under new numbers in the BNSS. The substance that matters to an NRI, where the case can be filed, whether personal attendance can be excused, whether a power of attorney holder can step in, and when a complaint can be shut down before trial, has largely carried over. This guide works through each of those questions in turn."
+  ],
+  "sections": [
+    {
+      "heading": "Where Can the Case Actually Be Filed?",
+      "paragraphs": [
+        "Section 138 of the Negotiable Instruments Act makes dishonour of a cheque, issued for a legally enforceable debt, an offence once a statutory demand notice has gone unanswered within the prescribed period. Jurisdiction for that complaint is fixed by Section 142(2) of the Act at the place where the payee's bank branch sits, the branch where the cheque was presented for collection, not where the accused resides or where the cheque was handed over. For an NRI accused, that often means a complaint lands in a city they have no other connection to, because the payee happened to bank there.",
+        "This rule cuts both ways for an NRI complainant as well. If an NRI lender in Singapore wants to sue on a dishonoured cheque, the complaint still has to be filed where their own bank presented the instrument, not from abroad and not at a forum of convenience. Getting this step wrong is one of the more common reasons a complaint gets challenged early, so confirming the correct bank branch and the date of presentation before filing, or before responding to a summons, is worth doing carefully rather than assuming the obvious court is the right one."
+      ]
+    },
+    {
+      "heading": "Do You Have to Appear in Person at Every Hearing?",
+      "paragraphs": [
+        "Not necessarily. Section 228 of the BNSS, which took over the role played by Section 205 of the old CrPC, allows a magistrate who has issued a summons to dispense with the personal attendance of the accused and let them appear through an advocate instead. The wording changed slightly, the BNSS version refers to appearance by advocate where the CrPC spoke of a pleader, but the underlying power is the same one magistrates have used for years in Section 138 matters where the accused lives far away.",
+        "This is a discretionary concession, not a right an NRI can simply assert. The magistrate can revoke it and call for personal attendance at any stage, typically if the case reaches the point of recording the accused's statement or if conduct suggests the exemption is being used to stall proceedings. A lawyer appearing on an NRI's behalf usually files the exemption application early, along with an undertaking that the client will appear in person if directed, since courts are more willing to grant the concession when it is framed this way rather than as an open-ended request to never show up."
+      ]
+    },
+    {
+      "heading": "Can a Power of Attorney Holder File the Complaint or Give Evidence?",
+      "paragraphs": [
+        "This question comes up constantly on the complainant's side. An NRI payee whose cheque bounced is frequently not in India when the complaint needs filing, let alone months later when evidence is recorded. The Supreme Court's three-judge bench in A.C. Narayanan v. State of Maharashtra settled that a power of attorney holder can file a Section 138 complaint and can also depose in it, provided the holder has personal knowledge of the transaction and has been properly authorised by the complainant. The complaint itself should reflect that the attorney holder is acting on the payee's behalf and knows the facts, rather than simply repeating what the payee told them.",
+        "Courts have since read this fairly strictly where the complainant is a company rather than an individual, insisting on clear authorisation through a board resolution or similar document naming the attorney holder. For an individual NRI, the safer course is a specific power of attorney that names the transaction, is executed and attested properly for use in India, and is accompanied by an affidavit from the attorney holder confirming their own knowledge of the dealings. A generic, all-purpose power of attorney drafted for property matters is routinely challenged when used for this different purpose."
+      ]
+    },
+    {
+      "heading": "Can Evidence Be Given by Video Call From Abroad?",
+      "paragraphs": [
+        "Yes, and this has been settled law for two decades. In State of Maharashtra v. Dr. Praful B. Desai, the Supreme Court held that recording evidence in a criminal trial through video conferencing satisfies the purpose of the provisions requiring the accused's presence while evidence is taken, because the accused and the defence lawyer can see and question the witness as if they were physically present. The playback feature was treated as an added advantage, since a court can review how a witness answered rather than relying only on a written transcript.",
+        "In practice, an NRI complainant, or occasionally a witness who has since moved abroad, applies to the trial court for permission to depose over video link, usually arranging the facility and bearing its cost. Magistrates handling Section 138 cases are generally receptive to this, since the alternative is an indefinite adjournment while the witness arranges travel. The one caution worth flagging is that courts have, in other kinds of cases involving lengthy document-heavy cross-examination, preferred in-person evidence, so a straightforward cheque bounce matter with limited documents is usually an easier fit for this route than a complex commercial dispute would be."
+      ]
+    },
+    {
+      "heading": "Is Settling the Case Even Possible, and Does Delay Cost Money?",
+      "paragraphs": [
+        "Section 147 of the Negotiable Instruments Act makes the offence compoundable, which means the parties can agree to settle at almost any stage, including after conviction and during an appeal, as long as both sides consent. In Damodar S. Prabhu v. Sayed Babalal H., the Supreme Court held that compounding under the Act is governed by Section 147 itself rather than the general compounding rules in the criminal procedure code, and that courts should encourage early settlement by making it progressively more expensive to compound as the case drags on. The Court's own reasoning was that too many accused treated compounding as a last resort rather than a first option, and that imposing escalating costs for delay would change that incentive.",
+        "For an NRI, this matters practically because distance and inconvenience often make an early settlement more attractive than fighting a case out over several years of hearings that require periodic attention from abroad. A settlement reached before the first or second hearing is ordinarily treated far more leniently on costs than one reached only after the trial court has recorded evidence. Courts have also made clear that compounding needs genuine mutual consent and cannot be forced through by one side unilaterally depositing money, so any settlement should be documented and placed before the court rather than left informal."
+      ]
+    },
+    {
+      "heading": "Can the Complaint Be Quashed Before It Even Gets to Trial?",
+      "paragraphs": [
+        "Section 528 of the BNSS carries forward the inherent power that High Courts earlier exercised under Section 482 of the CrPC, preserving their authority to prevent abuse of the court's process and to secure the ends of justice. An NRI accused who believes a complaint is fundamentally defective, say, because the cheque was given as security rather than for a debt, or because the statutory notice was never actually served, or because the complaint does not disclose the basic ingredients of the offence at all, can approach the High Court to have the complaint quashed at the threshold.",
+        "This remedy is used sparingly. Quashing under this provision is meant for cases where the complaint is an abuse of process on its face, not a route for the accused to avoid a trial simply because the defence looks strong on paper. Where the dispute turns on facts that need evidence, such as whether a debt was genuinely owed, courts routinely decline to quash and leave the question for trial. An NRI client should treat a quashing petition as a targeted remedy for a genuinely defective complaint, not as a general substitute for appearing and contesting the case on merits."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I'm an NRI and just received a summons for a cheque dispute in India. Do I have to return immediately?",
+      "a": "Not immediately. You can engage a lawyer to appear and apply for exemption from personal attendance under Section 228 of the BNSS. The magistrate decides whether to grant it and can later call you back if the case reaches a stage, such as recording your statement, where presence is genuinely needed."
+    },
+    {
+      "q": "Can a relative in India represent me using a power of attorney in a cheque bounce case?",
+      "a": "A properly executed, specific power of attorney lets someone file a complaint or depose on your behalf as complainant if they have personal knowledge of the transaction, following A.C. Narayanan. It does not let a relative stand trial as the accused in your place; attendance exemptions for the accused are a separate route."
+    },
+    {
+      "q": "What actually happens if I never respond to the summons at all?",
+      "a": "The court can issue a bailable or non-bailable warrant and, in persistent cases, proceed against you in your absence after following the required procedure. Ignoring a summons rarely makes the case disappear and usually makes the eventual process more difficult and more expensive to unwind."
+    },
+    {
+      "q": "Is testifying over video conference from abroad actually accepted by Indian courts?",
+      "a": "Yes. Since the Supreme Court's ruling in Praful Desai, video conferencing is an accepted method of recording evidence in criminal trials, including Section 138 matters, provided the court permits it and the arrangement allows the opposing side a proper opportunity to see and question the witness."
+    },
+    {
+      "q": "Can I still settle the case if it has already gone to trial?",
+      "a": "Yes, compounding under Section 147 remains available even after conviction, including during an appeal, provided both sides agree. Following Damodar S. Prabhu, courts generally expect higher settlement costs the later the compounding application comes, so settling earlier is usually cheaper as well as faster."
+    }
+  ],
+  "references": [
+    "Negotiable Instruments Act, 1881, Sections 138, 142(2) and 147",
+    "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 228 (successor to CrPC Section 205) and Section 528 (successor to CrPC Section 482)",
+    "A.C. Narayanan v. State of Maharashtra, (2014) 11 SCC 790",
+    "State of Maharashtra v. Dr. Praful B. Desai, Supreme Court of India, 2003",
+    "Damodar S. Prabhu v. Sayed Babalal H., (2010) 5 SCC 678"
+  ],
+  "sources": [
+    "https://blog.ipleaders.in/laws-regarding-presence-accused-criminal-trial-appointment-power-attorney/",
+    "https://lexibal.com/?p=44446",
+    "https://www.livelaw.in/pdf_upload/pdf_upload-363028.pdf",
+    "https://blog.ipleaders.in/?p=57926",
+    "https://www.legitquest.com/case/damodar-s-prabhu-v-sayed-babalal-h/E057",
+    "https://blog.ipleaders.in/quashing-petition-under-section-528-bnss-complete-guide/"
+  ],
+  "verification_notes": [
+    "Section 142(2) territorial jurisdiction and Section 147 compounding: well-established statutory text, consistent across all secondary sources reviewed; stated without a specific percentage cost schedule since the exact tiered figures from Damodar S. Prabhu could not be confirmed precisely from the sources retrieved, so the guide describes the escalating-cost principle only in general terms.",
+    "Section 228 BNSS as successor to Section 205 CrPC: confirmed by two independent commentary sources (ipleaders, lexibal/mondaq-style analysis) agreeing on both the renumbering and the 'advocate' versus 'pleader' wording change.",
+    "A.C. Narayanan holding and citation (2014) 11 SCC 790: confirmed across multiple secondary case-law summaries (supremecourtcases.com, advocatekhoj, later High Court orders citing AIR 2014 SC 630 for the same ruling).",
+    "Praful Desai holding on video conferencing: confirmed by multiple sources (ipleaders, legalvidhiya, later Delhi High Court citations); the exact SCC citation number was not confidently confirmed from the sources retrieved, so it is omitted rather than guessed.",
+    "Section 528 BNSS as successor to Section 482 CrPC and its quashing scope: confirmed by two independent sources (patraslawchambers, ipleaders quashing guide); the Bhajan Lal categories are referenced only as a general standard without a specific citation, since that citation could not be independently confirmed from the search results used."
+  ]
+}
