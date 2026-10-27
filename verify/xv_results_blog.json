@@ -1967,5 +1967,46 @@
       "https://www.linklaters.com/insights/blogs/arbitrationlinks/2025/may/indian-supreme-court-on-modification-of-awards"
     ],
     "note": "Gayatri Balasamy v. ISG Novasoft Technologies Ltd. (2025 INSC 605, five-judge Constitution Bench, 4:1, decided 30 April 2025) confirmed: courts have a limited power under Sections 34/37 to modify awards (severability, clerical/computational/typographical correction, post-award interest, and the Supreme Court's own Article 142 power), narrowing but not overruling NHAI v. Hakeem's minimal-interference principle. Background facts (employment arbitration, Madras HC revision, Rs 2 crore original award) match Supreme Court Observer's summary. Draft is appropriately cautious about the dissent's detail and about Section 48/Part II reach being a structural inference rather than part of the holding."
+  },
+  {
+    "file": "_drafts/batch9/blog/08-drag-along-tag-along-rights-enforceability-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.casemine.com/commentary/in/v.b-rangaraj-v.-v.b-gopalakrishnan:-upholding-articles-of-association-over-private-agreements/view",
+      "https://indiacorplaw.in/2010/09/05/twist-in-tale-share-transfer/",
+      "https://indiacorplaw.in/2016/05/01/messer-holdings-supreme-court-refuses/",
+      "https://corporate.cyrilamarchandblogs.com/2024/10/share-transfer-restrictions-under-sha-the-need-to-revisit-section-582-of-ca-2013/"
+    ],
+    "note": "Rangaraj holding (transfer restriction not in Articles unbinding on company) confirmed, as is Messer Holdings (Bombay HC Division Bench, private ROFR among public co shareholders upheld as contract, overruling Bajaj Auto single judge; SC later declined to decide the point in 2016). Section 58(2) proviso text and the flagged open question of whether it binds the company itself both confirmed by independent commentary. IL&FS Trust point is appropriately caveated in the draft as single-source."
+  },
+  {
+    "file": "_drafts/batch9/blog/09-training-bond-enforceability-employer-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.lakshmisri.com/Uploads/MediaTypes/Documents/Corporate-Amicus-Jan2013.pdf",
+      "https://www.casemine.com/in/column/negative-covenants-and-injunctions-in-indian-contract-law:-an-integrated-analysis/view",
+      "https://www.scconline.com/blog/?p=391523",
+      "https://psalegal.com/retention-clauses-under-scrutiny-enforcing-service-bonds-in-india/"
+    ],
+    "note": "Gujarat Bottling Co. Ltd. v. Coca Cola Co. is a commercial franchise non-compete case, not an employment case; it is cited for the during-term-valid/post-term-void principle in a general contracts sense, but the actual leading employment-law authority for that exact proposition is Niranjan Shankar Golikari v. Century Spinning & Mfg. Co. Ltd., AIR 1967 SC 1098. The draft attributes an employment-specific holding to Gujarat Bottling in three places. Section 74/Fateh Chand v. Balkishan Dass holding, Section 73 contrast, and the pro-rata/documentation drafting points all check out against independent commentary.",
+    "fixes": [
+      {
+        "find": "following the Supreme Court's holding in Gujarat Bottling Co. Ltd. v. Coca Cola Co. that restraints taking effect after the employment relationship ends are hit by Section 27, while restraints operating during the term of employment are not",
+        "replace": "following the Supreme Court's holding in Niranjan Shankar Golikari v. Century Spinning & Mfg. Co. Ltd. that restraints taking effect after the employment relationship ends are hit by Section 27, while restraints operating during the term of employment are not, provided they are not unconscionable or unreasonable",
+        "reason": "Gujarat Bottling v. Coca Cola is a commercial franchise case, not an employment case; the correct employment-law authority for this exact proposition is Niranjan Shankar Golikari, AIR 1967 SC 1098."
+      },
+      {
+        "find": "Gujarat Bottling Co. Ltd. v. Coca Cola Co., AIR 1995 SC 2372 (restraints operative during employment are valid; post-termination restraints are hit by Section 27)",
+        "replace": "Niranjan Shankar Golikari v. Century Spinning & Mfg. Co. Ltd., AIR 1967 SC 1098 (restraint operative during the employment term is valid if not unconscionable or unreasonable; post-termination restraint is void under Section 27)",
+        "reason": "Correcting the case citation to the actual employment-law authority for this holding."
+      },
+      {
+        "find": "Gujarat Bottling Co. Ltd. v. Coca Cola Co. holding that restraints during employment are valid while post-termination restraints are hit by Section 27: confirmed by the legal-wires.com commentary citing the AIR 1995 SC 2372 citation; corroborated generally by the broader commentary set describing the during-term versus post-term distinction as settled law, though only one source gave the specific citation, so it is flagged here as resting on a single confirmed citation.",
+        "replace": "Niranjan Shankar Golikari v. Century Spinning & Mfg. Co. Ltd. (AIR 1967 SC 1098) holding that a restraint during employment is valid unless unconscionable or unreasonable, while post-termination restraints are hit by Section 27: confirmed by multiple independent commentaries describing this as the leading employment authority on the point.",
+        "reason": "Updating the verification note to match the corrected case citation."
+      }
+    ]
   }
 ]
