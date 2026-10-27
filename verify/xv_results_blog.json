@@ -1339,7 +1339,7 @@
     "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
     "fixes": [
       {
-        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
+        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
         "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
         "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
       }
@@ -1781,5 +1781,29 @@
       "https://taxguru.in/corporate-law/sc-upholds-stamp-duty-mining-leases-based-anticipated-royalty.html"
     ],
     "note": "Independent search confirms Birla Corporation Ltd. v. State of Madhya Pradesh, 2026 INSC 738 / 2026 LiveLaw (SC) 717, decided 23 July 2026 by Justices Karol and Masih, the 56.27-hectare Satna limestone lease, the Rs 4.32 crore 2004 Collector demand, the Section 26 proviso reasoning (estimated royalty valuation where government is lessor), the Form K Part IX Clause 9 anticipated-royalty yardstick, and the dead-rent-versus-royalty distinction. Guide correctly confines the holding to Madhya Pradesh's own notification rather than overstating it as a universal rule. No factual errors found."
+  },
+  {
+    "file": "_drafts/batch8/blog/03-escheat-no-heirs-property-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://api.sci.gov.in/supremecourt/2007/17908/17908_2007_Judgement_22-Sep-2017.pdf",
+      "https://www.scconline.com/blog/post/2025/09/17/supreme-court-dismisses-rajasthan-khetri-estate-upholds-will-khetri-trust/",
+      "https://www.maheshwariandco.com/press-releases/supreme-court-escheat-ruling-on-valid-will/",
+      "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-rejects-rajasthans-claim-over-raja-sardar-singhs-estate/"
+    ],
+    "note": "Independent search confirms Kutchi Lal Rameshwar Ashram Trust v. Collector, Haridwar (decided 22 Sept 2017 by Ramana and Chandrachud JJ), holding Section 29 states the escheat principle but gives no procedure for contested facts, burden on the party asserting failure of heirs, and civil court as the proper forum. State of Rajasthan v. Ajit Singh (2025 SCC OnLine SC 1992, decided 1 Sept 2025, Nagarathna and Sharma JJ) confirmed: testator Raja Bahadur Sardar Singh of Khetri executed a will on 30 Oct 1985, died 28 Jan 1987 with no legal heirs, Delhi HC Division Bench granted probate (reported July 2023), and SC held the State had no locus to challenge probate since Section 29 applies only to intestacy. All dates, the 1985/1987 facts, and the holdings in the draft match independent sources."
+  },
+  {
+    "file": "_drafts/batch8/blog/04-look-out-circular-nri-matrimonial-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/high-courts/andhra-pradesh-high-court/x-v-union-of-india-2026aphc3446-498-a-ipc-look-out-circular-travel-matrimonial-dispute-1607055",
+      "https://www.drishtiias.com/daily-updates/daily-news-analysis/mha-revises-guidelines-for-look-out-circulars/print_manually",
+      "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-directs-police-issuance-loc-against-husband-554366",
+      "https://thetaxcorp.in/article/delhi-high-court-quashes-unauthorized-look-out-circular-issued-at-ncws-behest"
+    ],
+    "note": "X v. Union of India, 2026 APHC 3446 (AP HC, reported ~17 Feb 2026) confirmed: quashed an LOC against a UAE-based employee in a 498-A dowry case on Article 21 grounds given his cooperation, and reiterated LOCs are for grave offences, financial irregularities or offences against society. The March 2026 MHA guideline revision barring NCW/NHRC/NCPCR/NCLT from directly requesting LOCs, requiring routing through law enforcement, and reserving the open-ended proforma category for counter-terrorism/intelligence agencies, is confirmed by Drishti IAS. Mrs. K v. State of Karnataka, Crl. Petition No. 15637/2026 (Justice Hegde, Oct 2026) confirmed as a wifes application for an LOC against a husband, directing police to take steps, matching the drafts careful framing as an interim/pending matter. Vikram Sharma v. Union of India (Delhi HC) confirmed as holding the NCW lacks power to direct an LOC. The generic January 2026 Karnataka reference matches a contemporaneous report (Daksha Legal, 14 Jan 2026) of a Karnataka HC order quashing proceedings and criticising LOC use as compounding injustice in a matrimonial case; draft appropriately avoids naming an unverified specific case for this one. No factual errors found."
   }
 ]
