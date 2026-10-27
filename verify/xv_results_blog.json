@@ -2008,5 +2008,29 @@
         "reason": "Updating the verification note to match the corrected case citation."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch9/blog/10-section-281b-provisional-attachment-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.livelaw.in/amp/tax-cases/cash-in-bank-account-property-liable-provisional-attachment-section-281b-of-income-tax-act-kerala-high-court-282244",
+      "https://itatonline.org/digest/dabur-invest-corp-v-acit-2019-416-itr-282-delhihc/",
+      "https://bcajonline.org/journal/provisional-attachment-section-281b-provisional-attachment-of-bank-accounts-aggregating-to-over-rs-33-lakh-assessment-raising-demand-of-rs-962378-attachment-should-be-restricted-to-the-deman/",
+      "https://taxmanagementindia.com/visitor/detail_act.asp?ID=18842"
+    ],
+    "note": "Mohammed Salih procedural history confirmed in detail: single judge quashed attachment holding bank accounts not property under 281B, Kerala HC Division Bench reversed on 27 Jan 2025 holding bank balances are property and attachment must be commensurate with probable demand including penalty (matches draft exactly, resolving an apparent conflict in one secondary digest that was describing the superseded single-judge view). Dabur Invest Corp (2019) 416 ITR 282 and Nirmal Singh v UOI 352 ITR 396 (P&H) both independently confirmed with matching facts and holdings. Finance (No.2) Act 2014 amendment effective 1 October 2014 confirmed."
+  },
+  {
+    "file": "_drafts/batch9/blog/11-fssai-director-liability-section-66-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.moneylife.in/article/karnataka-hc-quashes-criminal-case-against-hindustan-unilever-ceo-rohit-jawa-over-contaminated-horlicks-biscuits/77669.html",
+      "https://lawtimesjournal.in/aneeta-hada-vs-godfather-travels-tours-pvt-ltd/",
+      "https://www.livelaw.in/high-court/calcutta-high-court/ecoli-found-in-packaged-lassi-calcutta-high-court-quashes-case-against-manager-says-company-must-be-accused-of-vicarious-liability-544862",
+      "https://www.livelaw.in/amp/news-updates/jammu-kashmir-ladakh-high-court-vicarious-liability-sec-66-food-safety-standard-act-complaint-period-of-limitation-222004"
+    ],
+    "note": "Rohit Jawa v. State of Karnataka (Criminal Petition 8536/2023, decided 3 July 2025, Justice JM Khazi) confirmed: Karnataka HC quashed proceedings against HUL MD/CEO for non-impleadment of the company over contaminated Horlicks biscuits, with liberty to refile. Aneeta Hada (2012) 5 SCC 661 confirmed as holding company prosecution is a sine qua non for proceeding against officers. Calcutta HC manager-quashing case (e-coli lassi, Partha Sarathi Tripathy) confirmed matching the generic description in the draft. J&K/Ladakh HC rulings on vicarious liability and limitation under Section 66/77 also confirmed in substance."
   }
 ]
