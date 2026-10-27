@@ -1884,5 +1884,45 @@
       "https://mphc.gov.in/upload/jabalpur/MPHCJB/2022/MP/1458/MP_1458_2022_FinalOrder_17-Mar-2023.pdf"
     ],
     "note": "Balwant Singh v. Daulat Singh (1997) 7 SCC 137 confirmed: mutation neither creates nor extinguishes title and has no presumptive value, relevant only for revenue collection. Jitendra Singh v. State of Madhya Pradesh (SLP(C) 13146/2021, order dated 6 Sept 2021, M.R. Shah and Aniruddha Bose JJ) confirmed: mutation applications based on disputed wills are not maintainable in revenue proceedings and the claimant must get title crystallised in civil court first. Suraj Bhan v. Financial Commissioner (2007) 6 SCC 186 confirmed as the companion authority cited alongside Balwant Singh in the Jitendra Singh order for the same fiscal-purpose-only proposition. All holdings, citations and dates match independent sources. No factual errors found."
+  },
+  {
+    "file": "_drafts/batch9/blog/01-local-commissioner-order-xxvi-asset-inspection-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelawbiz.com/amp/arbitration/delhi-high-court-orders-inspection-of-amazons-120-crore-assets-refers-18250-crore-lease-dispute-to-arbitration-552295",
+      "https://www.livelaw.in/amp/news-updates/karnataka-high-court-application-appointment-of-commissioner-can-be-made-either-before-commencement-of-trial-or-after-221466",
+      "https://www.karnatakajudiciary.kar.nic.in/judgements/WP201274-22-24-01-2023.pdf"
+    ],
+    "note": "Order XXVI Rule 9 CPC power confirmed as statutory text. The Amazon Seller Services v. Goodluck Buildtech order (Delhi HC, O.M.P.(I)(COMM.) 443/2026, 28 Sept 2026, Justice Om Prakash Shukla: Local Commissioner appointed to inventory leased fixtures worth about Rs 120 crore, indemnity dispute of about Rs 182.50 crore referred to arbitration before Justice S. Ravindra Bhat) is independently confirmed by LiveLawBiz and the court's own order PDF. The Karnataka HC ruling that a local-inspection commissioner application may be made before or after trial commencement (reported by LiveLaw) is also confirmed. Could not independently verify the second cited order, O.M.P.(I)(COMM.) 387/2026, beyond the draft's own court-PDF citation (delhihighcourt.nic.in was unreachable from this session); it is used only as a secondary illustrative example, not a load-bearing holding, so this does not change the overall verdict."
+  },
+  {
+    "file": "_drafts/batch9/blog/02-rera-sale-agreement-mismatch-rule-38-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/rera/telangana-reat-upholds-11-lakh-penalty-on-builder-for-using-sale-agreement-different-from-rera-uploaded-draft-534032",
+      "https://therealtytoday.com/news/tgrera-penalizes-hyderabad-builder-1374-lakh-for-agreement-of-sale-violation",
+      "https://courtbook.in/real-estate-regulation-and-development-act-2016/section-60"
+    ],
+    "note": "Core case (Mehta & Modi Realty Kowkur LLP v. Deepa Suraj Premi, Telangana REAT, ~Rs 10.99 lakh/11 lakh penalty under Section 60 for a sale agreement departing from the Rule 38 format, plus GST-on-delay-interest bar and welfare-association dissolution) and the second Hyderabad builder's Rs 13.74 lakh penalty are both independently confirmed. However, the references list mischaracterises Section 60: it is headed 'penalty for contravention after conviction or for false information', but Section 60 actually covers false information or non-compliance with Section 4 (registration) requirements, capped at 5% of estimated project cost; 'penalty for contravention after conviction' describes a different provision. Fix the parenthetical.",
+    "fixes": [
+      {
+        "find": "Real Estate (Regulation and Development) Act, 2016, Section 60 (penalty for contravention after conviction or for false information)",
+        "replace": "Real Estate (Regulation and Development) Act, 2016, Section 60 (penalty for false information or non-compliance with section 4 registration requirements)",
+        "reason": "Section 60 covers false information/Section 4 non-compliance, not 'contravention after conviction', which is a different provision."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch9/blog/03-mining-lease-stamp-duty-anticipated-royalty-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/supreme-court/stamp-duty-on-mining-leases-based-on-anticipated-royalty-not-dead-rent-supreme-court-542848",
+      "https://www.verdictum.in/supreme-court/ms-birla-corporation-limited-v-the-state-of-madhya-pradesh-2026-insc-738-royalty-stamp-act-1618440",
+      "https://taxguru.in/corporate-law/sc-upholds-stamp-duty-mining-leases-based-anticipated-royalty.html"
+    ],
+    "note": "Birla Corporation Ltd v. State of Madhya Pradesh (2026 INSC 738 / 2026 LiveLaw (SC) 717, judgment 23 July 2026, Justices Sanjay Karol and Augustine George Masih) fully confirmed across LiveLaw, Verdictum and TaxGuru: 56.27-hectare Birhauli limestone lease in Satna, Rs 4.32 crore demand, proviso to Section 26 Indian Stamp Act, Form K reference, and the holding that the Collector may value an indeterminate mining lease by anticipated royalty. The guide's caution that this rests on Madhya Pradesh's own 1993 notification rather than a uniform national rule is accurate and well hedged."
   }
 ]
