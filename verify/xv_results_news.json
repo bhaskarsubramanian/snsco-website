@@ -2159,5 +2159,27 @@
       "https://www.scconline.com/blog/post/2026/06/23/ccpa-penalises-misleading-100-percent-claims/"
     ],
     "note": "The Rs 1 lakh penalty, the 62% whole wheat flour declaration against the 75% Regulation 2.6 threshold, the discontinuation and 15-day compliance directions, Britannia's asterisk and FSSAI-advisory defences and their rejection, and the Storia Foods precedent are all independently confirmed, including by a fresh source (Bar and Bench) not among the draft's own citations. Minor, unresolved press discrepancy on the order date (21 vs 22 October 2026) exists across sources generally, same ambiguity my own search also hit; not treated as an error since the draft's 22 October date is attested by at least one source and the point is immaterial to the substance. Checked and confirmed this is a different matter from the Britannia biscuit/FSSAI 'No Added Sugar, No Maida' dispute that already appears on the live site (search-index.json entry 85) -- that is a separate Delhi HC case, not a duplicate of this CCPA bread order."
+  },
+  {
+    "file": "_drafts/batch8/updates/01-gujarat-hc-custody-transfer-jurisdiction-child-residence.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://courtbook.in/posts/guardians--wards-act-custody-plea-must-be-heard-where-child-resides-gujarat-high-court",
+      "https://www.livelaw.in/high-court/gujarat-high-court/livelaw-gujarat-high-court-weekly-round-up-555894",
+      "https://www.verdictum.in/gujarat-high-court/xx-v-yy-child-custody-case-family-court-jurisdiction-childs-residence-1624590"
+    ],
+    "note": "Case (Civil Application (For Transfer) No. 1673 of 2025 / C/MCA/1673/2025, citation 2026 LiveLaw (Guj) 291), Justice Maulik Shelat, the Himmatnagar/Rajkot facts, the Section 24 CPC transfer applications, and the holding that Guardians and Wards Act custody proceedings cannot be transferred away from the court with jurisdiction over the children's residence are all independently confirmed via a fresh source (courtbook.in) plus LiveLaw's own weekly roundup confirming the case fell within the 19-25 October 2026 window, consistent with the draft's 24 October decision date. One AI search summary suggested a judgment PDF metadata date of 16 October, but this was not corroborated by any direct source and is treated as unreliable noise rather than a confirmed discrepancy. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch8/updates/02-ap-hc-fabricated-sale-agreements-section-206-ipc.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-weekly-roundup-555916",
+      "https://supremetoday.ai/high-court-penalizes-litigants-for-fabricated-sale-agreements-and-breach-of-court-undertakings-20261021020",
+      "https://www.livelaw.in/pdf_upload/2026/10/19/as-527-4-batch-final16102026-1030-am-707360.pdf"
+    ],
+    "note": "The exact citation A.S. Nos. 602, 604, 610 and 636 of 2024 / 2026 LiveLaw (AP) 254 for Thota Gopal & Others v. Pandipati Gopal Reddy & Others is independently confirmed via LiveLaw's own weekly roundup (a fresh source distinct from the draft's cited article), which also flags that a different, unrelated case (State Bank of India v. P. Rama Chandraiah) carries the same W.A. numbers in the same roundup -- a page-layout coincidence, not an error in the draft. The fabricated/ante-dated sale agreements, the 2007 specific performance suit over 31+ acres at Rs 2,10,000/acre, the undertaking breach via December 2022 sale deeds, and the Sections 193/206 IPC prosecution direction to the Registrar (Judicial) are all confirmed, including bench names (Justices D. Ramesh and Alapati Giridhar) the draft itself did not include. Party roles (Thota Gopal as appellant/petitioner side, Pandipati Gopal Reddy as respondent) independently corroborated via an AP HC caption PDF from an earlier (2013) round of the same long-running dispute. No duplicate on the live site."
   }
 ]
