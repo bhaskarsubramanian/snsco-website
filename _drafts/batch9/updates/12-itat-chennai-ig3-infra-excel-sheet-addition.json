@@ -1,0 +1,17 @@
+{
+  "slug": "itat-chennai-ig3-infra-excel-sheet-addition",
+  "title": "ITAT Chennai Keeps 75% of Cash-Entry Additions Against IG3 Infra Out, Citing Unverified Excel Sheet",
+  "practice_area": "Tax Litigation",
+  "court": "ITAT Chennai",
+  "case_name": "IG3 Infra Limited v. Deputy Commissioner of Income Tax",
+  "citation": "ITA Nos. 2577 and 2578/Chny/2026",
+  "decision_date": "2026-10-16",
+  "reported_by": ["LiveLawBiz", "TaxGuru"],
+  "sources": [
+    "https://www.livelawbiz.com/income-tax/cash-receipt-additions-restricted-after-tribunal-flags-unverified-excel-entries-555305",
+    "https://taxguru.in/income-tax/party-excel-entries-without-personal-nexus-cannot-sustain-additions-itat-chennai.html"
+  ],
+  "card_summary": "A search on an accounts executive's computer at IG3 Infra's Chennai office in November 2020 turned up an Excel file titled 'Others' recording alleged cash receipts of about Rs 13.51 crore across four years. The Assessing Officer attributed the full amount to the company; the CIT(A) had cut that to 25%. The Tribunal upheld the restriction, finding no segregation showing the company itself received the money.",
+  "card_tip": "A seized spreadsheet naming no clear payer or payee still needs entity-wise verification before an assessing officer can load the full figure onto one company.",
+  "verification_notes": "The seizure date (3 November 2020), the Excel file's title and the accounts executive's role, the aggregate figure (about Rs 13.51 crore), the CIT(A)'s 25% restriction and the Tribunal's 16 October 2026 order upholding it are consistent across LiveLawBiz and TaxGuru. Checked against live legal-updates/legal-news listings and batch7, batch8 and this branch's drafts: no overlap found."
+}
