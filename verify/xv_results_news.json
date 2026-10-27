@@ -2506,5 +2506,34 @@
    "https://www.livelawbiz.com/pdf_upload/2026/10/20/siemens-707423.pdf"
   ],
   "note": "LiveLawBiz and SupremeToday both confirm Justice Amit Borkar, the 19 Oct 2026 date, Rs 1.05cr loan, Somatom Go Now Compact equipment, 19 Dec 2023 finance agreement, 72-month/11.5% terms, 13 May 2026 arbitration invocation, Rs 1,22,61,244 claim as of 2 June 2026 with 36% default interest, the 23 Feb 2026 surrender letter, 8 July 2026 Section 9 filing, no-fraud-finding framing, and the sale/dismantling prohibition. SupremeToday additionally identifies the formal citation as Comm Arbitration Petition (L) No. 25053 of 2026. Draft correctly omits the unverified Kulgam civil suit detail."
+ },
+ {
+  "file": "_drafts/batch9/news/13-delhi-hc-ananda-resort-anandam-himalayas-trademark.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelawbiz.com/trademark/delhi-high-court-restrains-rishikesh-hotel-from-using-anandam-in-the-himalayas-mark-in-trademark-dispute-with-ananda-555509",
+   "https://www.livelawbiz.com/pdf_upload/2026/10/21/ihhr-hospitality-707547.pdf"
+  ],
+  "note": "Only one independent outlet (LiveLawBiz) covers this specific 2026 suit, as the draft itself discloses, but the facts match both the news report and the underlying order PDF cited as a source: Justice Vikas Mahajan, 14 Oct 2026 ex parte injunction, IHHR/Ananda since 1999, Ishanee Villas Tech, Anandam In The Himalayas mark, 21km proximity, June 2026 cease-and-desist, misdirected bookings claim, and prima facie/irreparable harm findings. Not a duplicate of live content (search-index.json has no matching entry; the one Ananda-substring hit is an unrelated Pranabananda Cooperative Bank item)."
+ },
+ {
+  "file": "_drafts/batch9/news/14-delhi-hc-kirloskar-ongc-arbitral-award-stamp-duty.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.livelawbiz.com/arbitration/arbitral-award-stamped-in-one-state-does-not-automatically-attract-additional-duty-in-another-delhi-high-court-555382",
+   "https://delhihighcourt.nic.in/app/showFileJudgment/75207092026OMPENFCOMM532026_193941.pdf"
+  ],
+  "note": "LiveLawBiz confirms Justice Om Prakash Shukla, 9 Oct 2026 ruling, Ahmedabad-signed award stamped under Gujarat Stamp Act, Ankleshwar Commercial Court Section 34 outcome leaving ~Rs 3.78cr, ONGC differential stamp duty objection, and the Section 17/2(12) reasoning. One search tool summary suggested a different case number (293/2025) but this appears to be a mix-up with an unrelated enforcement petition; the draft citation 53/2026 matches the official delhihighcourt.nic.in judgment PDF filename pattern (OMPENFCOMM532026) given as a source, which is the more reliable primary indicator. Not a duplicate of live content (Kirloskar and ONGC hits on the live site are unrelated matters)."
+ },
+ {
+  "file": "_drafts/batch9/news/15-tn-reat-five-mount-villa-bahri-estates-limitation.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelawbiz.com/rera/limitation-act-applies-to-rera-compensation-claims-delay-in-handing-over-possession-does-not-create-fresh-cause-of-action-tamil-nadu-reat-555609"
+  ],
+  "note": "LiveLawBiz confirms the 14 Oct 2026 dismissal, bench (Justice M. Duraiswamy and K. Babu), parties (Five Mount Villa Owners Welfare Association v. Bahri Estates Pvt Ltd and Bahri Realty Management Services), the Article 27 three-year limitation holding running from agreed completion date not actual handover, and that this upheld the Adjudicating Officers 23 Dec 2025 dismissal. Section 18(2) text (title-defect compensation not barred by limitation) independently confirmed as accurately quoted. The specific contrastive reasoning tying Section 18(2) to this case was not independently found beyond the drafts own ibclaw.in source but is a reasonable, internally consistent reading of the Act. Not a duplicate of live content (no matching search-index.json entries)."
  }
 ]
