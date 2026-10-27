@@ -2475,5 +2475,36 @@
     "reason": "LiveLaw reports the Court applied Jagjit Singh, not Charanjit Singh, for the burden-of-proof standard; the draft omitted this and implied Charanjit Singh was the operative precedent."
    }
   ]
+ },
+ {
+  "file": "_drafts/batch9/news/10-calcutta-hc-customs-sampling-imported-food-areca-nuts.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.livelaw.in/law-firms/litigation/calcutta-high-court-holds-custom-independently-sample-imported-food-tariff-classification-fraud-investigation-555845"
+  ],
+  "note": "LiveLaw report independently confirms case name (Credence International), bench (Justices Rajarshi Bharadwaj and Sudip Deb), areca nuts from Indonesia declared Roasted Areca Nuts under heading 20081991, National Food Laboratory Kolkata test report (26 Sept 2025) finding mould/insect infestation, the Single Judge reversal, and the Section 144 Customs Act holding that Customs and FSSAI operate in concurrent fields. Could not independently confirm the exact APO 45/GA 1 of 2026 citation via open search (indiankanoon.org not reachable from this session), but this is a minor detail given the strong match on substantive facts. Not a duplicate of live content: search-index.json has a different, unrelated Bombay HC areca-nuts ruling (Shivshakti Enterprises, different court/parties/holding on post-clearance retesting, not original customs sampling authority)."
+ },
+ {
+  "file": "_drafts/batch9/news/11-gujarat-hc-custody-jurisdiction-child-residence.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-guardians-wards-act-custody-child-resides-family-court-555772",
+   "https://www.verdictum.in/gujarat-high-court/xx-v-yy-child-custody-case-family-court-jurisdiction-childs-residence-1624590",
+   "https://courtbook.in/posts/guardians--wards-act-custody-plea-must-be-heard-where-child-resides-gujarat-high-court"
+  ],
+  "note": "LiveLaw, Verdictum and Courtbook all independently confirm Justice Maulik Shelat, the Himmatnagar/Rajkot facts (approx 300km apart per LiveLaw), the refusal to transfer, the jurisdiction-follows-the-child holding, and the welfare/video-conference accommodation. Not a duplicate of live content (search-index.json has only unrelated blog guides mentioning the Guardians and Wards Act generally)."
+ },
+ {
+  "file": "_drafts/batch9/news/12-bombay-hc-siemens-financial-receiver-ct-scanner-khandey.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.livelawbiz.com/arbitration/bombay-high-court-allows-siemens-financial-to-take-custody-of-ct-scan-machine-following-repeated-loan-defaults-prohibits-sale-555378",
+   "https://supremetoday.ai/bombay-high-court-appoints-receiver-to-secure-hypothecated-medical-equipment-following-ongoing-loan-default-disputed-20261020033",
+   "https://www.livelawbiz.com/pdf_upload/2026/10/20/siemens-707423.pdf"
+  ],
+  "note": "LiveLawBiz and SupremeToday both confirm Justice Amit Borkar, the 19 Oct 2026 date, Rs 1.05cr loan, Somatom Go Now Compact equipment, 19 Dec 2023 finance agreement, 72-month/11.5% terms, 13 May 2026 arbitration invocation, Rs 1,22,61,244 claim as of 2 June 2026 with 36% default interest, the 23 Feb 2026 surrender letter, 8 July 2026 Section 9 filing, no-fraud-finding framing, and the sale/dismantling prohibition. SupremeToday additionally identifies the formal citation as Comm Arbitration Petition (L) No. 25053 of 2026. Draft correctly omits the unverified Kulgam civil suit detail."
  }
 ]
