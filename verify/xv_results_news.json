@@ -919,8 +919,8 @@
     "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
     "fixes": [
       {
-        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
-        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
         "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
       },
       {
@@ -2262,5 +2262,38 @@
       "https://theprint.in/india/power-connection-cant-be-denied-merely-due-to-property-ownership-dispute-allahabad-hc/3079175/"
     ],
     "note": "Independent search confirms Rakesh Kumar Mishra v. State of U.P., 2026 LiveLaw (AB) 866, the bench (Justices Mathur and Chaudhary), the Raebareli facts, the Article 21/Electricity Supply Code holding, and the 10-day fresh-consideration direction. No duplicate found on the live site."
+  },
+  {
+    "file": "_drafts/batch9/news/01-kerala-hc-state-liability-wild-elephant-attack.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-states-lack-of-ownership-wild-animals-not-exclude-liability-555677",
+      "https://www.onmanorama.com/news/kerala/2026/10/24/kerala-high-court-state-liability-wild-animal-attacks.html",
+      "https://lawtrend.in/kerala-government-liable-for-wildlife-attacks-high-court-rules/"
+    ],
+    "note": "Independently confirmed via LiveLaw and Onmanorama: Justice Mohammed Nias C.P. dismissed the States Regular Second Appeal against concurrent findings of the Munsiffs Court, Kalpetta, and the Sub Court, Sulthanbathery, in a Thariode (Wayanad) elephant-attack case from 2017; the strict-liability/no-ownership-required holding and the point that an inadequate ex gratia payment does not bar a fuller civil suit both match the draft. The August 2026 related ruling (2026 LiveLaw (Ker) 475) is correctly kept separate as background only. The exact decision date could not be independently pinned down beyond the 23-24 Oct publication window (one secondary synthesis suggested 13 Oct, unconfirmed); this is a minor, already-flagged uncertainty in the drafts own verification_notes and not significant enough to change the verdict."
+  },
+  {
+    "file": "_drafts/batch9/news/02-jkl-hc-minority-revenue-entry-limitation-inheritance.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://kashmirlife.net/jammu-kashmir-high-court-restores-womans-inheritance-claim-sets-aside-dismissal-over-limitation-458481/",
+      "https://www.dailyexcelsior.com/daughters-inheritance-rights-cant-be-defeated-by-limitation-hc"
+    ],
+    "note": "Independently confirmed via Kashmir Life and Daily Excelsior: J&K&L High Court judgment dated 23 Oct 2026 by Justice Shahzad Azeem, Machail village Padder Kishtwar land (58 kanals 11 marlas, Khewat No. 1), mutation No. 43 dated 15 Oct 1966 in favour of Shib Devi, reliance on Section 6 Limitation Act for a claimant who was a minor (father died c.1963 when she was about 6-7), setting aside the District Judge Kishtwars decree of 7 Nov 2012 and restoring the trial courts decree of 9 March 2004. All core facts in the draft match."
+  },
+  {
+    "file": "_drafts/batch9/news/03-supreme-court-coc-cannot-withdraw-resolution-plan.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.livelaw.in/supreme-court/ibc-coc-cannot-withdraw-approved-resolution-plan-citing-improved-financial-position-of-corporate-debtor-supreme-court-555999",
+      "https://www.advocatekhoj.com/library/judgments/index.php?go=2026%2Foctober%2Fbank-of-india-vs-s-m-kamal-pasha-70",
+      "https://taxguru.in/corporate-law/coc-cannot-withdraw-approved-resolution-plan-nclt-supreme-court.html",
+      "https://www.barandbench.com/news/litigation/coc-cant-withdraw-approved-insolvency-resolution-plan-citing-debtors-improved-financial-position-supreme-court"
+    ],
+    "note": "Independently confirmed: Bank of India v. S.M. Kamal Pasha, 2026 INSC 1154, Civil Appeal No. 12045 of 2026, decided 26 Oct 2026 by Justices Pardiwala and Vinod Chandran. Case title, bench, date and the core holding (CoC cannot withdraw its approval of a resolution plan once before the NCLT, improved debtor finances is not a ground) match across LiveLaw, AdvocateKhoj, TaxGuru and Bar & Bench. An earlier LiveLawBiz report on the reserved verdict referred to the appellant as Indian Bank, but the official case title (AdvocateKhoj) confirms Bank of India, consistent with the draft; the underlying dispute (NCLT allowed withdrawal, NCLAT reversed, matter was TD Toll Road Pvt Ltds CIRP) is background-consistent though the corporate debtors name is correctly omitted by the draft as unconfirmed."
   }
 ]
