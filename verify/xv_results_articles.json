@@ -337,5 +337,49 @@
         "reason": "Linked article is not yet published (still a draft); the path does not exist on the live site/search index, so the related_pages link is broken."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/20-noida-greater-noida-commercial-courts-jurisdiction-article.json",
+    "verdict": "FIX",
+    "claims_checked": 15,
+    "evidence": [
+      "https://www.prashantkanha.com/commercial-courts-in-uttar-pradesh/",
+      "https://main.sci.gov.in/supremecourt/2022/7090/7090_2022_9_1_37312_Order_16-Aug-2022.pdf",
+      "https://www.caseciter.com/2026insc436/",
+      "https://www.verdictum.in/court-updates/supreme-court/atul-j-doshi-v-pramukh-properties-and-developers-2025-insc-1345-license-fee-clause-2-order-xv-a-cpc-bombay-amendment-1598838",
+      "https://indialegallive.com/constitutional-law-news/courts-news/allahabad-high-court-directs-noida-authority-to-review-cancellation-of-institutional-plot-allotment/"
+    ],
+    "note": "Most central claims check out against independent sources: the 2017/2022 UP commercial court notifications and the SC's 16 Aug 2022 order flagging overlapping jurisdiction (SLP(C) 7090/2022), the Jan 2023 posting order, Patil Automation's mandatory Section 12A holding with prospective effect from 20 Aug 2022, the Yamini Manohar 'deception and falsity' urgency test (2023 LiveLaw (SC) 906), the 2021 three-judge-bench overruling of N.V. International restoring Section 5 Limitation Act condonation for Section 13 appeals, the Reliance Eminent Trading v. DDA ruling (2026 INSC 436, J.K. Maheshwari and Atul S. Chandurkar JJ) which did allow the summary-judgment appeal and does use the 'grasp the nettle' language in its guidelines, the Andhra Pradesh HC 2:1 full bench ruling on the self-operative 3-lakh threshold, the Pawan Hans/Noida Sector 1 plot cancellation writ (order of 7.11.2024, Allahabad HC directing review with interim protection), and the Supreme Court's 'innumerable controversies'/'huge litigation' language on Noida township allotment disputes. All ten related_pages paths exist in origin/main:assets/search-index.json. One factual error found: the draft says a UP state amendment also uses the number Order XV-A to deal with striking off a tenant's defence. Independent sources show the UP state amendment on this subject is actually Order XV Rule 5 CPC (inserted 1972, substituted 1976); Order XV-A for striking off a tenant/licensee's defence is the Bombay (Maharashtra) amendment, confirmed in the 2025 Supreme Court ruling Atul J. Doshi v. Pramukh Properties (2025 INSC 1345), which expressly calls it the 'Bombay Amendment'.",
+    "fixes": [
+      {
+        "find": "from an entirely separate Uttar Pradesh state amendment that also uses the number Order XV-A but deals with striking off a tenant's defence",
+        "replace": "from an entirely separate Bombay (Maharashtra) state amendment to the Code that also uses the number Order XV-A but deals with striking off a tenant's or licensee's defence in a lessor's suit for eviction or rent",
+        "reason": "The state amendment using the Order XV-A numbering for striking off a tenant's defence is the Bombay/Maharashtra amendment, not a Uttar Pradesh one; UP's own provision on this subject is Order XV Rule 5 CPC, a different rule."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/21-arbitration-noida-delhi-ncr-seat-jurisdiction-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/high-courts/delhi-high-court-anju-jain-v-wtc-noida-development-company-2024dhc2849-seat-agreement-jurisdiction-arbitration-proceedings-1530167",
+      "https://www.mondaq.com/india/arbitration-dispute-resolution/1539560/accord-and-satisfaction-does-not-affect-the-existence-of-an-arbitration-agreement-sbi-general-insurance-ltd-v-krish-spinning",
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/mahanadi-coalfields-v-gsco-infrastructure-limited-seat-of-arbitration-under-the-arbitration-act/",
+      "https://www.jurishour.in/other-laws/limitation-challenge-arbitral-award-disposal-s-33-application-nhai/"
+    ],
+    "note": "BALCO and BGS SGS Soma (overruling Hardy Exploration) are confirmed, as are SBI General Insurance v. Krish Spinning (2024 INSC 532, narrow Section 11(6) scrutiny), Arif Azim v. Aptech (2024 INSC 155, Article 137 three-year period), Sundaram Finance v. Abdul Samad (2018, no transfer decree needed for execution), Mahanadi Coalfields v. GSCO Infrastructure (place of proceedings does not fix the seat) and NHAI v. T. Younis (Section 34 clock runs from disposal of a Section 33 application regardless of outcome). One real error: the draft uses Anju Jain v. WTC Noida Development Company (2024:DHC:2849) as an illustration that Section 9 and Section 34 proceedings for a Delhi-administered arbitration can still 'remain anchored to Gautam Buddh Nagar.' In fact the Delhi High Court in that case held Delhi itself to be the seat; clause 17.3 gives Gautam Buddh Nagar courts jurisdiction only over matters never referred to arbitration at all (separate civil disputes), not over Section 9/34 applications arising from the arbitration, which would follow the Delhi seat. The order does not address Section 9 or Section 34 routing at all. Second, the related_pages entry /articles/noida-greater-noida-commercial-courts-jurisdiction-article.html is not live (still an unpublished draft at _drafts/articles/20-...); it is absent from origin/main:assets/search-index.json, so that link is currently broken. The other ten related_pages paths all exist in the index.",
+    "fixes": [
+      {
+        "find": "The decision illustrates a pattern increasingly common in NCR disputes: an arbitration administered institutionally out of Delhi, while interim relief, residual civil claims, and in some cases Section 9 and Section 34 proceedings themselves remain anchored to Gautam Buddh Nagar because that is where the seat, or the relevant immovable property, or the parties' course of dealing actually sits.",
+        "replace": "The decision illustrates a pattern increasingly common in NCR disputes: an arbitration administered institutionally out of Delhi, with Delhi itself fixed as the seat, while civil disputes that fall outside the arbitration clause altogether remain anchored to Gautam Buddh Nagar under a jurisdiction clause expressly made subject to the arbitration agreement. Section 9 and Section 34 proceedings arising from the arbitration itself still follow the seat; in Anju Jain that means Delhi, not Gautam Buddh Nagar. A Gautam Buddh Nagar-seated arbitration keeps those applications at Gautam Buddh Nagar only where the contract or the parties' conduct fixes the seat there specifically, as in the separate Allahabad High Court and Delhi High Court decisions discussed above.",
+        "reason": "The draft cites Anju Jain as an example of Section 9/34 proceedings staying with Gautam Buddh Nagar, but the court in that case held Delhi to be the seat; Gautam Buddh Nagar courts retained jurisdiction only over disputes never referred to arbitration at all, not over Section 9/34 applications tied to this arbitration."
+      },
+      {
+        "find": "    \"/legal-news/nhai-t-younis-arbitration-section-33-34-limitation.html\",\n    \"/articles/noida-greater-noida-commercial-courts-jurisdiction-article.html\"",
+        "replace": "    \"/legal-news/nhai-t-younis-arbitration-section-33-34-limitation.html\"",
+        "reason": "Linked article is not yet published (still a draft); the path does not exist on the live site/search index, so the related_pages link is broken."
+      }
+    ]
   }
 ]
