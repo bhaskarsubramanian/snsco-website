@@ -1,0 +1,86 @@
+{
+  "slug": "enforcing-foreign-money-decree-against-nri-assets-india-guide",
+  "title": "You Have a Foreign Money Decree Against an NRI. Can You Actually Enforce It Against Their Indian Assets?",
+  "meta_description": "Enforcing a foreign money decree against an NRI's Indian property turns on whether that foreign court sat in a reciprocating territory.",
+  "practice_area": "NRI Legal Services",
+  "intro": [
+    "A creditor who has already won a money judgment abroad against an NRI, often after a long and expensive foreign proceeding, assumes the hard part is over. It is usually not. Winning the judgment and actually getting paid out of the debtor's property in India are two separate exercises, and the gap between them trips up more creditors than the substantive dispute ever did.",
+    "Indian law gives two very different routes depending on where the foreign court sat, and picking the wrong one, or assuming the easier one applies when it does not, can cost a creditor years before they discover the mistake."
+  ],
+  "sections": [
+    {
+      "heading": "Two Routes, and Only One Is Fast",
+      "paragraphs": [
+        "Section 44A of the Code of Civil Procedure, 1908 allows a decree from a court in a notified reciprocating territory to be filed directly as a certified copy before the appropriate district court in India, and executed there essentially as if it were a decree of that Indian court itself. This is the fast route: no fresh trial on the merits, just execution proceedings, subject to narrow objections.",
+        "If the foreign court is not sitting in a notified reciprocating territory, Section 44A simply does not apply, and the creditor has to file a fresh civil suit in India, using the foreign judgment as evidence of the debt rather than as something directly executable. That suit proceeds like any other civil suit, with its own limitation period, its own pleadings and, in principle, its own full hearing, even though Indian courts generally will not re-open the merits that the foreign court already decided, subject to the same exceptions that apply under Section 44A."
+      ]
+    },
+    {
+      "heading": "Which Countries Actually Count as Reciprocating Territories",
+      "paragraphs": [
+        "The list of reciprocating territories is fixed by notification in the Official Gazette, and it is shorter than most people assume. It currently includes the United Kingdom, Singapore, Malaysia, New Zealand, Hong Kong, Bangladesh, Fiji, Trinidad and Tobago, Papua New Guinea, Aden, and the United Arab Emirates, which was added by a Ministry of Law and Justice notification dated 17 January 2020 naming specific UAE courts as superior courts for this purpose.",
+        "Large trading partners that creditors often assume are covered, the United States being the clearest example, are not on the list. A judgment from a US court, however large and however clearly reasoned, cannot be executed under Section 44A at all, and a creditor holding one has to go the civil suit route regardless of how straightforward the underlying debt actually is. Because this list changes only by fresh notification, a creditor should confirm the current position against the Official Gazette or a recent reporter note before assuming a particular country is or is not covered, rather than relying on an older article."
+      ]
+    },
+    {
+      "heading": "The Section 13 Exceptions That Apply Either Way",
+      "paragraphs": [
+        "Even a decree from a reciprocating territory is not automatically enforceable. Section 13 of the CPC, which Section 44A expressly imports for this purpose, lets an Indian court refuse to treat a foreign judgment as conclusive where the foreign court lacked jurisdiction in the international sense, where the judgment was not given on the merits of the case, where it rests on an incorrect view of international law or a refusal to recognise Indian law in a case where such law was applicable, where the proceedings were opposed to natural justice, where the judgment was obtained by fraud, or where it sustains a claim founded on a breach of Indian law.",
+        "A debtor resisting execution will usually run at least one of these grounds, most commonly lack of proper jurisdiction over them or a natural justice complaint about how they were served or heard abroad. A 2026 Supreme Court ruling, reported as 2026 INSC 401, refused enforcement of a foreign summary judgment on the basis that it failed the conclusiveness test under Section 13, a reminder that a foreign court's fast, summary procedure can itself become a ground for an Indian court to decline enforcement, whatever the merits of the underlying claim actually were."
+      ]
+    },
+    {
+      "heading": "Why NRI Cases Raise Extra Wrinkles",
+      "paragraphs": [
+        "An NRI debtor often has assets spread across more than one Indian state, property in one, bank deposits in another, which matters because execution under Section 44A happens through the district court where the decree is filed, and a creditor needs to think early about where the debtor's attachable Indian assets actually sit rather than filing wherever is convenient and discovering later there is nothing there to attach.",
+        "FEMA considerations sit alongside the CPC mechanics here. Immovable property owned by an NRI in India is generally attachable like any other property once a decree is properly before an Indian court, but a creditor planning to repatriate recovered sums abroad after execution needs separate RBI or authorised dealer clearance for that onward remittance, which is a foreign exchange question entirely distinct from the execution proceeding itself and should not be left to the last stage of recovery.",
+        "A creditor should also expect the NRI debtor to raise objections about how the original foreign proceeding treated their absence from that jurisdiction, since an NRI defendant who was served abroad and chose not to appear, or who appeared only to contest jurisdiction, often has a genuinely arguable natural justice point by the time the matter reaches an Indian execution court, and that argument tends to surface at exactly this stage rather than earlier."
+      ]
+    },
+    {
+      "heading": "Practical Steps for a Creditor Holding a Foreign Decree",
+      "paragraphs": [
+        "First, confirm whether the judgment actually comes from a court sitting in a currently notified reciprocating territory, checking the specific court named in the notification rather than just the country, since some notifications name particular superior courts rather than covering every court in that jurisdiction. Second, if it does, file the certified copy promptly in the district court where the debtor holds identifiable, attachable assets, and be ready for the debtor to raise a Section 13 objection rather than assuming execution will go through unopposed.",
+        "Third, if the judgment comes from a non-reciprocating jurisdiction, budget realistically for a fresh suit rather than a quick execution petition, and start that suit well within the applicable limitation period rather than waiting to see whether the debtor will pay voluntarily. Fourth, address repatriation clearance as a separate workstream once recovery looks likely, rather than discovering at the point of actually moving money that an additional regulatory step stands between judgment and cash in hand abroad."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I have a US court judgment against an NRI. Can I execute it directly in India?",
+      "a": "No. The United States is not a notified reciprocating territory under Section 44A CPC, so a US judgment cannot be executed directly. You would need to file a fresh civil suit in India, using the US judgment as evidence of the debt."
+    },
+    {
+      "q": "What is the fastest way to enforce a UK or Singapore judgment against an NRI's Indian property?",
+      "a": "File a certified copy of the decree before the appropriate Indian district court under Section 44A CPC, since both the UK and Singapore are notified reciprocating territories, and seek execution there, subject to any Section 13 objections the debtor raises."
+    },
+    {
+      "q": "Can the NRI debtor still fight the foreign decree once it reaches an Indian court?",
+      "a": "Yes, on limited grounds under Section 13 CPC: lack of proper jurisdiction over them, no decision on the merits, fraud, breach of natural justice, or a claim resting on a breach of Indian law. These grounds apply whether the decree is executed under Section 44A or sued upon afresh."
+    },
+    {
+      "q": "Does winning execution in India let me immediately send the recovered money abroad?",
+      "a": "Not automatically. Repatriation of recovered funds is a separate foreign exchange question under FEMA, generally requiring RBI or authorised dealer clearance, and should be planned for separately from the execution proceeding itself rather than assumed to follow automatically once the Indian court orders payment out."
+    }
+  ],
+  "references": [
+    "Code of Civil Procedure, 1908, Sections 13 and 44A",
+    "Ministry of Law and Justice notification dated 17 January 2020, declaring the United Arab Emirates a reciprocating territory and naming specified UAE courts as superior courts",
+    "Supreme Court ruling reported as 2026 INSC 401, decided 21 April 2026, on the conclusiveness test under Section 13 applied to a foreign summary judgment",
+    "Foreign Exchange Management Act, 1999, and associated RBI regulations on repatriation of funds"
+  ],
+  "sources": [
+    "https://corporate.cyrilamarchandblogs.com/2020/10/united-arab-emirates-reciprocating-country-under-indian-laws/",
+    "https://blog.ipleaders.in/can-a-foreign-decree-be-executed-in-india/",
+    "https://indiacorplaw.in/2026/05/03/barriers-to-enforcing-a-foreign-judgment-in-india/",
+    "https://www.jsalaw.com/?p=57815",
+    "https://conventuslaw.com/report/enforcement-of-foreign-judgments-laws-and-regulations-india-2024/"
+  ],
+  "verification_notes": [
+    "Section 44A mechanism, the reciprocating territory requirement, and the fresh-suit route for non-reciprocating jurisdictions: confirmed by both the Cyril Amarchand blog and the ipleaders.in explainer, which describe the same two-track framework.",
+    "List of reciprocating territories, including the UK, Singapore, Malaysia, New Zealand, Hong Kong, Bangladesh, Fiji, Trinidad and Tobago, Papua New Guinea, Aden and UAE, with the UAE addition dated 17 January 2020: confirmed by two independent sources describing the same list and the same notification date; the list is noted as subject to change by later notification, which neither source ruled out.",
+    "Section 13 exceptions (jurisdiction, merits, international law, natural justice, fraud, breach of Indian law) applying to both Section 44A execution and a fresh suit: confirmed by indiacorplaw.in and the JSA Prism note, which both describe Section 44A as expressly importing Section 13.",
+    "2026 INSC 401 and its holding on summary judgments failing the conclusiveness test: sourced from the JSA Prism note; this is the only source found for this specific 2026 ruling, so the account here is kept general and the exact case name is not stated since it was not independently confirmed.",
+    "Left out: any specific figure for how long a fresh civil suit on a foreign judgment typically takes in Indian courts, since no source gave a reliable estimate, and the precise FEMA repatriation procedure step by step, since the search results confirmed only that separate clearance is generally needed, not the detailed process."
+  ]
+}
