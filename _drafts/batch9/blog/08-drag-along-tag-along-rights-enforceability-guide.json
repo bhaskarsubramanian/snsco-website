@@ -1,0 +1,100 @@
+{
+  "slug": "drag-along-tag-along-rights-enforceability-guide",
+  "title": "Drag-Along and Tag-Along Rights in Indian Shareholders' Agreements: Why the Articles Still Matter",
+  "meta_description": "Drag-along and tag-along clauses are standard in Indian SHAs, but binding the company, not just the signing shareholders, depends on the Articles.",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "Every shareholders' agreement for a funded Indian company has a drag-along clause, a tag-along clause, or both, usually tucked into the exit provisions near the end of the document. A majority or a lead investor wants the ability to force a sale through over a reluctant minority; a minority or a smaller investor wants the right to ride along on the same terms if the majority sells out. Both clauses are standard, and both get negotiated hard. What gets negotiated far less carefully is whether the clause actually binds the company once a dispute lands in front of the NCLT, as opposed to simply binding the two shareholders who signed the agreement.",
+    "That distinction has tripped up more than one well-drafted SHA. A drag-along right that works perfectly on paper, between the parties who signed it, can turn out to be unenforceable against the company itself, or against a shareholder who never signed it, if the company's Articles of Association say nothing about it. Getting the clause into the Articles, not just the agreement, is usually the difference between an exit mechanism that works and one that ends up litigated."
+  ],
+  "sections": [
+    {
+      "heading": "What drag-along and tag-along actually do",
+      "paragraphs": [
+        "A drag-along right lets a majority shareholder, or sometimes a defined group reaching a threshold, require the minority to sell their shares alongside the majority's shares to a third-party buyer, on the same price and terms. The point of the clause is to let a buyer acquire the whole company in one transaction rather than being left with an unwanted minority shareholder who refused to sell.",
+        "A tag-along right runs the other way. It lets a minority shareholder insist on joining a sale the majority is making to a third party, selling a proportionate stake on the same price and terms rather than being left behind as a minority partner of whoever bought in. Investors who hold a meaningful but non-controlling stake generally insist on this as a condition of investing at all, since without it they would have no way to exit alongside a majority sale.",
+        "Both clauses are purely creatures of contract. Neither the Companies Act, 2013 nor any SEBI regulation defines or mandates them; they exist because the parties negotiated them into the shareholders' agreement, and their enforceability rises or falls on ordinary principles of company law governing when a shareholders' agreement binds anyone beyond its signatories."
+      ]
+    },
+    {
+      "heading": "The Rangaraj problem: an SHA term that contradicts the Articles",
+      "paragraphs": [
+        "The starting point for this entire area is the Supreme Court's decision in V.B. Rangaraj v. V.B. Gopalkrishnan, which held that a restriction on share transfer agreed between shareholders cannot be enforced if it is not also reflected in the company's Articles of Association. The logic is structural: the Articles are the constitutional document of the company and bind the company and all its members under the Companies Act, while a shareholders' agreement is simply a contract between whichever shareholders signed it.",
+        "Applied to a drag-along or tag-along clause, Rangaraj means that a right agreed only in the SHA, with no mirror provision in the Articles, is at real risk of being unenforceable against the company, and against any shareholder who is not a party to the SHA, even if it binds the signing parties to each other as an ordinary contract claim for damages. A buyer relying on a drag-along right to force through a sale will find this out the hard way if the company refuses to register the forced transfer and the only recourse is a claim for breach of contract against the dragged shareholder, rather than an order compelling the transfer itself.",
+        "This is why experienced transaction counsel treat mirroring the exit clauses in the Articles as a drafting requirement, not an optional tidy-up. A drag-along or tag-along provision that lives only in the SHA schedule, however carefully worded, is doing less work than the parties think it is doing."
+      ]
+    },
+    {
+      "heading": "How Messer Holdings changed the picture, and its limits",
+      "paragraphs": [
+        "A Division Bench of the Bombay High Court revisited this question in Messer Holdings Limited v. Shyam Madanmohan Ruia, in the context of a public company's share transfer restrictions. The court held that a voluntary, private arrangement between shareholders restricting transfer, such as a right of first refusal, does not violate the free transferability rule for public company shares, and does not need to be incorporated into the Articles to be valid as between the contracting shareholders. It also overruled an earlier single-judge ruling that had treated any transfer restriction on public company shares as unenforceable outright.",
+        "Messer Holdings is often cited as having opened the door to enforcing drag-along and tag-along rights purely on contract, without needing the Articles at all. That reading needs care. Messer Holdings is a High Court Division Bench ruling, not a Supreme Court decision, and it addressed the validity of the restriction as between the contracting parties rather than squarely overruling Rangaraj's holding that the Articles control what binds the company itself. Other Bombay High Court decisions, including the IL&FS Trust ruling, have continued to hold that an agreement's provisions affecting the management or governance of the company cannot take effect unless incorporated into the Articles.",
+        "The practical reading most transaction lawyers take is this: Messer Holdings supports enforcing a drag-along or tag-along clause as a contract claim between the parties who signed the SHA, including a claim for specific performance against a shareholder who refuses to transfer. It does not reliably support treating the clause as binding on the company's own share transfer machinery, or on a shareholder who never signed the agreement, unless the Articles independently say so."
+      ]
+    },
+    {
+      "heading": "Section 58(2) and the statutory hook for enforceability",
+      "paragraphs": [
+        "The Companies Act, 2013 gives this area a statutory anchor that did not exist under the 1956 Act. A proviso to Section 58(2) states that a contract or arrangement between two or more persons with respect to the transfer of securities is enforceable as a contract. The provision was inserted largely to codify the Messer Holdings position and remove any doubt that a private transfer arrangement between shareholders, including a drag-along or tag-along clause, is at minimum a valid, enforceable contract between those shareholders.",
+        "What the proviso does not clearly do is settle whether such an arrangement can be enforced against the company, as opposed to against the other contracting shareholder personally. Commentary on Section 58(2) has pointed out that the wording leaves this open, and that the practical effect for a company, as distinct from the signing shareholders, still comes back to whether the Articles independently incorporate the same mechanism. A buyer wanting the comfort of being able to compel the company to register a transfer under a drag-along clause, not merely to sue a non-cooperating shareholder for damages or specific performance, should not rely on Section 58(2) alone.",
+        "For a private company, the more common and more reliable drafting solution is to have the Articles themselves contain drag-along and tag-along provisions mirroring the SHA, or at minimum a general clause authorising the board to give effect to transfer arrangements validly entered into between shareholders. Private companies have more latitude under the Companies Act to restrict transferability in their Articles than public companies do, which makes this the easier route for most funded startups and closely held companies."
+      ]
+    },
+    {
+      "heading": "Practical drafting checklist for new transactions",
+      "paragraphs": [
+        "New shareholders' agreements should treat the Articles amendment as a closing condition, not a follow-up task. Signing the SHA and leaving the Articles amendment for later, intending to complete it as a formality after closing, is exactly the gap that produces litigation years later when an exit actually happens and a reluctant shareholder discovers the Articles never caught up with the SHA.",
+        "The drag-along and tag-along mechanics in the Articles should match the SHA on every operative point: the threshold that triggers a drag, the notice period, how price and terms are determined, and what happens if the dragged shareholder simply refuses to execute transfer documents. A mismatch between the two documents, even an apparently minor one such as a different notice period, creates an argument that the Articles provision is a separate, narrower right rather than a true mirror of the SHA clause.",
+        "Where new shareholders join after the original SHA is signed, whether through a fresh funding round or a transfer, getting them to execute a deed of adherence that expressly binds them to the existing drag-along and tag-along provisions is essential. Without it, a later-arriving shareholder can argue they never agreed to be dragged or never acquired a right to tag, regardless of what the Articles say, since the Articles bind them as a member but a deed of adherence is still the cleaner way to confirm they accepted the specific commercial terms."
+      ]
+    },
+    {
+      "heading": "What a buyer's diligence should check before relying on these clauses",
+      "paragraphs": [
+        "A buyer negotiating to acquire a target company through a drag-along mechanism should check three things before assuming the mechanism will actually work at closing. First, whether the Articles currently in force contain a matching drag-along provision, since an outdated Articles filing with the Registrar of Companies is a common finding and can mean the SHA clause is doing all the legal work alone.",
+        "Second, whether every shareholder currently on the register is actually bound, either as an original signatory to the SHA or through a deed of adherence, since a shareholder who acquired shares through inheritance, a pledge enforcement, or a transfer that happened outside the SHA's own transfer-restriction machinery may not be bound by the drag-along clause at all, however the Articles read.",
+        "Third, whether the drag-along threshold in the governing documents has actually been met on the facts of the proposed transaction, counting only shareholders genuinely bound by the clause. A drag-along clause requiring seventy-five percent approval is of limited comfort if ten percent of the shareholding sits with someone who never signed anything and whose shares therefore cannot be counted toward, or compelled under, the threshold."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a drag-along clause force a shareholder to sell even if it only appears in the shareholders' agreement, not the Articles?",
+      "a": "It can usually be enforced as a contract claim against that shareholder personally, including a claim for specific performance, following the reasoning in Messer Holdings. It is much less secure as a mechanism the company itself is bound to give effect to, since Rangaraj holds that terms binding the company's own share transfer process need to be in the Articles."
+    },
+    {
+      "q": "Does Section 58(2) of the Companies Act make drag-along and tag-along clauses automatically enforceable against the company?",
+      "a": "Section 58(2)'s proviso confirms such arrangements are enforceable as contracts between the shareholders who agreed to them. It does not clearly extend to binding the company's own transfer machinery, which is why most transaction counsel still insist on mirroring the clause in the Articles rather than relying on the proviso alone."
+    },
+    {
+      "q": "What happens if a new investor buys shares and is never asked to sign a deed of adherence to the existing SHA?",
+      "a": "That investor is generally not bound by the drag-along or tag-along provisions in the SHA, whatever the other shareholders agreed. If the Articles independently contain a matching provision binding all members, that may offer a separate route to bind them, but the safer approach is always to obtain a signed deed of adherence at the time of transfer."
+    },
+    {
+      "q": "Are drag-along rights treated differently for a public company compared with a private company?",
+      "a": "Yes. Public companies are subject to the free transferability principle under Section 58(2), and restrictions need to be structured carefully to avoid falling foul of it, with Messer Holdings providing the main authority for enforceability. Private companies have broader latitude under the Companies Act to restrict transferability directly in their Articles, which generally makes enforcement more straightforward."
+    }
+  ],
+  "references": [
+    "Companies Act, 2013, Section 58(2) and its proviso (contracts for transfer of securities enforceable as a contract)",
+    "V.B. Rangaraj v. V.B. Gopalkrishnan, (1992) 1 SCC 160 (share transfer restriction not in the Articles is unenforceable against the company)",
+    "Messer Holdings Limited v. Shyam Madanmohan Ruia, Bombay High Court Division Bench (private share transfer arrangements between shareholders of a public company upheld as contractually valid)",
+    "IL&FS Trust Co. Ltd v. Birla Perucchini Ltd, Bombay High Court (agreement provisions on management of company affairs ineffective unless incorporated in the Articles)"
+  ],
+  "sources": [
+    "https://corporate.cyrilamarchandblogs.com/2024/10/share-transfer-restrictions-under-sha-the-need-to-revisit-section-582-of-ca-2013/",
+    "https://hubbis.com/article/is-restriction-on-transfer-of-shares-valid-under-companies-act-2013",
+    "https://blog.ipleaders.in/tag-along-drag-along-rights-enforceability-india/",
+    "https://indiacorplaw.in/2010/09/05/twist-in-tale-share-transfer/",
+    "https://mondaq.com/india/directors-and-officers/112358/share-transfer-restrictions-enforceable-bombay-high-court",
+    "https://www.mondaq.com/india/shareholders/1089446/enforcing-shareholders39-agreements-in-india-a-legal-laggard"
+  ],
+  "verification_notes": [
+    "V.B. Rangaraj v. V.B. Gopalkrishnan holding that a share transfer restriction not reflected in the Articles cannot bind the company: confirmed by the IndiaCorpLaw commentary and the Mondaq 'legal laggard' article, both citing it as the governing precedent on this point; citation (1992) 1 SCC 160 as given in the iPleaders blog, not independently re-verified against a law report but consistent across commentary.",
+    "Messer Holdings Limited v. Shyam Madanmohan Ruia holding that a private share transfer arrangement does not violate free transferability and need not be in the Articles to bind the contracting shareholders: confirmed by the Mondaq article on Bombay High Court enforceability and the IndiaCorpLaw piece, both describing the same holding and the overruling of the earlier Bajaj Auto single-judge ruling.",
+    "Section 58(2) proviso treating a transfer arrangement between shareholders as an enforceable contract, inserted following Messer Holdings: confirmed by the Cyril Amarchand Mangaldas commentary and the Hubbis article, which both reproduce the same statutory language and origin.",
+    "The open question of whether Section 58(2) binds the company itself, as opposed to the contracting shareholders, rather than being settled either way: based on the Cyril Amarchand Mangaldas commentary flagging this as an unresolved drafting and interpretation question; presented in the article as unsettled rather than asserting a definite answer.",
+    "IL&FS Trust Co. Ltd v. Birla Perucchini Ltd on management-affairs provisions needing incorporation into the Articles: confirmed only by the IndiaCorpLaw commentary; treated as a single-source point and stated cautiously as 'other Bombay High Court decisions have continued to hold' rather than as independently re-verified Supreme Court law.",
+    "General description of drag-along and tag-along mechanics (majority compelling minority sale on same terms; minority joining a majority sale on same terms): confirmed consistently across the iPleaders and LawSikho commentary and is standard, undisputed deal terminology rather than a contested legal proposition."
+  ]
+}
