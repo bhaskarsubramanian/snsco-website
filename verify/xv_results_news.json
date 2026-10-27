@@ -2412,5 +2412,27 @@
       "https://www.freepressjournal.in/indore/mp-high-court-rejects-24-year-old-arbitral-award-execution-cites-limitation-bar"
     ],
     "note": "Strongly corroborated by Verdictum, LiveLawBiz and Free Press Journal: Justice Vinay Saraf, Indore Bench, Civil Revision No. 1152 of 2026, 23 October 2026, holding an arbitral award does not merge with a Section 34/37 order, limitation under Article 136 ran from 7 January 2002 (Section 34 dismissal) and expired 6 January 2014, so the 2024 execution was time-barred. Background timeline (1989 suit, 2000 award, 2002 dismissal, 2019 jurisdictional order) consistent across all sources."
+  },
+  {
+    "file": "_drafts/batch9/updates/07-cerc-ists-waiver-ampin-hybrid-project.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://mercomindia.com/cerc-allows-transmission-charge-waiver-for-50-mw-wind-solar-hybrid-project",
+      "https://solarquarter.com/2026/10/21/cerc-grants-100-ists-charge-waiver-to-50-mw-hybrid-project-extends-scod-to-february-2026/",
+      "https://cercind.gov.in/2026/ROP/228-MP-2026_240626.pdf"
+    ],
+    "note": "Confirmed by two independent trade outlets (Mercom India, SolarQuarter) plus CERC's own hearing records for Petition 228/MP/2026 (AMPIN Energy Green v. CTUIL), which confirm the petition seeks SCOD extension and ISTS charge waiver for the Fatehgarh-IV-connected 50 MW hybrid project. Minor discrepancy in sources on which regulation clause applies (2025 Fourth Amendment vs. Regulation 13(2)(h) of 2020 regulations) and committee report dates, but this is secondary-reporting noise, not a challenge to the core facts in the card."
+  },
+  {
+    "file": "_drafts/batch9/updates/08-supreme-court-saurashtra-aaj-tak-trademark-restraint.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/delhi-high-court-restrains-gujarati-newspaper-from-using-saurashtra-aaj-tak-after-aaj-tak-objects",
+      "https://theprint.in/india/sc-upholds-delhi-hc-order-restraining-gujarati-newspaper-from-using-saurashtra-aaj-tak-name/3064257/",
+      "https://www.deccanchronicle.com/amp/nation/gujarati-daily-gets-3-months-to-rebrand-1993886"
+    ],
+    "note": "Strongly corroborated by Bar & Bench, The Print, Deccan Chronicle and others: Supreme Court dismissed the Gujarati newspaper's plea, upheld the Delhi HC's 30 July 2026 judgment (Justice Mini Pushkarna) holding disclaimers cannot cure deceptive similarity to a well-known mark, and gave three months to rebrand. No duplicate found on the live site."
   }
 ]
