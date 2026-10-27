@@ -1,0 +1,88 @@
+{
+  "slug": "eot-claims-epc-critical-path-guide",
+  "title": "Extension of Time Claims on Indian Infrastructure Contracts: Why Critical Path Analysis Decides Them",
+  "meta_description": "An EOT claim protects a contractor from liquidated damages, but only if the delay sits on the critical path. What that actually takes to prove in India.",
+  "practice_area": "Infrastructure & PPP",
+  "intro": [
+    "A contractor finishes a highway or tunnel package six months late. The employer's engineer points to the completion date in the contract and starts computing liquidated damages. The contractor points to a flood, a late drawing release, a utility shifting delay, or some combination of the three, and says none of it was its fault. Both positions can be true at once, and the contract's completion date can still move, because an Extension of Time clause is not about assigning blame generally. It is about whether the specific delay event the contractor relies on actually pushed out the date the whole project could finish, as distinct from a delay that was absorbed without affecting anything downstream.",
+    "That distinction is critical path analysis, and it is where most EOT disputes on Indian infrastructure and EPC contracts are actually won or lost. The legal test an arbitral tribunal or court applies is reasonably settled. What tends to collapse a contractor's claim, or an employer's defence against one, is the quality of the delay analysis put before the tribunal, not a gap in the law."
+  ],
+  "sections": [
+    {
+      "heading": "What an EOT clause is actually for",
+      "paragraphs": [
+        "Standard Indian forms, whether CPWD, MES, or the FIDIC-based templates used on most PPP and EPC infrastructure projects, all carry some version of an EOT mechanism, letting the contractor apply for additional time where specified categories of delay occur. Granting an EOT moves the contractual completion date forward and, correspondingly, removes the basis for liquidated damages over the extended period. It is a time remedy, not a money remedy.",
+        "Whether the contractor also gets paid for the cost of running an extended programme is a separate question entirely, governed by whichever clause in the contract attaches a cost consequence to the specific category of delay claimed. A flood or an epidemic classified as force majeure typically gives time relief only. A delay caused by the employer's own default, such as a late site handover or a delayed drawing, more often gives both time and cost relief, because the contract treats employer-caused delay differently from neutral events outside either party's control.",
+        "FIDIC-based contracts, which most large HAM, EPC and BOT infrastructure concessions in India now follow in substance if not in name, set out this mechanism in more procedural detail than CPWD or MES forms do, including notice periods for claiming EOT and detailed records to be maintained contemporaneously. Those notice requirements are not a formality to be filed away. Missing them, or filing a claim months after the delay event rather than within the window the contract sets, is one of the more common ways a contractor loses an otherwise sound EOT claim before the delay analysis is even examined."
+      ]
+    },
+    {
+      "heading": "Why the critical path is the whole argument",
+      "paragraphs": [
+        "A project has dozens, sometimes hundreds, of parallel activities running on a programme, most with some slack, or float, before a delay to that activity affects the overall completion date. The critical path is the sequence of activities with no float, where a delay to any one of them delays the project as a whole by the same number of days. A delay to an activity sitting off the critical path, with float still available, does not by itself justify an EOT, because the project could still finish on time even with that activity running late.",
+        "This is the methodology a Delhi High Court decision upheld in a closely watched dispute between Ircon International and Afcons Infrastructure over a Katra-Banihal railway tunnel package. The arbitral tribunal had granted Afcons a 484-day extension after finding that completion of the main tunnel bore work governed the project's overall completion date, making delays to that activity determinative regardless of progress elsewhere on the package. Ircon's Section 34 challenge argued the tribunal had rewritten the contract by applying a methodology it did not itself spell out, and that separate delay analyses were needed activity by activity rather than tunnel by tunnel.",
+        "The court dismissed the challenge, holding that identifying critical activities whose delay affects overall completion is a globally recognised methodology, and that Section 34 does not let a court sit as an appellate forum re-examining findings a tribunal was entitled to reach. The same award had set aside the liquidated damages the employer sought, since an extension covering the delay period removes the basis for computing damages against the original date. Courts reviewing such awards treat critical path findings as reviewable only for patent illegality, not for whether a different methodology might have been chosen."
+      ]
+    },
+    {
+      "heading": "Concurrent delay: the point most claims get wrong",
+      "paragraphs": [
+        "Projects rarely have one clean delay event running in isolation. More often, an employer-caused delay, such as a late drawing, overlaps in time with a contractor-caused delay, such as slow mobilisation of a particular crew, and both are genuinely affecting the same stretch of the critical path at once. How a tribunal treats that overlap, known as concurrent delay, decides whether the contractor gets time relief, cost relief, both, or neither for that period.",
+        "Indian contracts, including most FIDIC-based forms in local use, rarely define concurrent delay with precision, leaving tribunals to apply general principles borrowed from English and international construction law: broadly, that a contractor is usually still entitled to an EOT for the period of overlap, since the employer cannot recover liquidated damages for delay it itself partly caused, but the contractor is correspondingly less likely to recover the cost of that same period, since it would have incurred some of that cost regardless of the employer's own delay.",
+        "A contractor building an EOT claim around a period of genuinely concurrent delay should expect the time element to survive scrutiny more easily than any cost claim layered on top of it. Treating the two as automatically bundled, rather than arguing them on their own separate footing, is a common and avoidable way to weaken an otherwise defensible time extension."
+      ]
+    },
+    {
+      "heading": "What actually defeats EOT claims in practice",
+      "paragraphs": [
+        "Practitioners who litigate these disputes regularly make a point worth taking seriously: EOT claims are defeated far more often by weak assumptions in the delay analysis than by any real deficiency in the underlying facts of the delay. A contractor that genuinely lost time to a flood or a late handover can still lose the claim if the analysis presented does not actually establish causation between that specific event and the critical path, or if the baseline programme used for comparison was never agreed or was manipulated after the fact.",
+        "Three assumptions come up repeatedly in practice. The first is causation: did the delay event actually delay an activity on the critical path at the time it occurred, rather than an activity with float that happened to also run late. The second is concurrency: whether a contractor-caused delay running at the same time undermines the claim, and how much of it should be attributed to each side. The third is programme validity: whether the baseline programme being used to measure delay against was itself realistic and properly updated, rather than an aspirational schedule nobody was actually following on site.",
+        "Contemporaneous records decide most of this. A contractor that keeps updated programmes, site diaries, correspondence on drawing release dates, and progress photographs through the life of the project has something to reconstruct a critical path analysis from years later, when the dispute reaches arbitration. A contractor relying on reconstruction after the fact, with no contemporaneous programme updates to anchor it, is handing the opposing side's expert an easy target."
+      ]
+    },
+    {
+      "heading": "Building the claim correctly from the start",
+      "paragraphs": [
+        "Notice provisions should be treated as a limitation period, not a formality. Most FIDIC-based Indian infrastructure contracts require an EOT claim to be notified within a fixed window of the contractor becoming aware of the delay event, with a fuller particularised claim to follow later. Missing that window, or filing a vague notice that does not identify the specific clause or event relied on, gives the employer an independent, procedural ground to resist the claim regardless of how strong the underlying delay analysis turns out to be.",
+        "Engaging a delay analyst early, rather than only once a dispute is already underway, changes the quality of the record available. A contemporaneous as-built programme, cross-referenced against the baseline and updated through the project rather than reconstructed from memory at the arbitration stage, is the single strongest evidentiary asset in any EOT dispute, and it cannot be manufactured retrospectively with the same credibility.",
+        "Where the contract is silent on which delay methodology applies, as most Indian infrastructure contracts are, referencing an internationally recognised protocol, such as the SCL Delay and Disruption Protocol, in the claim and supporting expert report gives a tribunal a recognised framework to test the analysis against, rather than leaving it to decide the methodology question from scratch alongside the merits."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does getting an Extension of Time also mean getting paid for the extra time the project took?",
+      "a": "Not automatically. An EOT is a time remedy that removes the basis for liquidated damages over the extended period. Whether the contractor also recovers the cost of that extended period depends entirely on which clause governs the specific delay event claimed; employer-caused delay usually carries cost relief, force majeure events typically do not."
+    },
+    {
+      "q": "Why does it matter whether a delay was on the 'critical path'?",
+      "a": "Only a delay to an activity with no float, one that pushes out the project's overall completion date, justifies an EOT. A delay to an activity that still has float left does not extend the project's completion date and will not support a time extension, even if that specific activity genuinely ran late."
+    },
+    {
+      "q": "What happens if both the employer and the contractor caused delay during the same period?",
+      "a": "This is concurrent delay. Tribunals generally still grant an EOT for the overlapping period, since the employer cannot claim liquidated damages for a period it partly caused, but the contractor is less likely to recover the cost of that same period, since it would have incurred some cost regardless."
+    },
+    {
+      "q": "Can an Indian court overturn an arbitral tribunal's finding on which activities were on the critical path?",
+      "a": "Rarely. Courts reviewing such awards under Section 34 have held that critical path findings are a plausible, globally recognised methodology for a tribunal to apply, and that a court cannot substitute its own view of the facts for the tribunal's as if sitting in appeal."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Section 34 (grounds for setting aside an arbitral award; limits on re-appreciation of fact)",
+    "Ircon International Ltd v. Afcons Infrastructure Ltd, Delhi High Court, 2026 SCC OnLine Del 558, decided 13 February 2026 (critical path methodology upheld; liquidated damages set aside)",
+    "SCL Delay and Disruption Protocol (persuasive international reference for delay analysis methodology, not binding under Indian law absent contractual incorporation)"
+  ],
+  "sources": [
+    "https://rawlaw.in/delhi-high-court-arbitral-award-granting-484-day-extension-in-railway-tunnel-project-upheld-critical-path-analysis-plausible-no-patent-illegality-in-setting-aside-liquidated-damages/",
+    "https://www.jsalaw.com/wp-content/uploads/2026/06/JSA-Prism-Dispute-Resolution-May-AFCONS.Final_.pdf",
+    "https://webiis10.mondaq.com/india/arbitration-dispute-resolution/1787172/delhi-high-court-upholds-arbitral-tribunal-findings-on-delay-analysis-using-the-critical-path-method-and-reiterates-limits-of-section-34-review",
+    "https://atblegal.com/blog/eot-claims-and-liquidated-damages/",
+    "https://vestnik.susu.ru/building/article/download/9243/7428"
+  ],
+  "verification_notes": [
+    "Ircon International Ltd v. Afcons Infrastructure Ltd (Delhi HC, 2026 SCC OnLine Del 558, decided 13 February 2026): the citation and decision date were given by one search result (a summary referencing the judgment); the underlying facts, the 484-day extension, the tribunal's critical-path reasoning on the main tunnel bore, the Section 34 challenge grounds, and the court's dismissal of that challenge are corroborated independently by the JSA Prism newsletter, the rawlaw.in case summary, and the Mondaq summary, all describing the same dispute consistently. The specific neutral citation itself rests on a single source and should be verified against SCC Online before use in any filing.",
+      "General EOT mechanics (time relief vs cost relief being distinct; FIDIC notice requirements; CPWD/MES forms being less procedurally detailed than FIDIC): confirmed by the vestnik.susu.ru academic paper on Indian EOT and delay methods and corroborated in general terms by the atblegal.com practitioner post.",
+    "Critical path and concurrent delay general principles (float, causation, borrowed from international construction law since Indian contracts rarely define concurrent delay): stated in general, non-jurisdiction-specific terms since the search results did not surface an Indian judgment squarely defining concurrent delay; treated here as persuasive practice rather than settled Indian precedent for that reason.",
+    "Practitioner observation that EOT claims are defeated more often by weak assumptions (causation, concurrency, programme validity) than by facts of the delay: sourced from a single practitioner blog post (atblegal.com) describing this as a recurring pattern in practice; presented as a practical observation rather than a legal rule, and not independently corroborated by a second source."
+  ]
+}
