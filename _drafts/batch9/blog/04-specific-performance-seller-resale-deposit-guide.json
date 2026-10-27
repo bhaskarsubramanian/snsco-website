@@ -1,0 +1,87 @@
+{
+  "slug": "specific-performance-seller-resale-deposit-guide",
+  "title": "Suing for Specific Performance and the Seller Resold the Property? How Courts Secure the Money Pending Trial",
+  "meta_description": "What a specific performance plaintiff can do when the defendant-seller resells the disputed property to a third party while the suit is pending.",
+  "practice_area": "Property & Civil Litigation",
+  "intro": [
+    "A specific performance suit is slow by design. Pleadings, evidence, and cross-examination over a disputed agreement to sell can run for years, and a seller who regrets the deal, or who has found a buyer willing to pay more, knows that delay. One response has become familiar to property litigators: the seller quietly executes a fresh sale deed in favour of someone else while the original buyer's suit is still pending. The legal doctrine of lis pendens means that second buyer takes the property subject to the result of the pending suit, but a plaintiff who only relies on that doctrine and waits for final judgment can end up winning a hollow victory if the seller has, in the meantime, spent or hidden the money from the second sale.",
+    "Courts have started treating this more directly, using their interim powers not just to freeze the property but to secure the cash the seller actually received. A Delhi property dispute decided in mid-2026 shows both pieces working together, and what a plaintiff in this position should actually ask the court for."
+  ],
+  "sections": [
+    {
+      "heading": "Lis Pendens Protects the Property, Not Automatically the Money",
+      "paragraphs": [
+        "Section 52 of the Transfer of Property Act provides that property which is the subject matter of a suit in which a right to immovable property is directly in question cannot be transferred, during the pendency of that suit, in a way that affects the rights of any other party to the suit under any decree that may be passed, except with the court's authority and on terms it may impose. In practice, this means a subsequent buyer who purchases the suit property while the specific performance suit is pending takes it subject to whatever the court eventually decides, and cannot claim to be an innocent third party defeating the original plaintiff's rights.",
+        "That protection is valuable but incomplete on its own. It secures the plaintiff's claim to the property itself; it does nothing, by itself, to prevent the seller from pocketing and dissipating the money received from the second sale. If the court in the end refuses specific performance, perhaps because the second sale has made restoring the original position impracticable, or because some other defence succeeds, the plaintiff may be left chasing a seller who no longer has the funds to pay damages or make restitution. That gap is exactly where a separate application for interim relief over the sale proceeds becomes necessary."
+      ]
+    },
+    {
+      "heading": "The Delhi Greater Kailash Dispute",
+      "paragraphs": [
+        "A 2026 Delhi High Court matter illustrates how this plays out. The plaintiff, Romi Garg, sought specific performance of an agreement to sell dated 15 May 2023, covering Greater Kailash properties, which he said his mother, Sheela Devi, had executed in his favour for a total consideration of Rs 24.50 crore. A related suit by a separate party concerned a later agreement over part of the same property. While both suits were pending, Sheela Devi sold portions of the property to other buyers, including a sale of part of the premises for roughly Rs 12 crore and another part for roughly Rs 8.5 crore.",
+        "On the plaintiff's application, the court, through Justice Amit Bansal, found a prima facie case for interim injunctive relief. It noted that the resale had been executed hastily, immediately after mediation between the original parties had failed, a sequence that itself raised doubts about the genuineness and good faith of the new transactions. The court also noted that the original title documents for the property had remained with the party holding the earlier agreement, which cut against treating the new buyers as having done proper due diligence before purchasing.",
+        "The court ordered status quo over the property and directed the seller to deposit the sale consideration received from the subsequent transactions, reported at roughly Rs 20.5 crore, in court. The order was framed on a prima facie basis; it did not finally decide whether the original plaintiff is entitled to specific performance, restitution, or damages instead. What it did was make sure that whichever remedy the court eventually grants will actually be available to satisfy, rather than existing only on paper because the money has already gone elsewhere."
+      ]
+    },
+    {
+      "heading": "Why Courts Are Willing to Order a Deposit",
+      "paragraphs": [
+        "The reasoning behind a deposit order of this kind rests on the court's inherent and statutory power to grant interim relief that preserves the subject matter of the dispute in a meaningful sense, not merely in form. If the only protection available to a plaintiff were a paper declaration that any future sale is subject to the suit, a determined seller could still defeat the practical value of that protection by spending the resale proceeds before judgment. Directing the seller to deposit those proceeds closes that gap without requiring the court to decide, at the interim stage, who is actually entitled to the money.",
+        "Courts have been careful to frame such orders as not predetermining the final outcome. The deposit simply holds the fund in a neutral place so that the final judgment, when it comes, whether it grants specific performance (with the deposited sum potentially applied in whatever adjustment the decree requires), restitution of the amount to the plaintiff, or damages, is not frustrated by a seller who has already put the money beyond reach."
+      ]
+    },
+    {
+      "heading": "What a Plaintiff Should Actually Plead",
+      "paragraphs": [
+        "A plaintiff who discovers a resale during a pending suit should not treat it as a development to simply note and wait out until final hearing. The practical lesson from the Greater Kailash order is to move promptly for interim relief as soon as the subsequent sale, or credible information about one, comes to light. Delay in seeking relief gives the seller more time to move the funds and weakens the argument that urgent protection is needed.",
+        "The application should go beyond the lis pendens point. Pleading only that the second sale is subject to the suit invites the court to simply note the position and move on, since Section 52 already achieves that without a separate order. What actually persuades a court to order a deposit is a specific, evidenced case that the proceeds of the resale are at risk of being spent, transferred, or placed beyond reach, including, where available, facts suggesting the resale itself was rushed, timed to defeat the pending claim, or conducted with buyers who did not carry out ordinary diligence, such as failing to verify that the original title documents were still with a third party.",
+        "Where such facts exist, the plaintiff should ask specifically for a direction that the seller deposit the sale consideration received, framed expressly as an interim, prima facie measure that does not predetermine entitlement, together with a status quo order over any remaining or related property interests. Asking for both forms of relief together, rather than relying on one alone, mirrors what the Delhi High Court actually granted in the Greater Kailash matter."
+      ]
+    },
+    {
+      "heading": "Limits and What This Does Not Guarantee",
+      "paragraphs": [
+        "Nothing about this line of relief turns a deposit order into an automatic or formulaic remedy available in every specific performance suit. Whether a court grants it depends heavily on the specific facts, including how much money was actually received on resale, what evidence exists of urgency or risk of dissipation, and how strong the plaintiff's underlying case for specific performance appears at the interim stage. A plaintiff with a weak case on the merits of the original agreement is unlikely to get this relief simply by pointing to a resale.",
+        "It is also worth being clear-eyed that a deposit order protects the money, not the plaintiff's entitlement to it. The final decree may still go against the plaintiff on the substantive specific performance claim, in which case the deposited sum would ordinarily be released back to the party the court finds entitled to it, which could include the seller or the subsequent buyer depending on how the underlying dispute is resolved. The deposit is a tool for preserving options pending trial, not a shortcut to winning the case."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I just found out my seller sold the property to someone else after I filed my specific performance suit. What should I do first?",
+      "a": "Move for interim relief promptly rather than waiting for final hearing. Gather whatever evidence you have of the resale, its timing, and the amount received, and apply for both a status quo order over the property and a direction that the seller deposit the sale proceeds in court, rather than relying only on the lis pendens doctrine."
+    },
+    {
+      "q": "Does lis pendens alone protect me if the seller has already sold the property to someone else?",
+      "a": "It protects your claim to the property, since the subsequent buyer takes subject to the outcome of your suit under Section 52 of the Transfer of Property Act. It does nothing on its own to stop the seller from spending the money received from that resale, which is why a separate application targeting the sale proceeds matters."
+    },
+    {
+      "q": "Will the court definitely order the seller to deposit the resale money?",
+      "a": "No. This relief is discretionary and fact-specific. Courts have granted it where there is a credible case of urgency and risk that the proceeds will be dissipated, and where the plaintiff's underlying claim has reasonable strength, but it is not an automatic consequence of every resale during a pending suit."
+    },
+    {
+      "q": "Does a deposit order mean I have already won my specific performance claim?",
+      "a": "No. These orders are explicitly made on a prima facie basis at the interim stage and do not decide the final question of entitlement. The deposited amount is held pending the outcome of the suit, and the final judgment could still go against the original plaintiff."
+    },
+    {
+      "q": "What happens to the deposited money if I lose my specific performance case?",
+      "a": "The deposited sum would ordinarily be released in line with whatever the final decree directs, which could mean it goes back to the seller or to the subsequent buyer, depending on how the court resolves the underlying dispute. The deposit itself does not create a separate entitlement to the money beyond what the final judgment decides."
+    }
+  ],
+  "references": [
+    "Transfer of Property Act, 1882, Section 52 (doctrine of lis pendens)",
+    "Specific Relief Act, 1963 (as amended), governing specific performance of contracts for sale of immovable property",
+    "Romi Garg v. Sheela Devi and connected matters, Delhi High Court, order on interim relief and deposit of sale proceeds, July 2026 (Greater Kailash property dispute)"
+  ],
+  "sources": [
+    "https://rawlaw.in/delhi-high-court-directs-seller-to-deposit-%e2%82%b920-5-crore-after-subsequent-sale-of-property-during-specific-performance-dispute/",
+    "https://lawyerenews.com/legal_detail/subsequent-purchasers-not-bonafide-if-sales-executed-hastily-after-failed-mediation-delhi-high-court-orders-deposit-of-sale-proceeds-in-property-dispute-between-mother-son"
+  ],
+  "verification_notes": [
+    "The core facts of the Greater Kailash dispute (plaintiff Romi Garg, agreement dated 15 May 2023, total consideration of Rs 24.50 crore, resale of portions of the property for roughly Rs 12 crore and Rs 8.5 crore while the suit was pending, and the court's direction to deposit roughly Rs 20.5 crore along with a status quo order) are drawn from two independent news-law reports, rawlaw.in and lawyerenews.com, both dated July 2026 and describing the same order of Justice Amit Bansal; the official Delhi High Court order text itself was not independently retrieved in this search, so exact figures and the precise scope of the deposit direction should be checked against the court's order before being relied on as settled.",
+    "The finding that the resale buyers' good faith was doubted because the sales were executed hastily after mediation failed, and because original title documents remained with the earlier agreement holder: confirmed from both the rawlaw.in and lawyerenews.com reports, which describe the same reasoning.",
+    "The general doctrine of lis pendens under Section 52 of the Transfer of Property Act, and its limits (it protects the claim to the property but not automatically the proceeds of a subsequent sale): stated as settled, well-established property law rather than tied to a specific case citation, since this is the Act's own established doctrine.",
+    "The characterisation of such deposit orders as discretionary, fact-specific, and made expressly on a prima facie basis without deciding final entitlement: presented as the general legal character of this type of interim relief, consistent with how both sources describe the Delhi order, rather than as a holding from any additional case beyond the one reviewed.",
+    "No specific statutory provision authorising a deposit of sale proceeds as interim relief in a civil suit was separately verified in this search beyond the general power of civil courts to grant interim relief preserving the subject matter of a suit (commonly invoked alongside Order XXXIX of the CPC); this guide accordingly describes the deposit as an exercise of the court's interim-relief powers in general terms rather than citing a specific CPC provision for it."
+  ]
+}
