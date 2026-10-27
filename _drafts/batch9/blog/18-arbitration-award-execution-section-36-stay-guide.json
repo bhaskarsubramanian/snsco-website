@@ -1,0 +1,94 @@
+{
+  "slug": "arbitration-award-execution-section-36-stay-guide",
+  "title": "You Won Your Arbitration. Executing the Award Under Section 36 Is Its Own Battle",
+  "meta_description": "How a domestic arbitral award is executed as a decree under Section 36, when a Section 34 challenge actually stays enforcement, and the 2021 fraud carve-out.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "A claimant who spends two or three years in an arbitration, paying tribunal fees and counsel along the way, tends to treat the final award as the finish line. It usually is not. Section 36 of the Arbitration and Conciliation Act, 1996 treats the award as enforceable in the same manner as a decree of a civil court, but getting there, and getting past whatever the losing party does next, is a separate process with its own procedure and its own delay points.",
+    "The award debtor's most common move is to file an application under Section 34 to set the award aside. What that filing actually does to enforcement, and whether it buys automatic breathing room or requires a specific order, is where a lot of award holders get their expectations wrong, and where a surprising number of award debtors also misjudge their own position, assuming a filed challenge protects them when it does nothing of the sort on its own."
+  ],
+  "sections": [
+    {
+      "heading": "Does Filing a Section 34 Challenge Automatically Stop Enforcement?",
+      "paragraphs": [
+        "No, and this is the single most important point for an award holder to understand. Before 2015, the Act was silent on this question, and the practical effect was that merely filing a Section 34 application tended to freeze enforcement while the challenge was pending, often for years. The 2015 amendment to the Act changed that directly, clarifying that the mere filing of an application to set aside an award does not by itself render the award unenforceable. Enforcement proceeds unless the award debtor goes a step further and persuades the court to grant an actual stay.",
+        "That distinction matters because it shifts the burden onto the party trying to avoid payment. An award holder facing a Section 34 challenge is not automatically blocked from moving to execution; the debtor has to make a separate application for stay, and the court has to actually grant it, usually on terms the court considers appropriate. A debtor who simply files the Section 34 petition and does nothing more is not protected from execution proceeding against them in the meantime."
+      ]
+    },
+    {
+      "heading": "What Does a Court Usually Ask for Before Granting a Stay?",
+      "paragraphs": [
+        "Where a stay is sought, courts have discretion to grant it on whatever conditions they consider fit, and in practice that has generally meant some form of security for the award amount, commonly a deposit of a substantial sum with the court registry, or a bank guarantee covering the sum in dispute. The idea is to prevent an award debtor from using the pendency of a Section 34 challenge as a cost-free way to hold onto disputed money for years while the challenge works its way through the system, since a Section 34 petition can realistically take several years to reach a final hearing in a busy commercial court.",
+        "The exact amount or proportion a court will demand as a condition for stay is not fixed by the statute and varies with the facts of each case, so a debtor should not assume any particular figure applies as a default rule, and an award holder resisting a stay application should push the court to set a condition that reflects the real risk of the money being dissipated rather than accepting a token deposit."
+      ]
+    },
+    {
+      "heading": "What Changed With the 2021 Amendment on Fraud and Corruption?",
+      "paragraphs": [
+        "The Arbitration and Conciliation (Amendment) Act, 2021, following an ordinance issued in November 2020, added a specific carve-out to Section 36. Where the court, hearing an application for stay, is satisfied that a prima facie case is made out that the arbitration agreement or the underlying contract on which the award is based was induced or affected by fraud or corruption, the court is required to grant an unconditional stay of the award's enforcement while the Section 34 challenge is pending.",
+        "This is a mandatory stay once that prima facie threshold is met, in contrast to the general discretionary stay discussed above, which a court can refuse or condition on security. The amendment's own text states that it applies to pending court proceedings connected with arbitral proceedings regardless of whether those proceedings were commenced before or after the Arbitration and Conciliation (Amendment) Act, 2015, which means it can reach older disputes and not merely ones arising after 2021. Commentators have criticised the provision on the basis that fraud and corruption allegations are easy to raise and hard to disprove quickly, which risks giving award debtors an easy route to an extended, cost-free stay simply by levelling such an allegation at the outset."
+      ]
+    },
+    {
+      "heading": "How Does an Award Debtor Actually Resist Execution Once a Decree-Holder Moves?",
+      "paragraphs": [
+        "Once an award holder files for execution, treating the award as a decree, the executing court's own role is fairly narrow. It is generally not the forum to reopen the merits of the dispute the tribunal already decided, and objections that really amount to re-arguing the case on facts belong in the Section 34 proceeding, not in resistance to execution. A debtor trying to delay payment by raising fresh factual arguments at the execution stage, rather than through a proper stay application, tends to find the executing court unsympathetic to that approach.",
+        "What an award debtor can legitimately raise at execution is narrower: questions about whether the decree properly identifies the judgment debtor, computational disputes about the amount actually due after accounting for any partial payment, or genuine jurisdictional objections to the executing court itself. Debtors hoping to use the execution stage as a second bite at the substantive dispute generally find that door closed, which is part of why obtaining an actual stay order, rather than relying on the pendency of the Section 34 petition alone, is the only real way to pause payment."
+      ]
+    },
+    {
+      "heading": "What Should an Award Holder Actually Do While a Challenge Is Pending?",
+      "paragraphs": [
+        "An award holder should not wait passively to see whether the debtor seeks a stay. Moving promptly to file for execution, while the debtor's Section 34 challenge is still pending and before any stay application has been decided, puts pressure on the debtor to actually apply for and justify a stay rather than drift along assuming one exists by default. Many debtors, used to the pre-2015 practice, still behave as if filing the challenge itself buys protection, and a holder who moves quickly can catch that gap.",
+        "Where the debtor does apply for a stay, the holder's strongest argument is usually about the quality of security offered rather than resisting a stay altogether, since courts are generally willing to grant some form of conditional stay in ordinary cases. Pushing for a deposit or bank guarantee that genuinely matches the award amount, rather than accepting a nominal condition, is often the more realistic win than hoping to defeat the stay application outright, except in the narrower fraud-and-corruption category where the stay is unconditional by statute once the threshold is met."
+      ]
+    },
+    {
+      "heading": "Once You Get Past the Stay Question, How Do You Actually Collect the Money?",
+      "paragraphs": [
+        "An award treated as a decree is executed the way any civil decree is, through the machinery in Order 21 of the Code of Civil Procedure. That gives a decree-holder several routes depending on what the debtor actually owns: attachment and sale of immovable property, attachment of movable assets, garnishee proceedings against a bank where the debtor holds funds, and, in appropriate cases, attachment of amounts the debtor is owed by third parties. Which route makes sense depends heavily on what is actually known about the debtor's assets, which is why many award holders start investigating asset location well before the award is even final.",
+        "A debtor determined to avoid payment sometimes tries to move assets out of reach once an award looks likely to go against them. An award holder who anticipates this is better served raising the issue at the interim relief stage, through Section 9 of the Act, before or during the arbitration, rather than discovering after the award that the debtor's bank accounts have already been emptied. Execution is a genuinely useful remedy once assets can be located and attached, but it is not a substitute for having secured the claim earlier if dissipation was a foreseeable risk, and lawyers who treat Section 9 purely as a pre-arbitration formality often regret that choice once execution turns out to be chasing an empty shell of a company."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does filing an application to set aside an arbitral award automatically stop me from having to pay it?",
+      "a": "No. Since the 2015 amendment to Section 36, merely filing a Section 34 application does not make the award unenforceable. The award debtor has to separately apply for a stay, and the court has to grant it, usually on condition of a deposit or security, before enforcement actually pauses."
+    },
+    {
+      "q": "What is the fraud and corruption exception the 2021 amendment introduced?",
+      "a": "If a court finds a prima facie case that the arbitration agreement or the contract underlying the award was induced by fraud or corruption, it must grant an unconditional stay of enforcement while the Section 34 challenge proceeds. This stay comes without the usual condition of a deposit or security."
+    },
+    {
+      "q": "Can I raise new factual arguments about the dispute at the execution stage?",
+      "a": "Generally not. The executing court treats the award as a decree and does not reopen the merits of what the tribunal decided. Substantive challenges to the award itself belong in a Section 34 proceeding; execution-stage objections are limited mainly to identity, computation and jurisdictional issues."
+    },
+    {
+      "q": "How much security does a court usually require before granting a stay?",
+      "a": "There is no fixed statutory figure. Courts set whatever condition they consider appropriate on the facts, often a deposit or bank guarantee covering a significant part of the award, so the actual amount depends on the case rather than a uniform formula."
+    },
+    {
+      "q": "Does the 2021 amendment's fraud carve-out apply to older arbitrations that started before 2015?",
+      "a": "The amendment's own text states it applies to court proceedings connected with arbitral proceedings whenever those proceedings were commenced, including before the 2015 amendment, so it is not limited to disputes that arose only after the 2021 changes came into force."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Section 36 (enforcement of awards as a decree)",
+    "Arbitration and Conciliation (Amendment) Act, 2015, amending Section 36 on the effect of a pending Section 34 application",
+    "Arbitration and Conciliation (Amendment) Act, 2021 (following the Arbitration and Conciliation (Amendment) Ordinance, 2020), inserting the fraud and corruption carve-out to Section 36"
+  ],
+  "sources": [
+    "https://arbitrationblog.kluwerarbitration.com/?p=37422",
+    "https://legalblogs.wolterskluwer.com/arbitration-blog/indias-arbitration-and-conciliation-amendment-act-2021-a-wolf-in-sheeps-clothing/",
+    "https://indiacorplaw.in/2021/04/05/section-36-of-the-arbitration-and-conciliation-act-1996-as-recently-amended/",
+    "https://blog.ipleaders.in/evolutionary-review-arbitration-conciliation-amendment-act-2021/"
+  ],
+  "verification_notes": [
+    "That pre-2015 the Act was silent on the effect of a Section 34 filing, that the 2015 amendment clarified a filing alone does not render the award unenforceable, and that a separate stay application and order are required: confirmed by three independent sources (indiacorplaw, Kluwer Arbitration Blog, Wolters Kluwer arbitration blog), all describing the same sequence consistently.",
+    "The 2021 amendment's mandatory, unconditional stay where a prima facie case of fraud or corruption affecting the arbitration agreement or underlying contract is shown: confirmed by the same three sources describing the amendment's substantive effect in materially identical terms.",
+    "That the 2021 amendment's text applies to proceedings connected with arbitral proceedings regardless of whether they commenced before or after the 2015 amendment: stated by one of the three sources (indiacorplaw) describing the amendment's retrospective reach; treated here as reasonably reliable given it describes the amending Act's own text rather than an interpretive argument, but flagged as resting on a single source among those reviewed.",
+    "No specific percentage or fixed sum for the security/deposit condition on an ordinary discretionary stay was confirmed from the sources, so this guide describes that condition only in general terms rather than citing an unconfirmed figure.",
+    "The narrow scope of objections available at the execution stage (decree treatment, limited to identity, computation and jurisdiction) reflects the general, well-settled procedural position on executing a decree under the Code of Civil Procedure as applied to Section 36 awards, rather than a specific case citation, since no single recent case on this precise point was retrieved in the searches used for this guide."
+  ]
+}
