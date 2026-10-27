@@ -2343,5 +2343,52 @@
       "https://www.corplawupdates.in/updates/sebi-avadhut-sathe-trading-academy-refund-order-546-crore"
     ],
     "note": "Multiple independent sources confirm the 23 October 2026 final order, the Rs 546.17 crore principal refund plus Rs 67.87 crore interest to the Investor Protection and Education Fund (totaling ~Rs 614 crore), the five-month refund deadline, CA certification requirement, Rs 11.5 crore penalty split (6/4/1.5 crore), and the two-year/six-month market bars. No duplicate found on the live site."
+  },
+  {
+    "file": "_drafts/batch9/updates/01-supreme-court-quashes-bengaluru-housing-land-acquisition-fraud.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.deccanherald.com/india/supreme-court-quashes-1988-bengaluru-land-acquisition-for-housing-society-4195909",
+      "https://theprint.in/india/sc-quashes-land-acquisition-over-fraud-lack-of-approved-housing-scheme/3082072/",
+      "https://lawchakra.in/supreme-court/sc-quashes-bengaluru-acquisition/"
+    ],
+    "note": "Strongly corroborated by many independent outlets (Deccan Herald, The Print, LawChakra, Urban Acres, The420, TaxGuru, Intolegalworld, TheLawCommunicants): N. Arasappa v. State of Karnataka, 2026 INSC 1151, bench of Justices J.B. Pardiwala and K. Vinod Chandran, 26 October 2026, ~59-60 acres at Nelakadirenahalli quashed as fraud/colourable exercise of power, 19-year delay and earlier ruling rejected as a bar. However, the acquisition notification is dated 22 November 1988 (declaration 4 December 1989), so the title's description of a '1990s' acquisition is factually wrong; it was a late-1980s acquisition.",
+    "fixes": [
+      {
+        "find": "\"title\": \"Supreme Court Quashes 1990s Bengaluru Land Acquisition for Housing Society as a Fraud on Power\",",
+        "replace": "\"title\": \"Supreme Court Quashes 1988 Bengaluru Land Acquisition for Housing Society as a Fraud on Power\",",
+        "reason": "Independent reports confirm the acquisition notification was dated 22 November 1988 (declaration 4 December 1989), not the 1990s."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch9/updates/02-supreme-court-debenture-trustee-related-party-coc-exclusion.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://ibclaw.in/supreme-court-upholds-ecl-finances-coc-exclusion-as-related-party/",
+      "https://courtbook.in/posts/supreme-court-upholds-exclusion-of-ecl-finance-and-debenture-trustee-from-creditors-committee-over-control-of-corporate-debtor",
+      "https://lawtrend.in/debenture-holder-with-pervasive-control-over-corporate-debtor-is-a-related-party-cannot-sit-in-coc-supreme-court/"
+    ],
+    "note": "Multiple independent outlets (ibclaw.in, courtbook.in, lawtrend.in) confirm the Supreme Court dismissed ECL Finance's and IDBI Trusteeship's appeals, holding ECL's pervasive/all-pervasive policy and project control over Palm Developers made it a related party disqualified from the CoC, and IDBI Trusteeship was equally excluded since ECL held all the debentures. Bench (Pardiwala and Vinod Chandran) and reasoning consistent across sources."
+  },
+  {
+    "file": "_drafts/batch9/updates/03-gujarat-hc-bank-official-anticipatory-bail-widow-scheme-fraud.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://supremetoday.ai/gujarat-high-court-denies-anticipatory-bail-to-bank-official-accused-in-widow-fraud-case-20261022057"
+    ],
+    "note": "Independently confirmed via supremetoday.ai: Yogendra Vijay Bahadur Singh, former Cluster Sales Head at Axis Bank, denied anticipatory bail by Justice Sanjeev J. Thaker over reactivation of a widow's dormant Ganga Swarup Vidhva Sahay Scheme account at the Valia branch, Bharuch, with a co-accused changing the registered mobile number and withdrawing funds by ATM. Could not independently reach the LiveLaw article (network restriction), so corroboration rests on one clearly independent outlet plus the draft's own LiveLaw citation; no contradicting information found. Flagging as a thin-sourcing item for awareness, though nothing found undermines the draft's claims."
+  },
+  {
+    "file": "_drafts/batch9/updates/04-rajasthan-reat-refuses-694-day-delay-condonation.json",
+    "verdict": "PASS",
+    "claims_checked": 4,
+    "evidence": [
+      "https://ibclaw.in/modest-infra-ltd-vs-arvind-saini-rajasthan-reat/"
+    ],
+    "note": "Could not find any outlet beyond ibclaw.in (case page, weekly RERA bulletin, and daily update, all from the same publisher) reporting this Rajasthan REAT order, matching the draft's own disclosed single-source limitation. No contradicting information found and the specific facts (694-day delay, Section 44(5) proviso reasoning) are consistent with ibclaw.in's established case-reporting format. PASS given no contradiction found, but this remains a single-source item."
   }
 ]
