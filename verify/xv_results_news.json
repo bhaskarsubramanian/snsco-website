@@ -2113,5 +2113,16 @@
         "reason": "courtbook.in independently reports the order was passed 28 September 2026; 21 October 2026 is only the date LiveLaw published its report, which the draft's own verification_notes concede is a stand-in, not a confirmed order date."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch8/news/07-rajasthan-hc-contractual-employee-maternity-leave.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://indiankanoon.org/doc/195945253/",
+      "https://lawchakra.in/high-court/rajasthan-high-court/contractual-women-maternity-leave/",
+      "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-constitutional-mandate-contractual-employees-denied-maternity-benefits-555607"
+    ],
+    "note": "Case (S.B. Civil Writ Petition No. 1561/2023, neutral citation 2026:RJ-JD:49861, styled '2026 (Raj) JD 49861' in the draft -- same citation, different formatting, not an error), parties, Justice Bipin Gupta, Jodhpur Bench, 16 Oct 2026 decision date, Rajasthan State Pollution Control Board as employer, the 180-day direction from 26 December 2022, and the core holding (employment category alone cannot defeat maternity benefit once eligibility conditions are met; a contractual condition conflicting with the Maternity Benefit Act, 1961 is overridden) are all independently confirmed via IndianKanoon hosting the judgment plus LawChakra and LiveLaw. No duplicate on the live site."
   }
 ]
