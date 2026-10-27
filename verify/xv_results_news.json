@@ -2095,5 +2095,23 @@
       "https://nishithdesai.com/research-and-articles/hotline/tax-hotline/taxing-cross-border-production-activities-contract-language-re-emphasized-4557"
     ],
     "note": "Demand figure (Rs 46,40,92,070), dispute period (2013-14 to June 2017), films named (Dhoom 3, Gunday, Befikre), Order-in-Original date (14.12.2022), bench (Mohanty and Parthiban), the intermediary finding (LARs facilitated procurement while YRF kept creative/budgetary/business control, placing provision outside India and outside reverse charge), and the setting aside of interest and both penalties are all independently confirmed, including by a fresh source (supremetoday.ai) not in the draft's own citations. Draft appropriately flagged and resolved the date discrepancy between sources. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch8/news/06-karnataka-hc-fertiliser-dealer-sealed-bag-fco-quash.json",
+    "verdict": "FIX",
+    "claims_checked": 5,
+    "evidence": [
+      "https://courtbook.in/posts/fertilizer-dealer-not-liable-for-substandard-products-without-specific-allegations-karnataka-high-court",
+      "https://www.siasat.com/hc-relief-for-fertiliser-dealer-over-sealed-substandard-products-3562807/",
+      "https://newskarnataka.com/bengaluru/karnataka-hc-quashes-case-against-fertiliser-dealer/23102026/"
+    ],
+    "note": "Court, bench (Justice T. Venkatesh Naik, Dharwad Bench), petitioner, Criminal Petition No. 100297 of 2026, Bagalkot location, the Sections 3/7 EC Act and Rules 19/21 FCO charges, the sealed-bag/no-manufacture-allegation holding, and reliance on Sanjay Gowda v. State of Karnataka (2016) are all independently confirmed. However, the draft's own verification_notes admit it could not confirm an actual order date and used the press report date (21 October 2026) as a stand-in for decision_date. My fresh search found an independent report (courtbook.in) giving the actual order date as 28 September 2026, not 21 October 2026 (which is only the date LiveLaw's report was published). This is a genuine, if single-sourced, discrepancy on the decision date; recommend correcting it.",
+    "fixes": [
+      {
+        "find": "\"decision_date\": \"2026-10-21\",",
+        "replace": "\"decision_date\": \"2026-09-28\",",
+        "reason": "courtbook.in independently reports the order was passed 28 September 2026; 21 October 2026 is only the date LiveLaw published its report, which the draft's own verification_notes concede is a stand-in, not a confirmed order date."
+      }
+    ]
   }
 ]
