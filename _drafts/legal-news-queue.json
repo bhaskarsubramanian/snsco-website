@@ -969,5 +969,22 @@
     ],
     "queued_full_page": true,
     "added_on": "2026-10-26"
+  },
+  {
+    "id": "sc-orris-infrastructure-rakesh-kumar-gupta-cirp-fraud-recall-three-c-shelters",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Orris Infrastructure Private Limited v. Rakesh Kumar Gupta & Ors.",
+    "citation": "2026 INSC 1070, Civil Appeal(s) arising from NCLAT order of August 2023, Supreme Court of India, decided 30 September 2026",
+    "court": "Supreme Court of India",
+    "date": "2026-09-30",
+    "holding_summary": "A bench of Justices Pamidighantam Sri Narasimha and Alok Aradhe partly allowed appeals arising from the insolvency of Three C Shelters Pvt. Ltd. (the Greenopolis project), holding that an NCLT's admission of a Section 9 operational creditor petition can be recalled where the underlying debt is later shown to be fabricated and the admission was obtained through fraud or collusion. The Court held the NCLAT erred in August 2023 by treating such a recall as automatically terminating the entire corporate insolvency resolution process; instead, before deciding whether CIRP should continue, the adjudicating authority must first hear the resolution professional, the Committee of Creditors, and other affected stakeholders including homebuyers. The matter, where the operational creditor Straight Edge Contracts had claimed about Rs 29.95 crore on a petition filed in October 2019, was remitted to the NCLT for this exercise; the Court declined to rule on Orris's ownership and control of the project and closed connected contempt proceedings.",
+    "why_it_matters": "Gives a corporate debtor facing insolvency triggered on a sham or fabricated debt a clear route to get the admission recalled, while confirming that proof of fraud by one creditor does not automatically wipe out the CIRP for other genuine creditors or homebuyers who have already engaged with the resolution process.",
+    "sources": [
+      "https://www.verdictum.in/supreme-court/orris-infrastructure-private-limited-v-rakesh-kumar-gupta-2026-insc-1070-admission-of-petition-us-9-ibc-induced-by-fraudcollusion-1623114",
+      "https://www.deccanherald.com/india/nclt-can-recall-cirp-if-based-on-fraud-collusion-supreme-court-4166567",
+      "https://lawchakra.in/supreme-court/supreme-court-restores-three-c-shelters-cirp-fraudulent-initiation-need-not-end-insolvency-process/"
+    ],
+    "queued_full_page": true,
+    "added_on": "2026-10-27"
   }
 ]
