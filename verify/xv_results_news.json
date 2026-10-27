@@ -2035,5 +2035,29 @@
       "https://www.livelawbiz.com/pdf_upload/2026/10/16/enercia-706972.pdf"
     ],
     "note": "Judge, parties, O.M.P.(I)(COMM.) 346/2026, 14 Oct 2026 decision date, Section 94(2) Electricity Act/SERC jurisdiction holding, and the Rs 52.20 crore bank guarantee figure (which breaks down as Rs 27.96 cr performance + Rs 13.50 cr VGF + Rs 10.74 cr connectivity guarantees per the judgment PDF) all confirmed; initial apparent mismatch on the guarantee total was resolved by finding the performance-guarantee component. Only LiveLawBiz covers this order, but the draft cross-checked against the hosted judgment PDF. No duplicate on live site."
+  },
+  {
+    "file": "_drafts/batch8/news/01-delhi-hc-quashes-sfio-probe-educomp-solutions.json",
+    "verdict": "FAIL",
+    "claims_checked": 6,
+    "evidence": [
+      "https://indiankanoon.org/doc/30171979/",
+      "https://taxguru.in/company-law/uncorroborated-reports-cannot-justify-educomp-sfio-investigation-delhi-hc.html",
+      "https://www.livelawbiz.com/company-law/high-court/delhi-high-court-quashes-serious-fraud-investigation-probe-educomp-solution-limited-says-centre-order-lacked-reasons-555191",
+      "https://delhihighcourt.nic.in/app/showlogo/100025611736410146960_60178_12422022.pdf/2024"
+    ],
+    "note": "Core facts check out independently (case, parties, W.P.(CRL) 1242/2022 with connected 2970/2022, 16 Oct 2026, Justice Amit Mahajan, the 17.08.2018 Section 212(1)(c) order quashed for recording no reasons, merits of fraud allegations not adjudicated). However this exact ruling is already live on the site at legal-updates/index.html (line 519: same case name, citation, court, date and holding). Verdict FAIL with note 'duplicate of live content'. Note the live card also states an earlier inspection report found the fraud/fund-diversion allegations unfounded and that the ruling disposes of SFIO's 2022 criminal complaint; the draft's own verification_notes say it deliberately excluded the criminal-complaint claim for lack of a second source, so that discrepancy is moot given the duplicate finding."
+  },
+  {
+    "file": "_drafts/batch8/news/02-delhi-hc-injunction-benne-delhi-trademark.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/delhi-high-court-protects-benne-restaurant-trademark",
+      "https://lawchakra.in/?p=320558",
+      "https://www.thelawadvice.com/news/delhi-high-court-restrains-restaurant-from-using-benne-trademark-in-infringement-suit",
+      "https://images.assettype.com/barandbench/2026-10-21/xj58ku0r/Benne_Delhi_order.pdf"
+    ],
+    "note": "Case (CS(COMM) 1131/2026), parties, Justice Vikas Mahajan, 16 Oct 2026 decision date, the ex parte injunction restraining 'BENNE'/'BENNE DELHI', prima facie case/balance of convenience/irreparable harm reasoning, the 13 July 2026 deed of assignment from Shimow Foods LLP, the 29 September 2026 pending trademark application, and the 9 Dec 2026 / 9 Feb 2027 listing dates are all confirmed across four independent reports (Bar and Bench, LawChakra, The Law Advice, LiveLawBiz) and the order PDF itself. No duplicate found on the live site."
   }
 ]
