@@ -1,0 +1,91 @@
+{
+  "slug": "rbi-co-lending-directions-2025-guide",
+  "title": "RBI's Co-Lending Arrangements Directions, 2025: What Banks and NBFCs Must Rebuild Before January 2026",
+  "meta_description": "RBI's new Co-Lending Directions replace the 2020 model and go beyond priority sector lending. Retention limits, escrow, and what existing deals must fix.",
+  "practice_area": "Banking & Finance",
+  "intro": [
+    "Co-lending started in 2018 as a narrow fix for one problem: getting bank-rate funding into priority sector loans originated by NBFCs that understood a borrower segment banks could not reach on their own. The Reserve Bank of India's 2020 circular formalised that into the Co-Lending Model, but kept it tied to priority sector lending and left enough structural gaps, particularly around how arrangements were disclosed and how risk was actually shared, that the regulator eventually decided the framework needed a rewrite rather than a patch.",
+    "The Co-Lending Arrangements Directions, 2025 are that rewrite. They replace the 2020 circular entirely, extend co-lending beyond priority sector lending for the first time, and come into force from 1 January 2026, which means every bank and NBFC with an existing co-lending book now has a live compliance project, not a future one, to bring those arrangements into line."
+  ],
+  "sections": [
+    {
+      "heading": "What actually changed from the 2020 model",
+      "paragraphs": [
+        "That 2020 Co-Lending Model was built around a specific use case: a bank and an NBFC jointly extending credit to priority sector borrowers, with the NBFC typically originating and servicing the loan and the bank providing the bulk of the funding. The 2025 Directions keep that structure available but no longer confine co-lending to priority sector categories, opening the door to co-lending arrangements across a much wider range of retail and commercial lending, provided the arrangement otherwise meets the Directions' conditions.",
+        "Entities covered have also been clarified more precisely. The framework applies to commercial banks, excluding Small Finance Banks, Local Area Banks and Regional Rural Banks, All-India Financial Institutions, and NBFCs including Housing Finance Companies, acting either as an originating regulated entity or a partner regulated entity in a given arrangement. Multiple banking, consortium lending, and syndicated lending arrangements are expressly carved out and continue to be governed by their own existing frameworks rather than by these Directions.",
+        "These Directions were issued as RBI/DOR/2025-26/139, following a draft circulated for comment earlier in 2025, and apply to arrangements structured under an ex-ante agreement between the originating and partner regulated entities, meaning the terms of the arrangement, including how exposure, pricing and risk are shared, have to be settled upfront rather than negotiated loan by loan after origination."
+      ]
+    },
+    {
+      "heading": "The retention and transfer mechanics that drive the structure",
+      "paragraphs": [
+        "Each regulated entity in a co-lending arrangement is required to retain a minimum of ten percent of each individual loan on its own books, rather than relying on an aggregate portfolio-level retention figure. This is meant to keep both lenders genuinely exposed to the credit risk of the specific loans they have co-lent, rather than one party retaining a token sliver of an overall book while the economic risk sits almost entirely with the other.",
+        "The originating entity is required to transfer its share of the loan to the partner entity within fifteen calendar days of origination for the arrangement to qualify as co-lending under these Directions at all. An arrangement that takes materially longer to transfer the loan risks being characterised as something other than co-lending for regulatory purposes, with correspondingly different capital and disclosure treatment, which makes the fifteen-day window an operational deadline that loan origination and back-office systems need to be built around, not a guideline to aim for loosely.",
+        "Disbursements to the borrower and subsequent collections are both required to run through escrow-based mechanisms, which is a more structured requirement than many existing bilateral co-lending arrangements currently use. Entities with arrangements that settle disbursement or collection directly between the originator and partner, outside an escrow structure, will need to rebuild that part of the operational flow before the arrangement can be treated as compliant."
+      ]
+    },
+    {
+      "heading": "Credit policy, disclosure and borrower protection",
+      "paragraphs": [
+        "The Directions require each regulated entity to build co-lending into its board-approved credit policy, rather than treating it as a bolt-on arrangement sitting outside the institution's normal credit governance. That policy has to address, at minimum, the exposure limits the entity is prepared to carry through co-lending, the borrower segments it is prepared to co-lend to, the due diligence expected of a prospective partner entity before an arrangement is entered into, and how borrower grievances arising from a co-lent loan get addressed and resolved.",
+        "On the disclosure side, every regulated entity engaged in co-lending must publish a list of its active co-lending partners on its own website, giving a borrower, or a counterparty considering a transaction with the entity, visibility into which institutions are actually behind a co-lent loan rather than leaving that relationship opaque. This is a meaningful departure from the lighter disclosure expectations that applied under the 2020 circular.",
+        "For a borrower, the practical effect of these changes is that a co-lent loan should come with a clearer answer to who actually holds what share of the exposure, and a defined grievance redressal path built into the credit policy of both institutions involved, rather than a borrower being bounced between the originator and the partner entity without either taking clear ownership of a complaint."
+      ]
+    },
+    {
+      "heading": "What happens to arrangements already running",
+      "paragraphs": [
+        "The 2025 Directions repeal the 2020 circular, but existing co-lending arrangements entered into under that circular do not automatically become void on the Directions taking effect. They remain valid in the interim, with the clear expectation that institutions will align them with the new framework rather than treat the repeal as grandfathering the old structure indefinitely.",
+        "Any new co-lending arrangement entered into after the Directions take effect must comply with the new framework in full from the outset, including the retention, transfer, escrow and disclosure requirements described above. An institution cannot structure a fresh arrangement on 2020-circular terms simply because an earlier arrangement with the same partner was grandfathered.",
+        "The Directions also permit a regulated entity to bring forward compliance ahead of the 1 January 2026 effective date, where its own internal policy decides to do so, which some institutions appear to be doing to avoid running two parallel compliance regimes, one for legacy arrangements and one for new business, for longer than necessary."
+      ]
+    },
+    {
+      "heading": "What a compliance review should actually check",
+      "paragraphs": [
+        "For an existing co-lending arrangement, the first thing to verify is whether each entity's retained share of individual loans actually sits at or above the ten percent floor on a loan-by-loan basis, rather than on an aggregate book basis that might mask individual loans where retention has slipped below the threshold. Portfolio-level averages that happen to clear ten percent are not the same compliance position as every loan individually clearing it.",
+        "The second check is the origination-to-transfer timeline actually being achieved in practice, not just provided for on paper in the co-lending agreement. Where operational delays routinely push transfers past fifteen days, that is a structural problem the back-office process needs to fix, not something that can be cured by amending the agreement's wording alone.",
+        "A third check is whether disbursement and collection flows genuinely run through escrow, and whether the credit policy amendments required by the Directions, covering exposure limits, borrower segments, partner due diligence and grievance redressal, have actually been placed before the board and approved, rather than drafted and left pending sign-off while the arrangement continues to operate on the old basis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does co-lending under the new RBI Directions still have to be priority sector lending?",
+      "a": "No. The Co-Lending Arrangements Directions, 2025 extend the framework beyond priority sector lending, unlike the 2020 Co-Lending Model, which was confined to that category. Multiple banking, consortium and syndicated lending arrangements remain outside the Directions and continue to be governed separately."
+    },
+    {
+      "q": "What is the minimum share of a co-lent loan each lender must keep on its own books?",
+      "a": "At least ten percent of each individual loan, on a loan-by-loan basis rather than an aggregate portfolio basis. This retention requirement is meant to ensure both the originating and partner entities carry genuine credit risk on the loans they co-lend."
+    },
+    {
+      "q": "Do co-lending arrangements set up before the 2025 Directions need to be redone immediately?",
+      "a": "They remain valid for now, since the Directions do not void existing arrangements on taking effect, but institutions are expected to align them with the new framework. Any new arrangement entered into after the Directions take effect must comply in full from the outset."
+    },
+    {
+      "q": "When do the RBI Co-Lending Arrangements Directions, 2025 actually come into force?",
+      "a": "From 1 January 2026, though a regulated entity may choose to comply earlier under its own internal policy if it wants to. The Directions were issued vide RBI/DOR/2025-26/139, replacing the 2020 Co-Lending Model circular in its entirety rather than amending it."
+    }
+  ],
+  "references": [
+    "Reserve Bank of India, Co-Lending Arrangements (CLA) Directions, 2025, RBI/DOR/2025-26/139 dated 6 August 2025, effective 1 January 2026",
+    "Reserve Bank of India, Co-Lending Model (CLM) circular, 2020 (repealed by the 2025 Directions)",
+    "RBI, Co-Lending Arrangements (CLA) Directions, 2025, provisions on minimum 10% individual-loan retention, 15-calendar-day transfer and escrow-based disbursement and collection",
+    "RBI, Co-Lending Arrangements (CLA) Directions, 2025, provisions on board-approved credit policy requirements and website disclosure of active co-lending partners"
+  ],
+  "sources": [
+    "https://www.mondaq.com/india/fund-finance/1679822/rbis-2025-co-lending-regime-balancing-prudence-growth-and-protection",
+    "https://vinodkothari.com/2025/08/rbi-issues-co-lending-directions-2025/",
+    "https://corporate.cyrilamarchandblogs.com/2025/09/analysis-of-rbi-co-lending-arrangements-directions-2025/",
+    "https://taxguru.in/?p=979161",
+    "https://www.corporateprofessionals.com/articles/rbis-2025-co-lending-regime-balancing-prudence-growth-and-protection/"
+  ],
+  "verification_notes": [
+    "Co-Lending Arrangements Directions, 2025 replacing the 2020 Co-Lending Model and extending co-lending beyond priority sector lending: confirmed independently by the Mondaq commentary and the Vinod Kothari Consultants post, both describing the same scope expansion.",
+    "Covered entities (commercial banks excluding SFBs/LABs/RRBs, AIFIs, and NBFCs including HFCs) and the exclusion of multiple banking, consortium and syndicated lending: confirmed by the Vinod Kothari Consultants post and corroborated in general terms by the Cyril Amarchand Mangaldas analysis.",
+    "Circular reference RBI/DOR/2025-26/139 and issue date of 6 August 2025: the taxguru.in reproduction gives this reference and date; one other source (SCC Online, per search summary) gave a differently formatted date read as 6 July, which is treated as a likely formatting variant of the same August date since the August date is corroborated by multiple other sources describing the same Directions; the effective date of 1 January 2026 is confirmed by both the Mondaq and Vinod Kothari sources.",
+    "Minimum 10% retention per individual loan, 15-calendar-day transfer requirement, and escrow-based disbursement/collection: confirmed by the Vinod Kothari Consultants post and corroborated by the Cyril Amarchand Mangaldas analysis, both describing the same three mechanics.",
+    "Credit policy requirements (exposure limits, borrower segments, partner due diligence, grievance redressal) and the website disclosure of active co-lending partners: confirmed by the Cyril Amarchand Mangaldas analysis and corroborated by the Mondaq commentary's description of enhanced transparency obligations.",
+    "Existing arrangements remaining valid pending alignment, and the option for early voluntary compliance: confirmed by the Vinod Kothari Consultants post and corroborated by the general transition language described in the Mondaq commentary."
+  ]
+}
