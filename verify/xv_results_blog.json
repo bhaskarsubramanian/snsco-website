@@ -2055,5 +2055,56 @@
       "https://www.intepat.com/ip-services/copyrights/software-registration"
     ],
     "note": "Section 2(o) literary-work treatment and automatic copyright confirmed. Copyright Rules 2013 amendment (G.S.R. 225(E), 30 March 2021: first/last 10 pages or full code under 20 pages, no redaction permitted) confirmed. Section 3(k) per se exclusion and its narrowing confirmed. The unnamed Delhi HC technical-effect ruling is identifiable as Ferid Allani v. Union of India (W.P.(C) 7/2014, Dec 2019); the draft already appropriately declines to name it given incomplete sourcing, which is accurate caution rather than an error."
+  },
+  {
+    "file": "_drafts/batch9/blog/14-rbi-co-lending-directions-2025-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.taxmann.com/post/blog/rbi-permits-co-lending-between-regulated-entities-from-jan-2026-with-10-loan-retention/",
+      "https://vinodkothari.com/2025/08/rbi-issues-co-lending-directions-2025/",
+      "https://www.scconline.com/blog/post/2025/08/08/rbi-co-lending-directions-2025-joint-lending-framework-banks-nbfcs/",
+      "https://www.careratings.com/uploads/newsfiles/1755580627_Reserve%20Bank%20of%20India%20%27Co-Lending%20Arrangements%20Directions%27%202025.pdf"
+    ],
+    "note": "RBI/DOR/2025-26/139 confirmed, issued 6 August 2025, effective 1 January 2026 (the draft correctly resolved its own flagged date discrepancy: SCC Onlines 6-7-2025 is DD-MM-YYYY format for the same 6 August date, not 6 July). 10% per-loan retention, 15-calendar-day transfer requirement, escrow-based disbursement/collection, scope beyond priority sector, covered-entity list, and transition/early-compliance provisions all independently confirmed across Taxmann, Vinod Kothari, SCC Online and CareRatings."
+  },
+  {
+    "file": "_drafts/batch9/blog/15-stubble-burning-penalties-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/stubble-burning-increased-substantially-in-some-punjab-haryana-districts-yet-only-mild-penalties-imposed-supreme-court-271530",
+      "https://www.livelaw.in/amp/top-stories/punjab-and-haryana-owe-an-explanation-supreme-court-reiterates-concern-over-reluctance-to-prosecute-officials-for-violating-caqm-orders-on-stubble-burning-275196",
+      "https://www.downtoearth.org.in/amp/story/air/centre-doubles-fine-for-stubble-burning-farmers-to-pay-up-to-rs-30000",
+      "https://www.verdictum.in/court-updates/supreme-court/in-re-filling-of-vacant-posts-in-the-state-pollution-control-boards-and-pollution-control-committees-1591622"
+    ],
+    "note": "Fine amounts (Rs 5,000/10,000/30,000, notified 6 Nov 2024) and scope confirmed correctly. However the draft misdates its central enforcement-criticism narrative: the LiveLaw articles it relies on for \"mild penalties\" and \"show-cause notices rather than prosecuting officials\" (271530 and 275196) are from October and November 2024 (the Oka-Amanullah-Masih bench in the MC Mehta matter; Justice Oka retired in 2025), not 2025 as stated in four places. The genuinely 2025 event is a separate 17 September 2025 hearing (CJI Gavai bench, In Re: Filling of Vacant Posts in State Pollution Control Boards) where the Court raised reintroducing penal provisions including arrest, which the draft correctly treats as a live question rather than settled law.",
+    "fixes": [
+      {
+        "find": "The short answer is that the per-incident fine was doubled in late 2024, landholding size decides how much a given farmer owes, and the Supreme Court has spent much of 2025 saying publicly that the states enforcing this framework are not using even the tools they already have.",
+        "replace": "The short answer is that the per-incident fine was doubled in late 2024, landholding size decides how much a given farmer owes, and the Supreme Court spent late 2024 and parts of 2025 saying publicly that the states enforcing this framework are not using even the tools they already have.",
+        "reason": "The specific enforcement-criticism hearings the draft cites are from October-November 2024, not predominantly 2025."
+      },
+      {
+        "find": "The Supreme Court observed in 2025 that this amended Section 15 structure cannot function as intended",
+        "replace": "The Supreme Court observed in late 2024 that this amended Section 15 structure cannot function as intended",
+        "reason": "The \"toothless\" Section 15 observation (no adjudicating officer in place) was made at the 23 October 2024 hearing, not in 2025."
+      },
+      {
+        "find": "Through 2025, a bench of the Supreme Court hearing the long-running Delhi air pollution matter repeatedly criticised Punjab and Haryana for token enforcement",
+        "replace": "Through October and November 2024, a bench of the Supreme Court hearing the long-running Delhi air pollution (MC Mehta) matter repeatedly criticised Punjab and Haryana for token enforcement",
+        "reason": "The specific LiveLaw reports cited for this criticism (271530, 275196) are dated 3 October and 11 November 2024."
+      },
+      {
+        "find": "Yes. Through 2025 the Court repeatedly criticised Punjab and Haryana for only mild enforcement despite rising fire counts in some districts, and faulted the states and the CAQM for issuing show-cause notices to non-compliant officials rather than prosecuting them under the Act's own penal provisions.",
+        "replace": "Yes. Through October and November 2024 the Court repeatedly criticised Punjab and Haryana for only mild enforcement despite rising fire counts in some districts, and faulted the states and the CAQM for issuing show-cause notices to non-compliant officials rather than prosecuting them under the Act's own penal provisions. A separate September 2025 hearing went further and raised reintroducing penal provisions including arrest.",
+        "reason": "Correcting the year for the mild-enforcement criticism and distinguishing it from the genuinely 2025 hearing on penal provisions."
+      },
+      {
+        "find": "Supreme Court's 2025 criticism of Punjab and Haryana for mild enforcement despite rising fire counts, and of CAQM issuing show-cause notices rather than prosecuting non-compliant officials under Section 14 of the CAQM Act: confirmed by two separate LiveLaw reports from the same ongoing proceeding, describing consistent criticism across different hearings.",
+        "replace": "Supreme Court's October-November 2024 criticism (Oka-Amanullah-Masih bench, MC Mehta matter) of Punjab and Haryana for mild enforcement despite rising fire counts, and of CAQM issuing show-cause notices rather than prosecuting non-compliant officials under Section 14 of the CAQM Act: confirmed by two separate LiveLaw reports (IDs 271530, dated 3 October 2024, and 275196, dated 11 November 2024) from the same ongoing proceeding, describing consistent criticism across different hearings.",
+        "reason": "Correcting the verification note to the confirmed dates."
+      }
+    ]
   }
 ]
