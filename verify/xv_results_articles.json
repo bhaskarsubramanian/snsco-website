@@ -381,5 +381,25 @@
         "reason": "Linked article is not yet published (still a draft); the path does not exist on the live site/search index, so the related_pages link is broken."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/22-noida-greater-noida-real-estate-disputes-article.json",
+    "verdict": "FIX",
+    "claims_checked": 13,
+    "evidence": [
+      "https://www.legalauthority.in/judgement/skyline-contractors-pvt-ltd-vs-state-of-u-p-13497",
+      "https://www.livelaw.in/amp/top-stories/supreme-court-rera-pre-deposit-promoters-appeal-435-newtech-promoters-and-developers-pvt-ltd-vs-state-of-up-185428",
+      "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/savita-sharma-vs-state-of-up-and-2-others-2025ahc111809-db-cant-allow-deliberate-repeated-defaults-by-allottee-1586709",
+      "https://housing.com/news/no-builder-to-take-over-10-unit-cost-before-sale-agreement-up-rera",
+      "https://www.livelawbiz.com/rera/high-court/rera-no-time-limit-on-allottees-claim-for-interest-on-delayed-possession-under-s-181-allahabad-high-court-552651"
+    ],
+    "note": "Skyline Contractors (9 July 2008, Civil Appeal No. 4272/2008, NOIDA cancellation of Sector 62 Plot A-28 for non-payment upheld), Savita Sharma v. State of U.P. (2025:AHC:111809-DB, UPSIDA lease not restored after repeated default), Newtech Promoters (Section 43(5) pre-deposit upheld as constitutional, 11 Nov 2021), Antriksh Developers v. Shyam Sunder Agarwal/Agrawal (accepting delayed possession does not bar a later Section 18 interest claim), the Pawan Hans/Sector 1 Noida writ, and the December 2023 UP cabinet approval of the Amitabh Kant committee's stalled-projects package (zero period, co-developer induction) all check out against independent sources. All ten related_pages paths exist in origin/main:assets/search-index.json. One factual error: the draft states UP RERA's delay-interest rate under Section 18 mirrors 'the State Bank of India's highest marginal cost of funds based lending rate plus two per cent.' Independent sources (a housing.com report on UP RERA's notified rate, a law-firm summary of a UP Real Estate Appellate Tribunal ruling, and the Antriksh Developers case itself, where the tribunal awarded interest at MCLR+1%) show Uttar Pradesh's notified rate is SBI's highest MCLR plus one per cent, not plus two per cent; the +2% figure is the rate several other states (Maharashtra, Haryana, Bihar) have adopted following the central model rules, not Uttar Pradesh's own notified rate.",
+    "fixes": [
+      {
+        "find": "the interest rate UP RERA applies, in line with the rule most states have adopted, mirrors the State Bank of India's highest marginal cost of funds based lending rate plus two per cent, applied both ways",
+        "replace": "the interest rate UP RERA applies, under its own notified rules, is the State Bank of India's highest marginal cost of funds based lending rate plus one per cent (several other states have instead adopted a plus-two-per-cent formula), applied both ways",
+        "reason": "Uttar Pradesh's notified RERA delay-interest rate is SBI's highest MCLR plus 1%, not plus 2%; the Antriksh Developers tribunal order itself awarded interest at MCLR+1%, and the +2% figure is the rate used by several other states, not UP."
+      }
+    ]
   }
 ]
