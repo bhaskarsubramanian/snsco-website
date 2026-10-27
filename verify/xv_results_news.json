@@ -2390,5 +2390,27 @@
       "https://ibclaw.in/modest-infra-ltd-vs-arvind-saini-rajasthan-reat/"
     ],
     "note": "Could not find any outlet beyond ibclaw.in (case page, weekly RERA bulletin, and daily update, all from the same publisher) reporting this Rajasthan REAT order, matching the draft's own disclosed single-source limitation. No contradicting information found and the specific facts (694-day delay, Section 44(5) proviso reasoning) are consistent with ibclaw.in's established case-reporting format. PASS given no contradiction found, but this remains a single-source item."
+  },
+  {
+    "file": "_drafts/batch9/updates/05-supreme-court-atibir-sbi-arc-settlement-125-crore.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://taxguru.in/corporate-law/supreme-court-orders-rs-125-crore-additional-payment-arc-sbi-debt-assignment-dispute.html",
+      "https://courtbook.in/posts/supreme-court-orders-atibir-industries-to-pay-rs-125-crore-more-to-asset-reconstruction-firm-closes-sbi-loan-dispute",
+      "https://lawtrend.in/supreme-court-settles-sbi-debt-assignment-dispute-keeps-npa-classification-and-assignment-validity-issues-open/"
+    ],
+    "note": "Confirmed by multiple independent outlets (TaxGuru, CourtBook, Law Trend, AdvocateKhoj) once an extended search was run: 2026 INSC 1156, 26 October 2026, Atibir ordered to pay Rs 125 crore more within 12 weeks as full and final settlement on top of Rs 250 crore already paid, NCLT/DRT proceedings disposed, securities released on payment, NPA classification and assignment validity left undecided. A basic search initially surfaced only an unrelated pending Atibir-v-PNB SLP and a Calcutta HC NPA ruling, which could have been mistaken for conflicts, but the extended search confirms this is a distinct, correctly reported Supreme Court matter."
+  },
+  {
+    "file": "_drafts/batch9/updates/06-mp-hc-arbitral-award-execution-time-barred.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/madhya-pradesh-high-court/ashok-kumar-v-bhupendra-kumar-lunkad-2026mphc-ind29713-execution-runs-from-date-award-becomes-enforceable-1624597",
+      "https://www.livelawbiz.com/arbitration/arbitral-award-does-not-merge-with-civil-court-order-madhya-pradesh-high-court-holds-execution-plea-time-barred-555826",
+      "https://www.freepressjournal.in/indore/mp-high-court-rejects-24-year-old-arbitral-award-execution-cites-limitation-bar"
+    ],
+    "note": "Strongly corroborated by Verdictum, LiveLawBiz and Free Press Journal: Justice Vinay Saraf, Indore Bench, Civil Revision No. 1152 of 2026, 23 October 2026, holding an arbitral award does not merge with a Section 34/37 order, limitation under Article 136 ran from 7 January 2002 (Section 34 dismissal) and expired 6 January 2014, so the 2024 execution was time-barred. Background timeline (1989 suit, 2000 award, 2002 dismissal, 2019 jurisdictional order) consistent across all sources."
   }
 ]
