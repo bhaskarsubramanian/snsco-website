@@ -1853,5 +1853,24 @@
       "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/messer-griesheim-gmbh-v-goyal-mg-gases-private-limited20072/"
     ],
     "note": "Section 44A/Section 13 two-track framework confirmed. UAE declared a reciprocating territory by Ministry of Law and Justice notification dated 17 Jan 2020, naming specified UAE superior courts, confirmed. The United States is not a notified reciprocating territory, confirmed. 2026 INSC 401 identified as Messer Griesheim GmbH (now Air Liquide Deutschland GmbH) v. Goyal MG Gases Private Limited, decided 21 April 2026 by Narasimha and Aradhe JJ: Supreme Court refused enforcement of an English summary judgment because denying the defendant a chance to contest bona fide triable issues meant it was not rendered on merits under Section 13(b), matching the drafts description exactly. No factual errors found."
+  },
+  {
+    "file": "_drafts/batch8/blog/09-fssai-quick-commerce-dark-store-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.freepressjournal.in/business/fssai-issues-9-notices-to-swiggy-instamart-over-alleged-expired-unsafe-food-deliveries",
+      "https://www.outlookbusiness.com/start-up/e-commerce/zeptos-food-license-suspended-for-dharavi-facility-over-food-safety-violations",
+      "https://www.outlookbusiness.com/amp/story/corporate/blinkit-warehouse-raided-by-telangana-food-safety-commission-premise-found-unhygienic",
+      "https://www.omnicuris.com/medshots/daily_updates/maharashtra-fda-suspends-quick-commerce-licences-food-safety_15-Aug-26_08-08"
+    ],
+    "note": "Central Licence requirement for e-commerce FBOs (15 April 2019 order) confirmed. Maharashtra FDA Zepto Dharavi suspension and revocation (June 2025) and Blinkit Pune dark store suspension confirmed. FSSAIs nine notices to Swiggy Instamart (11 July 2026) confirmed, but independent search shows those notices concerned expired/contaminated food and invalid licence/entity details, not protective gear or cosmetics co-storage. The protective-gear finding traces to separate Maharashtra FDA inspections across Blinkit, Zepto and Instamart sites (2025-2026), and the cosmetics co-storage finding traces to a distinct June 2024 Telangana raid on a Blinkit warehouse. The draft misattributes both findings to the Swiggy Instamart July 2026 notices specifically.",
+    "fixes": [
+      {
+        "find": "and has flagged issues including food handlers working without protective gear and improper co-storage of food alongside non-food items such as cosmetic products in the same dark store space.",
+        "replace": "The Swiggy Instamart notices themselves concerned expired and contaminated food reaching customers and invalid or mismatched licence details, but the broader 2025-2026 enforcement wave has separately turned up food handlers working without protective gear at Blinkit, Zepto and Instamart sites inspected by the Maharashtra FDA, and, in an earlier 2024 Telangana raid on a Blinkit warehouse, food stored alongside non-food items such as cosmetic products in the same space.",
+        "reason": "Protective-gear and cosmetics co-storage findings are misattributed to the Swiggy Instamart July 2026 FSSAI notices; independent sources show those notices concerned expired/contaminated food and licence issues, while the protective-gear finding is from separate Maharashtra FDA inspections and the cosmetics co-storage finding is from a distinct 2024 Telangana raid on a Blinkit warehouse."
+      }
+    ]
   }
 ]
