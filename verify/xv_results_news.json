@@ -919,8 +919,8 @@
   "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
   "fixes": [
    {
-    "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
-    "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+    "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+    "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
     "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
    },
    {
@@ -2535,5 +2535,85 @@
    "https://www.livelawbiz.com/rera/limitation-act-applies-to-rera-compensation-claims-delay-in-handing-over-possession-does-not-create-fresh-cause-of-action-tamil-nadu-reat-555609"
   ],
   "note": "LiveLawBiz confirms the 14 Oct 2026 dismissal, bench (Justice M. Duraiswamy and K. Babu), parties (Five Mount Villa Owners Welfare Association v. Bahri Estates Pvt Ltd and Bahri Realty Management Services), the Article 27 three-year limitation holding running from agreed completion date not actual handover, and that this upheld the Adjudicating Officers 23 Dec 2025 dismissal. Section 18(2) text (title-defect compensation not barred by limitation) independently confirmed as accurately quoted. The specific contrastive reasoning tying Section 18(2) to this case was not independently found beyond the drafts own ibclaw.in source but is a reasonable, internally consistent reading of the Act. Not a duplicate of live content (no matching search-index.json entries)."
+ },
+ {
+  "file": "_drafts/batch9/updates/10-rajasthan-hc-meena-divorce-custom-not-required.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-grants-divorce-mutual-consent-meena-couple-following-hindu-rites-554589",
+   "https://lawchakra.in/high-court/rajasthan-high-court/hma-bar-scheduled-tribes/"
+  ],
+  "note": "Independently confirmed: Laxmi Meena v. Bahadur Singh Meena, Civil Misc. Appeal No. 411/2026, Division Bench of Justices Sudesh Bansal and Ravi Chirania, decided 8 October 2026, setting aside the Kota Family Court refusal and holding Section 2(2) HMA exclusion does not bar couples following Hindu rites. Section 13-B relief granted with cooling-off waiver. No duplicate on live site (unrelated Meenakshi Batra case is the only Meena-adjacent hit in search-index.json)."
+ },
+ {
+  "file": "_drafts/batch9/updates/11-ap-hc-bsnl-disciplinary-time-barred.json",
+  "verdict": "FIX",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-quashes-disciplinary-proceedings-retired-bsnl-employee-554174",
+   "https://www.livelaw.in/pdf_upload/2026/10/10/wp-no2869-258952023-705610.pdf"
+  ],
+  "note": "Case, parties, WP numbers, Rule 61(4)(2)(b) four-year bar, April 2018 knowledge vs September 2023 charge memo, and relief all confirmed. But the decision_date field (2026-10-12) is LiveLaws report/round-up date, not the actual order date: the order-PDF text itself shows the common order in W.P. Nos. 2869 & 25895/2023 before Justice Balaji Medamalli was passed on 30 July 2026. Drafts own verification_notes already flags this as an assumption; corrected per the task rule to use decision date, not publication date.",
+  "fixes": [
+   {
+    "find": "\"decision_date\": \"2026-10-12\"",
+    "replace": "\"decision_date\": \"2026-07-30\"",
+    "reason": "The order in W.P. Nos. 2869 & 25895 of 2023 was passed on 30 July 2026 (per the LiveLaw-hosted order PDF); 12 October 2026 was LiveLaws reporting date in its AP weekly round-up, not the pronouncement date."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch9/updates/12-itat-chennai-ig3-infra-excel-sheet-addition.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.livelawbiz.com/income-tax/cash-receipt-additions-restricted-after-tribunal-flags-unverified-excel-entries-555305",
+   "https://taxguru.in/income-tax/party-excel-entries-without-personal-nexus-cannot-sustain-additions-itat-chennai.html"
+  ],
+  "note": "Confirmed: ITAT Chennai C Bench dismissed Revenue appeals (IG3 Infra and related individual assessee) relating to a seized Excel file titled Others found on an accounts executives computer at the Chennai office (search 3 Nov 2020), aggregate alleged cash receipts of about Rs 13.51 crore across FY2017-18 to FY2020-21, CIT(A)s 25% restriction upheld by the Tribunal on 16 October 2026 for want of entity-wise verification. No duplicate on live site."
+ },
+ {
+  "file": "_drafts/batch9/updates/13-delhi-hc-anantara-trademark-summary-judgment.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelawbiz.com/trademark/delhi-high-court-permanently-injuncts-jabalpur-real-estate-developers-from-using-anantara-trademark-555624",
+   "https://advocategandhi.com/delhi-high-court-permanently-restrains-real-estate-developers-for-allegedly-using-a-globally-recognised-hotel-brand-to-promote-residential-projects/"
+  ],
+  "note": "Case (MHG IP Holding Singapore v. Evergreen Dealcom, CS(COMM) 267/2026), judge (Justice Purushaindra Kumar Kaurav), 15 October 2026 summary judgment, non-appearance by defendants, the Jabalpur ANANTARA DOWNTOWN / ANANTARA RESIDENCE project names, and the permanent injunction (including a domain-name/website/social-media restraint) are all confirmed across multiple reports and the order itself. However, repeated searches (LiveLawBiz, Advocate Gandhi, SupremeToday, and the order excerpt) show no mention of the court ordering infringing material destroyed or any trademark registration cancelled; these two specific claims in the card are unsupported and go beyond what any source reports. No duplicate on live site.",
+  "fixes": [
+   {
+    "find": "Justice Kaurav granted summary judgment, restrained the defendants for good, and ordered the material destroyed and their registration cancelled.",
+    "replace": "Justice Kaurav granted summary judgment and permanently restrained the defendants, including from using any domain name, website or social media handle incorporating the mark.",
+    "reason": "No source confirms an order to destroy infringing material or cancel any registration; the confirmed relief is the permanent injunction extending to domain names, websites and social media."
+   },
+   {
+    "find": "summary judgment, permanent injunction and cancellation of its own registration in one order.",
+    "replace": "summary judgment and a permanent injunction in one order.",
+    "reason": "Same unsupported cancellation claim repeated in the card tip."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/batch9/updates/14-gujarat-consumer-commission-sports-club-members-consumers.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.barandbench.com/news/litigation/paying-members-of-sports-clubs-are-consumers-under-consumer-protection-act-gujarat-consumer-commission",
+   "https://lawchakra.in/other-courts/sports-club-consumers/"
+  ],
+  "note": "Confirmed: Manubhai C. Shah v. Surat District Cricket Association, Appeal No. 353/2018, Gujarat SCDRC set aside the District Forum dismissal on maintainability, held a paying lifetime member availing sports/recreational facilities is a consumer, and remanded for a merits decision. Pronouncement date not independently verifiable beyond the 22 October 2026 report date, which the drafts own verification_notes already discloses as an assumption. No duplicate on live site."
+ },
+ {
+  "file": "_drafts/batch9/updates/15-supreme-court-periyar-university-removal-reinstated.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/amp/supreme-court/r-saravanan-v-periyar-university-represented-by-its-registrar-and-others-2026-insc-1136-1624234",
+   "https://courtbook.in/posts/letters-patent-bench-cannot-overturn-writ-court-ruling-merely-because-it-takes-a-different-view-supreme-court",
+   "https://www.livelaw.in/top-stories/supreme-court-high-court-division-bench-exercise-letters-patent-jurisdiction-555263"
+  ],
+  "note": "Confirmed across LiveLaw, Verdictum, Courtbook, LawChakra and LawTrend: R. Saravanan v. Periyar University, 2026 INSC 1136, decided 16 October 2026 by Justices Prashant Kumar Mishra and Shree Chandrashekhar, setting aside a Madras HC Division Bench (Letters Patent) reversal and restoring the Single Judges reinstatement of the Deputy Registrar, holding a LPA bench needs a glaring, demonstrable error to interfere with an otherwise just writ order. No duplicate on live site."
  }
 ]
