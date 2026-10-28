@@ -1342,5 +1342,55 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-27"
+  },
+  {
+    "id": "patna-hc-prem-highway-services-gst-non-gst-petroleum-motor-spirit",
+    "practice_area": "Tax Litigation",
+    "case_name": "Prem Highway Services v. Union of India & Ors.",
+    "citation": "Civil Writ Jurisdiction Case No. 16335 of 2025, Patna High Court, order dated 12 August 2026",
+    "court": "Patna High Court",
+    "date": "2026-08-12",
+    "holding_summary": "A petroleum dealer challenged a Rs. 1,25,71,936 GST liability raised under an assessment order dated 29 April 2024, arguing its sales of motor spirit and high-speed diesel were non-GST goods still taxable only under the State VAT regime, since no notification under Section 9(2) of the CGST Act has ever brought these items into GST. A Division Bench of Justices Anil Kumar Sinha and Vikash Kumar held that imposing GST on items outside the GST net goes to the root of the adjudicating authority's jurisdiction, quashed the assessment, and remanded the matter, directing the petitioner to appear with its reply and documents within 20 days and the authority to pass a fresh, reasoned order after a personal hearing within two months.",
+    "why_it_matters": "A reusable jurisdictional challenge for petroleum dealers and allied businesses still facing GST demands on motor spirit, diesel or other non-GST petroleum products: the absence of any Section 9(2) notification bringing these goods into GST is, on this ruling, a threshold defect that can get an assessment quashed outright rather than merely reduced.",
+    "sources": [
+      "https://www.taxscan.in/top-stories/gst-cannot-be-imposed-on-non-gst-petroleum-products-patna-hc-sets-aside-125-cr-demand-1451337",
+      "https://blog.saginfotech.com/patna-hc-cancels-1-25-cr-gst-demand-tax-non-gst-petroleum-products-authority-jurisdiction",
+      "https://taxguru.in/?p=1079709"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-28"
+  },
+  {
+    "id": "telangana-hc-discoms-lanco-kondapalli-praapti-invoices-stay",
+    "practice_area": "Power/Energy/Mining",
+    "case_name": "TGSPDCL & TGNPDCL v. Lanco Kondapalli Power Limited",
+    "citation": "Telangana High Court, interim order dated 14 October 2026",
+    "court": "Telangana High Court",
+    "date": "2026-10-14",
+    "holding_summary": "Telangana's two distribution companies sought protection after Lanco Kondapalli Power Limited uploaded four invoices totalling Rs. 24,15,84,988 to the Centre's PRAAPTI late-payment portal, which the discoms said related to historical financing and procurement-cost claims rather than current power supply, and so fell outside the 2022 Late Payment Surcharge Rules' coercive-recovery mechanism. Justice E.V. Venugopal restrained any coercive action on the four disputed invoices, with the protection running until 28 October 2026, the date on which the discoms' own APTEL appeal against a June 2026 CERC order (which had ruled in Lanco's favour on the underlying financing/procurement-cost claims) was listed for hearing.",
+    "why_it_matters": "Confirms that the PRAAPTI portal's automatic late-payment-surcharge and coercive-recovery machinery is not available for historical or disputed claims still pending challenge before APTEL or a regulator — a discom facing a PRAAPTI upload over a claim under appeal has a basis to seek interim High Court protection rather than paying first and litigating later.",
+    "sources": [
+      "https://www.siasat.com/telangana-hc-grants-interim-relief-to-discoms-in-rs-24-1-cr-dispute-3558361/",
+      "https://indtoday.com/telangana-discoms-get-hc-relief-in-rs-24-1-crore-dispute/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-28"
+  },
+  {
+    "id": "delhi-consumer-commission-flipkart-lifebuoy-soap-realme-phone",
+    "practice_area": "Consumer Protection",
+    "case_name": "Mausam Meena v. Flipkart Internet Pvt. Ltd. & Anr.",
+    "citation": "District Consumer Disputes Redressal Commission, South-II, Delhi, order dated 31 July 2026",
+    "court": "District Consumer Disputes Redressal Commission, South-II, Delhi",
+    "date": "2026-07-31",
+    "holding_summary": "The complainant ordered a Realme Narzo 50A smartphone for Rs. 10,574 through Flipkart, sold by Luminary Lifestyle, but the sealed package delivered on 25 October 2021 was found on video to contain bars of Lifebuoy soap instead of the phone. Flipkart argued it was merely an intermediary marketplace and that liability lay with the seller, pointing also to the complainant's return history and an alleged failure to furnish ID and product images on request. The Commission rejected the intermediary defence, holding Flipkart liable for deficiency in service and unfair trade practice, and directed a refund of Rs. 10,574 with 7% annual interest plus Rs. 5,000 for mental harassment and Rs. 5,000 in litigation costs, with 8% interest to apply from the date of the order if not paid within 60 days.",
+    "why_it_matters": "Another in a consistent line of consumer-forum rulings holding e-commerce marketplaces directly liable for wrong-item deliveries despite an intermediary defence — platforms facilitating paid transactions and collecting commission cannot deflect liability onto the seller alone once a wrong, lower-value item is shown to have been delivered.",
+    "sources": [
+      "https://www.livelaw.in/consumer-cases/customer-receives-lifebuoy-soap-instead-of-realme-mobile-phone-delhi-consumer-commission-holds-flipkart-liable-555850",
+      "https://lawchakra.in/other-courts/flipkart-liable-soap/",
+      "https://the420.in/flipkart-realme-phone-lifebuoy-soap-consumer-case/"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-28"
   }
 ]
