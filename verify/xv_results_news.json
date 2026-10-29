@@ -919,8 +919,8 @@
     "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
     "fixes": [
       {
-        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
-        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
         "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
       },
       {
@@ -2842,5 +2842,77 @@
       "https://the420.in/rbi-fema-compounding-jusda-india-supply-chain/"
     ],
     "note": "Fresh search, including the Enforcement Directorate's own press release, confirms the Rs 18.5 crore share issuance to land-border country entities without government approval, the ED's Section 6 complaint and no-objection, the RBI's 8 April 2026 compounding order under Section 15 FEMA, and the Rs 12,52,984 payment. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/news/06-supreme-court-bajoria-anti-suit-injunction-uk-divorce.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://lawchakra.in/supreme-court/supreme-court-anti-suit-injunction-forum-non-conveniens-uk-divorce-matrimonial/",
+      "https://www.verdictum.in/supreme-court/mpb-v-vjb-2026-insc-1034-anti-suit-injunctions-foreign-courts-matrimonial-proceedings-1622549",
+      "https://www.livelaw.in/supreme-court/anti-suit-injunction-cannot-be-granted-on-speculation-that-foreign-court-may-pass-decree-not-enforceable-in-india-supreme-court-551560",
+      "https://courtbook.in/posts/supreme-court-upholds-calcutta-hc-order-vacating-anti-suit-injunction-against-uk-divorce-proceedings-in-matrimonial-dispute"
+    ],
+    "note": "Case name, citation 2026 INSC 1034, bench (Bhatti and Anjaria JJ), 22 Sept 2026 decision date, the 1 Nov 2025 ex parte injunction, the Calcutta HC order vacating it, dismissal of the husband appeal, and the oppressive/vexatious-forum test are all independently confirmed across LawChakra, Verdictum, LiveLaw and Courtbook. No duplicate found on the live site for this party pair."
+  },
+  {
+    "file": "_drafts/batch10/news/07-bombay-hc-foreign-decree-execution-summary-inquiry-quinlan.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://drishtijudiciary.com/current-affairs/framing-of-issues-not-mandatory-in-execution-of-foreign-decrees",
+      "https://livelaw.library.keralalawacademy.in/high-court/bombay-high-court/bombay-high-court-foreign-decree-frame-issues-522951",
+      "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/elis-jane-quinlan-v-naveen-kumar-seth-section-44a-of-the-code-of-civil-procedure-1908-1607420",
+      "https://disputeresolution.cyrilamarchandblogs.com/2026/03/efficiency-versus-procedural-fairness-bombay-high-court-reaffirms-governing-principles/"
+    ],
+    "note": "Case name, writ petition number, Justice Marne, the Fujairah/UAE Section 44A facts, and the core holding (framing issues is exceptional, not default) all confirm. Critically, Drishti Judiciary and the LiveLaw mirror explicitly state the High Court dismissed the decree-holders writ petition and left the issue-framing order standing, matching the draft (an initial law.asia snippet read as if issues were set aside, but the fuller independent accounts confirm dismissal). No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/08-rbi-compounds-myntra-designs-odi-apr-delay.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://enforcementdirectorate.gov.in/media/press-release-documents/e330a2e2-b73f-468c-8971-9426fbd1e86c_Press Release-Myntra designs-462026-1.pdf",
+      "https://ianslive.in/rbi-issues-compounding-order-for-fema-violations-in-myntra-case--20260604180903",
+      "https://apparelresources.com/business-news/retail/rbi-closes-fema-proceedings-myntra-imposes-rs-2-88-lakh-feea-foreign-exchange-management-act-fema-investigation-flipkart-backed-online-fashion-lifestyle-platform-myntra",
+      "https://inc42.com/buzz/myntra-settles-fema-violations-case-with-rbi/"
+    ],
+    "note": "The two contraventions (Rs 42.85 crore delayed APR filings and Rs 3.03 crore ODI commitment made while APRs were pending), the 20 April 2026 Section 15 compounding order, and the Rs 2.88 lakh payment are confirmed via the EDs own press release plus IANS, Apparel Resources and Inc42. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/09-rbi-compounds-apollo-hospitals-fdi-fccb-violations.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.businesstoday.in/amp/latest/corporate/story/settled-at-rs17-76-crore-rbi-closes-fema-proceedings-against-apollo-hospitals-537630-2026-06-17",
+      "https://thesouthfirst.com/news/fema-case-against-apollo-hospitals-closed-after-rbis-compounding-order/",
+      "https://thefederal.com/category/business/rbi-compounds-apollo-hospitals-fema-violations-ed-closes-case-after-over-rs17-cr-payment-247039",
+      "https://www.siasat.com/fema-probe-against-apollo-hospitals-5-directors-closed-after-compounding-order-ed-3491115/amp/"
+    ],
+    "note": "The four contraventions (over Rs 2,424 crore), the Rs 17,76,80,121 company payment, the Rs 18 lakh per-director payment by the five named individuals including Preetha and Suneetha Reddy, and the mid-June 2026 order are confirmed across Business Today, The South First, The Federal and Siasat. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/10-delhi-itat-nri-dubai-insurance-policy-not-undisclosed-asset.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://a2ztaxcorp.net/nris-dubai-life-insurance-payout-triggered-%E2%82%B940-lakh-tax-dispute-why-itat-ruled-in-his-favour/",
+      "https://thetaxcorp.in/article/itat-delhi-foreign-life-insurance-policy-of-returning-nri-not-undisclosed-asset",
+      "https://caalley.com/news-updates/indian-news/nri-dubai-policy-why-itat-allowed-tax-exemption",
+      "https://taxconcept.net/business-news/nris-dubai-life-insurance-payout-triggers-%e2%82%b940-lakh-tax-dispute/"
+    ],
+    "note": "The outcome (addition of about Rs 40.03 lakh deleted, Section 10(10D) exemption upheld, CBDT Circular 13/2015 relied on, 31 July 2026 order, AY 2017-18) is corroborated across independent sources. However, independent reporting shows the policy was NOT issued by a Dubai insurer: it was issued by Scottish Life International/RL360, an Isle of Man insurer, bought while the taxpayer was working and resident in Dubai (2001-2007) and paid for from his Dubai salary. Calling it a Dubai policy/Dubai life insurance policy in the title and card_summary overstates/misstates the insurers location; the Dubai connection is the taxpayers residence and the source of funds, not the insurer. No duplicate on the live site.",
+    "fixes": [
+      {
+        "find": "Delhi ITAT: Returning NRI's Dubai Life Insurance Policy Not an Undisclosed Asset Under the Black Money Act",
+        "replace": "Delhi ITAT: Returning NRI's Foreign Life Insurance Policy, Funded From Dubai Salary, Not an Undisclosed Asset Under the Black Money Act",
+        "reason": "The insurer (Scottish Life International/RL360) is an Isle of Man company, not a Dubai insurer; only the funding salary and the taxpayers residence were in Dubai."
+      },
+      {
+        "find": "The taxpayer funded a Dubai policy partly from tax-exempt non-resident Dubai salary and partly, after returning to India, from taxable Indian salary; it matured in 2016 for about USD 52,896.76.",
+        "replace": "The taxpayer bought the policy from an Isle of Man insurer (Scottish Life International, later RL360) while working in Dubai, funding it partly from tax-exempt non-resident Dubai salary and partly, after returning to India, from taxable Indian salary; it matured in 2016 for about USD 52,896.76.",
+        "reason": "Corrects the implication that the insurer itself was a Dubai entity."
+      }
+    ]
   }
 ]
