@@ -443,5 +443,65 @@
     "reason": "this related page does not exist yet on the live site (origin/main:assets/search-index.json); it is still an unpublished draft (_drafts/articles/21-arbitration-noida-delhi-ncr-seat-jurisdiction-article.json)"
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/24-nri-power-of-attorney-abroad-property-litigation-article.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelaw.in/amp/top-stories/execution-of-power-of-attorney-can-not-transfer-title-to-the-grantee-reiterates-sc-read-judgment-148963",
+   "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2004/Supp.%20(6)/Part%20I/janki%20vashdeo%20bhojwani%20and%20anr._indus%20ind%20bank%20ltd.%20and%20ors_1700809203.pdf",
+   "https://lawsathi.in/judgements/sc/2010/man-kaur-dead-lrs-hartar-singh-sangha/",
+   "https://www.hcch.net/en/news-archive/details/?varevent=857"
+  ],
+  "note": "Independently re-verified via fresh searches. Suraj Lamp (2012) 1 SCC 656, Janki Vashdeo (2005) 2 SCC 217, Praful B Desai (2003) 4 SCC 601, Rajni Tandon (Civil Appeal No. 4671/2004, decided 29 July 2009), the Stamp Act s.18 three-month-from-receipt rule, and UAE's non-membership of the Apostille Convention (with Saudi Arabia's accession effective 7 Dec 2022) all check out. One citation error found: Man Kaur v Hartar Singh Sangha is cited in the draft as (2010) 10 SCC 512, but independent sources give [2010] 12 SCR 515 / 2010 INSC 672 instead; could not confirm (2010) 10 SCC 512 as a valid reporter citation for this case.",
+  "fixes": [
+   {
+    "find": "Man Kaur v Hartar Singh Sangha, (2010) 10 SCC 512, approved and applied this restriction.",
+    "replace": "Man Kaur v Hartar Singh Sangha, 2010 INSC 672, approved and applied this restriction.",
+    "reason": "Secondary sources give the neutral citation 2010 INSC 672 / [2010] 12 SCR 515 for this case, not (2010) 10 SCC 512; the SCC citation could not be confirmed."
+   },
+   {
+    "find": "\"Man Kaur v Hartar Singh Sangha, (2010) 10 SCC 512\",",
+    "replace": "\"Man Kaur v Hartar Singh Sangha, 2010 INSC 672\",",
+    "reason": "Same citation correction, in the references list."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/articles/25-nri-property-occupied-relatives-tenants-encroachers-remedies-article.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.scconline.com/blog/post/2019/08/08/plaintiff-can-take-a-plea-of-adverse-possession-under-article-65-of-limitation-act-1963-sc/",
+   "https://www.livelaw.in/amp/top-stories/sc-upholds-right-of-nris-to-claim-summary-eviction-procedure-149824",
+   "https://www.verdictum.in/court-updates/supreme-court/an-nri-landlord-does-not-need-to-be-physically-present-in-the-country-to-initiate-eviction-proceedings-under-the-east-punjab-urban-rent-restriction-act-1498730",
+   "https://bcajonline.org/journal/ravi-kant-gupta-v-state-of-uttar-pradesh-maintenance-tribunal-under-senior-citizens-act-possesses-incidental-power-to-order-eviction-of-children-to-ensure-maintenance-and-protection/"
+  ],
+  "note": "Independently re-verified via fresh searches. Ravinder Kaur Grewal (2019) 8 SCC 729, Shanta Rani v Nasib Kaur (5 Oct 2023), Sudesh Chhikara v Ramti Devi (2022 LiveLaw (SC) 1011), BNS s.329 (in force 1 July 2024, penalties as stated), and Delhi Rent Control Act s.3(c)'s unamended Rs 3,500 threshold all check out. The Ravi Kant Gupta / Samtola Devi / Kamalakant Mishra Senior Citizens Act eviction-power line is real and consistent with the draft. One citation error found: Ram Krishan Grover v Union of India is cited as (2020) 9 SCC 438 (and the draft's own verification_notes already flag this as unconfirmed 'general recollection'); independent sources give (2020) 12 SCC 506. Separately, article 25's related_pages includes /articles/nri-power-of-attorney-abroad-property-litigation-article.html, which is not yet in origin/main's search-index.json because that companion article (no. 24) is itself still an unpublished draft in this same batch; not treated as an error since both are expected to publish together, but flagging for the publishing step to confirm the link resolves once both go live.",
+  "fixes": [
+   {
+    "find": "Ram Krishan Grover v Union of India, (2020) 9 SCC 438, and has since applied it",
+    "replace": "Ram Krishan Grover v Union of India, (2020) 12 SCC 506, and has since applied it",
+    "reason": "Independent sources (LiveLaw, SCC Online) give the citation as (2020) 12 SCC 506, not (2020) 9 SCC 438."
+   },
+   {
+    "find": "\"Ram Krishan Grover v Union of India, (2020) 9 SCC 438\",",
+    "replace": "\"Ram Krishan Grover v Union of India, (2020) 12 SCC 506\",",
+    "reason": "Same citation correction, in the references list."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/articles/26-foreign-divorce-decree-recognition-india-article.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://theindianlawyer.in/foreign-divorce-decree-not-binding-without-compliance-with-indian-matrimonial-law/",
+   "https://lawchakra.in/supreme-court/supreme-court-anti-suit-injunction-forum-non-conveniens-uk-divorce-matrimonial/",
+   "https://api.sci.gov.in/jonew/judis/12713.pdf",
+   "https://familycourts.mphc.gov.in/PDF/WORKSHOP%20ON%20FAMILY%20LAWS%20AUGUST%202016/HONBLE%20JUSTICE%20DIPAK%20MISRA/Balram%20Yadav%20v.Fulamaniya%20Yada%20AIR%202016%20SC%202161.pdf"
+  ],
+  "note": "Independently re-verified via fresh searches, with particular skepticism on the two load-bearing 2026 cases since the whole article's news hook rests on them. Kishorekumar Mohan Kale v Kashmira Kale (15 Jan 2026, Civil Appeal No. 1342 of 2013, Nath & Mehta JJ) and Mihir Prakash Bajoria v Vidushi Jain Bajoria (2026 INSC 1034, 22 Sep 2026, Bhatti & Anjaria JJ) are both real, with consistent facts and holdings across 4-5+ independent outlets each. Narasimha Rao (1991) 3 SCC 451, Satya v Teja Singh (1975) 1 SCC 120, Dinesh Singh Thakur v Sonal Thakur (2018 INSC 356), Balram Yadav v Fulmaniya Yadav (AIR 2016 SC 2161), and BNS s.82 bigamy (up to 7 years + fine, in force 1 July 2024) all confirmed. No contradictions found; no fixes needed."
  }
 ]
