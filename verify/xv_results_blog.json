@@ -2180,5 +2180,60 @@
       "https://blog.ipleaders.in/hindu-succession-act-section-22-preferential-right/"
     ],
     "note": "Confirmed via fresh search: pre-2005 Section 4(2) carve-out for state tenancy law, its deletion by the 2005 amendment, and continuing restrictive tenancy practice in Punjab, Himachal Pradesh and Uttar Pradesh are all corroborated by independent sources. Mahinder and Others v. Puran Singh, 2026 INSC 698, decided 14 July 2026 (Justices Sanjay Karol and N. Kotiswar Singh), is accurately described: Section 22's preferential purchase right for Class-I heirs applies to inherited agricultural land, treated as an incident of succession, with Atam Prakash distinguished and Babu Ram v. Santokh Singh (2019) 14 SCC 162 affirmed as correctly stating the law. The guide's careful framing that this ruling does not itself resolve the broader Section 4(2) state-law-versus-central-Act debate matches what the sources say."
+  },
+  {
+    "file": "_drafts/batch10/blog/01-form-15ca-15cb-nri-remittance-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://taxguru.in/income-tax/income-tax-act-2025-force-1st-april-2026.html",
+      "https://www.drishtiias.com/daily-updates/daily-news-analysis/income-tax-act-2025/print_manually",
+      "https://www.incometaxindia.gov.in/w/who-is-required-to-file-form-15ca-",
+      "https://www.incometaxindia.gov.in/w/section-271-i"
+    ],
+    "note": "Rule 37BB mechanics, the Part A/B/C/D structure, the Rs 5 lakh aggregate-for-the-year threshold (confirmed as aggregate, resolving the guides hedged disagreement in favour of the cautious reading it already took), and the Section 271-I Rs 1,00,000 discretionary penalty are all confirmed. However the guide is silent on a material, current development it explicitly chose to omit: the Income-tax Act, 2025 has been in force since 1 April 2026 (replacing the 1961 Act for income/compliance events after that date, though the 1961 Act still governs assessment of FY2025-26 income), and multiple practitioner sources report the new Income-tax Rules, 2026 renumber Rule 37BB as Rule 220 and rename Forms 15CA/15CB as Forms 145/146 (this renumbering is not yet confirmed against an official notification). Since this guide is procedural advice for remittances happening now, omitting any mention of the new Act is a live-law gap, not a trivial omission.",
+    "fixes": [
+      {
+        "find": "The short answer is that 15CA and 15CB exist to help the Income Tax Department track outward remittances, not to assess tax a second time. But the rules on when a form is needed, which part of the form applies, and who has to sign it trip up even people who have filed them before, because the exemptions depend on the nature of the remittance rather than on whether tax was actually payable.",
+        "replace": "The short answer is that 15CA and 15CB exist to help the Income Tax Department track outward remittances, not to assess tax a second time. But the rules on when a form is needed, which part of the form applies, and who has to sign it trip up even people who have filed them before, because the exemptions depend on the nature of the remittance rather than on whether tax was actually payable. One current complication: the Income-tax Act, 2025 has been in force since 1 April 2026 and replaces the 1961 Act referred to throughout this guide for compliance events after that date, and practitioner reports (not yet confirmed against an official notification) say the new Income-tax Rules, 2026 renumber Rule 37BB as Rule 220 and rename Forms 15CA/15CB as Forms 145/146. Confirm the current form and rule numbers with your chartered accountant or the income tax portal before filing.",
+        "reason": "The guide omits that the Income-tax Act 2025 and Income-tax Rules 2026 are now the operative framework (in force since 1 April 2026) and may have renumbered the very rule and forms the guide discusses; this is a live compliance gap for anyone using the guide today."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch10/blog/02-nri-property-illegal-occupation-recovery-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 10,
+    "evidence": [
+      "https://www.livelaw.in/sc-judgments/2025-livelaw-sc-1084-k-s-manjunath-and-ors-versus-moorasavirappa-muttanna-chennappa-batil-since-deceased-by-his-lrs-and-ors-309424",
+      "https://theindianlawyer.in/land-dispute-settled-the-limits-of-possession-under-the-specific-relief-act/",
+      "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/question-of-title-or-better-right-to-possession-immaterial-section-6-sra-2025-dhc-4013-sonia-chhabra-v-shanta-grover-1578463",
+      "https://www.legitquest.com/case/raghbir-singh-and-another-v-harpal-singh-and-another/21FAD3"
+    ],
+    "note": "Section 6/Section 5 Specific Relief Act framework, the six-month limitation and its bar on appeal/review, mesne profits under Section 2(12) CPC and Order XX Rule 12, and the Sonia Chhabra v Shanta Grover holding (title immaterial in a Section 6 suit) are all independently confirmed. K.S. Manjunath v Moorasavirappa (2025 INSC 1298, decided 10 Nov 2025, Vikram Nath and Sandeep Mehta JJ) is confirmed to involve a permanent-injunction suit by a party in possession where the defendant argued Section 6 should apply; independent reporting confirms the holding that Section 6 does not apply to such an injunction suit, consistent with the draft. (Separate press coverage of the same case also discusses a specific-performance/determinability issue, suggesting the judgment covered more than one point; this does not contradict the Section 6 holding the guide relies on.) No contrary authority found."
+  },
+  {
+    "file": "_drafts/batch10/blog/03-press-note-3-fdi-land-border-country-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://khaitanco.com/thought-leaderships/Foreign-Investment-by-bordering-countries-bringing-clarity-to-Press-Note-3",
+      "https://vinodkothari.com/?p=57382",
+      "https://www.5paisa.com/index.php/news/cabinet-eases-press-note-3-rules-allows-up-to-10-border-country-fdi-through-automatic-route",
+      "https://www.jsalaw.com/?p=57192"
+    ],
+    "note": "Press Note 3 (April 2020), its implementation through Rule 6 of the NDI Rules, the beneficial-ownership reach including later transfers, the investee-company filing obligation, and the March 2026 Cabinet relaxation (10% non-controlling threshold to automatic route, majority Indian control condition, 60-day fast track for named manufacturing segments) are all independently confirmed across law-firm commentary and news reporting. The guides caution that the DPIIT notification text should be checked before relying on exact figures is well-founded, since at least one source notes the Cabinet approval was, at the time reported, still pending formal DPIIT notification."
+  },
+  {
+    "file": "_drafts/batch10/blog/04-serving-summons-nri-foreign-defendant-hague-guide.json",
+    "verdict": "FAIL",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.mondaq.com/postal-service-is-now-hague-convention-compliant-charuvila-philippose-sundaran-pillai-v-p-n-sivadasan/1682280",
+      "https://www.verdictum.in/court-updates/high-courts/kerala-charuvilla-philippose-sundaran-pillai-v-pn-sivadasan-2024-ker-84933-summons-service-defendants-1558147",
+      "https://www.scconline.com/blog/post/2025/09/20/india-hague-service-convention-challenges/",
+      "https://conflictoflaws.net/2025/charuvila-philippose-v-p-v-sivadasan-harmonizing-indias-civil-procedure-code-and-the-hague-service-convention/"
+    ],
+    "note": "The guides central premise is backwards. Independent reporting (Mondaq headlined 'Postal Service Is Now Hague Convention Compliant', Verdictum, SCC Online, and the conflictoflaws.net academic post) agrees the Kerala High Court Full Bench in Charuvila Philippose Sundaran Pillai v. P.N. Sivadasan (2024 KER 84933) held that Order V Rule 25 postal service is NOT excluded by the Hague Service Convention and is Article-10-compliant where the receiving state has not objected, and on that basis OVERRULED Mollykutty v Nicey Jacob (which had disallowed direct postal service). The draft instead presents the case as holding that courts should generally use the Conventions own Central Authority channel rather than postal service, and frames the contrary (correct) view as a separate, merely-not-inconsistent commentary in a later section. This inverts the actual holding of the one case the entire guide is built around, so the central premise is wrong rather than a fixable detail."
   }
 ]
