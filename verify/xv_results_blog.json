@@ -2280,5 +2280,27 @@
       "https://taxguru.in/corporate-law/fcra-amendment-rules-2026-10-major-compliance-changes.html"
     ],
     "note": "The citizenship-not-residence test for 'foreign source', the personal-savings/normal-banking-channel carve-out for genuine NRI (Indian citizen) donors, OCI/PIO cardholders being treated as foreign source, and the Rule 6 relative's-gift threshold moving from Rs 1 lakh/30 days to Rs 10 lakh/3 months under the Foreign Contribution (Regulation) Amendment Rules, 2022 (effective 1 July 2022) are all independently confirmed. A further major FCRA overhaul (the Foreign Contribution (Regulation) Amendment Rules, 2026, effective 22 June 2026, covering registration activity-codes, 'key functionary' definitions, Form FC-6F and a reasonable-activity utilisation test) is now in force; it does not contradict anything the guide states, and the guide already flags this gap rather than asserting anything about it, so no fix is needed, though the verification note's phrasing ('close to or after that date') is now slightly dated since that date has already passed."
+  },
+  {
+    "file": "_drafts/batch10/blog/09-stamp-duty-document-executed-outside-india-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.advocatekhoj.com/library/bareacts/indianstamp/18.php",
+      "https://www.livelaw.in/amp/news-updates/andhra-pradesh-high-court-power-of-attorney-executed-outside-india-not-duly-stamped-impounded-penalty-195535",
+      "https://khuranaandkhurana.com/?p=11078"
+    ],
+    "note": "Section 17's general rule, Section 18's three-month-from-first-receipt exception for instruments executed only outside India (excluding bills/notes), and Section 19's separate first-holder-in-India rule for bills of exchange/promissory notes are independently confirmed from the bare act text. The Andhra Pradesh High Court power-of-attorney case (sister in Canada, GPA dated 10.02.2020, notarised 11.02.2020, received in India 06.03.2020, presented 21.12.2021, Registrar's refusal overturned in favour of impound-and-validate) is independently confirmed via LiveLaw's report, matching the draft's facts closely; one secondary source (Khurana & Khurana) offers a conflicting gloss on the holding, but LiveLaw's more detailed account (which the draft follows) is the more reliable read of the outcome."
+  },
+  {
+    "file": "_drafts/batch10/blog/10-foreign-plaintiff-security-for-costs-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/news-updates/is-order-xxv-rule-11-cpc-mandatory-delhi-high-court-larger-bench-to-decide-218845",
+      "https://www.legitquest.com/case/communication-components-antenna-inc-v-ace-technologies-corp-and-ors/76BA9C",
+      "https://www.writinglaw.com/order-25-rule-1-cpc/"
+    ],
+    "note": "Order XXV Rule 1(1)'s general discretion and its proviso for a plaintiff residing outside India without sufficient other Indian immovable property are confirmed from bare-act sources. The conflicting Delhi High Court authority (Alberto-Culver finding it non-mandatory; S.A. Brothers and Kiran Shoes finding it mandatory) and the January 2023 reference to a larger bench in Communication Components Antenna Inc. v. ACE Technologies Corp. (Justice Amit Bansal, CS(COMM) 1222/2018) are independently confirmed. Searching for a 2026 resolution of that specific referred question turned up only a July 2025 interim-security order against the defendant in the same suit (an unrelated interim-deposit issue, not the Order XXV Rule 1 reference), so the draft's claim that the larger-bench reference remains unresolved could not be contradicted and still appears accurate."
   }
 ]
