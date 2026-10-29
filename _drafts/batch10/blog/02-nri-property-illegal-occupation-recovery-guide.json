@@ -1,0 +1,104 @@
+{
+  "slug": "nri-property-illegal-occupation-recovery-guide",
+  "title": "Someone Is Occupying Your Property in India While You Live Abroad: What an NRI Owner Can Actually Do",
+  "meta_description": "Section 6 and Section 5 of the Specific Relief Act, the six-month clock, and mesne profits: how an NRI owner recovers occupied property in India.",
+  "practice_area": "NRI Legal Services",
+  "intro": [
+    "It is one of the most common calls an NRI client makes from abroad: a relative, a former tenant, or a stranger is sitting in a flat or a plot the client owns in India, and refuses to leave or hand back the keys. Ownership on paper is rarely the problem. The sale deed is in the client's name, the mutation is done, the property tax receipts are current. What is missing is physical possession, and getting it back through a court in a country where the owner is not present changes almost every practical decision in the matter.",
+    "The law gives an owner two different routes depending on how the occupation happened and how long ago it started, and the choice between them is not optional once time has run. This guide sets out what those routes are, what a court actually requires to decide them, and where NRI owners most often go wrong before even getting to a lawyer."
+  ],
+  "sections": [
+    {
+      "heading": "Ownership and Possession Are Different Fights",
+      "paragraphs": [
+        "A title deed proves who owns the property. It does not by itself get a trespasser or an overstaying occupant out of it. Indian courts treat the question of who is entitled to possess a property as a separate legal question from who owns it, and the two questions are decided under different provisions with different timelines, different evidence requirements, and different outcomes.",
+        "For an NRI who discovers, often months after it started, that a caretaker has let in a relative who now refuses to vacate, or that a tenant has stopped paying rent and is asserting some informal claim to stay, the first task is working out which of the two routes below still applies. Waiting too long closes off the faster one, and most of the damage in these cases happens in the gap between discovering the occupation and actually consulting a lawyer, not in the litigation itself.",
+        "The distinction also decides how much the NRI owner has to prove. One route asks only who had physical control of the property and whether that control was taken away without consent. The other asks the owner to prove ownership from the ground up, through the full chain of title documents, which is a longer and more expensive exercise even where the documents themselves are in order."
+      ]
+    },
+    {
+      "heading": "The Fast Route: A Section 6 Suit for Recovery of Possession",
+      "paragraphs": [
+        "Section 6 of the Specific Relief Act, 1963 lets a person who has been dispossessed of immovable property, without their consent and otherwise than by due process of law, recover possession through a summary suit without having to prove title at all. The entire fight is about who had possession and whether the dispossession was wrongful, not about who legally owns the property. This matters for an NRI owner because the evidentiary burden is lighter and the hearing is meant to move quickly.",
+        "The catch is the clock. The suit must be filed within six months of the dispossession. Courts have consistently treated this limitation strictly; a Punjab and Haryana High Court order describes the period for instituting a Section 6 suit as six months, full stop, and the provision itself bars both appeals and review of the resulting decree. A Delhi High Court decision from 2025 reaffirmed that in a Section 6 proceeding, the question of title or a better right to possession is immaterial, which cuts both ways: it is what makes the remedy fast, and it is also why a defendant with genuine title cannot use that title as a defence inside the Section 6 suit itself.",
+        "The Supreme Court's decision in K.S. Manjunath v. Moorasavirappa, reported in late 2025, is useful for two reasons. It confirms that a dispossessed person recovers possession under Section 6 merely by proving prior possession and illegal dispossession, without establishing title. It also holds that the six-month rule does not apply to a permanent injunction suit by a person still in possession, since that is a different remedy. An NRI who still controls the property but fears an impending attempt to dispossess them falls in that second category and is not racing the six-month clock the same way."
+      ]
+    },
+    {
+      "heading": "Once Six Months Have Passed: Suing on Title",
+      "paragraphs": [
+        "If more than six months have gone by since the dispossession, or if the facts never fit the narrow Section 6 test in the first place, the Section 6 route is closed, and the suit has to be brought on the strength of title: a suit for declaration of ownership and recovery of possession, typically read together with Section 5 of the Specific Relief Act and the general law of title suits, along with a claim for mesne profits for the period of wrongful occupation.",
+        "This route is slower and more demanding. The owner has to prove title through the chain of documents, which is rarely a problem for someone who already holds a registered sale deed or inheritance papers, but the trial itself, with evidence and cross-examination, takes considerably longer than a summary Section 6 proceeding. Section 6 itself expressly preserves the right to bring this separate suit to establish title, so losing the six-month window for the fast remedy does not mean losing the right to recover the property, only that it will take longer and cost more to get there.",
+        "For an NRI, the practical consequence of ending up on this slower track is that someone has to be available in India, or a competent power of attorney holder has to be appointed, to attend hearings, file affidavits, and instruct counsel over what can be a multi-year process. This is the single biggest reason advocates push NRI clients to act within the first few months of discovering an occupation, rather than treating the six-month Section 6 window as a soft guideline."
+      ]
+    },
+    {
+      "heading": "Mesne Profits: Getting Paid for the Time You Were Kept Out",
+      "paragraphs": [
+        "Section 2(12) of the Code of Civil Procedure, 1908 defines mesne profits as the profits that a person in wrongful possession of property actually received, or could have received with ordinary diligence, together with interest, but excluding any profit attributable to improvements made by the wrongful occupant. Courts have described mesne profits as being in the nature of damages, which gives them some flexibility in how the amount is assessed rather than applying one fixed formula in every case.",
+        "Order XX Rule 12 of the CPC allows a court hearing a possession suit to pass a decree covering both possession and mesne profits, including future mesne profits up to the date possession is actually handed over, with the court directing a separate inquiry into the exact amount if needed. For an NRI whose flat has been occupied and, in some cases, sub-let by the wrongful occupant, this is the mechanism for recovering the rental value that was lost, not just getting the keys back.",
+        "Wrongful possession by the defendant is treated as the essential fact a mesne profits claim rests on, so the pleadings need to establish clearly when possession turned wrongful, which matters again for the Section 6 versus Section 5 choice, since the date of dispossession anchors both the limitation period and the start of the mesne profits calculation."
+      ]
+    },
+    {
+      "heading": "Criminal Complaints and Injunctions Alongside the Civil Suit",
+      "paragraphs": [
+        "A police complaint for criminal trespass can sit alongside the civil remedy, and is sometimes the only immediate tool available while a civil suit is being prepared, particularly where the occupation involves forcible entry or threats. It rarely resolves ownership of the property on its own and should not be treated as a substitute for filing the civil suit, since police action tends to produce, at best, a temporary cooling-off rather than restoration of possession.",
+        "Where the owner is still in physical control but anticipates an attempt to dispossess them, for instance where a caretaker or tenant is making noises about a claim to the property, an injunction suit under Order 39 Rules 1 and 2 of the CPC to restrain interference with possession is the appropriate remedy, and this is the category the Manjunath decision placed outside the Section 6 six-month limitation. Filing for an injunction before an actual dispossession happens is, in almost every case, faster and cheaper than any remedy available after the fact."
+      ]
+    },
+    {
+      "heading": "Practical Steps Before and After Filing",
+      "paragraphs": [
+        "Send a registered legal notice to the occupant as early as possible, even before deciding on the exact suit to file. This does two things: it creates a dated record of when the owner asserted their right, which matters for the limitation calculation, and it puts on record that any continued occupation is without the owner's consent, which helps defeat a later claim of adverse possession built on years of unchallenged occupation.",
+        "Keep property tax receipts, utility bills, and any available photographs or witness statements showing who was in possession and when. An NRI managing this from abroad should execute a specific power of attorney, not a general one, authorising a named individual to file the suit, sign pleadings, and appear in court on the owner's behalf, since many registries and courts scrutinise the scope of a POA closely in possession matters and a vague or overly broad POA can itself become a point of objection.",
+        "Finally, act on the six-month calendar from day one. An owner who spends two months trying to negotiate informally with an occupant, then another two months finding a lawyer, has already burned most of the window for the faster Section 6 remedy, and may end up on the slower title suit track by default rather than by choice."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I found out only four months after my tenant stopped paying rent and changed the locks. Can I still use Section 6?",
+      "a": "Section 6 runs from the date of dispossession, not the date you found out about it, though courts look at the actual facts of when wrongful dispossession occurred. If you are within six months of that date, a Section 6 suit remains open. Confirm the exact date of dispossession with your lawyer before relying on this, since it decides which remedy is available."
+    },
+    {
+      "q": "Can the occupant argue they have a better title than me inside a Section 6 suit?",
+      "a": "No. Courts have held that the question of title or a better right to possession is immaterial in a Section 6 proceeding, which is what makes it fast. The occupant can still bring a separate suit on title afterwards, but cannot use title as a defence inside the Section 6 case itself."
+    },
+    {
+      "q": "What if more than six months have already passed since I lost possession?",
+      "a": "The Section 6 summary remedy is no longer available, but Section 6 itself preserves your right to file a regular suit for declaration of title and recovery of possession, along with a claim for mesne profits. This takes longer and requires you to prove title through your documents, but the right to recover the property is not lost."
+    },
+    {
+      "q": "Can I recover rent for the period someone wrongfully occupied my property?",
+      "a": "Yes, through a claim for mesne profits under Section 2(12) of the CPC, which covers what the occupant actually earned or could have earned with ordinary diligence, plus interest, excluding gains from any improvements the occupant made. The court can order a separate inquiry into the exact amount."
+    },
+    {
+      "q": "Do I need to come to India in person to file this suit?",
+      "a": "No. A specific power of attorney authorising a named person to file the suit, sign pleadings, and represent you in hearings is the standard route for NRI owners. Keep the POA narrowly worded to the possession matter, since courts examine the scope of a POA closely in these disputes."
+    }
+  ],
+  "references": [
+    "Specific Relief Act, 1963, Section 6 (suit by person dispossessed of immovable property) and Section 5 (recovery of possession on the strength of title)",
+    "Code of Civil Procedure, 1908, Section 2(12) (definition of mesne profits) and Order XX Rule 12 (decree for possession and mesne profits)",
+    "Code of Civil Procedure, 1908, Order 39 Rules 1 and 2 (temporary injunctions)",
+    "K.S. Manjunath v. Moorasavirappa, Supreme Court of India, 2025 (as reported), on proof required under Section 6 and its inapplicability to injunction suits by a party still in possession",
+    "Sonia Chhabra v. Shanta Grover, 2025 DHC 4013, Delhi High Court, on title being immaterial to a Section 6 proceeding"
+  ],
+  "sources": [
+    "https://www.livelaw.in/amp/news-updates/punjab-and-haryana-high-court-section-6-specific-relief-act-limitation-period-suit-for-recovery-of-possession-six-months-204826",
+    "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/question-of-title-or-better-right-to-possession-immaterial-section-6-sra-2025-dhc-4013-sonia-chhabra-v-shanta-grover-1578463",
+    "https://theindianlawyer.in/land-dispute-settled-the-limits-of-possession-under-the-specific-relief-act/",
+    "https://www.casemine.com/in/column/defining-mesne-profits-in-indian-law/view",
+    "https://www.legalkart.com/en/legal-blog/illegal-possession-of-nri-property-in-india-a-complete-guide-to-your-legal-remedies"
+  ],
+  "verification_notes": [
+    "Six-month limitation under Section 6, Specific Relief Act: confirmed by the Punjab & Haryana High Court order summary (livelaw.in) and by the statutory text reproduced in the Delhi High Court judgment index cited by theindianlawyer.in; both describe the period as six months from dispossession.",
+    "Title being immaterial in a Section 6 proceeding: confirmed by the verdictum.in report of Sonia Chhabra v. Shanta Grover (2025 DHC 4013) and by the general statutory description in theindianlawyer.in's commentary on the Section 6/Section 5 distinction.",
+    "K.S. Manjunath v. Moorasavirappa holding (proof of prior possession and illegal dispossession suffices; six-month rule inapplicable to injunction suits by a party still in possession): this is reported through theindianlawyer.in's commentary citing the decision; the full judgment text was not independently retrieved, so the holding is stated as reported rather than quoted, and the exact citation is not given since only a secondary summary was available.",
+    "Mesne profits definition under Section 2(12) CPC and its 'in the nature of damages' character: confirmed by casemine.com's two separate columns on the topic, both quoting the same statutory elements (actual or attainable gains, interest, exclusion of improvement profits).",
+    "Order XX Rule 12 CPC procedure for decreeing mesne profits with a further inquiry: confirmed by casemine.com's dedicated column on Order 20 Rule 12.",
+    "Left out: any specific limitation period (such as 12 years) for a Section 5 title suit, since search results did not independently confirm this figure for the title-suit route, and the general limitation law on possession suits was not separately verified in this search.",
+    "Left out: any claim that adverse possession automatically defeats an owner after a fixed number of years, since this was mentioned only in commercial guides without a second, more authoritative source; the guide instead recommends a registered notice as a precaution without stating a specific adverse possession time limit."
+  ]
+}
