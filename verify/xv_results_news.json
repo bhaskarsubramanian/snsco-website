@@ -919,8 +919,8 @@
     "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
     "fixes": [
       {
-        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
-        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
         "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
       },
       {
@@ -2707,5 +2707,65 @@
       "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-indian-succession-act-section-69-554194"
     ],
     "note": "Duplicate of live content. The live site already carries /blog/will-revocation-marriage-section-69-guide.html (dated 2026-10-17), which explicitly discusses 'what the Kerala High Court recently upheld': the same suo motu reference on Section 69's constitutionality, the same Articles 14/15 challenge, and the same holding that Section 69 does not conflict with Section 20. This update covers the identical ruling already published."
+  },
+  {
+    "file": "_drafts/batch10/news/01-delhi-hc-habeas-corpus-not-for-transnational-child-custody-mangat.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/delhi-high-court/x-v-union-of-india-through-ministry-of-home-affairs-2026dhc3632-db-habeas-corpus-transnational-custody-battles-1613141",
+      "https://supremetoday.ai/doc/judgement/INDDEL00000165071",
+      "https://www.shoneekapoor.com/legal-news/child-custody-case-to-usa-delhi-hc/"
+    ],
+    "note": "Fresh search independently confirms the citation 2026:DHC:3632-DB, bench (Prathiba M. Singh and Madhu Jain), the case name Jasjit Singh Mangat & Anr. v. Union of India & Ors. (Verdictum's own headline anonymizes the petitioner as 'X' but another report ties the same citation to this party name), the core holding that habeas corpus cannot resolve a transnational custody dispute needing a welfare inquiry, the child residing in Berkeley since August 2018, US birth/citizenship plus OCI status, and the pointer to guardianship proceedings and NCPCR mediation. No duplicate found on the live site (a 'habeas corpus' custody item on the live site is an unrelated Madhya Pradesh High Court father/daughter remarriage-condition case)."
+  },
+  {
+    "file": "_drafts/batch10/news/02-bombay-hc-oci-cardholder-senior-citizens-act-mughda-sahal.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/high-court/bombay-high-court/oci-cardholder-entitled-remedies-senior-citizens-act-544747",
+      "https://supremetoday.ai/bombay-high-court-rules-oci-cardholder-parents-entitled-to-senior-citizens-act-20260808041",
+      "https://www.freepressjournal.in/mumbai/bombay-hc-rules-oci-cardholder-can-seek-protection-under-senior-citizens-act"
+    ],
+    "note": "Fresh search confirms the case name, Justice N.J. Jamadar as the judge, the Section 2(d) (parent, no citizenship/age requirement) versus Section 2(h) (citizen aged 60+) distinction, the disagreement with the Karnataka High Court's Dephny Gladys Lobo view, and that the Court quashed the eviction direction against the daughter-in-law and restored the Maintenance Tribunal's order. Sources differ on the exact report-publication date (7 Aug 2026 vs the draft's 30 June 2026 decision date per Indian Kanoon), which the draft itself flags and reasonably resolves. No duplicate found on the live site."
+  },
+  {
+    "file": "_drafts/batch10/news/03-itat-bangalore-binny-bansal-resident-india-singapore-dtaa.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.storyboard18.com/social-media/flipkart-co-founder-binny-bansal-loses-tax-relief-after-tribunal-rejects-non-resident-claim-87378.htm",
+      "https://www.india-briefing.com/news/binny-bansal-india-tax-residency-itat-ruling-42203.html",
+      "https://www.taxmann.com/post/blog/binny-bansal-held-resident-in-india-despite-singapore-shift-itat"
+    ],
+    "note": "Core holding, bench, citation, decision date, the sixty-day/Section 6 finding and the DTAA Article 4 tie-breaker finding against Bansal are all independently confirmed. However, multiple independent sources (Storyboard18, India Briefing, Taxmann) consistently give the pending refund figure as more than Rs 5.8 crore (reported also as 'more than 58 million rupees'), not merely 'more than five crore rupees' as the draft vaguely states; the draft's own verification note treats this as unconfirmed by a second source, which fresh search shows is incorrect.",
+    "fixes": [
+      {
+        "find": "a pending refund of more than five crore rupees that Bansal said was still owed to him",
+        "replace": "a pending refund of more than Rs 5.8 crore that Bansal said was still owed to him",
+        "reason": "Independent sources (Storyboard18, India Briefing, Taxmann) consistently report the figure as more than Rs 5.8 crore, not a vaguer 'more than five crore'."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch10/news/04-delhi-hc-vedanta-ravva-foreign-arbitral-award-enforcement.json",
+    "verdict": "FAIL",
+    "claims_checked": 1,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/delhi-high-court-paves-way-for-centre-to-release-99-million-in-arbitral-awards-to-vedanta-and-ravva-oil"
+    ],
+    "note": "Duplicate of live content. The live site already carries /legal-news/delhi-hc-vedanta-ravva-oil-arbitral-award-release.html ('Delhi High Court Clears Release of $99 Million in Arbitral Awards to Vedanta and Ravva Oil Over Centre's Objections'), which explicitly states it is sourced from the same Bar and Bench article covering the same parties, the same $99 million figure, the same Section 48 objections by the Centre, and the same enforcement outcome. This draft covers the identical ruling already published, merely attributing a different decision date (1 July 2026 vs the live page's 22 April 2026)."
+  },
+  {
+    "file": "_drafts/batch10/news/05-bombay-hc-foreign-award-section-9-interim-relief-osterreichischer.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://conventuslaw.com/report/india-section-9-and-foreign-award-enforcement-jurisdictional-question-settled-but-boundaries-still-uncertain/",
+      "https://www.clydeco.com/en/insights/2026/03/preserving-assets-pending-enforcement-of-a-foreign",
+      "https://www.jsalaw.com/wp-content/uploads/2026/04/JSA-Prism-Dispute-Resolution-March-2026-Osterreichischer.-FINAL.pdf"
+    ],
+    "note": "Fresh search independently confirms the case name, citation 2026:BHC-OS:6178, decision date 10 March 2026, the core holding that filing a Part II enforcement petition does not bar a separate Section 9 application at least until the award is recognised as a decree under Section 49, and the Part I/Part II distinction drawn by the Court. The open question on Section 9 availability post-decree is also corroborated. No duplicate found on the live site."
   }
 ]
