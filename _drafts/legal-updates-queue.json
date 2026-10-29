@@ -1392,5 +1392,39 @@
     ],
     "queued_full_page": false,
     "added_on": "2026-10-28"
+  },
+  {
+    "id": "fssai-nilgiri-oil-aquagri-coriander-carrageenan-recall",
+    "practice_area": "Food Safety (FSSAI)",
+    "case_name": "FSSAI recall directions against Nilgiri Oil & Allied Industries (Shalimar's Chef Coriander Powder) and Aquagri Processing Pvt. Ltd. (carrageenan)",
+    "citation": "FSSAI regulatory recall order (not litigation)",
+    "court": "FSSAI",
+    "date": "2026-09-12",
+    "holding_summary": "FSSAI directed Nilgiri Oil & Allied Industries to recall its Shalimar's Chef brand coriander powder after a regulatory sample, and a retest sample taken on the company's appeal, both failed for pesticide residues above permissible limits. In a parallel action, FSSAI directed Aquagri Processing Pvt. Ltd. to withdraw its carrageenan from the market after a sample was found to contain cadmium above the permissible standard, a finding the Referral Food Laboratory upheld on the company's appeal.",
+    "why_it_matters": "A reminder that FSSAI's unsafe-classification findings are now being confirmed on referral/appeal testing in both cases before the recall is enforced, so a food business cannot treat an adverse sample result as open to informal dispute — it must engage the statutory retest and appeal process promptly or face a market withdrawal.",
+    "sources": [
+      "https://morungexpress.com/fssai-directs-nilgiri-oil-aquagri-processing-to-recall-products-over-unsafe-concerns",
+      "https://www.ibtimes.co.in/fssai-orders-recall-coriander-powder-carrageenan-over-unsafe-food-safety-concerns-905842",
+      "https://www.outlookbusiness.com/news/food-regulator-directs-nilgiri-oil-and-allied-industries-aquagri-to-recall-2-products"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-29"
+  },
+  {
+    "id": "nclat-worlds-window-exim-resolution-plan-cause-of-default-section-30-2",
+    "practice_area": "IBC & Insolvency",
+    "case_name": "Dickey Special Situation Investment Trust-DSSF Series 2 & Prudent ARC Ltd. v. Manish Agarwal (Liquidator, Worlds Window Exim Pvt. Ltd.) & Ors.",
+    "citation": "NCLAT, order on or about 12 October 2026, affirming NCLT (New Delhi) order dated 14 August 2026 rejecting the resolution plan; exact Company Appeal number not independently confirmed from available secondary sources",
+    "court": "NCLAT",
+    "date": "2026-10-12",
+    "holding_summary": "The NCLAT dismissed appeals by the successful resolution applicant and by a financial creditor holding about 94.86% of CoC voting shares, upholding the NCLT's rejection of a Rs. 7 crore resolution plan for Worlds Window Exim Pvt. Ltd. The tribunal held that a plan offering less than liquidation value is not illegal in itself, but this plan failed to satisfy the mandatory requirements of Section 30(2) of the IBC read with Regulation 39(3)(a) of the CIRP Regulations because it did not show how it addressed the corporate debtor's cause of default. The NCLT's direction for liquidation and an investigation into the company's affairs, including avoidance applications, was left undisturbed.",
+    "why_it_matters": "CoC approval and a high voting share cannot cure a resolution plan that omits a reasoned explanation of the corporate debtor's cause of default — resolution applicants and committees must build this into the plan itself, not treat it as a formality, or risk the plan being rejected even after CoC approval.",
+    "sources": [
+      "https://www.taxscan.in/corporate-laws/nclat-upholds-rejection-of-7-cr-resolution-plan-for-failure-to-address-cause-of-default-under-ibc-read-order",
+      "https://www.oquilia.com/news/nclat-upholds-liquidation-worlds-window-exim-rejects-resolution-plan",
+      "https://www.livelawbiz.com/amp/ibc/coc-approval-cannot-cure-resolution-plans-failure-to-meet-mandatory-ibc-requirements-nclat-554489"
+    ],
+    "queued_full_page": false,
+    "added_on": "2026-10-29"
   }
 ]
