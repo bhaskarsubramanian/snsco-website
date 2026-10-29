@@ -1,0 +1,90 @@
+{
+  "slug": "foreign-plaintiff-security-for-costs-guide",
+  "title": "Suing in an Indian Court as a Foreign Plaintiff: When Can You Be Made to Deposit Security for Costs?",
+  "meta_description": "Why a foreign company or non-resident plaintiff suing in India can be ordered to deposit security for the defendant's costs, and where the law is unsettled",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "A US-based technology company files a patent infringement suit against an Indian manufacturer in a commercial court. Within weeks, the defendant applies for an order requiring the plaintiff to deposit several crores of rupees as security before the case can proceed any further. The plaintiff's Indian counsel is sometimes caught off guard by this, because the application has nothing to do with the merits of the infringement claim and everything to do with where the plaintiff happens to reside.",
+    "Order XXV Rule 1 of the Code of Civil Procedure, 1908 lets a court require a plaintiff to furnish security for a defendant's costs, and a specific proviso addresses exactly this situation: a plaintiff, or every plaintiff where there are more than one, residing outside India without sufficient immovable property in India other than the property that is itself the subject matter of the suit. What makes this provision genuinely tricky for a foreign litigant is that Indian courts themselves disagree about how much discretion survives once that proviso is triggered, and the question is currently sitting with a larger bench of the Delhi High Court without a settled answer."
+  ],
+  "sections": [
+    {
+      "heading": "What the Rule Actually Says",
+      "paragraphs": [
+        "The main part of Order XXV Rule 1(1) gives the court a general discretion, on its own motion or on an application by the defendant, to direct the plaintiff at any stage of the suit to give security for the costs incurred, and likely to be incurred, by any defendant. Nothing in that main provision is specific to foreign plaintiffs; it applies to any plaintiff a court thinks should be made to secure the other side's costs.",
+        "The proviso narrows in on one specific fact pattern: where the sole plaintiff, or every plaintiff if there is more than one, resides outside India and does not possess sufficient immovable property within India other than the property that forms the subject matter of the suit itself. A related sub-rule treats a person who leaves India in circumstances suggesting they will not be available to answer for costs as someone residing outside India for this purpose, even if that person is an Indian citizen who has simply gone abroad in a way that looks evasive."
+      ]
+    },
+    {
+      "heading": "The Live Disagreement: Is the Proviso Mandatory?",
+      "paragraphs": [
+        "Delhi High Court authority is split on whether satisfying the proviso's conditions obliges the court to order security, or whether the court retains discretion even once the proviso applies. One line of Delhi High Court decisions, including a 2010 ruling in Alberto-Culver USA Inc. v. Nexus Health & Home Care (P) Ltd., has held that it is not mandatory to direct a plaintiff to deposit security in every case the proviso covers. A different line, including S.A. Brothers & Co. v. Bartholomow & Sons Ltd. in 2000 and Kiran Shoes Manufacture v. Welcome Shoes Pvt. Ltd. in 2017, has held the opposite, treating the proviso as mandatory once its factual conditions, non-residence and lack of other immovable property in India, are made out.",
+        "This conflict came to a head in Communication Components Antenna Inc. v. ACE Technologies Corp., an intellectual property suit in which the foreign plaintiff was asked to furnish security of roughly eight crore rupees. Faced with the conflicting coordinate-bench authority, the single judge hearing the application referred the question to a larger bench in early 2023, framing it to cover whether the proviso is mandatory, and separately whether it applies only to suits concerning immovable property or extends to commercial and intellectual property disputes of the kind actually before the court. As of the material available at the time of writing, that reference does not appear to have been finally resolved, which means a foreign plaintiff litigating in Delhi today is arguing this point against a backdrop the court itself has acknowledged is unsettled, rather than against settled law either way."
+      ]
+    },
+    {
+      "heading": "It Is Not the Same Everywhere",
+      "paragraphs": [
+        "Even setting the Delhi split aside, this is not a question with one answer across India. At least one Bombay High Court decision has taken the view that the power to order security for costs remains discretionary in character and should not be exercised simply because the plaintiff happens to be a foreign company, treating the foreign-residence proviso as informing rather than dictating the court's exercise of discretion. A Delhi High Court authority is only persuasive, not binding, outside Delhi, so a foreign plaintiff facing a similar application in a different state's courts should expect the local High Court's own precedent, rather than the Delhi line, to govern how the application is actually decided.",
+        "This matters practically because a defendant choosing where to raise a jurisdiction objection or a security application, in a dispute where more than one forum might arguably have jurisdiction, has an incentive to pick the forum whose local precedent treats the proviso as closer to mandatory. A foreign plaintiff's counsel should map this out at the forum-selection stage, not discover the relevant local precedent only after the suit has already been filed and the security application has landed."
+      ]
+    },
+    {
+      "heading": "What a Foreign Plaintiff Can Actually Argue",
+      "paragraphs": [
+        "Even where a court is inclined to treat the proviso seriously, there is real room to argue about quantum and form. A party has argued in later Delhi High Court proceedings that requiring full security without regard to the merits of the claim or the defendant's actual litigation costs sits uneasily with India's international trade-law commitments, including under the TRIPS framework for intellectual property disputes, and that a court assessing what is 'just' under the rule can arrive at a nominal figure rather than the full amount a defendant demands. Whatever the final answer on whether the proviso is mandatory, the amount of security and the form it takes, cash deposit, bank guarantee, or some other instrument, remain matters the court has to fix on the facts of the specific case rather than at whatever figure the defendant happens to ask for.",
+        "A foreign plaintiff can also point to the second limb of the proviso, sufficient immovable property in India other than the suit property itself. A plaintiff who holds other unencumbered Indian real estate of adequate value, even while residing abroad, has a real argument that the proviso's own conditions are not satisfied on the facts, quite apart from the broader mandatory-versus-discretionary debate. This is a factual defence that has to be pleaded and supported with evidence of the property and its value, not simply asserted in argument."
+      ]
+    },
+    {
+      "heading": "Practical Steps Before Filing",
+      "paragraphs": [
+        "A foreign company or non-resident individual planning to sue in an Indian court should budget for the possibility of a security application from the outset, rather than treating it as a surprise procedural skirmish once the suit is underway. This means having an early conversation with Indian counsel about which High Court's precedent on the mandatory-versus-discretionary question will likely apply, what evidence exists of any Indian immovable property the plaintiff holds that falls outside the subject matter of the suit, and what realistic quantum the defendant might seek if an application is filed.",
+        "It is also worth building the litigation budget around the possibility that an early-stage security application could stall the suit's progress for months while it is argued and decided, particularly in a case that happens to raise exactly the mandatory-versus-discretionary question still pending before the Delhi High Court's larger bench. A plaintiff who treats the security application as a minor procedural footnote, rather than something that can genuinely delay or complicate the substantive case, tends to be the one caught without a plan when the application actually lands."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Order XXV Rule 1 apply only to suits about immovable property?",
+      "a": "That is precisely one of the questions the Delhi High Court has referred to a larger bench and which does not appear to have been finally settled in the sources available. Some commentary and at least one line of argument suggests the proviso should be confined to immovable property disputes, but a foreign plaintiff should not assume this limitation will be applied until the larger bench actually decides it."
+    },
+    {
+      "q": "Can an NRI plaintiff be treated the same as a foreign company for this purpose?",
+      "a": "The proviso turns on residence outside India, not on citizenship or corporate status, so an NRI who resides outside India and lacks sufficient other immovable property in India can fall within the same proviso as a foreign company, subject to the same mandatory-versus-discretionary debate described in this guide."
+    },
+    {
+      "q": "What if the plaintiff is a foreign company with an Indian subsidiary that holds property in India?",
+      "a": "The relevant test looks at the plaintiff's own residence and property holding, not that of a related but separate corporate entity. A foreign plaintiff generally cannot rely on an Indian subsidiary's assets to defeat the proviso unless there is a proper legal basis to treat the subsidiary's property as the plaintiff's own, which is not something that follows automatically from a parent-subsidiary relationship."
+    },
+    {
+      "q": "Is security for costs the same thing as a bond for an interim injunction?",
+      "a": "No. Security for costs under Order XXV secures the defendant's litigation costs if the plaintiff loses the suit, while an undertaking or bond given in connection with an interim injunction secures the defendant against loss caused by the injunction itself if it turns out to have been wrongly granted. A foreign plaintiff can face both kinds of financial exposure in the same suit, and they are assessed on different grounds."
+    },
+    {
+      "q": "What happens if a plaintiff ordered to give security simply does not pay?",
+      "a": "A plaintiff who fails to comply with an order to furnish security within the time fixed by the court risks having the suit dismissed for that non-compliance, so this is not an order that can safely be ignored or treated as a formality to be dealt with later once other case preparation is complete."
+    }
+  ],
+  "references": [
+    "Code of Civil Procedure, 1908, Order XXV, Rule 1 (security for costs, and the proviso for a plaintiff residing outside India)",
+    "Alberto-Culver USA Inc. v. Nexus Health & Home Care (P) Ltd., ILR (2010) 1 Delhi 680",
+    "S.A. Brothers & Co. v. Bartholomow & Sons Ltd., 2000 (56) DRJ 68",
+    "Kiran Shoes Manufacture v. Welcome Shoes Pvt. Ltd., 2017 SCC OnLine Del 6590",
+    "Communication Components Antenna Inc. v. ACE Technologies Corp. and Ors. (Delhi High Court, reference to larger bench, 2023)"
+  ],
+  "sources": [
+    "https://www.legitquest.com/case/communication-components-antenna-inc-v-ace-technologies-corp-and-ors/76BA9C",
+    "https://www.livelaw.in/amp/news-updates/is-order-xxv-rule-11-cpc-mandatory-delhi-high-court-larger-bench-to-decide-218845",
+    "https://www.writinglaw.com/order-25-rule-1-cpc/",
+    "https://lawfoyer.in/security-for-costs-order-xxv-cpc/",
+    "https://www.legalserviceindia.com/Legal-Articles/suits-by-foreign-plaintiffs-and-the-mandate-of-security-for-costs-law-limits-and-interpretations/"
+  ],
+  "verification_notes": [
+    "Text of Order XXV Rule 1(1), the proviso for a plaintiff residing outside India without sufficient other immovable property in India, and the deemed-residence rule for a person who leaves India under suspicious circumstances: confirmed across two independent bare-act/commentary sources (WritingLaw and LawFoyer).",
+    "The conflicting Delhi High Court authority (Alberto-Culver treating the proviso as non-mandatory; S.A. Brothers and Kiran Shoes treating it as mandatory) and the reference to a larger bench in Communication Components Antenna Inc. v. ACE Technologies Corp.: confirmed via direct quotation of the referring order's own recitation of precedent, reproduced through Legitquest's case summary, read together with LiveLaw's report on the reference itself. This guide does not claim the larger bench has issued a final ruling, since no source confirmed one.",
+    "The approximate quantum (roughly eight crore rupees) sought in the Communication Components Antenna application: as reported in the Legitquest case summary; stated as the amount sought in that application, not as a general benchmark for other cases.",
+    "The Bombay High Court's discretionary approach even for foreign-company plaintiffs: reported generally in search results without a specific case name or citation being returned; described here in general terms as a documented contrary approach rather than attributed to a named, cited judgment, consistent with the instruction not to invent a citation.",
+    "The TRIPS-based argument for a nominal-security approach in a later Delhi High Court matter: reported generally in the search summary without full case details; described as an argument that has been raised rather than as a settled outcome."
+  ]
+}
