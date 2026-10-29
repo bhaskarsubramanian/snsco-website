@@ -1339,7 +1339,7 @@
     "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
     "fixes": [
       {
-        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
+        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
         "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
         "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
       }
@@ -2235,5 +2235,28 @@
       "https://conflictoflaws.net/2025/charuvila-philippose-v-p-v-sivadasan-harmonizing-indias-civil-procedure-code-and-the-hague-service-convention/"
     ],
     "note": "The guides central premise is backwards. Independent reporting (Mondaq headlined 'Postal Service Is Now Hague Convention Compliant', Verdictum, SCC Online, and the conflictoflaws.net academic post) agrees the Kerala High Court Full Bench in Charuvila Philippose Sundaran Pillai v. P.N. Sivadasan (2024 KER 84933) held that Order V Rule 25 postal service is NOT excluded by the Hague Service Convention and is Article-10-compliant where the receiving state has not objected, and on that basis OVERRULED Mollykutty v Nicey Jacob (which had disallowed direct postal service). The draft instead presents the case as holding that courts should generally use the Conventions own Central Authority channel rather than postal service, and frames the contrary (correct) view as a separate, merely-not-inconsistent commentary in a later section. This inverts the actual holding of the one case the entire guide is built around, so the central premise is wrong rather than a fixable detail."
+  },
+  {
+    "file": "_drafts/batch10/blog/05-income-tax-act-2025-nri-residential-status-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.incometaxindia.gov.in/w/section-6-253",
+      "https://taxguru.in/?p=1094431",
+      "https://www.in.kpmg.com/taxflashnews/KPMG-Flash-News-Lok-Sabha-passes-the-Income-tax-Bill-2025.pdf",
+      "https://www.taxheal.com/?p=125776"
+    ],
+    "note": "Core claims independently confirmed: Income-tax Act 2025 applies to tax years beginning on/after 1 April 2026, with the day-count residency tests moving from Section 6(1) of the 1961 Act to Section 6(2) of the 2025 Act without substantive change, and a savings provision (reported as Section 536) keeping the 1961 Act's Section 6 applicable to any tax year beginning before 1 April 2026 regardless of when the assessment happens. The guide's own explicit hedges (flagging the Section 6(1A)->6(7) and RNOR 6(6)->6(13) mappings, and the Rs 15 lakh threshold figure, as unconfirmed/provisional) are appropriate and consistent with what independent research could and could not confirm."
+  },
+  {
+    "file": "_drafts/batch10/blog/06-overseas-direct-investment-fema-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.rbi.org.in/commonperson/English/Scripts/Notification.aspx?Id=852",
+      "https://razorpay.com/blog/fema-odi-regulations-guide/",
+      "https://1finance.co.in/blog/liberalised-remittance-scheme-lrs-rules-limits-tcs-guide/"
+    ],
+    "note": "The 400% of net worth automatic-route ceiling (applied cumulatively, covering equity/loans/guarantees), the USD 250,000 per financial year LRS ceiling, and the LRS step-down-subsidiary restriction (which independent research confirms turns specifically on whether the resident individual controls the foreign entity, matching the guide's hedged 'generally cannot' phrasing) are all independently confirmed. The guide's own hedges on the USD 1 billion additional-approval trigger (flagged as old/unconfirmed) and its deliberate omission of an unconfirmed 100% ceiling figure are appropriate."
   }
 ]
