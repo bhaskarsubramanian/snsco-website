@@ -2258,5 +2258,27 @@
       "https://1finance.co.in/blog/liberalised-remittance-scheme-lrs-rules-limits-tcs-guide/"
     ],
     "note": "The 400% of net worth automatic-route ceiling (applied cumulatively, covering equity/loans/guarantees), the USD 250,000 per financial year LRS ceiling, and the LRS step-down-subsidiary restriction (which independent research confirms turns specifically on whether the resident individual controls the foreign entity, matching the guide's hedged 'generally cannot' phrasing) are all independently confirmed. The guide's own hedges on the USD 1 billion additional-approval trigger (flagged as old/unconfirmed) and its deliberate omission of an unconfirmed 100% ceiling figure are appropriate."
+  },
+  {
+    "file": "_drafts/batch10/blog/07-foreign-company-branch-liaison-project-office-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.rbi.org.in/scripts/BS_ViewMasCirculardetails.aspx?id=9861",
+      "https://setindiabiz.com/permitted-activities-of-branch-office-india",
+      "https://blog.ipleaders.in/procedure-setting-branch-office-india-foreign-company/"
+    ],
+    "note": "FEMA 22(R)'s AD-bank/government-route split, the liaison office's 3-year approval with a further 3-year AD-bank extension subject to AAC compliance, the project office's automatic-route funding conditions, and the branch office's permitted activities and bar on retail trading/manufacturing (except in SEZs) are all independently confirmed. The guide's own hedge (deliberately omitting an unconfirmed secondary claim about a 2-year liaison-office limit for NBFC/construction entities) is appropriate."
+  },
+  {
+    "file": "_drafts/batch10/blog/08-fcra-nri-donation-foreign-source-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://fvms.icar.gov.in/Circulars/FCRA%20GUIDELINES%20FAQ.pdf",
+      "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2022-pdfs/LS26072022/1392.pdf",
+      "https://taxguru.in/corporate-law/fcra-amendment-rules-2026-10-major-compliance-changes.html"
+    ],
+    "note": "The citizenship-not-residence test for 'foreign source', the personal-savings/normal-banking-channel carve-out for genuine NRI (Indian citizen) donors, OCI/PIO cardholders being treated as foreign source, and the Rule 6 relative's-gift threshold moving from Rs 1 lakh/30 days to Rs 10 lakh/3 months under the Foreign Contribution (Regulation) Amendment Rules, 2022 (effective 1 July 2022) are all independently confirmed. A further major FCRA overhaul (the Foreign Contribution (Regulation) Amendment Rules, 2026, effective 22 June 2026, covering registration activity-codes, 'key functionary' definitions, Form FC-6F and a reasonable-activity utilisation test) is now in force; it does not contradict anything the guide states, and the guide already flags this gap rather than asserting anything about it, so no fix is needed, though the verification note's phrasing ('close to or after that date') is now slightly dated since that date has already passed."
   }
 ]
