@@ -1,0 +1,90 @@
+{
+  "slug": "fcra-nri-donation-foreign-source-guide",
+  "title": "Can an NRI Donate to an Indian Trust or NGO Without Triggering FCRA? What Actually Counts as 'Foreign Source'",
+  "meta_description": "Whether a donation from an NRI or an OCI cardholder to an Indian trust counts as foreign contribution under FCRA, and why the distinction matters.",
+  "practice_area": "NRI Legal Services",
+  "intro": [
+    "A trust running a school in a small town gets a generous donation from a nephew working in Dubai and assumes, because the nephew is an Indian citizen who grew up in that same town, that the money is just like any other domestic gift. A different trust gets a similar amount from a donor who left India decades ago and has since taken US citizenship, and treats that donation the same way. One of these assumptions is far safer than the other, and the difference turns entirely on a question the trust rarely asks at the time: what is the donor's citizenship, not where does the donor currently live.",
+    "The Foreign Contribution (Regulation) Act, 2010 and the rules under it decide whether money coming from outside India counts as foreign contribution, and an organisation that is not registered or does not have prior permission under FCRA cannot lawfully accept foreign contribution at all. Getting this wrong exposes the Indian recipient, not just the donor, to penalties and to the risk of its FCRA registration being suspended or cancelled. This guide sets out how the foreign source test actually works for NRI and diaspora donors specifically."
+  ],
+  "sections": [
+    {
+      "heading": "The Starting Point: Citizenship, Not Residence",
+      "paragraphs": [
+        "FCRA's definition of foreign source includes a foreign company, a foreign trust or foundation, an international agency, and, importantly for diaspora giving, an individual who is a foreign citizen. The test is not where the donor lives or works but what passport the donor holds. A person who holds an Indian passport and lives and works in Dubai, London, or Singapore is, for FCRA purposes, an Indian citizen donating from abroad, not a foreign source, even though the money is physically remitted from outside India.",
+        "The moment that same person acquires foreign citizenship, including through naturalisation, or holds an Overseas Citizen of India or Person of Indian Origin card rather than an Indian passport, the position flips. The Ministry of Home Affairs' own published guidance confirms that donations from persons of Indian origin who have acquired foreign citizenship, including OCI and PIO cardholders, are treated as foreign contribution, regardless of any emotional or family connection to the recipient organisation. A recipient that treats every diaspora donor the same, on the assumption that anyone of Indian descent is somehow exempt, is working from a mistaken premise that can unravel its registration."
+      ]
+    },
+    {
+      "heading": "Why an NRI's Donation From Personal Savings Usually Isn't 'Foreign' at All",
+      "paragraphs": [
+        "Ministry of Home Affairs guidance on this point takes the position that a contribution from an Indian citizen's personal savings, remitted through normal banking channels, is not treated as foreign contribution, and recommends that the recipient organisation collect the donor's passport details to confirm Indian citizenship before accepting a large or unusual remittance. This is the practical basis on which most Indian NGOs accept money from genuine NRIs without treating it as FCRA-regulated foreign contribution.",
+        "That carve-out is narrower than it sounds, though. It covers the NRI's own personal savings, not money the NRI is collecting from a wider group of foreign-citizen friends or colleagues and simply forwarding in a lump sum, and it covers remittance through ordinary banking channels rather than cash carried informally or routed through intermediaries whose own source of funds is unclear. An organisation that receives a round, unusually large sum from an NRI donor with no clear personal-savings explanation should ask more questions before assuming the exemption applies automatically, because the burden of showing the money was genuinely the donor's own savings sits with the recipient if the position is ever challenged."
+      ]
+    },
+    {
+      "heading": "The Narrower Rule 6 Exception for Gifts From Relatives",
+      "paragraphs": [
+        "A separate and more specific provision under the Foreign Contribution (Regulation) Rules addresses a different situation: a person who is themselves barred from receiving foreign contribution under Section 3 of the Act, such as certain government servants, judges, or members of a legislature, who wants to accept a gift from a relative abroad. Rule 6 permits that person to accept foreign contribution from a relative, but requires intimation to the Central Government on the prescribed form once the amount in a financial year crosses a threshold.",
+        "That threshold and the reporting window have themselves changed. Under the rule as it stood from 2011, the trigger was one lakh rupees in a financial year, reportable within thirty days. The Foreign Contribution (Regulation) Amendment Rules, 2022, which took effect from 1 July 2022, raised the threshold to ten lakh rupees and extended the reporting window to three months. This provision is distinct from the general question of whether an ordinary trust can accept an NRI's donation discussed above. It applies specifically to individuals who face a personal bar on receiving foreign contribution and are relying on the relative exception to receive it anyway, and it should not be confused with the general rule for a trust or NGO accepting donations from the diaspora at large."
+      ]
+    },
+    {
+      "heading": "What a Recipient Organisation Should Actually Do",
+      "paragraphs": [
+        "An organisation receiving diaspora donations regularly should build a simple intake practice around three questions for every foreign remittance: what passport does the donor hold, is the money the donor's own personal savings or money collected from others, and did it come through ordinary banking channels. Where the answer to the first question is an Indian passport and the answer to the second is personal savings sent through a bank, the donation generally sits outside FCRA. Where the donor holds a foreign passport, an OCI card, or a PIO card, the donation is foreign contribution and the organisation needs either an FCRA registration or prior permission before accepting it, regardless of how the donor self-identifies culturally or how long the family connection to India has run.",
+        "Organisations that are not FCRA-registered sometimes try to solve a one-off large foreign-citizen donation by routing it through a relative who does hold an Indian passport, intending for that relative to then gift the money onward to the trust. This kind of arrangement, where the foreign-citizen donor is the real source and the Indian-passport relative is simply a conduit, does not change the underlying character of the contribution and is the kind of structuring that FCRA enforcement has specifically targeted in the past. The safer course for an unregistered organisation facing a genuine foreign-source donor is to apply for prior permission for that specific contribution rather than disguise its source."
+      ]
+    },
+    {
+      "heading": "Consequences of Getting the Classification Wrong",
+      "paragraphs": [
+        "Accepting what turns out to be foreign contribution without registration or prior permission exposes the recipient organisation to action under Section 11 and related provisions of the Act, which can include seizure of the funds, monetary penalty, and suspension or cancellation of any existing FCRA registration the organisation holds for its other activities. A cancellation is not a minor administrative inconvenience for a working NGO. It typically bars the organisation from receiving any further foreign contribution for a period and can trigger separate scrutiny of every other foreign remittance the organisation has received in preceding years, not just the one transaction that raised the flag.",
+        "For the donor's side, an NRI who genuinely donated from personal savings through a bank has little exposure even if the recipient organisation later gets its own classification wrong, since the statutory obligations under FCRA fall primarily on the recipient rather than the donor. A foreign-citizen donor who deliberately structured a donation to look like it came from an Indian-passport relative, however, can find themselves implicated in the same enforcement action as the recipient, which is one more reason the conduit approach described above is not a safe workaround."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does it matter if the NRI donor sends money from an NRE account rather than an ordinary foreign bank account?",
+      "a": "What matters most is the donor's citizenship and the source of the funds, not the specific account type used. The guidance on personal-savings donations through normal banking channels does not turn on whether the account is an NRE account, an NRO account, or a foreign bank account, though an organisation should still confirm the donor's citizenship independently rather than inferring it from the account type alone."
+    },
+    {
+      "q": "Is a donation from an OCI cardholder treated the same as a donation from a foreign company?",
+      "a": "Both count as foreign contribution because both fall within FCRA's definition of foreign source, but they are not identical for every purpose. An OCI cardholder is an individual foreign citizen, while a foreign company is a corporate foreign source, and an organisation's registration and reporting obligations can differ depending on the category of foreign source involved, so the two should not be assumed interchangeable for every compliance step."
+    },
+    {
+      "q": "Can an unregistered trust ever accept a one-time donation from a foreign-citizen donor?",
+      "a": "Only with prior permission from the Central Government for that specific contribution, obtained before accepting the funds. An unregistered trust that simply accepts the money and plans to seek permission afterward, or seeks registration only once the donation has already been received, has already committed the contravention regardless of what it does next."
+    },
+    {
+      "q": "What threshold currently applies to the Rule 6 relative's gift exception?",
+      "a": "The threshold was raised to ten lakh rupees per financial year, with a three-month reporting window, by the Foreign Contribution (Regulation) Amendment Rules, 2022, effective from 1 July 2022, replacing the earlier one lakh rupee, thirty-day position. This specific provision applies only to a person who is personally barred from receiving foreign contribution under Section 3 and is relying on the relative exception, not to an ordinary trust accepting diaspora donations."
+    },
+    {
+      "q": "Should a trust ask every donor for passport details?",
+      "a": "For a routine, modest domestic donation there is no general requirement to do this, but Ministry guidance specifically recommends collecting passport details where a contribution comes from abroad or from a donor the organisation cannot otherwise easily confirm as an Indian citizen, since that documentation is what lets the organisation defend its classification of the donation later if it is ever questioned."
+    }
+  ],
+  "references": [
+    "Foreign Contribution (Regulation) Act, 2010, Sections 2(1)(j) (definition of foreign source), 3, 11",
+    "Foreign Contribution (Regulation) Rules, 2011, Rule 6 (gifts from relatives)",
+    "Foreign Contribution (Regulation) Amendment Rules, 2022, effective 1 July 2022 (raising the Rule 6 threshold to ten lakh rupees and the reporting window to three months)",
+    "Ministry of Home Affairs FCRA FAQ guidance on personal savings remitted through normal banking channels and on OCI/PIO donors being treated as foreign source"
+  ],
+  "sources": [
+    "https://fvms.icar.gov.in/Circulars/FCRA%20GUIDELINES%20FAQ.pdf",
+    "https://www.nishithdesai.com/research-and-articles/hotline/social-sector-hotline/not-for-profits-rejoice-receiving-foreign-contributions-made-easy-6205",
+    "https://taxguru.in/?p=566994",
+    "https://old.wirc-icai.org/images/material/FCRA-DevenS.pdf",
+    "https://www.rsm.global/india/sites/default/files/media/thumbnails/RSM%20India%20Newsflash%20-%20Key%20Developments%20under%20the%20Foreign%20Contribution%20Regulatory%20Framework%20in%20India.pdf"
+  ],
+  "verification_notes": [
+    "Definition of 'foreign source' including foreign citizens, foreign trusts/foundations and foreign companies: confirmed consistently across the ICAR FCRA FAQ document and the general FCRA commentary sources checked.",
+    "NRI (Indian citizen) donation from personal savings through normal banking channels not treated as foreign contribution, with passport verification recommended: confirmed from the Ministry of Home Affairs FAQ guidance (ICAR-hosted copy), treated as the authoritative source on this point.",
+    "OCI and PIO cardholders, and persons of Indian origin who have acquired foreign citizenship, treated as foreign source regardless of family connection: confirmed from the same Ministry guidance.",
+    "Rule 6 relative's gift exception, its 2011 threshold of one lakh rupees/thirty days, and the 2022 amendment raising it to ten lakh rupees/three months effective 1 July 2022: confirmed across two independent sources describing the Foreign Contribution (Regulation) Amendment Rules, 2022.",
+    "Consequences of unlawfully accepting foreign contribution (seizure, penalty, suspension or cancellation of registration): stated in general terms consistent with the Act's own enforcement provisions; no specific recent enforcement case was verified for this guide and none is cited.",
+    "A reported further round of FCRA amendments effective 22 June 2026 was mentioned in one source (RSM India) but its content was not detailed in the search results and is therefore not described substantively here; readers relying on this guide close to or after that date should check for intervening changes."
+  ]
+}
