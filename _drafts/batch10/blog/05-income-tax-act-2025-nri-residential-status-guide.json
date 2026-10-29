@@ -1,0 +1,89 @@
+{
+  "slug": "income-tax-act-2025-nri-residential-status-guide",
+  "title": "The Income-tax Act, 2025 and NRIs: What Changes in Residential Status and What Stays the Same",
+  "meta_description": "How the Income-tax Act, 2025 renumbers the residency and deemed-resident rules for NRIs from tax year 2026-27, and which law governs older assessments.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "Every NRI client eventually asks the same question around the end of a financial year: how many days can I spend in India before I become a tax resident again. For decades the answer sat in Section 6 of the Income Tax Act, 1961. From the 2026-27 tax year, the governing provision is Section 6 of the Income-tax Act, 2025, a wholesale re-enactment of the 1961 Act rather than a set of incremental amendments to it, and the change in numbering has already caused confusion among NRIs comparing old advice against the new text.",
+    "This guide sets out what actually moved, what stayed the same in substance, and the one point that matters most for anyone with an assessment or reassessment still pending for an earlier year: which version of the law applies to it."
+  ],
+  "sections": [
+    {
+      "heading": "The Basic Residency Test, Renumbered But Not Rewritten",
+      "paragraphs": [
+        "The core test for whether an individual is a resident of India for a tax year sits in Section 6 of the new Act, with the detailed day-count tests set out in Section 6(2): the familiar 182-day presence test, and the alternative test combining 60 days of presence in the relevant year with 365 days of presence across the preceding four years. Under the 1961 Act these tests sat in Section 6(1). The substance of the day-count tests has not changed; what has changed is where to find them in the statute.",
+        "For NRIs, this matters practically in one specific way: the extended 120-day threshold that replaces the ordinary 60-day limb for Indian citizens and persons of Indian origin whose total income from Indian sources exceeds a specified amount continues under the new Act in substance, carried forward rather than reworked. Anyone relying on advice or templates written against the old section numbers needs to re-map the citation before using them, since a wrongly numbered section in a submission to the tax department is the kind of error that undermines confidence in the rest of the filing."
+      ]
+    },
+    {
+      "heading": "Deemed Residency for High-Income Non-Residents",
+      "paragraphs": [
+        "The 1961 Act's deemed-resident provision, inserted as Section 6(1A), reaches an Indian citizen whose total income, excluding income from foreign sources, exceeds a specified threshold, and who is not liable to tax in any other country by reason of domicile, residence, or a similar criterion. According to secondary commentary, this provision is carried forward into the new Act as Section 6(7), and a person falling within it continues to be treated as Resident but Not Ordinarily Resident, the RNOR category, rather than as an ordinary resident.",
+        "This provision was originally introduced to address a narrow but real problem: high-income Indian citizens structuring their affairs so that they were not tax resident anywhere, taking advantage of gaps between different countries' residency rules to escape taxation on income earned in India altogether. The RNOR classification for anyone caught by this deeming provision matters because RNOR status carries a materially lighter tax burden on foreign income than ordinary residency, so the deeming provision is designed to bring stateless high earners into the Indian tax net without fully taxing them as if they were ordinary residents.",
+        "This Section 6(1A)-to-6(7) mapping, and the parallel claim that RNOR status itself moved from the old Section 6(6) to a new Section 6(13), come from tax commentary rather than the enacted text examined directly in this research, so these specific section numbers should be treated as provisional and checked against the Act as finally published before being cited in a client-facing document or a filing."
+      ]
+    },
+    {
+      "heading": "When the New Act Actually Takes Effect",
+      "paragraphs": [
+        "The Income-tax Act, 2025 is reported to replace the 1961 Act with effect from 1 April 2026, with the 2025-26 financial year functioning as a transition period. For residential status specifically, there is an important savings provision: residential status for any tax year beginning before 1 April 2026 continues to be determined under Section 6 of the 1961 Act, even where the actual assessment or reassessment of that year happens after the new Act has come into force.",
+        "This matters for anyone with an open assessment, a pending appeal, or a reassessment notice relating to an earlier tax year. The question of whether that person was a resident, non-resident, or RNOR for that earlier year is answered under the old Section 6, not the new one, regardless of when the tax officer or appellate authority actually gets around to deciding it. Advocates handling reassessment proceedings that straddle the transition should plead the correct version of Section 6 for the year in dispute, rather than defaulting to whichever version happens to be in force at the time of the hearing."
+      ]
+    },
+    {
+      "heading": "TDS on Non-Resident Income Under the New Act",
+      "paragraphs": [
+        "The withholding tax machinery that NRIs deal with most often, deduction of tax at source on income such as rent, capital gains, or interest paid to a non-resident, continues in substance under the new Act, and taxable income received by a non-resident in India remains subject to TDS. The practical mechanics that NRIs and the people paying them rely on, applying for a lower or nil deduction certificate, relying on a DTAA rate, filing Form 15CA and 15CB where required for the actual remittance, have not been described in the available commentary as substantively reworked, though the section numbers carrying these provisions have moved along with the rest of the Act's renumbering.",
+        "Because the commentary available on this point is general rather than section-by-section, anyone drafting a TDS computation or a remittance certificate for a transaction that falls under the new Act's regime should pull the specific section numbers from the enacted text directly, rather than relying on a mapping table from a tax blog, given how much churn there has been in commentary trying to keep pace with the renumbering."
+      ]
+    },
+    {
+      "heading": "Return Filing and NIL-TDS Relief",
+      "paragraphs": [
+        "The exemption from filing a return that has historically applied to NRIs whose only Indian income is investment income, or long-term capital gains, where tax has already been fully deducted at source, is reported to continue under the new framework. NRIs who in fact owe no further tax after TDS, and who want to avoid the deduction happening in the first place rather than claiming a refund afterward, can apply to the tax department for a NIL-TDS or lower-TDS certificate, a mechanism that is not itself new to the 2025 Act but remains relevant and worth reminding clients about, since many default to letting the deduction happen and claiming a refund later, which ties up money for months longer than necessary.",
+        "For an NRI with Indian rental income, dividend income, or capital gains spread across multiple transactions in a year, getting a lower-deduction certificate in place at the start of the year, rather than transaction by transaction, is usually the more efficient approach, and this planning point holds regardless of which version of the Act is technically in force for the year in question."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to recheck my tax planning because of the Income-tax Act, 2025?",
+      "a": "The day-count residency tests and the broad RNOR and deemed-residency framework are reported to continue in substance, just under new section numbers. The practical planning advice an NRI has relied on, around day counts and income thresholds, should still hold, but any document or filing citing specific section numbers needs to be checked against the new numbering before use."
+    },
+    {
+      "q": "Which law applies to my residential status for a tax year before April 2026 if my assessment is still open?",
+      "a": "Section 6 of the 1961 Act, not the new Act, governs residential status for any tax year that began before 1 April 2026, even if the assessment or reassessment for that year is decided after the new Act comes into force. This is a specific savings provision and should be pleaded explicitly if the question arises in proceedings."
+    },
+    {
+      "q": "I am a high-net-worth Indian citizen who is not tax resident anywhere. Does the deemed-resident rule still apply to me?",
+      "a": "The deeming provision for Indian citizens with substantial Indian-source income who are not liable to tax elsewhere by reason of domicile or residence is reported to continue under the new Act, now under a different section number, and such individuals continue to be treated as RNOR rather than ordinary residents."
+    },
+    {
+      "q": "Has TDS on payments to NRIs changed under the new Act?",
+      "a": "The underlying obligation to deduct tax at source on taxable payments to non-residents continues. The mechanics NRIs are used to, including DTAA relief, lower-deduction certificates, and Form 15CA/15CB for the actual remittance, have not been reported as substantively reworked, though the section numbers have moved with the Act's renumbering."
+    },
+    {
+      "q": "Do I still need to file a return if my only Indian income is capital gains with TDS already deducted?",
+      "a": "The exemption from filing in that situation is reported to continue under the new framework. If you expect no further tax liability after TDS, consider applying for a lower or NIL-TDS certificate for future transactions instead of defaulting to a refund claim after the fact."
+    }
+  ],
+  "references": [
+    "Income-tax Act, 2025, Section 6 (residential status) and its sub-sections on the day-count tests and deemed residency",
+    "Income Tax Act, 1961, Section 6(1), Section 6(1A) and Section 6(6) (predecessor residency, deemed-residency and RNOR provisions)",
+    "Income Tax Rules, 1962, Rule 37BB (TDS certification for remittances, continuing in substance under the new framework)"
+  ],
+  "sources": [
+    "https://taxguru.in/?p=1041536",
+    "https://paasa.com/blog/returning-nri-income-tax-act-2025-sections",
+    "https://www.incometaxindia.gov.in/w/section-6-1",
+    "https://gulfnews.com/business/tax-news/income-tax-bill-2025-9-itr-tax-changes-for-uae-expats-earning-income-in-india-1.500230542"
+  ],
+  "verification_notes": [
+    "Basic 182-day and 60-plus-365-day residency tests sitting in Section 6(2) of the new Act, corresponding to Section 6(1) of the 1961 Act: confirmed by the Income Tax Department's own official text on Section 6 and by taxguru.in's commentary; both describe the same substantive test with the new Act's renumbering noted.",
+    "Effective date of 1 April 2026 for the Income-tax Act, 2025, with the 2025-26 year as a transition period: confirmed by a Gulf News report and by general tax-commentary descriptions (taxguru.in, paasa.com), both stating the same effective date.",
+    "Savings provision that residential status for a tax year before 1 April 2026 is determined under the 1961 Act's Section 6 regardless of when the assessment or reassessment happens: reported by a tax commentary source (taxtmi.com note referenced in search results); this is stated carefully as a reported position since the enacted savings-clause text was not independently retrieved, and the guide does not cite a specific sub-section number for this savings provision for that reason.",
+    "Section 6(1A) to Section 6(7) mapping and RNOR moving from Section 6(6) to Section 6(13): both reported only by secondary tax-commentary sources (paasa.com and a separate blog referenced in search results), not confirmed against the enacted text directly; the guide explicitly flags these specific numbers as provisional and recommends checking the enacted Act before relying on them.",
+    "Continuation of the NRI return-filing exemption for investment income and long-term capital gains with TDS already deducted, and availability of NIL/lower-TDS certificates: reported generally by secondary commentary across the search results without a single authoritative citation, so stated in the guide as a continuing practice rather than tied to one specific numbered provision.",
+    "Left out: the exact ₹15 lakh income threshold figure for the 120-day test and the deemed-residency provision, since different secondary sources described the threshold inconsistently in parts of the search results and the figure was not independently confirmed against the enacted text in this research; the guide refers to it only as 'a specified amount' rather than stating a number that was not confirmed."
+  ]
+}

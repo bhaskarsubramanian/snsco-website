@@ -1,0 +1,107 @@
+{
+  "slug": "form-15ca-15cb-nri-remittance-guide",
+  "title": "Form 15CA and 15CB Before an NRI Remits Money Out of India: When They Apply and When They Don't",
+  "meta_description": "What Form 15CA and 15CB certify, when an NRI remittance is exempt under Rule 37BB, the Rs 5 lakh line, and the Section 271-I penalty for getting it wrong.",
+  "practice_area": "NRI Legal Services",
+  "intro": [
+    "An NRI client sells an inherited flat in Pune, clears the Section 195 tax deduction, and goes to the authorised dealer bank to send the balance to a foreign account. The bank's first question is rarely about the sale deed. It is about Form 15CA and Form 15CB, and whether the client has them. Clients who have already paid tax on the transaction are often confused about why a separate certificate is needed just to move money that has already been taxed.",
+    "The short answer is that 15CA and 15CB exist to help the Income Tax Department track outward remittances, not to assess tax a second time. But the rules on when a form is needed, which part of the form applies, and who has to sign it trip up even people who have filed them before, because the exemptions depend on the nature of the remittance rather than on whether tax was actually payable."
+  ],
+  "sections": [
+    {
+      "heading": "What Form 15CA and 15CB Actually Certify",
+      "paragraphs": [
+        "Form 15CA is a self-declaration filed by the remitter, or the person remitting on their behalf, stating the nature of the payment and whether tax has been deducted. Form 15CB is a certificate from a practising chartered accountant confirming that the remittance has been examined for its tax character and that the correct TDS has been deducted, usually under Section 195 or the applicable DTAA rate. Rule 37BB of the Income Tax Rules, 1962 sets out when each form is needed and who signs what.",
+        "The authorised dealer bank is the one that actually enforces this at the point of remittance. Its officer is not an income tax authority and is not qualified to decide whether a particular payment is taxable. The bank's job is simpler: check that the paperwork required under Rule 37BB has been produced, upload the forms where needed, and release the funds. That split matters later, because a bank sometimes refuses a remittance that is legally exempt simply because its own compliance checklist flags anything without a 15CA number."
+      ]
+    },
+    {
+      "heading": "When No Form Is Needed At All",
+      "paragraphs": [
+        "Two separate exemptions get confused with each other constantly. The first covers an individual remittance that does not require RBI approval under FEMA, including most transfers made under the Liberalised Remittance Scheme. Where no RBI approval is needed for the transfer itself, Form 15CA and 15CB are not required at all, regardless of the amount.",
+        "The second is Rule 37BB's own specified list, which excuses a payment from both forms where the nature of the payment falls within the listed categories. That list was expanded some years ago from 28 to 33 items and covers things like payments for imports of goods, business and private travel, and certain categories of remittance that are inherently not chargeable to tax in India. The list is set out in the Rules themselves and is the one document worth asking a chartered accountant to check against, rather than relying on a bank's summary of it, since commercial guides to the list are not always consistent with each other on the fine detail.",
+        "These two exemptions overlap for a lot of individual NRI remittances but are not identical, and a remittance that fails one test can still pass the other. An NRI selling shares and moving the proceeds abroad, for instance, needs to check both whether RBI approval is required for that category of outflow and whether the specific payment nature sits on the Rule 37BB list, rather than assuming one exemption covers everything."
+      ]
+    },
+    {
+      "heading": "The Five Lakh Rupee Line and Which Part of the Form Applies",
+      "paragraphs": [
+        "Once a remittance does not qualify for either exemption, the amount decides which part of Form 15CA gets filed. A straightforward way to think about it: small, non-taxable, and large-and-taxable are handled differently. Where the remittance is not chargeable to tax at all, Part D of Form 15CA is filed and no chartered accountant's certificate is needed. Where the aggregate of such remittances during the financial year is small and the sum is taxable, Part A applies on a self-declaration basis. Once the taxable remittance crosses the threshold, the remitter needs a certificate from a chartered accountant in Form 15CB before filing Part B or Part C of Form 15CA, depending on whether a certificate or order from the tax officer has already been obtained under Sections 195(2), 195(3) or 197.",
+        "There is a genuine disagreement in practice over whether this threshold is tested against each remittance separately or against the cumulative total sent during the year. A conservative advocate treats it as a running total for the financial year rather than a per-transaction figure, because that is the more cautious reading and avoids a client splitting one large remittance into smaller tranches to dodge the chartered accountant certificate, which the department would treat as an obvious attempt to avoid compliance rather than a genuine exemption."
+      ]
+    },
+    {
+      "heading": "Why the Bank Still Wants Paperwork Even Where the Law Doesn't Require It",
+      "paragraphs": [
+        "Authorised dealer banks are themselves answerable to the RBI for their foreign exchange outflows, and many of them ask for a signed declaration or a CA letter even for remittances that are technically exempt from 15CA and 15CB. This is not illegal on the bank's part. It is the bank managing its own regulatory exposure, and arguing with the branch about whether the exemption technically covers the transaction rarely gets the remittance moving any faster.",
+        "The practical approach for an NRI client is to keep the underlying documents ready before walking into the bank: the sale deed or gift deed, the Form 26AS or TDS certificate showing tax already deducted, a chartered accountant's letter even where a formal 15CB is not legally required, and a short note on which FEMA category the inflow originally came under. Banks process these requests faster when the paperwork answers questions before they are asked, rather than when a client insists on the letter of the exemption."
+      ]
+    },
+    {
+      "heading": "Getting It Wrong: The Section 271-I Penalty",
+      "paragraphs": [
+        "Section 271-I imposes a penalty for failing to furnish the information required under Section 195(6), which is the statutory backbone for Form 15CA, or for furnishing information that is inaccurate. The penalty is commonly stated as a flat Rs 1,00,000, though the provision gives the Assessing Officer discretion on whether to impose it at all, and reported tribunal decisions have both upheld and set aside such penalties depending on the facts. One reported case involved an importer penalised far above the usual figure because the penalty was applied to multiple separate transactions rather than as a single Rs 1 lakh amount, which is a reminder that the exposure can scale with the number of remittances rather than being capped once.",
+        "The more common real-world problem is not a deliberate omission but a sequencing error: the remittance goes out, the chartered accountant's certificate is obtained after the fact rather than before, and the forms get filed late. Filing the certificate and forms before the remittance, not alongside or after it, is the only way to avoid the question of whether the information was furnished in time."
+      ]
+    },
+    {
+      "heading": "Where NRIs Usually Trip Up",
+      "paragraphs": [
+        "The most frequent mistake is treating Form 15CA/15CB as interchangeable with the DTAA relief paperwork, Form 10F and the tax residency certificate. They serve different purposes. The 10F and TRC establish which country's tax treaty rate applies to the income; 15CA and 15CB certify, at the point of remittance, that the correct amount of tax has already been withheld. An NRI can have a perfectly valid tax residency certificate and still need a 15CB if the remittance itself has not yet been certified for TDS purposes.",
+        "A second recurring error is assuming that because tax was already paid through advance tax or self-assessment, no further certification is needed for the remittance. The forms are about the remittance event, not about whether the underlying income was eventually taxed correctly. A third is clients attempting to self-certify Form 15CB, which only a chartered accountant can sign, after confusing it with Form 15CA, which the remitter can file independently in the exempt categories.",
+        "Where family members in India are remitting on behalf of an NRI relative, under a power of attorney for instance, the forms are filed in the name of the remitter actually transferring the money, and the chartered accountant's certificate should reflect who that remitter is, not the NRI beneficiary abroad. Getting the named party wrong on the form is a common reason banks bounce the paperwork back."
+      ]
+    },
+    {
+      "heading": "Who Signs Form 15CB and What They Are Actually Checking",
+      "paragraphs": [
+        "A practising chartered accountant signing Form 15CB is certifying, on the basis of the documents shown, that the remittance has a particular tax character, that the rate of TDS applied is correct having regard to the Income Tax Act and any applicable DTAA, and that the amount being remitted matches what has actually been deducted and deposited. This is a professional certification with consequences for the signing accountant, not a formality, and a competent accountant will ask for the underlying sale agreement, bank statements showing the source of funds, and prior tax filings before signing.",
+        "For an NRI managing this from abroad, the practical sequence is usually to engage the chartered accountant before initiating the remittance, get the 15CB signed and the 15CA filed online through the income tax portal, and only then approach the bank with the acknowledgment numbers in hand. Doing it in that order avoids the remittance sitting in limbo at the bank while the certification catches up."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I am an NRI sending money under the Liberalised Remittance Scheme from my own NRO account. Do I need Form 15CA?",
+      "a": "If the remittance does not require RBI approval under FEMA, which covers most individual LRS-type outward transfers, Form 15CA and 15CB are not required regardless of the amount. Confirm this with a chartered accountant against the specific FEMA category of your transfer rather than assuming it automatically applies."
+    },
+    {
+      "q": "My remittance is below Rs 5 lakh. Can I skip the chartered accountant certificate?",
+      "a": "Only if the remittance is also taxable and falls below the threshold, in which case Part A of Form 15CA, a self-declaration, applies without a CA certificate. If the remittance is not taxable at all, Part D applies instead. The exemption from the CA certificate depends on the amount and the tax character together, not the amount alone."
+    },
+    {
+      "q": "My bank is asking for a 15CB even though my transaction is on the Rule 37BB exempt list. What do I do?",
+      "a": "Ask the bank in writing which category of Rule 37BB it disputes, and provide a short note from your chartered accountant confirming the exemption. Banks often ask for extra comfort beyond the legal minimum because they carry their own regulatory risk, and a written clarification usually moves things faster than disputing the requirement."
+    },
+    {
+      "q": "What happens if I remit money without filing the required forms?",
+      "a": "Section 271-I allows a penalty, commonly a flat Rs 1,00,000, for failing to furnish the required information or furnishing inaccurate information, though the Assessing Officer has discretion over whether to impose it. Reported cases show the penalty can be applied separately for multiple transactions, so the exposure is not necessarily capped at a single amount."
+    },
+    {
+      "q": "Is Form 15CA/15CB the same as the Form 10F and tax residency certificate I needed for DTAA relief?",
+      "a": "No. Form 10F and the tax residency certificate establish which tax treaty rate applies to your income. Form 15CA and 15CB certify, at the point of actually sending the money, that the correct tax has been withheld on that remittance. You may need both sets of paperwork for the same transaction."
+    }
+  ],
+  "references": [
+    "Income Tax Rules, 1962, Rule 37BB (forms for furnishing information under Section 195(6))",
+    "Income Tax Act, 1961, Section 195(6) and Section 271-I (penalty for failure to furnish information)",
+    "Foreign Exchange Management Act, 1999, Section 5 and the Liberalised Remittance Scheme",
+    "Asst. CIT v. Vinay Diamonds (2023) 105 ITR 31 (SN) (Surat)(Trib.), as reported on Rule 37BB's expanded specified list",
+    "ITA No. 24 of 2022 (ITAT), on Section 271-I penalty applied across multiple import remittance transactions"
+  ],
+  "sources": [
+    "https://taxguru.in/?p=1010093",
+    "https://itatonline.org/digest/asst-cit-v-vinay-diamonds-2023-105-itr-31-sn-surat-trib/",
+    "https://itat.gov.in/public/files/upload/1675140398-ITA No.24 of 2022.pdf",
+    "https://www.incometaxindia.gov.in/w/section-271-i",
+    "https://cleartax.in/s/form-15ca-15cb-under-rule-37bb"
+  ],
+  "verification_notes": [
+    "RBI-approval exemption for individual remittances (no 15CA/15CB where FEMA approval is not needed): confirmed by taxguru.in and nriinformation.com summaries of Rule 37BB; both state the exemption consistently.",
+    "Rule 37BB specified list expanded from 28 to 33 items: confirmed by itatonline.org digest of Asst. CIT v. Vinay Diamonds and a separate ITAT order (ITA 24/SRT/2022); exact effective date is disputed between sources (Dec 2015 vs April 2016) so no specific date is stated in the guide.",
+    "Rs 5 lakh threshold and Part A/B/C/D structure: multiple commercial sources (cleartax.in, eztax.in, kanakkupillai.com) agree on the broad structure; sources disagreed on whether the threshold is per-remittance or cumulative for the year, so the guide flags this as an open question and recommends the cautious reading rather than stating one as settled.",
+    "Section 271-I penalty amount of Rs 1,00,000 and its discretionary nature: confirmed by the Income Tax Department's own section page and by blog.tdsman.com's account of the 2015 insertion; the ITA No. 24 of 2022 filing was used only to show penalty can apply per transaction, not to state a final outcome, since that tribunal decision was not reviewed in full.",
+    "Left out: the exact current wording of all 33 items on the Rule 37BB specified list, since commercial sources gave inconsistent versions of the list and the official Appendix II text was not retrieved.",
+    "Left out: any claim about Income-tax Act 2025 renumbering of these provisions, since the search results for this topic concerned the 1961 Act numbering only."
+  ]
+}
