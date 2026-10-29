@@ -1,13 +1,14 @@
 {
-  "batch": "batch9",
-  "branch": "research-batch-9",
-  "news_target": 20,
-  "updates_target": 20,
-  "blog_target": 20,
-  "scope_from": "2026-10-08",
+  "batch": "batch10",
+  "branch": "research-batch-10",
+  "news_target": 10,
+  "updates_target": 10,
+  "blog_target": 10,
+  "scope_from": "2026-09-01",
   "note": "Edit this file (and push to the pipeline-config branch) to start a new batch: change batch, branch, targets and scope_from, and create the research branch with _drafts/<batch>/{news,updates,blog}/ first.",
   "dedupe_also_against": [
-    "research-batch-8:_drafts/batch8",
+    "origin/main (everything through batch 9 is live)",
     "verify/xv_worklist_*.json on xverify"
-  ]
+  ],
+  "PRIORITY_INSTRUCTION_FOCUS": "THIS BATCH HAS A SUBJECT FOCUS THAT OVERRIDES THE 'SPREAD ACROSS AREAS' RULE. Every item must concern NRIs, OCI/PIO holders, foreign nationals or foreign companies dealing with India, or cross-border matters. Topics: NRI property (purchase, sale, inheritance, power of attorney, occupation/encroachment, RERA/builder delay), NRI matrimonial and family (foreign divorce decree recognition, custody, maintenance, look-out circulars), NRE/NRO/FCNR accounts and FEMA, repatriation, taxation of NRIs (TDS section 195, treaty relief, residential status, 15CA/15CB, Income-tax Act 2025), foreign investment and FDI/FEMA (FC-GPR, FIRMS, Press Note 3, ODI, LLP/subsidiary/branch), enforcement of foreign decrees and foreign-seated awards, service of foreign process, cross-border contracts and stamping of foreign-executed documents, foreign nationals and Indian courts. Use practice_area 'NRI Legal Services' for NRI-specific items, otherwise the closest standard area. Real, dated, verifiable rulings and regulator notifications only; if supply is thin, widen back in time (scope_from may be ignored back to 2026-01-01) but never invent or pad. BCI Rule 36 applies: educational only, no solicitation, no claims, no 'NRI lawyer' framing, no call to contact the firm. Do not repeat any NRI topic already live (blog guides on NRI cheque bounce/POA, inherited agricultural land, foreign decree enforcement, LOC, section 195 TDS, transfer of residence, repatriation of inherited property; article on NRI succession): go to different rulings or angles."
 }
