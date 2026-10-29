@@ -919,8 +919,8 @@
     "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
     "fixes": [
       {
-        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
-        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
         "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
       },
       {
@@ -2912,6 +2912,68 @@
         "find": "The taxpayer funded a Dubai policy partly from tax-exempt non-resident Dubai salary and partly, after returning to India, from taxable Indian salary; it matured in 2016 for about USD 52,896.76.",
         "replace": "The taxpayer bought the policy from an Isle of Man insurer (Scottish Life International, later RL360) while working in Dubai, funding it partly from tax-exempt non-resident Dubai salary and partly, after returning to India, from taxable Indian salary; it matured in 2016 for about USD 52,896.76.",
         "reason": "Corrects the implication that the insurer itself was a Dubai entity."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch10/news/08-itat-pune-keskar-india-singapore-dtaa-mutual-fund-gains.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://taxguru.in/income-tax/fresh-india-singapore-dtaa-claim-allowed-appellate-stage-itat-pune.html",
+      "https://www.businesstoday.in/personal-finance/story/nri-tax-singapore-based-indian-pays-rs1-70-lakh-by-mistake-wins-refund-after-itat-upholds-dtaa-claim-563077-2026-10-22",
+      "https://upstox.com/news/personal-finance/tax/a-singapore-based-nri-paid-tax-on-17-15-lakh-in-long-term-capital-gains-from-mutual-funds-then-discovered-a-rule-making-them-exempt/article-202084/",
+      "https://itatonline.org/digest/verdicts/anushaka-sanjay-shah-ms-v-ito-it-itat-mumbai/"
+    ],
+    "note": "Independently confirmed: ITAT Pune bench (not Mumbai), order dated 12 October 2026, taxpayer Varun Hemant Keskar, a Singapore-resident NRI, Rs 17.15 lakh LTCG on mutual fund units returned and taxed in a return filed 26 June 2024, CIT(A) refusal on the procedural ground that no DTAA claim was made in the return, reliance on the coordinate Mumbai bench ruling in Anushka Sanjay Shah (treating mutual fund units as falling under the residual Article 13(5) of the India-Singapore DTAA rather than the shares-specific Article 13(4)), and remand for fresh computation with a possible Rs 1.70 lakh refund. No duplicate found on the live site (no 'Keskar' hits in search-index.json or legal-updates/index.html)."
+  },
+  {
+    "file": "_drafts/batch10/news/09-delhi-hc-whistler-whisky-transborder-reputation-piccadily.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://sunslegal.com/2026/06/24/delhi-high-court-upholds-territoriality-principle-in-whistler-whiskey-trademark-dispute/",
+      "https://spicyip.com/2026/06/when-reputation-travels-but-goods-do-not-the-delhi-hc-on-transborder-reputation-in-the-whistler-dispute.html",
+      "https://www.livelawbiz.com/amp/trademark/delhi-high-court-bars-sale-of-irish-whiskey-brand-the-whistler-in-india-in-trademark-dispute-with-piccadily-537024",
+      "https://delhihighcourt.nic.in/app/showFileJudgment/JIS29052026SC11642025_210131.pdf"
+    ],
+    "note": "Independently confirmed: case Robert A. Merry and Co. Ltd. v. Piccadily Agro Industries Ltd., CS(COMM) 1164/2025 & CS(COMM) 9/2026, Delhi High Court judgment dated 29 May 2026 (the official judgment PDF filename itself is dated 29052026) before Justice Jyoti Singh. Merry used WHISTLER internationally since 2005 without Indian registration; Piccadily registered WHISTLER in India from April 2008 and launched 'The Whistler' in 2018. Court applied the Toyota Prius territoriality principle, found no proof of pre-2018 spillover reputation in India, dismissed Merry's injunction application, and granted Piccadily an interim injunction against Merry's Indian sales. This is a different Piccadily dispute from the APTEL captive-power case already on the live site (legal-updates and search-index.json only contain the unrelated Piccadily Agro v. HERC electricity matter from Sep 2026), so no duplicate."
+  },
+  {
+    "file": "_drafts/batch10/news/10-cestat-chennai-xomox-sanmar-engineering-services-export.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.taxscan.in/top-stories/engineering-services-rendered-to-foreign-recipient-qualify-as-export-despite-certain-activities-being-performed-in-india-cestat-1451002",
+      "https://taxguru.in/service-tax/cestat-chennai-sets-service-tax-demands-exported-engineering-services.html",
+      "https://cestat.gov.in/weborders/file/chennai/202669"
+    ],
+    "note": "Core holding, appeal numbers (ST/41517/2016 and ST/42199/2016), the Commissioner of GST and Central Excise Chennai as respondent, the Consulting Engineer Service to Technical Inspection and Certification Service reclassification split at 30 June 2012, the inspection work at Sanmar Foundries' premises, the 27 February 2010 amendment dropping the 'used outside India' requirement, and the setting aside of the demands are all independently confirmed by Taxscan and TaxGuru reporting. However, independent sources consistently name the foreign group company as 'Xomox International GmbH & Co., Germany' (receiving services at USD 2,000/month in convertible foreign exchange), not simply 'Xomox Germany' as the draft states throughout; this is a party-identification detail worth correcting since it names the actual foreign recipient entity. The exact decision date could not be pinned down precisely (one source-derived digest points to late August 2026, a Taxscan report on the same ruling carries a 5 September 2026 publication date), so the draft's 1 September 2026 decision date is plausible but not independently pinned to the day. No duplicate found on the live site.",
+    "fixes": [
+      {
+        "find": "to its overseas group company, Xomox Germany. Under",
+        "replace": "to its overseas group company, Xomox International GmbH & Co., Germany. Under",
+        "reason": "The foreign recipient's full name, as reported by Taxscan and TaxGuru, is Xomox International GmbH & Co., Germany, not simply 'Xomox Germany'."
+      },
+      {
+        "find": "checking that the castings met the specifications Xomox Germany required, and billed Xomox Germany in convertible foreign exchange for the work.",
+        "replace": "checking that the castings met the specifications Xomox International GmbH & Co. required, and billed Xomox International GmbH & Co. in convertible foreign exchange for the work.",
+        "reason": "Corrects two further references to the foreign recipient's full name."
+      },
+      {
+        "find": "Xomox Germany, located outside India, was the party that had contracted",
+        "replace": "Xomox International GmbH & Co., located outside India, was the party that had contracted",
+        "reason": "Corrects the foreign recipient's name."
+      },
+      {
+        "find": "Xomox Sanmar's engineering services to Xomox Germany qualified as export",
+        "replace": "Xomox Sanmar's engineering services to Xomox International GmbH & Co. qualified as export",
+        "reason": "Corrects the foreign recipient's name."
+      },
+      {
+        "find": "the foreign recipient Xomox Germany, the reliance on the 27 February 2010",
+        "replace": "the foreign recipient Xomox International GmbH & Co., Germany, the reliance on the 27 February 2010",
+        "reason": "Corrects the foreign recipient's name in the verification notes."
       }
     ]
   }
