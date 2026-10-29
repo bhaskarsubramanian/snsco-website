@@ -1,0 +1,96 @@
+{
+  "slug": "stamp-duty-document-executed-outside-india-guide",
+  "title": "Signed a Property Document or Promissory Note Abroad? The Clock Starts the Day It Reaches India",
+  "meta_description": "What the Indian Stamp Act actually requires when a sale deed, agreement, or promissory note is first signed abroad and then brought into India for use.",
+  "practice_area": "Property & Civil Litigation",
+  "intro": [
+    "An NRI selling an inherited flat signs the sale agreement at a lawyer's office in Toronto because that is where she happens to be when the deal closes. A UK-based promoter signs a loan agreement with an Indian lender while on a work trip to London. Neither document was signed in India, and both parties often assume that because the deal, the property, and the money are all Indian, the document simply gets registered and stamped the normal way once it arrives. It doesn't. An instrument that is executed only outside India is treated differently under the Indian Stamp Act, 1899, and missing that difference is one of the more common, and more avoidable, reasons a document ends up impounded years later at the worst possible moment, usually when someone finally tries to register it or produce it in court.",
+    "This guide sets out how the stamping rules actually work for an instrument signed abroad, what the three-month clock under Section 18 covers and what it doesn't, the separate and narrower rule for bills of exchange and promissory notes under Section 19, and what actually happens when that window is missed."
+  ],
+  "sections": [
+    {
+      "heading": "The General Rule and Its Exception",
+      "paragraphs": [
+        "Section 17 of the Indian Stamp Act sets the default position: an instrument chargeable with duty and executed by any person in India has to be stamped before or at the time of execution. That is the rule most people are familiar with, because it governs the overwhelming majority of documents signed inside the country. Section 18 carves out the exception for an instrument that is executed only outside India and is not a bill of exchange or promissory note. Such an instrument may be stamped within three months after it is first received in India, rather than needing to be stamped at the moment of signing abroad, which in most cases would be impossible in any event since Indian stamp paper and the Indian stamping machinery are not generally available overseas.",
+        "The three months runs from first receipt in India, not from the date of signing. A sale agreement signed in Toronto in January but not physically or electronically received in India until April starts its three-month clock in April, not January. Establishing that receipt date convincingly, particularly for a document that travelled by courier or was emailed and then printed, is itself something parties should be able to document, because a dispute about when the document actually arrived can become the whole fight later if the stamping is challenged as late."
+      ]
+    },
+    {
+      "heading": "What Counts as 'Executed Only Outside India'",
+      "paragraphs": [
+        "The exception applies to an instrument executed only out of India, which generally means none of the signatories executed it within Indian territory. Where a document has multiple signatories and at least one of them signs in India while another signs abroad, the document may not fall within the narrow Section 18 exception at all, and parties should not assume the easier abroad-execution timeline applies just because one signatory happened to be outside the country when the papers were sent around.",
+        "This is a frequent trap in NRI family transactions, where one sibling signs a release deed or a power of attorney while visiting India and another sibling signs the identical document a few weeks later from abroad. Treating the whole package as a single out-of-India instrument because the lead signatory executed it abroad, without checking where every party actually put pen to paper, can leave the document improperly stamped from the moment of its first signature, not just a late one."
+      ]
+    },
+    {
+      "heading": "Bills of Exchange and Promissory Notes Are a Different Animal",
+      "paragraphs": [
+        "Section 19 of the Act deals separately with a bill of exchange payable otherwise than on demand, or a promissory note, drawn or made outside India. Here the obligation falls on the first holder of the instrument in India, who has to affix and cancel the proper stamp before presenting the instrument for acceptance or payment, or before endorsing, transferring, or otherwise negotiating it within India. This is a materially different mechanism from Section 18's fixed three-month window running from receipt. The trigger under Section 19 is the holder's own next dealing with the instrument in India, whichever of those acts happens first, rather than a flat calendar period.",
+        "The Act does build in a protection for a later, innocent holder. If a person in India receives the instrument already bearing what looks like a properly affixed and cancelled adhesive stamp, and has no reason to suspect anything was done improperly, that stamp is treated as validly affixed and cancelled so far as that later holder is concerned. That protection does not, however, excuse the person who actually failed to stamp the instrument correctly in the first place from whatever penalty they separately incurred for that omission."
+      ]
+    },
+    {
+      "heading": "What Happens When the Window Is Missed",
+      "paragraphs": [
+        "An instrument that was not stamped within the applicable period does not simply become void, but it becomes vulnerable the moment someone tries to rely on it, whether at a sub-registrar's office, before a court, or in any other proceeding where the document needs to be acted upon. The registering or adjudicating authority can impound it, meaning the authority retains the document and requires payment of the deficient stamp duty along with a penalty before the instrument is treated as validly stamped and the underlying transaction can proceed.",
+        "This is precisely what happened in a reported Andhra Pradesh High Court case involving a general power of attorney executed by a sister resident in Canada so that her brother could sell her residential property in India. The power of attorney was signed and notarised abroad in February 2020, was said to have reached India in early March 2020, but was not presented to the District Registrar until December 2021, well beyond the three-month window, largely because of the intervening COVID-19 disruption to travel and registration office functioning. The Registrar refused to register the document outright on the ground that it was not stamped in time. The High Court held that an outright refusal was not the correct approach: the registering authority instead had the power, and the obligation, to impound the document, collect the deficient stamp duty and the applicable penalty, and then proceed to validate and register it, rather than simply rejecting the instrument and leaving the parties with nothing to show for a transaction that was otherwise genuine."
+      ]
+    },
+    {
+      "heading": "Practical Steps for a Document Signed Abroad",
+      "paragraphs": [
+        "The single most useful habit for an NRI or a foreign party signing a document that will be used in India is to record, in writing and contemporaneously, exactly when the document was first received in India, whether by courier tracking, a dated email, or a receipt acknowledgement from whoever collected it on the Indian side. That date is what the three-month clock under Section 18 runs from, and a dispute years later about whether the document was received in January or in July is far easier to resolve with a courier record than with memory.",
+        "Where delay is genuinely unavoidable, whether through a courier failure, a lockdown, or an administrative backlog at the registering office, the better course is to present the document for stamping and registration as soon as the obstacle clears and to be upfront about the delay and its cause, rather than to let the document sit unused indefinitely in the hope that nobody ever asks. An authority faced with a document that is late but accompanied by a credible explanation and a willingness to pay the deficient duty and penalty is in a very different position than one faced with a document that someone is trying to quietly pass off as timely stamped when it plainly was not."
+      ]
+    },
+    {
+      "heading": "Where This Interacts With Registration Requirements",
+      "paragraphs": [
+        "Stamping and registration are related but separate steps, and getting the stamping right does not by itself resolve whatever registration requirement applies to the specific document. A sale deed or a gift deed of immovable property generally still needs to be registered under the Registration Act, 1908 regardless of where it was executed, and the registering authority will typically insist on proper stamping as a precondition to accepting the document for registration at all. A power of attorney executed abroad, depending on what it authorises, may also need to be adjudicated for stamp duty, notarised, and in many cases apostilled or consularised in the country of execution before an Indian registering authority will accept it, so the stamping question discussed in this guide is usually only one piece of a document chain that also has to satisfy notarisation, authentication, and registration requirements separately.",
+        "Parties who treat stamping as the only hurdle sometimes discover, after clearing the three-month window successfully, that the document still cannot be registered because the underlying authentication chain from the country of execution was never completed. The two issues should be addressed together from the outset rather than one after the other."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the three-month period under Section 18 start from the date of signing or the date of arrival in India?",
+      "a": "It starts from the date the instrument is first received in India, not the date it was signed abroad. A document signed abroad weeks or months before it is actually sent to India does not lose time on the clock during that period; the clock only begins once the document physically or validly reaches India."
+    },
+    {
+      "q": "What if a document has one signatory in India and another signatory abroad?",
+      "a": "The Section 18 exception is generally understood to apply where the instrument is executed only outside India. Where some signatories executed it within India, the document may fall outside that narrow exception, and parties should get this checked for the specific document rather than assuming the abroad-execution timeline automatically applies to the whole instrument."
+    },
+    {
+      "q": "Can a sub-registrar simply refuse to register a document that missed the three-month stamping window?",
+      "a": "Based on the Andhra Pradesh High Court's reasoning in the power of attorney case discussed above, an outright refusal is not the correct approach. The authority is expected to impound the document and collect the deficient duty and penalty, after which the document can be validated and the underlying transaction can proceed, rather than being rejected entirely."
+    },
+    {
+      "q": "Does the same three-month rule apply to a promissory note signed abroad?",
+      "a": "No. Promissory notes and bills of exchange payable otherwise than on demand are governed by the separate rule in Section 19, where the obligation falls on the first holder in India to stamp the instrument before presenting it for payment or negotiating it, rather than by a fixed three-month period running from receipt."
+    },
+    {
+      "q": "Is stamping the only thing needed for a power of attorney signed abroad to be accepted in India?",
+      "a": "No. Depending on what the power of attorney authorises, it typically also needs proper notarisation and, in most cases, apostille or consularisation in the country where it was signed, in addition to being stamped within the applicable window once it reaches India. Clearing the stamping requirement alone does not resolve these separate authentication and registration steps."
+    }
+  ],
+  "references": [
+    "Indian Stamp Act, 1899, Section 17 (general rule for instruments executed in India)",
+    "Indian Stamp Act, 1899, Section 18 (instruments executed only outside India, three-month stamping window from first receipt)",
+    "Indian Stamp Act, 1899, Section 19 (bills of exchange and promissory notes drawn or made outside India)",
+    "Pedapudi Alfred Johnson Jeyakaran Jesudasan v. State of Andhra Pradesh (Andhra Pradesh High Court, reported 2022)",
+    "Registration Act, 1908, registration requirements for instruments relating to immovable property"
+  ],
+  "sources": [
+    "https://www.advocatekhoj.com/library/bareacts/indianstamp/18.php",
+    "https://www.advocatekhoj.com/library/bareacts/indianstamp/19.php",
+    "https://www.advocatekhoj.com/library/lawreports/indianstampact/44.php",
+    "https://www.livelaw.in/amp/news-updates/andhra-pradesh-high-court-power-of-attorney-executed-outside-india-not-duly-stamped-impounded-penalty-195535",
+    "https://lawtrend.in/when-a-power-of-attorney-executed-outside-of-india-can-be-impounded-and-penalized-answers-andhra-pradesh-hc"
+  ],
+  "verification_notes": [
+    "Section 17's general stamping-at-execution rule and Section 18's exception for instruments executed only outside India, with the three-month window running from first receipt in India: confirmed directly from the bare act text (advocatekhoj) and corroborated by the Law Commission of India report's own summary of how Sections 17-19 relate to each other.",
+    "Section 19's separate rule for bills of exchange (payable otherwise than on demand) and promissory notes drawn outside India, placing the stamping obligation on the first holder in India before presentment or negotiation, and the proviso protecting a later innocent holder: confirmed from the bare act text directly.",
+    "The Andhra Pradesh High Court case (Pedapudi Alfred Johnson Jeyakaran Jesudasan v. State of Andhra Pradesh): confirmed across two independent reports (LiveLaw and LawTrend), including the dates of execution, notarisation, receipt in India, and presentation to the Registrar, and the holding that the document should be impounded and validated rather than rejected outright. No formal neutral citation or writ petition number was available in the sources checked, so none is invented here; the case is cited by name, court, and reported year only.",
+    "The general proposition that stamping and registration are related but separate requirements, and that a power of attorney executed abroad typically also needs notarisation and apostille/consularisation: stated in general terms consistent with standard practice; this guide does not restate country-specific apostille procedure, which varies by the country of execution and was outside the scope of the sources checked here."
+  ]
+}
