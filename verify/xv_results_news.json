@@ -2767,5 +2767,80 @@
       "https://www.jsalaw.com/wp-content/uploads/2026/04/JSA-Prism-Dispute-Resolution-March-2026-Osterreichischer.-FINAL.pdf"
     ],
     "note": "Fresh search independently confirms the case name, citation 2026:BHC-OS:6178, decision date 10 March 2026, the core holding that filing a Part II enforcement petition does not bar a separate Section 9 application at least until the award is recognised as a decree under Section 49, and the Part I/Part II distinction drawn by the Court. The open question on Section 9 availability post-decree is also corroborated. No duplicate found on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/01-bajoria-anti-suit-injunction-uk-divorce-supreme-court.json",
+    "verdict": "PASS",
+    "claims_checked": 4,
+    "evidence": [
+      "https://www.livelaw.in/supreme-court/anti-suit-injunction-cannot-be-granted-on-speculation-that-foreign-court-may-pass-decree-not-enforceable-in-india-supreme-court-551560",
+      "https://lawchakra.in/supreme-court/supreme-court-anti-suit-injunction-forum-non-conveniens-uk-divorce-matrimonial/",
+      "https://supremetoday.ai/mihir-prakash-bajoria-loses-appeal-supreme-court-rules-anti-suit-injunction-not-automatic-on-foreign-grounds-20260925030"
+    ],
+    "note": "Fresh search confirms case name, citation 2026 INSC 1034, decision date 22 September 2026, bench (Bhatti and Anjaria JJ), the Calcutta HC order vacating the anti-suit injunction, and the holding that an anti-suit injunction cannot rest on mere apprehension a foreign decree will prove unenforceable. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/02-kale-us-divorce-decree-not-binding-hma-supreme-court.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/kishorekumar-mohan-kale-v-kashmira-kale-foreign-decree-divorcee-validity-1610183",
+      "https://theindianlawyer.in/foreign-divorce-decree-not-binding-without-compliance-with-indian-matrimonial-law/"
+    ],
+    "note": "Fresh search confirms the case name, citation (Civil Appeal No. 1342 of 2013; 2026 LiveLaw (SC) 259), decision date 15 January 2026, bench (Vikram Nath and Sandeep Mehta JJ), the Michigan Circuit Court decree on irretrievable breakdown (US judgment dated around 13 Feb 2009), the Bombay HC judgment being set aside, and the Article 142 divorce grant. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/03-messer-griesheim-english-decree-section-13-cpc-supreme-court.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/messer-griesheim-gmbh-v-goyal-mg-gases-private-limited20072/",
+      "https://www.verdictum.in/supreme-court/messer-griesheim-gmbh-air-liquide-deutschland-gmbh-v-goyal-mg-gases-private-limited-2026-insc-401-1612613",
+      "https://www.mondaq.com/india/trials-appeals-compensation/1778946/navigating-the-boundaries-of-foreign-judgments-an-analysis-of-messer-griesheim-gmbh-v-goyal-mg-gases"
+    ],
+    "note": "Fresh search confirms the case name, citation 2026 INSC 401, decision date 21 April 2026, the English High Court decree dated 7 February 2026 [sic, 2006] for USD 5,824,564.74 (consistent with the draft's 'about USD 5.8 million'), the Section 13(b),(c),(d),(f) CPC holding, and that the English summary judgment (leave to defend refused) was not a judgment on the merits. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/04-kerala-hc-poa-abroad-must-be-registered-property-sale.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelaw.in/high-court/kerala-high-court/power-of-attorney-abroad-registered-authorises-transfer-immovable-property-543226",
+      "https://supremetoday.ai/kerala-high-court-rules-power-of-attorney-executed-abroad-must-undergo-compulsory-legal-registration-20260729041",
+      "https://www.apnilaw.com/news/civil/land-dispute-will/kerala-high-court-foreign-executed-power-of-attorney-must-be-registered-before-sale-of-property-in-india/"
+    ],
+    "note": "Fresh search confirms the case name, citation, decision date 13 July 2026, the Dubai-executed consular-authenticated power of attorney, and the Section 17(1)(g) Registration Act holding that consular authentication under Section 33 does not substitute for registration. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/05-bombay-hc-taiwan-national-employment-visa-online-education.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.verdictum.in/bombay-high-court/wu-jyun-lin-v-foreigners-regional-registration-office-writ-petition-l-no-8223-of-2026-exit-permit-issued-to-taiwanese-law-student-1618783",
+      "https://www.livelaw.in/high-court/bombay-high-court/employement-visa-can-pursue-online-education-frro-543292",
+      "https://lawyerenews.com/legal_detail/bombay-high-court-quashes-frro-exit-order-against-taiwanese-student-with-valid-visa-directs-registration"
+    ],
+    "note": "Fresh search confirms the case name, citation 2026 LiveLaw (Bom) 349, decision date 28 July 2026, the Gujarat employment, the online HR/law courses, the later LLB student visa, the FRRO's exit permit/penalty, and the quashing of that order as arbitrary since the visa's two conditions did not bar outside study. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/06-delhi-hc-nri-co-owner-access-ancestral-property.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://rawlaw.in/delhi-high-court-permits-nri-co-owner-limited-access-to-ancestral-home-long-absence-no-bar-to-enjoyment-but-safeguards-imposed-to-prevent-third-party-misuse/",
+      "https://lawyerenews.com/legal_detail/co-sharer-cant-be-locked-out-just-because-he-lives-abroad-delhi-high-court-upholds-nris-right-to-access-joint-family-property"
+    ],
+    "note": "Fresh search confirms the case name, the Swedish-resident plaintiff's 1/7th share claim, Justice Subramonium Prasad, the case number CS(OS) 73/2019, the interim access order confined to the plaintiff and immediate family with a bar on third-party occupation, and the holding that long residence abroad does not extinguish co-ownership rights. No duplicate on the live site."
+  },
+  {
+    "file": "_drafts/batch10/updates/07-rbi-compounds-jusda-india-land-border-share-issuance.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://english.punjabkesari.com/india/rbi-compounds-fema-violations-in-rs-185-crore-jusda-india-supply-chain-case/",
+      "https://enforcementdirectorate.gov.in/media/press-release-documents/3df02113-ad35-4163-b98a-fe7ec983d511_Jusda India Press Release-362026-1.pdf",
+      "https://the420.in/rbi-fema-compounding-jusda-india-supply-chain/"
+    ],
+    "note": "Fresh search, including the Enforcement Directorate's own press release, confirms the Rs 18.5 crore share issuance to land-border country entities without government approval, the ED's Section 6 complaint and no-objection, the RBI's 8 April 2026 compounding order under Section 15 FEMA, and the Rs 12,52,984 payment. No duplicate on the live site."
   }
 ]
