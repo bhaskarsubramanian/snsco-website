@@ -1,0 +1,95 @@
+{
+  "slug": "serving-summons-nri-foreign-defendant-hague-guide",
+  "title": "Serving Summons on an NRI Defendant: What the Kerala High Court Said About the Hague Service Convention",
+  "meta_description": "How Indian courts serve summons on a defendant abroad, why Order V postal service is now contested, and what a 2024 Kerala High Court ruling changed.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "A plaintiff files a suit against an NRI defendant, perhaps a relative in a property dispute or a counterparty in a commercial claim, and the registry sends the summons by post to the defendant's last known address abroad. Months pass with no response. The plaintiff's lawyer wants to move for ex parte proceedings on the basis that service by post is deemed sufficient. Whether that works depends on a question that Indian courts have only recently started answering with any consistency: does ordinary postal service under the Code of Civil Procedure actually satisfy the Hague Service Convention when the defendant lives in a country that has signed it.",
+    "This matters for anyone suing, or defending, an NRI or a foreign national in an Indian court, because getting service wrong does not just delay the case. A decree passed on defective service can be challenged later as void for want of proper service, unravelling years of litigation. This guide sets out the competing positions, what a 2024 Kerala High Court ruling held, and the practical choices available to a plaintiff who needs to serve someone abroad."
+  ],
+  "sections": [
+    {
+      "heading": "The Two Routes Under the CPC",
+      "paragraphs": [
+        "Order V Rule 25 of the Code of Civil Procedure allows a court to send a summons to a defendant residing outside India by post, where no agent is empowered to accept service on the defendant's behalf. On its face, this looks like a simple, self-contained mechanism: post the summons, and if it is not returned, treat service as effected.",
+        "A second provision, Order V Rule 26A, provides a different route, through a political agent or a court in the foreign country recognised by the Central Government for this purpose. This route has effectively fallen into disuse, since no political agents or courts appear to have been notified under the relevant provision for this purpose, leaving Rule 25's postal route as the one actually used in practice by Indian courts for decades, alongside Section 29 of the CPC, which deals with the general recognition of foreign process.",
+        "For most of that period, courts and registries treated Rule 25 as a closed question: post the summons, wait for the envelope to come back undelivered or not, and move on. The Hague Service Convention disturbs that comfortable assumption for a defendant resident in a country that has signed the Convention, which is precisely the situation most NRI defendants fall into."
+      ]
+    },
+    {
+      "heading": "Where the Hague Service Convention Complicates Things",
+      "paragraphs": [
+        "India acceded to the Hague Service Convention of 1965, which sets up an agreed mechanism, through each member country's designated Central Authority, for transmitting judicial documents between contracting states. India's accession was given effect through administrative and executive steps rather than through a dedicated piece of domestic legislation spelling out the Convention's text as part of Indian statute law.",
+        "The difficulty is Article 10 of the Convention, which allows a contracting state to object to certain alternative channels of service, including direct service by post, being used against persons within its territory. India has lodged such an objection. The practical question this creates is whether an Indian court's reliance on Order V Rule 25's postal route, when serving a defendant in a country where India has made that objection, is actually valid service under the Convention, or whether it should instead go through the Convention's own Central Authority channel.",
+        "This is not an academic point for a plaintiff's lawyer filing a suit against an NRI relative or counterparty. Getting it wrong does not usually surface immediately. It surfaces years later, when the defendant turns up after an ex parte decree has already been passed and argues that the decree is void because they were never properly served in the first place."
+      ]
+    },
+    {
+      "heading": "The 2024 Kerala High Court Ruling",
+      "paragraphs": [
+        "In Charuvila Philippose v. P.V. Sivadasan, decided by the Kerala High Court in 2024, the court addressed this uncertainty directly. According to commentary on the decision, the court held that the Hague Service Convention is enforceable in India even without a dedicated enabling statute, on the basis that India's accession through executive steps, including the establishment of a Central Authority, is sufficient to give the Convention domestic effect. The court went on to hold that where a defendant resides in a contracting state, service should generally be carried out through the mode contemplated by the Convention, rather than defaulting to ordinary postal service under the CPC.",
+        "This decision also revisited an earlier Kerala High Court ruling, Mollykutty v. Nicey Jacob, which had held that once the Convention's own transmission mechanism applies, summons cannot simply be sent directly to a person residing abroad outside that mechanism. Read together, the two decisions push firmly toward treating the Convention's channel as the primary mode for contracting states, with Order V Rule 25 postal service available, at most, as a fallback in narrower circumstances.",
+        "This exact citation for the 2024 decision is reported by a legal research aggregator rather than confirmed against an official law report in the course of this research, so a lawyer relying on the case for a filing should pull the judgment directly from the Kerala High Court's own records or a subscription database before citing it, rather than relying on a secondary summary of the holding."
+      ]
+    },
+    {
+      "heading": "Why the Picture Is Still Not Fully Settled",
+      "paragraphs": [
+        "Separate commentary on this area states the opposite proposition with similar confidence: that Indian courts have affirmed postal service under Order V Rule 25 as valid under the Convention provided the receiving country has not lodged an Article 10 objection to that mode. This is not actually inconsistent with the Kerala High Court's position once the country-by-country detail is factored in. Article 10 objections vary by country. A defendant resident in a country that has not objected to postal service under Article 10 may still be validly served by post; a defendant resident in a country that has objected, or where India's own reciprocal objection is relevant, is a different matter.",
+        "This is why a lawyer handling service on an NRI or foreign defendant cannot treat this as a single rule to memorise. The first step in every case is checking the specific Article 10 position of the country where the defendant resides, which is published by the Hague Conference on Private International Law and updated as countries change their declarations, rather than assuming either that postal service always works or that it never does.",
+        "Bilateral arrangements add a further layer. The research mutual legal assistance arrangement between India and the United States, for instance, is reported to specify its own precise procedure for serving notices or summons on individuals in that country, which can displace the general Convention analysis for that jurisdiction specifically."
+      ]
+    },
+    {
+      "heading": "Practical Steps for Serving an NRI or Foreign Defendant",
+      "paragraphs": [
+        "Identify the country of residence first, and check whether it is a Hague Convention contracting state. If it is not, the Convention analysis does not apply at all, and the CPC's general provisions on service outside India, including Order V Rule 25, operate without the Article 10 complication.",
+        "If it is a contracting state, check that country's Article 10 declaration before choosing a service method. Where the country has objected to postal and other informal channels, route the summons through India's Central Authority to the destination country's Central Authority under the Convention's own mechanism, rather than relying on Rule 25 postal service, since a subsequent challenge to a decree on grounds of defective service is far more disruptive than the delay of using the proper channel upfront.",
+        "Where deemed service is sought because no certificate of service has come back, Article 15 of the Convention sets conditions that must be satisfied before a court can proceed on that basis, and a plaintiff should not assume that silence alone is enough without checking those conditions. Keep a clear record of every step taken to effect service, since this record becomes the first thing scrutinised if the defendant later challenges an ex parte decree for want of proper service."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I always serve an NRI defendant by ordinary post under Order V Rule 25?",
+      "a": "It depends on where they live. If their country of residence has objected to postal and similar informal service channels under Article 10 of the Hague Service Convention, courts are moving toward requiring service through the Convention's Central Authority mechanism instead. Check the specific country's declaration before assuming postal service will hold up."
+    },
+    {
+      "q": "What did the Kerala High Court actually decide in the 2024 Charuvila Philippose case?",
+      "a": "According to reported commentary, the court held that the Hague Service Convention has domestic effect in India through executive accession alone, and that service on a defendant in a contracting state should generally follow the Convention's own mode rather than defaulting to ordinary postal service. Verify the judgment text directly before citing it in a filing, since this account relies on secondary commentary."
+    },
+    {
+      "q": "What happens if I serve a defendant incorrectly and the case proceeds ex parte?",
+      "a": "A decree passed on defective service can be challenged later as void or voidable for want of proper service, which can unravel the proceedings well after they appear to have concluded. Getting the service method right at the outset is considerably cheaper than defending that challenge years later."
+    },
+    {
+      "q": "Does this apply if the defendant lives in a country that has not signed the Hague Service Convention?",
+      "a": "No. The Article 10 analysis only applies where the defendant's country of residence is a contracting state to the Convention. For non-contracting states, the general provisions of the CPC on service outside India, including Order V Rule 25's postal route, apply without that additional layer."
+    },
+    {
+      "q": "Is there a faster alternative to formal service abroad?",
+      "a": "Courts sometimes permit service by email or other electronic means alongside the formal mode, particularly where a defendant's physical address abroad is uncertain, but this is decided case by case and does not substitute for completing the proper Convention or CPC channel where that is required. Discuss this option with your lawyer on the specific facts rather than assuming it is available by default."
+    }
+  ],
+  "references": [
+    "Code of Civil Procedure, 1908, Order V Rules 25 and 26A (service of summons on defendants residing outside India)",
+    "Code of Civil Procedure, 1908, Section 29 (service of foreign summons)",
+    "Hague Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, 1965, Articles 10 and 15",
+    "Charuvila Philippose v. P.V. Sivadasan, Kerala High Court, 2024 (as reported)",
+    "Mollykutty v. Nicey Jacob, Kerala High Court (as discussed in subsequent commentary)"
+  ],
+  "sources": [
+    "https://conflictoflaws.net/2025/charuvila-philippose-v-p-v-sivadasan-harmonizing-indias-civil-procedure-code-and-the-hague-service-convention/",
+    "https://supremetoday.ai/issue/hague-service-convention-india-courts",
+    "https://www.livelaw.in/amp/articles/hague-convention-on-the-service-abroad-1965-litigation-and-explanation-247360",
+    "https://undisputedlegal.com/?p=61082"
+  ],
+  "verification_notes": [
+    "Core holding of Charuvila Philippose v. P.V. Sivadasan (Hague Convention enforceable through executive accession without enabling legislation; Convention mode should generally be used for contracting states) and its revisiting of Mollykutty v. Nicey Jacob: confirmed by two sources, the conflictoflaws.net academic blog post and the supremetoday.ai case aggregator summary, both describing the same substantive holding.",
+    "Exact neutral citation for the 2024 decision ('2024 0 Supreme(Ker) 1235') and whether it was a Full Bench: reported only by the supremetoday.ai aggregator; this was not confirmed against a second source or an official report, so the guide does not state the citation number and explicitly flags this for independent verification before use in a filing.",
+    "Article 10 objection mechanism and India's reciprocal objection to informal service channels: described consistently across livelaw.in's explanatory article and undisputedlegal.com's practitioner note, though the two sources reach different practical conclusions about whether Rule 25 postal service currently works for India, which the guide reflects as an unsettled, country-dependent question rather than resolving it one way.",
+    "Order V Rule 26A being effectively unused because no political agents or courts have been notified under it: reported by livelaw.in's explanatory article; not independently cross-checked against a second source, so stated cautiously as a reported fact about practice rather than a settled legal conclusion.",
+    "India-US mutual legal assistance arrangement on service of process: mentioned by livelaw.in's article only; included in general terms without asserting its specific procedural content, since only one source covered it.",
+    "Left out: any claim about which other countries besides the US have bilateral service arrangements with India, since search results did not cover this, and left out any specific time limit for completing Convention-based service, since this was not confirmed in the results."
+  ]
+}
