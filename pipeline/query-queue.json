@@ -1,0 +1,220 @@
+{
+  "purpose": "Curated prospective-client questions to answer on snsco.in. Educational answers only (BCI Rule 36). Not yet researched or written. Source: legal-query-bank in firm profile/seo-deliverables.",
+  "answer_standard": [
+    "Answer the question directly in the first paragraph, in general terms, as on a stated date",
+    "State the governing statute, forum, time limits and procedure; confirm every provision and case from two sources",
+    "Say plainly where the law is unsettled or differs by State",
+    "No call to contact the firm, no 'we can help', no fee or free-consultation language, no results or experience claims",
+    "No client stories, names or outcomes; hypotheticals labelled as such",
+    "Link to related guides, articles and the glossary; no comparisons with other lawyers"
+  ],
+  "queue": [
+    {
+      "id": "limitation-periods-common-civil-claims-guide",
+      "query": "How long do I have to file a case? Limitation periods for common claims",
+      "practice_area": "Process and Courts",
+      "format": "blog guide",
+      "angle": "Limitation Act 1963: money recovery, possession, contract, consumer and cheque windows; when time starts; acknowledgment; condonation of delay; exclusion where a mediation step is required",
+      "verify": "Limitation Act 1963 Schedule articles and Sec 3, 5, 12, 18; Consumer Protection Act Sec 69; NI Act Sec 138 proviso; Sec 12A Commercial Courts Act; recent SC rulings",
+      "priority": "A"
+    },
+    {
+      "id": "legal-notice-how-to-send-and-reply-guide",
+      "query": "How to send a legal notice, what it must contain and what happens next",
+      "practice_area": "Process and Courts",
+      "format": "blog guide",
+      "angle": "When a notice is mandatory (Sec 80 CPC against government, Sec 138 NI Act, some statutes) and when optional; contents; modes of service; replying to a notice; effect on limitation",
+      "verify": "CPC Sec 80; NI Act Sec 138(b) and 142; evidentiary value; current BNSS/BSA references where relevant",
+      "priority": "A"
+    },
+    {
+      "id": "stages-and-timeline-of-a-civil-suit-guide",
+      "query": "Stages of a civil suit in India: from plaint to execution, and why it takes time",
+      "practice_area": "Process and Courts",
+      "format": "blog guide",
+      "angle": "Plaint, summons, written statement, issues, evidence, arguments, decree, appeal, execution; commercial suit fast track; mediation and Lok Adalat",
+      "verify": "CPC Orders IV to XXI; Commercial Courts Act timelines; Order XIII-A; execution under Sec 51",
+      "priority": "A"
+    },
+    {
+      "id": "ancestral-property-sale-without-consent-coparceners-guide",
+      "query": "Can the karta sell ancestral property without the consent of other family members?",
+      "practice_area": "Property & Civil Litigation",
+      "format": "blog guide",
+      "angle": "Coparcenary property, karta's powers, legal necessity, 2005 amendment, Vineeta Sharma v Rakesh Sharma (2020), how a sale is challenged, limitation",
+      "verify": "Hindu Succession Act Sec 6 as amended in 2005; Vineeta Sharma (2020) 9 SCC 1; limitation articles for setting aside alienations",
+      "priority": "A"
+    },
+    {
+      "id": "daughters-share-in-fathers-property-hindu-law-guide",
+      "query": "Daughters' share in a father's property under Hindu law: what the Supreme Court has settled",
+      "practice_area": "Wills & Succession",
+      "format": "blog guide",
+      "angle": "Self-acquired versus ancestral property, intestate versus will, coparcenary rights since 2005, Vineeta Sharma, death before the amendment, short contrast with other personal laws",
+      "verify": "Hindu Succession Act Sec 6 and 8; Vineeta Sharma (2020); Arunachala Gounder (2022) on self-acquired property of a male Hindu dying intestate",
+      "priority": "A"
+    },
+    {
+      "id": "breach-of-contract-or-cheating-civil-vs-criminal-guide",
+      "query": "Breach of contract or cheating? When a business dispute can and cannot become a criminal case",
+      "practice_area": "Commercial Litigation",
+      "format": "blog guide",
+      "angle": "Dishonest intention at inception, BNS Sec 316 and 318 versus civil remedies, quashing of complaints that give a civil dispute a criminal colour, recent SC rulings",
+      "verify": "BNS Sec 316 and 318; Sec 528 BNSS; SC rulings on civil disputes given criminal colour (verify each)",
+      "priority": "A"
+    },
+    {
+      "id": "business-partner-siphoning-funds-civil-criminal-options-guide",
+      "query": "A business partner or co-director is siphoning funds: civil and criminal routes compared",
+      "practice_area": "Commercial Litigation",
+      "format": "blog guide",
+      "angle": "Accounts and injunction suits, dissolution under the Partnership Act, oppression at the NCLT, criminal breach of trust, evidence to preserve, forum choices",
+      "verify": "Partnership Act Sec 40 and 44; Companies Act Sec 241; BNS Sec 316; Commercial Courts Act",
+      "priority": "A"
+    },
+    {
+      "id": "tenant-rights-and-eviction-delhi-up-rent-laws-guide",
+      "query": "Tenant and landlord rights in Delhi and Uttar Pradesh: eviction grounds and the rent laws that apply",
+      "practice_area": "Property & Civil Litigation",
+      "format": "blog guide",
+      "angle": "Delhi Rent Control Act 1958 and its exemption, the Uttar Pradesh urban tenancy legislation (older 1972 Act versus the 2021 Act), Rent Authority, civil court for exempt premises",
+      "verify": "Verify current status and commencement of the UP 2021 Act; Delhi RC Act Sec 3(c) exemption and Sec 14 grounds; recent rulings",
+      "priority": "A"
+    },
+    {
+      "id": "rent-agreement-registration-notice-deposit-guide",
+      "query": "Rent agreement: registration, notice period and security deposit disputes",
+      "practice_area": "Property & Civil Litigation",
+      "format": "blog guide",
+      "angle": "11-month agreements, registration, stamp duty, lock-in and notice, deposit refund, unregistered agreements as evidence",
+      "verify": "Registration Act Sec 17 and 49; Indian Stamp Act; State stamp schedules for UP and Delhi",
+      "priority": "A"
+    },
+    {
+      "id": "quashing-an-fir-high-court-section-528-bnss-guide",
+      "query": "How an FIR can be quashed in the High Court: Section 528 BNSS and the settled tests",
+      "practice_area": "Commercial Litigation",
+      "format": "blog guide",
+      "angle": "Inherent power, Bhajan Lal categories, settlement and compounding, civil colour, procedure and interim protection",
+      "verify": "BNSS Sec 528 (old CrPC 482); State of Haryana v Bhajan Lal (1992); Gian Singh (2012); recent SC rulings (verify)",
+      "priority": "A"
+    },
+    {
+      "id": "section-138-complaint-or-civil-recovery-suit-guide",
+      "query": "Cheque bounce: file a Section 138 complaint, a civil recovery suit or both?",
+      "practice_area": "Banking & Finance",
+      "format": "blog guide",
+      "angle": "Parallel remedies, limitation, interim compensation, statutory presumption, summary suit option, factors for choosing a route, no outcome claims",
+      "verify": "NI Act Sec 138, 139, 142, 143A, 147; Order XXXVII CPC; SC rulings on parallel proceedings",
+      "priority": "A"
+    },
+    {
+      "id": "uttar-pradesh-stamp-duty-circle-rate-registry-process-guide",
+      "query": "Buying property in Noida and Uttar Pradesh: stamp duty, circle rates and the registry process",
+      "practice_area": "Real Estate & RERA",
+      "format": "blog guide",
+      "angle": "Stamp duty and registration charges in UP, circle rate versus market value, steps at the sub-registrar, mutation after registry, concessions, valuation disputes",
+      "verify": "UP stamp notifications (verify current rates); Registration Act; Sec 47A Stamp Act as applicable in UP",
+      "priority": "A"
+    },
+    {
+      "id": "stuck-builder-project-noida-homebuyer-remedies-guide",
+      "query": "A stalled builder project in Noida or Greater Noida: what homebuyers can do and where",
+      "practice_area": "Real Estate & RERA",
+      "format": "blog guide",
+      "angle": "UP RERA complaint, recovery certificate, consumer forum, IBC Sec 7 as a homebuyer, authority dues and registry, Supreme Court directions on Noida projects",
+      "verify": "UP RERA Act and rules; Sec 5(8)(f) IBC; Supreme Court directions on Noida projects (verify); link existing RERA-versus-consumer guides",
+      "priority": "A"
+    },
+    {
+      "id": "illegal-construction-demolition-notice-urban-planning-guide",
+      "query": "Demolition or sealing notice for an unauthorised construction: the notice, hearing and appeal route",
+      "practice_area": "Property & Civil Litigation",
+      "format": "blog guide",
+      "angle": "Show cause, personal hearing, appeal under State urban planning law, writ limits, compounding or regularisation where available",
+      "verify": "UP Urban Planning and Development Act 1973 (verify sections); Delhi Municipal Corporation Act; recent HC rulings",
+      "priority": "A"
+    },
+    {
+      "id": "noida-farmers-additional-compensation-land-acquisition-guide",
+      "query": "Land acquired in Noida and Greater Noida: additional compensation and abadi plot claims",
+      "practice_area": "Property & Civil Litigation",
+      "format": "blog guide",
+      "angle": "Compensation framework, Supreme Court and Allahabad High Court rulings on additional compensation, reference under Sec 18, limitation, RFCTLARR Sec 24",
+      "verify": "Land Acquisition Act 1894 Sec 18 and 28A; RFCTLARR Act 2013; Supreme Court rulings on Noida acquisitions (verify)",
+      "priority": "A"
+    },
+    {
+      "id": "industrial-plot-lease-cancellation-allotment-dispute-authority-guide",
+      "query": "Industrial plot allotment or lease cancelled by a development authority: grounds, notice and remedies",
+      "practice_area": "Commercial Litigation",
+      "format": "blog guide",
+      "angle": "Noida, Greater Noida, YEIDA and State industrial authorities: default notices, restoration, writ versus civil suit versus arbitration, Supreme Court principles",
+      "verify": "Authority regulations (verify); Article 226 limits; Supreme Court on cancellation of allotments",
+      "priority": "A"
+    },
+    {
+      "id": "free-legal-aid-eligibility-nalsa-dlsa-guide",
+      "query": "Free legal aid in India: who is eligible and how to apply",
+      "practice_area": "Process and Courts",
+      "format": "blog guide",
+      "angle": "Legal Services Authorities Act 1987, NALSA, State and District Legal Services Authorities, Lok Adalats, Tele-Law, how to apply; informational only",
+      "verify": "Legal Services Authorities Act 1987 Sec 12 and 19 to 22; NALSA scheme pages",
+      "priority": "B"
+    },
+    {
+      "id": "mediation-and-lok-adalat-settlement-routes-guide",
+      "query": "Mediation and Lok Adalat: settlement routes that can end a dispute without a trial",
+      "practice_area": "Process and Courts",
+      "format": "blog guide",
+      "angle": "Mediation Act 2023, court-annexed mediation, Lok Adalat awards as decrees, pre-institution mediation under Sec 12A, enforceability",
+      "verify": "Mediation Act 2023; Legal Services Authorities Act Sec 21; Sec 12A Commercial Courts Act",
+      "priority": "B"
+    },
+    {
+      "id": "police-summons-or-court-notice-how-to-respond-guide",
+      "query": "A police notice, summons or court notice has arrived: what each is and how it is answered",
+      "practice_area": "Commercial Litigation",
+      "format": "blog guide",
+      "angle": "Notice under BNSS Sec 35, summons, warrant, bailable and non-bailable offences, appearance, document production; general process only",
+      "verify": "BNSS Sec 35, 63 to 71 and 479; no case-specific advice",
+      "priority": "B"
+    },
+    {
+      "id": "defamation-civil-and-criminal-remedies-guide",
+      "query": "Defamation in India: civil damages, criminal complaint and online content",
+      "practice_area": "Commercial Litigation",
+      "format": "blog guide",
+      "angle": "Civil suit for damages and injunction, BNS Sec 356, exceptions, online statements, limitation, Supreme Court on constitutionality",
+      "verify": "BNS Sec 356; Subramanian Swamy v Union of India (2016); recent HC injunction principles",
+      "priority": "B"
+    },
+    {
+      "id": "recovery-agents-harassment-rbi-rules-borrower-rights-guide",
+      "query": "Recovery agents and harassment: what lenders may and may not do under RBI rules",
+      "practice_area": "Banking & Finance",
+      "format": "blog guide",
+      "angle": "RBI recovery agent guidelines, fair practices code, Supreme Court on repossession by force, complaint routes (bank, ombudsman, police)",
+      "verify": "RBI Master Directions on recovery agents; Supreme Court repossession ruling already on site as news (link); RBI ombudsman scheme",
+      "priority": "B"
+    },
+    {
+      "id": "partnership-firm-dissolution-settling-dues-guide",
+      "query": "Dissolving a partnership firm and settling accounts and dues",
+      "practice_area": "Corporate Law & M&A",
+      "format": "blog guide",
+      "angle": "Modes of dissolution, court dissolution, accounts, goodwill, outgoing partner valuation (link to the SC ruling already on site), effect of non-registration",
+      "verify": "Partnership Act Sec 39 to 55",
+      "priority": "B"
+    },
+    {
+      "id": "legal-heir-certificate-how-to-apply-delhi-up-guide",
+      "query": "Legal heir certificate: how to apply in Delhi and Uttar Pradesh and what it can be used for",
+      "practice_area": "Wills & Succession",
+      "format": "blog guide",
+      "angle": "Issuing authority, documents, limits compared with a succession certificate, use for banks and utilities, State portals",
+      "verify": "State procedures and e-District portals (verify current); link existing succession certificate guides",
+      "priority": "B"
+    }
+  ]
+}
