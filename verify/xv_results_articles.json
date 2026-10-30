@@ -1,507 +1,538 @@
 [
- {
-  "file": "_drafts/articles/01-arbitration-after-balasamy-core-unstamped-agreements-article.json",
-  "verdict": "PASS",
-  "claims_checked": 14,
-  "evidence": [
-   "https://www.scobserver.in/cases/courts-power-to-modify-an-arbitral-award-gayatri-balasamy-v-m-s-isg-novasoft-technologies-ltd/",
-   "https://www.livelaw.in/amp/top-stories/arbitration-clauses-in-unstamped-agreements-enforceable-supreme-court-7-judge-bench-overruled-nn-global-decision-244387",
-   "https://www.scconline.com/blog/post/2024/11/08/unilateral-appointment-arbitrator-public-private-contracts-violate-article-14-supreme-court",
-   "https://dailyjus.com/world/2025/07/why-the-minority-view-got-it-right-in-gayatri-balasamy"
-  ],
-  "note": "Independently re-verified via fresh searches: In Re Interplay (13 Dec 2023, seven-judge bench, unanimous, overruled N.N. Global/SMS Tea Estates, partially overruled Garware), N.N. Global (April 2023, five-judge, 3:2, Joseph/Bose/Ravikumar/Rastogi/Roy JJ), CORE II (8 Nov 2024, five-judge bench of Chandrachud CJI, Roy, Pardiwala, Narasimha, Misra JJ, Article 14 holding, prospective effect for 3-member panels, includes the Section 12(5)/Seventh Schedule ineligible-nomination point via the companion JSW Steel reference), the overruled 2020 CORE decision correctly cited as (2020) 14 SCC 712, Gayatri Balasamy (30 Apr 2025, 2025 INSC 605, 4:1, CJI Khanna with Gavai/Sanjay Kumar/Masih JJ in majority, Viswanathan J dissenting on the four categories but concurring on clerical-error correction) and NHAI v M Hakeem (10 July 2021, 2021 INSC 344). Dissent's reliance on 1940 Act Sections 15-16, UNCITRAL alignment and New York Convention enforceability risk confirmed via independent commentary. No Arbitration Act amendment has been enacted as of Oct 2026 (the 2024 draft Bill remains at consultation stage), consistent with the article's 'as of this article' statement. All six related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language present. The draft's own verification_notes already and correctly flag the handful of citations (TRF v Energo, Voestalpine, precise neutral citations for In Re Interplay and CORE II) that could not be cross-verified against two independent sources, rather than asserting invented precision, which is good practice."
- },
- {
-  "file": "_drafts/articles/02-ibc-amendment-act-2026-reform-article.json",
-  "verdict": "PASS",
-  "claims_checked": 16,
-  "evidence": [
-   "https://www.maheshwariandco.com/press-release/ibc-amendment-act-2026/",
-   "https://www.verdictum.in/court-updates/supreme-court/power-trust-v-bhuvan-madan-2026insc166-cirp-adjudicating-authority-insolvency-resolution-section-7-1608009",
-   "https://www.barandbench.com/law-firms/view-point/the-insolvency-and-bankruptcy-code-amendment-act-2026-a-comprehensive-analysis",
-   "https://blog.ipleaders.in/cross-border-and-group-insolvency-under-the-ibc-amendment-act-2026/"
-  ],
-  "note": "Independently re-verified: Presidential assent 6 April 2026 (Act No. 6 of 2026, passed Lok Sabha 30 Mar, Rajya Sabha 1 Apr) and commencement of most provisions from 26 May 2026 confirmed. Power Trust v Bhuvan Madan is a real decision, 2026 INSC 166, decided 18 Feb 2026 (CJI Surya Kant bench, Civil Appeal No. 2211/2024), and independently confirmed to hold that Vidarbha's observations are confined to its own facts and that Innoventive's narrow debt-and-default inquiry at Section 7 admission still governs; viability and part-settlement arguments were rejected as grounds to resist admission - matches the draft's characterisation. CIIRP (Chapter IV-A, 51% financial-creditor threshold, 150 days +45 day extension, confined to Central-Government-notified institutions) confirmed, including the genuine, unresolved conflict in commentary over whether it is actually notified for use, which the draft correctly flags as unsettled rather than asserting either way. Section 33(1A) restart (66% CoC threshold, one-time, 120-day window, effective 26 May 2026, Regulation 40F procedure) confirmed via Bar & Bench and an IBBI-published NCLT order. Chapter VA group insolvency and Section 240C cross-border provisions being carved out of the May 2026 commencement notification with no rules framed, and the draft's explicit correction of commentary that wrongly describes India as having adopted the UNCITRAL Model Law, independently confirmed via iPleaders' dedicated analysis, which also separately confirms tribunals are still handling such cases through ad hoc judicial improvisation. Innoventive (2018) 1 SCC 407 and Vidarbha (2022) 8 SCC 352 citations, dates and holdings are consistent with established case law. All six related_pages paths exist in origin/main:assets/search-index.json. No Section 29A or Section 9 amendment was found in any source, consistent with the draft's stated absence of findings on that point. No client anecdotes or marketing language present. The draft is unusually careful throughout to flag genuinely conflicting secondary sources (CIIRP operational status, the 25 vs 26 May commencement date) as open questions rather than resolving them by invention, which is exactly the right approach for a fast-moving, recently enacted statute."
- },
- {
-  "file": "_drafts/articles/03-dpdp-act-compliance-clock-article.json",
-  "verdict": "PASS",
-  "claims_checked": 13,
-  "evidence": [
-   "https://www.azbpartners.com/bank/indias-digital-personal-data-protection-act-phased-rollout-and-key-compliance-milestones/",
-   "https://amlegals.com/penalties-under-the-digital-personal-data-protection-act2023/",
-   "https://www.sansalegal.com/post/how-to-appeal-a-data-protection-board-order-to-the-appellate-tribunal",
-   "https://www.miniorange.com/blog/dpdp-consent-manager-registration/"
-  ],
-  "note": "Independently re-verified: DPDP Rules, 2025 notified 13/14 November 2025 (date reported inconsistently across sources, matching the draft's own deliberate 'mid-November 2025' hedge) with a three-phase commencement (immediate: Board constitution, Rules 1-2 and 17-21; +12 months, mid-Nov 2026: consent manager registration under Rule 4; +18 months, mid-May 2027: substantive obligations) confirmed. Penalty Schedule figures (250 crore security safeguards/s.8(5), 200 crore each for breach notification/s.8(6) and children's data/s.9, 150 crore significant data fiduciary/s.10, 50 crore residual, assessed per instance not as an annual cap) independently confirmed across two sources matching exactly. Appeal route (Board order to TDSAT within 60 days, s.29, further appeal to Supreme Court on questions of law under s.30) confirmed, including TDSAT's own six-month disposal mandate. Consent manager conditions (Rule 4, Part A First Schedule, 2 crore net worth up from a 20-million draft figure, Indian incorporation, independent interoperability certification with technical standards still pending from the Board) confirmed. Children's data provisions (18-year threshold, verifiable parental/guardian consent, Digital Locker/Rule 10 identity verification route, bar on tracking and targeted advertising to minors subject to limited exceptions) confirmed, though most detailed commentary available was still describing the January 2025 draft rather than confirming final Rules text, which the article's own verification_notes already and correctly flag as a limitation rather than asserting false certainty. Cross-border transfer blacklist model (Rule 15, transfer permitted unless a destination is specifically restricted, no restricted-country notification found) confirmed, as was the genuine, unresolved status of the breach-notification '72 hours' figure, which independent sources likewise could trace only to the January 2025 draft rather than confirmed final Rules text; the article's explicit hedging on this exact point ('reported in current compliance commentary... has not been entirely uniform') is accurate and appropriately cautious rather than an error. Both related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language present. This draft's verification_notes are unusually disciplined about flagging precisely the points (exact notification day, further-appeal forum, breach-notification hour figure, survival of the critical-personal-data cross-border rule) where the underlying Rules text could not be confirmed, rather than resolving them by invention."
- },
- {
-  "file": "_drafts/articles/04-generative-ai-indian-intellectual-property-article.json",
-  "verdict": "FIX",
-  "claims_checked": 16,
-  "evidence": [
-   "https://corporate.cyrilamarchandblogs.com/2026/07/ani-v-open-ai-delhi-high-court-refuses-interim-injunction-in-landmark-ai-copyright-dispute/",
-   "https://www.intepat.com/blog/dabus-copyright-order-india-ai-authorship",
-   "https://blog.galalaw.com/post/102micu/indias-2026-it-rules-amendment-regulating-ai-generated-content-and-accelerating",
-   "https://www.storyboard18.com/how-it-works/aishwarya-rai-bachchan-moves-delhi-high-court-to-safeguard-personality-rights-80576.htm",
-   "https://www.livelaw.in/amp/top-stories/delhi-high-court-anil-kapoor-voice-image-misuse-personality-rights-238217",
-   "https://globalfreedomofexpression.columbia.edu/wp-content/uploads/2025/03/arijit-singh-vs-codible-ventures-llp-552701.pdf",
-   "https://www.outlookbusiness.com/deeptech/artificial-intelligence/inside-indias-ai-trademark-wars-gemini-chatgpt-grok-and-the-legal-fights-over-naming-rights",
-   "https://storyboard18.com/digital/belagavi-startup-sues-anthropic-over-brand-name-court-posts-next-hearing-for-march-23-91735.htm"
-  ],
-  "note": "Independently re-verified via fresh searches. ANI v OpenAI (CS(COMM) 1028/2024, interim order 24 July 2026, Justice Amit Bansal, Section 52(1)(a) fair dealing on training, no substantial reproduction found on outputs, jurisdiction upheld) matches the draft. Anil Kapoor v Simply Life India (CS(COMM) 652/2023, 20 Sept 2023, Prathiba Singh J), Jackie Shroff v Peppy Store (15 May 2024, Sanjeev Narula J), Arijit Singh v Codible Ventures (Bombay HC, ex parte ad interim, 26 July 2024, R.I. Chagla J, IA(L) 23560/2024 in Com IPR Suit(L) 23443/2024), and Aishwarya Rai Bachchan v Aishwaryaworld.com (CS(COMM) 956/2025, 9 Sept 2025, Tejas Karia J) all confirmed. IT Rules 2026 amendment (G.S.R. 120(E), notified 10 Feb 2026, effective 20 Feb 2026, SGI definition, 3-hour takedown window) confirmed. Trade mark oppositions (ChatGPT/Flaxxi AI, Gemini/Sun TV, Grok/Groke) and the pending Anthropic Softwares v Anthropic PBC Belagavi suit confirmed as still undecided, consistent with the draft. One factual correction: the DABUS Registrar of Copyrights order rejecting DABUS as author is dated 31 August 2026 (confirmed by spicyip.com, intepat.com, supremetoday.ai and ksandk.com), not \"around September 2026\" as the draft hedges; the draft itself flagged this date as unconfirmed in its verification_notes, and a precise date is now available. Both related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or result claims found (BCI Rule 36 compliant).",
-  "fixes": [
-   {
-    "find": "the Registrar of Copyrights held, by around September 2026, that the image met the originality threshold",
-    "replace": "the Registrar of Copyrights held, on 31 August 2026, that the image met the originality threshold",
-    "reason": "Exact order date is confirmed by multiple sources as 31 August 2026, not the hedged \"around September 2026\""
-   },
-   {
-    "find": "Registrar of Copyrights order following Delhi High Court direction of April 2026, decided around September 2026",
-    "replace": "Registrar of Copyrights order dated 31 August 2026, following Delhi High Court direction of April 2026",
-    "reason": "Exact order date now confirmed"
-   },
-   {
-    "find": "the Registrar's rejection of DABUS as author (reported around September 2026) are confirmed by business-standard.com, ksandk.com and organiser.org. The precise calendar date of the Registrar's order was not found in any source and is therefore given only as 'around September 2026'.",
-    "replace": "the Registrar's rejection of DABUS as author, dated 31 August 2026, are confirmed by business-standard.com, ksandk.com, intepat.com and supremetoday.ai.",
-    "reason": "Precise order date (31 August 2026) is now confirmed by independent re-verification"
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/05-bns-bnss-bsa-criminal-law-two-years-article.json",
-  "verdict": "PASS",
-  "claims_checked": 15,
-  "evidence": [
-   "https://www.livelaw.in/amp/top-stories/supreme-court-to-decide-if-s223-bnss-will-apply-when-cognizance-is-taken-of-complaints-filed-before-july-1-2024-300985",
-   "https://www.verdictum.in/court-updates/supreme-court/sumit-bansal-v-mgi-developers-and-promoters-2026-insc-40-section-138-ni-act-1603951",
-   "https://blog.ipleaders.in/organised-crime-under-bns-section-111/",
-   "https://www.verdictum.in/allahabad-high-court/ravi-alias-ravindra-singh-v-state-of-up-2026ahc101857-mandatory-trial-in-absentia-1613587",
-   "https://www.medianama.com/2025/05/223-e-zero-fir-cyber-fraud-rs-10-lakh/"
-  ],
-  "note": "Independently re-verified via fresh searches. Sanjabij Tari v Kishore S. Borcar (2025 INSC 1158, 25 Sept 2025, Manmohan and N.V. Anjaria JJ, BNSS s.223 pre-cognizance hearing not required for s.138 NI Act complaints) confirmed. Sumit Bansal v MGI Developers (2026 INSC 40, 8 Jan 2026, Sanjay Karol and Prashant Kumar Mishra JJ, each dishonoured cheque is a separate cause of action) confirmed. BNS ss.111/112 organised and petty organised crime thresholds (prior chargesheet history within 10 years for s.111; no such requirement for s.112; 1-7 year sentence for s.112) confirmed, including the unverified secondary report of a 2026 High Court distinguishing the two sections, which the draft itself flags as unverified. Allahabad HC guidelines on BNSS s.356 trial in absentia (Ravi alias Ravindra Singh, 2026 AHC 101857, including the 90-day post-charge waiting period and state-funded amicus curiae) confirmed. BNSS s.193 investigation timelines (90/60 days, s.193(3) reasons requirement, treated as mandatory by Kerala HC) confirmed. e-Zero FIR pilot (I4C, Delhi, launched 19 May 2025, Rs 10 lakh threshold, NCRP/1930 helpline route) confirmed. The genuinely unsettled points the draft flags as unsettled (BSA s.63 vs the Arjun Panditrao original-device exception; the split among High Courts on the consequence of missing BNSS s.105 videography) remain correctly described as unresolved in current commentary; no court has resolved either squarely as of this run. All four related_pages paths exist in origin/main:assets/search-index.json. The draft is unusually careful about flagging single-sourced or unverified figures (the FIR/chargesheet statistics, the MP High Court s.111/s.112 ruling), which independent verification bears out as the correct posture."
- },
- {
-  "file": "_drafts/articles/06-rera-ten-years-india-homebuyer-remedies-article.json",
-  "verdict": "FIX",
-  "claims_checked": 14,
-  "evidence": [
-   "https://www.livelaw.in/amp/top-stories/high-time-states-rethink-constituting-rera-benefits-only-defaulting-builders-cji-surya-kant-522897",
-   "https://www.livelaw.in/amp/top-stories/homebuyers-who-secure-rera-decrees-cant-be-treated-differently-from-other-financial-creditors-under-ibc-supreme-court-240198",
-   "https://www.livelawbiz.com/nclt/ibc-prevails-over-rera-where-resolution-plan-conflicts-with-individual-refund-rights-nclt-mumbai-550051",
-   "https://egazette.gov.in/WriteReadData/2026/274061.pdf"
-  ],
-  "note": "Independently re-verified via fresh searches. CJI Surya Kant's 12 Feb 2026 oral remarks on RERA (bench also included Justice Joymalya Bagchi), the Himachal Pradesh RERA office relocation context, and the stay of the High Court's 30 Dec 2025 direction all confirmed, correctly reported as oral observations not a formal direction. The 2023 Supreme Court ruling on RERA decree-holders as financial creditors under the IBC is confirmed (the case is actually styled Vishal Chelani v Debashis Nanda, Civil Appeal No. 3806/2023, decided by Justices S. Ravindra Bhat and Aravind Kumar, concerning the Bulland Elevates project by Bulland Buildtech; the draft's generic description as the \"Bulland Buildtech matter\" is directionally accurate as to the facts but does not name the actual case). Spenta Enclave NCLT Mumbai order (9 Sept 2026, Rs 1,048.95 crore plan, ~300 homebuyers, Rs 264.29 crore admitted claims, Section 238 IBC override of individual refund rights) confirmed. One factual error found: the references section cites \"Jan Vishwas (Amendment of Provisions) Act, 2023\" for the RERA Section 68 decriminalisation change effective 7 May 2026. Independent verification shows this is actually a distinct, later statute, the Jan Vishwas (Amendment of Provisions) Act, 2026 (the 2023 Act was the first, 42-Act edition of the programme; the RERA-related decriminalisation is part of a second, 2026 edition, per egazette.gov.in notifications and multiple law-firm commentaries including barandbench.com and ksandk.com). The body text and FAQ correctly avoid naming a year, so only the references entry needs correction.",
-  "fixes": [
-   {
-    "find": "Jan Vishwas (Amendment of Provisions) Act, 2023, RERA-related amendments brought into force with effect from 7 May 2026",
-    "replace": "Jan Vishwas (Amendment of Provisions) Act, 2026, RERA-related amendments brought into force with effect from 7 May 2026",
-    "reason": "The RERA Section 68 decriminalisation is part of the 2026 edition of the Jan Vishwas programme, not the 2023 Act"
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/07-nri-succession-wills-probate-repatriation-article.json",
-  "verdict": "PASS",
-  "claims_checked": 13,
-  "evidence": [
-   "https://ssrana.in/articles/a-long-overdue-reform-repeal-of-section-213-of-the-indian-succession-act-1925/",
-   "https://www.scconline.com/blog/post/2026/08/29/section-213-succession-act-omission-2025-probate/",
-   "https://www.casemine.com/commentary/in/recognition-and-limitation-in-letters-of-administration:-insights-from-ramesh-nivrutti-bhagwat-v.-surendra-manohar-parakhe/view",
-   "https://rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=10196"
-  ],
-  "note": "Independently re-verified via fresh searches. Repealing and Amending Act, 2025 omitting Section 213 ISA 1925 confirmed (Presidential assent 20 Dec 2025, Gazette publication 21 Dec 2025, non-retrospective effect on pending probate petitions); the draft's list of affected communities (Hindu, Parsi, Sikh, Jain) matches several law-firm sources (SSRana, Free Press Journal) even though the bare statutory text and some other commentary also include Buddhists, so this is sources disagreeing rather than a draft error. Vineeta Sharma v Rakesh Sharma, (2020) 9 SCC 1, holding (daughter is a coparcener by birth regardless of father's survival, conditional on the coparcenary existing on 9 Sept 2005) confirmed via the Supreme Court's own judgment PDF and Khaitan & Co./Bar & Bench commentary. Ramesh Nivrutti Bhagwat v Surendra Manohar Parakhe confirmed as a real Supreme Court case on exactly the facts described (ancillary Indian letters of administration granted in 1994 notwithstanding an earlier California probate; revocation petition dismissed as time-barred under Article 137 Limitation Act); the AIR 2019 SC 4948 parallel citation itself could not be independently cross-checked (other sources give 2019 INSC 1122 / [2019] 13 SCR 658) but the case's identity and holding are correct. FEMA's asymmetry on agricultural land/plantation/farmhouse (inheritance from a resident permitted without RBI approval; purchase barred; gift to an NRI/OCI of the same categories excluded under the RBI Master Direction's own gift clause) confirmed directly against the RBI Master Direction text. Estate Duty Act, 1953 abolition effective 16 March 1985 confirmed (parliamentary record), consistent with the draft's 'abolished...1985' statement. India's accession to the Hague Apostille Convention entering into force 14 July 2005 confirmed via HCCH's own records. Section 49(1)/56(2)(x) Income-tax Act mechanism for inherited property, and the ongoing, genuinely unsettled renumbering under the Income-tax Act, 2025 (Section 195 becomes Section 393(2) from 1 April 2026; form and certificate mapping inconsistent across commentary) confirmed, matching the draft's own appropriately hedged treatment in its verification_notes. Succession certificate scope under Part X (limited to debts/securities, excludes immovable property) confirmed via independent commentary on Sections 370 and 381. All thirteen related_pages paths confirmed present in origin/main:assets/search-index.json. No client anecdotes, result claims, or marketing language found (BCI Rule 36 compliant); author voice uses only generic professional-experience framing ('matters I see'). No proposition in the article rests on an uncorroborated source, and the draft's own verification_notes already flag the handful of genuinely unsettled points (exact Section 213 commencement date, specific country list for FEMA approval, new Income-tax Act 2025 form numbers) as open rather than resolving them by invention."
- },
- {
-  "file": "_drafts/articles/08-four-labour-codes-operation-article.json",
-  "verdict": "FIX",
-  "claims_checked": 9,
-  "evidence": [
-   "https://prsindia.org/billtrack/the-industrial-relations-code-2020",
-   "https://www.livelaw.in/amp/high-court/karnataka-high-court/karnataka-high-court-writ-trade-union-restrain-strike-limited-reliefs-industrial-tribunal-544109",
-   "https://www.scobserver.in/cases/uttar-pradesh-jai-bir-singh-definition-of-industry-case-background/",
-   "https://www.mondaq.com/epf-compliance-in-the-gig-economy-is-indias-new-social-security-framework-enough/1831806"
-  ],
-  "note": "Commencement notifications/dates, floor wage non-notification, 300-worker standing-orders figure, Section 114 gig contribution band and non-notification, and State of U.P. v. Jai Bir Singh (2026 INSC 897, nine-judge bench, correctly hedged on vote count) all confirmed. Two real errors found: (1) the article twice claims a state government may lower the Section 28 standing-orders threshold below 300 (key_points, body text, and an FAQ) -- PRS's bill-tracking commentary confirms this flexibility existed only in the 2019 Bill and was dropped before the 2020 Act was passed, so no state has that power today; (2) the Chapter X lay-off/retrenchment/closure section is internally self-contradictory, correctly saying a state may notify a higher threshold in one paragraph but then saying a lower threshold in the next -- PRS and the PIB release confirm the 2020 Code allows only an increase, never a decrease. Also fixed: the Bosch Automotive Electronics Karnataka HC ruling (cited twice) was decided 24 July 2026, not August 2026 as stated; it was only reported more widely in early August.",
-  "fixes": [
-   {
-    "find": "rose from 100 to 300 workers, a change state governments may lower but mostly have not.",
-    "replace": "rose from 100 to 300 workers; state governments may raise the lay-off, retrenchment and closure permission threshold further, but neither it nor the standing-orders threshold can be lowered, and most states have not changed either one.",
-    "reason": "The 2020 Code allows states only to raise the Chapter X permission threshold, never to lower either threshold; the standing-orders threshold has no state-variation power at all."
-   },
-   {
-    "find": "while leaving a state government free to prescribe a lower figure for establishments within its territory.",
-    "replace": "and the 2019 Bill's provision letting the government extend the standing-orders requirement to smaller establishments by notification was dropped before enactment, so no state has the power to lower this threshold today.",
-    "reason": "PRS's bill-tracking commentary confirms this power existed in the 2019 Bill but was removed from the enacted 2020 Code."
-   },
-   {
-    "find": ", unless its state has chosen to keep the lower bar.",
-    "replace": ".",
-    "reason": "No state has a power to keep a lower standing-orders threshold under the enacted Code."
-   },
-   {
-    "find": "A state that has notified a lower threshold changes the analysis entirely, and because",
-    "replace": "A state that has notified a higher threshold changes the analysis, since it moves more establishments into the notice-only category, and because",
-    "reason": "Contradicts the earlier, correct statement in the same section that states may only raise this threshold, not lower it."
-   },
-   {
-    "find": "The Karnataka High Court held in August 2026, in a dispute between Bosch Automotive Electronics and its workers' union, that a writ petition",
-    "replace": "The Karnataka High Court held on 24 July 2026, reported more widely in early August, in a dispute between Bosch Automotive Electronics and its workers' union, that a writ petition",
-    "reason": "LiveLaw reports the ruling was decided 24 July 2026, not in August."
-   },
-   {
-    "find": "Only if your state has kept a lower threshold than the national default of 300 workers, which the Industrial Relations Code allows a state to prescribe. If your state follows the national threshold, an establishment of 150 workers is no longer required to certify standing orders, though you may still want a model or voluntary framework in place.",
-    "replace": "No. Section 28 of the Industrial Relations Code fixes the standing-orders threshold at 300 workers nationally, and unlike an earlier bill version, the enacted Code gives no state the power to lower that figure. An establishment of 150 workers is accordingly no longer required to certify standing orders, though you may still want a model or voluntary framework in place.",
-    "reason": "Corrects the same state-flexibility error in the FAQ answer."
-   },
-   {
-    "find": "The Karnataka High Court held in August 2026 that a writ petition against a trade union to restrain a proposed strike is generally not maintainable",
-    "replace": "The Karnataka High Court held on 24 July 2026 (widely reported in early August) that a writ petition against a trade union to restrain a proposed strike is generally not maintainable",
-    "reason": "Date correction matching the body-text fix."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/09-infrastructure-ppp-disputes-termination-payment-article.json",
-  "verdict": "PASS",
-  "claims_checked": 9,
-  "evidence": [
-   "https://www.verdictum.in/delhi-high-court/national-highways-authority-of-india-v-ms-kurukshetra-expressway-private-ltd-2026dhc5961-court-restraint-tribunals-fidelity-to-contract-1618755",
-   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/gvv-constructions-v-union-of-india-determination-of-excepted-matters-under-the-arbitration-act/",
-   "https://www.livelaw.in/amp/high-court/allahabad-high-court/allahabad-high-court-grants-relief-tata-nhai-terminate-contract-540801",
-   "https://supremetoday.ai/supreme-court-stays-allahabad-hc-order-quashing-nhais-rs940-crore-contract-termination-with-tata-projects-20260831077"
-  ],
-  "note": "Independently re-verified via fresh searches rather than the draft's own sources: NHAI Policy Circular 11.82/2026 (19 Jan 2026, Rs 10 crore threshold, retrospective, pending-arbitration carve-out); Kurukshetra Expressway (2026:DHC:5961, Rs 911.13cr award, Rs 650cr Article 48.1 ceiling, Rs 1,045.5cr disaggregated TPC, 28 Sept 2026 Division Bench affirmance); Somdatt Builders v NHAI (2025 INSC 113, 27 Jan 2025, Section 37 restraint and patent-illegality standard); Tata Projects v Union of India (Allahabad HC quashed Rs 940.68cr termination, July 2026) and the Supreme Court stay (SLP(C) 29512/2026, 31 Aug 2026, Pardiwala/Vinod Chandran JJ); GVV Constructions (2026 INSC 976, 8 Sept 2026, Section 16 competence-competence on excepted matters); DIAL force majeure ruling (2025:DHC:1523, 7 March 2025, Justice Dinesh Kumar Sharma); Patwardhan Infrastructure (2026:BHC-AS:2050, 17 Jan 2026); and Ssangyong v NHAI (2019 SCC OnLine SC 677, unilateral-circular holding). All party roles, figures, dates and holdings matched the draft. Jabalpur Corridor (SC, 29 May 2026) is confirmed as to case, date and the jurisdictional-finality holding; one source gives the award itself as Rs 49 crore with 14.75% interest, which does not contradict the draft's Rs 176cr claim/Rs 277cr counterclaim figures since those appear to describe amounts sought rather than the amount awarded, so no fix made. The draft's own verification_notes already flag the residual uncertainties (GVV SC decision date, DIAL date discrepancy, Jabalpur INSC citation) appropriately rather than overstating certainty."
- },
- {
-  "file": "_drafts/articles/10-power-sector-disputes-change-in-law-article.json",
-  "verdict": "PASS",
-  "claims_checked": 9,
-  "evidence": [
-   "https://www.etvbharat.com/en/!bharat/sc-rejects-rajasthan-discoms-plea-upholds-aptel-verdict-in-adani-power-case-enn25052307257",
-   "https://www.verdictum.in/supreme-court/indian-railways-v-west-bengal-state-electricity-distribution-company-limited-2026-insc-464-consumer-under-electricity-act-deemed-licensee-1613640",
-   "https://www.scconline.com/blog/post/2026/05/25/entry-tax-imposed-later-by-state-amounts-to-change-in-law/",
-   "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/"
-  ],
-  "note": "Independent searches confirmed the SC Adani Power Rajasthan ruling (23 May 2025, bench, holding), the Sundew Properties and Indian Railways deemed-licensee rulings (correctly resolving conflicting secondary commentary in favour of the non-automatic reading), the APTEL entry tax ruling (Appeal No. 322 of 2021, April 2026, PPA/bid-year facts), the August 2026 Adani Power Tiroda compliance order, and the September 2026 Siwana Solar ruling. All related_pages exist on the live site. Draft is already carefully hedged where sources conflict (e.g. unconfirmed SC citation, unnotified curtailment proposal); no unsupported claims found."
- },
- {
-  "file": "_drafts/articles/11-fssai-enforcement-labelling-suspension-recall-appeals-article.json",
-  "verdict": "PASS",
-  "claims_checked": 12,
-  "evidence": [
-   "https://www.verdictum.in/bombay-high-court/hotel-alankar-v-state-of-maharashtra-2026bhc-kol8650-db-fssai-license-continued-suspension-1621830",
-   "https://www.verdictum.in/delhi-high-court/fssai-ban-on-dabur-selling-food-products-with-100-claims-stayed-1619391",
-   "https://www.barandbench.com/news/litigation/delhi-high-court-sets-aside-fssai-order-directing-red-bull-to-drop-energy-drink-label",
-   "https://www.etvbharat.com/en/bharat/fssai-registration-and-licences-renewal-news-enn26031306831"
-  ],
-  "note": "Independently verified Hotel Alankar (69%/97% compliance scores, dates, bench), the Dabur/Britannia/ITC/Red Bull interim orders (dates, judge, procedural basis), the 2026 perpetual-validity reform and exact turnover thresholds (12 lakh to 1.5 crore; 50 crore State/Central split), and the Section 70/71(6) limitation periods and forum-inconsistency (Bombay civil side vs Chhattisgarh criminal vs MP miscellaneous second appeal). All related_pages exist on the live site. No factual errors found; draft already hedges the genuinely unsettled points (improvement-notice-as-precondition question, claims merits, Tribunal availability)."
- },
- {
-  "file": "_drafts/articles/12-gst-litigation-after-gstat-appeals-pre-deposit-article.json",
-  "verdict": "PASS",
-  "claims_checked": 11,
-  "evidence": [
-   "https://www.verdictum.in/supreme-court/union-of-india-v-sunil-biyani-2026-insc-849-order-sec69-cgst-act-anticipatory-bail-accused-arrest-1619773",
-   "https://www.barandbench.com/news/litigation/supreme-court-refuses-to-revive-363-crore-gst-demand-against-vodafone-idea",
-   "https://www.verdictum.in/delhi-high-court/rohit-garg-v-union-of-india-2026dhc7502-db-pre-deposit-amendment-effective-october-1621559",
-   "https://www.verdictum.in/delhi-high-court/gaurav-jain-anr-v-joint-commissioner-appeals-ii-cgst-delhi-zone-2026dhc6124-db-mandatory-10-pre-deposit-appeal-scn-stage-1618981"
-  ],
-  "note": "Independently verified GSTAT operational timeline, the Bhandari Scrap Traders SC ruling upholding Section 16(2)(c) (24 July 2026) against the Tripura Sahil Enterprises read-down, the Gaurav Jain/Rohit Garg vested-right-of-appeal line (wording matches almost verbatim, 629-entity batch confirmed as more than six hundred), the Sunil Biyani pre-arrest communication ruling, and the Vodafone Idea non-existent-entity ruling. All related_pages exist on the live site. Draft already flags its own residual date uncertainties (Sunil Biyani decision date, GSTAT first-hearing date) rather than asserting a single unverified figure; no unsupported or incorrect claims found."
- },
- {
-  "file": "_drafts/articles/13-consumer-protection-ecommerce-ccpa-dark-patterns-platform-liability-article.json",
-  "verdict": "FIX",
-  "claims_checked": 20,
-  "evidence": [
-   "https://www.scconline.com/blog/post/2026/08/03/ncdrc-held-written-statement-filed-within-45-days-is-maintainable/",
-   "https://api.sci.gov.in/supremecourt/2016/6150/6150_2016_2_107_71816_Judgement_04-Jun-2026.pdf",
-   "https://www.livelaw.in/amp/high-court/andhra-pradesh-high-court/advocates-deficiency-in-service-consumer-protection-act-540787",
-   "https://www.jsalaw.com/newsletters-and-updates/ccpa-issues-guidelines-for-prevention-and-regulation-of-dark-patterns-2023/"
-  ],
-  "note": "Confirmed CCPA statutory structure (Ss.18-22, 2(47), 2(28), 21, 89), the 13 dark patterns in the 2023 guidelines, the E-Commerce Amendment Rules 2026 (notified 9 Sept 2026, effective 1 Jan 2027), the PhysicsWallah/McAfee, Dial4Trade, Weblink and Xboom CCPA orders, T.K.A. Padmanabhan v Abhiyan Cooperative (4 June 2026), Imperia Structures v Anil Patni, and the Andhra Pradesh HC advocates ruling, and all related_pages resolve on the live site. One significant error: the draft frames the 2026 NCDRC written-statement ruling as 'a ruling against HDFC Bank', but the actual order (HDFC Bank Ltd. v Thomas Alexander, 2026 SCC OnLine NCDRC 130, confirmed against the site's own already-verified live article at that slug) allowed HDFC Bank's revision petition and held its written statement was filed within the 45-day window, reversing the State Commission that had struck it off -- i.e. the ruling went in the bank's favour, not against it, though the 45-day-is-a-firm-ceiling principle the draft draws from it is correct.",
-  "fixes": [
-   {
-    "find": "The National Commission held, in a 2026 ruling against HDFC Bank, that the forty-five day period to file a written statement under the Act (thirty days extendable by a further fifteen) is a firm ceiling, not a guideline that a forum can relax by its own discretion, reinforcing a line of Supreme Court authority on the same point reaching back to 2020.",
-    "replace": "The National Commission held, in a 2026 ruling in HDFC Bank's favour, that the forty-five day period to file a written statement under the Act (thirty days extendable by a further fifteen) is a firm, absolute ceiling that a forum cannot shorten through its own stricter view of promptness, setting aside a State Commission order that had struck off the bank's written statement even though it had been filed within that window, and reinforcing a line of Supreme Court authority on the same point reaching back to 2020.",
-    "reason": "The NCDRC ruling (HDFC Bank Ltd. v Thomas Alexander, 2026 SCC OnLine NCDRC 130) allowed HDFC Bank's own revision petition and went in the bank's favour, not against it; the draft had the direction of the holding backwards."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/14-debt-recovery-sarfaesi-drt-ibc-guarantor-exposure-article.json",
-  "verdict": "PASS",
-  "claims_checked": 16,
-  "evidence": [
-   "https://www.livelaw.in/top-stories/supreme-court-sarfaesi-proceedings-invoked-despite-decree-passed-drt-suit-res-judicata-inapplicable-550165",
-   "https://www.livelaw.in/supreme-court/banks-can-invoke-sarfaesi-for-loans-acquired-from-nbfcs-not-covered-under-act-supreme-court-548335",
-   "https://www.verdictum.in/court-updates/supreme-court/2024-insc-978-celir-llp-v-sumati-prasad-bafna-borrower-cannot-redeem-mortgage-upon-publication-of-auction-notice-1561051",
-   "https://taxguru.in/corporate-law/delays-mandatory-admission-strict-timelines-ibc-amendment-act-2026.html"
-  ],
-  "note": "Independently confirmed: Celir LLP v Bafna Motors (Mumbai) Pvt Ltd (2023 INSC 838, Civil Appeal 5542-5543/2023, decided 21 Sept 2023) and its Section 13(8)/Rule 9(1) redemption-cutoff holding; Kotak Mahindra Bank Ltd v Trupti Sanjay Mehta (2 Sept 2026, 2026 LiveLaw (SC) 886) allowing SARFAESI against an NBFC-originated loan; K.K. Praveen v JM Financial ARC (W.P.(Civil) No. 1091/2026, 9 Sept 2026, Nagarathna & Mahadevan JJ, Section 35 overriding effect) and the Bombay HC Tata Capital v Neel Motors ruling (24 July 2026) both match this site's own already-verified news items on the same cases; the DRT 20-lakh pecuniary floor (2018 notification, upheld by Rajasthan HC) and the IBC (Amendment) Act 2026 changes (Section 7(5) 'may' to 'shall', effective 26 May 2026, and the Section 96(4)/124(4) interim-moratorium carve-out for personal guarantors) are also corroborated. B.K. Educational Services v Parag Gupta (Article 137/Section 238A) and SBI v V. Ramakrishnan (2018, guarantor liability survives moratorium) are well-settled law consistent with the draft. All 22 related_pages resolve on the live site. No unsupported claims, client anecdotes or marketing language found; draft appropriately flags its own residual uncertainty (Tata Capital bench composition, old recovery-certificate-to-Section-7 question) rather than overstating settled law."
- },
- {
-  "file": "_drafts/articles/15-shareholder-oppression-mismanagement-nclt-article.json",
-  "verdict": "FIX",
-  "claims_checked": 15,
-  "evidence": [
-   "https://www.livelawbiz.com/company-law/nclat-restores-status-quo-over-company-assets-pending-valuation-and-determination-on-share-buyback-547301",
-   "https://www.verdictum.in/supreme-court/dr-bais-surgical-and-medical-institute-pvt-ltd-ors-v-dhananjay-pande-2026-insc-447-1613399",
-   "https://www.livelawbiz.com/company-law/nclat-dismisses-former-shareholders-appeal-against-sintex-industries-holds-section-59-not-a-vehicle-for-adjudicating-monetary-claims-547655",
-   "https://lawx.in/case-laws/view/ms-embassy-property-developments-pvt-ltd-vs-the-state-of-karnataka"
-  ],
-  "note": "Confirmed: Dr. Bais Surgical and Medical Institute v Dhananjay Pande (2026 INSC 447, decided 4 May 2026, Narasimha and Aradhe JJ); the Sintex Industries/Titus Babu Section 59 clean-slate ruling (NCLT Ahmedabad and NCLAT New Delhi, consistent with the draft's own hedged dates and figures); Embassy Property Developments v State of Karnataka (3 Dec 2019, public-law matters outside NCLT's Section 60(5) reach, fraud inquiry permitted under Ss.65/69); the VCare Technologies and Rukshmani Syntex NCLAT rulings both match this site's own already-independently-verified news items on the same cases (xv_results_news.json). One confirmed discrepancy: this site's own prior independent verification of the Rukshmani Syntex matter (two sources, livelawbiz.com and taxguru.in) established the NCLT status quo order date as 27 March 2026, but this article's body text states the status quo was directed '5 March 2026' as a settled fact, even though the draft's own verification_notes field separately flags '27 March 2026' as a conflicting date without resolving which is correct in the visible text. Rest of the article (Section 241-246 scheme, Section 244 threshold and waiver case law, Kalinga Tubes/Needle Industries oppression test, Section 242 remedies, winding-up fallback) is standard, well-settled company law consistent with the draft. All 9 related_pages resolve on the live site.",
-  "fixes": [
-   {
-    "find": "The NCLT directed status quo on 5 March 2026 after the respondents themselves conceded to the request",
-    "replace": "The NCLT directed status quo on 27 March 2026 after the respondents themselves conceded to the request",
-    "reason": "This site's own independently verified news coverage of the same Rukshmani Syntex dispute (cross-checked across livelawbiz.com and taxguru.in) confirms the NCLT status quo order is dated 27 March 2026, not 5 March 2026; the draft's own verification_notes field flags 27 March as a possible date without correcting the body text."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/16-redevelopment-joint-development-agreement-disputes-article.json",
-  "verdict": "FIX",
-  "claims_checked": 20,
-  "evidence": [
-   "https://ksandk.com/newsletter/co-promoters-liability-real-estate-projects/",
-   "https://indiankanoon.org/doc/104376017/",
-   "https://www.verdictum.in/app-lite/court-updates/supreme-court/a-a-estates-private-limited-v-kher-nagar-sukhsadan-co-operative-housing-society-ltd-2025-insc-1366-slum-dwellers-1599541",
-   "https://www.scconline.com/blog/post/2026/01/31/bombay-hc-tenants-right-to-timely-redevelopment/",
-   "https://www.freepressjournal.in/mumbai/consumer-connect-maharashtras-new-redevelopment-rules-allow-online-sgbms-registrar-noc-no-longer-required",
-   "https://taxguru.in/corporate-law/rera-landowners-co-promoters-aggrieved-persons.html",
-   "https://www.livelawbiz.com/rera/reat/mp-reat-rera-act-inapplicable-to-disputes-between-co-promoters-under-joint-venture-519174"
-  ],
-  "note": "Independently re-verified: Wadhwa Group Housing v. Vijay Choksi (26 Feb 2024, Bombay HC, Justice Marne) confirmed via 5+ independent sources (Indian Kanoon, taxguru, barandbench, ksandk, freepressjournal, thelawsuits.in) - joint liability regardless of which promoter received the money is correctly stated, appeal dismissed, SLP dismissal 8 Apr 2024 context plausible. Bhopal Development Authority v. Roop Laxmi Singh (MP REAT, 8 Jan 2026) and Mohammad Mustaq v. Sonali Housing Projects (Telangana REAT, 24 Oct 2025) both confirmed via independent sources, holding and facts match draft. A.A. Estates v. Kher Nagar Sukhsadan confirmed as 2025 INSC 1366, decided 28 Nov 2025, SLP (C) No. 10758/2025 is the correct citation (the alternate Appeal (Civil) 14410/2025 flagged in the drafts own notes is not supported). ISON Builders v. Om Sai Ram CHS (23 Jan 2026, Justice Marne) confirmed via SCC Online - termination upheld, Section 9 relief refused, tenants right to timely redevelopment prevails over developer commercial interests; note this is the SAME ruling the draft also cites separately in its tenants-rights section and references list as a generic Jan 2026 ruling, so the two citations are not independently sourced precedents as the drafting implies, though nothing is factually wrong. NCDRC Mantra Lifestyle Homes refund (9 Oct 2025, 9% interest) confirmed via LiveLaw and thelawsuits.in. Satish Inamdar and Nissa Hoosain Nensey non-signatory arbitration holdings substantially confirmed. Main problem: the draft materially undersells 2026 changes to the Maharashtra redevelopment consent framework, describing a further 2026 order as largely restating the 2019 GR, when in fact Maharashtra inserted a new Chapter XI-B (Rules 106C-1 to 106C-14) into the Cooperative Societies Rules, 1961 (notified 18 June 2026, effective 30 June 2026) that converts the GR guidance into statutory rules, permits video-conference attendance at the SGBM, and (per a Registrar circular dated 4 November 2025) removes the requirement for a Registrar NOC before developer selection - a substantive procedural change the as-on-date (22 Oct 2026) article should reflect. Also one related_pages path is wrong directory (/blog/ instead of /articles/) and does not resolve against the live search index.",
-  "fixes": [
-   {
-    "find": "with a further order reported in 2026 that largely restates the 2019 position",
-    "replace": ". In 2026 the state went further than a mere restatement: a new Chapter XI-B (Rules 106C-1 to 106C-14) was inserted into the Maharashtra Co-operative Societies Rules, 1961, notified 18 June 2026 and effective 30 June 2026, converting the earlier GR guidance into statutory rules, permitting members to attend the special general body meeting by video conference, and, following a Registrar circular dated 4 November 2025, removing the requirement for a Registrar no-objection certificate before a developer is selected",
-    "reason": "The 2026 change was a substantive statutory codification with new VC-attendance and no-NOC provisions, not a mere restatement of the 2019 GR; confirmed via Free Press Journal, ksandk and societybee.in coverage of Chapter XI-B (notified 18 June 2026, effective 30 June 2026)."
-   },
-   {
-    "find": "/blog/rera-ten-years-india-homebuyer-remedies-article.html",
-    "replace": "/articles/rera-ten-years-india-homebuyer-remedies-article.html",
-    "reason": "Wrong directory; the live search index lists this page under /articles/, not /blog/, so the related_pages link is currently broken."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/17-trademark-enforcement-passing-off-well-known-marks-article.json",
-  "verdict": "PASS",
-  "claims_checked": 22,
-  "evidence": [
-   "https://www.barandbench.com/news/litigation/ghostbuster-row-trademark-need-not-be-formally-declared-well-known-to-get-cross-class-protection-says-delhi-hc",
-   "https://ssrana.in/articles/zara-v-zora-delhi-high-court-holds-prior-well-known-declaration-not-mandatory-to-invoke-section-112/",
-   "https://www.livelaw.in/supreme-court/can-civil-judge-notified-as-commercial-court-hear-trademark-infringement-suits-supreme-court-refers-to-larger-bench-551142",
-   "https://conventuslaw.com/report/india-trademark-infringement-suits-cannot-be-tried-by-courts-below-district-court-kerala-high-court-decides/",
-   "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-790-shabu-kn-achary-v-dharampal-premchand-limited-545420",
-   "https://www.scconline.com/blog/post/2026/04/18/marq-v-marc-trademark-delhi-high-court-injunction-against-flipkart/",
-   "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-interim-court-relief-in-pantocid-trademark-dispute-174326",
-   "https://www.barandbench.com/news/litigation/using-visually-similar-vernacular-versions-of-registered-trademark-is-infringement-madras-high-court",
-   "https://www.businesstoday.in/technology/news/story/google-moves-delhi-hc-against-trademark-infringement-ruling-in-hindware-adwords-case-542291-2026-07-10",
-   "https://www.scconline.com/blog/post/2026/05/13/delhi-hc-toyotas-alphard-declared-well-known-trade-mark/",
-   "https://storyboard18.com/brand-marketing/delhi-high-court-dismisses-parle-appeal-in-20-20-trademark-dispute-with-avon-agro-91970.htm"
-  ],
-  "note": "Independently re-verified every 2026 ruling cited: Columbia Pictures/Ghostbusters (Rule 124 declaration not a precondition to Section 11(2) cross-class protection, matter remitted to Registrar) and Zara v. Zora (ZORA Class 24 registration cancelled, anti-dissection applied) both confirmed via multiple independent sources (barandbench, ssrana, scconline). I.S.D.S. v. Khemka Food Products (21 Sep 2026, SC refers Kandla Export/Jaycee Housing conflict on Section 134 vs Commercial Courts notifications to larger bench) and Cutis International (Kerala HC, 8 Sep 2026, District Court is the floor regardless of pecuniary value) both confirmed. Shabu KN Achary v. Dharampal Premchand (2026 INSC 819, decided 7 Aug 2026, bench of Pardiwala and Vinod Chandran JJ, defendant entitled to cross-examine on brand-use duration raised by the plaintiffs own affidavit) confirmed via LiveLaw, Verdictum and Conventus Law. Flipkart MarQ v. Marc (10 Apr 2026, house mark does not cure confusion), Sun Pharma v. Finecure Pantopacid (Division Bench reverses single judge, July 2026), the Madras HC Tamil Globe mark ruling against Vikas Mandoth (7 Sep 2026, vernacular transliteration can infringe), the Google/Hindware keyword-advertising ruling (Justice Mini Pushkarna, Rs 30 lakh joint damages, Google appeal pending and undecided as the draft states) the Toyota ALPHARD Division Bench reversal (4 May 2026, LPA 176/2023, well-known status via grey-market imports and press coverage) and the Avon Agro v. Parle 20-20 priority dispute (earlier proposed-to-be-use filing date defeats later commercial use) were all independently confirmed and match the draft facts, parties, dates and holdings closely. The long-settled foundational authorities (Wander v. Antox, Midas Hygiene, N.R. Dongre v. Whirlpool, Toyota v. Prius, Bengal Waterproof, Yamini Manohar) are correctly and conventionally stated. All 16 related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes, result claims, or marketing language found. The drafts own verification_notes already candidly flag the handful of points (exact Hindware/Columbia Pictures dates varying slightly across sources, DHC IP exemption status after Yamini Manohar) that could not be pinned down further, which matches what independent searches also found - no fixes needed."
- },
- {
-  "file": "_drafts/articles/18-enforcing-foreign-arbitral-awards-india-interim-relief-article.json",
-  "verdict": "PASS",
-  "claims_checked": 18,
-  "evidence": [
-   "https://legalblogs.wolterskluwer.com/arbitration-blog/after-nagaraj-why-the-india-singapore-arbitration-corridor-just-got-more-valuable/",
-   "https://www.jsalaw.com/articles-publications/supreme-court-of-india-reinforces-finality-in-enforcement-of-foreign-awards-while-recognising-transnational-issue-estoppel/",
-   "https://www.livelawbiz.com/arbitration/foreign-seat-of-arbitration-alone-doesnt-oust-indian-courts-jurisdiction-to-grant-interim-relief-karnataka-high-court-544065",
-   "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/osterreichischer-lloyd-seereederei-cyprus-ltd-v-victore-ships-pvt-ltd-commercial-arbitration-petition-no-398-of-2025-relief-us-9-arbitration-act-1610853",
-   "https://www.scobserver.in/journal/validity-of-an-unstamped-arbitration-agreement-everything-thats-happened-at-the-supreme-court-so-far/",
-   "https://www.barandbench.com/amp/story/view-point/time-for-reciprocity-why-india-should-recognise-uae-for-enforcement-of-arbitral-awards"
-  ],
-  "note": "Independently re-verified the 2025-2026 developments this piece leans on. Nagaraj V. Mylandla v. PI Opportunities Fund-I (2026 INSC 298, decided ~25 Mar 2026) confirmed: Singapore-seated SIAC award upheld by the Singapore High Court, promoters tried to reargue the same issues before the Madras High Court enforcement proceeding and on appeal to the Supreme Court, which recognised transnational issue estoppel and declined to let public policy become a vehicle to relitigate merits the seat court already decided - matches the draft closely. Aroha Labs v. Prem Dharmani (Karnataka HC, AP.IM No. 4 of 2026, foreign seat alone does not oust Section 9 jurisdiction, partial restraint granted, return of company property declined at the interim stage) confirmed via LiveLawBiz, Trilegal and SupremeToday. Osterreichischer Lloyd v. Victore Ships (Bombay HC, Justice Somasekhar Sundaresan, 10 Mar 2026, Commercial Arbitration Petition No. 398 of 2025, Section 9 relief survives alongside a pending Part II petition until the award becomes a decree, execution-stage question left open) confirmed via Verdictum, JSA and Cyril Amarchand commentary, matching the draft exactly including the open question it flags. The In Re Interplay stamp-duty reference is correctly stated in the body text as a seven-judge, unanimous bench overruling NN Global (confirmed via SCC Observer) - the drafts own verification_notes flags an unresolved 5-judge-vs-7-judge discrepancy internally, but that hedge never reaches the reader-facing text, which already gets this right, so no fix is needed. The UAE Section 44(b) gazette gap is also confirmed current as of 2026: the UAE was notified under Section 44A CPC for court judgments in 2020 but sources through 2026 still describe it as unnotified for Section 44 arbitral-award purposes specifically, exactly the distinction the draft draws. The foundational authorities (Fuerst Day Lawson, Vedanta, Renusagar, Shri Lal Mahal, Vijay Karia, NAFED, Gemini Bay, BALCO, Raffles Design) are long-settled and correctly summarised. All 12 related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language found. No fixes needed."
- },
- {
-  "file": "_drafts/articles/19-joint-ventures-acquisitions-contractual-protections-regulatory-article.json",
-  "verdict": "FIX",
-  "claims_checked": 14,
-  "evidence": [
-   "https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/bombay-high-courts-rules-on-arbitrability-of-oppression-and-mis-management-issues-5998",
-   "https://www.scconline.com/blog/post/2026/05/06/fema-ndi-amendment-allows-100-percentage-fdi-insurance-sector/",
-   "https://www.etvbharat.com/en/bharat/sc-sets-aside-nclat-order-upholding-cci-rs-202-crore-penalty-on-amazon-enn26052702974",
-   "https://www.barandbench.com/law-firms/view-point/rbis-new-acquisition-finance-framework-a-regulatory-shift-towards-bank-financed-acquisitions-in-india"
-  ],
-  "note": "Core case law (Rangaraj, Messer Holdings, World Phone, Rakesh Malhotra, Nirma Industries) and the regulatory claims (March 2024 and 10 September 2024 CCI thresholds, RBI acquisition finance framework effective 1 April 2026, insurance FDI raised to 100% with LIC retained at 20% via the 2 May 2026 Second Amendment Rules, Corporate Laws (Amendment) Bill 2026 referred to a JPC, SEBI's 2026 Uni Abex Alloy and S Chand family-trust exemptions) all check out against independent sources. One defect: the related_pages entry /articles/enforcing-foreign-arbitral-awards-india-interim-relief-article.html is not live (that piece is still an unpublished draft at _drafts/articles/18-...), so the link is currently broken; it is not in origin/main:assets/search-index.json. Also, the Amazon-Future Coupons Supreme Court outcome (27 May 2026) that the draft itself flags as single-source and unverified is now corroborated by multiple independent reports (ETV Bharat, Moneylife, Bar and Bench), so the hedge in the text is unnecessarily cautious but not wrong.",
-  "fixes": [
-   {
-    "find": "    \"/legal-news/persistent-systems-nagarro-acquisition.html\",\n    \"/articles/enforcing-foreign-arbitral-awards-india-interim-relief-article.html\"",
-    "replace": "    \"/legal-news/persistent-systems-nagarro-acquisition.html\"",
-    "reason": "Linked article is not yet published (still a draft); the path does not exist on the live site/search index, so the related_pages link is broken."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/20-noida-greater-noida-commercial-courts-jurisdiction-article.json",
-  "verdict": "FIX",
-  "claims_checked": 15,
-  "evidence": [
-   "https://www.prashantkanha.com/commercial-courts-in-uttar-pradesh/",
-   "https://main.sci.gov.in/supremecourt/2022/7090/7090_2022_9_1_37312_Order_16-Aug-2022.pdf",
-   "https://www.caseciter.com/2026insc436/",
-   "https://www.verdictum.in/court-updates/supreme-court/atul-j-doshi-v-pramukh-properties-and-developers-2025-insc-1345-license-fee-clause-2-order-xv-a-cpc-bombay-amendment-1598838",
-   "https://indialegallive.com/constitutional-law-news/courts-news/allahabad-high-court-directs-noida-authority-to-review-cancellation-of-institutional-plot-allotment/"
-  ],
-  "note": "Most central claims check out against independent sources: the 2017/2022 UP commercial court notifications and the SC's 16 Aug 2022 order flagging overlapping jurisdiction (SLP(C) 7090/2022), the Jan 2023 posting order, Patil Automation's mandatory Section 12A holding with prospective effect from 20 Aug 2022, the Yamini Manohar 'deception and falsity' urgency test (2023 LiveLaw (SC) 906), the 2021 three-judge-bench overruling of N.V. International restoring Section 5 Limitation Act condonation for Section 13 appeals, the Reliance Eminent Trading v. DDA ruling (2026 INSC 436, J.K. Maheshwari and Atul S. Chandurkar JJ) which did allow the summary-judgment appeal and does use the 'grasp the nettle' language in its guidelines, the Andhra Pradesh HC 2:1 full bench ruling on the self-operative 3-lakh threshold, the Pawan Hans/Noida Sector 1 plot cancellation writ (order of 7.11.2024, Allahabad HC directing review with interim protection), and the Supreme Court's 'innumerable controversies'/'huge litigation' language on Noida township allotment disputes. All ten related_pages paths exist in origin/main:assets/search-index.json. One factual error found: the draft says a UP state amendment also uses the number Order XV-A to deal with striking off a tenant's defence. Independent sources show the UP state amendment on this subject is actually Order XV Rule 5 CPC (inserted 1972, substituted 1976); Order XV-A for striking off a tenant/licensee's defence is the Bombay (Maharashtra) amendment, confirmed in the 2025 Supreme Court ruling Atul J. Doshi v. Pramukh Properties (2025 INSC 1345), which expressly calls it the 'Bombay Amendment'.",
-  "fixes": [
-   {
-    "find": "from an entirely separate Uttar Pradesh state amendment that also uses the number Order XV-A but deals with striking off a tenant's defence",
-    "replace": "from an entirely separate Bombay (Maharashtra) state amendment to the Code that also uses the number Order XV-A but deals with striking off a tenant's or licensee's defence in a lessor's suit for eviction or rent",
-    "reason": "The state amendment using the Order XV-A numbering for striking off a tenant's defence is the Bombay/Maharashtra amendment, not a Uttar Pradesh one; UP's own provision on this subject is Order XV Rule 5 CPC, a different rule."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/21-arbitration-noida-delhi-ncr-seat-jurisdiction-article.json",
-  "verdict": "FIX",
-  "claims_checked": 14,
-  "evidence": [
-   "https://www.verdictum.in/court-updates/high-courts/delhi-high-court-anju-jain-v-wtc-noida-development-company-2024dhc2849-seat-agreement-jurisdiction-arbitration-proceedings-1530167",
-   "https://www.mondaq.com/india/arbitration-dispute-resolution/1539560/accord-and-satisfaction-does-not-affect-the-existence-of-an-arbitration-agreement-sbi-general-insurance-ltd-v-krish-spinning",
-   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/mahanadi-coalfields-v-gsco-infrastructure-limited-seat-of-arbitration-under-the-arbitration-act/",
-   "https://www.jurishour.in/other-laws/limitation-challenge-arbitral-award-disposal-s-33-application-nhai/"
-  ],
-  "note": "BALCO and BGS SGS Soma (overruling Hardy Exploration) are confirmed, as are SBI General Insurance v. Krish Spinning (2024 INSC 532, narrow Section 11(6) scrutiny), Arif Azim v. Aptech (2024 INSC 155, Article 137 three-year period), Sundaram Finance v. Abdul Samad (2018, no transfer decree needed for execution), Mahanadi Coalfields v. GSCO Infrastructure (place of proceedings does not fix the seat) and NHAI v. T. Younis (Section 34 clock runs from disposal of a Section 33 application regardless of outcome). One real error: the draft uses Anju Jain v. WTC Noida Development Company (2024:DHC:2849) as an illustration that Section 9 and Section 34 proceedings for a Delhi-administered arbitration can still 'remain anchored to Gautam Buddh Nagar.' In fact the Delhi High Court in that case held Delhi itself to be the seat; clause 17.3 gives Gautam Buddh Nagar courts jurisdiction only over matters never referred to arbitration at all (separate civil disputes), not over Section 9/34 applications arising from the arbitration, which would follow the Delhi seat. The order does not address Section 9 or Section 34 routing at all. Second, the related_pages entry /articles/noida-greater-noida-commercial-courts-jurisdiction-article.html is not live (still an unpublished draft at _drafts/articles/20-...); it is absent from origin/main:assets/search-index.json, so that link is currently broken. The other ten related_pages paths all exist in the index.",
-  "fixes": [
-   {
-    "find": "The decision illustrates a pattern increasingly common in NCR disputes: an arbitration administered institutionally out of Delhi, while interim relief, residual civil claims, and in some cases Section 9 and Section 34 proceedings themselves remain anchored to Gautam Buddh Nagar because that is where the seat, or the relevant immovable property, or the parties' course of dealing actually sits.",
-    "replace": "The decision illustrates a pattern increasingly common in NCR disputes: an arbitration administered institutionally out of Delhi, with Delhi itself fixed as the seat, while civil disputes that fall outside the arbitration clause altogether remain anchored to Gautam Buddh Nagar under a jurisdiction clause expressly made subject to the arbitration agreement. Section 9 and Section 34 proceedings arising from the arbitration itself still follow the seat; in Anju Jain that means Delhi, not Gautam Buddh Nagar. A Gautam Buddh Nagar-seated arbitration keeps those applications at Gautam Buddh Nagar only where the contract or the parties' conduct fixes the seat there specifically, as in the separate Allahabad High Court and Delhi High Court decisions discussed above.",
-    "reason": "The draft cites Anju Jain as an example of Section 9/34 proceedings staying with Gautam Buddh Nagar, but the court in that case held Delhi to be the seat; Gautam Buddh Nagar courts retained jurisdiction only over disputes never referred to arbitration at all, not over Section 9/34 applications tied to this arbitration."
-   },
-   {
-    "find": "    \"/legal-news/nhai-t-younis-arbitration-section-33-34-limitation.html\",\n    \"/articles/noida-greater-noida-commercial-courts-jurisdiction-article.html\"",
-    "replace": "    \"/legal-news/nhai-t-younis-arbitration-section-33-34-limitation.html\"",
-    "reason": "Linked article is not yet published (still a draft); the path does not exist on the live site/search index, so the related_pages link is broken."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/22-noida-greater-noida-real-estate-disputes-article.json",
-  "verdict": "FIX",
-  "claims_checked": 13,
-  "evidence": [
-   "https://www.legalauthority.in/judgement/skyline-contractors-pvt-ltd-vs-state-of-u-p-13497",
-   "https://www.livelaw.in/amp/top-stories/supreme-court-rera-pre-deposit-promoters-appeal-435-newtech-promoters-and-developers-pvt-ltd-vs-state-of-up-185428",
-   "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/savita-sharma-vs-state-of-up-and-2-others-2025ahc111809-db-cant-allow-deliberate-repeated-defaults-by-allottee-1586709",
-   "https://housing.com/news/no-builder-to-take-over-10-unit-cost-before-sale-agreement-up-rera",
-   "https://www.livelawbiz.com/rera/high-court/rera-no-time-limit-on-allottees-claim-for-interest-on-delayed-possession-under-s-181-allahabad-high-court-552651"
-  ],
-  "note": "Skyline Contractors (9 July 2008, Civil Appeal No. 4272/2008, NOIDA cancellation of Sector 62 Plot A-28 for non-payment upheld), Savita Sharma v. State of U.P. (2025:AHC:111809-DB, UPSIDA lease not restored after repeated default), Newtech Promoters (Section 43(5) pre-deposit upheld as constitutional, 11 Nov 2021), Antriksh Developers v. Shyam Sunder Agarwal/Agrawal (accepting delayed possession does not bar a later Section 18 interest claim), the Pawan Hans/Sector 1 Noida writ, and the December 2023 UP cabinet approval of the Amitabh Kant committee's stalled-projects package (zero period, co-developer induction) all check out against independent sources. All ten related_pages paths exist in origin/main:assets/search-index.json. One factual error: the draft states UP RERA's delay-interest rate under Section 18 mirrors 'the State Bank of India's highest marginal cost of funds based lending rate plus two per cent.' Independent sources (a housing.com report on UP RERA's notified rate, a law-firm summary of a UP Real Estate Appellate Tribunal ruling, and the Antriksh Developers case itself, where the tribunal awarded interest at MCLR+1%) show Uttar Pradesh's notified rate is SBI's highest MCLR plus one per cent, not plus two per cent; the +2% figure is the rate several other states (Maharashtra, Haryana, Bihar) have adopted following the central model rules, not Uttar Pradesh's own notified rate.",
-  "fixes": [
-   {
-    "find": "the interest rate UP RERA applies, in line with the rule most states have adopted, mirrors the State Bank of India's highest marginal cost of funds based lending rate plus two per cent, applied both ways",
-    "replace": "the interest rate UP RERA applies, under its own notified rules, is the State Bank of India's highest marginal cost of funds based lending rate plus one per cent (several other states have instead adopted a plus-two-per-cent formula), applied both ways",
-    "reason": "Uttar Pradesh's notified RERA delay-interest rate is SBI's highest MCLR plus 1%, not plus 2%; the Antriksh Developers tribunal order itself awarded interest at MCLR+1%, and the +2% figure is the rate used by several other states, not UP."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/23-noida-up-recovery-sarfaesi-drt-ibc-article.json",
-  "verdict": "FIX",
-  "claims_checked": 17,
-  "evidence": [
-   "https://nclt.gov.in/Jurisdiction",
-   "https://www.corporateprofessionals.com/regulatoryupdate/mca-shifts-the-territorial-jurisdiction-of-state-of-haryana-from-nclt-new-delhi-to-nclt-chandigarh-bench/",
-   "https://www.livelawbiz.com/high-court/kerala-high-court/kerala-high-court-lessee-cannot-file-fresh-suit-after-suffering-adverse-order-debt-recovery-tribunal-sarfaesi-act-551083",
-   "https://www.livelaw.in/supreme-court/banks-can-invoke-sarfaesi-for-loans-acquired-from-nbfcs-not-covered-under-act-supreme-court-548335",
-   "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/yadunandan-pandey-vs-state-of-up-and-3-others-appointments-in-debt-recovery-tribunal-1583705",
-   "https://www.livelaw.in/amp/articles/bnss-section-233-first-proviso-section-138-ni-act-kerala-cognizance-283976",
-   "https://www.verdictum.in/app-lite/court-updates/supreme-court/e-muthurathinasabathy-ors-v-ms-sri-international-ors-2026-insc-303-1611213"
-  ],
-  "note": "Core framework holds up well on independent re-checking: NCLT Allahabad's jurisdiction over UP and Uttarakhand, the Haryana-to-Chandigarh 2017 transfer, the personal-guarantor bench-linkage rule (Kamlesh Rani Singla v. Praveen Kumar Garg), the 28 Nov 2025 Supreme Court payee-branch cheque ruling, the Karnataka HC/Sanjabij Tari position on BNSS 223(1) and Section 138, the SARFAESI auction-finality/redemption line, the P&H HC sole-residential-house interim stay, and the DRT pecuniary threshold (Rs 20 lakh since 2018) all check out, and the piece is admirably careful about flagging what is genuinely unconfirmed (the exact DRT allocated to Gautam Buddh Nagar, the live status of the Oct 2022 Rs 100 crore DRT-reallocation stay). Three concrete slips found: (1) the references list names the Kotak Mahindra assignment case as 'Kotak Mahindra Bank Ltd. v. Union of India and others' but the actual 2026 ruling (2026 INSC 943) is Kotak Mahindra Bank Ltd v. Trupti Sanjay Mehta & Ors.; (2) the Kerala High Court IFCI/Hotel Mythri res judicata ruling is dated '2025' in the body text, FAQ and references, but the High Court decision itself (OP(C) No. 2569 of 2026) was delivered on 15 September 2026, not 2025 (only the underlying civil suit, O.S. No. 11 of 2025, is from 2025); (3) one related_pages entry, /articles/arbitration-noida-delhi-ncr-seat-jurisdiction-article.html, does not exist in origin/main:assets/search-index.json -- it corresponds to a still-unpublished sibling draft (_drafts/articles/21-...).",
-  "fixes": [
-   {
-    "find": "Kotak Mahindra Bank Ltd. v. Union of India and others, Supreme Court of India, on SARFAESI enforcement over debt assigned from an NBFC not itself covered by the Act",
-    "replace": "Kotak Mahindra Bank Ltd v. Trupti Sanjay Mehta & Ors., 2026 INSC 943, Supreme Court of India, on SARFAESI enforcement over debt assigned from an NBFC not itself covered by the Act",
-    "reason": "the respondent named in the Supreme Court's ruling is Trupti Sanjay Mehta and others, not the Union of India"
-   },
-   {
-    "find": "a point the Kerala High Court applied directly in a 2025 matter involving IFCI's SARFAESI action against a hotel property",
-    "replace": "a point the Kerala High Court applied directly in a 2026 matter involving IFCI's SARFAESI action against a hotel property",
-    "reason": "the Kerala High Court's ruling (OP(C) No. 2569 of 2026) was delivered on 15 September 2026, not 2025"
-   },
-   {
-    "find": "Kerala High Court, IFCI v. Hotel Mythri matter, 2025, on res judicata barring a civil suit after an adverse DRT SARFAESI finding",
-    "replace": "Kerala High Court, IFCI v. Hotel Mythri matter, 2026 (OP(C) No. 2569 of 2026), on res judicata barring a civil suit after an adverse DRT SARFAESI finding",
-    "reason": "the ruling itself is from 2026; only the underlying civil suit was filed in 2025"
-   },
-   {
-    "find": "in a 2025 ruling involving IFCI, have held that a finding against a borrower",
-    "replace": "in a 2026 ruling involving IFCI, have held that a finding against a borrower",
-    "reason": "the Kerala High Court's ruling was delivered in 2026, not 2025"
-   },
-   {
-    "find": "    \"/articles/debt-recovery-sarfaesi-drt-ibc-guarantor-exposure-article.html\",\n    \"/articles/arbitration-noida-delhi-ncr-seat-jurisdiction-article.html\"",
-    "replace": "    \"/articles/debt-recovery-sarfaesi-drt-ibc-guarantor-exposure-article.html\"",
-    "reason": "this related page does not exist yet on the live site (origin/main:assets/search-index.json); it is still an unpublished draft (_drafts/articles/21-arbitration-noida-delhi-ncr-seat-jurisdiction-article.json)"
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/24-nri-power-of-attorney-abroad-property-litigation-article.json",
-  "verdict": "FIX",
-  "claims_checked": 7,
-  "evidence": [
-   "https://www.livelaw.in/amp/top-stories/execution-of-power-of-attorney-can-not-transfer-title-to-the-grantee-reiterates-sc-read-judgment-148963",
-   "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2004/Supp.%20(6)/Part%20I/janki%20vashdeo%20bhojwani%20and%20anr._indus%20ind%20bank%20ltd.%20and%20ors_1700809203.pdf",
-   "https://lawsathi.in/judgements/sc/2010/man-kaur-dead-lrs-hartar-singh-sangha/",
-   "https://www.hcch.net/en/news-archive/details/?varevent=857"
-  ],
-  "note": "Independently re-verified via fresh searches. Suraj Lamp (2012) 1 SCC 656, Janki Vashdeo (2005) 2 SCC 217, Praful B Desai (2003) 4 SCC 601, Rajni Tandon (Civil Appeal No. 4671/2004, decided 29 July 2009), the Stamp Act s.18 three-month-from-receipt rule, and UAE's non-membership of the Apostille Convention (with Saudi Arabia's accession effective 7 Dec 2022) all check out. One citation error found: Man Kaur v Hartar Singh Sangha is cited in the draft as (2010) 10 SCC 512, but independent sources give [2010] 12 SCR 515 / 2010 INSC 672 instead; could not confirm (2010) 10 SCC 512 as a valid reporter citation for this case.",
-  "fixes": [
-   {
-    "find": "Man Kaur v Hartar Singh Sangha, (2010) 10 SCC 512, approved and applied this restriction.",
-    "replace": "Man Kaur v Hartar Singh Sangha, 2010 INSC 672, approved and applied this restriction.",
-    "reason": "Secondary sources give the neutral citation 2010 INSC 672 / [2010] 12 SCR 515 for this case, not (2010) 10 SCC 512; the SCC citation could not be confirmed."
-   },
-   {
-    "find": "\"Man Kaur v Hartar Singh Sangha, (2010) 10 SCC 512\",",
-    "replace": "\"Man Kaur v Hartar Singh Sangha, 2010 INSC 672\",",
-    "reason": "Same citation correction, in the references list."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/25-nri-property-occupied-relatives-tenants-encroachers-remedies-article.json",
-  "verdict": "FIX",
-  "claims_checked": 7,
-  "evidence": [
-   "https://www.scconline.com/blog/post/2019/08/08/plaintiff-can-take-a-plea-of-adverse-possession-under-article-65-of-limitation-act-1963-sc/",
-   "https://www.livelaw.in/amp/top-stories/sc-upholds-right-of-nris-to-claim-summary-eviction-procedure-149824",
-   "https://www.verdictum.in/court-updates/supreme-court/an-nri-landlord-does-not-need-to-be-physically-present-in-the-country-to-initiate-eviction-proceedings-under-the-east-punjab-urban-rent-restriction-act-1498730",
-   "https://bcajonline.org/journal/ravi-kant-gupta-v-state-of-uttar-pradesh-maintenance-tribunal-under-senior-citizens-act-possesses-incidental-power-to-order-eviction-of-children-to-ensure-maintenance-and-protection/"
-  ],
-  "note": "Independently re-verified via fresh searches. Ravinder Kaur Grewal (2019) 8 SCC 729, Shanta Rani v Nasib Kaur (5 Oct 2023), Sudesh Chhikara v Ramti Devi (2022 LiveLaw (SC) 1011), BNS s.329 (in force 1 July 2024, penalties as stated), and Delhi Rent Control Act s.3(c)'s unamended Rs 3,500 threshold all check out. The Ravi Kant Gupta / Samtola Devi / Kamalakant Mishra Senior Citizens Act eviction-power line is real and consistent with the draft. One citation error found: Ram Krishan Grover v Union of India is cited as (2020) 9 SCC 438 (and the draft's own verification_notes already flag this as unconfirmed 'general recollection'); independent sources give (2020) 12 SCC 506. Separately, article 25's related_pages includes /articles/nri-power-of-attorney-abroad-property-litigation-article.html, which is not yet in origin/main's search-index.json because that companion article (no. 24) is itself still an unpublished draft in this same batch; not treated as an error since both are expected to publish together, but flagging for the publishing step to confirm the link resolves once both go live.",
-  "fixes": [
-   {
-    "find": "Ram Krishan Grover v Union of India, (2020) 9 SCC 438, and has since applied it",
-    "replace": "Ram Krishan Grover v Union of India, (2020) 12 SCC 506, and has since applied it",
-    "reason": "Independent sources (LiveLaw, SCC Online) give the citation as (2020) 12 SCC 506, not (2020) 9 SCC 438."
-   },
-   {
-    "find": "\"Ram Krishan Grover v Union of India, (2020) 9 SCC 438\",",
-    "replace": "\"Ram Krishan Grover v Union of India, (2020) 12 SCC 506\",",
-    "reason": "Same citation correction, in the references list."
-   }
-  ]
- },
- {
-  "file": "_drafts/articles/26-foreign-divorce-decree-recognition-india-article.json",
-  "verdict": "PASS",
-  "claims_checked": 7,
-  "evidence": [
-   "https://theindianlawyer.in/foreign-divorce-decree-not-binding-without-compliance-with-indian-matrimonial-law/",
-   "https://lawchakra.in/supreme-court/supreme-court-anti-suit-injunction-forum-non-conveniens-uk-divorce-matrimonial/",
-   "https://api.sci.gov.in/jonew/judis/12713.pdf",
-   "https://familycourts.mphc.gov.in/PDF/WORKSHOP%20ON%20FAMILY%20LAWS%20AUGUST%202016/HONBLE%20JUSTICE%20DIPAK%20MISRA/Balram%20Yadav%20v.Fulamaniya%20Yada%20AIR%202016%20SC%202161.pdf"
-  ],
-  "note": "Independently re-verified via fresh searches, with particular skepticism on the two load-bearing 2026 cases since the whole article's news hook rests on them. Kishorekumar Mohan Kale v Kashmira Kale (15 Jan 2026, Civil Appeal No. 1342 of 2013, Nath & Mehta JJ) and Mihir Prakash Bajoria v Vidushi Jain Bajoria (2026 INSC 1034, 22 Sep 2026, Bhatti & Anjaria JJ) are both real, with consistent facts and holdings across 4-5+ independent outlets each. Narasimha Rao (1991) 3 SCC 451, Satya v Teja Singh (1975) 1 SCC 120, Dinesh Singh Thakur v Sonal Thakur (2018 INSC 356), Balram Yadav v Fulmaniya Yadav (AIR 2016 SC 2161), and BNS s.82 bigamy (up to 7 years + fine, in force 1 July 2024) all confirmed. No contradictions found; no fixes needed."
- }
+  {
+    "file": "_drafts/articles/01-arbitration-after-balasamy-core-unstamped-agreements-article.json",
+    "verdict": "PASS",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.scobserver.in/cases/courts-power-to-modify-an-arbitral-award-gayatri-balasamy-v-m-s-isg-novasoft-technologies-ltd/",
+      "https://www.livelaw.in/amp/top-stories/arbitration-clauses-in-unstamped-agreements-enforceable-supreme-court-7-judge-bench-overruled-nn-global-decision-244387",
+      "https://www.scconline.com/blog/post/2024/11/08/unilateral-appointment-arbitrator-public-private-contracts-violate-article-14-supreme-court",
+      "https://dailyjus.com/world/2025/07/why-the-minority-view-got-it-right-in-gayatri-balasamy"
+    ],
+    "note": "Independently re-verified via fresh searches: In Re Interplay (13 Dec 2023, seven-judge bench, unanimous, overruled N.N. Global/SMS Tea Estates, partially overruled Garware), N.N. Global (April 2023, five-judge, 3:2, Joseph/Bose/Ravikumar/Rastogi/Roy JJ), CORE II (8 Nov 2024, five-judge bench of Chandrachud CJI, Roy, Pardiwala, Narasimha, Misra JJ, Article 14 holding, prospective effect for 3-member panels, includes the Section 12(5)/Seventh Schedule ineligible-nomination point via the companion JSW Steel reference), the overruled 2020 CORE decision correctly cited as (2020) 14 SCC 712, Gayatri Balasamy (30 Apr 2025, 2025 INSC 605, 4:1, CJI Khanna with Gavai/Sanjay Kumar/Masih JJ in majority, Viswanathan J dissenting on the four categories but concurring on clerical-error correction) and NHAI v M Hakeem (10 July 2021, 2021 INSC 344). Dissent's reliance on 1940 Act Sections 15-16, UNCITRAL alignment and New York Convention enforceability risk confirmed via independent commentary. No Arbitration Act amendment has been enacted as of Oct 2026 (the 2024 draft Bill remains at consultation stage), consistent with the article's 'as of this article' statement. All six related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language present. The draft's own verification_notes already and correctly flag the handful of citations (TRF v Energo, Voestalpine, precise neutral citations for In Re Interplay and CORE II) that could not be cross-verified against two independent sources, rather than asserting invented precision, which is good practice."
+  },
+  {
+    "file": "_drafts/articles/02-ibc-amendment-act-2026-reform-article.json",
+    "verdict": "PASS",
+    "claims_checked": 16,
+    "evidence": [
+      "https://www.maheshwariandco.com/press-release/ibc-amendment-act-2026/",
+      "https://www.verdictum.in/court-updates/supreme-court/power-trust-v-bhuvan-madan-2026insc166-cirp-adjudicating-authority-insolvency-resolution-section-7-1608009",
+      "https://www.barandbench.com/law-firms/view-point/the-insolvency-and-bankruptcy-code-amendment-act-2026-a-comprehensive-analysis",
+      "https://blog.ipleaders.in/cross-border-and-group-insolvency-under-the-ibc-amendment-act-2026/"
+    ],
+    "note": "Independently re-verified: Presidential assent 6 April 2026 (Act No. 6 of 2026, passed Lok Sabha 30 Mar, Rajya Sabha 1 Apr) and commencement of most provisions from 26 May 2026 confirmed. Power Trust v Bhuvan Madan is a real decision, 2026 INSC 166, decided 18 Feb 2026 (CJI Surya Kant bench, Civil Appeal No. 2211/2024), and independently confirmed to hold that Vidarbha's observations are confined to its own facts and that Innoventive's narrow debt-and-default inquiry at Section 7 admission still governs; viability and part-settlement arguments were rejected as grounds to resist admission - matches the draft's characterisation. CIIRP (Chapter IV-A, 51% financial-creditor threshold, 150 days +45 day extension, confined to Central-Government-notified institutions) confirmed, including the genuine, unresolved conflict in commentary over whether it is actually notified for use, which the draft correctly flags as unsettled rather than asserting either way. Section 33(1A) restart (66% CoC threshold, one-time, 120-day window, effective 26 May 2026, Regulation 40F procedure) confirmed via Bar & Bench and an IBBI-published NCLT order. Chapter VA group insolvency and Section 240C cross-border provisions being carved out of the May 2026 commencement notification with no rules framed, and the draft's explicit correction of commentary that wrongly describes India as having adopted the UNCITRAL Model Law, independently confirmed via iPleaders' dedicated analysis, which also separately confirms tribunals are still handling such cases through ad hoc judicial improvisation. Innoventive (2018) 1 SCC 407 and Vidarbha (2022) 8 SCC 352 citations, dates and holdings are consistent with established case law. All six related_pages paths exist in origin/main:assets/search-index.json. No Section 29A or Section 9 amendment was found in any source, consistent with the draft's stated absence of findings on that point. No client anecdotes or marketing language present. The draft is unusually careful throughout to flag genuinely conflicting secondary sources (CIIRP operational status, the 25 vs 26 May commencement date) as open questions rather than resolving them by invention, which is exactly the right approach for a fast-moving, recently enacted statute."
+  },
+  {
+    "file": "_drafts/articles/03-dpdp-act-compliance-clock-article.json",
+    "verdict": "PASS",
+    "claims_checked": 13,
+    "evidence": [
+      "https://www.azbpartners.com/bank/indias-digital-personal-data-protection-act-phased-rollout-and-key-compliance-milestones/",
+      "https://amlegals.com/penalties-under-the-digital-personal-data-protection-act2023/",
+      "https://www.sansalegal.com/post/how-to-appeal-a-data-protection-board-order-to-the-appellate-tribunal",
+      "https://www.miniorange.com/blog/dpdp-consent-manager-registration/"
+    ],
+    "note": "Independently re-verified: DPDP Rules, 2025 notified 13/14 November 2025 (date reported inconsistently across sources, matching the draft's own deliberate 'mid-November 2025' hedge) with a three-phase commencement (immediate: Board constitution, Rules 1-2 and 17-21; +12 months, mid-Nov 2026: consent manager registration under Rule 4; +18 months, mid-May 2027: substantive obligations) confirmed. Penalty Schedule figures (250 crore security safeguards/s.8(5), 200 crore each for breach notification/s.8(6) and children's data/s.9, 150 crore significant data fiduciary/s.10, 50 crore residual, assessed per instance not as an annual cap) independently confirmed across two sources matching exactly. Appeal route (Board order to TDSAT within 60 days, s.29, further appeal to Supreme Court on questions of law under s.30) confirmed, including TDSAT's own six-month disposal mandate. Consent manager conditions (Rule 4, Part A First Schedule, 2 crore net worth up from a 20-million draft figure, Indian incorporation, independent interoperability certification with technical standards still pending from the Board) confirmed. Children's data provisions (18-year threshold, verifiable parental/guardian consent, Digital Locker/Rule 10 identity verification route, bar on tracking and targeted advertising to minors subject to limited exceptions) confirmed, though most detailed commentary available was still describing the January 2025 draft rather than confirming final Rules text, which the article's own verification_notes already and correctly flag as a limitation rather than asserting false certainty. Cross-border transfer blacklist model (Rule 15, transfer permitted unless a destination is specifically restricted, no restricted-country notification found) confirmed, as was the genuine, unresolved status of the breach-notification '72 hours' figure, which independent sources likewise could trace only to the January 2025 draft rather than confirmed final Rules text; the article's explicit hedging on this exact point ('reported in current compliance commentary... has not been entirely uniform') is accurate and appropriately cautious rather than an error. Both related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language present. This draft's verification_notes are unusually disciplined about flagging precisely the points (exact notification day, further-appeal forum, breach-notification hour figure, survival of the critical-personal-data cross-border rule) where the underlying Rules text could not be confirmed, rather than resolving them by invention."
+  },
+  {
+    "file": "_drafts/articles/04-generative-ai-indian-intellectual-property-article.json",
+    "verdict": "FIX",
+    "claims_checked": 16,
+    "evidence": [
+      "https://corporate.cyrilamarchandblogs.com/2026/07/ani-v-open-ai-delhi-high-court-refuses-interim-injunction-in-landmark-ai-copyright-dispute/",
+      "https://www.intepat.com/blog/dabus-copyright-order-india-ai-authorship",
+      "https://blog.galalaw.com/post/102micu/indias-2026-it-rules-amendment-regulating-ai-generated-content-and-accelerating",
+      "https://www.storyboard18.com/how-it-works/aishwarya-rai-bachchan-moves-delhi-high-court-to-safeguard-personality-rights-80576.htm",
+      "https://www.livelaw.in/amp/top-stories/delhi-high-court-anil-kapoor-voice-image-misuse-personality-rights-238217",
+      "https://globalfreedomofexpression.columbia.edu/wp-content/uploads/2025/03/arijit-singh-vs-codible-ventures-llp-552701.pdf",
+      "https://www.outlookbusiness.com/deeptech/artificial-intelligence/inside-indias-ai-trademark-wars-gemini-chatgpt-grok-and-the-legal-fights-over-naming-rights",
+      "https://storyboard18.com/digital/belagavi-startup-sues-anthropic-over-brand-name-court-posts-next-hearing-for-march-23-91735.htm"
+    ],
+    "note": "Independently re-verified via fresh searches. ANI v OpenAI (CS(COMM) 1028/2024, interim order 24 July 2026, Justice Amit Bansal, Section 52(1)(a) fair dealing on training, no substantial reproduction found on outputs, jurisdiction upheld) matches the draft. Anil Kapoor v Simply Life India (CS(COMM) 652/2023, 20 Sept 2023, Prathiba Singh J), Jackie Shroff v Peppy Store (15 May 2024, Sanjeev Narula J), Arijit Singh v Codible Ventures (Bombay HC, ex parte ad interim, 26 July 2024, R.I. Chagla J, IA(L) 23560/2024 in Com IPR Suit(L) 23443/2024), and Aishwarya Rai Bachchan v Aishwaryaworld.com (CS(COMM) 956/2025, 9 Sept 2025, Tejas Karia J) all confirmed. IT Rules 2026 amendment (G.S.R. 120(E), notified 10 Feb 2026, effective 20 Feb 2026, SGI definition, 3-hour takedown window) confirmed. Trade mark oppositions (ChatGPT/Flaxxi AI, Gemini/Sun TV, Grok/Groke) and the pending Anthropic Softwares v Anthropic PBC Belagavi suit confirmed as still undecided, consistent with the draft. One factual correction: the DABUS Registrar of Copyrights order rejecting DABUS as author is dated 31 August 2026 (confirmed by spicyip.com, intepat.com, supremetoday.ai and ksandk.com), not \"around September 2026\" as the draft hedges; the draft itself flagged this date as unconfirmed in its verification_notes, and a precise date is now available. Both related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or result claims found (BCI Rule 36 compliant).",
+    "fixes": [
+      {
+        "find": "the Registrar of Copyrights held, by around September 2026, that the image met the originality threshold",
+        "replace": "the Registrar of Copyrights held, on 31 August 2026, that the image met the originality threshold",
+        "reason": "Exact order date is confirmed by multiple sources as 31 August 2026, not the hedged \"around September 2026\""
+      },
+      {
+        "find": "Registrar of Copyrights order following Delhi High Court direction of April 2026, decided around September 2026",
+        "replace": "Registrar of Copyrights order dated 31 August 2026, following Delhi High Court direction of April 2026",
+        "reason": "Exact order date now confirmed"
+      },
+      {
+        "find": "the Registrar's rejection of DABUS as author (reported around September 2026) are confirmed by business-standard.com, ksandk.com and organiser.org. The precise calendar date of the Registrar's order was not found in any source and is therefore given only as 'around September 2026'.",
+        "replace": "the Registrar's rejection of DABUS as author, dated 31 August 2026, are confirmed by business-standard.com, ksandk.com, intepat.com and supremetoday.ai.",
+        "reason": "Precise order date (31 August 2026) is now confirmed by independent re-verification"
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/05-bns-bnss-bsa-criminal-law-two-years-article.json",
+    "verdict": "PASS",
+    "claims_checked": 15,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/supreme-court-to-decide-if-s223-bnss-will-apply-when-cognizance-is-taken-of-complaints-filed-before-july-1-2024-300985",
+      "https://www.verdictum.in/court-updates/supreme-court/sumit-bansal-v-mgi-developers-and-promoters-2026-insc-40-section-138-ni-act-1603951",
+      "https://blog.ipleaders.in/organised-crime-under-bns-section-111/",
+      "https://www.verdictum.in/allahabad-high-court/ravi-alias-ravindra-singh-v-state-of-up-2026ahc101857-mandatory-trial-in-absentia-1613587",
+      "https://www.medianama.com/2025/05/223-e-zero-fir-cyber-fraud-rs-10-lakh/"
+    ],
+    "note": "Independently re-verified via fresh searches. Sanjabij Tari v Kishore S. Borcar (2025 INSC 1158, 25 Sept 2025, Manmohan and N.V. Anjaria JJ, BNSS s.223 pre-cognizance hearing not required for s.138 NI Act complaints) confirmed. Sumit Bansal v MGI Developers (2026 INSC 40, 8 Jan 2026, Sanjay Karol and Prashant Kumar Mishra JJ, each dishonoured cheque is a separate cause of action) confirmed. BNS ss.111/112 organised and petty organised crime thresholds (prior chargesheet history within 10 years for s.111; no such requirement for s.112; 1-7 year sentence for s.112) confirmed, including the unverified secondary report of a 2026 High Court distinguishing the two sections, which the draft itself flags as unverified. Allahabad HC guidelines on BNSS s.356 trial in absentia (Ravi alias Ravindra Singh, 2026 AHC 101857, including the 90-day post-charge waiting period and state-funded amicus curiae) confirmed. BNSS s.193 investigation timelines (90/60 days, s.193(3) reasons requirement, treated as mandatory by Kerala HC) confirmed. e-Zero FIR pilot (I4C, Delhi, launched 19 May 2025, Rs 10 lakh threshold, NCRP/1930 helpline route) confirmed. The genuinely unsettled points the draft flags as unsettled (BSA s.63 vs the Arjun Panditrao original-device exception; the split among High Courts on the consequence of missing BNSS s.105 videography) remain correctly described as unresolved in current commentary; no court has resolved either squarely as of this run. All four related_pages paths exist in origin/main:assets/search-index.json. The draft is unusually careful about flagging single-sourced or unverified figures (the FIR/chargesheet statistics, the MP High Court s.111/s.112 ruling), which independent verification bears out as the correct posture."
+  },
+  {
+    "file": "_drafts/articles/06-rera-ten-years-india-homebuyer-remedies-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/high-time-states-rethink-constituting-rera-benefits-only-defaulting-builders-cji-surya-kant-522897",
+      "https://www.livelaw.in/amp/top-stories/homebuyers-who-secure-rera-decrees-cant-be-treated-differently-from-other-financial-creditors-under-ibc-supreme-court-240198",
+      "https://www.livelawbiz.com/nclt/ibc-prevails-over-rera-where-resolution-plan-conflicts-with-individual-refund-rights-nclt-mumbai-550051",
+      "https://egazette.gov.in/WriteReadData/2026/274061.pdf"
+    ],
+    "note": "Independently re-verified via fresh searches. CJI Surya Kant's 12 Feb 2026 oral remarks on RERA (bench also included Justice Joymalya Bagchi), the Himachal Pradesh RERA office relocation context, and the stay of the High Court's 30 Dec 2025 direction all confirmed, correctly reported as oral observations not a formal direction. The 2023 Supreme Court ruling on RERA decree-holders as financial creditors under the IBC is confirmed (the case is actually styled Vishal Chelani v Debashis Nanda, Civil Appeal No. 3806/2023, decided by Justices S. Ravindra Bhat and Aravind Kumar, concerning the Bulland Elevates project by Bulland Buildtech; the draft's generic description as the \"Bulland Buildtech matter\" is directionally accurate as to the facts but does not name the actual case). Spenta Enclave NCLT Mumbai order (9 Sept 2026, Rs 1,048.95 crore plan, ~300 homebuyers, Rs 264.29 crore admitted claims, Section 238 IBC override of individual refund rights) confirmed. One factual error found: the references section cites \"Jan Vishwas (Amendment of Provisions) Act, 2023\" for the RERA Section 68 decriminalisation change effective 7 May 2026. Independent verification shows this is actually a distinct, later statute, the Jan Vishwas (Amendment of Provisions) Act, 2026 (the 2023 Act was the first, 42-Act edition of the programme; the RERA-related decriminalisation is part of a second, 2026 edition, per egazette.gov.in notifications and multiple law-firm commentaries including barandbench.com and ksandk.com). The body text and FAQ correctly avoid naming a year, so only the references entry needs correction.",
+    "fixes": [
+      {
+        "find": "Jan Vishwas (Amendment of Provisions) Act, 2023, RERA-related amendments brought into force with effect from 7 May 2026",
+        "replace": "Jan Vishwas (Amendment of Provisions) Act, 2026, RERA-related amendments brought into force with effect from 7 May 2026",
+        "reason": "The RERA Section 68 decriminalisation is part of the 2026 edition of the Jan Vishwas programme, not the 2023 Act"
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/07-nri-succession-wills-probate-repatriation-article.json",
+    "verdict": "PASS",
+    "claims_checked": 13,
+    "evidence": [
+      "https://ssrana.in/articles/a-long-overdue-reform-repeal-of-section-213-of-the-indian-succession-act-1925/",
+      "https://www.scconline.com/blog/post/2026/08/29/section-213-succession-act-omission-2025-probate/",
+      "https://www.casemine.com/commentary/in/recognition-and-limitation-in-letters-of-administration:-insights-from-ramesh-nivrutti-bhagwat-v.-surendra-manohar-parakhe/view",
+      "https://rbi.org.in/SCRIPTS/BS_ViewMasDirections.aspx?id=10196"
+    ],
+    "note": "Independently re-verified via fresh searches. Repealing and Amending Act, 2025 omitting Section 213 ISA 1925 confirmed (Presidential assent 20 Dec 2025, Gazette publication 21 Dec 2025, non-retrospective effect on pending probate petitions); the draft's list of affected communities (Hindu, Parsi, Sikh, Jain) matches several law-firm sources (SSRana, Free Press Journal) even though the bare statutory text and some other commentary also include Buddhists, so this is sources disagreeing rather than a draft error. Vineeta Sharma v Rakesh Sharma, (2020) 9 SCC 1, holding (daughter is a coparcener by birth regardless of father's survival, conditional on the coparcenary existing on 9 Sept 2005) confirmed via the Supreme Court's own judgment PDF and Khaitan & Co./Bar & Bench commentary. Ramesh Nivrutti Bhagwat v Surendra Manohar Parakhe confirmed as a real Supreme Court case on exactly the facts described (ancillary Indian letters of administration granted in 1994 notwithstanding an earlier California probate; revocation petition dismissed as time-barred under Article 137 Limitation Act); the AIR 2019 SC 4948 parallel citation itself could not be independently cross-checked (other sources give 2019 INSC 1122 / [2019] 13 SCR 658) but the case's identity and holding are correct. FEMA's asymmetry on agricultural land/plantation/farmhouse (inheritance from a resident permitted without RBI approval; purchase barred; gift to an NRI/OCI of the same categories excluded under the RBI Master Direction's own gift clause) confirmed directly against the RBI Master Direction text. Estate Duty Act, 1953 abolition effective 16 March 1985 confirmed (parliamentary record), consistent with the draft's 'abolished...1985' statement. India's accession to the Hague Apostille Convention entering into force 14 July 2005 confirmed via HCCH's own records. Section 49(1)/56(2)(x) Income-tax Act mechanism for inherited property, and the ongoing, genuinely unsettled renumbering under the Income-tax Act, 2025 (Section 195 becomes Section 393(2) from 1 April 2026; form and certificate mapping inconsistent across commentary) confirmed, matching the draft's own appropriately hedged treatment in its verification_notes. Succession certificate scope under Part X (limited to debts/securities, excludes immovable property) confirmed via independent commentary on Sections 370 and 381. All thirteen related_pages paths confirmed present in origin/main:assets/search-index.json. No client anecdotes, result claims, or marketing language found (BCI Rule 36 compliant); author voice uses only generic professional-experience framing ('matters I see'). No proposition in the article rests on an uncorroborated source, and the draft's own verification_notes already flag the handful of genuinely unsettled points (exact Section 213 commencement date, specific country list for FEMA approval, new Income-tax Act 2025 form numbers) as open rather than resolving them by invention."
+  },
+  {
+    "file": "_drafts/articles/08-four-labour-codes-operation-article.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://prsindia.org/billtrack/the-industrial-relations-code-2020",
+      "https://www.livelaw.in/amp/high-court/karnataka-high-court/karnataka-high-court-writ-trade-union-restrain-strike-limited-reliefs-industrial-tribunal-544109",
+      "https://www.scobserver.in/cases/uttar-pradesh-jai-bir-singh-definition-of-industry-case-background/",
+      "https://www.mondaq.com/epf-compliance-in-the-gig-economy-is-indias-new-social-security-framework-enough/1831806"
+    ],
+    "note": "Commencement notifications/dates, floor wage non-notification, 300-worker standing-orders figure, Section 114 gig contribution band and non-notification, and State of U.P. v. Jai Bir Singh (2026 INSC 897, nine-judge bench, correctly hedged on vote count) all confirmed. Two real errors found: (1) the article twice claims a state government may lower the Section 28 standing-orders threshold below 300 (key_points, body text, and an FAQ) -- PRS's bill-tracking commentary confirms this flexibility existed only in the 2019 Bill and was dropped before the 2020 Act was passed, so no state has that power today; (2) the Chapter X lay-off/retrenchment/closure section is internally self-contradictory, correctly saying a state may notify a higher threshold in one paragraph but then saying a lower threshold in the next -- PRS and the PIB release confirm the 2020 Code allows only an increase, never a decrease. Also fixed: the Bosch Automotive Electronics Karnataka HC ruling (cited twice) was decided 24 July 2026, not August 2026 as stated; it was only reported more widely in early August.",
+    "fixes": [
+      {
+        "find": "rose from 100 to 300 workers, a change state governments may lower but mostly have not.",
+        "replace": "rose from 100 to 300 workers; state governments may raise the lay-off, retrenchment and closure permission threshold further, but neither it nor the standing-orders threshold can be lowered, and most states have not changed either one.",
+        "reason": "The 2020 Code allows states only to raise the Chapter X permission threshold, never to lower either threshold; the standing-orders threshold has no state-variation power at all."
+      },
+      {
+        "find": "while leaving a state government free to prescribe a lower figure for establishments within its territory.",
+        "replace": "and the 2019 Bill's provision letting the government extend the standing-orders requirement to smaller establishments by notification was dropped before enactment, so no state has the power to lower this threshold today.",
+        "reason": "PRS's bill-tracking commentary confirms this power existed in the 2019 Bill but was removed from the enacted 2020 Code."
+      },
+      {
+        "find": ", unless its state has chosen to keep the lower bar.",
+        "replace": ".",
+        "reason": "No state has a power to keep a lower standing-orders threshold under the enacted Code."
+      },
+      {
+        "find": "A state that has notified a lower threshold changes the analysis entirely, and because",
+        "replace": "A state that has notified a higher threshold changes the analysis, since it moves more establishments into the notice-only category, and because",
+        "reason": "Contradicts the earlier, correct statement in the same section that states may only raise this threshold, not lower it."
+      },
+      {
+        "find": "The Karnataka High Court held in August 2026, in a dispute between Bosch Automotive Electronics and its workers' union, that a writ petition",
+        "replace": "The Karnataka High Court held on 24 July 2026, reported more widely in early August, in a dispute between Bosch Automotive Electronics and its workers' union, that a writ petition",
+        "reason": "LiveLaw reports the ruling was decided 24 July 2026, not in August."
+      },
+      {
+        "find": "Only if your state has kept a lower threshold than the national default of 300 workers, which the Industrial Relations Code allows a state to prescribe. If your state follows the national threshold, an establishment of 150 workers is no longer required to certify standing orders, though you may still want a model or voluntary framework in place.",
+        "replace": "No. Section 28 of the Industrial Relations Code fixes the standing-orders threshold at 300 workers nationally, and unlike an earlier bill version, the enacted Code gives no state the power to lower that figure. An establishment of 150 workers is accordingly no longer required to certify standing orders, though you may still want a model or voluntary framework in place.",
+        "reason": "Corrects the same state-flexibility error in the FAQ answer."
+      },
+      {
+        "find": "The Karnataka High Court held in August 2026 that a writ petition against a trade union to restrain a proposed strike is generally not maintainable",
+        "replace": "The Karnataka High Court held on 24 July 2026 (widely reported in early August) that a writ petition against a trade union to restrain a proposed strike is generally not maintainable",
+        "reason": "Date correction matching the body-text fix."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/09-infrastructure-ppp-disputes-termination-payment-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.verdictum.in/delhi-high-court/national-highways-authority-of-india-v-ms-kurukshetra-expressway-private-ltd-2026dhc5961-court-restraint-tribunals-fidelity-to-contract-1618755",
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/gvv-constructions-v-union-of-india-determination-of-excepted-matters-under-the-arbitration-act/",
+      "https://www.livelaw.in/amp/high-court/allahabad-high-court/allahabad-high-court-grants-relief-tata-nhai-terminate-contract-540801",
+      "https://supremetoday.ai/supreme-court-stays-allahabad-hc-order-quashing-nhais-rs940-crore-contract-termination-with-tata-projects-20260831077"
+    ],
+    "note": "Independently re-verified via fresh searches rather than the draft's own sources: NHAI Policy Circular 11.82/2026 (19 Jan 2026, Rs 10 crore threshold, retrospective, pending-arbitration carve-out); Kurukshetra Expressway (2026:DHC:5961, Rs 911.13cr award, Rs 650cr Article 48.1 ceiling, Rs 1,045.5cr disaggregated TPC, 28 Sept 2026 Division Bench affirmance); Somdatt Builders v NHAI (2025 INSC 113, 27 Jan 2025, Section 37 restraint and patent-illegality standard); Tata Projects v Union of India (Allahabad HC quashed Rs 940.68cr termination, July 2026) and the Supreme Court stay (SLP(C) 29512/2026, 31 Aug 2026, Pardiwala/Vinod Chandran JJ); GVV Constructions (2026 INSC 976, 8 Sept 2026, Section 16 competence-competence on excepted matters); DIAL force majeure ruling (2025:DHC:1523, 7 March 2025, Justice Dinesh Kumar Sharma); Patwardhan Infrastructure (2026:BHC-AS:2050, 17 Jan 2026); and Ssangyong v NHAI (2019 SCC OnLine SC 677, unilateral-circular holding). All party roles, figures, dates and holdings matched the draft. Jabalpur Corridor (SC, 29 May 2026) is confirmed as to case, date and the jurisdictional-finality holding; one source gives the award itself as Rs 49 crore with 14.75% interest, which does not contradict the draft's Rs 176cr claim/Rs 277cr counterclaim figures since those appear to describe amounts sought rather than the amount awarded, so no fix made. The draft's own verification_notes already flag the residual uncertainties (GVV SC decision date, DIAL date discrepancy, Jabalpur INSC citation) appropriately rather than overstating certainty."
+  },
+  {
+    "file": "_drafts/articles/10-power-sector-disputes-change-in-law-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.etvbharat.com/en/!bharat/sc-rejects-rajasthan-discoms-plea-upholds-aptel-verdict-in-adani-power-case-enn25052307257",
+      "https://www.verdictum.in/supreme-court/indian-railways-v-west-bengal-state-electricity-distribution-company-limited-2026-insc-464-consumer-under-electricity-act-deemed-licensee-1613640",
+      "https://www.scconline.com/blog/post/2026/05/25/entry-tax-imposed-later-by-state-amounts-to-change-in-law/",
+      "https://solarquarter.com/2026/09/21/aptel-sets-aside-inr-6-44-kwh-solar-tariff-order-upholds-inr-5-68-kwh-rate-for-5-mw-siwana-project-in-haryana/"
+    ],
+    "note": "Independent searches confirmed the SC Adani Power Rajasthan ruling (23 May 2025, bench, holding), the Sundew Properties and Indian Railways deemed-licensee rulings (correctly resolving conflicting secondary commentary in favour of the non-automatic reading), the APTEL entry tax ruling (Appeal No. 322 of 2021, April 2026, PPA/bid-year facts), the August 2026 Adani Power Tiroda compliance order, and the September 2026 Siwana Solar ruling. All related_pages exist on the live site. Draft is already carefully hedged where sources conflict (e.g. unconfirmed SC citation, unnotified curtailment proposal); no unsupported claims found."
+  },
+  {
+    "file": "_drafts/articles/11-fssai-enforcement-labelling-suspension-recall-appeals-article.json",
+    "verdict": "PASS",
+    "claims_checked": 12,
+    "evidence": [
+      "https://www.verdictum.in/bombay-high-court/hotel-alankar-v-state-of-maharashtra-2026bhc-kol8650-db-fssai-license-continued-suspension-1621830",
+      "https://www.verdictum.in/delhi-high-court/fssai-ban-on-dabur-selling-food-products-with-100-claims-stayed-1619391",
+      "https://www.barandbench.com/news/litigation/delhi-high-court-sets-aside-fssai-order-directing-red-bull-to-drop-energy-drink-label",
+      "https://www.etvbharat.com/en/bharat/fssai-registration-and-licences-renewal-news-enn26031306831"
+    ],
+    "note": "Independently verified Hotel Alankar (69%/97% compliance scores, dates, bench), the Dabur/Britannia/ITC/Red Bull interim orders (dates, judge, procedural basis), the 2026 perpetual-validity reform and exact turnover thresholds (12 lakh to 1.5 crore; 50 crore State/Central split), and the Section 70/71(6) limitation periods and forum-inconsistency (Bombay civil side vs Chhattisgarh criminal vs MP miscellaneous second appeal). All related_pages exist on the live site. No factual errors found; draft already hedges the genuinely unsettled points (improvement-notice-as-precondition question, claims merits, Tribunal availability)."
+  },
+  {
+    "file": "_drafts/articles/12-gst-litigation-after-gstat-appeals-pre-deposit-article.json",
+    "verdict": "PASS",
+    "claims_checked": 11,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/union-of-india-v-sunil-biyani-2026-insc-849-order-sec69-cgst-act-anticipatory-bail-accused-arrest-1619773",
+      "https://www.barandbench.com/news/litigation/supreme-court-refuses-to-revive-363-crore-gst-demand-against-vodafone-idea",
+      "https://www.verdictum.in/delhi-high-court/rohit-garg-v-union-of-india-2026dhc7502-db-pre-deposit-amendment-effective-october-1621559",
+      "https://www.verdictum.in/delhi-high-court/gaurav-jain-anr-v-joint-commissioner-appeals-ii-cgst-delhi-zone-2026dhc6124-db-mandatory-10-pre-deposit-appeal-scn-stage-1618981"
+    ],
+    "note": "Independently verified GSTAT operational timeline, the Bhandari Scrap Traders SC ruling upholding Section 16(2)(c) (24 July 2026) against the Tripura Sahil Enterprises read-down, the Gaurav Jain/Rohit Garg vested-right-of-appeal line (wording matches almost verbatim, 629-entity batch confirmed as more than six hundred), the Sunil Biyani pre-arrest communication ruling, and the Vodafone Idea non-existent-entity ruling. All related_pages exist on the live site. Draft already flags its own residual date uncertainties (Sunil Biyani decision date, GSTAT first-hearing date) rather than asserting a single unverified figure; no unsupported or incorrect claims found."
+  },
+  {
+    "file": "_drafts/articles/13-consumer-protection-ecommerce-ccpa-dark-patterns-platform-liability-article.json",
+    "verdict": "FIX",
+    "claims_checked": 20,
+    "evidence": [
+      "https://www.scconline.com/blog/post/2026/08/03/ncdrc-held-written-statement-filed-within-45-days-is-maintainable/",
+      "https://api.sci.gov.in/supremecourt/2016/6150/6150_2016_2_107_71816_Judgement_04-Jun-2026.pdf",
+      "https://www.livelaw.in/amp/high-court/andhra-pradesh-high-court/advocates-deficiency-in-service-consumer-protection-act-540787",
+      "https://www.jsalaw.com/newsletters-and-updates/ccpa-issues-guidelines-for-prevention-and-regulation-of-dark-patterns-2023/"
+    ],
+    "note": "Confirmed CCPA statutory structure (Ss.18-22, 2(47), 2(28), 21, 89), the 13 dark patterns in the 2023 guidelines, the E-Commerce Amendment Rules 2026 (notified 9 Sept 2026, effective 1 Jan 2027), the PhysicsWallah/McAfee, Dial4Trade, Weblink and Xboom CCPA orders, T.K.A. Padmanabhan v Abhiyan Cooperative (4 June 2026), Imperia Structures v Anil Patni, and the Andhra Pradesh HC advocates ruling, and all related_pages resolve on the live site. One significant error: the draft frames the 2026 NCDRC written-statement ruling as 'a ruling against HDFC Bank', but the actual order (HDFC Bank Ltd. v Thomas Alexander, 2026 SCC OnLine NCDRC 130, confirmed against the site's own already-verified live article at that slug) allowed HDFC Bank's revision petition and held its written statement was filed within the 45-day window, reversing the State Commission that had struck it off -- i.e. the ruling went in the bank's favour, not against it, though the 45-day-is-a-firm-ceiling principle the draft draws from it is correct.",
+    "fixes": [
+      {
+        "find": "The National Commission held, in a 2026 ruling against HDFC Bank, that the forty-five day period to file a written statement under the Act (thirty days extendable by a further fifteen) is a firm ceiling, not a guideline that a forum can relax by its own discretion, reinforcing a line of Supreme Court authority on the same point reaching back to 2020.",
+        "replace": "The National Commission held, in a 2026 ruling in HDFC Bank's favour, that the forty-five day period to file a written statement under the Act (thirty days extendable by a further fifteen) is a firm, absolute ceiling that a forum cannot shorten through its own stricter view of promptness, setting aside a State Commission order that had struck off the bank's written statement even though it had been filed within that window, and reinforcing a line of Supreme Court authority on the same point reaching back to 2020.",
+        "reason": "The NCDRC ruling (HDFC Bank Ltd. v Thomas Alexander, 2026 SCC OnLine NCDRC 130) allowed HDFC Bank's own revision petition and went in the bank's favour, not against it; the draft had the direction of the holding backwards."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/14-debt-recovery-sarfaesi-drt-ibc-guarantor-exposure-article.json",
+    "verdict": "PASS",
+    "claims_checked": 16,
+    "evidence": [
+      "https://www.livelaw.in/top-stories/supreme-court-sarfaesi-proceedings-invoked-despite-decree-passed-drt-suit-res-judicata-inapplicable-550165",
+      "https://www.livelaw.in/supreme-court/banks-can-invoke-sarfaesi-for-loans-acquired-from-nbfcs-not-covered-under-act-supreme-court-548335",
+      "https://www.verdictum.in/court-updates/supreme-court/2024-insc-978-celir-llp-v-sumati-prasad-bafna-borrower-cannot-redeem-mortgage-upon-publication-of-auction-notice-1561051",
+      "https://taxguru.in/corporate-law/delays-mandatory-admission-strict-timelines-ibc-amendment-act-2026.html"
+    ],
+    "note": "Independently confirmed: Celir LLP v Bafna Motors (Mumbai) Pvt Ltd (2023 INSC 838, Civil Appeal 5542-5543/2023, decided 21 Sept 2023) and its Section 13(8)/Rule 9(1) redemption-cutoff holding; Kotak Mahindra Bank Ltd v Trupti Sanjay Mehta (2 Sept 2026, 2026 LiveLaw (SC) 886) allowing SARFAESI against an NBFC-originated loan; K.K. Praveen v JM Financial ARC (W.P.(Civil) No. 1091/2026, 9 Sept 2026, Nagarathna & Mahadevan JJ, Section 35 overriding effect) and the Bombay HC Tata Capital v Neel Motors ruling (24 July 2026) both match this site's own already-verified news items on the same cases; the DRT 20-lakh pecuniary floor (2018 notification, upheld by Rajasthan HC) and the IBC (Amendment) Act 2026 changes (Section 7(5) 'may' to 'shall', effective 26 May 2026, and the Section 96(4)/124(4) interim-moratorium carve-out for personal guarantors) are also corroborated. B.K. Educational Services v Parag Gupta (Article 137/Section 238A) and SBI v V. Ramakrishnan (2018, guarantor liability survives moratorium) are well-settled law consistent with the draft. All 22 related_pages resolve on the live site. No unsupported claims, client anecdotes or marketing language found; draft appropriately flags its own residual uncertainty (Tata Capital bench composition, old recovery-certificate-to-Section-7 question) rather than overstating settled law."
+  },
+  {
+    "file": "_drafts/articles/15-shareholder-oppression-mismanagement-nclt-article.json",
+    "verdict": "FIX",
+    "claims_checked": 15,
+    "evidence": [
+      "https://www.livelawbiz.com/company-law/nclat-restores-status-quo-over-company-assets-pending-valuation-and-determination-on-share-buyback-547301",
+      "https://www.verdictum.in/supreme-court/dr-bais-surgical-and-medical-institute-pvt-ltd-ors-v-dhananjay-pande-2026-insc-447-1613399",
+      "https://www.livelawbiz.com/company-law/nclat-dismisses-former-shareholders-appeal-against-sintex-industries-holds-section-59-not-a-vehicle-for-adjudicating-monetary-claims-547655",
+      "https://lawx.in/case-laws/view/ms-embassy-property-developments-pvt-ltd-vs-the-state-of-karnataka"
+    ],
+    "note": "Confirmed: Dr. Bais Surgical and Medical Institute v Dhananjay Pande (2026 INSC 447, decided 4 May 2026, Narasimha and Aradhe JJ); the Sintex Industries/Titus Babu Section 59 clean-slate ruling (NCLT Ahmedabad and NCLAT New Delhi, consistent with the draft's own hedged dates and figures); Embassy Property Developments v State of Karnataka (3 Dec 2019, public-law matters outside NCLT's Section 60(5) reach, fraud inquiry permitted under Ss.65/69); the VCare Technologies and Rukshmani Syntex NCLAT rulings both match this site's own already-independently-verified news items on the same cases (xv_results_news.json). One confirmed discrepancy: this site's own prior independent verification of the Rukshmani Syntex matter (two sources, livelawbiz.com and taxguru.in) established the NCLT status quo order date as 27 March 2026, but this article's body text states the status quo was directed '5 March 2026' as a settled fact, even though the draft's own verification_notes field separately flags '27 March 2026' as a conflicting date without resolving which is correct in the visible text. Rest of the article (Section 241-246 scheme, Section 244 threshold and waiver case law, Kalinga Tubes/Needle Industries oppression test, Section 242 remedies, winding-up fallback) is standard, well-settled company law consistent with the draft. All 9 related_pages resolve on the live site.",
+    "fixes": [
+      {
+        "find": "The NCLT directed status quo on 5 March 2026 after the respondents themselves conceded to the request",
+        "replace": "The NCLT directed status quo on 27 March 2026 after the respondents themselves conceded to the request",
+        "reason": "This site's own independently verified news coverage of the same Rukshmani Syntex dispute (cross-checked across livelawbiz.com and taxguru.in) confirms the NCLT status quo order is dated 27 March 2026, not 5 March 2026; the draft's own verification_notes field flags 27 March as a possible date without correcting the body text."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/16-redevelopment-joint-development-agreement-disputes-article.json",
+    "verdict": "FIX",
+    "claims_checked": 20,
+    "evidence": [
+      "https://ksandk.com/newsletter/co-promoters-liability-real-estate-projects/",
+      "https://indiankanoon.org/doc/104376017/",
+      "https://www.verdictum.in/app-lite/court-updates/supreme-court/a-a-estates-private-limited-v-kher-nagar-sukhsadan-co-operative-housing-society-ltd-2025-insc-1366-slum-dwellers-1599541",
+      "https://www.scconline.com/blog/post/2026/01/31/bombay-hc-tenants-right-to-timely-redevelopment/",
+      "https://www.freepressjournal.in/mumbai/consumer-connect-maharashtras-new-redevelopment-rules-allow-online-sgbms-registrar-noc-no-longer-required",
+      "https://taxguru.in/corporate-law/rera-landowners-co-promoters-aggrieved-persons.html",
+      "https://www.livelawbiz.com/rera/reat/mp-reat-rera-act-inapplicable-to-disputes-between-co-promoters-under-joint-venture-519174"
+    ],
+    "note": "Independently re-verified: Wadhwa Group Housing v. Vijay Choksi (26 Feb 2024, Bombay HC, Justice Marne) confirmed via 5+ independent sources (Indian Kanoon, taxguru, barandbench, ksandk, freepressjournal, thelawsuits.in) - joint liability regardless of which promoter received the money is correctly stated, appeal dismissed, SLP dismissal 8 Apr 2024 context plausible. Bhopal Development Authority v. Roop Laxmi Singh (MP REAT, 8 Jan 2026) and Mohammad Mustaq v. Sonali Housing Projects (Telangana REAT, 24 Oct 2025) both confirmed via independent sources, holding and facts match draft. A.A. Estates v. Kher Nagar Sukhsadan confirmed as 2025 INSC 1366, decided 28 Nov 2025, SLP (C) No. 10758/2025 is the correct citation (the alternate Appeal (Civil) 14410/2025 flagged in the drafts own notes is not supported). ISON Builders v. Om Sai Ram CHS (23 Jan 2026, Justice Marne) confirmed via SCC Online - termination upheld, Section 9 relief refused, tenants right to timely redevelopment prevails over developer commercial interests; note this is the SAME ruling the draft also cites separately in its tenants-rights section and references list as a generic Jan 2026 ruling, so the two citations are not independently sourced precedents as the drafting implies, though nothing is factually wrong. NCDRC Mantra Lifestyle Homes refund (9 Oct 2025, 9% interest) confirmed via LiveLaw and thelawsuits.in. Satish Inamdar and Nissa Hoosain Nensey non-signatory arbitration holdings substantially confirmed. Main problem: the draft materially undersells 2026 changes to the Maharashtra redevelopment consent framework, describing a further 2026 order as largely restating the 2019 GR, when in fact Maharashtra inserted a new Chapter XI-B (Rules 106C-1 to 106C-14) into the Cooperative Societies Rules, 1961 (notified 18 June 2026, effective 30 June 2026) that converts the GR guidance into statutory rules, permits video-conference attendance at the SGBM, and (per a Registrar circular dated 4 November 2025) removes the requirement for a Registrar NOC before developer selection - a substantive procedural change the as-on-date (22 Oct 2026) article should reflect. Also one related_pages path is wrong directory (/blog/ instead of /articles/) and does not resolve against the live search index.",
+    "fixes": [
+      {
+        "find": "with a further order reported in 2026 that largely restates the 2019 position",
+        "replace": ". In 2026 the state went further than a mere restatement: a new Chapter XI-B (Rules 106C-1 to 106C-14) was inserted into the Maharashtra Co-operative Societies Rules, 1961, notified 18 June 2026 and effective 30 June 2026, converting the earlier GR guidance into statutory rules, permitting members to attend the special general body meeting by video conference, and, following a Registrar circular dated 4 November 2025, removing the requirement for a Registrar no-objection certificate before a developer is selected",
+        "reason": "The 2026 change was a substantive statutory codification with new VC-attendance and no-NOC provisions, not a mere restatement of the 2019 GR; confirmed via Free Press Journal, ksandk and societybee.in coverage of Chapter XI-B (notified 18 June 2026, effective 30 June 2026)."
+      },
+      {
+        "find": "/blog/rera-ten-years-india-homebuyer-remedies-article.html",
+        "replace": "/articles/rera-ten-years-india-homebuyer-remedies-article.html",
+        "reason": "Wrong directory; the live search index lists this page under /articles/, not /blog/, so the related_pages link is currently broken."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/17-trademark-enforcement-passing-off-well-known-marks-article.json",
+    "verdict": "PASS",
+    "claims_checked": 22,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/ghostbuster-row-trademark-need-not-be-formally-declared-well-known-to-get-cross-class-protection-says-delhi-hc",
+      "https://ssrana.in/articles/zara-v-zora-delhi-high-court-holds-prior-well-known-declaration-not-mandatory-to-invoke-section-112/",
+      "https://www.livelaw.in/supreme-court/can-civil-judge-notified-as-commercial-court-hear-trademark-infringement-suits-supreme-court-refers-to-larger-bench-551142",
+      "https://conventuslaw.com/report/india-trademark-infringement-suits-cannot-be-tried-by-courts-below-district-court-kerala-high-court-decides/",
+      "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-790-shabu-kn-achary-v-dharampal-premchand-limited-545420",
+      "https://www.scconline.com/blog/post/2026/04/18/marq-v-marc-trademark-delhi-high-court-injunction-against-flipkart/",
+      "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-interim-court-relief-in-pantocid-trademark-dispute-174326",
+      "https://www.barandbench.com/news/litigation/using-visually-similar-vernacular-versions-of-registered-trademark-is-infringement-madras-high-court",
+      "https://www.businesstoday.in/technology/news/story/google-moves-delhi-hc-against-trademark-infringement-ruling-in-hindware-adwords-case-542291-2026-07-10",
+      "https://www.scconline.com/blog/post/2026/05/13/delhi-hc-toyotas-alphard-declared-well-known-trade-mark/",
+      "https://storyboard18.com/brand-marketing/delhi-high-court-dismisses-parle-appeal-in-20-20-trademark-dispute-with-avon-agro-91970.htm"
+    ],
+    "note": "Independently re-verified every 2026 ruling cited: Columbia Pictures/Ghostbusters (Rule 124 declaration not a precondition to Section 11(2) cross-class protection, matter remitted to Registrar) and Zara v. Zora (ZORA Class 24 registration cancelled, anti-dissection applied) both confirmed via multiple independent sources (barandbench, ssrana, scconline). I.S.D.S. v. Khemka Food Products (21 Sep 2026, SC refers Kandla Export/Jaycee Housing conflict on Section 134 vs Commercial Courts notifications to larger bench) and Cutis International (Kerala HC, 8 Sep 2026, District Court is the floor regardless of pecuniary value) both confirmed. Shabu KN Achary v. Dharampal Premchand (2026 INSC 819, decided 7 Aug 2026, bench of Pardiwala and Vinod Chandran JJ, defendant entitled to cross-examine on brand-use duration raised by the plaintiffs own affidavit) confirmed via LiveLaw, Verdictum and Conventus Law. Flipkart MarQ v. Marc (10 Apr 2026, house mark does not cure confusion), Sun Pharma v. Finecure Pantopacid (Division Bench reverses single judge, July 2026), the Madras HC Tamil Globe mark ruling against Vikas Mandoth (7 Sep 2026, vernacular transliteration can infringe), the Google/Hindware keyword-advertising ruling (Justice Mini Pushkarna, Rs 30 lakh joint damages, Google appeal pending and undecided as the draft states) the Toyota ALPHARD Division Bench reversal (4 May 2026, LPA 176/2023, well-known status via grey-market imports and press coverage) and the Avon Agro v. Parle 20-20 priority dispute (earlier proposed-to-be-use filing date defeats later commercial use) were all independently confirmed and match the draft facts, parties, dates and holdings closely. The long-settled foundational authorities (Wander v. Antox, Midas Hygiene, N.R. Dongre v. Whirlpool, Toyota v. Prius, Bengal Waterproof, Yamini Manohar) are correctly and conventionally stated. All 16 related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes, result claims, or marketing language found. The drafts own verification_notes already candidly flag the handful of points (exact Hindware/Columbia Pictures dates varying slightly across sources, DHC IP exemption status after Yamini Manohar) that could not be pinned down further, which matches what independent searches also found - no fixes needed."
+  },
+  {
+    "file": "_drafts/articles/18-enforcing-foreign-arbitral-awards-india-interim-relief-article.json",
+    "verdict": "PASS",
+    "claims_checked": 18,
+    "evidence": [
+      "https://legalblogs.wolterskluwer.com/arbitration-blog/after-nagaraj-why-the-india-singapore-arbitration-corridor-just-got-more-valuable/",
+      "https://www.jsalaw.com/articles-publications/supreme-court-of-india-reinforces-finality-in-enforcement-of-foreign-awards-while-recognising-transnational-issue-estoppel/",
+      "https://www.livelawbiz.com/arbitration/foreign-seat-of-arbitration-alone-doesnt-oust-indian-courts-jurisdiction-to-grant-interim-relief-karnataka-high-court-544065",
+      "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/osterreichischer-lloyd-seereederei-cyprus-ltd-v-victore-ships-pvt-ltd-commercial-arbitration-petition-no-398-of-2025-relief-us-9-arbitration-act-1610853",
+      "https://www.scobserver.in/journal/validity-of-an-unstamped-arbitration-agreement-everything-thats-happened-at-the-supreme-court-so-far/",
+      "https://www.barandbench.com/amp/story/view-point/time-for-reciprocity-why-india-should-recognise-uae-for-enforcement-of-arbitral-awards"
+    ],
+    "note": "Independently re-verified the 2025-2026 developments this piece leans on. Nagaraj V. Mylandla v. PI Opportunities Fund-I (2026 INSC 298, decided ~25 Mar 2026) confirmed: Singapore-seated SIAC award upheld by the Singapore High Court, promoters tried to reargue the same issues before the Madras High Court enforcement proceeding and on appeal to the Supreme Court, which recognised transnational issue estoppel and declined to let public policy become a vehicle to relitigate merits the seat court already decided - matches the draft closely. Aroha Labs v. Prem Dharmani (Karnataka HC, AP.IM No. 4 of 2026, foreign seat alone does not oust Section 9 jurisdiction, partial restraint granted, return of company property declined at the interim stage) confirmed via LiveLawBiz, Trilegal and SupremeToday. Osterreichischer Lloyd v. Victore Ships (Bombay HC, Justice Somasekhar Sundaresan, 10 Mar 2026, Commercial Arbitration Petition No. 398 of 2025, Section 9 relief survives alongside a pending Part II petition until the award becomes a decree, execution-stage question left open) confirmed via Verdictum, JSA and Cyril Amarchand commentary, matching the draft exactly including the open question it flags. The In Re Interplay stamp-duty reference is correctly stated in the body text as a seven-judge, unanimous bench overruling NN Global (confirmed via SCC Observer) - the drafts own verification_notes flags an unresolved 5-judge-vs-7-judge discrepancy internally, but that hedge never reaches the reader-facing text, which already gets this right, so no fix is needed. The UAE Section 44(b) gazette gap is also confirmed current as of 2026: the UAE was notified under Section 44A CPC for court judgments in 2020 but sources through 2026 still describe it as unnotified for Section 44 arbitral-award purposes specifically, exactly the distinction the draft draws. The foundational authorities (Fuerst Day Lawson, Vedanta, Renusagar, Shri Lal Mahal, Vijay Karia, NAFED, Gemini Bay, BALCO, Raffles Design) are long-settled and correctly summarised. All 12 related_pages paths exist in origin/main:assets/search-index.json. No client anecdotes or marketing language found. No fixes needed."
+  },
+  {
+    "file": "_drafts/articles/19-joint-ventures-acquisitions-contractual-protections-regulatory-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/bombay-high-courts-rules-on-arbitrability-of-oppression-and-mis-management-issues-5998",
+      "https://www.scconline.com/blog/post/2026/05/06/fema-ndi-amendment-allows-100-percentage-fdi-insurance-sector/",
+      "https://www.etvbharat.com/en/bharat/sc-sets-aside-nclat-order-upholding-cci-rs-202-crore-penalty-on-amazon-enn26052702974",
+      "https://www.barandbench.com/law-firms/view-point/rbis-new-acquisition-finance-framework-a-regulatory-shift-towards-bank-financed-acquisitions-in-india"
+    ],
+    "note": "Core case law (Rangaraj, Messer Holdings, World Phone, Rakesh Malhotra, Nirma Industries) and the regulatory claims (March 2024 and 10 September 2024 CCI thresholds, RBI acquisition finance framework effective 1 April 2026, insurance FDI raised to 100% with LIC retained at 20% via the 2 May 2026 Second Amendment Rules, Corporate Laws (Amendment) Bill 2026 referred to a JPC, SEBI's 2026 Uni Abex Alloy and S Chand family-trust exemptions) all check out against independent sources. One defect: the related_pages entry /articles/enforcing-foreign-arbitral-awards-india-interim-relief-article.html is not live (that piece is still an unpublished draft at _drafts/articles/18-...), so the link is currently broken; it is not in origin/main:assets/search-index.json. Also, the Amazon-Future Coupons Supreme Court outcome (27 May 2026) that the draft itself flags as single-source and unverified is now corroborated by multiple independent reports (ETV Bharat, Moneylife, Bar and Bench), so the hedge in the text is unnecessarily cautious but not wrong.",
+    "fixes": [
+      {
+        "find": "    \"/legal-news/persistent-systems-nagarro-acquisition.html\",\n    \"/articles/enforcing-foreign-arbitral-awards-india-interim-relief-article.html\"",
+        "replace": "    \"/legal-news/persistent-systems-nagarro-acquisition.html\"",
+        "reason": "Linked article is not yet published (still a draft); the path does not exist on the live site/search index, so the related_pages link is broken."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/20-noida-greater-noida-commercial-courts-jurisdiction-article.json",
+    "verdict": "FIX",
+    "claims_checked": 15,
+    "evidence": [
+      "https://www.prashantkanha.com/commercial-courts-in-uttar-pradesh/",
+      "https://main.sci.gov.in/supremecourt/2022/7090/7090_2022_9_1_37312_Order_16-Aug-2022.pdf",
+      "https://www.caseciter.com/2026insc436/",
+      "https://www.verdictum.in/court-updates/supreme-court/atul-j-doshi-v-pramukh-properties-and-developers-2025-insc-1345-license-fee-clause-2-order-xv-a-cpc-bombay-amendment-1598838",
+      "https://indialegallive.com/constitutional-law-news/courts-news/allahabad-high-court-directs-noida-authority-to-review-cancellation-of-institutional-plot-allotment/"
+    ],
+    "note": "Most central claims check out against independent sources: the 2017/2022 UP commercial court notifications and the SC's 16 Aug 2022 order flagging overlapping jurisdiction (SLP(C) 7090/2022), the Jan 2023 posting order, Patil Automation's mandatory Section 12A holding with prospective effect from 20 Aug 2022, the Yamini Manohar 'deception and falsity' urgency test (2023 LiveLaw (SC) 906), the 2021 three-judge-bench overruling of N.V. International restoring Section 5 Limitation Act condonation for Section 13 appeals, the Reliance Eminent Trading v. DDA ruling (2026 INSC 436, J.K. Maheshwari and Atul S. Chandurkar JJ) which did allow the summary-judgment appeal and does use the 'grasp the nettle' language in its guidelines, the Andhra Pradesh HC 2:1 full bench ruling on the self-operative 3-lakh threshold, the Pawan Hans/Noida Sector 1 plot cancellation writ (order of 7.11.2024, Allahabad HC directing review with interim protection), and the Supreme Court's 'innumerable controversies'/'huge litigation' language on Noida township allotment disputes. All ten related_pages paths exist in origin/main:assets/search-index.json. One factual error found: the draft says a UP state amendment also uses the number Order XV-A to deal with striking off a tenant's defence. Independent sources show the UP state amendment on this subject is actually Order XV Rule 5 CPC (inserted 1972, substituted 1976); Order XV-A for striking off a tenant/licensee's defence is the Bombay (Maharashtra) amendment, confirmed in the 2025 Supreme Court ruling Atul J. Doshi v. Pramukh Properties (2025 INSC 1345), which expressly calls it the 'Bombay Amendment'.",
+    "fixes": [
+      {
+        "find": "from an entirely separate Uttar Pradesh state amendment that also uses the number Order XV-A but deals with striking off a tenant's defence",
+        "replace": "from an entirely separate Bombay (Maharashtra) state amendment to the Code that also uses the number Order XV-A but deals with striking off a tenant's or licensee's defence in a lessor's suit for eviction or rent",
+        "reason": "The state amendment using the Order XV-A numbering for striking off a tenant's defence is the Bombay/Maharashtra amendment, not a Uttar Pradesh one; UP's own provision on this subject is Order XV Rule 5 CPC, a different rule."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/21-arbitration-noida-delhi-ncr-seat-jurisdiction-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/high-courts/delhi-high-court-anju-jain-v-wtc-noida-development-company-2024dhc2849-seat-agreement-jurisdiction-arbitration-proceedings-1530167",
+      "https://www.mondaq.com/india/arbitration-dispute-resolution/1539560/accord-and-satisfaction-does-not-affect-the-existence-of-an-arbitration-agreement-sbi-general-insurance-ltd-v-krish-spinning",
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/mahanadi-coalfields-v-gsco-infrastructure-limited-seat-of-arbitration-under-the-arbitration-act/",
+      "https://www.jurishour.in/other-laws/limitation-challenge-arbitral-award-disposal-s-33-application-nhai/"
+    ],
+    "note": "BALCO and BGS SGS Soma (overruling Hardy Exploration) are confirmed, as are SBI General Insurance v. Krish Spinning (2024 INSC 532, narrow Section 11(6) scrutiny), Arif Azim v. Aptech (2024 INSC 155, Article 137 three-year period), Sundaram Finance v. Abdul Samad (2018, no transfer decree needed for execution), Mahanadi Coalfields v. GSCO Infrastructure (place of proceedings does not fix the seat) and NHAI v. T. Younis (Section 34 clock runs from disposal of a Section 33 application regardless of outcome). One real error: the draft uses Anju Jain v. WTC Noida Development Company (2024:DHC:2849) as an illustration that Section 9 and Section 34 proceedings for a Delhi-administered arbitration can still 'remain anchored to Gautam Buddh Nagar.' In fact the Delhi High Court in that case held Delhi itself to be the seat; clause 17.3 gives Gautam Buddh Nagar courts jurisdiction only over matters never referred to arbitration at all (separate civil disputes), not over Section 9/34 applications arising from the arbitration, which would follow the Delhi seat. The order does not address Section 9 or Section 34 routing at all. Second, the related_pages entry /articles/noida-greater-noida-commercial-courts-jurisdiction-article.html is not live (still an unpublished draft at _drafts/articles/20-...); it is absent from origin/main:assets/search-index.json, so that link is currently broken. The other ten related_pages paths all exist in the index.",
+    "fixes": [
+      {
+        "find": "The decision illustrates a pattern increasingly common in NCR disputes: an arbitration administered institutionally out of Delhi, while interim relief, residual civil claims, and in some cases Section 9 and Section 34 proceedings themselves remain anchored to Gautam Buddh Nagar because that is where the seat, or the relevant immovable property, or the parties' course of dealing actually sits.",
+        "replace": "The decision illustrates a pattern increasingly common in NCR disputes: an arbitration administered institutionally out of Delhi, with Delhi itself fixed as the seat, while civil disputes that fall outside the arbitration clause altogether remain anchored to Gautam Buddh Nagar under a jurisdiction clause expressly made subject to the arbitration agreement. Section 9 and Section 34 proceedings arising from the arbitration itself still follow the seat; in Anju Jain that means Delhi, not Gautam Buddh Nagar. A Gautam Buddh Nagar-seated arbitration keeps those applications at Gautam Buddh Nagar only where the contract or the parties' conduct fixes the seat there specifically, as in the separate Allahabad High Court and Delhi High Court decisions discussed above.",
+        "reason": "The draft cites Anju Jain as an example of Section 9/34 proceedings staying with Gautam Buddh Nagar, but the court in that case held Delhi to be the seat; Gautam Buddh Nagar courts retained jurisdiction only over disputes never referred to arbitration at all, not over Section 9/34 applications tied to this arbitration."
+      },
+      {
+        "find": "    \"/legal-news/nhai-t-younis-arbitration-section-33-34-limitation.html\",\n    \"/articles/noida-greater-noida-commercial-courts-jurisdiction-article.html\"",
+        "replace": "    \"/legal-news/nhai-t-younis-arbitration-section-33-34-limitation.html\"",
+        "reason": "Linked article is not yet published (still a draft); the path does not exist on the live site/search index, so the related_pages link is broken."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/22-noida-greater-noida-real-estate-disputes-article.json",
+    "verdict": "FIX",
+    "claims_checked": 13,
+    "evidence": [
+      "https://www.legalauthority.in/judgement/skyline-contractors-pvt-ltd-vs-state-of-u-p-13497",
+      "https://www.livelaw.in/amp/top-stories/supreme-court-rera-pre-deposit-promoters-appeal-435-newtech-promoters-and-developers-pvt-ltd-vs-state-of-up-185428",
+      "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/savita-sharma-vs-state-of-up-and-2-others-2025ahc111809-db-cant-allow-deliberate-repeated-defaults-by-allottee-1586709",
+      "https://housing.com/news/no-builder-to-take-over-10-unit-cost-before-sale-agreement-up-rera",
+      "https://www.livelawbiz.com/rera/high-court/rera-no-time-limit-on-allottees-claim-for-interest-on-delayed-possession-under-s-181-allahabad-high-court-552651"
+    ],
+    "note": "Skyline Contractors (9 July 2008, Civil Appeal No. 4272/2008, NOIDA cancellation of Sector 62 Plot A-28 for non-payment upheld), Savita Sharma v. State of U.P. (2025:AHC:111809-DB, UPSIDA lease not restored after repeated default), Newtech Promoters (Section 43(5) pre-deposit upheld as constitutional, 11 Nov 2021), Antriksh Developers v. Shyam Sunder Agarwal/Agrawal (accepting delayed possession does not bar a later Section 18 interest claim), the Pawan Hans/Sector 1 Noida writ, and the December 2023 UP cabinet approval of the Amitabh Kant committee's stalled-projects package (zero period, co-developer induction) all check out against independent sources. All ten related_pages paths exist in origin/main:assets/search-index.json. One factual error: the draft states UP RERA's delay-interest rate under Section 18 mirrors 'the State Bank of India's highest marginal cost of funds based lending rate plus two per cent.' Independent sources (a housing.com report on UP RERA's notified rate, a law-firm summary of a UP Real Estate Appellate Tribunal ruling, and the Antriksh Developers case itself, where the tribunal awarded interest at MCLR+1%) show Uttar Pradesh's notified rate is SBI's highest MCLR plus one per cent, not plus two per cent; the +2% figure is the rate several other states (Maharashtra, Haryana, Bihar) have adopted following the central model rules, not Uttar Pradesh's own notified rate.",
+    "fixes": [
+      {
+        "find": "the interest rate UP RERA applies, in line with the rule most states have adopted, mirrors the State Bank of India's highest marginal cost of funds based lending rate plus two per cent, applied both ways",
+        "replace": "the interest rate UP RERA applies, under its own notified rules, is the State Bank of India's highest marginal cost of funds based lending rate plus one per cent (several other states have instead adopted a plus-two-per-cent formula), applied both ways",
+        "reason": "Uttar Pradesh's notified RERA delay-interest rate is SBI's highest MCLR plus 1%, not plus 2%; the Antriksh Developers tribunal order itself awarded interest at MCLR+1%, and the +2% figure is the rate used by several other states, not UP."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/23-noida-up-recovery-sarfaesi-drt-ibc-article.json",
+    "verdict": "FIX",
+    "claims_checked": 17,
+    "evidence": [
+      "https://nclt.gov.in/Jurisdiction",
+      "https://www.corporateprofessionals.com/regulatoryupdate/mca-shifts-the-territorial-jurisdiction-of-state-of-haryana-from-nclt-new-delhi-to-nclt-chandigarh-bench/",
+      "https://www.livelawbiz.com/high-court/kerala-high-court/kerala-high-court-lessee-cannot-file-fresh-suit-after-suffering-adverse-order-debt-recovery-tribunal-sarfaesi-act-551083",
+      "https://www.livelaw.in/supreme-court/banks-can-invoke-sarfaesi-for-loans-acquired-from-nbfcs-not-covered-under-act-supreme-court-548335",
+      "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/yadunandan-pandey-vs-state-of-up-and-3-others-appointments-in-debt-recovery-tribunal-1583705",
+      "https://www.livelaw.in/amp/articles/bnss-section-233-first-proviso-section-138-ni-act-kerala-cognizance-283976",
+      "https://www.verdictum.in/app-lite/court-updates/supreme-court/e-muthurathinasabathy-ors-v-ms-sri-international-ors-2026-insc-303-1611213"
+    ],
+    "note": "Core framework holds up well on independent re-checking: NCLT Allahabad's jurisdiction over UP and Uttarakhand, the Haryana-to-Chandigarh 2017 transfer, the personal-guarantor bench-linkage rule (Kamlesh Rani Singla v. Praveen Kumar Garg), the 28 Nov 2025 Supreme Court payee-branch cheque ruling, the Karnataka HC/Sanjabij Tari position on BNSS 223(1) and Section 138, the SARFAESI auction-finality/redemption line, the P&H HC sole-residential-house interim stay, and the DRT pecuniary threshold (Rs 20 lakh since 2018) all check out, and the piece is admirably careful about flagging what is genuinely unconfirmed (the exact DRT allocated to Gautam Buddh Nagar, the live status of the Oct 2022 Rs 100 crore DRT-reallocation stay). Three concrete slips found: (1) the references list names the Kotak Mahindra assignment case as 'Kotak Mahindra Bank Ltd. v. Union of India and others' but the actual 2026 ruling (2026 INSC 943) is Kotak Mahindra Bank Ltd v. Trupti Sanjay Mehta & Ors.; (2) the Kerala High Court IFCI/Hotel Mythri res judicata ruling is dated '2025' in the body text, FAQ and references, but the High Court decision itself (OP(C) No. 2569 of 2026) was delivered on 15 September 2026, not 2025 (only the underlying civil suit, O.S. No. 11 of 2025, is from 2025); (3) one related_pages entry, /articles/arbitration-noida-delhi-ncr-seat-jurisdiction-article.html, does not exist in origin/main:assets/search-index.json -- it corresponds to a still-unpublished sibling draft (_drafts/articles/21-...).",
+    "fixes": [
+      {
+        "find": "Kotak Mahindra Bank Ltd. v. Union of India and others, Supreme Court of India, on SARFAESI enforcement over debt assigned from an NBFC not itself covered by the Act",
+        "replace": "Kotak Mahindra Bank Ltd v. Trupti Sanjay Mehta & Ors., 2026 INSC 943, Supreme Court of India, on SARFAESI enforcement over debt assigned from an NBFC not itself covered by the Act",
+        "reason": "the respondent named in the Supreme Court's ruling is Trupti Sanjay Mehta and others, not the Union of India"
+      },
+      {
+        "find": "a point the Kerala High Court applied directly in a 2025 matter involving IFCI's SARFAESI action against a hotel property",
+        "replace": "a point the Kerala High Court applied directly in a 2026 matter involving IFCI's SARFAESI action against a hotel property",
+        "reason": "the Kerala High Court's ruling (OP(C) No. 2569 of 2026) was delivered on 15 September 2026, not 2025"
+      },
+      {
+        "find": "Kerala High Court, IFCI v. Hotel Mythri matter, 2025, on res judicata barring a civil suit after an adverse DRT SARFAESI finding",
+        "replace": "Kerala High Court, IFCI v. Hotel Mythri matter, 2026 (OP(C) No. 2569 of 2026), on res judicata barring a civil suit after an adverse DRT SARFAESI finding",
+        "reason": "the ruling itself is from 2026; only the underlying civil suit was filed in 2025"
+      },
+      {
+        "find": "in a 2025 ruling involving IFCI, have held that a finding against a borrower",
+        "replace": "in a 2026 ruling involving IFCI, have held that a finding against a borrower",
+        "reason": "the Kerala High Court's ruling was delivered in 2026, not 2025"
+      },
+      {
+        "find": "    \"/articles/debt-recovery-sarfaesi-drt-ibc-guarantor-exposure-article.html\",\n    \"/articles/arbitration-noida-delhi-ncr-seat-jurisdiction-article.html\"",
+        "replace": "    \"/articles/debt-recovery-sarfaesi-drt-ibc-guarantor-exposure-article.html\"",
+        "reason": "this related page does not exist yet on the live site (origin/main:assets/search-index.json); it is still an unpublished draft (_drafts/articles/21-arbitration-noida-delhi-ncr-seat-jurisdiction-article.json)"
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/24-nri-power-of-attorney-abroad-property-litigation-article.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/execution-of-power-of-attorney-can-not-transfer-title-to-the-grantee-reiterates-sc-read-judgment-148963",
+      "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2004/Supp.%20(6)/Part%20I/janki%20vashdeo%20bhojwani%20and%20anr._indus%20ind%20bank%20ltd.%20and%20ors_1700809203.pdf",
+      "https://lawsathi.in/judgements/sc/2010/man-kaur-dead-lrs-hartar-singh-sangha/",
+      "https://www.hcch.net/en/news-archive/details/?varevent=857"
+    ],
+    "note": "Independently re-verified via fresh searches. Suraj Lamp (2012) 1 SCC 656, Janki Vashdeo (2005) 2 SCC 217, Praful B Desai (2003) 4 SCC 601, Rajni Tandon (Civil Appeal No. 4671/2004, decided 29 July 2009), the Stamp Act s.18 three-month-from-receipt rule, and UAE's non-membership of the Apostille Convention (with Saudi Arabia's accession effective 7 Dec 2022) all check out. One citation error found: Man Kaur v Hartar Singh Sangha is cited in the draft as (2010) 10 SCC 512, but independent sources give [2010] 12 SCR 515 / 2010 INSC 672 instead; could not confirm (2010) 10 SCC 512 as a valid reporter citation for this case.",
+    "fixes": [
+      {
+        "find": "Man Kaur v Hartar Singh Sangha, (2010) 10 SCC 512, approved and applied this restriction.",
+        "replace": "Man Kaur v Hartar Singh Sangha, 2010 INSC 672, approved and applied this restriction.",
+        "reason": "Secondary sources give the neutral citation 2010 INSC 672 / [2010] 12 SCR 515 for this case, not (2010) 10 SCC 512; the SCC citation could not be confirmed."
+      },
+      {
+        "find": "\"Man Kaur v Hartar Singh Sangha, (2010) 10 SCC 512\",",
+        "replace": "\"Man Kaur v Hartar Singh Sangha, 2010 INSC 672\",",
+        "reason": "Same citation correction, in the references list."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/25-nri-property-occupied-relatives-tenants-encroachers-remedies-article.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.scconline.com/blog/post/2019/08/08/plaintiff-can-take-a-plea-of-adverse-possession-under-article-65-of-limitation-act-1963-sc/",
+      "https://www.livelaw.in/amp/top-stories/sc-upholds-right-of-nris-to-claim-summary-eviction-procedure-149824",
+      "https://www.verdictum.in/court-updates/supreme-court/an-nri-landlord-does-not-need-to-be-physically-present-in-the-country-to-initiate-eviction-proceedings-under-the-east-punjab-urban-rent-restriction-act-1498730",
+      "https://bcajonline.org/journal/ravi-kant-gupta-v-state-of-uttar-pradesh-maintenance-tribunal-under-senior-citizens-act-possesses-incidental-power-to-order-eviction-of-children-to-ensure-maintenance-and-protection/"
+    ],
+    "note": "Independently re-verified via fresh searches. Ravinder Kaur Grewal (2019) 8 SCC 729, Shanta Rani v Nasib Kaur (5 Oct 2023), Sudesh Chhikara v Ramti Devi (2022 LiveLaw (SC) 1011), BNS s.329 (in force 1 July 2024, penalties as stated), and Delhi Rent Control Act s.3(c)'s unamended Rs 3,500 threshold all check out. The Ravi Kant Gupta / Samtola Devi / Kamalakant Mishra Senior Citizens Act eviction-power line is real and consistent with the draft. One citation error found: Ram Krishan Grover v Union of India is cited as (2020) 9 SCC 438 (and the draft's own verification_notes already flag this as unconfirmed 'general recollection'); independent sources give (2020) 12 SCC 506. Separately, article 25's related_pages includes /articles/nri-power-of-attorney-abroad-property-litigation-article.html, which is not yet in origin/main's search-index.json because that companion article (no. 24) is itself still an unpublished draft in this same batch; not treated as an error since both are expected to publish together, but flagging for the publishing step to confirm the link resolves once both go live.",
+    "fixes": [
+      {
+        "find": "Ram Krishan Grover v Union of India, (2020) 9 SCC 438, and has since applied it",
+        "replace": "Ram Krishan Grover v Union of India, (2020) 12 SCC 506, and has since applied it",
+        "reason": "Independent sources (LiveLaw, SCC Online) give the citation as (2020) 12 SCC 506, not (2020) 9 SCC 438."
+      },
+      {
+        "find": "\"Ram Krishan Grover v Union of India, (2020) 9 SCC 438\",",
+        "replace": "\"Ram Krishan Grover v Union of India, (2020) 12 SCC 506\",",
+        "reason": "Same citation correction, in the references list."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/26-foreign-divorce-decree-recognition-india-article.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://theindianlawyer.in/foreign-divorce-decree-not-binding-without-compliance-with-indian-matrimonial-law/",
+      "https://lawchakra.in/supreme-court/supreme-court-anti-suit-injunction-forum-non-conveniens-uk-divorce-matrimonial/",
+      "https://api.sci.gov.in/jonew/judis/12713.pdf",
+      "https://familycourts.mphc.gov.in/PDF/WORKSHOP%20ON%20FAMILY%20LAWS%20AUGUST%202016/HONBLE%20JUSTICE%20DIPAK%20MISRA/Balram%20Yadav%20v.Fulamaniya%20Yada%20AIR%202016%20SC%202161.pdf"
+    ],
+    "note": "Independently re-verified via fresh searches, with particular skepticism on the two load-bearing 2026 cases since the whole article's news hook rests on them. Kishorekumar Mohan Kale v Kashmira Kale (15 Jan 2026, Civil Appeal No. 1342 of 2013, Nath & Mehta JJ) and Mihir Prakash Bajoria v Vidushi Jain Bajoria (2026 INSC 1034, 22 Sep 2026, Bhatti & Anjaria JJ) are both real, with consistent facts and holdings across 4-5+ independent outlets each. Narasimha Rao (1991) 3 SCC 451, Satya v Teja Singh (1975) 1 SCC 120, Dinesh Singh Thakur v Sonal Thakur (2018 INSC 356), Balram Yadav v Fulmaniya Yadav (AIR 2016 SC 2161), and BNS s.82 bigamy (up to 7 years + fine, in force 1 July 2024) all confirmed. No contradictions found; no fixes needed."
+  },
+  {
+    "file": "_drafts/articles/27-nre-nro-fcnr-accounts-fema-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://blog.tdsman.com/2026/05/tds-on-payments-to-non-residents-section-3932-section-195/",
+      "https://itatonline.org/articles_new/global-income-of-all-indian-citizen-exempted-a-critical-analysis-of-deemed-residency-section-6/",
+      "https://ksandk.com/newsletter/temporary-relaxation-in-interest-rates-on-nre-and-fcnrb-deposits-brought-to-an-early-close/",
+      "https://website.rbi.org.in/documents/87730/39710850/C13APD150911.pdf"
+    ],
+    "note": "FEMA residency test (Sec 2(v)/(w)), NRE/NRO/FCNR(B) rules, Section 10(4) exemption, Section 6(1A) deemed residency, USD 1 million NRO scheme, joint-holder former-or-survivor rule, and Income-tax Act 2025 Section 393 restructuring all independently confirmed and consistent with the draft's own careful hedging. All 8 related_pages paths exist on the live search index. The FCNR(B)/NRE rate-ceiling relaxation actually lapsed 1 September 2026 (brought forward twice from the original 30 September date), slightly earlier than the draft's 'lapsed by the end of September 2026,' but that statement remains technically accurate and the article already flags this point as unsettled."
+  },
+  {
+    "file": "_drafts/articles/28-foreign-investment-india-entry-routes-fema-article.json",
+    "verdict": "FIX",
+    "claims_checked": 10,
+    "evidence": [
+      "https://www.theweek.in/news/india/2026/02/16/who-is-prabir-purkayastha-ed-slaps-rs-184-crore-fema-penalty-notice-against-newsclick-founder-news-portal.amp.html",
+      "https://www.taxscan.in/ed-imposes-rs-3-44-crore-fine-on-bbc-india-for-alleged-fema-violation/492257",
+      "https://www.ahlawatassociates.com/news/india-revisits-press-note-3-2020-easing-restrictions-on-land-border-fdi",
+      "https://www.skadden.com/insights/publications/2026/02/indias-landmark-insurance-sector-reforms"
+    ],
+    "note": "Core framework (automatic/government route, FC-GPR 30-day and FC-TRS 60-day deadlines, insurance FDI raised to 100% effective 5 Feb 2026, March 2026 Press Note 3 10% non-controlling carve-out with China/Hong Kong exclusion, Vijay Karia and Cruz City holdings on FEMA and award enforcement, BBC World Service penalty of Rs 3.44 crore) all independently confirmed. All 4 related_pages exist on the live search index. One reference date is wrong: the PPK Newsclick Studio Enforcement Directorate adjudication order is dated 16 February 2026, not 2025 as stated in the references list.",
+    "fixes": [
+      {
+        "find": "Enforcement Directorate adjudication order against PPK Newsclick Studio Pvt Ltd and its director, reported 2025",
+        "replace": "Enforcement Directorate adjudication order against PPK Newsclick Studio Pvt Ltd and its director, dated 16 February 2026",
+        "reason": "Multiple independent reports (The Week, Latestly, NewsGram, TechStory) date the ED's Rs 184 crore adjudication order to 16 February 2026, not 2025."
+      }
+    ]
+  }
 ]
