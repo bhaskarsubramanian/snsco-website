@@ -1,14 +1,16 @@
 {
-  "batch": "batch10",
-  "branch": "research-batch-10",
+  "batch": "batch11",
+  "branch": "research-batch-11",
   "news_target": 10,
   "updates_target": 10,
-  "blog_target": 10,
-  "scope_from": "2026-09-01",
+  "blog_target": 23,
+  "scope_from": "2026-10-15",
   "note": "Edit this file (and push to the pipeline-config branch) to start a new batch: change batch, branch, targets and scope_from, and create the research branch with _drafts/<batch>/{news,updates,blog}/ first.",
   "dedupe_also_against": [
-    "origin/main (everything through batch 9 is live)",
+    "origin/main (everything through batch 10 and the NRI bundle is live)",
+    "origin/fix-articles-hub (staged, not live)",
     "verify/xv_worklist_*.json on xverify"
   ],
-  "PRIORITY_INSTRUCTION_FOCUS": "THIS BATCH HAS A SUBJECT FOCUS THAT OVERRIDES THE 'SPREAD ACROSS AREAS' RULE. Every item must concern NRIs, OCI/PIO holders, foreign nationals or foreign companies dealing with India, or cross-border matters. Topics: NRI property (purchase, sale, inheritance, power of attorney, occupation/encroachment, RERA/builder delay), NRI matrimonial and family (foreign divorce decree recognition, custody, maintenance, look-out circulars), NRE/NRO/FCNR accounts and FEMA, repatriation, taxation of NRIs (TDS section 195, treaty relief, residential status, 15CA/15CB, Income-tax Act 2025), foreign investment and FDI/FEMA (FC-GPR, FIRMS, Press Note 3, ODI, LLP/subsidiary/branch), enforcement of foreign decrees and foreign-seated awards, service of foreign process, cross-border contracts and stamping of foreign-executed documents, foreign nationals and Indian courts. Use practice_area 'NRI Legal Services' for NRI-specific items, otherwise the closest standard area. Real, dated, verifiable rulings and regulator notifications only; if supply is thin, widen back in time (scope_from may be ignored back to 2026-01-01) but never invent or pad. BCI Rule 36 applies: educational only, no solicitation, no claims, no 'NRI lawyer' framing, no call to contact the firm. Do not repeat any NRI topic already live (blog guides on NRI cheque bounce/POA, inherited agricultural land, foreign decree enforcement, LOC, section 195 TDS, transfer of residence, repatriation of inherited property; article on NRI succession): go to different rulings or angles."
+  "PRIORITY_INSTRUCTION_FOCUS": "FOR THE BLOG ROUTINE ONLY: this batch's guides come from the curated prospective-client query queue. Read origin/pipeline-config:pipeline/query-queue.json and write the guides in the order of its queue (priority A first). For each entry use its id as the slug (it already ends with -guide), its query as the basis of the title, its angle as the scope and its verify field as the list of statutes and cases that must be confirmed from two sources. Each guide must answer the question directly in the first paragraph, in general terms as on today's date, then give the statute, forum, time limits and procedure, say where the law differs by State or is unsettled, and link related existing guides by name in the references. State-specific topics (Delhi, Uttar Pradesh, Noida) must be checked against current State statutes and notifications; if a rate or rule cannot be confirmed, say that it varies and leave the figure out. Criminal-process topics (FIR quashing, police notices, defamation) must be strictly informational. Skip any queue entry whose subject already exists on origin/main or origin/fix-articles-hub. practice_area must be one of the standard areas (use 'Property & Civil Litigation' or 'Commercial Litigation' for process topics). BCI Rule 36: educational only, no call to contact the firm, no 'we can help', no fee or consultation wording, no claims of results, experience or clients.",
+  "NEWS_UPDATES_NOTE": "For news and updates use the normal rules: real, dated rulings and notifications from SCOPE_FROM, spread across practice areas, not duplicating anything live or staged."
 }
