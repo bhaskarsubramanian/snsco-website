@@ -1,0 +1,92 @@
+{
+  "slug": "defamation-civil-and-criminal-remedies-guide",
+  "title": "Defamation in India: The Civil Suit, the Criminal Complaint and Online Statements",
+  "meta_description": "How a civil defamation suit differs from a criminal complaint under BNS Section 356, what the ten exceptions cover, and how this applies online.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "Defamation in India can be pursued as a civil wrong, through a suit for damages and an injunction, and separately as a criminal offence under Section 356 of the Bharatiya Nyaya Sanhita, 2023 (BNS), which replaced Section 499 and 500 of the IPC from 1 July 2024 without changing the underlying definition, the ten recognised exceptions, or the basic punishment structure. The two routes are not alternatives to each other in the sense of choosing one instead of the other; a person can, depending on the facts, pursue a civil suit for damages, file a criminal complaint before a magistrate, or do both, since a single defamatory statement can be both a civil wrong and a criminal offence at the same time.",
+    "What follows is written to explain the general legal position as it exists today, including how it applies to statements made online. It is not a template for drafting a complaint or a suit, and it does not address the facts of any specific statement; a person considering either route should get advice on their own situation rather than treat this as sufficient on its own."
+  ],
+  "sections": [
+    {
+      "heading": "What Counts as Defamation Under Section 356 of the BNS",
+      "paragraphs": [
+        "Section 356(1) defines defamation broadly: making or publishing an imputation concerning a person, by words, signs or visible representation, intending to harm, or knowing or having reason to believe that it will harm, that person's reputation. The imputation does not need to be shouted from a rooftop; it can be made to the person's own hearing if the maker intends or knows it is likely to be heard by others and to harm the person's reputation with those others, and it can be conveyed through an ambiguous statement whose sting is understood by those who hear or read it in context, as courts have long read the equivalent provision under the IPC.",
+        "The definition carries over unchanged from Section 499 of the IPC, and commentary consistently describes the ten statutory exceptions as having been preserved in the same form under the BNS. These exceptions matter as much as the definition itself, because they mark out the space where a statement that would otherwise be defamatory is not treated as an offence at all, rather than merely as a defence considered after guilt is presumed."
+      ]
+    },
+    {
+      "heading": "The Exceptions That Actually Decide Most Cases",
+      "paragraphs": [
+        "Two of the ten exceptions carry the bulk of litigation. The first covers truth: an imputation of truth which is required for the public good to be made or published is not defamation, so truth alone is not a defence unless publishing it also served the public good, and that second requirement is where many otherwise-true statements still fail to qualify. The second covers the public conduct of a public servant: a comment made in good faith on the conduct of a public servant in the discharge of their public functions, or on their character so far as it appears in that conduct, is also excluded, which is why criticism of how an official performed an official duty is treated differently from a personal attack unconnected to that duty.",
+        "The remaining exceptions cover things such as fair comment on the conduct of a person who has voluntarily put themselves before the public, such as in relation to a published work; fair reporting of court or legislative proceedings; and statements made in good faith for the protection of one's own or another's interests, or by way of caution given in good faith to a person for their own benefit or the public's. Whether an exception genuinely applies turns heavily on good faith, and the burden of showing good faith generally falls on the person relying on the exception once the core allegation of a defamatory imputation is otherwise made out."
+      ]
+    },
+    {
+      "heading": "The Civil Suit: Damages and an Injunction",
+      "paragraphs": [
+        "A civil suit for defamation is a tort claim, filed in the ordinary civil court having jurisdiction, generally where the defendant resides or carries on business, or where the harm was substantially suffered. The person suing seeks damages to compensate for harm to reputation, and often also an injunction restraining further publication or repetition of the statement, which can be sought on an interim basis while the suit is pending if the facts support urgency. Because this is a civil claim, it is decided on the ordinary civil standard of proof, on the balance of probabilities, which is a materially lower bar than the criminal standard.",
+        "A civil claim also carries none of the exposure to imprisonment that a criminal complaint does, but the practical difficulty is that damages in Indian defamation suits are often modest relative to the time and cost of litigating them fully, and an interim injunction against speech, particularly on a matter of public interest, is not granted lightly, since courts weigh it against the constitutional protection given to free expression."
+      ]
+    },
+    {
+      "heading": "The Criminal Complaint: What It Takes and What It Risks",
+      "paragraphs": [
+        "A criminal complaint for defamation under Section 356 is ordinarily filed as a private complaint before a magistrate, since defamation is treated as a non-cognizable offence for which police do not investigate on their own initiative without the court's direction. Section 356(2) punishes defamation with simple imprisonment for a term that may extend to two years, or a fine, or both, with some commentary noting that community service has also been introduced as a sentencing option; Section 356(3) separately punishes the printing or engraving of material known or believed to be defamatory.",
+        "The Supreme Court settled the constitutional question of whether criminalising defamation at all violates free speech in Subramanian Swamy v. Union of India, decided on 13 May 2016, where it upheld Sections 499 and 500 of the IPC, holding that protecting individual reputation is itself a value with constitutional weight and that the restriction on speech is not excessive. That holding continues to apply to the BNS provision, which both commentary and the structure of the new code treat as a straight carry-over of the same offence rather than a substantively new one."
+      ]
+    },
+    {
+      "heading": "How This Applies to Social Media and Other Online Statements",
+      "paragraphs": [
+        "The definition in Section 356 does not distinguish between a statement made in a newspaper, at a public meeting, or in a social media post; what matters is publication to a third person and the required intention or knowledge of harm to reputation, all of which can be made out from an online post exactly as from any other medium. A forwarded message, a retweet or share, and a comment on someone else's post can each raise separate questions about who actually published the imputation and whether that person had the requisite intention or knowledge, which is one of the more unsettled areas as courts work through cases involving online republication.",
+        "Courts have granted injunctions against continuing online publication of defamatory material in appropriate cases, applying the same balancing exercise between reputation and free expression that applies offline, though the practical difficulty of enforcing an injunction against content that can be re-posted elsewhere is a real constraint that a civil remedy alone does not solve."
+      ]
+    },
+    {
+      "heading": "Limitation and Timing",
+      "paragraphs": [
+        "A civil suit for defamation is governed by the general limitation period applicable to torts, which runs from the date of publication of the defamatory statement, and a person who delays too long after becoming aware of the statement risks the claim being time-barred. A criminal complaint does not face the same civil limitation framework, but unreasonable delay in filing it can still be a factor a magistrate or court weighs in deciding whether to proceed, and in any event, memory, evidence and witnesses available at the time of publication tend to be far stronger than they will be years later, which is itself a reason not to delay regardless of the formal limitation position.",
+        "A person weighing whether to act should keep a dated record of the statement itself, screenshots or copies where it was published, and anything showing who saw it and what harm followed, since both a civil suit and a criminal complaint depend heavily on being able to show, years after the fact if needed, exactly what was said, where, and when. Waiting to see if the matter resolves itself on its own is a common reason genuine claims end up weakened by the time a lawyer is actually consulted, since witnesses forget details and online material can disappear or become harder to trace back to its original source."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I file both a civil suit and a criminal complaint for the same statement?",
+      "a": "Yes, generally. A civil suit for damages and a criminal complaint under Section 356 of the BNS address different wrongs arising from the same statement, a civil tort and a criminal offence respectively, and pursuing one does not by itself bar the other, though strategy and cost should guide whether both are worth pursuing."
+    },
+    {
+      "q": "Is truth always a complete defence to defamation?",
+      "a": "No. Under the exception for truth, the imputation must be true and its making or publishing must be required for the public good; a true but purely private and irrelevant disclosure can still fail this exception even though the underlying fact is accurate."
+    },
+    {
+      "q": "Is criticising a government official for how they did their job defamation?",
+      "a": "Generally not, if the comment is made in good faith on the official's conduct in discharging their public functions, since this is one of the ten recognised exceptions. A personal attack unrelated to the official's actual conduct in office falls outside this protection."
+    },
+    {
+      "q": "Does the law treat a defamatory post on social media differently from one in a newspaper?",
+      "a": "The core definition in Section 356 applies the same way regardless of medium; what differs in practice is working out who exactly published the imputation online, such as the original poster versus someone who shared or commented on it, which remains a developing and fact-specific area."
+    }
+  ],
+  "references": [
+    "Bharatiya Nyaya Sanhita, 2023, Section 356 (defamation, its ten exceptions and punishment), replacing IPC Sections 499 and 500 from 1 July 2024",
+    "Subramanian Swamy v. Union of India, Writ Petition (Criminal) No. 184 of 2014, decided 13 May 2016, upholding the constitutional validity of criminal defamation",
+    "Limitation Act, 1963 (general limitation period applicable to a civil tort claim)",
+    "Related: How Long Do I Have to File a Case? Limitation Periods for Common Civil Claims; Breach of Contract or Cheating? When a Business Dispute Can and Cannot Become a Criminal Case"
+  ],
+  "sources": [
+    "https://www.scobserver.in/court-case/defamation-as-a-criminal-offence",
+    "https://globalfreedomofexpression.columbia.edu/cases/subramanian-swamy-v-union-india/",
+    "https://www.apnilaw.com/legal-articles/acts/section-356-of-the-bharatiya-nyaya-sanhita-vs-section-499-ipc-defamation-explained/",
+    "https://devgan.in/ipc/index.php?a=10&q=356"
+  ],
+  "verification_notes": [
+    "BNS Section 356 as the direct successor to IPC Sections 499 and 500, effective from 1 July 2024, with the definition and punishment structure carried over: confirmed from two independent legal commentary sources (apnilaw.com and vidhijudicial.com) describing the same correspondence.",
+    "Preservation of the ten exceptions from IPC Section 499: confirmed from two sources stating the count explicitly as ten and describing them as unchanged; a third source giving a count of four was treated as an outlier and disregarded, consistent with the instruction to state only what multiple sources agree on.",
+    "Content of the truth exception (truth plus public good) and the public-servant-conduct exception: both exceptions are quoted or closely paraphrased consistently across the sources reviewed (legalserviceindia.com and apnilaw.com), so both are stated with confidence; the remaining eight exceptions are described only in general terms since this research did not independently verify each one against the statute text.",
+    "Subramanian Swamy v. Union of India, decided 13 May 2016, upholding criminal defamation: confirmed from the Supreme Court Observer case page and the Global Freedom of Expression database, both giving the same date, parties and outcome.",
+    "Section 356(2) punishment (simple imprisonment up to two years, or fine, or both) and a reported addition of community service as a sentencing option: the imprisonment and fine figures are confirmed from two sources; the community service detail rests on a single source and is flagged in the guide as a reported addition rather than asserted as settled.",
+    "No specific figure for the civil limitation period on a defamation suit is stated, since the sources reviewed did not consistently confirm a single article-specific period from the Limitation Act for this particular tort; the guide refers to the general limitation framework rather than naming an unverified number of years."
+  ]
+}
