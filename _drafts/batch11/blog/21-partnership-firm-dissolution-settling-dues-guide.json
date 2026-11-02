@@ -1,0 +1,104 @@
+{
+  "slug": "partnership-firm-dissolution-settling-dues-guide",
+  "title": "Dissolving a Partnership Firm in India: Settling Accounts, Debts and an Outgoing Partner's Share",
+  "meta_description": "How a partnership firm is dissolved under the Partnership Act, the order in which debts and capital are settled, and what an outgoing partner is owed.",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "A partnership firm can end in several ways: the partners agree to close it, a fixed event in the deed brings it to an end automatically, any partner gives notice where the firm is a partnership at will, or a court orders it on specific grounds. Whichever route is taken, the law does not let the partners simply divide whatever cash is in the bank and walk away. Third-party debts have to be cleared first, partners' own advances and capital come next, and only what remains is split between them, generally in the ratio in which they shared profits. None of this depends on the firm having been registered; registration affects which suits a partner can bring, not whether the firm can be wound up at all.",
+    "Most of the friction in these disputes is not about whether to dissolve but what an outgoing or continuing partner is entitled to once the firm's assets, usually property, are eventually sold. The Supreme Court addressed this in September 2026 in a case from a Hyderabad partnership, and the answer changes the arithmetic in dissolution fights where a sale has been delayed for years."
+  ],
+  "sections": [
+    {
+      "heading": "The different ways a firm actually comes to an end",
+      "paragraphs": [
+        "Section 40 lets partners dissolve a firm simply by agreeing to, regardless of what the partnership deed originally said about its duration. Section 41 provides for compulsory dissolution, which happens automatically if all the partners, or all but one, are adjudicated insolvent, or if the firm's business becomes unlawful, for instance because a change in law makes the business illegal or because trading with a country India is at war with becomes unlawful.",
+        "Section 42 lists dissolution on the happening of certain contingencies, subject to any contrary agreement between the partners: the expiry of a fixed term, the completion of the specific venture the firm was formed to carry out, the death of a partner, or the adjudication of a partner as insolvent. Where there is no fixed term, the firm is a partnership at will, and under Section 43 any partner can dissolve it simply by giving written notice to the others; the firm stands dissolved from the date mentioned in the notice, or, if none is mentioned, from the date the notice is communicated.",
+        "Where partners cannot agree, Section 44 lets a partner sue for dissolution by the court on specific grounds: a partner's unsoundness of mind, permanent incapacity, conduct affecting the business prejudicially, persistent breach of the partnership agreement, a partner transferring their whole interest to an outsider, the business being incapable of being carried on except at a loss, or simply that it is just and equitable to dissolve the firm on the facts."
+      ]
+    },
+    {
+      "heading": "Settling accounts: who gets paid, and in what order",
+      "paragraphs": [
+        "Once dissolution happens, Section 46 gives every partner, or their representative, the right to have the firm's property applied in payment of its debts and to have the surplus distributed among the partners according to their rights, and Section 47 keeps the partners' mutual rights and obligations alive, and each partner's authority to bind the firm alive, but only so far as is necessary to wind up the affairs of the firm and complete transactions begun but unfinished at the time of dissolution.",
+        "Section 48 fixes the order of settlement, subject to a contrary agreement between the partners, which a partnership deed can and often does displace. Losses, including deficiencies of capital, are paid first out of profits, next out of capital, and only if that is still not enough, by the partners individually in the proportion in which they were entitled to share profits. On the assets side, the firm's property, together with any sums the partners need to contribute to make up capital deficiencies, is applied first in paying outside debts, then in paying each partner proportionately whatever is due to them for advances as distinct from capital, then in paying each partner what is due on account of capital, and only the residue, if any, is divided among the partners in their profit-sharing ratio.",
+        "In practice, the fight is rarely over the formula, which is settled, but over what counts as a firm asset, what a partner withdrew before dissolution, and whether an informal loan from a partner should be treated as a loan or as undocumented capital. A final account, agreed and signed by all partners or settled by a court-appointed commissioner, is what resolves these fights, not the statute."
+      ]
+    },
+    {
+      "heading": "Valuing property and goodwill: what the Supreme Court settled in 2026",
+      "paragraphs": [
+        "Section 55 deals separately with goodwill, allowing it to be treated as a firm asset that can be sold on dissolution, with the partners free to agree on the terms on which an outgoing or continuing partner may or may not use the firm's old trade name or solicit its former customers.",
+        "The harder, more common dispute is over the value of immovable property the firm held when it dissolved, which can take years to actually sell. In V. Sumitra Reddy & Anr. v. K. Ranganadha Reddy & Ors., 2026 INSC 979, decided on 9 September 2026, the firm held roughly 3.27 acres of land in Begumpet, Hyderabad, and an outgoing partner held a 25 per cent share in it. The Supreme Court held that the outgoing partner's share is not frozen at the value the property had on the date of dissolution; it has to be valued as on the date the property is actually realised or sold, with the date of dissolution remaining relevant only for working out the firm's profits and losses up to that point, not for fixing the eventual value of a partner's share.",
+        "The Court also made clear that continuing partners cannot keep using the dissolved firm's land or other assets to run a reconstituted business while leaving the outgoing partner's account unsettled; a reconstituted firm has no independent right to the old firm's assets until accounts are settled with the partner who left. For anyone sitting on a dissolved firm's unsold property, delay generally favours whoever is entitled to a share, not whoever is holding onto the asset, the opposite of what many continuing partners assume."
+      ]
+    },
+    {
+      "heading": "Staying liable to outsiders after the firm is technically gone",
+      "paragraphs": [
+        "Section 45 keeps every partner liable to third parties for anything that would have bound the firm if done before dissolution, right up until public notice of the dissolution is given; a creditor who was never told, and had no other way of knowing, can still treat the firm as continuing for that purpose. Section 72 is the mechanism for giving that notice: for a registered firm, this is typically done by notifying the Registrar of Firms and by publishing the dissolution in the Official Gazette and in a local newspaper circulating in the area where the firm carried on business.",
+        "Partners sometimes skip this step because the firm has effectively stopped trading and assume that is enough. It is not. Skipping public notice is one of the more common and entirely avoidable ways a dissolved firm's former partners end up personally liable for something done by an ex-partner months after the firm closed, often involving a supplier or lender who genuinely had no notice of the dissolution."
+      ]
+    },
+    {
+      "heading": "Does it matter if the firm was never registered?",
+      "paragraphs": [
+        "Section 69 restricts certain suits involving unregistered firms. A partner of an unregistered firm generally cannot sue another partner, or the firm, to enforce a right arising from a contract or conferred by the Partnership Act, and the unregistered firm itself generally cannot sue a third party to enforce a contractual right. Neither restriction, however, blocks a suit for dissolution of the firm or for accounts of a dissolved firm, or a suit to realise the property of a dissolved firm; Section 69(3) specifically carves these out.",
+        "So a firm careless about registration, common among small family businesses, is not stuck with an unresolvable dispute. Non-registration takes away the ability to sue a defaulting customer or supplier to enforce the firm's ordinary contracts while running, usually a stronger reason to register at the outset than any concern about dissolution later."
+      ]
+    },
+    {
+      "heading": "Limitation, and the paperwork that avoids a fight altogether",
+      "paragraphs": [
+        "A suit for an account and a share of the profits of a dissolved firm falls under Article 5 of the Limitation Act, 1963, which gives three years from the date of dissolution. Courts have consistently treated this as running from the actual date the firm dissolved, whether by agreement, notice, or a triggering event such as a partner's death, so partners who let a dispute sit unresolved for years risk losing the right to sue for accounts altogether, even where no one has formally pleaded limitation as a defence, since a court is required to dismiss a time-barred suit on its own.",
+        "Most of this is avoided with a written dissolution deed executed when the firm closes: a final statement of accounts signed by all partners, a valuation or sale mechanism for any unsold property, an agreed position on goodwill and use of the firm's name going forward, and a record that public notice under Section 72 was given. None of this is mandatory, but a firm that skips it leaves open exactly the dispute the cases above involve."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can one partner force the others to dissolve the firm?",
+      "a": "If there is no fixed term, yes: under Section 43, any partner in a partnership at will can dissolve it by written notice to the others. If the deed fixes a term or the partners disagree on the facts, the remedy is a suit for dissolution by the court under Section 44, on specific grounds such as persistent breach of the agreement or that it is just and equitable to dissolve the firm."
+    },
+    {
+      "q": "Does the firm need to be a registered partnership to be dissolved or to sue for accounts?",
+      "a": "No. Section 69 restricts an unregistered firm's partners from suing each other, or the firm from suing third parties, to enforce ordinary contractual rights, but Section 69(3) specifically exempts suits for dissolution, for accounts of a dissolved firm, and for realising its property. Non-registration mainly matters for enforcing the firm's business contracts while it was operating."
+    },
+    {
+      "q": "How is an outgoing partner's share of unsold firm property valued?",
+      "a": "Following the Supreme Court's 2026 ruling in V. Sumitra Reddy, the share is valued as on the date the property is actually realised or sold, not frozen at the value it had on the date of dissolution. The dissolution date remains relevant for working out profits and losses up to that point, not for fixing the ultimate value of a partner's share."
+    },
+    {
+      "q": "Can the continuing partners keep using the dissolved firm's assets for a new business?",
+      "a": "Not without settling accounts with the outgoing partner. The Supreme Court has held that a reconstituted firm has no independent right to a dissolved firm's assets until the outgoing partner's share has actually been accounted for and paid, so continued use without settlement can itself become a ground for relief."
+    },
+    {
+      "q": "How long do we have to file a suit for accounts after dissolution?",
+      "a": "Generally three years from the date of dissolution, under Article 5 of the Limitation Act, 1963. Courts apply this strictly and are required to dismiss a time-barred suit even if no one raises limitation as a defence, so delay in settling accounts carries a real risk of losing the claim entirely."
+    }
+  ],
+  "references": [
+    "Indian Partnership Act, 1932, Sections 40 to 48 (modes of dissolution and settlement of accounts), Section 55 (goodwill), Section 45 and 72 (liability and public notice after dissolution), Section 69 (effect of non-registration)",
+    "V. Sumitra Reddy & Anr. v. K. Ranganadha Reddy & Ors., 2026 INSC 979, Civil Appeal No. 8167 of 2017, decided 9 September 2026 (valuation of an outgoing partner's share on realisation, not on the date of dissolution)",
+    "Limitation Act, 1963, Article 5 (suit for accounts of a dissolved partnership: three years from the date of dissolution)",
+    "Related guide: Registering a Partnership Firm in India: Process Under the Indian Partnership Act, 1932",
+    "Related guide: How to Close an LLP in India: The Form 24 Strike-Off Process",
+    "Related news: An Outgoing Partner's Share in a Dissolved Firm Must Be Valued at Today's Price, Not Frozen at the Date of Dissolution: Supreme Court"
+  ],
+  "sources": [
+    "https://www.livelaw.in/supreme-court/partnership-act-outgoing-partners-share-must-be-valued-on-date-of-assessment-not-date-of-dissolution-supreme-court-549422",
+    "https://www.mondaq.com/navigating-a-partnership-at-will-and-the-outgoing-partners-exit-supreme-court-holds-that-the-share-must-be-valued-when-the-assets-are-actually-realized-not-on-the-date-of-dissolution/1845624",
+    "https://www.livelaw.in/amp/supreme-court/s-69-partnership-act-partner-of-unregistered-firm-cant-file-suit-for-recovery-against-other-partners-supreme-court-281755",
+    "https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/supreme-court-gives-relief-to-partners-of-unregistered-partnership-firm-5455",
+    "https://bcajonline.org/journal/limitation-settlement-of-accounts-on-dissolution-of-partnership-firm-after-3-years-right-to-sue-would-become-time-barred-limitation-act-article-5/",
+    "https://vidhijudicial.com/sec-39-to-55-chapter-vi-(dissolution-of-a-firm)-the-indian-partnership-act,-1932.html"
+  ],
+  "verification_notes": [
+    "Modes of dissolution under Sections 40 to 44, including the six grounds for court-ordered dissolution under Section 44: confirmed by two sources (vidhijudicial.com's section-by-section summary and vjmglobal.com's guide), consistent on all six grounds.",
+    "Section 48's order of settlement (losses from profits, then capital, then partners individually; assets to outside debts, then partners' advances, then capital, then surplus by profit share): confirmed by two sources (the Section 48 commentary summary and lawbhoomi.com's dedicated note), which agreed on both the loss order and the asset order; the exact statutory wording was not independently checked against the official Act text, so the deed should always be checked first since Section 48 applies subject to agreement.",
+    "V. Sumitra Reddy v. K. Ranganadha Reddy, 2026 INSC 979, decided 9 September 2026, holding that an outgoing partner's share is valued on realisation and not frozen at the date of dissolution, and that a reconstituted firm cannot use the dissolved firm's assets without settling accounts: confirmed by two sources (livelaw.in and mondaq.com), which agreed on the holding, the facts (Begumpet land, 25 per cent share) and the outcome (appeal dismissed, Andhra Pradesh High Court affirmed).",
+    "Section 69(1) and 69(2) restricting suits by partners of an unregistered firm against each other or by the firm against third parties, with Section 69(3) exempting suits for dissolution and accounts: confirmed by two sources (livelaw.in's report on the Supreme Court ruling on this point and nishithdesai.com's hotline), both describing the dissolution-and-accounts carve-out in the same terms.",
+    "Section 45 (continuing liability to third parties until public notice) and Section 72 (notice to the Registrar, Gazette publication and local newspaper for a registered firm): the core liability rule was confirmed by two sources (lawbhoomi.com and caseon.in's text of Section 45), but the precise mechanics of Section 72 publication were taken from a single secondary summary and not independently checked against the statutory text, so this guide states the Section 72 mechanism in general terms only.",
+    "Three-year limitation period for a suit for accounts of a dissolved firm under Article 5 of the Limitation Act, 1963, running from the date of dissolution: confirmed by two sources (bcajonline.org's dedicated note and casemine.com's commentary on Banarsi Das v. Kanshi Ram), both citing Article 5 (formerly Article 106 of the 1908 Act) and the three-year period.",
+    "No specific figure is given for goodwill valuation method or court fees for a dissolution or accounts suit, since neither was confirmed from two sources in this search round; goodwill valuation in practice depends heavily on the partnership deed and any expert valuation ordered by the court."
+  ]
+}
