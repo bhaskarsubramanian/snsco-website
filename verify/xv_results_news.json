@@ -3096,5 +3096,24 @@
       "https://supremetoday.ai/delhi-high-court-appoints-local-commissioner-to-preserve-evidence-in-two-crore-fee-payment-dispute-20261023067"
     ],
     "note": "Independently confirmed: O.M.P.(I)(COMM.) 491/2026, Justice Vinod Kumar's 16 October 2026 order appointing a Local Commissioner to inspect and preserve records at the Gangapur City franchise centre under Section 9, and the roughly Rs 2.13-2.14 crore fee dispute. The Rs 2.13 crore figure (draft) vs ~Rs 2.14 crore (one other report) is an immaterial rounding variance. A SupremeToday reference to 'Sawai Madhopur' police conflicts with the Gangapur City location used consistently by the draft's two cited sources, so the draft's location is preferred."
+  },
+  {
+    "file": "_drafts/batch11/updates/01-nclat-worlds-window-exim-liquidation.json",
+    "verdict": "FAIL",
+    "claims_checked": 3,
+    "evidence": [
+      "https://www.taxscan.in/corporate-laws/nclat-upholds-rejection-of-7-cr-resolution-plan-for-failure-to-address-cause-of-default-under-ibc-read-order"
+    ],
+    "note": "Already published on the live site at the identical slug /legal-news/nclat-worlds-window-exim-liquidation-resolution-plan.html (same case, same 12 October 2026 date, same Rs 7 crore plan / cause-of-default holding). Duplicate of live content."
+  },
+  {
+    "file": "_drafts/batch11/updates/02-itat-kolkata-tata-consumer-depreciation.json",
+    "verdict": "PASS",
+    "claims_checked": 4,
+    "evidence": [
+      "https://www.taxscan.in/income-tax/itat-allows-depreciation-of-150536-cr-on-goodwill-and-intangibles-arising-from-demerger-quashes-section-14a-disallowance",
+      "https://www.psuconnect.in/corporate-news/tata-consumer-products-wins-favourable-ruling-from-itat-kolkata"
+    ],
+    "note": "Independently confirmed across Taxscan, PSU Connect (company disclosure) and TaxGuru/thetaxcorp coverage: ITAT Kolkata allowed depreciation of about Rs 1,505.36 crore on goodwill, brands and distribution network vested via the Tata Chemicals consumer-business demerger, Section 32 basis on apportioned acquisition cost, and the Section 14A disallowance was quashed. No duplicate found on the live site."
   }
 ]
