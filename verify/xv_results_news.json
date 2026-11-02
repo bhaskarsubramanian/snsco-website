@@ -2976,5 +2976,125 @@
         "reason": "Corrects the foreign recipient's name in the verification notes."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch11/news/01-allahabad-hc-six-month-maintenance-execution-deadline.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.verdictum.in/allahabad-high-court/a-v-state-of-up-2026ahc214414-execution-application-maintenance-case-1624092",
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-maintenance-execution-six-months-554986",
+      "https://courtbook.in/posts/maintenance-execution-applications-must-be-decided-within-6-months-non-compliance-may-amount-to-contempt-allahabad-high-court",
+      "https://www.verdictum.in/court-updates/supreme-court/periyammal-dead-through-lrs-v-v-rajamani-2025-insc-329-pending-execution-petitions-1570419"
+    ],
+    "note": "Core facts independently confirmed: Family Court Kasganj order of 17.9.2024, maintenance amounts and 18.4.2022 effective date, 645-day delay, dismissal of condonation and revision, six-month direction to UP trial courts, reliance on Periyammal v. Rajamani (2025 INSC 329 / (2025) 9 SCC 568) and the Registrar General's circular, and the contempt warning. However independent sources (Verdictum, citing neutral citation 2026:AHC:214414) report the order was passed on 13 October 2026 by Justice Praveen Kumar Giri, not 16 October 2026 with the bench unnamed as the draft states; 16 October reflects the LiveLaw/Courtbook publication/upload date.",
+    "fixes": [
+      {
+        "find": "\"bench\": \"Not named in the reports reviewed\",\n  \"case_name\": \"Data Ram v. State of U.P. and 3 Others\",\n  \"citation\": \"2026 LiveLaw (AB) 851; Criminal Revision (Defective) No. 2005 of 2026\",\n  \"decision_date\": \"2026-10-16\",",
+        "replace": "\"bench\": \"Justice Praveen Kumar Giri\",\n  \"case_name\": \"Data Ram v. State of U.P. and 3 Others\",\n  \"citation\": \"2026 LiveLaw (AB) 851; 2026:AHC:214414; Criminal Revision (Defective) No. 2005 of 2026\",\n  \"decision_date\": \"2026-10-13\",",
+        "reason": "Verdictum independently reports the order was passed on 13 October 2026 by Justice Praveen Kumar Giri, with neutral citation 2026:AHC:214414; the draft had left the bench unnamed and used 16 October 2026, which is the secondary reporting date."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch11/news/02-allahabad-hc-unmarried-sister-farmer-accident-benefit.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/allahabad-high-court/kmvidyawati-v-state-of-up-2026ahc221877-db-unmarried-sister-death-benefit-kisan-yojana-1624692",
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-sister-receive-accidental-death-benefit-legal-heir-556095",
+      "https://www.outlookmoney.com/personal-finance/allahabad-high-court-orders-rs-5-lakh-accident-benefit-for-farmers-sister"
+    ],
+    "note": "Core facts confirmed: brother's death in a road accident on 18 May 2019, Oriental Insurance's rejection, the Mukhyamantri Kisan Evam Sarvahit Bima Yojana scheme, the Rs 5 lakh direction, and the holding that an unmarried sister can take the death benefit as legal heir. However the decision was rendered by a Division Bench of the Lucknow Bench (neutral citation 2026:AHC:221877-DB per Verdictum), not by an unnamed single bench as the draft states.",
+    "fixes": [
+      {
+        "find": "\"bench\": \"Not named in the reports reviewed\",\n  \"case_name\": \"Km. Vidyawati v. State of U.P. and 4 others\",\n  \"citation\": \"Writ Petition No. 28051 of 2023\",",
+        "replace": "\"bench\": \"Lucknow Bench (Division Bench)\",\n  \"case_name\": \"Km. Vidyawati v. State of U.P. and 4 others\",\n  \"citation\": \"Writ Petition No. 28051 of 2023; 2026:AHC:221877-DB\",",
+        "reason": "Verdictum independently reports this was decided by a Division Bench of the Lucknow Bench, neutral citation 2026:AHC:221877-DB; the draft had left the bench unnamed."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch11/news/03-gujarat-hc-custody-jurisdiction-childs-residence.json",
+    "verdict": "FAIL",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-guardians-wards-act-custody-child-resides-family-court-555772"
+    ],
+    "note": "This ruling is already covered on the live site at /legal-news/gujarat-hc-custody-jurisdiction-child-residence.html (same facts: Family Court Himmatnagar, husband's transfer plea to Rajkot, Section 9 Guardians and Wards Act, custody jurisdiction follows the child's residence). Duplicate of live content."
+  },
+  {
+    "file": "_drafts/batch11/news/04-gujarat-hc-bank-official-anticipatory-bail-denied.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://supremetoday.ai/gujarat-high-court-denies-anticipatory-bail-to-bank-official-accused-in-widow-fraud-case-20261022057",
+      "https://www.livelaw.in/pdf_upload/2026/10/22/1-707676-707751.pdf"
+    ],
+    "note": "Independently confirmed via the anticipatory bail application itself (hosted by LiveLaw, listing Section 406 IPC and Section 66C IT Act charges and the dormant-account-reactivation allegation against the former Axis Bank Cluster Sales Head) and SupremeToday's report of the denial on the ground that misuse of authority breaches customer trust. No contrary reporting found."
+  },
+  {
+    "file": "_drafts/batch11/news/05-nclat-stone-age-share-valuation-finality-shefali-agarwal.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/company-law/failure-to-challenge-valuation-at-appropriate-stage-bars-subsequent-revaluation-claim-nclat-556667"
+    ],
+    "note": "Independently confirmed: Company Appeal (AT) 383/2026, NCLAT New Delhi bench of Justice Sharad Kumar Sharma with technical members Arun Baroka and Indevar Pandey, decision on 29 October 2026 upholding NCLT Jaipur's rejection of Agarwal's fresh-valuation application, the earlier NCLAT appeal and Supreme Court's refusal to interfere, and the finding that a finalised valuation and buyout mechanism cannot be reopened via a later interlocutory application."
+  },
+  {
+    "file": "_drafts/batch11/news/06-ap-hc-temporary-employees-no-right-continue-svu.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-temporary-employees-claim-reinstatement-fixed-term-engagement-expires-556452"
+    ],
+    "note": "Independently confirmed: 12 temporary SVU employees, Justice Balaji Medamalli sitting as a single judge, the holding that fixed-tenure engagements lapse on expiry regardless of repeated extensions, and the finding that no evidence showed the petitioners were replaced by another batch of temporary staff. A separate, unrelated LiveLaw report on SVU faculty rationalisation before a different judge was correctly not conflated with this ruling."
+  },
+  {
+    "file": "_drafts/batch11/news/07-telangana-hc-housing-board-sale-deed-execution-ncdrc.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://telanganatoday.com/telangana-high-court-directs-housing-board-to-execute-flat-sale-deeds-within-10-days",
+      "https://www.deccanchronicle.com/southern-states/telangana/hc-directs-housing-board-to-register-sale-deeds-2000122"
+    ],
+    "note": "Core facts confirmed: the Housing Board's writ petition against the NCDRC's 19 June 2025 order, the 28 October 2026 direction to register sale deeds within 10 days without penal interest conditions, suspension of the NCDRC order on execution, and the 18 November 2026 next hearing date. The bench is identifiable (Division Bench of Justices B. Vijaysen Reddy and Gadi Praveen Kumar) rather than unnamed as the draft states. Also, the two interest figures in reporting are not conflicting versions of the same fact as the draft's verification_notes assumed: the Board claims 14% penal interest under Clause 3 of the agreement, while purchasers separately claim a 6% interest adjustment in their favour; these are two different, non-contradictory claims, though the body's omission of both figures is not itself inaccurate.",
+    "fixes": [
+      {
+        "find": "\"bench\": \"Not named in the reports reviewed\",\n  \"case_name\": \"Telangana State Housing Board v. Flat Purchasers (NCDRC proceedings under challenge)\",",
+        "replace": "\"bench\": \"Justices B. Vijaysen Reddy and Gadi Praveen Kumar (Division Bench)\",\n  \"case_name\": \"Telangana State Housing Board v. Flat Purchasers (NCDRC proceedings under challenge)\",",
+        "reason": "Telangana Today and Deccan Chronicle both identify the bench as Justices B. Vijaysen Reddy and Gadi Praveen Kumar; the draft had left it unnamed."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch11/news/08-delhi-hc-restrains-fssai-emami-healthy-tasty-edible-oil.json",
+    "verdict": "FAIL",
+    "claims_checked": 4,
+    "evidence": [
+      "https://www.barandbench.com/news/delhi-high-court-stops-fssai-from-acting-against-emami-for-using-healthy-tasty-mark-for-edible-oils"
+    ],
+    "note": "This ruling is already covered on the live site at /legal-news/delhi-hc-stays-fssai-action-emami-healthy-tasty-edible-oil.html (same facts: Emami Agrotech, Healthy & Tasty brand, 5 June 2026 FSSAI show cause notice, restraint on coercive action). Duplicate of live content."
+  },
+  {
+    "file": "_drafts/batch11/news/09-nclt-kochi-auction-bidder-no-vested-right-asten-realtors.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelawbiz.com/nclt/national-company-law-tribunal-kochi-successful-auction-bidder-no-vested-right-to-property-before-sale-concluded-555613",
+      "https://supremetoday.ai/nclt-kochi-rules-highest-bidder-has-no-vested-interest-in-ongoing-asten-realtors-liquidation-process-20261023015"
+    ],
+    "note": "Independently confirmed: CP(IBC)/54/KOB/2022, Asten Realtors Private Limited in liquidation, Muhammed Aslam's Rs 4.96 crore highest bid, the 16 October 2026 order holding a highest bidder acquires no vested or enforceable right before sale completion, and refusal of impleadment. The draft correctly omitted the SupremeToday-only detail of a private sale of 'Asten Aurum Woods' to a homebuyer consortium since that was not corroborated by a second source."
+  },
+  {
+    "file": "_drafts/batch11/news/10-delhi-hc-section9-aakash-franchise-record-preservation.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelawbiz.com/arbitration/aakash-educational-services-limited-v-vaibhav-gupta-sole-proprietor-of-ms-shivrekkha-corporations-555745",
+      "https://supremetoday.ai/delhi-high-court-appoints-local-commissioner-to-preserve-evidence-in-two-crore-fee-payment-dispute-20261023067"
+    ],
+    "note": "Independently confirmed: O.M.P.(I)(COMM.) 491/2026, Justice Vinod Kumar's 16 October 2026 order appointing a Local Commissioner to inspect and preserve records at the Gangapur City franchise centre under Section 9, and the roughly Rs 2.13-2.14 crore fee dispute. The Rs 2.13 crore figure (draft) vs ~Rs 2.14 crore (one other report) is an immaterial rounding variance. A SupremeToday reference to 'Sawai Madhopur' police conflicts with the Gangapur City location used consistently by the draft's two cited sources, so the draft's location is preferred."
   }
 ]
