@@ -1,0 +1,93 @@
+{
+  "slug": "tenant-rights-and-eviction-delhi-up-rent-laws-guide",
+  "title": "Tenant and Landlord Rights in Delhi and Uttar Pradesh: Which Rent Law Applies and How Eviction Works",
+  "meta_description": "Which rent law covers a Delhi or UP tenancy, which forum hears an eviction, and the grounds a landlord has to prove, as the law stands today.",
+  "practice_area": "Property & Civil Litigation",
+  "intro": [
+    "In Delhi, the answer turns on one number: if the monthly rent is above a statutory threshold, the Delhi Rent Control Act, 1958 does not apply at all, and the landlord goes straight to the ordinary civil court rather than the Rent Controller. In Uttar Pradesh, the answer is unusually unsettled right now. The state's newer 2021 tenancy law repealed the older 1972 Rent Act, but the Allahabad High Court has since struck down several of the 2021 Act's central provisions, and commentators are still arguing about whether that revives the 1972 law in practice. Anyone with a tenancy dispute in UP right now needs to check the current position before assuming which law and which forum apply.",
+    "This guide sets out the governing statute in each state, the forum a landlord or tenant actually goes to, and the main grounds a landlord has to establish. It does not cover commercial leases governed by a separate contractual lease deed with no rent-control protection, which is a different analysis."
+  ],
+  "sections": [
+    {
+      "heading": "Delhi: the rent threshold decides everything",
+      "paragraphs": [
+        "Section 3(c) of the Delhi Rent Control Act, 1958, added by amendment in 1988, excludes any premises, whether residential or commercial, where the monthly rent exceeds a prescribed limit, generally taken as ₹3,500 per month. Below that threshold, the Act applies, and disputes go to the Rent Controller, a specialised forum created for exactly this purpose. Above it, the Act has no application, and the dispute is an ordinary civil suit.",
+        "The complication is that the threshold has to be lawfully crossed, not merely asserted. The Delhi High Court has held that the civil court's jurisdiction arises only once the rent has lawfully exceeded the statutory limit; where a landlord claims the rent was validly enhanced above the threshold through a proper enhancement notice, and the tenant disputes that the enhancement was ever validly served or effective, the Rent Controller may need to resolve that question first before a civil suit can proceed on the basis that the Act does not apply. The result is that landlords sometimes find an eviction decree set aside on appeal, not because the facts of non-payment or need were wrong, but because the civil court never had jurisdiction to hear the case in the first place. The Supreme Court's decision in D.C. Bhatia v. Union of India remains the leading authority upholding the constitutionality of this exclusion."
+      ]
+    },
+    {
+      "heading": "Delhi: the grounds under Section 14 once the Act applies",
+      "paragraphs": [
+        "Where the Rent Control Act does apply, a landlord cannot evict simply because the tenancy period has ended; the Act restricts eviction to specific grounds set out in Section 14. The two most litigated grounds are non-payment of rent and the landlord's bona fide requirement of the premises. For non-payment, the landlord has to show a valid demand or notice and that the tenant neither paid nor tendered the arrears within the time the law allows; tenants can usually avoid eviction on this ground, at least once, by depositing the arrears in time.",
+        "For bona fide requirement under Section 14(1)(e), the landlord has to establish the landlord-tenant relationship, a genuine need for the premises, and that the tenant does not have other reasonably suitable accommodation available. Courts have said the landlord's stated need carries a presumption in the landlord's favour, and that appellate courts will not disturb a finding on bona fide need unless it rests on no evidence or is perverse, which makes this a fact-heavy ground that is won or lost substantially at the first hearing before the Controller. These petitions generally run under the summary procedure in Section 25-B of the Act, which moves considerably faster than an ordinary civil trial."
+      ]
+    },
+    {
+      "heading": "Uttar Pradesh: a law in flux",
+      "paragraphs": [
+        "The Uttar Pradesh Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972 was repealed by the state's 2021 tenancy legislation, which set up its own Rent Authority, Rent Court and Rent Tribunal structure and changed several of the old eviction grounds, including removing the earlier requirement that a landlord show bona fide need and comparative hardship before recovering premises for personal use.",
+        "In August 2026, a Division Bench of the Allahabad High Court struck down several provisions of the 2021 Act as beyond the state legislature's competence without prior Presidential assent, reasoning that those provisions collided with the central Transfer of Property Act and a central law on small-cause courts. The court did not strike down the whole 2021 Act, and it did not strike down the repeal provision itself. What that leaves for a tenancy that is neither already decided nor outside the struck-down provisions is genuinely unclear; the judgment assumes the 1972 Act springs back to life to the extent needed, but commentary on this point is divided, with some arguing a statute that was expressly repealed cannot simply revive because part of its replacement was struck down. Anyone with an active UP tenancy matter should get current advice on where that litigation stands, including whether an appeal to the Supreme Court is pending, rather than relying on either Act by default."
+      ]
+    },
+    {
+      "heading": "What has not changed in UP regardless of which Act governs",
+      "paragraphs": [
+        "Certain practical points hold under either statute. Eviction for a landlord's personal use requires a formal application before the designated authority, whether that is the Rent Controller under the 1972 Act's structure or the Rent Authority and Rent Court under the 2021 Act, rather than a landlord simply changing the locks or cutting off utilities once the tenant falls out of favour; self-help eviction remains unlawful and can itself expose the landlord to a police complaint or a suit for restoration of possession. Rent enhancement and deposit disputes, similarly, go through the same authority structure rather than being resolved unilaterally.",
+        "Where the tenancy is oral or informal, with no written agreement at all, the authority or court still generally has jurisdiction to decide the dispute; a landlord cannot avoid the statutory process simply because there was never a written lease, and a tenant cannot claim to be outside the Act's reach on that basis either. The absence of a written agreement affects what evidence is available to prove the terms, not whether the law applies."
+      ]
+    },
+    {
+      "heading": "Civil court versus rent authority: picking the right forum",
+      "paragraphs": [
+        "Filing in the wrong forum is one of the most common and most costly mistakes in these disputes. In Delhi, a landlord who files a civil suit while rent is genuinely below the Rent Control Act threshold risks the suit being thrown out for want of jurisdiction, with the matter having to start over before the Rent Controller after months or years have passed. In Uttar Pradesh, given the current uncertainty, a landlord or tenant should expect the possibility of a jurisdictional objection either way, and should be prepared to argue, in the alternative, under whichever of the two Acts a court finds applicable in the end.",
+        "A practical safeguard in both states is to plead the claim, where the facts allow it, in a way that survives either outcome: state the rent clearly, attach whatever written or documentary proof of the tenancy exists, and be ready to show, if the threshold or statute is disputed, exactly when and how any rent enhancement was communicated to the tenant. Courts and rent authorities in both states have shown they will send a matter back to the correct forum rather than decide it on the merits in the wrong one, so getting the forum right the first time avoids losing time rather than losing the case on its facts."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "My monthly rent in Delhi is below ₹3,500. Where do I go for eviction?",
+      "a": "To the Rent Controller, not the civil court, since the Delhi Rent Control Act applies below that threshold and sets out its own specific grounds and procedure. Filing a civil suit instead risks dismissal for want of jurisdiction, even if your underlying claim is otherwise sound."
+    },
+    {
+      "q": "Does the 1972 UP Rent Act or the 2021 UP Tenancy Act apply to my tenancy right now?",
+      "a": "It depends on when your dispute arose and which specific provisions are involved, and the position has genuinely shifted after the Allahabad High Court's 2026 ruling striking down parts of the 2021 Act. Get current advice before assuming either Act governs; this is not an area to rely on general guidance alone."
+    },
+    {
+      "q": "Can my landlord in UP evict me for personal use without proving genuine need?",
+      "a": "Under the 2021 Act as it stood before the 2026 ruling, courts had held that a landlord need not show bona fide need or comparative hardship for personal-use eviction, a real change from the 1972 position. Whether that still holds depends on how the current uncertainty over the 2021 Act is resolved for your specific provision."
+    },
+    {
+      "q": "Can my landlord evict me just by changing the locks?",
+      "a": "No. Self-help eviction without going through the Rent Controller, Rent Authority or civil court, as applicable, is unlawful in both Delhi and Uttar Pradesh, whatever the underlying merits of the landlord's claim. A tenant locked out this way generally has a remedy for restoration of possession."
+    },
+    {
+      "q": "I don't have a written rent agreement. Does that mean the rent law doesn't protect me?",
+      "a": "No. An oral or informal tenancy is still generally within the jurisdiction of the relevant Controller, Authority or court; the absence of a written agreement mainly affects what you can prove about the agreed terms, not whether the statutory protection applies to you at all."
+    }
+  ],
+  "references": [
+    "Delhi Rent Control Act, 1958, Sections 3(c) (exclusion above the rent threshold), 14 (grounds for eviction) and 25-B (summary procedure for bona fide requirement petitions)",
+    "D.C. Bhatia v. Union of India, (1995) 1 SCC 104 (upholding the Section 3(c) exclusion)",
+    "Uttar Pradesh Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972",
+    "Uttar Pradesh Regulation of Urban Premises Tenancy Act, 2021, Section 46 (repeal of the 1972 Act)",
+    "Allahabad High Court, Division Bench judgment dated 21 August 2026, striking down Sections 8, 9, 10, 38 and 42 of the 2021 UP Tenancy Act",
+    "Constitution of India, Article 254(2) (repugnancy and the need for Presidential assent to certain state laws)"
+  ],
+  "sources": [
+    "https://rawlaw.in/delhi-high-court-sets-aside-tenant-eviction-decree-holds-civil-court-lacked-jurisdiction-until-rent-controller-decided-whether-rent-lawfully-crossed-%e2%82%b93500-threshold/",
+    "https://lawyerenews.com/legal_detail/mere-assertion-of-higher-rent-by-landlord-cannot-oust-drc-act-delhi-high-court-sets-aside-eviction-decree-remands-matter-back",
+    "https://www.mondaq.com/india/landlord-tenant-leases/1677256/bona-fide-requirement-under-the-delhi-rent-control-act-1958-shield-for-tenants-or-right-of-landlords",
+    "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-key-provisions-up-tenancy-act-1972-law-revives-547147",
+    "https://www.verdictum.in/allahabad-high-court/inder-bhushandead-and-2-others-neutral-citation-2026ahc177234-db-1620611",
+    "https://www.barandbench.com/news/allahabad-high-court-strikes-down-key-provisions-of-up-tenancy-law"
+  ],
+  "verification_notes": [
+    "Delhi Rent Control Act Section 3(c) exclusion above the rent threshold: confirmed from the Rawlaw case summary and a second Delhi High Court case summary, both describing the ₹3,500 figure and the exclusion consistently; also consistent with the D.C. Bhatia reference appearing across multiple results.",
+    "Civil court jurisdiction depending on a lawfully proven rent enhancement above the threshold: confirmed from two Delhi High Court case summaries reaching opposite outcomes on their own facts but applying the same jurisdictional test, which supports stating the rule rather than a specific outcome.",
+    "Section 14(1)(e) bona fide requirement elements and the deferential standard of appellate review: confirmed from two independent sources (a case summary and a 2025 Delhi High Court order summary) describing the same three elements.",
+    "UP 1972 Act repealed by the 2021 Act, and the August 2026 Allahabad High Court ruling striking down specific sections for want of Presidential assent: confirmed from three independent news/legal reports (LiveLaw, Verdictum, Bar and Bench) naming the same sections and date.",
+    "Whether the 1972 Act actually revives following that ruling: sources disagree (one treats revival as established, commentary elsewhere disputes that a repealed statute can revive this way), so this guide states the position as unsettled rather than asserting either outcome.",
+    "Did not state any current UP eviction notice period, rent revision formula or specific pecuniary figure under either UP Act, since no number for those was confirmed by two sources in this search; the guide describes the structure and process only."
+  ]
+}
