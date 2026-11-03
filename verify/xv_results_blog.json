@@ -2533,5 +2533,94 @@
       "https://blog.ipleaders.in/maximum-detention-of-an-undertrial-and-release-section-479-bnss/"
     ],
     "note": "Section 35(3) BNSS as notice-before-arrest for offences up to seven years confirmed (SC order, 15 Jan 2026). The WhatsApp/electronic service invalidity claim is confirmed with a specific, identifiable citation (Satender Kumar Antil v. CBI, 2025 INSC 909) that the draft's own verification notes said could not be pinned down; this is stronger support than the draft itself claimed. Section 479 BNSS half/one-third detention thresholds and exclusions also confirmed. No material errors found."
+  },
+  {
+    "file": "_drafts/batch11/blog/19-defamation-civil-and-criminal-remedies-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in",
+      "https://devgan.in",
+      "https://www.advocatekhoj.com",
+      "https://scobserver.in"
+    ],
+    "note": "BNS Section 356 as the successor to IPC 499/500 (1 July 2024, ten exceptions preserved), the community-service sentencing addition under 356(2), Section 356(3) on printing/engraving, and Subramanian Swamy v. Union of India (13 May 2016, WP(Crl) 184/2014) all confirmed from independent sources. The draft's vagueness on the civil limitation period is an unforced gap, not appropriate caution: Article 75 of the Limitation Act, 1963 sets a clear one-year period from the date of publication for a defamation compensation suit, confirmed from the bare act text and a Delhi High Court ruling applying it strictly.",
+    "fixes": [
+      {
+        "find": "A civil suit for defamation is governed by the general limitation period applicable to torts, which runs from the date of publication of the defamatory statement, and a person who delays too long after becoming aware of the statement risks the claim being time-barred.",
+        "replace": "A civil suit for defamation is governed by Article 75 of the Limitation Act, 1963, which gives one year from the date of publication of the defamatory statement for a suit for compensation, and courts have applied this period strictly, so a person who delays too long after becoming aware of the statement risks the claim being time-barred.",
+        "reason": "The one-year period under Article 75 is a settled, verifiable fact, not an open question; the draft's vague 'general limitation period' phrasing omits a fact it should have stated."
+      },
+      {
+        "find": "No specific figure for the civil limitation period on a defamation suit is stated, since the sources reviewed did not consistently confirm a single article-specific period from the Limitation Act for this particular tort; the guide refers to the general limitation framework rather than naming an unverified number of years.",
+        "replace": "The civil limitation period for a defamation suit is confirmed as one year from the date of publication under Article 75 of the Limitation Act, 1963, confirmed from the bare act text and a Delhi High Court ruling applying it strictly; the guide now states this figure directly.",
+        "reason": "Updates the verification note to match the corrected body text now that the Article 75 one-year period is confirmed rather than left unstated."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch11/blog/20-recovery-agents-harassment-rbi-rules-borrower-rights-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in",
+      "https://www.verdictum.in",
+      "https://theprint.in",
+      "https://www.vajiramandravi.com"
+    ],
+    "note": "ICICI Bank Ltd. v. Prakash Kaur (2007) 2 SCC 711, the 2026 ruling in Hari Dutta Sharma v. State of U.P. (2026 INSC 998, decided 16 Sept 2026, directing RBI to secure genuine compliance), the August 2026 RBI recovery directions, and the 8am-7pm calling-hours restriction all confirmed from independent sources. However, the draft's description of 'The Reserve Bank - Integrated Ombudsman Scheme, 2021' as the current complaint route is outdated and materially wrong as of today (2026-11-03): RBI superseded it with the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2026, effective 1 July 2026, confirmed from multiple independent sources describing the new scheme and its effective date. The 2021 scheme now survives only for complaints/appeals predating that date.",
+    "fixes": [
+      {
+        "find": "a borrower can take the complaint to the Reserve Bank - Integrated Ombudsman Scheme, 2021, which merged RBI's earlier separate ombudsman schemes for banks, NBFCs and digital transactions into a single scheme covering deficiency in service by a regulated entity, including conduct by its recovery agents.",
+        "replace": "a borrower can take the complaint to the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2026, which took effect on 1 July 2026 and replaced the earlier 2021 scheme (itself a merger of RBI's separate ombudsman schemes for banks, NBFCs and digital transactions), covering deficiency in service by a regulated entity, including conduct by its recovery agents.",
+        "reason": "The 2021 Integrated Ombudsman Scheme was superseded by the RB-IOS, 2026, effective 1 July 2026; naming the 2021 scheme as current is outdated."
+      },
+      {
+        "find": "escalate to the Reserve Bank - Integrated Ombudsman Scheme, 2021, which covers deficiency in service by a bank or NBFC, including the conduct of its recovery agents, at no cost to you.",
+        "replace": "escalate to the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2026, which took effect on 1 July 2026 and replaced the 2021 scheme, covering deficiency in service by a bank or NBFC, including the conduct of its recovery agents, at no cost to you.",
+        "reason": "Same correction applied to the FAQ answer naming the outdated 2021 scheme."
+      },
+      {
+        "find": "The Reserve Bank - Integrated Ombudsman Scheme, 2021",
+        "replace": "The Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2026, effective 1 July 2026 (superseding the 2021 scheme)",
+        "reason": "Updates the references list to the current scheme."
+      },
+      {
+        "find": "Reserve Bank - Integrated Ombudsman Scheme, 2021 covering deficiency in service including recovery agent conduct, and its free-of-cost, online complaint process: confirmed from RBI",
+        "replace": "Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2026, effective 1 July 2026, superseding the 2021 scheme, covering deficiency in service including recovery agent conduct, and its free-of-cost, online complaint process: confirmed from RBI",
+        "reason": "Updates the verification note to match the corrected scheme name and effective date."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch11/blog/21-partnership-firm-dissolution-settling-dues-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in",
+      "https://www.mondaq.com",
+      "https://www.taxmanagementindia.com",
+      "https://www.indiacode.nic.in"
+    ],
+    "note": "V. Sumitra Reddy & Anr. v. K. Ranganadha Reddy & Ors., 2026 INSC 979 (decided 9 September 2026) is a real case and is accurately described, including the Begumpet land facts, the 25% share, and both holdings (valuation on realisation, not dissolution date; no right to use dissolved firm's assets without settling accounts). Sections 42-48, 55, 69(3), 45 and 72, and the three-year Article 5 limitation period are all confirmed. However, the draft's description of Section 41 is outdated: the ground making insolvency of all partners (or all but one) a basis for compulsory dissolution under Section 41 was omitted by the Insolvency and Bankruptcy Code, 2016, First Schedule, confirmed from an amendment-text source and a bare-act annotation. Insolvency of a partner is now relevant only as a contingency under Section 42, which the draft does separately and correctly state, creating an internal inconsistency with the Section 41 description.",
+    "fixes": [
+      {
+        "find": "Section 41 provides for compulsory dissolution, which happens automatically if all the partners, or all but one, are adjudicated insolvent, or if the firm's business becomes unlawful, for instance because a change in law makes the business illegal or because trading with a country India is at war with becomes unlawful.",
+        "replace": "Section 41 provides for compulsory dissolution, which happens automatically if the firm's business becomes unlawful, for instance because a change in law makes the business illegal or because trading with a country India is at war with becomes unlawful. Section 41 previously also made insolvency of all the partners, or all but one, a ground for compulsory dissolution, but that clause was omitted by the Insolvency and Bankruptcy Code, 2016, so a partner's insolvency is now relevant only as a contingency under Section 42, discussed below.",
+        "reason": "The insolvency ground under Section 41 was omitted by the IBC, 2016; describing it as current is a statutory error, and it is inconsistent with the draft's own, correct statement that insolvency falls under Section 42."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch11/blog/22-legal-heir-certificate-how-to-apply-delhi-up-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://blog.ipleaders.in",
+      "https://housing.com",
+      "https://www.legalkart.com",
+      "https://website.rbi.org.in"
+    ],
+    "note": "Issuing authority and purpose of a legal heir certificate, the Section 372 Indian Succession Act petition route for a succession certificate and its good-faith-payer protection, the Delhi and UP e-District portal names (including the genuine e-Sathi naming discrepancy for UP), bank-specific thresholds for requiring a succession certificate instead, and the absence of a dedicated central statute for legal heir certificates are all confirmed from independent sources. No contradictions found; the draft's hedging on fees and processing times (which vary by office) is appropriate rather than a gap."
   }
 ]
