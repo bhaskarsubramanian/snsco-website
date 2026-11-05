@@ -3289,5 +3289,43 @@
       "https://www.whalesbook.com/news/English/lawcourt/SC-Fixes-Bonded-Labour-Rescue-Timelines-NGT-Targets-Illegal-Mining/6aeaf0e94fc30694db5be06d"
     ],
     "note": "Independent WebSearch (direct WebFetch to downtoearth.org.in and whalesbook.com was blocked by this sessions network policy) corroborates all core claims: NGT Eastern Zone Bench order dated 29 October 2026 directing Deputy Commissioners across Arunachal Pradesh to identify and remove riverbed encroachments (boundary walls, private bridges) on the Borum and other rivers, directing the Geology and Mining department against illegal earth mining, requiring SEIAA clearance and District Survey Reports before mining can proceed, and directing the Chief Secretary to place rule-framing before the state government. Only two outlets (Down To Earth, WhalesBook) appear to have reported this order; no third independent source was found, but the two reports are consistent with each other and with the draft. No live-site duplicate found."
+  },
+  {
+    "file": "_drafts/batch12/news/07-kerala-hc-vizhinjam-port-erosion-committee-quashed.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.barandbench.com/news/kerala-high-court-rejects-kudale-committees-report-on-vizhinjham-port-coastal-erosion-orders-fresh-panel",
+      "https://images.assettype.com/barandbench/2026-10-30/s7f2mpw3/Nirmala_Johny___ors_v_State_of_Kerala___ors.pdf",
+      "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-vizhinjam-port-erosion-directs-stateconstitute-independent-expert-committee-556683",
+      "https://www.onmanorama.com/news/kerala/2026/10/30/vizhinjam-seaport-kerala-hc-quashes-expert-panel-on-coastal-erosion-orders-fresh-probe.html"
+    ],
+    "note": "Core holding, bench, decision date (30 October 2026), conflict-of-interest finding against committee chair M.D. Kudale and another member, direction for a fresh independent committee, and the scope limits (construction not halted, clearances not reopened, merits not decided) are all confirmed across Bar and Bench, LiveLaw, Onmanorama and Keralakaumudi. However the case number, which the draft states is not reported, was in fact located directly from the judgment PDF header: WP(C) No. 34157 of 2022, High Court of Kerala at Ernakulam. The judgment header independently confirms the decision date as Friday, 30 October 2026, resolving in the drafts favour the one-source discrepancy with The Federal (30 November). No live-site duplicate found.",
+    "fixes": [
+      {
+        "find": "\"citation\": \"Writ petition before the Kerala High Court; case number not reported\",",
+        "replace": "\"citation\": \"WP(C) No. 34157 of 2022, Kerala High Court\",",
+        "reason": "The case number is available from the judgment itself (WP(C) No. 34157 of 2022) and should not be stated as not reported."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch12/news/08-nclat-polycab-insolvency-set-aside-asier-metals.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/nclat-sets-aside-insolvency-proceedings-against-polycab-over-278-crore-dues",
+      "https://www.barandbench.com/news/nclat-stays-insolvency-proceedings-against-polycab-india-over-278-crore-debt",
+      "https://supremetoday.ai/nclat-overturns-insolvency-against-polycab-india-citing-existence-of-genuine-pre-existing-payment-disputes-between-parties-20261030153",
+      "https://www.taxscan.in/corporate-laws/provisional-billing-without-dissenting-final-invoice-fails-to-raise-pre-existing-dispute-nclt-admits-278-cr-cirp-against-polycab-india"
+    ],
+    "note": "Timeline, bench, parties, Rs 2.78 crore (precisely Rs 2,78,70,157.22) claim, the 7 October NCLT admission, the 9 October interim stay, the 30 October final order setting aside the CIRP on Section 9(5)(ii)(d) pre-existing dispute grounds, and the companys return to board control are all independently confirmed across Bar and Bench, supremetoday.ai and Taxscan. One addition: the exact appeal number is available and should be added -- Company Appeal (AT) (Insolvency) No. 1940 of 2026 -- which the draft left generic. Not a duplicate of live content: the site already carries a 2026-10-09 news item on the interim stay (/legal-news/nclat-polycab-stay-asier-metals-insolvency.html), but this draft covers the later, substantively different final order that actually sets aside the admission and decides the pre-existing-dispute question, which is not yet covered live.",
+    "fixes": [
+      {
+        "find": "\"citation\": \"Company Appeal (AT) (Insolvency); NCLAT order dated 30 October 2026, appeal against NCLT Ahmedabad order dated 7 October 2026\",",
+        "replace": "\"citation\": \"Company Appeal (AT) (Insolvency) No. 1940 of 2026; NCLAT order dated 30 October 2026, appeal against NCLT Ahmedabad order dated 7 October 2026\",",
+        "reason": "The exact appeal number (Company Appeal (AT) (Insolvency) No. 1940 of 2026) is reported and should be included rather than left blank."
+      }
+    ]
   }
 ]
