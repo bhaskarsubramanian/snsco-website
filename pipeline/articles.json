@@ -11,31 +11,13 @@
   },
   "queue": [
     {
-      "id": "Y",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Adv. Rahul Jangra"
-      ],
-      "practice_area": "Property & Civil Litigation",
-      "topic": "Title, possession and ownership disputes: verifying title before purchase, adverse possession (Ravinder Kaur Grewal and later rulings), cancellation of registered sale deeds under Section 31 Specific Relief Act, co-owner disputes and partition, limitation."
-    },
-    {
-      "id": "Z",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Adv. Anupam"
-      ],
-      "practice_area": "Banking & Finance",
-      "topic": "Cheque dishonour under Section 138 NI Act: notice and limitation, presumptions, interim compensation under Section 143A, appeals and Section 148, company directors under Section 141, parallel civil recovery and recent Supreme Court directions."
-    },
-    {
       "id": "AA",
       "authors": [
         "Bhaskar Subramanian",
         "Chandrayee Roy"
       ],
       "practice_area": "NRI Legal Services",
-      "topic": "NRI matrimonial disputes: divorce jurisdiction when spouses live in different countries, look-out circulars, cross-border child custody and the Hague Convention position (India is not a party; Supreme Court approach), maintenance and enforcement of foreign orders; informational only."
+      "topic": "Elderly parents in India and NRI children abroad (USA, Canada, UK): Maintenance and Welfare of Parents and Senior Citizens Act 2007 tribunals and maintenance, revoking gifts and transfers made to children, caretaker and tenant verification, powers of attorney and healthcare decisions, protecting the parents' home from encroachment, and what an NRI child can and cannot do from abroad. Do NOT duplicate the existing guide on revoking gift deeds; link to it."
     },
     {
       "id": "AB",
@@ -44,7 +26,7 @@
         "Souvik Bose"
       ],
       "practice_area": "NRI Legal Services",
-      "topic": "NRI taxation basics: residential status under the Income-tax Act 2025 (in force from 1 April 2026), DTAA relief and tax residency certificate, TDS on property sale by NRI and lower deduction certificate, repatriation limits under FEMA; confirm each against official sources."
+      "topic": "NRIs as directors, shareholders and founders of Indian companies and LLPs: resident director requirement (182 days) under Section 149(3) Companies Act 2013, DIN and DIR-3 KYC, FEMA and FDI reporting for NRI investment, designated partner rules for LLPs, board meetings and signing from abroad, bank accounts. Link to existing FDI and DIR-3 KYC guides; do not repeat them."
     },
     {
       "id": "AC",
@@ -52,8 +34,8 @@
         "Bhaskar Subramanian",
         "Adv. Rahul Jangra"
       ],
-      "practice_area": "NRI Legal Services",
-      "topic": "Conducting Indian litigation from abroad: appearance through attorney and power of attorney, video conferencing and remote evidence, service of summons abroad and apostille or attestation of documents, limitation and costs of absence; informational only."
+      "practice_area": "Property & Civil Litigation",
+      "topic": "Remote property purchase by NRIs from USA, Canada and UK: title due diligence step by step, what the registry and revenue records prove, encumbrance and mutation checks, litigation search, common title defects and fraud patterns in Delhi NCR, Punjab, Haryana and Kolkata, escrow and payment trail under FEMA. Do not repeat the existing NRI property purchase FEMA guide; focus on title and due diligence."
     },
     {
       "id": "AD",
@@ -61,17 +43,35 @@
         "Bhaskar Subramanian",
         "Adv. Anupam"
       ],
-      "practice_area": "Real Estate & RERA",
-      "topic": "NRI homebuyers and RERA: remedies for delayed possession, refund and interest, filing a complaint from abroad, authority powers, consumer forum alternative, resale and FEMA rules for NRI property purchases."
+      "practice_area": "NRI Legal Services",
+      "topic": "Money lent or invested by NRIs in India with relatives and friends: recovery routes (legal notice, Order XXXVII summary suit, Section 138), limitation, documentary proof of loan, bank-channel and FEMA rules on loans between NRIs and residents, security and interest, informal arrangements that fail in court."
     },
     {
       "id": "AE",
       "authors": [
-        "Subhradip Roy",
-        "Adv. Anupam"
+        "Bhaskar Subramanian",
+        "Chandrayee Roy"
       ],
       "practice_area": "NRI Legal Services",
-      "topic": "Cross-border judgments and money recovery: enforcing Indian decrees abroad and foreign judgments in India under Sections 13, 14 and 44A CPC, reciprocating territories, arbitration awards link, limitation, and practical evidence requirements."
+      "topic": "Marriage registration and validity for NRIs and spouses abroad: registering under the Hindu Marriage Act or Special Marriage Act (notice period), marriages solemnised abroad and their recognition in India, registration for spousal visa applications to USA, Canada and UK, proof of marriage, second marriage and bigamy risks, and remedies for a deserted spouse. Link to existing look-out circular, foreign divorce and alimony guides; do not repeat them."
+    },
+    {
+      "id": "AF",
+      "authors": [
+        "Subhradip Roy",
+        "Adv. Rahul Jangra"
+      ],
+      "practice_area": "NRI Legal Services",
+      "topic": "Correcting name, date-of-birth and record discrepancies that block NRI transactions in India: mismatches between passport, Aadhaar, PAN, bank and property records, affidavits and gazette name change, civil-court declaration, correction in revenue and registry records, birth and death certificate corrections, and what each remedy is accepted for."
+    },
+    {
+      "id": "AG",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Souvik Bose"
+      ],
+      "practice_area": "Property & Civil Litigation",
+      "topic": "Managing Indian property while living abroad: rent agreements and collection, tenant default and eviction under State rent laws, caretakers and property managers, property tax, utility and society transfers, insurance, protection against encroachment, and the documents an NRI landlord should hold. Do not repeat the existing guides on illegal occupation recovery."
     }
   ]
 }
