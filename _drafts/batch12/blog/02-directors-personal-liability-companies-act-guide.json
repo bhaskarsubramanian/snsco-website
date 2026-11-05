@@ -1,0 +1,108 @@
+{
+  "slug": "directors-personal-liability-companies-act-guide",
+  "title": "When Are Directors Personally Liable Under the Companies Act?",
+  "meta_description": "A guide to when a director is personally liable in India: officer-in-default rules, fraud, cheque dishonour and veil-piercing for tax dues.",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "A director is not personally liable for a company's debts or wrongs simply by holding the office. The Companies Act, 2013 keeps the company's separate legal personality and the shareholders' and directors' limited liability as the default position, and that default is not displaced just because a company runs into trouble or defaults on a payment. Personal liability attaches only where a specific provision fastens it on an officer in default, where the director's own conduct amounts to fraud or knowing participation in wrongdoing, or where a court or tribunal lifts the corporate veil on the particular facts before it, something Indian courts still treat as the exception rather than the rule.",
+    "This guide looks at the main routes by which a director can end up personally exposed: the statutory definition of an officer in default, fraud and winding-up liability under the Companies Act, cheque dishonour under the Negotiable Instruments Act, veil-piercing for tax dues, and the narrower protection the law gives to independent and non-executive directors."
+  ],
+  "sections": [
+    {
+      "heading": "The Default Rule, and Why It Is Not Absolute",
+      "paragraphs": [
+        "Indian company law starts from the position that a company is a legal person distinct from the people who run it, so its debts are its own and its directors are not guarantors of them merely by signing board resolutions or attending meetings. That principle has real limits. Parliament has written a series of specific statutes that reach through the company to individuals, usually where the individual's own conduct, knowledge or default is in issue, rather than their office alone. Tax law, company law and the cheque-dishonour provisions of the Negotiable Instruments Act each do this differently, and a director can be exposed under one without being exposed under another on the very same facts.",
+        "The confusion clients usually bring to a first meeting is treating 'director' as a single risk category. It is not. A whole-time executive director who signs returns and runs operations carries materially different exposure from an independent director who attends quarterly board meetings and has no role in day-to-day management, and the statutes discussed below treat them differently for that reason."
+      ]
+    },
+    {
+      "heading": "'Officer in Default' Under Section 2(60)",
+      "paragraphs": [
+        "Several penal and compliance provisions of the Companies Act punish an officer who is in default, a term defined in Section 2(60). It sweeps in whole-time directors of the company, key managerial personnel such as the managing director, CEO, CFO and company secretary, and, where no key managerial personnel has been appointed, any director the board has specifically designated for that compliance, or every director if none has been designated. It also catches any director who was aware of the default through participation in board proceedings, or through receipt of board papers, and did not object.",
+        "A separate limb covers a person the board has charged with responsibility for a particular compliance. Commentary is divided on whether that person's own prior written consent is needed before liability attaches, so this is a point to check against the specific provision said to have been breached rather than assume either way. In practice, which of these categories actually bites depends on which section of the Act is in issue; a blanket claim that all directors are officers in default for every contravention is usually an overstatement."
+      ]
+    },
+    {
+      "heading": "Fraud and Winding-Up Liability: Sections 447 and 339",
+      "paragraphs": [
+        "Section 447 is the Companies Act's general fraud provision, and it can reach a director personally where the fraud involves that director's own acts, not merely the company's business failing. A separate guide on this site deals with Section 447 fraud liability in detail and is worth reading alongside this one for that specific exposure.",
+        "Section 339 operates at a different stage, during the winding up of a company, where the business appears to have been carried on with intent to defraud creditors or for any fraudulent purpose. On an application by the liquidator, a creditor or a contributory, the Tribunal can declare that a director, manager, officer or any other person who knowingly took part in carrying on the business that way is personally responsible, without any limit, for the company's debts and liabilities. Everyone caught by that declaration also faces exposure under Section 447 for the same conduct, and the provision reaches further than the boardroom, since it can catch anyone knowingly involved in running the business that way, formally appointed officer or not."
+      ]
+    },
+    {
+      "heading": "Cheque Dishonour Under Section 141 of the Negotiable Instruments Act",
+      "paragraphs": [
+        "Section 141 makes every person who was in charge of, and responsible to the company for, the conduct of its business at the time a cheque was dishonoured, vicariously liable along with the company. Because this is a penal provision, the Supreme Court reads it strictly, and a run of 2025 decisions has narrowed how easily a complaint against a director can proceed. In K.S. Mehta v Morgan Securities and Credits Pvt Ltd (2025 INSC 315), the Court held that merely attending board meetings does not fasten financial liability on a director. In Kamal Kishor Shrigopal Taparia v India Ener-Gen Pvt Ltd (2025 INSC 223), it held that a bare designation as director, without more, is not enough to sustain a complaint against a non-executive director. The Court has separately held that a director who had resigned before the relevant cheque was issued cannot be made liable for it, and in HDFC Bank Limited v State of Maharashtra (2025 INSC 759) restated that there is no universal rule that a company's director runs its day-to-day affairs.",
+        "The common thread is that the complaint must specifically allege the director's actual role in the company's business at the relevant time. Vague, formulaic averments copied from one complaint to the next are increasingly being quashed at the threshold."
+      ]
+    },
+    {
+      "heading": "Piercing the Veil for Tax and Other Statutory Dues",
+      "paragraphs": [
+        "Section 179 of the Income Tax Act, 1961 lets the department recover a private company's unpaid tax from a person who was a director during the relevant year, but only after the department first shows the dues cannot be recovered from the company itself. Even then, a director has a defence if the non-recovery cannot be attributed to any gross neglect, misfeasance or breach of duty on their part, so a passive but diligent director has a real answer to such proceedings. Courts have taken different views on whether 'tax due' for this purpose also includes penalty, so that point needs checking against the specific assessment year and the current case law rather than assumed either way.",
+        "Beyond this statutory route, the Supreme Court has separately held, in tax-recovery cases generally, that the doctrine of corporate personality cannot be used to help a company or its controllers evade tax recoveries, treating veil-piercing as available where the facts show the corporate form is being used to defeat a legitimate claim. Whether the same reasoning extends as readily to unpaid labour dues is less settled; the available authority on that specific question is thinner, and outcomes there tend to turn heavily on the individual facts rather than a single clear rule."
+      ]
+    },
+    {
+      "heading": "The Narrower Exposure of Independent and Non-Executive Directors",
+      "paragraphs": [
+        "Section 149(12) gives independent and non-executive directors, other than promoters or key managerial personnel, a measure of protection that executive directors do not have. It limits their liability to acts of commission or omission by the company that occurred with their knowledge, attributable through board processes, and with their consent or connivance, or to situations where they had not acted diligently. Knowledge for this purpose is tested against what the board papers, agenda notes and minutes actually show the director was told, not inferred from the office alone.",
+        "This protection explains why the recent Section 141 rulings keep insisting on specific averments against individual directors rather than accepting the office itself as proof of control. It does not, however, excuse a director who was told about a problem through board papers and simply did nothing; the diligence limb of Section 149(12) exists precisely to catch that kind of passive default."
+      ]
+    },
+    {
+      "heading": "What This Means for a Director Worried About Exposure",
+      "paragraphs": [
+        "None of this is a reason to assume a title alone creates risk, or to assume it never does. What matters across every route discussed above is whether the specific director's own knowledge, role and conduct can be shown, through board minutes, signed returns, or actual involvement in a transaction, not whether they happened to hold office when something went wrong. A director who routinely reviews board papers, records dissent where warranted, and avoids rubber-stamping agenda items without reading them is in a materially stronger position under every one of these provisions than one who treats board membership as a formality.",
+        "The practical habits that protect a director are the same ones a well-run board should want anyway: minutes that accurately record who raised what, written responsibility letters where the board designates a particular director or officer for a specific compliance, and a genuine information flow to non-executive and independent members rather than a token summary at the end of a long agenda. None of this removes liability where a director actually knew of and went along with wrongdoing. It simply means a director who did not will usually have the paper trail to show it, which is exactly what the recent Section 141 rulings and Section 149(12) both reward."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a director automatically liable if the company defaults on a loan or a payment?",
+      "a": "No. A company's debts remain the company's own unless a specific law fastens personal liability on a director, such as the Income Tax Act's provision for unrecovered tax dues of a private company, or a personal guarantee the director signed separately. Ordinary commercial default does not, by itself, make a director personally liable."
+    },
+    {
+      "q": "Can an independent director be prosecuted for a cheque the company issued?",
+      "a": "Only if the complaint specifically alleges the director was in charge of and responsible for the conduct of the company's business when the cheque was issued and dishonoured. Recent Supreme Court decisions have quashed complaints against non-executive and independent directors where the complaint relied only on their designation."
+    },
+    {
+      "q": "What is the difference between 'officer in default' and a director who committed fraud?",
+      "a": "Officer in default under Section 2(60) is a compliance category that can include whole-time directors and key managerial personnel for specific statutory defaults. Fraud liability under Section 447 is separate and turns on the individual's own dishonest conduct, and can reach a person whether or not they fall within Section 2(60) at all."
+    },
+    {
+      "q": "Does resigning from the board end a director's liability for everything that happened before?",
+      "a": "It ends liability for conduct after the resignation takes effect and is properly filed, and courts have specifically held a resigned director is not liable for a cheque issued after resignation. It does not erase liability for defaults or conduct that occurred while the person was still a director."
+    },
+    {
+      "q": "Can directors be held personally liable for a company's unpaid wages or labour dues?",
+      "a": "This is less settled than tax liability. There is clearer authority for recovering unpaid tax from directors of a private company in defined circumstances, but the position on unpaid wages or other labour dues is more fact-dependent, and a director's exposure there should be checked against the specific facts rather than assumed."
+    }
+  ],
+  "references": [
+    "Companies Act, 2013, Sections 2(60), 149(12), 339 and 447",
+    "Negotiable Instruments Act, 1881, Section 141",
+    "Income Tax Act, 1961, Section 179",
+    "K.S. Mehta v Morgan Securities and Credits Pvt Ltd (2025 INSC 315); Kamal Kishor Shrigopal Taparia v India Ener-Gen Pvt Ltd (2025 INSC 223); HDFC Bank Limited v State of Maharashtra (2025 INSC 759)",
+    "Related guide on this site: Director Liability for Fraud: Section 447 Companies Act",
+    "Related guide on this site: cheque dishonour and Section 138 guides"
+  ],
+  "sources": [
+    "https://taxguru.in/company-law/note-officer-default-companies-act-2013.html",
+    "https://ca2013.com/339-liability-for-fraudulent-conduct-of-business/",
+    "https://www.verdictum.in/app-lite/court-updates/supreme-court/merely-attending-board-meetings-doesnt-impose-financial-liability-on-director-2025-insc-315-ks-mehta-v-morgan-securities-and-credits-pvt-ltd-1570214",
+    "https://lakshmisri.com/insights/articles/director-s-liability-under-the-income-tax-law-an-insight",
+    "https://lawsikho.com/blog/?p=5871",
+    "https://bnblegal.com/article/piercing-corporate-veil-supreme-court-group-companies/"
+  ],
+  "verification_notes": [
+    "Section 2(60) categories (whole-time directors, KMP, board-designated director, director aware through board proceedings): confirmed from taxguru.in and treelife.in, two independent commentary sources describing the same four to five categories consistently.",
+    "The consent debate on the 'person charged by the board' limb of Section 2(60): sources conflicted, so the text flags this as unsettled rather than asserting a position either way.",
+    "Section 339 personal, unlimited liability during winding up for fraudulent conduct of business, and its link to Section 447: confirmed from ca2013.com's text-based summary and taxclue.in's independent commentary.",
+    "The 2025 Section 141 NI Act trend (K.S. Mehta, Kamal Kishor Shrigopal Taparia, HDFC Bank, the resigned-director ruling): each case confirmed from at least two of livelaw.in, verdictum.in and casemine.com reporting the same holding; case numbers (INSC citations) taken as reported by these sources.",
+    "Section 179 Income Tax Act precondition (recovery from company must be shown impossible first) and the director's gross-neglect defence: confirmed from taxguru.in and lakshmisri.com. The conflict on whether 'tax due' includes penalty is stated as unresolved because sources disagreed.",
+    "General veil-piercing doctrine for tax recovery: confirmed from bnblegal.com's summary of Supreme Court tax-recovery reasoning; no Supreme Court authority specific to labour dues was found in two independent sources, so the text explicitly declines to state a settled rule there.",
+    "Section 149(12) knowledge/consent/connivance/diligence framework for independent directors: confirmed from lawsikho.com and cbcl.nliu.ac.in, both describing the same alternative grounds for liability."
+  ]
+}

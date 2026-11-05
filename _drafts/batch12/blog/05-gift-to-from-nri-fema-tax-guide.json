@@ -1,0 +1,91 @@
+{
+  "slug": "gift-to-from-nri-fema-tax-guide",
+  "title": "Gifts To or From an NRI: FEMA Rules and Income Tax Treatment",
+  "meta_description": "What FEMA allows an NRI to gift or receive, who counts as a relative, and when a gift of cash, shares or property to or from an NRI is actually taxed.",
+  "practice_area": "NRI Legal Services",
+  "intro": [
+    "As the law stands today, a gift between an NRI and a resident Indian is governed by two separate questions that get mixed up constantly: whether FEMA permits the transfer at all, and whether income tax falls on the person who receives it. A gift can clear the FEMA test and still be taxed, or it can be perfectly fine on tax and still fall outside what FEMA allows between the two parties involved, particularly where immovable property or company shares are the subject of the gift rather than plain money.",
+      "Families tend to treat 'gift' as a single simple word, but the rule that applies turns on three things: what is being given (cash, shares, or immovable property), which direction it moves (resident to NRI, or NRI to resident), and whether the two people are relatives in the specific sense the relevant law uses, which is narrower than the everyday meaning of the word."
+  ],
+  "sections": [
+    {
+      "heading": "Gifts of money: the tax question comes first",
+      "paragraphs": [
+        "For a plain cash gift, by bank transfer or demand draft, the main hurdle is usually income tax rather than FEMA. Under Section 56(2)(x) of the Income Tax Act, a gift received without consideration is taxed as income from other sources, but gifts from a defined list of relatives are fully exempt regardless of amount, and gifts on the occasion of a marriage, or under a will or by inheritance, are exempt regardless of the relationship. A gift from someone outside that statutory list of relatives is exempt only if the total value of such gifts in the year stays within the section's threshold; once crossed, the entire amount becomes taxable, not just the excess.",
+        "The definition of 'relative' for this income tax exemption is specific to the Income Tax Act itself, covering spouse, siblings, lineal ascendants and descendants, and the siblings of either spouse's parents, among others. It does not automatically track the definition used elsewhere in company or exchange control law, so a relationship that qualifies for one purpose may not qualify for another. This matters because the FEMA rules on gifting immovable property or shares use a different, narrower definition, discussed below, and treating the two definitions as interchangeable is a common and costly error.",
+        "On the exchange control side, a resident sending money abroad as a gift draws on their own Liberalised Remittance Scheme entitlement, currently a ceiling per financial year for permitted current and capital account purposes, gifts included. Amounts beyond that need the Reserve Bank's specific approval first; routing the balance through a second family member's account to multiply the limit is not a workaround, since each remittance has to be disclosed as what it actually is."
+      ]
+    },
+    {
+      "heading": "Gifting immovable property to an NRI",
+      "paragraphs": [
+        "FEMA's rules on immovable property, administered through the Reserve Bank's directions on acquisition and transfer of such property, allow an NRI or OCI to receive a gift of immovable property in India, but with two conditions that often surprise families. First, the property cannot be agricultural land, a plantation property, or a farmhouse; those categories cannot be gifted to an NRI or OCI under the general permission, whatever the relationship between donor and recipient. Second, where the donor is another NRI or OCI rather than a resident, the recipient must be a relative of the donor as defined in the Companies Act, 2013, a definition built around spouse, parents, siblings and lineal descendants. A gift from a resident Indian to an NRI or OCI of ordinary residential or commercial property is not restricted by this relative requirement in the same way; it is the NRI-to-NRI route, and arguably certain other specific combinations, where the relative condition actually bites.",
+        "This Companies Act definition of relative is narrower than many families assume. It generally does not reach as far as grandchildren, nephews, nieces, or cousins, so a grandparent abroad wishing to gift a flat directly to a grandchild who is also an NRI may find that the general permission does not cover the transfer, even though the same gift to the grandchild's parent would be unremarkable. Where the intended recipient does not qualify as a relative under this definition, the route is not automatically closed, but it stops being a general-permission transaction and becomes one that needs the Reserve Bank's case-by-case approval before the transfer is registered."
+      ]
+    },
+    {
+      "heading": "An NRI gifting property or shares to someone in India",
+      "paragraphs": [
+        "The reverse direction, an NRI or OCI gifting Indian property to a resident, is treated more liberally. An NRI can gift residential or commercial property in India to a person resident in India without the recipient needing to be a relative, and separately to another NRI or OCI who is a relative. Shares and other securities of an Indian company sit under a different set of rules from the property directions, generally found in the foreign exchange regulations on non-debt instruments, and these carry their own conditions on valuation, reporting to the company and, in some cases, the Reserve Bank, and on whether the sector the company operates in is one where foreign holding is capped.",
+        "Agricultural land, plantation property and farmhouses are, once again, carved out on this side too: an NRI who holds such property, typically because it was inherited rather than purchased, generally cannot gift it onward to a resident Indian under the general permission either, and needs to look at the specific inheritance and transfer rules that apply to that category of land rather than the ordinary gift route."
+      ]
+    },
+    {
+      "heading": "Reporting the gift is not optional",
+      "paragraphs": [
+        "Even where a gift is fully exempt from tax and squarely within FEMA's general permission, the paperwork trail still matters. A gift deed recording the relationship, the asset, and the absence of consideration is the usual way of establishing that a transfer was in fact a gift rather than an unexplained credit, and banks increasingly ask for one before processing a large inward remittance described as a gift. On the tax side, a resident recipient claiming the relative exemption should be able to show the relationship on request, and an NRI recipient or donor should keep the same documents available, since the exemption depends on the facts being provable, not merely asserted on a return.",
+        "Where either party is a tax resident of a country with a double taxation treaty with India, the treaty may affect how the same transaction is treated in that other country, independently of the Indian tax position. That question sits outside the scope of Indian gift rules altogether and needs to be checked against the specific treaty and that country's own domestic law."
+      ]
+    },
+    {
+      "heading": "Where this usually goes wrong",
+      "paragraphs": [
+        "The recurring mistake is treating a transaction as a 'family matter' and skipping the paperwork, only to find later, often at the point of a property sale or an FDI compliance check, that there is no contemporaneous record showing the transfer was a gift at all. A second common mistake is assuming that because a gift is exempt from tax, it must also be fine under FEMA, or the reverse; the two systems ask different questions and a transfer can pass one test while failing the other. A third is miscounting who qualifies as a relative, applying the income tax definition to a FEMA property gift or the other way round, which can mean a transaction that was assumed to need no approval in fact needed one.",
+        "Where a gift involves agricultural land, a large block of company shares, or a value close to the remittance ceiling, it is worth working out the FEMA and tax position separately and in that order, before any money or title moves, rather than treating the gift deed as a formality to be signed after the transfer has already happened."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a resident Indian gift unlimited money to an NRI relative?",
+      "a": "The resident's remittance is capped by their own Liberalised Remittance Scheme entitlement for that financial year, currently a fixed ceiling per individual for current and capital account purposes including gifts. Amounts above that ceiling need specific Reserve Bank approval before the transfer is made; the relationship to the recipient does not increase the ceiling."
+    },
+    {
+      "q": "Is a cash gift from parents to their NRI child taxable in India?",
+      "a": "No. Parents fall within the definition of relative used for the income tax exemption under Section 56(2)(x), so a gift from a parent to a child, in either direction, is fully exempt from income tax regardless of the amount, though it should still be properly documented."
+    },
+    {
+      "q": "Can an NRI gift agricultural land to a resident relative in India?",
+      "a": "Generally no, under the general permission for ordinary gifts of immovable property. Agricultural land, plantation property and farmhouses are carved out of that permission, and an NRI holding such land, typically by inheritance, needs to look at the specific rules on disposal of inherited agricultural land rather than treating it as an ordinary gift."
+    },
+    {
+      "q": "Does gifting company shares to an NRI relative work the same way as gifting property?",
+      "a": "No. Shares of an Indian company are governed by the foreign exchange rules on non-debt instruments rather than the immovable property directions, with their own conditions on valuation, reporting and sector caps. The two sets of rules should not be assumed to mirror each other."
+    },
+    {
+      "q": "Who counts as a 'relative' for a FEMA gift of a flat to an NRI from another NRI?",
+      "a": "The relevant definition is the one in Section 2(77) of the Companies Act, 2013, built around spouse, parents, siblings and lineal ascendants and descendants. It is narrower than the everyday sense of family, and in particular does not straightforwardly extend to grandchildren."
+    }
+  ],
+  "references": [
+    "Income Tax Act, 1961, Section 56(2)(x), and the relative exemption and marriage/will exemptions under its proviso",
+    "RBI Master Direction on Acquisition and Transfer of Immovable Property under FEMA, including the agricultural land, plantation and farmhouse exclusions and the Companies Act Section 2(77) relative requirement for NRI-to-NRI gifts",
+    "Companies Act, 2013, Section 2(77), definition of 'relative'",
+    "RBI rules on the Liberalised Remittance Scheme for resident individuals, current ceiling per financial year",
+    "Foreign Exchange Management (Non-Debt Instrument) Rules, applicable to gifts of Indian company shares and securities"
+  ],
+  "sources": [
+    "https://website.rbi.org.in/web/rbi/-/notifications/master-circular-on-acquisition-and-transfer-of-immovable-property-in-india-by-nris-pios-foreign-nationals-of-non-indian-origin-5798",
+    "https://taxguru.in/rbi/rbi-master-direction-acquisition-transfer-immovable-property-foreign-exchange-management-act-1999.html",
+    "https://www.icici.bank.in/nri-banking/nriedge/nri-articles/tax-implications-in-india-for-nris-on-receiving-gifts",
+    "https://bcajonline.org/wp-content/uploads/2025/04/8.-Gifts-and-Loans-By-and-To-Non-Resident-Indians-Part-I.pdf",
+    "https://website.rbi.org.in/web/rbi/-/citizens-corner/liberalised-remittance-scheme-of-usd-25-000-for-resident-individuals-121"
+  ],
+  "verification_notes": [
+    "The Section 56(2)(x) exemption for gifts from relatives, the marriage and will/inheritance exemptions, and the ₹50,000 class of threshold for non-relative gifts are confirmed across multiple tax-advisory sources; the exact current threshold figure is stated only in general terms here because sources did not uniformly confirm a single current number against the primary statute text.",
+    "The FEMA condition that an NRI-to-NRI gift of immovable property requires the recipient to be a relative under Section 2(77) of the Companies Act, 2013, and the exclusion of agricultural land, plantation property and farmhouses from the general gift permission, are both confirmed from the RBI Master Direction text reproduced by two independent sources.",
+    "The claim that grandchildren fall outside the Companies Act Section 2(77) relative definition, and may therefore need case-by-case RBI approval for a direct grandparent-to-grandchild gift, is reported by one source and treated here as a general caution rather than a settled, independently confirmed rule.",
+    "The current USD 250,000 Liberalised Remittance Scheme ceiling per resident individual per financial year is confirmed from two independent sources, though the sources disagreed on the exact year the limit reached that figure, so no specific year of change is stated.",
+    "Whether an NRI-to-resident gift of ordinary (non-agricultural) immovable property requires the recipient to be a relative was reported inconsistently between sources; this guide states only the position on which the RBI Master Direction text itself was consistent across sources, namely that the relative condition is tied to the NRI-to-NRI combination, and avoids asserting a figure or condition that could not be confirmed twice."
+  ]
+}
