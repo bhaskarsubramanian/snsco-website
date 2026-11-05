@@ -1,0 +1,206 @@
+{
+  "slug": "nri-name-dob-record-discrepancy-correction-article",
+  "title": "Correcting Name, Date of Birth and Record Mismatches That Block an NRI's Transactions in India",
+  "subtitle": "A passport, an Aadhaar card, a PAN card, a bank KYC record and a decades-old property document rarely describe the same person in exactly the same way, and for an NRI that gap tends to surface at the worst possible moment: a frozen account, a stalled sale, or a succession proceeding an opposing party is using the mismatch to delay. This article sets out what each authority actually requires to fix its own record, which corrections can be done from abroad, and which genuinely cannot.",
+  "meta_description": "How NRIs correct passport, Aadhaar, PAN and property record mismatches: gazette name change, civil declaration suits and birth certificate fixes.",
+  "practice_area": "Property & Civil Litigation",
+  "authors": [
+    {
+      "name": "Subhradip Roy",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Adv. Rahul Jangra",
+      "role": "Associate, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Subhradip Roy",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-05",
+  "standfirst": "Most NRI identity-record disputes are not about which fact is true; everyone usually agrees on the correct name and date of birth. The difficulty is that five or six separate authorities, the passport office, UIDAI, the Income Tax Department, a bank, a property registrar, each have their own correction procedure, their own accepted proof, and their own tolerance for an affidavit versus their own insistence on a Gazette notification or a court order. This article works through each of those procedures in the order they are usually best attempted, and explains which ones genuinely require a visit to India.",
+  "key_points": [
+    "An NRI identity mismatch rarely stays a minor inconvenience the way it often does for a resident Indian, because banks, registrars and visa authorities now routinely cross-check Aadhaar, PAN and property records against each other rather than accepting each document on its own, so a discrepancy that was harmless for years can suddenly block a transaction with a fixed deadline.",
+    "UIDAI generally requires a substantial name correction or any date-of-birth correction to be done in person at an Aadhaar enrolment centre with original supporting documents, making this one of the few corrections in this article that cannot realistically be completed by post or through a representative, and it should be planned around a visit to India.",
+    "The Supreme Court held in Saroj v. IFFCO-Tokio General Insurance Co. (2024 INSC 816, decided 24 October 2024) that Aadhaar is not by itself conclusive proof of date of birth, and that an older document such as a school leaving certificate with statutory recognition is the more reliable record where the two disagree; Aadhaar should generally be corrected to match such an older record, not treated as the anchor other records must match.",
+    "A passport office frequently requires a Gazette of India notification before accepting a substantial name change, obtained through a notarised affidavit, a newspaper publication and an application to the Department of Publication, a process that commonly takes four to eight weeks and should be started well before a passport renewal falls due.",
+    "A civil court declaration suit under Section 34 of the Specific Relief Act, 1963 is one route to correct a disputed date of birth where the record-holding authority will not act on an affidavit alone, though several courts have taken differing views on whether such a suit is maintainable, and courts are markedly less receptive where the suit is filed many years after the fact for what looks like a service or financial benefit.",
+    "Section 15 of the Registration of Births and Deaths Act, 1969 lets a Registrar correct an erroneous birth or death entry by marginal note on proof to their satisfaction, with a District Registrar's prior approval required for more substantial corrections or where the register is no longer in the local Registrar's possession.",
+    "A mutation entry in property or revenue records is a fiscal record, not proof of title, so correcting a clerical error on a mutation entry fixes the record but does not itself resolve a genuine ownership dispute, which requires the separate title and succession process addressed elsewhere."
+  ],
+  "sections": [
+    {
+      "heading": "Why a small mismatch becomes a large problem for an NRI",
+      "paragraphs": [
+        "A single letter transposed in a surname, a date of birth recorded as 1978 in one document and 1979 in another, a father's name spelled with or without a middle initial: differences like these are common enough in India's record-keeping history that most resident Indians eventually live with one or two of them. A bank clerk corrects it by hand against a supporting document, the registrar's office is a short drive away, and a transaction waits an extra day while the correction is made.",
+        "An NRI rarely has the option of waiting an extra day. The mismatch surfaces during a property sale with a closing date fixed around a flight booked months in advance, during a bank KYC refresh that freezes an NRO account until the records match, or during a succession proceeding where every legal heir's identity has to tie precisely to the deceased's will or the revenue record, and any one discrepancy can be used by an opposing party to stall the whole matter. The correction itself is rarely complicated law. What makes it difficult is doing it correctly, in the right sequence, from a different time zone, without a second trip to India being the only way to fix a mistake that could otherwise have been resolved by post or through an authorised representative.",
+        "This article sets out what each of the common identity and record-keeping documents actually requires to correct a discrepancy, which corrections can be done from abroad and which genuinely cannot, and what happens when a bank, registrar or passport office refuses to accept an affidavit and insists on a court order instead."
+      ]
+    },
+    {
+      "heading": "The documents at the centre of most mismatches",
+      "paragraphs": [
+        "Five documents sit behind nearly every NRI identity dispute: the passport, the Aadhaar card, the PAN card, the bank's KYC record, and the property or revenue record (the registered sale deed, the khatauni or jamabandi, and the mutation entry in the local land records). Each of these was created by a different authority at a different time, often decades apart, and each authority accepts different proof for the same fact. A birth certificate that satisfies the passport office may not be what a bank's KYC desk asks for, and a name spelled one way on a decades-old sale deed may not match the Aadhaar record created only in the last fifteen years.",
+        "The practical difficulty is that these documents increasingly have to agree with each other, not merely be individually correct. Banks now cross-check PAN against Aadhaar through the Income Tax Department's linking requirement, property registrars in several states ask for Aadhaar verification before registration, and a passport renewal can be held up if the applicant's Aadhaar, if submitted as supporting proof, shows a different date of birth. A discrepancy that was harmless when each document was used on its own becomes a genuine obstacle once an authority starts comparing two or three of them side by side, which is now the default rather than the exception.",
+        "The order in which these records were created also matters for working out which one is likely to be treated as authoritative. A school leaving certificate or an original birth certificate from the 1970s or 1980s generally carries more weight with courts and government offices than an Aadhaar card issued decades later on the strength of whatever documents were produced at enrolment, a point that becomes directly relevant further on in this article."
+      ]
+    },
+    {
+      "heading": "Correcting Aadhaar: what UIDAI allows and what it does not",
+      "paragraphs": [
+        "The Unique Identification Authority of India treats a name correction and a date-of-birth correction differently. A minor spelling correction to a name can usually be requested online through the myAadhaar portal, supported by an accepted proof-of-identity document, while a more substantial change, or a date-of-birth correction, generally has to be done in person at an Aadhaar enrolment or update centre with the original supporting documents produced for verification. UIDAI's own published list of acceptable documents for proof of date of birth includes a birth certificate, a passport, a PAN card showing the date of birth, and a school transfer or leaving certificate, among others, and the centre will ask for one of these rather than accept a bare declaration.",
+        "Two practical limits matter for an NRI planning this correction from abroad. Date-of-birth updates are generally permitted only a limited number of times in a person's Aadhaar history, so a correction should be made deliberately and with the final, verified date, not as a provisional fix to be adjusted again later. Second, because an in-person visit to an enrolment centre is usually unavoidable for anything beyond a minor spelling fix, this is one of the corrections best scheduled for a visit to India rather than attempted entirely by post or through a representative, unlike some of the other corrections described later in this article.",
+        "An NRI who holds an Aadhaar card but lives permanently abroad should also keep in mind that Aadhaar was never designed as, and under UIDAI's own position is not treated as, conclusive proof of date of birth for legal purposes. That point recurs later in this article and matters particularly where an Aadhaar date of birth conflicts with an older document such as a birth certificate or school record."
+      ]
+    },
+    {
+      "heading": "Correcting a PAN card: the route through Protean and UTIITSL",
+      "paragraphs": [
+        "A PAN correction goes through one of two authorised service providers, Protean eGov Technologies (formerly NSDL e-Governance) or UTIITSL, using the 'Changes or Correction in existing PAN data' category rather than a fresh application. The online route, available to someone with Aadhaar-based e-KYC, can usually be completed entirely from abroad: the application is filed online, supporting identity proof matching the corrected name or date of birth is uploaded, and the corrected card is despatched to the address on record, which can be an overseas address. The PAN number itself never changes; only the demographic details on the card are corrected, and holding more than one PAN remains an offence regardless of how outdated or incorrect the existing one is.",
+        "Where the correction is to align a name after marriage, a marriage certificate is generally accepted as supporting proof alongside an Aadhaar or passport already showing the corrected name. Where the discrepancy is the other way around, the PAN is correct and the Aadhaar record is the one that is wrong, the more direct fix is usually to correct the Aadhaar entry to match the PAN, since Aadhaar corrections at a UIDAI centre tend to accept a PAN card as one of the listed supporting documents for a date-of-birth or name correction, which can sometimes resolve the discrepancy without engaging the PAN correction process at all."
+      ]
+    },
+    {
+      "heading": "Passport corrections and the gazette notification question",
+      "paragraphs": [
+        "A passport name or date-of-birth correction is handled by the Passport Seva system against the same category of supporting documents as an Aadhaar correction, a birth certificate, a school leaving certificate, or an equivalent record, but the passport office is also the authority most likely to ask for a Gazette of India notification before accepting what it treats as a substantial change of name, as opposed to a minor spelling correction. Practice is not entirely uniform across Passport Seva Kendras on exactly where that line sits, and an applicant should expect to be asked for a Gazette notification for anything beyond a clear typographical fix, particularly where the new and old names differ enough that an officer might reasonably doubt they refer to the same person.",
+        "The usual route to a Gazette notification is a three-step process: a notarised affidavit setting out the old name, the new name and the reason for the change, publication of a notice in at least one newspaper in the applicant's area, and then an application to the Department of Publication for a notification in the Gazette of India, a process that commonly takes four to eight weeks to appear once filed. A central Gazette notification is recognised across India and is the version the passport office and most other authorities expect; some applicants instead obtain a state Gazette notification, which is faster in some states but is not always accepted outside that state, so an NRI correcting a passport record is usually better served going through the central Gazette route from the outset rather than discovering later that a state notification is not sufficient.",
+        "For a date-of-birth correction specifically, the passport office has in several reported instances required a court declaratory order before it will change the recorded date, rather than accepting an affidavit alone, a point addressed in the next section. An NRI planning a passport correction around an upcoming renewal should start the Gazette or court process well before the renewal date, since neither route resolves itself in the days before a passport is due to expire."
+      ]
+    },
+    {
+      "heading": "When an affidavit is not enough: the civil court declaration suit",
+      "paragraphs": [
+        "An affidavit and a Gazette notification resolve most name discrepancies, but a date-of-birth dispute, and occasionally a disputed identity question more generally, can require a civil court's declaration where the authority holding the record will not correct it on an affidavit alone. Section 34 of the Specific Relief Act, 1963 allows a civil court to grant a declaration of a person's legal character or right to property, and courts have held in a number of reported cases that a declaration of one's correct date of birth falls within the expression legal character used in that section, making such a suit maintainable. Other courts have taken a narrower view, treating a date of birth as a statement of historical fact rather than a legal right capable of declaration, so the position is not uniform across every High Court, and whether this route is available, or necessary, depends partly on which court the suit would be filed in.",
+        "Where the suit is maintainable, it is typically filed not for a bare declaration alone but coupled with a consequential relief directing the specific record-holding authority, the education board, the passport office, the municipal registrar, to correct its record once the court has made the declaration, since a declaration with nothing tied to it leaves the underlying record unchanged. Courts have also been markedly more cautious about granting this relief where it is sought many years after the fact and appears aimed at securing a service-related or financial benefit, such as a later retirement date, rather than correcting a genuine clerical error, so a long delay in bringing the suit works against the person seeking the correction and should be explained candidly rather than left unaddressed.",
+        "For an NRI, this suit does not strictly require personal attendance throughout; a properly executed and apostilled power of attorney can authorise an advocate or a relative in India to file and conduct the proceedings, though the plaintiff should expect to be required to depose at some stage, whether by a commission taking evidence abroad or through a video-conference deposition that many Indian courts now permit, particularly where the facts are not seriously disputed by any other party."
+      ]
+    },
+    {
+      "heading": "Correcting a birth or death certificate: Section 15 and the state rules under it",
+      "paragraphs": [
+        "The Registration of Births and Deaths Act, 1969, as amended in 2023, governs how an error in a birth or death entry is corrected. Section 15 authorises the Registrar to correct an entry that is erroneous in form or substance, or has been fraudulently or improperly made, once the error is proved to the Registrar's satisfaction, usually on a declaration or affidavit accompanied by supporting documents such as a school leaving certificate, a passport, or another contemporaneous record. The correction is made as a marginal note against the original entry rather than by rewriting it, and it is dated and signed by the Registrar, preserving the original entry alongside the correction.",
+        "Where the register itself is no longer in the local Registrar's possession, or the correction is more substantial than a straightforward clerical fix, the Registrar is required to report the matter to the District Registrar, obtain the relevant records, and secure the District Registrar's prior approval before making the correction, which the District Registrar then countersigns. This additional layer exists precisely for the cases where a simple correction risks being used to alter a record for an improper purpose, and an NRI seeking a correction that falls into this category should expect the process to take longer and to require more supporting documentation than a straightforward spelling fix would.",
+        "The Amendment Act of 2023, in force from 1 October 2023, also made the birth certificate the single document for proving the date and place of birth for persons born on or after that date, for a specified range of official purposes, which increases the practical importance of getting the birth certificate itself correct rather than relying on a later document, such as Aadhaar or a school record, to carry a different date forward without challenge."
+      ]
+    },
+    {
+      "heading": "Why Aadhaar cannot be the last word on date of birth",
+      "paragraphs": [
+        "A recurring and mistaken assumption is that Aadhaar, because it is the most commonly produced identity document today, is also the most authoritative one for a disputed date of birth. The Supreme Court rejected exactly this assumption in Saroj v. IFFCO-Tokio General Insurance Co. (2024 INSC 816), decided on 24 October 2024, in a motor accident compensation case where the deceased's Aadhaar card recorded one date of birth and his school leaving certificate recorded another, nearly two years apart. The Court held that Aadhaar establishes identity but is not, by itself, conclusive proof of date of birth, relying on UIDAI's own circular and a December 2018 office memorandum from the Ministry of Electronics and Information Technology stating that Aadhaar is not intended to be definitive proof of age or date of birth. The Court treated the school leaving certificate, a document with statutory recognition under the relevant education board rules, as the more reliable record between the two.",
+        "The practical consequence for an NRI resolving a date-of-birth discrepancy is that correcting Aadhaar to match an older, more authoritative document, rather than treating Aadhaar as the anchor and trying to bring other records into line with it, is usually the more defensible approach if the matter is ever tested in court or before a tribunal. Where no earlier document exists at all and Aadhaar genuinely is the first formal record of a person's date of birth, this difficulty does not arise in the same way, but where an older birth certificate, school record or even an early passport exists and disagrees with Aadhaar, that older record should ordinarily be treated as the one to correct Aadhaar against, not the reverse."
+      ]
+    },
+    {
+      "heading": "Correcting property and revenue records from abroad",
+      "paragraphs": [
+        "A name or date-of-birth mismatch in a property title, a sale deed that spells a name differently from the current passport, or a revenue record (khatauni, jamabandi or the equivalent state record) that carries a clerical error from decades ago, is a separate correction from the identity-document corrections described above, though the two are often connected: a buyer's title search or a bank's loan appraisal will flag both. Correcting a purely clerical error in a revenue entry, a transposed digit in a survey number, a misspelled name copied from an earlier record, is generally available through an application to the revenue authority itself, within the limitation period the applicable state revenue code or rules set for such corrections, and this process and its limits are addressed in detail elsewhere and are not repeated here.",
+        "Where the discrepancy is not clerical but goes to who actually owns the property, because a mutation entry was made in a different name after an inheritance or a sale was never properly reflected, the remedy is not a correction application at all but the broader mutation and title process covered in a separate guide, since a mutation entry, as the Supreme Court has repeatedly held, is a fiscal record for revenue purposes and does not itself confer or extinguish title; correcting the name on a mutation entry fixes the record, not the underlying ownership, and the two should not be confused."
+      ]
+    },
+    {
+      "heading": "Doing this from abroad: powers of attorney and what still needs a personal visit",
+      "paragraphs": [
+        "Most of the correction described in this article can be initiated, and several can be completed entirely, without travelling to India. A PAN correction, filing a civil suit through counsel, and engaging with a registrar's office by post or through a power of attorney holder are all realistically achievable from abroad, provided the power of attorney itself is properly executed: signed before a notary or Indian consular officer in the country of residence and, depending on the destination, apostilled or consularised before it will be accepted by an Indian authority or registered in India. The specific execution and acceptance requirements for a power of attorney signed abroad, and the fraud risks that come with giving someone else this authority, are addressed in full elsewhere and are not repeated here.",
+        "Two corrections in this article genuinely resist being done entirely by post: an Aadhaar date-of-birth or substantial name correction, which UIDAI generally requires to be done in person at an enrolment centre with original documents produced for verification, and, in some cases, a court proceeding that reaches a stage where the court insists on the plaintiff's personal evidence rather than a commission or video deposition. An NRI planning a cluster of corrections is usually better served bunching the Aadhaar visit and any court appearance into a single trip to India, while handling the PAN, passport Gazette process and most property-record applications in parallel from abroad in the months before and after that visit."
+      ]
+    },
+    {
+      "heading": "A sequencing checklist: which correction to make first",
+      "paragraphs": [
+        "Start with whichever document is both the oldest and the one every other document will eventually need to match: usually a birth certificate or, where none exists, a school leaving certificate. Correct that record first under Section 15 of the Registration of Births and Deaths Act, since getting this foundational document right reduces how much supporting evidence later corrections require. Correct Aadhaar next, treating the birth certificate or school record as the authority Aadhaar should match rather than the other way around, and plan this specifically around a visit to India if a date-of-birth change is involved.",
+        "Correct the PAN after Aadhaar, since the online route works cleanly once Aadhaar and the supporting identity document already agree with each other. Address the passport last among the identity documents, since it is the one most likely to demand a Gazette notification or, for a date-of-birth change, a court declaration, and both of those take weeks to months to complete; starting the passport correction early in the sequence, before the underlying records it depends on are settled, usually means redoing some of the paperwork. Property and revenue record corrections can run in parallel with all of the above, since they depend on their own supporting documents and limitation periods rather than on the identity-document sequence, but a buyer, lender or opposing party in any pending matter should be told about an in-progress correction rather than left to discover the mismatch independently."
+      ]
+    }
+  ],
+  "conclusion": [
+    "The individual corrections described in this article, an Aadhaar update, a PAN correction, a Gazette notification, a Registrar's marginal note, a civil declaration suit, are each manageable on their own and rarely require specialised litigation skill to complete correctly. What causes real difficulty for an NRI is sequencing: correcting a downstream document, Aadhaar or a passport, before fixing the older, more authoritative record it should actually be matched against, and discovering only later that the correction has to be redone.",
+    "The safer approach is almost always to work backward from whichever document is oldest and carries the most statutory weight, a birth certificate or school leaving certificate, correct that first, and let every later document follow it. Planned this way, around a single visit to India for the one or two corrections that genuinely need a personal appearance, most NRI record discrepancies can be resolved in a matter of months rather than becoming the reason a property sale, a succession proceeding or a bank account stays stuck indefinitely."
+  ],
+  "faqs": [
+    {
+      "q": "My Aadhaar card shows one date of birth and my old school leaving certificate shows another. Which one is correct for legal purposes?",
+      "a": "Neither is automatically correct, but the Supreme Court held in Saroj v. IFFCO-Tokio General Insurance Co. (2024 INSC 816) that Aadhaar is not by itself conclusive proof of date of birth, and treated a school leaving certificate as more reliable. If the school certificate is genuine and contemporaneous, correcting Aadhaar to match it, rather than the reverse, is usually the safer course."
+    },
+    {
+      "q": "Can I correct my Aadhaar card's date of birth entirely online from abroad?",
+      "a": "Generally no. UIDAI treats a date-of-birth correction, and any substantial name correction, as requiring an in-person visit to an enrolment or update centre with original supporting documents, unlike a minor name spelling correction, which can sometimes be done online. Plan this correction around a visit to India."
+    },
+    {
+      "q": "The passport office is asking for a Gazette notification before it will change my name. Is this always required?",
+      "a": "Practice varies by Passport Seva Kendra, but a Gazette of India notification is commonly required for anything the office treats as a substantial name change rather than a minor spelling correction. The usual route is a notarised affidavit, a newspaper publication, and an application to the Department of Publication, which commonly takes four to eight weeks to appear."
+    },
+    {
+      "q": "Can I file a civil suit in India to correct my date of birth without travelling there?",
+      "a": "The suit itself can usually be filed and conducted through an advocate under a properly executed and apostilled power of attorney, but expect to be required to give evidence at some stage, whether through a commission taking evidence abroad or a video-conference deposition, particularly if any party disputes the facts."
+    },
+    {
+      "q": "My property's mutation record spells my late father's name differently from his will. Does this affect my ownership?",
+      "a": "A mutation entry is a fiscal revenue record, not proof of title, so a spelling mismatch on it does not by itself affect ownership that otherwise flows correctly from the will or succession. The mutation entry can be corrected to match the will and the succession documents, but this is a different process from establishing title itself."
+    },
+    {
+      "q": "A bank has frozen my NRO account until my PAN and Aadhaar details match. How long does fixing this usually take?",
+      "a": "A PAN correction filed online through Protean or UTIITSL with Aadhaar-based e-KYC commonly takes seven to fifteen working days once the application is accepted, though this depends on the specific correction and the service provider's processing load at the time. Correcting Aadhaar first, if that is the record that is wrong, may be necessary before the PAN correction will resolve the mismatch the bank is flagging."
+    },
+    {
+      "q": "Is a notarised affidavit enough to change my name on all my records, or do I need the Gazette notification too?",
+      "a": "An affidavit alone is often accepted for minor updates at some authorities, such as a bank's internal KYC correction, but is generally not sufficient on its own for a passport or other major government record, which more often expects the full affidavit, newspaper publication and Gazette notification sequence for anything beyond a small spelling fix."
+    },
+    {
+      "q": "I corrected my name years ago in India but never updated my US or UK bank and immigration records. Does the Indian correction carry over automatically?",
+      "a": "No. Each country's and institution's records are updated independently, so a corrected Indian Gazette notification, passport or Aadhaar entry has to be separately submitted to each foreign authority or institution that holds the older name, typically with a certified or apostilled copy of the Indian correction document."
+    }
+  ],
+  "references": [
+    "Registration of Births and Deaths Act, 1969, Section 15 (correction or cancellation of erroneous entries)",
+    "Registration of Births and Deaths Act, 1969, Section 13 (delayed registration of births and deaths, as amended)",
+    "Registration of Births and Deaths (Amendment) Act, 2023 (Act No. 20 of 2023), in force from 1 October 2023",
+    "Specific Relief Act, 1963, Section 34 (discretion of court as to declaration of status or right)",
+    "Code of Civil Procedure, 1908, Section 9 (civil court's jurisdiction to try suits of a civil nature)",
+    "Code of Civil Procedure, 1908, Order XXVI (commissions for examination of witnesses, relevant to evidence from abroad)",
+    "Aadhaar (Enrolment and Update) Regulations, and UIDAI's published list of supporting documents for proof of date of birth",
+    "Aadhaar Act, 2016, Section 3 (every resident entitled to obtain Aadhaar, and its stated purpose as proof of identity)",
+    "Income-tax Act, 1961, Section 139A, and Rules on correction of PAN particulars through Protean (NSDL) and UTIITSL",
+    "Passport Rules, 1980, and Passport Seva guidance on supporting documents for name and date-of-birth corrections",
+    "Passports Act, 1967, Section 6 (grounds on which passport issue or renewal can be refused, relevant to unresolved record disputes)",
+    "Saroj and others v. IFFCO-Tokio General Insurance Co. and others, Supreme Court of India, 2024 INSC 816, decided 24 October 2024",
+    "Shabana v. Government of NCT of Delhi, Delhi High Court (2024), on UIDAI's own position that Aadhaar is not proof of date of birth",
+    "Jamnabai v. Vasudev and related Supreme Court authority that a mutation entry does not confer or extinguish title",
+    "Representative State Registration of Births and Deaths Rules on the procedure and documents for correction applications under Section 15",
+    "Registration Act, 1908, Section 17 (documents of which registration is compulsory, relevant to property record corrections)"
+  ],
+  "related_pages": [
+    "/blog/khatauni-mutation-correction-limitation-revenue-appeal.html",
+    "/blog/mutation-of-property-records-guide.html",
+    "/blog/mutation-entry-no-title-supreme-court.html",
+    "/articles/nri-power-of-attorney-abroad-property-litigation-article.html",
+    "/blog/nri-poa-executed-abroad-apostille-guide.html",
+    "/blog/power-of-attorney-types-registration-guide.html"
+  ],
+  "sources": [
+    "https://www.deccanherald.com/amp/story/india/aadhaar-card-not-an-authoritative-proof-of-date-of-birth-supreme-court-3247711",
+    "https://www.livelaw.in/supreme-court/aadhaar-card-not-suitable-as-proof-of-date-of-birth-supreme-court-273518",
+    "https://www.verdictum.in/court-updates/supreme-court/supreme-court-saroj-v-iffco-tokio-general-insurance-co-2024-insc-816-motor-accident-claims-tribunal-compensation-1555911",
+    "https://www.indiatvnews.com/news/india/aadhaar-card-not-valid-document-to-determine-age-says-supreme-court-overruling-punjab-and-haryana-high-court-order-2024-10-24-958747",
+    "https://www.livelaw.in/amp/news-updates/gujarat-high-court-registrar-of-birth-and-death-changes-in-entries-birth-certificate-196791",
+    "https://en.wikipedia.org/wiki/Registration_of_Births_and_Deaths_Act,_1969",
+    "https://www.teamleaseregtech.com/updates/article/25754/registration-of-births-and-deaths-amendment-act-2023/",
+    "https://www.freepressjournal.in/tech/uidai-simplifies-aadhaar-update-process-with-new-document-rules-all-details",
+    "https://stablemoney.in/blog/how-to-update-date-of-birth-in-aadhaar-card",
+    "https://cleartax.in/s/how-to-update-or-correct-pan-card-details",
+    "https://groww.in/p/pan-card/utiitsl-nsdl-pan-card-corrections",
+    "https://sites.google.com/view/vakilindia/gazette-notification-for-name-change-step-by-step-guide",
+    "https://businesstoday.in/nri/visa/story/aadhar-card-not-a-valid-birth-proof-document-for-passport-applicants-this-is-what-you-can-use-instead-457904-2024-12-19",
+    "https://future.indiankanoon.org/doc/601250/",
+    "https://www.courtkutchehry.com/judgements/442218/pdf"
+  ],
+  "verification_notes": [
+    "This session's network access did not permit a direct fetch of India Code, the Supreme Court's own judgment repository, or UIDAI's primary circulars; statutory provisions and case holdings are drawn from web search results summarising those primary sources, cross-checked against at least one further independent secondary source for each claim.",
+    "Saroj v. IFFCO-Tokio General Insurance Co. (2024 INSC 816, 24 October 2024) and its holding that Aadhaar is not by itself conclusive proof of date of birth are corroborated across Deccan Herald, LiveLaw and Verdictum's reporting, all giving the same case name, citation and date, and all describing the same reliance on UIDAI's circular and the December 2018 MeitY office memorandum.",
+    "Section 15 of the Registration of Births and Deaths Act and the Registrar's correction procedure, including the District Registrar's prior approval requirement for more substantial corrections, are corroborated across a Gujarat High Court case reported by LiveLaw and multiple Indian Kanoon case excerpts describing the same statutory text and state-rules framework.",
+    "The 2023 Amendment Act's enactment date (11 August 2023, Act No. 20 of 2023) and its 1 October 2023 commencement, along with the birth certificate becoming the single proof of date and place of birth for specified purposes, are corroborated across Wikipedia's summary of the Act and TeamLease RegTech's dedicated update article.",
+    "UIDAI's document requirements and the distinction between an online minor name correction and an in-person date-of-birth correction are corroborated across the Free Press Journal's reporting of UIDAI's updated document rules and multiple consumer-finance guides (Stablemoney, BankBazaar-affiliated sites), though this article notes that the sources disagree on whether any date-of-birth change can be done online at all, and takes the more cautious, in-person position given that disagreement.",
+    "PAN correction channels (Protean/NSDL and UTIITSL) and the online Aadhaar-based e-KYC route are corroborated across ClearTax and Groww's guides, both describing the same two authorised portals and the same 'Changes or Correction in existing PAN data' category.",
+    "The Gazette-notification route for a passport name change (affidavit, newspaper publication, Gazette application) and the four-to-eight-week timeline are corroborated across multiple name-change guide sites describing the same three-step sequence, though this article notes these are secondary sources and that practice on strict necessity varies by Passport Seva Kendra.",
+    "The principle that a mutation entry is a fiscal record and does not confer or extinguish title is corroborated by reported Supreme Court authority on this point (including the Jamnabai v. Vasudev line of cases) referenced in the site's own existing coverage of mutation entries, consistent with settled case law on the subject."
+  ]
+}
