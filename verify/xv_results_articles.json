@@ -701,5 +701,19 @@
         "reason": "The Rs 10.7 crore Gurugram case reported by Outlook Money and others involved a forged gift deed and forged Aadhaar/PAN, not a power of attorney; citing it as a power-of-attorney fraud example misstates the facts of an identifiable, checkable case."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/37-nri-money-lent-relatives-friends-recovery-article.json",
+    "verdict": "PASS",
+    "claims_checked": 15,
+    "evidence": [
+      "https://www.livelaw.in/amp/tags/a.c.-narayanan-vs.-state-of-maharashtra",
+      "https://lawfoyer.in/m-s-naresh-potteries-v-m-s-aarti-industries-and-another/",
+      "https://www.caseciter.com/arshad-neyaz-khan-v-state-of-jharkhand-2025-insc-1151-ipc-cheating-criminal-breach-of-trust/",
+      "https://www.verdictum.in/court-updates/supreme-court/v-ganesan-v-state-represented-by-the-sub-inspector-of-police-anr-2026-insc-265-1610258",
+      "https://website.rbi.org.in/web/rbi/-/notifications/loans-in-rupees-by-resident-individuals-to-nri-close-relatives-6713",
+      "https://www.advocatekhoj.com/library/lawreports/limitationact1963/63.php"
+    ],
+    "note": "All four case citations independently verified as real with matching holdings: A.C. Narayanan v. State of Maharashtra (2014) 11 SCC 790 (POA holder can file Section 138 complaint with personal knowledge pleaded); M/s Naresh Potteries v. M/s Aarti Industries, 2025 INSC 1, decided 2 January 2025 (restored complaint, reconciled personal-knowledge requirement); Arshad Neyaz Khan v. State of Jharkhand, 2025 INSC 1151, decided 24 September 2025 (civil property dispute not cheating absent dishonest intent at inception); V. Ganesan v. State, 2026 INSC 265, decided 19 March 2026 (dishonour of post-dated cheque alone does not establish dishonest intent). Section 138 notice/payment/filing windows (30/15/30 days), the RBI close-relative rupee-loan conditions (interest-free, one-year minimum maturity, NRO crediting, non-repatriability, housing-only relative-repayment exception), and Limitation Act Articles 19/21 running from the date the loan was made (per Syndicate Bank v. Channaveerappa Beleri) all check out against independent sources. No factual errors found; the draft's own verification_notes already flag the genuine areas of unsettled law (Stamp Act Section 35 case-law split, Article 19 vs 113 uncertainty, FEMA reverse-direction gap) appropriately rather than overstating certainty."
   }
 ]
