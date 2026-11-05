@@ -3327,5 +3327,29 @@
         "reason": "The exact appeal number (Company Appeal (AT) (Insolvency) No. 1940 of 2026) is reported and should be included rather than left blank."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch12/news/09-allahabad-hc-kgbv-contract-teachers-forced-labour.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-continuing-kasturba-gandhi-balika-vidyalayas-teachers-contract-article23-556724",
+      "https://lawchakra.in/?p=323070",
+      "https://lawtrend.in/?p=373868",
+      "https://drishtijudiciary.com/current-affairs/keeping-kgbv-teachers-on-contract-for-years-is-forced-labour-under-article-23"
+    ],
+    "note": "Confirmed independently: Smt. Archana Boodh v. State of U.P., Writ-A No. 7335 of 2026 with connected Writ-A Nos. 8381 and 9015 of 2026, Lucknow Bench, Justice Pankaj Bhatia, reserved 17 September 2026 and pronounced 29 October 2026. Holding (chronic low-paid contract renewal of KGBV teachers amounts to forced labour under Article 23), the four-month deadline to create posts/consider regularisation/frame service conditions, and the interim Rs 17,000 monthly floor are all confirmed across LiveLaw, Law Chakra, Law Trend and Drishti Judiciary. The judgment also relies on the Supreme Court decision in U.P. Junior High School Council Instructor Welfare Association v. State of U.P., 2026 INSC 117, consistent with the drafts framing. No live-site duplicate found."
+  },
+  {
+    "file": "_drafts/batch12/news/10-ibbi-fifth-amendment-cirp-real-estate-projects.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://taxguru.in/corporate-law/ibbi-cirp-amendment-regulations-2026-key-real-estate-projects.html",
+      "https://ibclaw.in/ibbi-insolvency-resolution-process-for-corporate-persons-fifth-amendment-regulations-2026/",
+      "https://www.sansalegal.com/post/ibbi-opens-a-route-to-exclude-a-real-estate-project-from-a-cirp",
+      "https://www.whalesbook.com/news/English/sebiexchange/IBBI-Overhauls-Real-Estate-Rules-to-Fast-Track-Stalled-Projects/6ae4dbf24fc30694db54cd42"
+    ],
+    "note": "Mechanics independently confirmed: Fifth Amendment notified 30 October 2026 (Press Release IBBI/PR/2026/18 dated 31 October 2026), substituted/new Regulation 4D/4F requiring a separate bank account and project-wise reporting per real estate project, and a new exclusion mechanism letting the CoC recommend excluding an individual project by at least 66% voting share with recorded reasons, subject to Adjudicating Authority approval. One caveat worth flagging: secondary coverage is split on which category of project the exclusion power is mainly aimed at. Several outlets (and IBBIs June 2026 discussion paper) frame it as a route to let completed/occupied projects exit CIRP rather than wait on the company-wide resolution, while at least one outlet (WhalesBook) frames it, like this draft, as a tool to carve out a stalled project. The notified Regulation 4F text appears to let the CoC exclude any project using criteria it considers (completion stage, possession/occupancy status, RERA registration), so the drafts stalled-project framing is not contradicted by the primary mechanism, but it is not the only or clearly dominant framing in press coverage either. Readers relying on this for advice should check the gazette text (notification IBBI/2026-27/GN/REG155) for the precise exclusion criteria. No live-site duplicate found."
   }
 ]
