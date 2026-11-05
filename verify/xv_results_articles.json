@@ -555,5 +555,26 @@
         "reason": "The holding is the Supreme Court's in Pepsi Foods (2021), not the Allahabad High Court's; the draft omits the binding precedent and misattributes it to a High Court."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/30-divorce-maintenance-custody-india-recent-developments-article.json",
+    "verdict": "FIX",
+    "claims_checked": 13,
+    "evidence": [
+      "https://www.casemine.com/commentary/in/supreme-court-establishes-irretrievable-breakdown-as-ground-for-divorce-under-article-142/view",
+      "https://www.verdictum.in/court-updates/supreme-court/a-v-b-neutral-citation-2025-insc-631-divorce-hindu-marriage-dissolve-article-142-of-constitution-1576470",
+      "https://www.verdictum.in/court-updates/supreme-court/arathy-ramachandran-v-bijay-raj-menon-2025-insc-587-paramount-consideration-welfare-of-child-sincerity-love-either-parent-custody-1575750",
+      "https://www.casemine.com/commentary/in/parens-patriae-over-comity:-supreme-court-mandates-jj-system-monitoring-and-structured-interim-custody-in-cross-border-child-disputes/view",
+      "https://www.casemine.com/judgement/in/68ad8b35f9ea075c9ab0206c",
+      "https://www.advocatekhoj.com/library/judgments/announcement.php?WID=19384"
+    ],
+    "note": "Core framework checks out: Shilpa Sailesh v. Varun Sreenivasan (2023) Constitution Bench on Article 142 and irretrievable breakdown; A v. B, 2025 INSC 631 (decided 6 May 2025) confirms a statutory ground's absence is no bar to that power; Amardeep Singh v. Harveen Kaur on the directory Section 13B cooling-off period; Rajnesh v. Neha (2021) 2 SCC 324 disclosure/quantum/set-off/start-date framework; BNSS Sections 144/145/147 replacing CrPC 125/126/128 from 1 July 2024; Section 19 HMA jurisdiction including the 2003 wife's-residence clause; Arathy Ramachandran v. Bijay Raj Menon, 2025 INSC 587 (29 Apr 2025), and Komal Krishan Arora v. Sandeep Kumar, 2025 INSC 1123 (16 Sep 2025, welfare over comity with a foreign/UK order), both confirmed. One claim does not hold up: Manoj Dhankar v. Neeharika, 2025 INSC 1068 (decided 2 September 2025), was not a habeas-corpus-vs-guardianship-petition ruling. The case had already proceeded as a Guardians and Wards Act Section 25 petition through the Family Court and the Punjab and Haryana High Court; the Supreme Court's actual order granted the father (whose son lives with the mother in Ireland) regular video-conferencing visitation, observing the child should not become a casualty of the parents' conflict, and left custody with the mother. No habeas corpus writ or procedural holding of the kind described appears in the reporting on this case.",
+    "fixes": [
+      {
+        "find": "In Manoj Dhankar v. Neeharika, reported at 2025 INSC 1068, the Court reinforced the same procedural point already noted above, that a custody dispute belongs in a statutory guardianship petition rather than in a writ of habeas corpus, even where one parent has taken the child abroad.",
+        "replace": "In Manoj Dhankar v. Neeharika, reported at 2025 INSC 1068 and decided 2 September 2025, the Court did not revisit that procedural point; it instead granted the father, who had been pursuing the matter under the Guardians and Wards Act while the child lived with the mother in Ireland, regular video-conferencing visitation, observing that a child should not become a casualty of the parents' conflict, and left custody with the mother.",
+        "reason": "The case was a Guardians and Wards Act custody/visitation matter already proceeding through the ordinary guardianship route, not a habeas corpus ruling; the draft's description of its holding is unsupported by the reporting on the actual order."
+      }
+    ]
   }
 ]
