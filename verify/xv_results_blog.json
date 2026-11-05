@@ -2646,5 +2646,48 @@
       "https://taxguru.in/company-law/note-officer-default-companies-act-2013.html"
     ],
     "note": "All three Section 141 NI Act cases confirmed: K.S. Mehta v Morgan Securities (2025 INSC 315, mere board attendance insufficient), Kamalkishor Shrigopal Taparia v India Ener-Gen (2025 INSC 223, bare designation insufficient), and HDFC Bank Ltd v State of Maharashtra (2025 INSC 759) - the 'no universal rule that a director runs day-to-day affairs' line is accurately attributed, though on these facts the Court actually found the specific averments sufficient and reinstated the complaint; the draft does not misstate the outcome, only cites the general principle the judgment restated. Section 2(60) officer-in-default categories, Section 339 unlimited personal liability on Tribunal declaration, Section 179 Income Tax Act gross-neglect defence, and Section 149(12) independent-director knowledge/consent/connivance/diligence framework all independently confirmed. No duplicate on live site."
+  },
+  {
+    "file": "_drafts/batch12/blog/03-co-owner-sells-jointly-owned-property-remedies-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/sk-golam-lalchand-v-nandu-lal-shaw-2024-insc-676-coowner-cant-transfer-entire-non-partitioned-property-without-their-share-demarcated-1551026",
+      "https://www.livelaw.in/amp/supreme-court/co-owner-whose-share-in-joint-property-remained-undetermined-cannot-transfer-entire-property-supreme-court-269262",
+      "https://www.pahujalawacademy.com/sk-golam-lalchand-v-nandu-lal-shaw-nand-lal-keshri-nandu-lal-bayes-and-ors-2024",
+      "https://future.indiankanoon.org/doc/240013"
+    ],
+    "note": "Core Section 44/Section 4 Partition Act rules and the Golam Lalchand holding and Gautam Paul citation are all confirmed, but the Golam Lalchand citation given is wrong (no source shows 2024 SCC OnLine SC 2456; it is universally reported as 2024 INSC 676) and the procedural history is garbled (the trial court dismissed Nandu Lal Shaw's suit; it was the first appellate court and High Court that found the property unpartitioned, which the Supreme Court then affirmed).",
+    "fixes": [
+      {
+        "find": "The other co-owners sued, and the trial court found the property had never actually been partitioned between the family members.",
+        "replace": "The other co-owners sued; the trial court dismissed that suit, but the first appellate court and the High Court held the property had never actually been partitioned between the family members, a finding the Supreme Court upheld.",
+        "reason": "Sources (verdictum.in, pahujalawacademy.com, bharatlaw.ai) agree the trial court dismissed the suit; it was the appellate courts, not the trial court, that found the property unpartitioned."
+      },
+      {
+        "find": "Sk. Golam Lalchand v Nandu Lal Shaw, 2024 SCC OnLine SC 2456 (Civil Appeal No. 4177 of 2024)",
+        "replace": "Sk. Golam Lalchand v Nandu Lal Shaw, 2024 INSC 676 (Civil Appeal No. 4177 of 2024)",
+        "reason": "No source reports a 2024 SCC OnLine SC 2456 citation; every source (verdictum.in, livelaw.in, casemine.com, theindianlawyer.in) cites this decision as 2024 INSC 676."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch12/blog/04-nri-divorce-which-court-jurisdiction-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.advocatekhoj.com/library/bareacts/specialmarriage/31.php",
+      "https://future.indiankanoon.org/doc/712594/",
+      "https://lawtext.in/judgement.php?bid=78364",
+      "https://www.apnilaw.com/bare-act/special-marriage-act/section-31-the-special-marriage-act-sma-court-to-which-petition-should-be-made"
+    ],
+    "note": "Section 19 HMA grounds and the 2003 wife's-residence amendment, Section 31 SMA's parallel grounds, Section 13 CPC's conclusiveness exceptions, and the Madras High Court O.P.SR. No.7428 of 2025 order are all independently confirmed. The draft itself flags the Section 31(2) domicile period as unconfirmed; it is in fact confirmable as three years, so this is added as a fix rather than left vague.",
+    "fixes": [
+      {
+        "find": "where she has been ordinarily resident in India for a continuous period, she can seek a decree",
+        "replace": "where she has been ordinarily resident in India for a continuous period of three years immediately before filing, she can seek a decree",
+        "reason": "The bare act text of Section 31(2), confirmed from advocatekhoj.com's bare-act text and a second copy on indiankanoon, specifies three years immediately preceding presentation of the petition; the draft had left this unstated pending confirmation."
+      }
+    ]
   }
 ]
