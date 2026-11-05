@@ -2689,5 +2689,41 @@
         "reason": "The bare act text of Section 31(2), confirmed from advocatekhoj.com's bare-act text and a second copy on indiankanoon, specifies three years immediately preceding presentation of the petition; the draft had left this unstated pending confirmation."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch12/blog/05-gift-to-from-nri-fema-tax-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://taxguru.in/income-tax/section-562x-income-tax-act.html",
+      "https://website.rbi.org.in/documents/87730/39872377/51174.pdf",
+      "https://www.mondaq.com/india/real-estate/1324488/permissibility-of-gifts-of-immoveable-property-under-fema-laws",
+      "https://website.rbi.org.in/web/rbi/-/citizens-corner/liberalised-remittance-scheme-of-usd-25-000-for-resident-individuals-121"
+    ],
+    "note": "Section 56(2)(x) Rs 50,000 threshold and relative exemption, the RBI Master Direction's Section 2(77) Companies Act relative condition for NRI-to-NRI immovable property gifts, the agricultural land/plantation/farmhouse exclusion, and the USD 250,000 LRS ceiling are all independently confirmed. The draft's own hedges on figures it could not confirm twice are consistent with what I found; no incorrect claim identified."
+  },
+  {
+    "file": "_drafts/batch12/blog/06-mining-lease-renewal-mmdr-deemed-extension-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.advocatekhoj.com/library/bareacts/minesandminerals/8A.php",
+      "https://www.azbpartners.com/bank/government-notifies-mines-and-minerals-development-and-regulation-amendment-act-2021/",
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-deemed-extension-valid-renewal-application-lease-conditions-541931",
+      "https://supremetoday.ai/deemed-extension-under-mmdr-act-not-available-without-valid-renewal-application-allahabad-high-court-20260720014"
+    ],
+    "note": "Section 8A deemed 50-year term, the 8A(9) exclusion, the 31 March 2020/2030 transitional dates, captive right of first refusal, and the 2021 amendment's removal of the captive/non-captive distinction (with up to 50% open-market sale) and lifting of the non-auction transfer bar are all confirmed. The Allahabad HC ruling the draft flagged as single-sourced is now confirmed by a second source (livelaw.in in addition to supremetoday.ai), with the same holding and July 2026 date."
+  },
+  {
+    "file": "_drafts/batch12/blog/07-fssai-licence-surrender-transfer-closure-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.compliancecalendar.in/learn/fssai-licence-suspended-or-cancelled-available-remedies",
+      "https://www.taxclue.in/blog/regulation-2-1-10-2-1-11-fssai-licensing-regulations-mode-of-payment-and-transfer-on-death",
+      "https://foodsafetyworks.com/fssai_updates/changes-in-penalties-under-fssa-2006",
+      "https://mail.fssai.gov.in/upload/advisories/2021/10/6156934315e16Order_License_Address_01_10_2021.pdf"
+    ],
+    "note": "Surrender-vs-cancellation distinction (Regulation 2.1.8, show-cause requirement), the death-of-holder transfer running from date of death under Regulation 2.1.10/2.1.11, and the relocation surrender-and-reapply practice all check out. The draft's deliberate hedging on the ownership-transfer inconsistency and the unconfirmed Section 63 figure matches what independent sources show (Section 63 may since have been altered by the Jan Vishwas Act 2023, so the draft's caution not to state a figure was correct)."
   }
 ]
