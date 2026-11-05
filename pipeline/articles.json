@@ -11,152 +11,94 @@
   },
   "queue": [
     {
-      "id": "A",
+      "id": "V",
       "authors": [
         "Bhaskar Subramanian",
-        "Adv. Rahul Jangra"
-      ],
-      "practice_area": "Employment & Labour",
-      "topic": "The four Labour Codes in operation: what changed for employers and workers on wages, standing orders, fixed-term employment, retrenchment and closure thresholds, social security, inspector-cum-facilitator and compliance, and the open questions (status of State rules)."
-    },
-    {
-      "id": "B",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Subhradip Roy",
-        "Chandrayee Roy"
-      ],
-      "practice_area": "Infrastructure & PPP",
-      "topic": "Infrastructure and PPP disputes: termination payments, force majeure and change in law, writ jurisdiction versus arbitration in public contracts, and what recent Supreme Court and High Court rulings mean for concessionaires and authorities."
-    },
-    {
-      "id": "C",
-      "authors": [
-        "Subhradip Roy",
-        "Bhaskar Subramanian",
-        "Adv. Rahul Jangra"
-      ],
-      "practice_area": "Power, Energy & Mining",
-      "topic": "Power sector disputes: change in law claims, deemed distribution licensee, true-up and carrying cost, regulatory jurisdiction, APTEL's recent line of decisions, and allocation of risk in power purchase agreements."
-    },
-    {
-      "id": "D",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Subhradip Roy",
-        "Deba Prasad Guha"
-      ],
-      "practice_area": "Food Safety & FSSAI",
-      "topic": "Food safety enforcement in India: FSSAI labelling and claims (front-of-pack, '100%' and similar claims), licence suspension and cancellation, improvement notices, recall, adjudication and appeals, and what the courts have said recently about proportionality and process."
-    },
-    {
-      "id": "E",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Adv. Rahul Jangra"
+        "Adv. Anupam"
       ],
       "practice_area": "Tax Litigation",
-      "topic": "GST litigation after the GST Appellate Tribunal: where an assessee now stands on show cause notices, pre-deposit, input tax credit denial, writ jurisdiction, limitation under the applicable sections, and appeals; state only what you confirm."
+      "topic": "Income tax disputes under the Income-tax Act 2025 (in force from 1 April 2026): assessment and reassessment notices, the time limits, faceless procedure, appeals to CIT(A) and the ITAT, stay of demand and what changed from the 1961 Act; confirm commencement and transition provisions from official sources."
     },
     {
-      "id": "F",
+      "id": "W",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Chandrayee Roy"
+      ],
+      "practice_area": "Family Law",
+      "topic": "Divorce, maintenance and child custody in India: grounds, mutual consent and the cooling-off period, interim and permanent maintenance (Rajnesh v Neha guidelines), custody and guardianship principles, jurisdiction and enforcement; informational only."
+    },
+    {
+      "id": "X",
       "authors": [
         "Bhaskar Subramanian",
         "Souvik Bose"
       ],
-      "practice_area": "Consumer Protection",
-      "topic": "Consumer protection and e-commerce: CCPA enforcement, dark patterns, misleading advertisements, product liability, platform liability, and the interplay with RERA, banking and insurance disputes at consumer fora."
+      "practice_area": "Wills & Succession",
+      "topic": "Succession to property without a will under Hindu law: classes of heirs, daughters' coparcenary rights after Vineeta Sharma, self-acquired versus ancestral property, Arunachala Gounder, mutation, succession certificate and legal heir certificate, with a short contrast with other personal laws."
     },
     {
-      "id": "G",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Chandrayee Roy"
-      ],
-      "practice_area": "Banking & Finance",
-      "topic": "Debt recovery today: SARFAESI, DRT, the Commercial Courts route, and IBC Section 7 and 9 compared; guarantor and promoter exposure; limitation and the common procedural traps; and what recent Supreme Court rulings changed."
-    },
-    {
-      "id": "H",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Chandrayee Roy"
-      ],
-      "practice_area": "Corporate Law & M&A",
-      "topic": "Shareholder disputes in India: oppression and mismanagement before the NCLT, who can file, interim relief, buy-out and winding-up remedies, and what recent NCLAT and Supreme Court rulings say."
-    },
-    {
-      "id": "I",
+      "id": "Y",
       "authors": [
         "Bhaskar Subramanian",
         "Adv. Rahul Jangra"
       ],
-      "practice_area": "Real Estate & RERA",
-      "topic": "Redevelopment and joint development agreements: society and developer disputes, delay and termination remedies, RERA, and the arbitration and civil court routes."
+      "practice_area": "Property & Civil Litigation",
+      "topic": "Title, possession and ownership disputes: verifying title before purchase, adverse possession (Ravinder Kaur Grewal and later rulings), cancellation of registered sale deeds under Section 31 Specific Relief Act, co-owner disputes and partition, limitation."
     },
     {
-      "id": "J",
+      "id": "Z",
       "authors": [
         "Bhaskar Subramanian",
+        "Adv. Anupam"
+      ],
+      "practice_area": "Banking & Finance",
+      "topic": "Cheque dishonour under Section 138 NI Act: notice and limitation, presumptions, interim compensation under Section 143A, appeals and Section 148, company directors under Section 141, parallel civil recovery and recent Supreme Court directions."
+    },
+    {
+      "id": "AA",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Souvik Bose"
+      ],
+      "practice_area": "Employment & Labour",
+      "topic": "Termination, gratuity and dues: how an employee's termination is tested, gratuity eligibility and forfeiture under the Payment of Gratuity Act and the Code on Social Security 2020 position, notice pay, full and final settlement, forums; confirm commencement status of the Codes."
+    },
+    {
+      "id": "AB",
+      "authors": [
+        "Subhradip Roy",
+        "Adv. Rahul Jangra"
+      ],
+      "practice_area": "Technology & Data",
+      "topic": "Cyber fraud and online scam remedies in India: reporting channels (1930, cybercrime portal), bank liability and RBI limited-liability circulars, IT Act and BNS offences, freezing and refund of funds, intermediary obligations."
+    },
+    {
+      "id": "AC",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Chandrayee Roy"
+      ],
+      "practice_area": "Real Estate & RERA",
+      "topic": "Buying and registering property in Uttar Pradesh and Noida: stamp duty and registration, circle rates, sub-registrar process, mutation, authority transfer charges and no-dues, common defects in the chain of documents; verify current UP notifications."
+    },
+    {
+      "id": "AD",
+      "authors": [
         "Subhradip Roy",
         "Souvik Bose"
       ],
-      "practice_area": "Intellectual Property",
-      "topic": "Trade mark enforcement in India: infringement and passing off, well-known marks, interim injunctions, and what recent High Court rulings say on evidence and delay."
-    },
-    {
-      "id": "K",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Adv. Anupam"
-      ],
-      "practice_area": "Arbitration & Dispute Resolution",
-      "topic": "Enforcing foreign awards in India, and interim relief in foreign-seated arbitrations: Part II of the Arbitration Act, grounds of refusal, limitation and recent rulings."
-    },
-    {
-      "id": "L",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Souvik Bose"
-      ],
       "practice_area": "Corporate Law & M&A",
-      "topic": "Joint ventures and acquisitions in India: key contractual protections and regulatory approvals (CCI, FEMA, SEBI), and common drafting traps."
+      "topic": "Directors and company disputes: directors' duties and personal liability under the Companies Act 2013, Section 447 fraud, officer in default, disqualification, striking off, and when veil piercing applies; recent Supreme Court and NCLAT positions."
     },
     {
-      "id": "M",
+      "id": "AE",
       "authors": [
-        "Bhaskar Subramanian",
-        "Adv. Anupam"
-      ],
-      "practice_area": "Commercial Litigation",
-      "topic": "Commercial disputes in Noida and Greater Noida (Gautam Buddh Nagar): which court has jurisdiction, how the Commercial Courts Act 2015 works there in practice (pre-institution mediation under Section 12A, case management, summary judgment, timelines), and how appeals and writs reach the Allahabad High Court. Verify the court structure, the territorial jurisdiction rules and the current position from official and reported sources; write for businesses and practitioners based in Noida."
-    },
-    {
-      "id": "N",
-      "authors": [
-        "Bhaskar Subramanian",
+        "Subhradip Roy",
         "Adv. Anupam"
       ],
       "practice_area": "Arbitration & Dispute Resolution",
-      "topic": "Arbitration for Noida and Delhi NCR businesses: seat versus venue, which High Court exercises supervisory jurisdiction (Delhi or Allahabad) for Sections 9, 11, 34 and 37, institutional arbitration options in the region, interim relief and enforcement of awards against assets in Uttar Pradesh. Verify every jurisdiction point and case citation from sources."
-    },
-    {
-      "id": "O",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Adv. Rahul Jangra"
-      ],
-      "practice_area": "Real Estate & RERA",
-      "topic": "Real estate disputes in Noida and Greater Noida: the roles of the Noida and Greater Noida development authorities, UP RERA and the UP Real Estate Appellate Tribunal, allottee remedies for delayed possession, lease and allotment cancellations, and the Supreme Court and Allahabad High Court decisions that govern them. Verify the institutions, limitation and procedure from official and reported sources."
-    },
-    {
-      "id": "P",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Chandrayee Roy"
-      ],
-      "practice_area": "Banking & Finance",
-      "topic": "Recovery and insolvency for lenders and borrowers in Noida: SARFAESI action, the Debts Recovery Tribunal and Appellate Tribunal with jurisdiction over Uttar Pradesh, Section 138 Negotiable Instruments Act complaints at Noida courts, and which NCLT bench hears IBC petitions against companies registered in Uttar Pradesh. Verify bench and territorial jurisdiction from official notifications and reported decisions."
+      "topic": "Challenging and enforcing domestic arbitral awards: Section 34 grounds and limits, Section 37 appeals, Section 36 enforcement and stay, Section 9 interim relief, emergency arbitration, and the Supreme Court's recent rulings on court powers to modify awards."
     }
   ]
 }
