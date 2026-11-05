@@ -11,33 +11,6 @@
   },
   "queue": [
     {
-      "id": "V",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Adv. Anupam"
-      ],
-      "practice_area": "Tax Litigation",
-      "topic": "Income tax disputes under the Income-tax Act 2025 (in force from 1 April 2026): assessment and reassessment notices, the time limits, faceless procedure, appeals to CIT(A) and the ITAT, stay of demand and what changed from the 1961 Act; confirm commencement and transition provisions from official sources."
-    },
-    {
-      "id": "W",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Chandrayee Roy"
-      ],
-      "practice_area": "Family Law",
-      "topic": "Divorce, maintenance and child custody in India: grounds, mutual consent and the cooling-off period, interim and permanent maintenance (Rajnesh v Neha guidelines), custody and guardianship principles, jurisdiction and enforcement; informational only."
-    },
-    {
-      "id": "X",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Souvik Bose"
-      ],
-      "practice_area": "Wills & Succession",
-      "topic": "Succession to property without a will under Hindu law: classes of heirs, daughters' coparcenary rights after Vineeta Sharma, self-acquired versus ancestral property, Arunachala Gounder, mutation, succession certificate and legal heir certificate, with a short contrast with other personal laws."
-    },
-    {
       "id": "Y",
       "authors": [
         "Bhaskar Subramanian",
@@ -59,37 +32,37 @@
       "id": "AA",
       "authors": [
         "Bhaskar Subramanian",
-        "Souvik Bose"
+        "Chandrayee Roy"
       ],
-      "practice_area": "Employment & Labour",
-      "topic": "Termination, gratuity and dues: how an employee's termination is tested, gratuity eligibility and forfeiture under the Payment of Gratuity Act and the Code on Social Security 2020 position, notice pay, full and final settlement, forums; confirm commencement status of the Codes."
+      "practice_area": "NRI Legal Services",
+      "topic": "NRI matrimonial disputes: divorce jurisdiction when spouses live in different countries, look-out circulars, cross-border child custody and the Hague Convention position (India is not a party; Supreme Court approach), maintenance and enforcement of foreign orders; informational only."
     },
     {
       "id": "AB",
       "authors": [
         "Subhradip Roy",
-        "Adv. Rahul Jangra"
+        "Souvik Bose"
       ],
-      "practice_area": "Technology & Data",
-      "topic": "Cyber fraud and online scam remedies in India: reporting channels (1930, cybercrime portal), bank liability and RBI limited-liability circulars, IT Act and BNS offences, freezing and refund of funds, intermediary obligations."
+      "practice_area": "NRI Legal Services",
+      "topic": "NRI taxation basics: residential status under the Income-tax Act 2025 (in force from 1 April 2026), DTAA relief and tax residency certificate, TDS on property sale by NRI and lower deduction certificate, repatriation limits under FEMA; confirm each against official sources."
     },
     {
       "id": "AC",
       "authors": [
         "Bhaskar Subramanian",
-        "Chandrayee Roy"
+        "Adv. Rahul Jangra"
       ],
-      "practice_area": "Real Estate & RERA",
-      "topic": "Buying and registering property in Uttar Pradesh and Noida: stamp duty and registration, circle rates, sub-registrar process, mutation, authority transfer charges and no-dues, common defects in the chain of documents; verify current UP notifications."
+      "practice_area": "NRI Legal Services",
+      "topic": "Conducting Indian litigation from abroad: appearance through attorney and power of attorney, video conferencing and remote evidence, service of summons abroad and apostille or attestation of documents, limitation and costs of absence; informational only."
     },
     {
       "id": "AD",
       "authors": [
-        "Subhradip Roy",
-        "Souvik Bose"
+        "Bhaskar Subramanian",
+        "Adv. Anupam"
       ],
-      "practice_area": "Corporate Law & M&A",
-      "topic": "Directors and company disputes: directors' duties and personal liability under the Companies Act 2013, Section 447 fraud, officer in default, disqualification, striking off, and when veil piercing applies; recent Supreme Court and NCLAT positions."
+      "practice_area": "Real Estate & RERA",
+      "topic": "NRI homebuyers and RERA: remedies for delayed possession, refund and interest, filing a complaint from abroad, authority powers, consumer forum alternative, resale and FEMA rules for NRI property purchases."
     },
     {
       "id": "AE",
@@ -97,8 +70,8 @@
         "Subhradip Roy",
         "Adv. Anupam"
       ],
-      "practice_area": "Arbitration & Dispute Resolution",
-      "topic": "Challenging and enforcing domestic arbitral awards: Section 34 grounds and limits, Section 37 appeals, Section 36 enforcement and stay, Section 9 interim relief, emergency arbitration, and the Supreme Court's recent rulings on court powers to modify awards."
+      "practice_area": "NRI Legal Services",
+      "topic": "Cross-border judgments and money recovery: enforcing Indian decrees abroad and foreign judgments in India under Sections 13, 14 and 44A CPC, reciprocating territories, arbitration awards link, limitation, and practical evidence requirements."
     }
   ]
 }
