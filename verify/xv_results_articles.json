@@ -715,5 +715,56 @@
       "https://www.advocatekhoj.com/library/lawreports/limitationact1963/63.php"
     ],
     "note": "All four case citations independently verified as real with matching holdings: A.C. Narayanan v. State of Maharashtra (2014) 11 SCC 790 (POA holder can file Section 138 complaint with personal knowledge pleaded); M/s Naresh Potteries v. M/s Aarti Industries, 2025 INSC 1, decided 2 January 2025 (restored complaint, reconciled personal-knowledge requirement); Arshad Neyaz Khan v. State of Jharkhand, 2025 INSC 1151, decided 24 September 2025 (civil property dispute not cheating absent dishonest intent at inception); V. Ganesan v. State, 2026 INSC 265, decided 19 March 2026 (dishonour of post-dated cheque alone does not establish dishonest intent). Section 138 notice/payment/filing windows (30/15/30 days), the RBI close-relative rupee-loan conditions (interest-free, one-year minimum maturity, NRO crediting, non-repatriability, housing-only relative-repayment exception), and Limitation Act Articles 19/21 running from the date the loan was made (per Syndicate Bank v. Channaveerappa Beleri) all check out against independent sources. No factual errors found; the draft's own verification_notes already flag the genuine areas of unsettled law (Stamp Act Section 35 case-law split, Article 19 vs 113 uncertainty, FEMA reverse-direction gap) appropriately rather than overstating certainty."
+  },
+  {
+    "file": "_drafts/articles/38-nri-marriage-registration-recognition-abroad-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.pahujalawacademy.com/s-nagalingam-v-sivagami-2001-7-scc-487",
+      "https://en.wikipedia.org/wiki/Sarla_Mudgal_and_Others_v._Union_of_India",
+      "https://www.apnilaw.com/bare-act/special-marriage-act/section-14-the-special-marriage-act-sma-new-notice-when-marriage-not-solemnized-within-three-months",
+      "https://www.barandbench.com/news/litigation/delhi-hc-notice-challenge-30-day-public-notice-special-marriage-act"
+    ],
+    "note": "Independently re-verified: HMA s.8(5), SMA ss.5-7 and the Safia Sultan (2021) directory-notice holding, Foreign Marriage Act ss.14/17(6), BNS s.82 (7/10 years), BNSS s.144, UK/Canada/US marriage-proof requirements, and the mutation/maintenance points all check out. Two concrete errors found: (1) the draft attributes the 'conversion to Islam to evade bigamy' holding to S. Nagalingam v. Sivagami (2001) 7 SCC 487, but that case is actually about whether the saptapadi ceremony was essential to a Hindu-to-Hindu second marriage under s.7-A HMA (Tamil Nadu amendment) -- it has nothing to do with religious conversion. The correct authority for that proposition is Sarla Mudgal v. Union of India, AIR 1995 SC 1531 / (1995) 3 SCC 635 (and the later Lily Thomas v. Union of India review). (2) The draft says SMA 'Section 16 sets a six-month window' for the notice to lapse; the SMA's own lapse provision is Section 14 and the window is three months -- the six-month lapse window actually belongs to the Foreign Marriage Act, 1969, Section 16. Also softened an overstated claim that the SMA ss.6-7 constitutional challenge is pending 'before the Supreme Court': current reporting shows the SC declined in Dec 2024 to transfer that challenge to itself, leaving it with the Delhi High Court as the live forum.",
+    "fixes": [
+      {
+        "find": "Section 16 sets a six-month window between the end of the notice period and the solemnisation of the marriage; if the marriage does not take place within that window, the notice lapses and a fresh notice is required.",
+        "replace": "Section 14 sets a three-month window from the date of the notice given under Section 5 within which the marriage must be solemnised; if the marriage is not solemnised within that window, the notice and the proceedings arising from it lapse and a fresh notice is required.",
+        "reason": "SMA's own notice-lapse provision is Section 14 with a three-month window, not Section 16/six months; six months is the Foreign Marriage Act's Section 16 lapse period."
+      },
+      {
+        "find": "A challenge to the constitutionality of the notice and objection provisions remains pending before the Supreme Court, and the plain text of Sections 6 and 7 has not been amended to make the Safia Sultan position the statutory rule.",
+        "replace": "A challenge to the constitutionality of the notice and objection provisions remains pending before the Delhi High Court, after the Supreme Court in December 2024 declined a plea to transfer that challenge to itself, and the plain text of Sections 6 and 7 has not been amended to make the Safia Sultan position the statutory rule.",
+        "reason": "Current reporting (Bar & Bench, Dec 2024) shows the Supreme Court left the live constitutional challenge with the Delhi High Court rather than keeping it itself."
+      },
+      {
+        "find": "Special Marriage Act, 1954, Section 16 (lapse of notice after six months)",
+        "replace": "Special Marriage Act, 1954, Section 14 (new notice required where marriage not solemnised within three months)",
+        "reason": "Corrects the section number and duration to match the Act's actual lapse-of-notice provision."
+      },
+      {
+        "find": "S. Nagalingam v. Sivagami, Supreme Court of India, on bigamy following a religious conversion",
+        "replace": "Sarla Mudgal v. Union of India, Supreme Court of India, AIR 1995 SC 1531 / (1995) 3 SCC 635, on bigamy following a religious conversion",
+        "reason": "Nagalingam is a saptapadi/ceremony-validity case with no connection to religious conversion; Sarla Mudgal is the actual authority for that proposition."
+      },
+      {
+        "find": "(S. Nagalingam v. Sivagami line of authority)",
+        "replace": "(Sarla Mudgal v. Union of India and the Lily Thomas v. Union of India line of authority)",
+        "reason": "Same citation correction applied to the verification notes."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/39-nri-name-dob-record-discrepancy-correction-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.livelaw.in/amp/supreme-court/aadhaar-card-not-suitable-as-proof-of-date-of-birth-supreme-court-273518",
+      "https://www.prsindia.org/files/bills_acts/bills_parliament/2023/Bill_Summary_Registration_of_Births_and_Deaths_(Amendment)_Bill_2023.pdf",
+      "https://www.thelawadvice.com/news/supreme-court-holds-revenue-mutation-cannot-extinguish-property-title-restores-family-s-co-ownership-rights",
+      "https://future.indiankanoon.org/doc/112489183/"
+    ],
+    "note": "Independently re-verified the load-bearing claims: Saroj v. IFFCO-Tokio General Insurance Co. (2024 INSC 816, decided 24 Oct 2024) and its Aadhaar-is-not-conclusive-proof-of-DOB holding relying on the Shabana v. Govt of NCT of Delhi (24 July 2024) UIDAI statement and UIDAI Circular 08/2023, both confirmed real and correctly described; the Registration of Births and Deaths (Amendment) Act, 2023 (Act No. 20 of 2023), Gazetted 11 Aug 2023, in force 1 Oct 2023, making the birth certificate the single proof of DOB for persons born after that date, confirmed; Section 15 RBD Act correction-by-marginal-note procedure and District Registrar approval for substantial corrections, consistent with secondary reporting; Specific Relief Act s.34 date-of-birth declaration suits confirmed as a genuinely unsettled/split question across courts, matching the draft's hedged framing; Jamnabai v. Vasudev (2026 INSC 900 / 2026 LiveLaw (SC) 843, 20 Aug 2026) confirmed as a real, very recent Supreme Court ruling that a mutation entry does not confer or extinguish title, matching the draft's citation; UIDAI's in-person requirement for Aadhaar DOB corrections and the PAN correction route via Protean/UTIITSL both corroborated across multiple independent consumer-finance and government-process sources. No factual errors found."
   }
 ]
