@@ -534,5 +534,26 @@
         "reason": "Multiple independent reports (The Week, Latestly, NewsGram, TechStory) date the ED's Rs 184 crore adjudication order to 16 February 2026, not 2025."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/29-income-tax-act-2025-assessment-reassessment-appeals-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.newsonair.gov.in/income-tax-act-2025-gets-presidents-assent-will-be-effective-from-1st-april-2026",
+      "https://www.incometaxindia.gov.in/w/section-536-1",
+      "https://taxguru.in/income-tax/section-149-income-tax-act-1961-modified-finance-act-2021.html",
+      "https://www.taxclue.in/blog/section-282-income-tax-act-2025-reassessment-time-limit/",
+      "https://main.sci.gov.in/supremecourt/2015/31480/31480_2015_33_1501_27307_Judgement_06-Apr-2021.pdf",
+      "https://www.livelaw.in/amp/top-stories/no-automatic-vacation-stay-sec-2542a-income-tax-act-if-assessee-not-responsible-delay-hearing-appeal-supreme-court-172228"
+    ],
+    "note": "Core facts check out across independent commentary: assent 21 Aug 2025 / force 1 Apr 2026, Section 536 repeal-and-savings, tax year replacing previous/assessment year, Sections 279-286 reassessment renumbering with the 4-year/6-year windows (vs 3-year/10-year under the 1961 Act) and the one-year bar, the JCIT(Appeals)/CIT(Appeals) two-track split from Finance Act 2023, Section 358 30-day limitation, Section 362/363 Tribunal appeal and 180/365-day stay, Sections 369/411/415, and the CBDT Feb 2025 OM. One claim is wrong: the draft attributes the holding that the 365-day stay cap under Section 254(2A) is not absolute where delay is not attributable to the assessee to the Allahabad High Court. That holding is the Supreme Court's, in DCIT v. Pepsi Foods Ltd, decided 6 April 2021, which struck down the automatic-vacation part of the third proviso as unconstitutional under Article 14; the Allahabad High Court has only applied that Supreme Court precedent in later orders. Misattributing binding Supreme Court law to a High Court understates its authority.",
+    "fixes": [
+      {
+        "find": "The Allahabad High Court has held, interpreting Section 254(2A) of the 1961 Act, that the 365-day outer limit is not absolute where the delay in disposing of the appeal is not attributable to the assessee, reading down what would otherwise be a mechanical cutoff.",
+        "replace": "The Supreme Court, in DCIT v. Pepsi Foods Ltd, decided 6 April 2021, struck down as unconstitutional the part of Section 254(2A) of the 1961 Act that caused a stay to vacate automatically on completion of 365 days, holding that the 365-day outer limit is not absolute where the delay in disposing of the appeal is not attributable to the assessee; the Allahabad High Court has since applied that reasoning to orders under the same provision.",
+        "reason": "The holding is the Supreme Court's in Pepsi Foods (2021), not the Allahabad High Court's; the draft omits the binding precedent and misattributes it to a High Court."
+      }
+    ]
   }
 ]
