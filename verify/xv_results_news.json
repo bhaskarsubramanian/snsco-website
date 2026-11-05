@@ -3351,5 +3351,28 @@
       "https://www.whalesbook.com/news/English/sebiexchange/IBBI-Overhauls-Real-Estate-Rules-to-Fast-Track-Stalled-Projects/6ae4dbf24fc30694db54cd42"
     ],
     "note": "Mechanics independently confirmed: Fifth Amendment notified 30 October 2026 (Press Release IBBI/PR/2026/18 dated 31 October 2026), substituted/new Regulation 4D/4F requiring a separate bank account and project-wise reporting per real estate project, and a new exclusion mechanism letting the CoC recommend excluding an individual project by at least 66% voting share with recorded reasons, subject to Adjudicating Authority approval. One caveat worth flagging: secondary coverage is split on which category of project the exclusion power is mainly aimed at. Several outlets (and IBBIs June 2026 discussion paper) frame it as a route to let completed/occupied projects exit CIRP rather than wait on the company-wide resolution, while at least one outlet (WhalesBook) frames it, like this draft, as a tool to carve out a stalled project. The notified Regulation 4F text appears to let the CoC exclude any project using criteria it considers (completion stage, possession/occupancy status, RERA registration), so the drafts stalled-project framing is not contradicted by the primary mechanism, but it is not the only or clearly dominant framing in press coverage either. Readers relying on this for advice should check the gazette text (notification IBBI/2026-27/GN/REG155) for the precise exclusion criteria. No live-site duplicate found."
+  },
+  {
+    "file": "_drafts/batch12/updates/01-sat-quashes-mcx-penalty-ventura-securities.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/sat-imposes-1-lakh-costs-on-mcx-quashes-15-crore-penalty-on-ventura-securities",
+      "https://images.assettype.com/barandbench/2026-10-28/v4qvhvs4/VSL_vs__MCX.pdf",
+      "https://www.livelawbiz.com/securities-law/sat/securities-appellate-tribunal-imposes-1-lakh-cost-mcx-for-unsustainable-penalty-against-venture-securities-556387",
+      "https://lawchakra.in/other-courts/mcx-penalty-ventura/"
+    ],
+    "note": "Confirmed independently, including from the order PDF itself: SAT (Appeal No. 363 of 2026, decided 26 October 2026) quashed MCXs roughly Rs 1.49 crore penalty on Ventura Securities over a client-level open position breach in natural gas options, found the Rs 2 lakh SEBI-circular penalty cap was exceeded and that a committee signatory had ceased to hold office, ordered MCX to refund/reverse the Rs 1.76 crore (incl. GST) already debited, and imposed Rs 1 lakh costs on MCX after rejecting its request for no costs. No live-site duplicate found."
+  },
+  {
+    "file": "_drafts/batch12/updates/02-karnataka-reat-sjr-prime-commercial-plan-allottee-consent.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelawbiz.com/rera/revised-plan-attached-to-sale-deed-not-informed-consent-for-commercial-development-karnataka-reat-556520",
+      "https://www.oquilia.com/news/k-reat-sjr-prime-palazza-city-allottee-consent-commercial-complex",
+      "https://www.livelawbiz.com/pdf_upload/2026/10/29/sjr-prime-corp-708866.pdf"
+    ],
+    "note": "Confirmed independently: Amit Garg v. SJR Prime Corporation Pvt. Ltd., Appeal No. (K-REAT) 64 of 2026, K-REAT held that a revised plan merely attached to sale deeds (adding a commercial block on land earmarked for a park at the Palazza City project) is not informed Section 14 consent, set aside K-RERAs dismissal for want of jurisdiction, and gave the developer 60 days to obtain written consent from at least two-thirds of allottees or revert to the original 2 April 2013 plan. No live-site duplicate found."
   }
 ]
