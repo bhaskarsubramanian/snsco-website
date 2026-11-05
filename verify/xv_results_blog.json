@@ -2725,5 +2725,37 @@
       "https://mail.fssai.gov.in/upload/advisories/2021/10/6156934315e16Order_License_Address_01_10_2021.pdf"
     ],
     "note": "Surrender-vs-cancellation distinction (Regulation 2.1.8, show-cause requirement), the death-of-holder transfer running from date of death under Regulation 2.1.10/2.1.11, and the relocation surrender-and-reapply practice all check out. The draft's deliberate hedging on the ownership-transfer inconsistency and the unconfirmed Section 63 figure matches what independent sources show (Section 63 may since have been altered by the Jan Vishwas Act 2023, so the draft's caution not to state a figure was correct)."
+  },
+  {
+    "file": "_drafts/batch12/blog/08-trademark-squatting-bad-faith-rectification-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-rules-in-favour-of-korean-brand-beauty-of-joseon-orders-cancellation-of-identical-trademark-283154",
+      "https://ip-adjutor.blogspot.com/2025/02/godai-global-inc-vs-shahnawaz-siddiqui.html",
+      "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-trade-mark-squatting-bad-faith-227734",
+      "https://ip-adjutor.blogspot.com/2025/10/le-shark-apparel-limited-vs-anil-shah.html"
+    ],
+    "note": "Section 11(10)(ii)/Section 57 bad-faith holding and 28 Jan 2025 date (Beauty of Joseon), BPI Sports v. Saurabh Gulati (C.O. (COMM.IPD-TM) 16/2021, 27 April 2023, Section 11(10)(ii) squatting-is-bad-faith holding), and Le Shark Apparel v. Anil Shah (CMP 538 of 2022, 14 October 2025, fabricated invoices) are all independently confirmed. The only issue is an internal inconsistency the draft's own notes already flag but did not fix: the heading spells the first case 'Goodai Global' while the references list spells it 'Godai Global Inc.' (sources themselves are genuinely split on the spelling, so this is a consistency fix, not a factual correction).",
+    "fixes": [
+      {
+        "find": "The Delhi High Court's Goodai Global ruling",
+        "replace": "The Delhi High Court's Godai Global ruling",
+        "reason": "Aligns the section heading with the spelling already used in the references list ('Godai Global Inc.'), since the draft cannot consistently use both spellings for the same case."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch12/blog/09-code-on-wages-illegal-salary-deductions-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://ksandk.com/md/labour-employment/all-four-labour-codes-enforced-from-21-november-2025/",
+      "https://www.taxmann.com/post/blog/section-69-code-on-wages-repeal-and-savings-2026-case-law/",
+      "https://www.advocatekhoj.com/library/bareacts/codeonwages/18.php",
+      "https://www.advocatekhoj.com/library/bareacts/codeonwages/45.php",
+      "https://www.advocatekhoj.com/library/bareacts/codeonwages/49.php"
+    ],
+    "note": "21 November 2025 commencement is confirmed (Section 69 of the Code formally repealed the Payment of Wages Act 1936 and the other three Acts effective that date, per Taxmann's Section 69 analysis and the S.O. 5322(E) gazette notification referenced across sources). Section 18's 50% deduction ceiling, Section 19's 3% fine cap and under-15 bar, Section 45's three-year claim limitation, and Section 49's ninety-day appeal window are all independently confirmed."
   }
 ]
