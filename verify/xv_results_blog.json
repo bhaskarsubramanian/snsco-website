@@ -2622,5 +2622,29 @@
       "https://website.rbi.org.in"
     ],
     "note": "Issuing authority and purpose of a legal heir certificate, the Section 372 Indian Succession Act petition route for a succession certificate and its good-faith-payer protection, the Delhi and UP e-District portal names (including the genuine e-Sathi naming discrepancy for UP), bank-specific thresholds for requiring a succession certificate instead, and the absence of a dedicated central statute for legal heir certificates are all confirmed from independent sources. No contradictions found; the draft's hedging on fees and processing times (which vary by office) is appropriate rather than a gap."
+  },
+  {
+    "file": "_drafts/batch12/blog/01-cancel-a-registered-sale-deed-grounds-forum-limitation-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.livelaw.in/supreme-court/when-sale-deed-is-void-suit-for-possession-governed-by-limitation-period-of-12-years-under-article-65-supreme-court-303745",
+      "https://www.legalauthority.in/judgement/prem-singh-vs-birbal-17298",
+      "https://www.casemine.com/commentary/in/mandate-for-mutual-consent-in-cancellation-deeds:-madras-high-court-sets-new-legal-precedent/view",
+      "https://www.mondaq.com/india/contracts-and-commercial-law/728614/specific-relief-amendment-act-2018"
+    ],
+    "note": "Prem Singh v Birbal (2006) 5 SCC 353 and Shanti Devi v Jagan Devi (2025 INSC 1105) both confirmed for the void/voidable Article 59 vs Article 65 distinction. The claim that the 2018 Amendment Act left Section 31 untouched (amending only Sections 10, 11, 14, 16, 20, 21) and the non-retrospectivity holding are confirmed. Section 31 SRA's discretionary wording and s.31(2) registering-officer requirement, and the Madras HC line on unilateral cancellation deeds needing mutual consent under s.32A, Registration Act, are all confirmed. No duplicate on live site; related-page claims not checked (not required for blog items)."
+  },
+  {
+    "file": "_drafts/batch12/blog/02-directors-personal-liability-companies-act-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 10,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/merely-attending-board-meetings-doesnt-impose-financial-liability-on-director-2025-insc-315-ks-mehta-v-morgan-securities-and-credits-pvt-ltd-1570214",
+      "https://www.casemine.com/commentary/in/supreme-court-clarifies-vicarious-liability-for-non-executive-directors-under-section-141-of-the-ni-act/view",
+      "https://www.livelaw.in/amp/top-stories/supreme-court-judgment-company-directors-vicarious-liability-section-141-negotiable-instruments-act-293251",
+      "https://taxguru.in/company-law/note-officer-default-companies-act-2013.html"
+    ],
+    "note": "All three Section 141 NI Act cases confirmed: K.S. Mehta v Morgan Securities (2025 INSC 315, mere board attendance insufficient), Kamalkishor Shrigopal Taparia v India Ener-Gen (2025 INSC 223, bare designation insufficient), and HDFC Bank Ltd v State of Maharashtra (2025 INSC 759) - the 'no universal rule that a director runs day-to-day affairs' line is accurately attributed, though on these facts the Court actually found the specific averments sufficient and reinstated the complaint; the draft does not misstate the outcome, only cites the general principle the judgment restated. Section 2(60) officer-in-default categories, Section 339 unlimited personal liability on Tribunal declaration, Section 179 Income Tax Act gross-neglect defence, and Section 149(12) independent-director knowledge/consent/connivance/diligence framework all independently confirmed. No duplicate on live site."
   }
 ]
