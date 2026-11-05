@@ -613,5 +613,30 @@
     "reason": "Section 4 of the Partition Act, 1893 by its terms applies only to a dwelling house belonging to an undivided family; the draft describes the right without this scope limitation, which overstates its reach to co-owned property generally."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/33-cheque-dishonour-section-138-ni-act-practice-article.json",
+  "verdict": "FIX",
+  "claims_checked": 10,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/sumit-bansal-v-mgi-developers-and-promoters-2026-insc-40-section-138-ni-act-1603951",
+   "https://www.verdictum.in/court-updates/supreme-court/hdfc-bank-limited-v-state-of-maharashtra-2025-insc-759-section-141-ni-act-1578413",
+   "https://www.verdictum.in/court-updates/high-courts/rakesh-ranjan-shrivastava-v-state-of-jharkhand-2024-insc-205-section-143a-negotiable-instruments-act-discretionary-not-mandatory-1525808",
+   "https://www.verdictum.in/court-updates/supreme-court/muskan-enterprises-v-state-of-punjab-2024-insc-1046-exception-can-be-made-to-the-condition-of-deposit-of-20-percent-amount-1563372",
+   "https://www.livelaw.in/amp/breaking-ni-act-ordinance-2015-is-retrospective-dashrath-rathods-judgment-have-no-effect-in-view-of-the-amendment-sc"
+  ],
+  "note": "Independently re-verified: Sumit Bansal v. MGI Developers, 2026 INSC 40 (decided 8 Jan 2026, bench Karol/Mishra JJ, multiple-cheque/single-transaction holding) confirmed; K.S. Mehta 2025 INSC 315 and HDFC Bank v. State of Maharashtra 2025 INSC 759 both confirmed, including the 'no universal rule that a director is in charge of day-to-day affairs' holding; Rakesh Ranjan Shrivastava v. State of Jharkhand (decided 15 March 2024, actually 2024 INSC 205) confirmed as holding Section 143A is discretionary, and the draft cites it only by date so there is no citation mismatch. Dashrath Rupsingh Rathod and the 2015 Section 142A retrospective fix confirmed, including that later treatment is genuinely contested, matching the draft's hedged framing. Minor unresolved point not actioned: for Muskan Enterprises v. State of Punjab, 2024 INSC 1046, sources disagree whether the Court quashed outright or remitted; this does not affect the substantive holding the draft relies on. Genuine issue found: two of ten related_pages entries do not exist on the live site (checked against origin/main:assets/search-index.json) -- /blog/section-138-complaint-or-civil-recovery-suit-guide.html and /blog/limitation-periods-common-civil-claims-guide.html. Fixes proposed below to remove the two broken links; the remaining eight all resolve correctly, and one already-listed link (/blog/recovering-unpaid-commercial-dues-civil-suit-guide.html) covers similar ground to the broken civil-recovery-suit link.",
+  "fixes": [
+   {
+    "find": "    \"/blog/section-138-complaint-or-civil-recovery-suit-guide.html\",\n",
+    "replace": "",
+    "reason": "This path does not exist in origin/main:assets/search-index.json; no live page at this URL."
+   },
+   {
+    "find": "    \"/blog/limitation-periods-common-civil-claims-guide.html\",\n",
+    "replace": "",
+    "reason": "This path does not exist in origin/main:assets/search-index.json; no live page at this URL."
+   }
+  ]
  }
 ]
