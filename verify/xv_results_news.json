@@ -3269,5 +3269,25 @@
       "https://thetaxcorp.in/article/ccpa-imposes-10-lakh-penalty-on-tradeindiacom-for-deceptive-walkie-talkie-listings"
     ],
     "note": "Core order confirmed: CCPA (Chief Commissioner Nidhi Khare, Commissioner Anupam Mishra) fined Hogar Technologies and Innovations LLP Rs 1 lakh on 25 October 2026 for walkie-talkie listings omitting operating frequency and licensing disclosures, rejecting the dealer-licence/ETA defence. Background context also checked out independently: the January 2026 batch (Amazon, Flipkart, Meesho, Meta at Rs 10 lakh each plus four Rs 1 lakh orders) totalled Rs 44 lakh, and a separate Rs 10 lakh order against Tradeindia.com (Infocom Network) is independently confirmed, consistent with the cumulative Rs 58 lakh/12-entity figure the draft cites as context. No live-site duplicate found."
+  },
+  {
+    "file": "_drafts/batch12/news/05-allahabad-hc-cctv-neighbour-privacy-yogendra-maurya.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-private-cctv-cameras-interfere-neighbour-privacy-556879",
+      "https://lawchakra.in/high-court/allahabad-high-court/private-cctv-cameras/"
+    ],
+    "note": "Confirmed independently: Yogendra Maurya v. State of U.P. and 7 Others, Writ C No. 42270 of 2026, bench of Justices Ajit Kumar and Garima Prashad, order dated 26 October 2026, holding that a private CCTV camera cannot be positioned to interfere with a neighbours privacy, and disposing of the petition by directing the District Magistrate to decide any removal application within one month. No live-site duplicate found."
+  },
+  {
+    "file": "_drafts/batch12/news/06-ngt-arunachal-borum-river-illegal-mining-encroachment.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.downtoearth.org.in/governance/daily-court-digest-major-environment-orders-november-3-2026",
+      "https://www.whalesbook.com/news/English/lawcourt/SC-Fixes-Bonded-Labour-Rescue-Timelines-NGT-Targets-Illegal-Mining/6aeaf0e94fc30694db5be06d"
+    ],
+    "note": "Independent WebSearch (direct WebFetch to downtoearth.org.in and whalesbook.com was blocked by this sessions network policy) corroborates all core claims: NGT Eastern Zone Bench order dated 29 October 2026 directing Deputy Commissioners across Arunachal Pradesh to identify and remove riverbed encroachments (boundary walls, private bridges) on the Borum and other rivers, directing the Geology and Mining department against illegal earth mining, requiring SEIAA clearance and District Survey Reports before mining can proceed, and directing the Chief Secretary to place rule-framing before the state government. Only two outlets (Down To Earth, WhalesBook) appear to have reported this order; no third independent source was found, but the two reports are consistent with each other and with the draft. No live-site duplicate found."
   }
 ]
