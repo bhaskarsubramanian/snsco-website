@@ -3238,5 +3238,36 @@
       "https://www.thehansindia.com/news/cities/hyderabad/tg-safe-suspends-pulla-reddy-sweets-licence-4-other-outlets-1136958"
     ],
     "note": "Confirmed independently: Justice N.V. Shravan Kumar declined interim relief on 4 November 2026, directed a fresh TG SAFE inspection with report due at next hearing (6 November), senior counsel V. Raghu argued arbitrariness and cited the 30 October point-wise response, and the state opposed on timing grounds re the festive crackdown. Seizure figures (3,133 kg, Rs 15.03 lakh) and violation findings (rotten vegetables, rodent droppings, expired/mislabelled products, wrong licence category) match across Deccan Chronicle, Siasat and The Hans India. Draft correctly hedges on the exact suspension-order date (27 vs 28 October), which sources genuinely conflict on. No live-site duplicate found."
+  },
+  {
+    "file": "_drafts/batch12/news/03-gujarat-hc-chatgpt-custody-habeas-corpus.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://supremetoday.ai/gujarat-high-court-dismisses-habeas-corpus-plea-seeking-custody-of-minor-child-from-mother-20261026028",
+      "https://www.livelaw.in/pdf_upload/2026/10/22/chatgpt-707670.pdf",
+      "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-mother-father-habeas-corpus-chatgpt-555898",
+      "https://courtbook.in/posts/chatgpt-allegations-surface-in-matrimonial-dispute-as-gujarat-high-court-dismisses-fathers-custody-plea"
+    ],
+    "note": "Case, bench, case number, citation and core holding (mothers custody of a young child is not illegal detention; habeas corpus is not a substitute for pending family-court custody proceedings) are confirmed. However the decision date is wrong: independent sources (a LiveLaw PDF of the order, filename dated 08/10/2026, and supremetoday.ai, which states explicitly the judgment is dated 8 October 2026) show the order was passed on 8 October 2026, not 26 October 2026. The draft itself flagged in its verification_notes that it could not find a pronouncement date distinct from the report date and used the report date as a fallback; a distinct pronouncement date was in fact available and differs from what was used.",
+    "fixes": [
+      {
+        "find": "\"decision_date\": \"2026-10-26\",",
+        "replace": "\"decision_date\": \"2026-10-08\",",
+        "reason": "Independent sources show the order was passed on 8 October 2026, not 26 October 2026 (the latter is the news-report publication date, not the decision date)."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch12/news/04-ccpa-hogar-technologies-walkie-talkie-licensing-penalty.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://aninews.in/news/business/ccpa-imposes-rs-1-lakh-penalty-over-misleading-walkie-talkie-advertisements20261025184024/",
+      "https://newsonair.gov.in/ccpa-steps-up-action-against-misleading-walkie-talkie-listings/",
+      "https://indianstartupnews.com/news/ccpa-imposes-rs-44-lakh-penalty-on-amazon-flipkart-meta-meesho-others-heres-why-11004407",
+      "https://thetaxcorp.in/article/ccpa-imposes-10-lakh-penalty-on-tradeindiacom-for-deceptive-walkie-talkie-listings"
+    ],
+    "note": "Core order confirmed: CCPA (Chief Commissioner Nidhi Khare, Commissioner Anupam Mishra) fined Hogar Technologies and Innovations LLP Rs 1 lakh on 25 October 2026 for walkie-talkie listings omitting operating frequency and licensing disclosures, rejecting the dealer-licence/ETA defence. Background context also checked out independently: the January 2026 batch (Amazon, Flipkart, Meesho, Meta at Rs 10 lakh each plus four Rs 1 lakh orders) totalled Rs 44 lakh, and a separate Rs 10 lakh order against Tradeindia.com (Infocom Network) is independently confirmed, consistent with the cumulative Rs 58 lakh/12-entity figure the draft cites as context. No live-site duplicate found."
   }
 ]
