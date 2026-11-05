@@ -638,5 +638,18 @@
     "reason": "This path does not exist in origin/main:assets/search-index.json; no live page at this URL."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/34-elderly-parents-nri-children-abroad-maintenance-poa-article.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/high-courts/kerala-high-court/s-sheeja-v-maintenance-appellate-tribunal-2025ker58578-only-legal-heirs-liable-to-maintain-childless-senior-citizens-1587953",
+   "https://www.verdictum.in/court-updates/high-courts/dr-pramod-john-v-state-of-kerala-2024ker48182-senior-citizens-act-total-neglect-abandonment-1542781",
+   "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/maintenance-and-welfare-of-parents-and-senior-citizens-urmila-dixit-v-sunil-sharan-dixit/",
+   "https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/pushpa-sharma-v-state-of-west-bengal-ors-shyam-sundar-sharma-bablu-v-state-of-west-bengal-ors-1608049",
+   "https://verdictum.in/court-updates/high-courts/karnataka-hc-declares-sec-17-of-maintenance-and-welfare-of-parents-and-senior-citizens-act-2007-as-ultra-vires-1483705"
+  ],
+  "note": "Independently re-verified several of the article's load-bearing citations: S. Sheeja v. Maintenance Appellate Tribunal, 2025:KER:58578 (only legal heirs, not mere possessors, liable to maintain a childless senior citizen) confirmed exactly; Dr. Pramod John v. State of Kerala, 2024:KER:48182 (abandonment under Section 24 requires total neglect) confirmed; Sudesh Chhikara v. Ramti Devi (2022) and Urmila Dixit v. Sunil Sharan Dixit, 2025 INSC 20 (purposive reading, no express clause required, Tribunal can order restoration of possession) both confirmed, and the draft's framing of a genuine High Court split on Section 23 is accurate; checked this does not conflict with the separate Calcutta HC Pushpa Sharma ruling (Tribunal cannot order eviction) cited in the FAQ, since that case concerns ordinary Section 4/5 maintenance jurisdiction with no underlying Section 23 conditional transfer, a distinction the draft keeps straight (the eviction-limits claim is scoped to tenants/non-transfer disputes, not Section 23 gift reversals). Karnataka High Court's Section 17 unconstitutionality ruling confirmed (two separate Karnataka rulings exist, 2023 and 2025, both reaching that result; draft does not over-specify which). All seven related_pages paths confirmed present in origin/main search-index.json. No marketing language or client anecdotes found."
  }
 ]
