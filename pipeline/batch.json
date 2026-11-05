@@ -1,16 +1,15 @@
 {
-  "batch": "batch11",
-  "branch": "research-batch-11",
+  "batch": "batch12",
+  "branch": "research-batch-12",
   "news_target": 10,
   "updates_target": 10,
-  "blog_target": 23,
-  "scope_from": "2026-10-15",
+  "blog_target": 10,
+  "scope_from": "2026-10-25",
   "note": "Edit this file (and push to the pipeline-config branch) to start a new batch: change batch, branch, targets and scope_from, and create the research branch with _drafts/<batch>/{news,updates,blog}/ first.",
   "dedupe_also_against": [
-    "origin/main (everything through batch 10 and the NRI bundle is live)",
-    "origin/fix-articles-hub (staged, not live)",
+    "origin/main (everything through batch 11 is live)",
     "verify/xv_worklist_*.json on xverify"
   ],
-  "PRIORITY_INSTRUCTION_FOCUS": "FOR THE BLOG ROUTINE ONLY: this batch's guides come from the curated prospective-client query queue. Read origin/pipeline-config:pipeline/query-queue.json and write the guides in the order of its queue (priority A first). For each entry use its id as the slug (it already ends with -guide), its query as the basis of the title, its angle as the scope and its verify field as the list of statutes and cases that must be confirmed from two sources. Each guide must answer the question directly in the first paragraph, in general terms as on today's date, then give the statute, forum, time limits and procedure, say where the law differs by State or is unsettled, and link related existing guides by name in the references. State-specific topics (Delhi, Uttar Pradesh, Noida) must be checked against current State statutes and notifications; if a rate or rule cannot be confirmed, say that it varies and leave the figure out. Criminal-process topics (FIR quashing, police notices, defamation) must be strictly informational. Skip any queue entry whose subject already exists on origin/main or origin/fix-articles-hub. practice_area must be one of the standard areas (use 'Property & Civil Litigation' or 'Commercial Litigation' for process topics). BCI Rule 36: educational only, no call to contact the firm, no 'we can help', no fee or consultation wording, no claims of results, experience or clients.",
+  "PRIORITY_INSTRUCTION_FOCUS": "FOR THE BLOG ROUTINE ONLY: this batch's guides come from the curated prospective-client query queue. Read origin/pipeline-config:pipeline/query-queue.json and write the guides in the order of its queue (priority A first). For each entry use its id as the slug (it already ends with -guide), its query as the basis of the title, its angle as the scope and its verify field as the list of statutes and cases that must be confirmed from two sources. Each guide must answer the question directly in the first paragraph, in general terms as on today's date, then give the statute, forum, time limits and procedure, say where the law differs by State or is unsettled, and link related existing guides by name in the references. State-specific topics (Delhi, Uttar Pradesh, Noida) must be checked against current State statutes and notifications; if a rate or rule cannot be confirmed, say that it varies and leave the figure out. Criminal-process topics (FIR quashing, police notices, defamation) must be strictly informational. Skip any queue entry whose subject already exists on origin/main. practice_area must be one of the standard areas (use 'Property & Civil Litigation' or 'Commercial Litigation' for process topics). BCI Rule 36: educational only, no call to contact the firm, no 'we can help', no fee or consultation wording, no claims of results, experience or clients.",
   "NEWS_UPDATES_NOTE": "For news and updates use the normal rules: real, dated rulings and notifications from SCOPE_FROM, spread across practice areas, not duplicating anything live or staged."
 }
