@@ -1,0 +1,37 @@
+{
+  "slug": "sujit-das-24-hour-clock-runs-from-detention",
+  "title": "Supreme Court: 24-hour limit to produce an accused before a Magistrate runs from actual detention, not recorded arrest",
+  "meta_description": "Sujit Das v. Union of India (5 Nov 2026): the Article 22(2) 24-hour period starts when liberty is curtailed, and Section 58 BNSS limits detention within it.",
+  "practice_area": "Criminal Law",
+  "court": "Supreme Court of India",
+  "bench": "Justice Ujjal Bhuyan and Justice Atul S. Chandurkar",
+  "case_name": "Sujit Das v. Union of India",
+  "citation": "2026 INSC 1195; 2026 LiveLaw (SC) 1137",
+  "decision_date": "2026-11-05",
+  "reported_by": [
+    "Verdictum",
+    "LiveLaw",
+    "Bar and Bench",
+    "ANI",
+    "ThePrint"
+  ],
+  "sources": [
+    "https://www.verdictum.in/supreme-court/sujit-das-v-union-of-india-2026-insc-1195-1625208",
+    "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1137-sujit-das-v-union-of-india-557503",
+    "https://www.barandbench.com/news/litigation/24-hour-period-to-produce-accused-before-magistrate-starts-with-detention-not-formal-arrest-supreme-court",
+    "https://theprint.in/judiciary/detention-magistrate-arrest/3091670/"
+  ],
+  "body": [
+    "On 5 November 2026 the Supreme Court held that the 24-hour period within which an arrested person must be taken before the nearest Magistrate begins when the person's liberty is first curtailed, and not when the police later record a formal arrest. A bench of Justice Ujjal Bhuyan and Justice Atul S. Chandurkar decided the point in Sujit Das v. Union of India, reported as 2026 INSC 1195.",
+    "The appeal arose from an NDPS Act prosecution in Tripura involving the seizure of methamphetamine tablets. According to the reports, the accused were taken into custody on 29 September 2025 at around 2 pm, during a search and seizure operation. The arrest was recorded only the next morning, at about 11 am, and they were produced before the Magistrate later that day, more than 24 hours after the first detention. The Tripura High Court had refused bail. The Supreme Court found that the investigating agency had not justified an 18-hour gap between the end of the search and seizure and the recording of the arrest.",
+    "The agency's position was that the clock under Article 22(2) of the Constitution starts only on formal arrest, and that time spent in preliminary inquiry, search or seizure should be left out. The bench rejected that reading. It treated the words \"arrested and detained in custody\" in Article 22(2) as a single requirement, so that detention and arrest mean the same thing for this purpose. The Constitution, the Court said in substance, does not recognise a detention that is separate from arrest. A reading under which the police can hold a person for hours before writing down an arrest would defeat the guarantee.",
+    "On the arithmetic, the bench confined the exclusion to what the Constitution itself provides: the time reasonably needed to travel from the place of arrest to the Magistrate's court. Time spent on inquiry, search, seizure or questioning before the arrest is recorded cannot be subtracted. Where the person is not produced within 24 hours of actual detention, the detention becomes unauthorised and the person has to be released forthwith.",
+    "The Court also read Section 58 of the Bharatiya Nagarik Suraksha Sanhita, 2023 alongside the constitutional text. Producing the accused at the 23rd hour does not by itself make the detention lawful. The detaining authority must see that the person is not held for longer than is reasonable in the circumstances, even within the 24 hours, and a Magistrate may decline remand if the period of police custody before production appears excessive. Reports of the judgment add that Magistrates are expected to note the actual date and time of detention when the accused is produced, and to test compliance from that point instead of from the time written in the arrest memo.",
+    "On the outcome, the Court set aside the Tripura High Court's order refusing bail and directed that the appellants be produced before the jurisdictional Special Court, after which they are to be released on bail on appropriate terms. Reports indicate that the relief rests on the Article 22(2) breach and not on any finding about the merits of the NDPS charge, so the prosecution on the substantive allegations continues. Press reports differ on the number of appellants (three named in some, four in others), and the full text of the judgment should be read for that detail. Some reports say earlier High Court decisions taking the opposite view were disapproved, but the sources checked do not name them consistently, so that point is left open here.",
+    "The ruling is a decision of the Supreme Court under Article 141 and applies to police stations and Magistrates' courts in Delhi, Gurugram, Noida, Ghaziabad, Faridabad and Kolkata in the same way as elsewhere. It follows a line of 2026 decisions on Article 22, including Jaskaran Jeet Singh Deol v. State of Punjab (21 September 2026), which concerned re-arrest after a breach of the Article. No stay or review of Sujit Das was found in the sources checked at the time of writing."
+  ],
+  "why_it_matters": "The decision fixes the starting point of the constitutional 24-hour period at the moment liberty is curtailed. Arrest memos and case diaries can now be tested against the actual time of detention, and a gap between the two becomes a ground for challenging remand and seeking bail in any criminal matter, not only under the NDPS Act, including in the courts at Delhi and Kolkata.",
+  "card_summary": "Supreme Court holds that the 24-hour period under Article 22(2) runs from actual detention, not formal arrest; only travel time is excluded, and Section 58 BNSS limits detention within the period.",
+  "card_tip": "Compare the time of first detention with the time recorded in the arrest memo and the production time before the Magistrate.",
+  "verification_notes": "Topic chosen: LiveLaw Supreme Court round-up of 5 Nov 2026 listed the ruling; separate reports on the same day from ANI, ThePrint, The Tribune, DT Next, Hans India, Business Standard, Bar and Bench, Verdictum and LiveLaw agree on the holding. Citation 2026 INSC 1195 (Verdictum) and 2026 LiveLaw (SC) 1137 from result titles. Judgment text not read (WebFetch cannot reach the hosts); holdings taken from consistent secondary reports. Dropped: one claim that Orissa, Madras and Kerala High Court decisions (Aryaman Pattanaik etc.) were overruled, because only one result carried it. Number of appellants differs between reports; left unresolved. Seven-day production direction omitted as single-source. Delhi NCR / Kolkata angle: none specific to a local forum; stated only that the Article 141 ruling binds courts there. Not checked: any review petition."
+}
