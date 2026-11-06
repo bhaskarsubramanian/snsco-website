@@ -1,15 +1,16 @@
 {
-  "batch": "batch12",
-  "branch": "research-batch-12",
-  "news_target": 10,
-  "updates_target": 10,
-  "blog_target": 10,
+  "batch": "batch13",
+  "branch": "research-batch-13",
+  "news_target": 5,
+  "updates_target": 5,
+  "blog_target": 5,
   "scope_from": "2026-10-25",
   "note": "Edit this file (and push to the pipeline-config branch) to start a new batch: change batch, branch, targets and scope_from, and create the research branch with _drafts/<batch>/{news,updates,blog}/ first.",
   "dedupe_also_against": [
     "origin/main (everything through batch 11 is live)",
+    "origin/stage-batch12 (batch 12 is staged, not live)",
     "verify/xv_worklist_*.json on xverify"
   ],
-  "PRIORITY_INSTRUCTION_FOCUS": "FOR THE BLOG ROUTINE ONLY: this batch's guides come from the curated prospective-client query queue. Read origin/pipeline-config:pipeline/query-queue.json and write the guides in the order of its queue (priority A first). For each entry use its id as the slug (it already ends with -guide), its query as the basis of the title, its angle as the scope and its verify field as the list of statutes and cases that must be confirmed from two sources. Each guide must answer the question directly in the first paragraph, in general terms as on today's date, then give the statute, forum, time limits and procedure, say where the law differs by State or is unsettled, and link related existing guides by name in the references. State-specific topics (Delhi, Uttar Pradesh, Noida) must be checked against current State statutes and notifications; if a rate or rule cannot be confirmed, say that it varies and leave the figure out. Criminal-process topics (FIR quashing, police notices, defamation) must be strictly informational. Skip any queue entry whose subject already exists on origin/main. practice_area must be one of the standard areas (use 'Property & Civil Litigation' or 'Commercial Litigation' for process topics). BCI Rule 36: educational only, no call to contact the firm, no 'we can help', no fee or consultation wording, no claims of results, experience or clients.",
-  "NEWS_UPDATES_NOTE": "For news and updates use the normal rules: real, dated rulings and notifications from SCOPE_FROM, spread across practice areas, not duplicating anything live or staged."
+  "PRIORITY_INSTRUCTION_FOCUS": "FOR THE BLOG ROUTINE ONLY: this batch's 5 guides are the entries at the top of origin/pipeline-config:pipeline/query-queue.json that carry a region field (WB or UP), priority A. Use each id as the slug, its query as the basis of the title, its angle as the scope and its verify field as the statutes and cases to confirm from two sources. Answer the question directly in the first paragraph, as on today's date, then statute, forum, time limits and procedure; say where State law differs or is unsettled; link related existing guides by name. Where a State rule, rate or notification cannot be confirmed from an official or reliable source, say it varies and omit the figure. Skip any entry whose subject already exists on origin/main or origin/stage-batch12. practice_area: 'Property & Civil Litigation' or 'Commercial Litigation'. BCI Rule 36: educational only; the page may name the court or forum in the city (for example Calcutta High Court, Gautam Buddha Nagar district court) because the law requires it, but NEVER frame it as 'lawyers/advocates/law firm in <city>', no call to contact the firm, no 'we can help', no fee or consultation wording, no claims of results, experience or clients.",
+  "NEWS_UPDATES_NOTE": "For news and updates: real, dated rulings and notifications from SCOPE_FROM. Of the 5 items each, at least 3 must concern courts, tribunals or authorities serving Uttar Pradesh (Allahabad High Court, Gautam Buddha Nagar / Noida, UP RERA, NOIDA/GNIDA, NCLT Allahabad) or West Bengal (Calcutta High Court, Kolkata tribunals, WBRERA, KMC, NCLT Kolkata, CESTAT Kolkata), or Supreme Court appeals from those States; the rest may be national. Spread across practice areas; no duplicates of anything live or staged. Educational reporting only (BCI Rule 36)."
 }

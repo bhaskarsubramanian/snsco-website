@@ -11,58 +11,49 @@
   },
   "queue": [
     {
-      "id": "AA",
+      "id": "AH",
       "authors": [
         "Bhaskar Subramanian",
-        "Chandrayee Roy"
+        "Subhradip Roy"
       ],
-      "practice_area": "NRI Legal Services",
-      "topic": "Elderly parents in India and NRI children abroad (USA, Canada, UK): Maintenance and Welfare of Parents and Senior Citizens Act 2007 tribunals and maintenance, revoking gifts and transfers made to children, caretaker and tenant verification, powers of attorney and healthcare decisions, protecting the parents' home from encroachment, and what an NRI child can and cannot do from abroad. Do NOT duplicate the existing guide on revoking gift deeds; link to it."
+      "practice_area": "Property & Civil Litigation",
+      "topic": "Succession under the Dayabhaga school as followed in West Bengal and by Bengali Hindu families in Kolkata: how Dayabhaga differs from Mitakshara (no birth right in ancestral property, positions of sons and daughters, joint family property before and after the Hindu Succession Act 1956 and the 2005 amendment), intestate succession in West Bengal, wills and probate before the Calcutta High Court, partition suits, common title problems. Link the existing intestate-succession article and the ancestral-property guide; do not repeat them."
     },
     {
-      "id": "AB",
+      "id": "AI",
       "authors": [
         "Subhradip Roy",
         "Souvik Bose"
       ],
-      "practice_area": "NRI Legal Services",
-      "topic": "NRIs as directors, shareholders and founders of Indian companies and LLPs: resident director requirement (182 days) under Section 149(3) Companies Act 2013, DIN and DIR-3 KYC, FEMA and FDI reporting for NRI investment, designated partner rules for LLPs, board meetings and signing from abroad, bank accounts. Link to existing FDI and DIR-3 KYC guides; do not repeat them."
+      "practice_area": "Commercial Litigation",
+      "topic": "Forum map for civil and commercial disputes in Kolkata: Calcutta High Court original side versus appellate side, pecuniary and territorial jurisdiction, the Commercial Division and Commercial Courts Act 2015 in West Bengal, pre-institution mediation under Section 12A, City Civil Court and district courts, arbitration seat in Kolkata, execution of decrees. Do not repeat the existing Noida commercial-courts article; link it for comparison."
     },
     {
-      "id": "AC",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Adv. Rahul Jangra"
-      ],
-      "practice_area": "Property & Civil Litigation",
-      "topic": "Remote property purchase by NRIs from USA, Canada and UK: title due diligence step by step, what the registry and revenue records prove, encumbrance and mutation checks, litigation search, common title defects and fraud patterns in Delhi NCR, Punjab, Haryana and Kolkata, escrow and payment trail under FEMA. Do not repeat the existing NRI property purchase FEMA guide; focus on title and due diligence."
-    },
-    {
-      "id": "AD",
+      "id": "AJ",
       "authors": [
         "Bhaskar Subramanian",
         "Adv. Anupam"
       ],
-      "practice_area": "NRI Legal Services",
-      "topic": "Money lent or invested by NRIs in India with relatives and friends: recovery routes (legal notice, Order XXXVII summary suit, Section 138), limitation, documentary proof of loan, bank-channel and FEMA rules on loans between NRIs and residents, security and interest, informal arrangements that fail in court."
+      "practice_area": "Property & Civil Litigation",
+      "topic": "Industrial and commercial plots in Noida and Greater Noida for businesses and investors: allotment and lease from NOIDA, GNIDA and YEIDA, lease deed terms, permission to mortgage and sublet, transfer and change of use, default and cancellation, remedies before the authority, High Court writ and civil court. Confirm current authority policies from official notices; leave out any figure that cannot be confirmed. Link the existing Noida real-estate and recovery articles."
     },
     {
-      "id": "AE",
+      "id": "AK",
       "authors": [
-        "Bhaskar Subramanian",
+        "Adv. Rahul Jangra",
         "Chandrayee Roy"
       ],
-      "practice_area": "NRI Legal Services",
-      "topic": "Marriage registration and validity for NRIs and spouses abroad: registering under the Hindu Marriage Act or Special Marriage Act (notice period), marriages solemnised abroad and their recognition in India, registration for spousal visa applications to USA, Canada and UK, proof of marriage, second marriage and bigamy risks, and remedies for a deserted spouse. Link to existing look-out circular, foreign divorce and alimony guides; do not repeat them."
+      "practice_area": "Property & Civil Litigation",
+      "topic": "Commercial premises leases in Kolkata and Noida: registration and stamp duty differences between West Bengal and Uttar Pradesh, lock-in and escalation, security deposit, unregistered leases and Section 107 Transfer of Property Act, eviction routes, arrears recovery, sub-letting, rent-law coverage. Link the existing UP/Delhi tenant guide; do not repeat it."
     },
     {
-      "id": "AF",
+      "id": "AL",
       "authors": [
         "Subhradip Roy",
         "Adv. Rahul Jangra"
       ],
-      "practice_area": "NRI Legal Services",
-      "topic": "Correcting name, date-of-birth and record discrepancies that block NRI transactions in India: mismatches between passport, Aadhaar, PAN, bank and property records, affidavits and gazette name change, civil-court declaration, correction in revenue and registry records, birth and death certificate corrections, and what each remedy is accepted for."
+      "practice_area": "Property & Civil Litigation",
+      "topic": "Municipal and building-law remedies in Kolkata: Kolkata Municipal Corporation building plan sanction, unauthorised construction and demolition notices, hearing and appeal under the Kolkata Municipal Corporation Act 1980, Municipal Building Tribunal, writ jurisdiction of the Calcutta High Court against municipal action, neighbours' remedies and typical timelines. State only what can be confirmed from the Act and reported decisions."
     },
     {
       "id": "AG",
