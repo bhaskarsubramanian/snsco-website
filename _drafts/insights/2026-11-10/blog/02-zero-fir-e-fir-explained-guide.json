@@ -1,0 +1,81 @@
+{
+  "slug": "zero-fir-e-fir-explained-guide",
+  "title": "Zero FIR and e-FIR: What They Mean and When the Police Must Register One",
+  "meta_description": "What a Zero FIR and an e-FIR are under Section 173 BNSS, when police must register one, and what to do if a station refuses.",
+  "practice_area": "Criminal Law",
+  "intro": [
+    "Two terms come up constantly when someone wants to report a crime but is unsure whether the local police station will act: Zero FIR and e-FIR. Both now rest on statutory footing under Section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), in force since 1 July 2024, which replaced the corresponding Section 154 of the Code of Criminal Procedure. Knowing how each works, and the difference between them, matters because police stations in Delhi NCR and Kolkata handle an enormous volume of theft, accident and cybercrime reports where jurisdiction and physical attendance are the first practical obstacle a complainant faces."
+  ],
+  "sections": [
+    {
+      "heading": "What a Zero FIR actually is",
+      "paragraphs": [
+        "A Zero FIR is a First Information Report registered by any police station for a cognisable offence, regardless of where that offence actually took place. Before Section 173 BNSS gave the practice statutory recognition, this was a device built up through judicial directions and police guidelines rather than clear statutory text. Section 173(1) BNSS now states expressly that an FIR can be registered irrespective of the area where the offence was committed, which removes the earlier excuse of a police station turning a complainant away on the ground that the crime happened somewhere else.",
+        "Once registered, a Zero FIR is given the serial number zero, rather than a number from the regular running series of the station where it was recorded, and the station is then required to transfer it to the police station that actually has territorial jurisdiction over the offence, which re-numbers it into its own regular series and takes over the investigation. The point of a Zero FIR is speed: a victim does not have to travel to the correct station, or argue about jurisdiction, before the first report gets on record and the clock starts running on evidence collection."
+      ]
+    },
+    {
+      "heading": "What an e-FIR adds",
+      "paragraphs": [
+        "An e-FIR is a First Information Report where the initial information is given electronically rather than by a complainant walking into a station and giving an oral or written statement in person. Section 173(1) BNSS allows information about a cognisable offence to be given by electronic communication, which in practice means through a police website, a dedicated e-FIR portal, or another notified electronic channel. Where information is given this way, the person giving it is required to sign it within three days, which usually means visiting the station or otherwise verifying the complaint within that window for the report to be treated as duly registered.",
+        "The parliamentary committee that examined the BNSS Bill recommended that electronic registration be governed by rules the government would separately prescribe, so the exact mechanics, including which offences qualify and which portals are recognised, can vary by state and have not all been uniformly notified. In practice, most police forces have so far built electronic or online FIR facilities mainly around specific, relatively straightforward categories such as motor vehicle theft and lost property, rather than opening every cognisable offence to pure online registration."
+      ]
+    },
+    {
+      "heading": "How this plays out in Delhi NCR and Kolkata",
+      "paragraphs": [
+        "Delhi Police has run a dedicated online facility for motor vehicle theft for a number of years now, operated through what it describes as an e-police station under its Crime Branch, which has jurisdiction across the whole of the National Capital Territory. A complainant can report a stolen vehicle through this facility without visiting a station in person and can get an acknowledgment of the report straightaway, with the matter then handled centrally rather than by whichever station happens to be nearest.",
+        "Kolkata and the rest of West Bengal have also moved toward online reporting tools, including facilities for tracing and reporting stolen vehicles, though the precise list of offences covered by fully online registration, as opposed to online complaint intake that still requires a follow-up visit to sign and verify, is narrower and worth confirming directly with the local police website before assuming a particular offence qualifies. The safest practical approach for a complainant in either city is to use the online facility where one clearly exists for the specific offence, and to treat any other online complaint as a first step that still needs a signed, in-person follow-up within the statutory window."
+      ]
+    },
+    {
+      "heading": "What police must do, and what a complainant can do if they refuse",
+      "paragraphs": [
+        "For a cognisable offence, an officer in charge of a police station has no discretion to refuse registration on the ground that the crime did not occur within that station's jurisdiction; the obligation is to record it as a Zero FIR and forward it. A free copy of the recorded FIR must be given to the complainant under Section 173(2) BNSS. If a station still refuses to register a report, the complainant can send a written representation to the Superintendent of Police, or an equivalent senior officer, under Section 173(4) BNSS, setting out the facts and the refusal.",
+        "If the Superintendent of Police also fails to act, the complainant's next step is to approach the jurisdictional Magistrate under Section 175(3) BNSS, which corresponds to the earlier Section 156(3) of the CrPC, and ask the Magistrate to direct registration and investigation. This route exists precisely because the obligation to register a cognisable offence is not optional for the police, and a Magistrate's direction carries weight that a verbal request at the counter does not."
+      ]
+    },
+    {
+      "heading": "Non-cognisable offences and the limits of this entire scheme",
+      "paragraphs": [
+        "Everything above applies to cognisable offences, meaning those serious enough that police can investigate and, where necessary, arrest without needing a Magistrate's prior permission. For a non-cognisable offence, such as most simple cases of defamation or minor hurt without aggravating facts, a police station is not obliged to register an FIR at all. Instead, the police record it as a non-cognisable report, commonly called an NCR, and a complainant who wants an actual investigation to follow has to approach a Magistrate directly and seek an order under the BNSS directing investigation.",
+        "This distinction trips people up more than any other part of the FIR process, because a complainant who files what they believe is an urgent report, only to be told it has been entered as an NCR rather than an FIR, often assumes the police have simply refused to act. In most such cases the police are following the correct procedure for a non-cognisable offence rather than refusing a cognisable one, and the appropriate response is to go to the Magistrate for a direction, not to treat it as an unlawful refusal under Section 173."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can any police station in India register a Zero FIR?",
+      "a": "Yes. Section 173(1) BNSS allows registration of a cognisable offence at any police station regardless of where the offence occurred. The station that records it must then transfer the FIR to the station with actual territorial jurisdiction, which takes over the investigation under its own regular FIR number."
+    },
+    {
+      "q": "Is an e-FIR valid without visiting the police station at all?",
+      "a": "Generally no, for most offences. Where information is given electronically, the complainant is required to sign it within three days of giving it, which in practice usually means a visit to the station or another form of verification within that window before the report is treated as fully registered."
+    },
+    {
+      "q": "What should I do if a police station refuses to register my complaint?",
+      "a": "Put the complaint in writing and keep a copy. If the station still refuses to register a cognisable offence, send a written representation to the Superintendent of Police under Section 173(4) BNSS. If that also fails, approach the jurisdictional Magistrate under Section 175(3) BNSS for a direction to register and investigate."
+    },
+    {
+      "q": "Does every type of crime qualify for online or e-FIR registration?",
+      "a": "No. Most police forces have so far built fully online registration mainly for specific categories such as motor vehicle theft and lost property. Other cognisable offences can often be reported online as a first step, but typically still require a signed, in-person follow-up to count as a validly registered FIR."
+    },
+    {
+      "q": "What is the difference between an FIR and an NCR?",
+      "a": "An FIR is registered for a cognisable offence and obliges the police to investigate. An NCR, or non-cognisable report, is recorded for a non-cognisable offence, where police cannot investigate without a Magistrate's order. A complainant whose matter is entered as an NCR needs to approach the Magistrate directly for an investigation to proceed."
+    }
+  ],
+  "references": [
+    "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 173",
+    "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 175(3)",
+    "Code of Criminal Procedure, 1973, Section 154 and Section 156(3) (pre-1 July 2024 position)",
+    "Delhi Police e-police station facility for motor vehicle theft"
+  ],
+  "sources": [
+    "https://lawfoyer.in/e-fir-zero-fir-under-bnss-provisions-procedure-and-cases/",
+    "https://www.legacyias.com/fir-vs-zero-fir-vs-e-fir-bnss-2023/",
+    "https://bhattandjoshiassociates.com/fir-registration-in-india-2025-supreme-court-guidelines-and-section-173-of-bnss-and-crpc-explained/",
+    "https://www.thebetterindia.com/31409/lost-your-vehicle-belongings-in-delhi-now-file-an-e-fir-from-your-home/"
+  ],
+  "verification_notes": "Chosen because FIR registration and 'what to do when police refuse to act' is a consistently high-search criminal law topic, and a site search found no existing guide specifically on Zero FIR or e-FIR (an existing guide covers quashing an FIR under Section 528 BNSS, a different later-stage topic). Delhi angle verified directly through Delhi Police's long-running e-police station facility for motor vehicle theft, confirmed across multiple sources. The Kolkata/West Bengal position is stated cautiously because the search found only a vehicle-tracing tool and no clearly confirmed e-FIR portal with a defined offence list, so the guide tells readers to confirm the current offence list with the local police website rather than asserting one. The 'as specified by rules' qualification on e-FIR mechanics, and the fact that not all such rules were confirmed as notified, are stated as open rather than settled, consistent with the verification standard for this run."
+}
