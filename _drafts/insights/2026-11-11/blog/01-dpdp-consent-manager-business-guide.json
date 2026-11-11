@@ -1,0 +1,103 @@
+{
+  "slug": "dpdp-consent-manager-business-guide",
+  "title": "DPDP Consent Managers From November 2026: What a Business Should Check Now",
+  "meta_description": "What the Consent Manager registration framework under the DPDP Rules means for a business, and what to review before the May 2027 compliance deadline.",
+  "practice_area": "Technology & Data",
+  "intro": [
+    "The Digital Personal Data Protection Rules, 2025 bring in their Consent Manager framework from 13 November 2026, a year after the Rules were first notified. This is a narrower event than it sounds: it opens the door for a licensed category of intermediary to register with the Data Protection Board, it does not itself force every business to change how it collects consent today. The broader notice-and-consent obligations that will actually touch most data fiduciaries directly are still roughly six months away, due in May 2027.",
+    "What follows is a practical review for a business trying to work out what, if anything, changes for it this month, and what it should be doing between now and the May 2027 deadline rather than waiting until the last stretch."
+  ],
+  "sections": [
+    {
+      "heading": "What a Consent Manager Actually Is",
+      "paragraphs": [
+        "Under the DPDP Act, a Consent Manager is a registered intermediary a person can use to give, review, manage and withdraw consent for how different businesses process their personal data, through one interoperable interface rather than separate settings on every app or website. The model borrows from the account aggregator framework already used in financial data sharing, extended here to personal data generally.",
+        "A Consent Manager does not process personal data for its own commercial purposes; its job is to represent a person's consent choices accurately to the businesses that do. It must be an Indian company, meet a minimum net worth threshold, and satisfy technical and governance conditions the Rules set out before it can register with the Data Protection Board.",
+        "The closest real-world comparison most Indian businesses will already recognise is the account aggregator system used for financial statements and loan applications, where a person authorises a single intermediary to pull data from banks on their behalf rather than sharing credentials separately with each lender. The Consent Manager role extends that same single-point authorisation logic to personal data generally, covering far more than financial information, from health records to e-commerce purchase history."
+      ]
+    },
+    {
+      "heading": "What Changes on 13 November 2026, Specifically",
+      "paragraphs": [
+        "Before this date, no entity could formally register as a Consent Manager, because the provision authorising registration had not yet come into force. From 13 November 2026, that changes: an applicant can seek registration with the Data Protection Board, and the Board can grant, refuse or later revoke that registration.",
+        "For an ordinary business that collects personal data from customers, employees or vendors, this date does not create a new direct obligation. Registering as a Consent Manager is a separate, licensed business activity, not something every data-collecting business must now do. What it does create is a live regulatory category: from this date, a claim by a vendor that it is a registered Consent Manager is something that can actually be checked against the Board's register, rather than being an unverifiable marketing statement.",
+        "Expect a gap between the registration pathway opening and actual registered Consent Managers appearing in the market, since an applicant still has to satisfy the Schedule's conditions and go through the Board's review before approval. A business should treat any vendor claiming registered status this month with some scepticism until the Board's register itself shows an active entry, rather than accepting a self-description at face value."
+      ]
+    },
+    {
+      "heading": "Who Can Actually Register as a Consent Manager",
+      "paragraphs": [
+        "The conditions for registration sit in the Rules' First Schedule. Reported requirements include incorporation as an Indian company, a net worth of not less than two crore rupees calculated as total assets minus liabilities, and a showing that the applicant's financial condition and management are sound enough to run the role reliably.",
+        "Beyond the financial threshold, an applicant must demonstrate the technical capacity to run an interoperable platform, meaning one that can plug into multiple data fiduciaries' systems and present a person's consent status consistently across them, along with independent certification of that platform before the Board will register it. These are substantive conditions, not a formality, and most ordinary businesses without a dedicated consent-infrastructure product will have no reason to pursue this registration themselves.",
+        "Once registered, a Consent Manager also takes on continuing obligations rather than a one-time approval, including keeping records of the consents and notices it has handled and remaining answerable to the Board for how its platform actually operates in practice. A registration, once granted, is not permanent regardless of conduct; the Board retains the power to revoke it if a Consent Manager stops meeting the conditions that justified registering it."
+      ]
+    },
+    {
+      "heading": "If You Are a Data Fiduciary, Not a Consent Manager",
+      "paragraphs": [
+        "Most businesses reading about this commencement date are data fiduciaries, meaning they collect and process personal data about customers, patients, employees or users, rather than businesses planning to become Consent Managers. For a data fiduciary, the practical question this date raises is whether it currently relies, or plans to rely, on a third-party platform that markets itself as a consent management or Consent Manager solution.",
+        "If so, this is the point to check whether that vendor has actually registered under Rule 4, since the term Consent Manager now carries a specific legal meaning tied to Board registration rather than describing any consent-collection software generically. A vendor using the term loosely, without registration, is not performing the role the Act and Rules actually regulate, and a business relying on it should not assume that reliance satisfies any DPDP obligation.",
+        "This distinction matters contractually as much as technically. A services agreement with a consent-platform vendor should state plainly whether the vendor is, or intends to become, a registered Consent Manager, and should give the business the right to terminate or renegotiate if that status changes or never materialises. Leaving the term undefined in the contract risks a dispute later over who bore responsibility for a consent record that turns out not to meet the standard the Rules actually set."
+      ]
+    },
+    {
+      "heading": "The Compliance Calendar Still Ahead",
+      "paragraphs": [
+        "The Consent Manager framework is the second of three staggered milestones under the 2025 notification. The first, covering the Data Protection Board's own constitution, took effect alongside the original November 2025 notification. The third and most consequential for ordinary businesses, covering Rule 3's core obligations on notice, verifiable consent, data breach reporting and reasonable security safeguards, is due roughly eighteen months after notification, in May 2027.",
+        "Treating 13 November 2026 as a checkpoint rather than a deadline makes sense given that calendar. A business has a window between now and May 2027 to map what personal data it collects, where consent is currently recorded, and whether its notice language already meets the standard the Rules will require, rather than beginning that work only once the obligations become directly enforceable.",
+        "Businesses already subject to sector-specific data rules, such as banks under RBI data localisation directions or health platforms handling sensitive medical records, should not assume existing sectoral compliance automatically satisfies the DPDP Act once Rule 3 takes effect. The two sets of obligations overlap in places but are not identical, and a gap analysis against the DPDP Rules specifically, rather than against sectoral rules alone, is the safer starting point."
+      ]
+    },
+    {
+      "heading": "Common Mistakes Businesses Are Making Right Now",
+      "paragraphs": [
+        "A frequent error is treating any software labelled a consent management platform as automatically DPDP compliant, when compliance depends on what the business itself does with notice, consent language and data retention, not merely on the software it uses to record a click. A second is assuming nothing needs attention until May 2027 arrives, which leaves little time to renegotiate vendor contracts, retrain staff on data collection practices, or rebuild consent flows that currently bundle multiple purposes into one broad acceptance.",
+        "A third mistake, particularly for businesses operating across Delhi NCR and Kolkata that run consumer apps, fintech products or healthcare and e-commerce platforms, is assuming the DPDP Act mirrors the EU's GDPR closely enough that an existing GDPR compliance programme covers Indian obligations without adjustment. The two regimes overlap substantially but differ on points including the definition of significant data fiduciary, breach notification timelines, and the consent manager concept itself, which has no direct GDPR equivalent."
+      ]
+    },
+    {
+      "heading": "Practical Steps to Take Before May 2027",
+      "paragraphs": [
+        "Begin by listing every point at which the business collects personal data, whether through a website form, an app permission, a physical registration desk or a vendor's data-collection flow, and note what notice language is currently shown at each point. Compare that language against what Rule 3 is expected to require: a clear, itemised statement of what data is collected, why, and for how long, rather than a single broad consent clause covering unrelated purposes.",
+        "Where the business already uses or is considering a third-party consent platform, confirm in writing with that vendor whether it intends to register as a Consent Manager under Rule 4, and build a contractual fallback in case it does not. Finally, assign internal ownership of this compliance track now rather than closer to May 2027, since mapping data flows across departments typically takes longer than businesses expect once the exercise actually begins.",
+        "Keep a written record of each step taken, including the dates notice language was reviewed and which vendors were asked about Consent Manager registration status. That record becomes useful evidence of good-faith compliance effort if the Data Protection Board or a court later examines how the business approached its obligations, which matters more once Rule 3 is in force and a complaint or inquiry becomes a realistic possibility rather than a hypothetical one."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does my business have to use a registered Consent Manager from 13 November 2026?",
+      "a": "No. Using a Consent Manager is optional for a data fiduciary. The commencement date only opens the registration pathway for entities that want to operate as Consent Managers; it does not require an ordinary business to adopt one or change its current consent collection method immediately."
+    },
+    {
+      "q": "What is the real deadline businesses should be working toward?",
+      "a": "The core compliance obligations on notice, verifiable consent, data breach reporting and security safeguards under Rule 3 are scheduled for roughly eighteen months after the Rules were notified, placing that deadline around May 2027. Treat that date, not 13 November 2026, as the operative compliance deadline."
+    },
+    {
+      "q": "Can my company become a registered Consent Manager if we already run a consent management tool?",
+      "a": "Only if it meets the Schedule's conditions, including Indian incorporation, a minimum net worth of two crore rupees, and independent certification of platform interoperability. Running consent-collection software for your own business does not by itself qualify you to register as a Consent Manager for other data fiduciaries."
+    },
+    {
+      "q": "Does the DPDP Act apply to small businesses the same way it applies to large platforms?",
+      "a": "The Act applies to any entity processing personal data, but certain heightened obligations apply specifically to entities the government designates as significant data fiduciaries based on factors like data volume and sensitivity. A small business should still review its notice and consent practices, even if it is unlikely to be designated significant."
+    },
+    {
+      "q": "What happens if a business simply does nothing before May 2027?",
+      "a": "Once Rule 3's obligations take effect, non-compliance exposes a data fiduciary to the DPDP Act's penalty framework, which the Act and Rules set out separately for different categories of breach. Starting the internal review now, rather than after obligations become enforceable, is the practical way to avoid being caught short."
+    }
+  ],
+  "references": [
+    "Digital Personal Data Protection Act, 2023",
+    "Digital Personal Data Protection Rules, 2025, Rule 3 (notice and consent obligations) and Rule 4 (Consent Managers)",
+    "Digital Personal Data Protection Rules, 2025, First Schedule (conditions for registration of Consent Managers)",
+    "Digital Personal Data Protection Act, 2023, Section 13 (grievance redressal) and Section 28 (Board procedure)"
+  ],
+  "sources": [
+    "https://ssrana.in/articles/meity-notifies-final-digital-personal-data-protection-rules-2025/",
+    "https://www.amsshardul.com/insight/enforcement-of-the-dpdp-act-and-notification-of-the-dpdp-rules/",
+    "https://lexplosion.in/meity-notifies-digital-personal-data-protection-rules-2025/",
+    "https://www.sansalegal.com/post/how-to-register-and-operate-as-a-consent-manager-under-india-s-dpdp-act-2023-and-dpdp-rules-2025",
+    "https://www.maheshwariandco.com/blog/dpdp-consent-manager-framework-november-2026/"
+  ],
+  "verification_notes": "Chosen for Technology & Data, the site's most underrepresented practice area (one article, no prior blog guide), because the Consent Manager commencement date falls within this run's window and the topic is both timely and genuinely practical for businesses across Delhi NCR and Kolkata operating consumer-facing apps, fintech and healthcare platforms. The site's existing Technology & Data article covers the DPDP compliance clock generally; this guide is narrower and practice-focused on the Consent Manager role specifically, so it is not a duplicate. The 13 November 2026 commencement date, the First Schedule net worth and incorporation conditions, and the May 2027 Rule 3 timeline are each confirmed across at least two independent law-firm sources (SSRANA, AMSShardul, Lexplosion, Sansa Legal, Maheshwari & Co.). Specific figures such as exact audit frequency for registered Consent Managers were reported inconsistently across sources and are therefore not stated as settled in this guide. No primary Gazette text was independently opened in this run; readers relying on exact Schedule wording are pointed to the Rules themselves."
+}
