@@ -785,5 +785,24 @@
         "reason": "Independent sources confirm Section 370 was itself consequentially amended to drop its reference to Section 213 when that section was omitted; the draft presents the pre-amendment wording of Section 370 as still current law."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/43-noida-greater-noida-industrial-commercial-plots-article.json",
+    "verdict": "FIX",
+    "claims_checked": 19,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/new-okhla-industrial-development-authority-v-ms-sunshine-trade-tower-private-limited-2026-insc-975-zero-period-noida-developers-1621622",
+      "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/savita-sharma-vs-state-of-up-and-2-others-2025ahc111809-db-cant-allow-deliberate-repeated-defaults-by-allottee-1586709",
+      "https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/bulland-realtors-private-limited-v-state-of-up-2025ahc190531-homebuyers-insolvency-resolution-process-real-estate-company-1596656",
+      "https://therealtytoday.com/news/yeida-bans-industrial-and-institutional-plot-transfers-until-development-and-operations-begin"
+    ],
+    "note": "The core legal architecture checks out: the 90-year lease term, 2.5 percent lease rent with 50 percent escalation every ten years, YEIDA 5 percent transfer charge, GNIDA 10 percent change-in-shareholding charge, mortgage permission fees, YEIDA transfer-ban policy, and the Sunshine Trade Tower (2026 INSC 975), Savita Sharma (2025:AHC:111809-DB), Hindustan Texknit (2013), Jakson Engineers (11 Nov 2025) and NCLAT Kindle Developers rulings are all accurately described, and the draft is unusually well hedged about figures varying by scheme and year. All seven related_pages paths exist in origin/main assets/search-index.json. No Rule 36 marketing language or client anecdotes were found. Two issues: the Bulland Realtors citation mischaracterizes a case that is actually about a residential group-housing plots insolvency resolution and homebuyers interests, not an industrial or commercial built-up-space sub-lease dispute; and the draft omits NOIDAs October 2025 Unified Regulations-2025 (adopted at the Authoritys 219th board meeting) harmonizing allotment rules, payment schedules and approval procedures across NOIDA, GNIDA and YEIDA, and omits discussion of consumer-forum jurisdiction over industrial or commercial plots despite that being a live, easily-confused distinction versus residential allottees.",
+    "fixes": [
+      {
+        "find": "Bulland Realtors matter, Writ-C No. 166 of 2025 (Allahabad High Court, tripartite sub-lease dispute, Greater Noida)",
+        "replace": "Bulland Realtors Private Limited v. State of U.P. and Others, Writ-C No. 166 of 2025, 2025:AHC:190531 (Allahabad High Court), a group housing (residential) plot sub-lease cancelled for lease-rent default, decided primarily on homebuyers interests in the developers insolvency resolution process, not a built-up industrial or commercial space sub-lease dispute",
+        "reason": "Independent search confirms this case concerns a residential group-housing plot and centres on homebuyers interests in a real-estate insolvency resolution, not the industrial or commercial built-up-space tripartite sub-lease scenario the surrounding text discusses."
+      }
+    ]
   }
 ]
