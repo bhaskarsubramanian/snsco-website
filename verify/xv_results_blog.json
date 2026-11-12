@@ -2875,5 +2875,44 @@
    "https://future.indiankanoon.org/doc/599714/"
   ],
   "note": "Confirmed BNSS Sections 144/145 replacing CrPC 125/126 from 1 July 2024, and the 2003 insertion of clause (iii-a) into HMA Section 19 giving a wife-petitioner venue option, consistent with the draft's statements and its own hedges."
+ },
+ {
+  "file": "_drafts/batch13/blog/09-west-bengal-property-registration-stamp-duty-kolkata-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://cleartax.in/s/stamp-duty-and-registration-charges-in-west-bengal",
+   "https://www.godrejproperties.com/blog/stamp-duty-and-registration-charges-in-west-bengal"
+  ],
+  "note": "Own search confirms real disagreement among sources on exact WB stamp duty tiers and the women's-rebate question (several say the rebate was withdrawn from 1 July 2024, others still list one), so the draft's deliberate refusal to state an unverified figure is the correct call, not a gap."
+ },
+ {
+  "file": "_drafts/batch13/blog/10-kolkata-thika-tenancy-act-2001-thika-tenant-rights-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelaw.in/amp/law-firms/litigation/calcutta-high-court-wblrtt-cannot-be-bypassed-merely-by-alleging-wrongful-assumption-of-jurisdiction-under-thika-tenancy-act-536357",
+   "https://www.casemine.com/in/column/the-west-bengal-thika-tenancy-(acquisition-and-regulation)-act,-2001/view",
+   "https://verdictum.in/app-lite/pdf_upload/982320143150236844judgement27-jul-2022-1395875.pdf",
+   "https://future.indiankanoon.org/doc/83919120/"
+  ],
+  "note": "The pucca-structure holding (Nemai Chandra Kumar v. Mani Square, 2022) and Section 27 repeal are confirmed. But the draft's claim that the Thika Controller cannot decide disputes beyond registration, attributed loosely to a '1981 Act' holding, omits that the West Bengal Thika Tenancy (Amendment) Act, 2010 substituted Section 5(3) effective 1 November 2010, expressly widening the Controller's power to decide whether land is thika land and to adjudicate a lis between an owner and an alleged thika tenant over tenant status, something the Controller could not do before 2010. The guide should distinguish that now-settled Controller power from the narrower, still-good point that the Controller cannot decide pure ownership/title disputes between rival claimants to the underlying property, which remains a civil court matter. Fixes below add that caveat without removing the ownership-title point, which still appears correct.",
+  "fixes": [
+   {
+    "find": "The Act sets up a Thika Controller with authority over registration of thika tenancies and related determinations, including deciding, as a threshold question, whether a particular occupant actually qualifies as a thika tenant under the statutory definition.",
+    "replace": "The Act sets up a Thika Controller with authority over registration of thika tenancies and related determinations, including deciding, as a threshold question, whether a particular occupant actually qualifies as a thika tenant under the statutory definition. This power was widened by the West Bengal Thika Tenancy (Acquisition and Regulation) (Amendment) Act, 2010, which substituted Section 5(3) with effect from 1 November 2010: before that amendment the Controller could decide only whether a claimant was a thika tenant, not whether the land itself was thika land, and had no provision to adjudicate a dispute between an owner and an alleged thika tenant over that status; the 2010 amendment gave the Controller power to decide both.",
+    "reason": "Omits the 2010 amendment to Section 5(3), which specifically expanded the Controller's jurisdiction on the exact question this section discusses."
+   },
+   {
+    "find": "What the Controller cannot do, at least under the predecessor 1981 Act as a High Court has held, is adjudicate a dispute over who actually owns the property as between rival claimants, since that is a question of title for the ordinary civil court, not a question the Thika Controller's statutory jurisdiction extends to.",
+    "replace": "What the Controller still cannot do, even after the 2010 widening of Section 5(3), is adjudicate a dispute over who actually owns the underlying property as between rival claimants to title, since that remains a question for the ordinary civil court; this is distinct from the Controller's power, since 2010, to decide whether land is thika land and to resolve a dispute between an owner and an alleged thika tenant over thika tenant status itself.",
+    "reason": "Clarifies that the ownership-title limit is separate from, and survives alongside, the 2010-expanded status jurisdiction, rather than implying the Controller's powers are unchanged since 1981."
+   },
+   {
+    "find": "No. A High Court has held that the Controller's jurisdiction under the Act does not extend to adjudicating a title dispute between rival claimants. That is a matter for the ordinary civil court, and the Controller's role is confined to thika tenant status and registration.",
+    "replace": "No. Since a 2010 amendment to Section 5(3), the Controller can decide whether land is thika land and resolve a dispute between an owner and an alleged thika tenant over tenant status, but a High Court has held its jurisdiction does not extend to adjudicating who actually owns the underlying property as between rival claimants to title. That remains a matter for the ordinary civil court.",
+    "reason": "The FAQ as written suggests the Controller's role is confined to 'thika tenant status and registration' without noting the 2010 expansion, which could understate what the Controller can now decide."
+   }
+  ]
  }
 ]
