@@ -1,0 +1,101 @@
+{
+  "slug": "fssai-compounding-offences-guide",
+  "title": "Compounding an FSSAI Offence: When You Can Pay and Close the Case",
+  "meta_description": "When an FSSAI offence can be compounded under Section 69, who decides it, the cap on the amount, and when adjudication or prosecution is the only route.",
+  "practice_area": "Food Safety & FSSAI",
+  "intro": [
+    "A food business that gets a notice from a Food Safety Officer often wants to know one thing first: can this be closed by paying a fine, or is it headed for a magistrate's court. The Food Safety and Standards Act, 2006 gives a real answer to that question, but it is narrower than most operators assume. Section 69 lets certain offences be compounded, meaning the case ends once a fixed sum is paid, but the section only reaches a defined category of small operators and only where the offence does not carry a term of imprisonment.",
+    "This guide sets out, as on today's date, what compounding under the FSS Act actually covers, who can authorise it, what it cannot touch, and what happens instead when compounding is not available. It also looks at a 2026 Bombay High Court ruling on a related food safety prosecution, because the procedural lapses that case turned on are exactly the kind that come up before anyone gets to the compounding question at all."
+  ],
+  "sections": [
+    {
+      "heading": "What compounding actually means here",
+      "paragraphs": [
+        "Compounding is not a discount on a penalty already imposed. It is a separate track that avoids the penalty and prosecution process altogether: the offender applies to compound the offence, the competent officer accepts a fixed sum, and the proceedings for that specific offence end there. Section 69 of the FSS Act places this power with the Commissioner of Food Safety of the State, who may by order empower a Designated Officer to accept the compounding sum directly from the operator, rather than every compounding request having to travel up to the Commissioner personally.",
+        "The structure matters because it tells you compounding is consent-based and officer-authorised, not something the department can impose on an unwilling operator by issuing a notice and calling it compounded. Where that distinction has been tested, Kerala's High Court has had occasion to examine whether a compounding demand can be sent without first giving the operator a hearing, precisely because the Act frames compounding as something the offender applies for, not something served on them (Vyasakh Unnikrishnan Sree Devi v. State of Kerala). If a food business operator gets what is styled as a compounding notice, the first question is whether an application for compounding was ever made in the first place."
+      ]
+    },
+    {
+      "heading": "Who Section 69 actually covers",
+      "paragraphs": [
+        "The provision is written for a specific tier of operator: a petty manufacturer who himself manufactures and sells an article of food, a retailer, a hawker, an itinerant vendor, or a temporary stall holder. These are the small, often informal, end of the food business spectrum, which is also the end most exposed to a Food Safety Officer's routine inspection and sampling drive. A registered restaurant chain, a licensed manufacturer running a factory, or an importer is not the target population Section 69 was written for, even though the section's language does not expressly rule every larger operator out in every state.",
+        "The amount that can be compounded is capped: the sum fixed must not exceed one lakh rupees. That ceiling is not a suggestion a Designated Officer can round up when the facts look bad; it is the statutory limit, and anything beyond it has to go through adjudication instead. Operators sometimes assume compounding is available at the Commissioner's discretion regardless of amount; it is not, and a compounding order purporting to exceed the cap is vulnerable to challenge on that ground alone."
+      ]
+    },
+    {
+      "heading": "What can never be compounded",
+      "paragraphs": [
+        "Section 69 carries a proviso that does the real work in practice: no offence for which the Act prescribes a punishment of imprisonment can be compounded. The FSS Act's offence structure escalates by the nature and consequence of the contravention, and the categories that attract a custodial sentence, including the more serious unsafe-food offences, sit outside the compounding gate entirely, whatever the operator is willing to pay.",
+        "This is where a lot of the anxiety around an FSSAI notice actually belongs. An operator who has received a notice over a labelling gap or a minor standards shortfall is usually looking at a penalty-only contravention where compounding, or at worst adjudication, is the real exposure. An operator notified over an 'unsafe' finding, as opposed to merely 'substandard' or mislabelled, is in a different category where imprisonment is on the statute book for the offence, and no compounding application changes that. Reading the notice carefully, and matching the specific contravention alleged to the right provision of the Act, decides which track the case is actually on before anyone talks about paying to close it."
+      ]
+    },
+    {
+      "heading": "If compounding is not on the table: adjudication under Section 68",
+      "paragraphs": [
+        "Where compounding does not apply, whether because the operator falls outside Section 69's category of small operators, the amount involved exceeds the cap, or the offence is not one that is capable of being compounded, the case moves to adjudication under Section 68. An Adjudicating Officer notified by the State Government, holding the rank the Act and rules prescribe for that role, hears the matter and decides the penalty.",
+        "Section 68(2) builds in a real procedural step: before any penalty is imposed, the person proceeded against is entitled to a reasonable opportunity of making a representation. This is not a formality to be waved through. An operator who is not given that opportunity, or who is given it in a way that does not allow a genuine response, has a procedural ground to challenge whatever penalty follows, independent of the merits of the underlying food safety allegation. Adjudication also differs from compounding in one practical respect operators often miss: an adjudicated penalty is a finding against the operator on the merits, while a compounded offence simply closes the matter without that finding."
+      ]
+    },
+    {
+      "heading": "Appeals, and what the Britannia Dairy ruling adds",
+      "paragraphs": [
+        "An order of the Adjudicating Officer under Section 68 is appealable to the Food Safety Appellate Tribunal under Section 70. That is the forum built specifically for FSS Act penalty disputes, and an operator who skips it to go straight to a writ petition against the adjudication order will usually be asked why the statutory appeal was not used first.",
+        "A separate but closely related point came up in September 2026, when the Bombay High Court quashed a criminal prosecution against Britannia Dairy over an unsafe-food allegation concerning cheese cubes. The court's reasoning did not turn on compounding or adjudication at all; it turned on the department's own process. The notice to the company was issued only after the product's shelf life had already run out, which cost Britannia the statutory opportunity to have the sample retested, and the magistrate's order taking cognisance was criticised for being issued without any real application of mind to these defects. The case is a reminder that long before anyone reaches the question of compounding a penalty, the department's own notice, sampling and retest procedure has to hold up, and a defect there can end the case outright rather than merely reduce the fine."
+      ]
+    },
+    {
+      "heading": "What operators get wrong in practice",
+      "paragraphs": [
+        "The most common mistake is treating every FSSAI notice as a compoundable matter and offering to pay before checking whether the offence is even in Section 69's category. The second is the opposite error: assuming nothing can be done because the words 'unsafe' or 'prosecution' appear in a notice, without checking whether the specific contravention cited actually attracts imprisonment or is in truth a lesser, penalty-only finding mislabelled by the field officer.",
+        "A third, and increasingly relevant, mistake is ignoring the timeline on which the department itself acted. If a sample was tested well after it should have been, if the retest right under the Act's own procedure was never offered, or if the notice came so late that a meaningful response was no longer possible, that is a ground to contest the proceeding on its own footing, as the Britannia Dairy ruling shows, rather than negotiating straight to a compounding figure. None of this is a substitute for getting specific legal advice on the notice actually received, since the right response depends entirely on which provision the department has invoked."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can any food business compound an FSSAI offence to avoid prosecution?",
+      "a": "No. Section 69 reaches a defined category of small operators, mainly petty manufacturers, retailers, hawkers, itinerant vendors and temporary stall holders, and only for offences that do not carry imprisonment and where the sum involved does not exceed one lakh rupees. A larger licensed manufacturer facing a serious allegation is usually outside this route."
+    },
+    {
+      "q": "Who decides whether my case can be compounded?",
+      "a": "The Commissioner of Food Safety of the State holds this power under Section 69 and may authorise a Designated Officer to accept the compounding sum directly. Compounding is meant to follow an application by the offender, not a unilateral demand, so check whether that application step actually happened."
+    },
+    {
+      "q": "Does paying a compounding amount mean I admitted guilt?",
+      "a": "Compounding ends the proceedings for that offence without the kind of formal finding an adjudication order makes. It is closer to closing the matter by agreement than to a conviction, but it still means the specific contravention is not contested further, so weigh that before applying."
+    },
+    {
+      "q": "What happens if my case cannot be compounded?",
+      "a": "It proceeds to adjudication under Section 68 before an Adjudicating Officer, who must give you a reasonable opportunity to make a representation under Section 68(2) before deciding any penalty. That order can then be appealed to the Food Safety Appellate Tribunal under Section 70."
+    },
+    {
+      "q": "Can a compounding or penalty notice be challenged on procedural grounds alone?",
+      "a": "Yes. Courts have scrutinised whether the department followed its own notice and retest procedure before relying on a sample result, as the Bombay High Court did in the 2026 Britannia Dairy ruling. A defect in that process can get a prosecution quashed regardless of what the sample eventually showed."
+    }
+  ],
+  "references": [
+    "Food Safety and Standards Act, 2006, Section 69, on the power to compound offences, the categories of operator it covers and the one lakh rupee cap",
+    "Food Safety and Standards Act, 2006, Section 69, proviso, excluding offences punishable with imprisonment from compounding",
+    "Food Safety and Standards Act, 2006, Section 68(1) and 68(2), on adjudication and the opportunity of representation before a penalty is imposed",
+    "Food Safety and Standards Act, 2006, Section 70, on appeal to the Food Safety Appellate Tribunal",
+    "Vyasakh Unnikrishnan Sree Devi v. State of Kerala, Kerala High Court, on whether a compounding demand can be issued without an application by the offender",
+    "Britannia Dairy Private Limited v. State of Maharashtra, Bombay High Court, September 2026, quashing an unsafe-food prosecution for denial of the retest opportunity and a delayed notice"
+  ],
+  "sources": [
+    "https://www.advocatekhoj.com/library/bareacts/foodsafety/69.php",
+    "https://judgments.vakilsearch.com/vyasakh-unnikrishnan-sree-devi-vs-state-kerala/63215f840cd68c613685036b",
+    "https://taxclue.in/blog/compounding-offences-fss-act-section-69",
+    "https://righttoinformation.wiki/fssai-penalty-adjudicating-officer-appellate-tribunal-appeal",
+    "https://www.livelaw.in/high-court/bombay-high-court/food-safety-case-britannia-dairy-550649",
+    "https://blog.primelegal.in/bombay-hc-fss-act-prosecution-quashed-britannia/"
+  ],
+  "verification_notes": [
+    "Section 69's core structure, that the Commissioner of Food Safety may empower a Designated Officer to accept a compounding sum from petty manufacturers, retailers, hawkers, itinerant vendors and temporary stall holders, and that the sum cannot exceed one lakh rupees: confirmed from the advocatekhoj.com bare act text and independently from the taxclue.in commentary describing the same categories and the same cap.",
+    "The proviso that no offence punishable with imprisonment can be compounded under Section 69: confirmed from the same two sources, both stating the exclusion in near-identical terms.",
+    "Section 68(1) adjudication by a notified Adjudicating Officer and Section 68(2)'s requirement of a reasonable opportunity of representation before a penalty: confirmed from the advocatekhoj.com bare act text and from righttoinformation.wiki's separate summary of the adjudication-to-appeal chain.",
+    "Section 70 appeal from an Adjudicating Officer's order to the Food Safety Appellate Tribunal: confirmed from righttoinformation.wiki and from a second, independent summary (tilakmarg.com) of the same chapter of the Act.",
+    "The Kerala High Court's Vyasakh Unnikrishnan Sree Devi case and its argument that compounding requires an application by the offender rather than a unilateral notice: this is reported from a single available source (the case excerpt on vakilsearch.com); the final operative order was not available in the search results, so this guide describes the argument raised and the statutory structure it rests on rather than asserting a confirmed final holding.",
+    "The Bombay High Court's 2026 ruling quashing the Britannia Dairy prosecution over a delayed notice and denial of the retest right: confirmed from three independent reports (LiveLaw, Prime Legal and a third aggregator), consistent on the court, the ground of the ruling and the outcome. The exact neutral citation varies slightly between aggregators, so this guide does not state a single citation number as definitive.",
+    "The minimum official ranks for the Designated Officer and the Commissioner of Food Safety under the FSS Rules, 2011, were mentioned in only one clearly sourced result and could not be independently corroborated in this search, so this guide refers to them only as ranks fixed by the notified rules without stating the specific designations as confirmed fact."
+  ]
+}
