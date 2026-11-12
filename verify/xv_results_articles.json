@@ -766,5 +766,24 @@
       "https://future.indiankanoon.org/doc/112489183/"
     ],
     "note": "Independently re-verified the load-bearing claims: Saroj v. IFFCO-Tokio General Insurance Co. (2024 INSC 816, decided 24 Oct 2024) and its Aadhaar-is-not-conclusive-proof-of-DOB holding relying on the Shabana v. Govt of NCT of Delhi (24 July 2024) UIDAI statement and UIDAI Circular 08/2023, both confirmed real and correctly described; the Registration of Births and Deaths (Amendment) Act, 2023 (Act No. 20 of 2023), Gazetted 11 Aug 2023, in force 1 Oct 2023, making the birth certificate the single proof of DOB for persons born after that date, confirmed; Section 15 RBD Act correction-by-marginal-note procedure and District Registrar approval for substantial corrections, consistent with secondary reporting; Specific Relief Act s.34 date-of-birth declaration suits confirmed as a genuinely unsettled/split question across courts, matching the draft's hedged framing; Jamnabai v. Vasudev (2026 INSC 900 / 2026 LiveLaw (SC) 843, 20 Aug 2026) confirmed as a real, very recent Supreme Court ruling that a mutation entry does not confer or extinguish title, matching the draft's citation; UIDAI's in-person requirement for Aadhaar DOB corrections and the PAN correction route via Protean/UTIITSL both corroborated across multiple independent consumer-finance and government-process sources. No factual errors found."
+  },
+  {
+    "file": "_drafts/articles/41-dayabhaga-succession-west-bengal-bengali-hindu-families-article.json",
+    "verdict": "FIX",
+    "claims_checked": 15,
+    "evidence": [
+      "https://www.barandbench.com/view-point/omission-of-section-213-of-the-indian-succession-act-1925-seeking-probate-of-will-is-no-longer-mandatory",
+      "https://www.casemine.com/in/column/re-casting-coparcenary:-a-critical-analysis-of-the-hindu-succession-(amendment)-act,-2005/view",
+      "https://www.legitquest.com/case/bhimabai-mahadeo-kambekar-dead-thr-lrs-v-arthur-import-export-co/10A1AE",
+      "https://www.livelaw.in/amp/law-firms/litigation/calcutta-high-court-wblrtt-cannot-be-bypassed-merely-by-alleging-wrongful-assumption-of-jurisdiction-under-thika-tenancy-act-536357"
+    ],
+    "note": "The central Dayabhaga versus Mitakshara analysis, the 2005 amendment limited effect on Dayabhaga coparcenary property, the omission of ISA s.213 by the Repealing and Amending Act 2025 effective 20 December 2025, both case citations, the Thika Controller versus civil court jurisdiction split, the mutation-entry holding, and all four related_pages paths were independently confirmed across multiple sources. One statutory claim was stale: the draft described Section 370 of the Indian Succession Act as still barring succession certificates by reference to Section 213, but the Repealing and Amending Act, 2025 also amended Section 370 itself, which the draft verification_notes did not flag. No Bar Council Rule 36 marketing or client-result language was found in the draft.",
+    "fixes": [
+      {
+        "find": "Section 370 bars a succession certificate from being granted in respect of any debt or security to which Sections 212 or 213 applies, broadly, property for which probate or letters of administration are the correct route instead.",
+        "replace": "Section 370, as it stood before the 2025 reform, barred a succession certificate from being granted in respect of any debt or security to which Sections 212 or 213 applied. The Repealing and Amending Act, 2025 also amended Section 370 itself as a consequential change, removing its cross-reference to the now-omitted Section 213, so the bar as it currently reads should be checked against the amended statutory text rather than assumed to still name Section 213.",
+        "reason": "Independent sources confirm Section 370 was itself consequentially amended to drop its reference to Section 213 when that section was omitted; the draft presents the pre-amendment wording of Section 370 as still current law."
+      }
+    ]
   }
 ]
