@@ -3597,5 +3597,33 @@
       "https://supremetoday.ai/allahabad-high-court-rules-noida-cannot-reject-applications-for-documents-not-required-by-original-brochure-20261026035"
     ],
     "note": "Writ number, bench, applicant's background, 2006 application date and scheme, Form-32 ground and the brochure not requiring it, the 'rules of the game' holding, and the direction to allot at 2006 rates (with an alternative plot if unavailable) all confirmed by independent sources. The draft's own caveats (precise pronouncement date, single-source fallback-relief detail) remain appropriately flagged. Not found on live site."
+  },
+  {
+    "file": "_drafts/batch13/news/13-sc-stays-award-arbitrator-appointed-calcutta-hc-judge.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.livelaw.in/top-stories/can-arbitrator-sign-award-after-warrant-of-appointment-as-high-court-judge-supreme-court-to-decide-557487",
+      "https://www.livelawbiz.com/arbitration/supreme-court/can-arbitrator-publish-award-after-president-signs-warrant-appointing-him-high-court-judge-supreme-court-to-examine-557594",
+      "https://www.livelawbiz.com/pdf_upload/2026/11/06/61827202663675702order30-oct-2026-710219.pdf"
+    ],
+    "note": "Stay date, bench, notice returnable date, petitioner, underlying Calcutta HC judgment, arbitrator's name, mandate expiry, warrant notification and award publication dates all confirmed. The respondent, which the draft said was unnamed in available reports, is identifiable as The Hooghly Mills Company Limited (confirmed both from the SC's own cause-list/order record and from the Calcutta HC's AP-COM/607/2026 petition, which Hooghly Mills filed under Section 29A(4)). The SLP also has a number: Petition(s) for Special Leave to Appeal (C) No. 37221/2026.",
+    "fixes": [
+      {
+        "find": "Acumen (J) Marketing Private Limited v. Respondent not named in available reports",
+        "replace": "Acumen (J) Marketing Private Limited v. The Hooghly Mills Company Limited",
+        "reason": "The Supreme Court's own cause-list record and the underlying Calcutta High Court petition (filed by Hooghly Mills under Section 29A(4)) identify the respondent as The Hooghly Mills Company Limited."
+      },
+      {
+        "find": "SLP arising from AP-COM No. 607/2026 (Calcutta High Court)",
+        "replace": "Special Leave to Appeal (C) No. 37221/2026, arising from AP-COM No. 607/2026 (Calcutta High Court)",
+        "reason": "The Supreme Court's own order record gives the SLP number as Petition(s) for Special Leave to Appeal (C) No. 37221/2026."
+      },
+      {
+        "find": "The respondent's name was not given in any report reviewed and is therefore left unstated rather than guessed.",
+        "replace": "The respondent is The Hooghly Mills Company Limited, confirmed against the Supreme Court's own cause-list/order record and the underlying Calcutta High Court AP-COM/607/2026 petition that Hooghly Mills filed.",
+        "reason": "Updates the verification notes to reflect the now-confirmed respondent."
+      }
+    ]
   }
 ]
