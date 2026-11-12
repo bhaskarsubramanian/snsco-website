@@ -2769,5 +2769,65 @@
       "https://www.dtnext.in/news/business/rbi-extends-deadline-for-locker-agreements-renewal-till-dec-31"
     ],
     "note": "RBI's August 2021 circular (RBI/2021-22/86) and its 100x-annual-rent cap for fire/theft/burglary/robbery/building collapse/staff fraud, Amitabha Dasgupta v United Bank of India (Civil Appeal No. 3966 of 2010, decided 19 Feb 2021, Rs 5 lakh compensation, direction to RBI), the roughly 15-day nominee-release timeline without requiring a succession certificate, and the phased 2023 renewal rollout (confirmed as 50% by 30 June 2023, 100% by 31 December 2023, matching the draft's 'by mid-year' and 'by the end of that year') are all independently confirmed."
+  },
+  {
+    "file": "_drafts/batch13/blog/01-wb-premises-tenancy-act-1997-eviction-fair-rent-kolkata-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.livelaw.in/amp/supreme-court/wb-premises-tenancy-act-tenant-not-protected-from-eviction-if-admitted-rent-not-deposited-within-time-as-per-s7-supreme-court-301105",
+      "https://www.supremecourtcases.com/monoj-lal-seal-and-others-v-octavious-tea-and-industries-ltd/amp/",
+      "https://www.indiacode.nic.in/bitstream/123456789/14542/1/1997-37.pdf",
+      "https://www.casemine.com/act/in/5a979e024a93263ca60b77ce"
+    ],
+    "note": "Sections 6/7/17-19 of the 1997 Act, the Section 7(2) three-part test, Monoj Lal Seal v. Octavious Tea and Industries (2015, Section 7(1) deposit compliance), the current (post-2003) 15-day Section 106 TPA notice period for a monthly tenancy, and the second-appeal-confined-to-law point are all independently confirmed. The guide's own hedge on the 2002 Section 17(4A) amendment's exact current scope matches an unresolved point in the case law (Pallawi Resources), so that caution is appropriate rather than a defect."
+  },
+  {
+    "file": "_drafts/batch13/blog/02-kolkata-property-mutation-kmc-banglarbhumi-record-of-rights-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.latestlaws.com/bare-acts/state-acts-rules/west-bengal-state-laws/kolkata-municipal-corporation-act-1980/",
+      "https://indiankanoon.org/doc/162846886/",
+      "https://www.legalauthority.in/judgement/suraj-bhan-vs-financial-commnr-16005",
+      "https://www.verdictum.in/court-updates/supreme-court/2025-insc-1485-tarachandra-v-bhawarlal-1601956"
+    ],
+    "note": "Suraj Bhan (2007) 6 SCC 186 and Tarachandra v. Bhawarlal (2025 INSC 1485) are both confirmed, as is the general Section 50/51A and Section 180 framework. But the guide overstates certainty on Section 183(5): Calcutta High Court decisions are genuinely split, not reconciled. Aniruddha Basu v. KMC (2005) holds the Corporation cannot withhold mutation for non-payment of arrears at all, while Rashmay Das v. KMC (2012) and later decisions hold the Corporation can refuse mutation where arrears attributable to the transferor/predecessor remain unpaid; a 1996 amendment to the proviso adds further uncertainty about which reading currently governs. The guide's 'sitting side by side rather than contradicting each other' framing presents this as settled when it is not; the practical advice to clear arrears before applying is still sound regardless.",
+    "fixes": [
+      {
+        "find": "Courts have read these as sitting side by side rather than contradicting each other: non-payment alone does not justify refusal, but the Corporation is not disabled from declining mutation where genuine arrears stand unpaid.",
+        "replace": "Calcutta High Court rulings on this point are not uniform: some hold the Corporation cannot withhold mutation for non-payment of arrears at all, while others hold the Corporation can still refuse mutation where arrears attributable to the transferor or a predecessor-in-interest remain unpaid.",
+        "reason": "Case law is genuinely split (e.g. Aniruddha Basu v. KMC, 2005 vs Rashmay Das v. KMC, 2012), not a reconciled, side-by-side reading as the draft states."
+      },
+      {
+        "find": "The Corporation cannot refuse mutation purely because dues are outstanding, under the specific bar in Section 183, but it is not barred from declining mutation where arrears genuinely exist and remain unpaid.",
+        "replace": "Calcutta High Court decisions are divided on this: some hold the Corporation cannot refuse mutation purely for outstanding dues, while others hold it can still refuse where arrears genuinely exist and remain unpaid.",
+        "reason": "Matches the correction above; the FAQ answer repeats the overstated certainty about a settled, non-contradictory position."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/batch13/blog/03-wbrera-complaint-flat-delay-kolkata-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/sec-40-rera-homebuyers-entitled-to-recover-amount-invested-along-interest-as-land-arrears-from-builder-supreme-court-185482",
+      "https://www.livelawbiz.com/amp/top-stories/rera-regulatory-authority-has-exclusive-jurisdiction-to-direct-refund-to-allottee-adjudicating-officer-has-power-to-determine-compensation-supreme-court-185447",
+      "https://www.livelaw.in/amp/columns/supreme-court-forum-for-peoples-collective-efforts-state-of-west-bengal-174409",
+      "https://www.indiatvnews.com/news/india/sc-strikes-down-wb-law-on-regulating-real-estate-holds-it-unconstitutional-702347"
+    ],
+    "note": "Newtech Promoters v. State of UP (11 Nov 2021, Sections 18/40 harmonised so refunds are recoverable as arrears of land revenue, retroactivity, delegation, pre-deposit holdings) and Forum for People's Collective Efforts v. State of West Bengal (4 May 2021, WB-HIRA 2017 struck down as repugnant to central RERA) are both independently confirmed. The guide's own hedges (no specific interest-rate margin stated, the later refund-vs-compensation case left uncited) are appropriately cautious given genuinely unresolved secondary-source detail."
+  },
+  {
+    "file": "_drafts/batch13/blog/04-noida-authority-gnida-lease-transfer-freehold-conversion-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.squareyards.com/blog/leasehold-vs-freehold-noida-ghaziabad",
+      "https://proptiger.com/guide/post/noida-authority-may-allow-freehold-properties-soon-floor-wise-registry-also-proposed",
+      "https://housiey.com/blogs/up-government-upholds-noida-authoritys-cancellation-of-idle-it-plots",
+      "https://www.constructionworld.in/policy-updates-and-economic-news/upsida-to-cancel-delayed-lease-allotments/64914"
+    ],
+    "note": "Independently confirms the 99-year leasehold structure, that only an in-principle 2018 approval for leasehold-to-freehold conversion exists with no general scheme in force as of the most recent (2025) reporting found, and the 2022 Amendment Act's automatic-cancellation-with-notice mechanism for unutilised allotments. The guide's own hedging on each of these points matches what independent search found, so no correction is needed."
   }
 ]
