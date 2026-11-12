@@ -1339,7 +1339,7 @@
   "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
   "fixes": [
    {
-    "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
+    "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
     "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
     "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
    }
@@ -2934,5 +2934,118 @@
    "https://www.apnilaw.com/bare-act/bsa/section-60-bharatiya-sakshya-adhiniyam-bsa-cases-in-which-secondary-evidence-relating-to-documents-maybe-given"
   ],
   "note": "Section 57 Registration Act certified-copy mechanism and BSA secondary-evidence treatment of lost originals both confirmed; the draft correctly avoids naming an unverified specific BSA section number."
+ },
+ {
+  "file": "_drafts/batch13/blog/13-iepf-unclaimed-shares-dividends-refund-iepf-5-nri-legal-heirs-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://thc.nic.in/Central Governmental Rules/Investor Education and Protection Fund Authority (Accounting, Audit, Transfer and Refund) Rules, 2016.pdf",
+   "https://taxguru.in/corporate-law/steps-iepf-refund.html",
+   "https://ca2013.com/rule-7-investor-education-and-protection-fund-authority-accounting-audit-transfer-and-refund-rules-2016/",
+   "https://blog.ipleaders.in/section-447-of-companies-act-2013/"
+  ],
+  "note": "Sections 124(5)/124(6), 125, Rule 7 of the 2016 Rules and the demat-only refund mechanism for shares all confirmed by fresh searches. The Section 447 link to a false IEPF claim rests on general application of the Act's fraud provision rather than an IEPF-specific holding, which the draft's own verification notes already flag honestly, so no correction needed."
+ },
+ {
+  "file": "_drafts/batch13/blog/14-co-owner-sells-jointly-owned-property-remedies-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://future.indiankanoon.org/doc/1822024",
+   "https://www.legalauthority.in/judgement/dorab-cawasji-warden-vs-coomi-sorab-warden-ors-29373",
+   "https://www.legalauthority.in/judgement/gautam-paul-vs-debi-rani-paul-22068",
+   "https://ca2013.com/rule-7-investor-education-and-protection-fund-authority-accounting-audit-transfer-and-refund-rules-2016/"
+  ],
+  "note": "Section 44 TPA's dwelling-house exception, Dorab Cawasji Warden v. Coomi Sorab Warden (AIR 1990 SC 867) and Gautam Paul v. Debi Rani Paul ((2000) 8 SCC 330) all confirmed independently, including case citations, bench and holdings matching the draft exactly."
+ },
+ {
+  "file": "_drafts/batch13/blog/15-directors-personal-liability-companies-act-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/merely-attending-board-meetings-doesnt-impose-financial-liability-on-director-2025-insc-315-ks-mehta-v-morgan-securities-and-credits-pvt-ltd-1570214",
+   "https://www.verdictum.in/court-updates/supreme-court/hdfc-bank-limited-v-state-of-maharashtra-2025-insc-759-section-141-ni-act-1578413",
+   "https://www.taxmann.com/post/blog/independent-director-not-liable-u-s-141-as-he-neither-signed-nor-authorized-dishonored-cheques-nor-managed-finances",
+   "https://www.livelaw.in/amp/supreme-court/s-141-ni-act-non-executive-independent-company-directors-not-liable-for-cheques-dishonour-unless-their-direct-involvement-shown-supreme-court-285674"
+  ],
+  "note": "All three 2025 Supreme Court rulings (K.S. Mehta 2025 INSC 315, HDFC Bank v. State of Maharashtra 2025 INSC 759, Kamalkishor Shrigopal Taparia v. India Ener-Gen 2025 INSC 223) confirmed with matching holdings. Sections 2(60), 339, 149(12) are standard, correctly stated."
+ },
+ {
+  "file": "_drafts/batch13/blog/16-fssai-compounding-offences-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.advocatekhoj.com/library/bareacts/foodsafety/69.php",
+   "https://supremetoday.ai/bombay-high-court-quashes-criminal-case-against-britannia-dairy-over-delayed-fss-notice-20260914050",
+   "https://blog.primelegal.in/bombay-hc-fss-act-prosecution-quashed-britannia/",
+   "https://www.livelaw.in/high-court/bombay-high-court/food-safety-case-britannia-dairy-550649"
+  ],
+  "note": "Section 69 structure (petty operators, one lakh cap, imprisonment-offence proviso), Section 68 adjudication/representation requirement, Section 70 appeal route, and the September 2026 Britannia Dairy ruling (delayed notice, lost retest right) all confirmed."
+ },
+ {
+  "file": "_drafts/batch13/blog/17-mining-lease-transfer-assignment-mmdr-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://courtbook.in/mines-and-minerals-development-and-regulation-act-1957/section-12A",
+   "https://lawsathi.in/judgements/sc/2016/state-rajasthan-gotan-lime-stone-khanji-udyog-pvt-ltd-anr/",
+   "https://lawyerenews.com/legal_detail/assignment-of-mining-lease-without-states-prior-consent-is-void-and-unenforceable-madras-high-court",
+   "https://www.iflr.com/article/2gjw2n5ocpr2orkj9qxbw/iflr1000/new-law-to-spur-indian-mining-m-a"
+  ],
+  "note": "Section 12A's structure (previous approval, 90-day deemed approval, eligibility-only refusal with written reasons), the 2021 amendment removing the captive end-use limit, Gotan Lime Stone (2016 INSC 71) and the SAIL Refractory Madras HC ruling (W.P. 14249/2025, pronounced 9 Jan 2026, reported April 2026) all confirmed."
+ },
+ {
+  "file": "_drafts/batch13/blog/18-landlord-tenant-disputes-arbitrable-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://api.sci.gov.in/supremecourt/2018/26779/26779_2018_32_1501_25180_Judgement_14-Dec-2020.pdf",
+   "https://api.sci.gov.in/supremecourt/2020/4768/4768_2020_31_1502_25082_Judgement_18-Dec-2020.pdf",
+   "https://www.livelaw.in/amp/top-stories/tenancy-matters-rent-transfer-of-property-arbitrable-supreme-court-167596",
+   "https://natlawreview.com/article/are-tenant-landlord-disputes-arbitrable-supreme-court-india-overturns-its-own"
+  ],
+  "note": "Himangni Enterprises (2017), Vidya Drolia v. Durga Trading Corporation (2020, overruling Himangni, rights in personam reasoning, rent-control carve-out) and Suresh Shah v. Hipad Technology (2020, commercial sub-lease) all confirmed precisely as described, including citations and bench composition."
+ },
+ {
+  "file": "_drafts/batch13/blog/19-section-3d-pharma-patent-evergreening-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.nishithdesai.com/Content/document/pdf/ResearchArticles/MIPR_Novartis.pdf",
+   "https://www.livelaw.in/articles/novartis-vymada-patent-revocation-and-patent-act-analysis-310086",
+   "https://spicyip.com/2025/10/novartiss-heartache-over-entresto-an-analysis-of-the-controllers-patent-revocation-decision.html",
+   "https://spicyip.com/2025/09/strategic-delay-backfires-how-novartis-lost-its-cross-examination-rights.html"
+  ],
+  "note": "Section 3(d), Novartis v. Union of India (2013) therapeutic-efficacy holding, the Natco v. Novartis eltrombopag Division Bench ruling, the Zeria 2025 intermediate-compound ruling, and the Vymada revocation sequence (Opposition Board March/July 2025, Controller revocation 12 Sept 2025, Delhi HC cross-examination refusal 16 Sept 2025) all confirmed. Note the Vymada revocation order also rested on lack of novelty/inventive step and insufficiency of disclosure (Section 25(2)) alongside the Section 3(d)-type efficacy finding the draft highlights; the draft does not claim it was the sole ground, so this is not treated as an error."
+ },
+ {
+  "file": "_drafts/batch13/blog/20-compulsory-licensing-patents-india-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.business-standard.com/article/companies/hc-upholds-natco-s-plea-on-cancer-drug-nexavar-114071600123_1.html",
+   "https://ssrana.in/articles/bombay-high-court-dismisses-bayers-plea-indias-first-compulsory-licence-continues-as-ipabs-decision-upheld-by-the-court/",
+   "https://lakshmisri.com/insights/articles/compulsory-license-high-court-upholds-ipab-order",
+   "https://www.downtoearth.org.in/news/sc-rejects-bayers-appeal-against-compulsory-licence-for-nexavar--47850"
+  ],
+  "note": "Section 84 grounds/timing, the 9 March 2012 Controller grant with 6% royalty, IPAB's March 2013 dismissal, and the Supreme Court declining Bayer's SLP (December 2014) are all confirmed. But the Bombay High Court's ruling upholding the IPAB order was delivered 15 July 2014 (reported 16 July 2014), not August 2014 as the draft states in three places.",
+  "fixes": [
+   {
+    "find": "Bayer then challenged that order before the Bombay High Court, which in August 2014 again upheld the grant",
+    "replace": "Bayer then challenged that order before the Bombay High Court, which in July 2014 again upheld the grant",
+    "reason": "The Bombay High Court's ruling was delivered on 15 July 2014, not August 2014."
+   },
+   {
+    "find": "Bayer Corporation v. Union of India, Bombay High Court, August 2014, upholding the IPAB's order",
+    "replace": "Bayer Corporation v. Union of India, Bombay High Court, July 2014, upholding the IPAB's order",
+    "reason": "The Bombay High Court's ruling was delivered on 15 July 2014, not August 2014."
+   },
+   {
+    "find": "the Bombay High Court's August 2014 ruling upholding the IPAB order",
+    "replace": "the Bombay High Court's July 2014 ruling upholding the IPAB order",
+    "reason": "The Bombay High Court's ruling was delivered on 15 July 2014, not August 2014."
+   }
+  ]
  }
 ]
