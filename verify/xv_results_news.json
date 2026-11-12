@@ -3625,5 +3625,22 @@
         "reason": "Updates the verification notes to reflect the now-confirmed respondent."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch13/news/14-delhi-hc-mcd-anm-regularisation-unfair-labour-practice.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://delhihighcourt.nic.in/app/showFileJudgment/MKO30102026CW61282017_223014.pdf",
+      "https://advocategandhi.com/delhi-high-court-upholds-retrospective-regularisation-of-contractual-anms-after-10-16-years-of-service-holds-prolonged-contractual-employment-against-sanctioned-posts-to-be-unfair-labour-prac/"
+    ],
+    "note": "Decision date, bench, case numbers, 23 ANMs engaged 2001, 13/3/7 split across successor corporations, unfair labour practice finding, and dismissal of both writ petitions all confirmed against the official judgment PDF and the secondary case note. One factual error: the draft's body text names the NDMC-side successor as the 'New Delhi Municipal Council', but independent search confirms the actual post-trifurcation petitioner is the North Delhi Municipal Corporation, a different body from the pre-existing New Delhi Municipal Council (which governs Lutyens' Delhi and was never part of the 2012 MCD trifurcation).",
+    "fixes": [
+      {
+        "find": "thirteen under the New Delhi Municipal Council side of that division, three under the East Delhi Municipal Corporation, and seven under the South Delhi Municipal Corporation",
+        "replace": "thirteen under the North Delhi Municipal Corporation side of that division, three under the East Delhi Municipal Corporation, and seven under the South Delhi Municipal Corporation",
+        "reason": "The 2012 trifurcation of the erstwhile MCD created North, South and East Delhi Municipal Corporations. The New Delhi Municipal Council is a separate, pre-existing body governing Lutyens' Delhi that was not part of this split; the petitioner in W.P.(C) 6128/2017 is the North Delhi Municipal Corporation."
+      }
+    ]
   }
 ]
