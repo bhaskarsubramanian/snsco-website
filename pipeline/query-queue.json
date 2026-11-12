@@ -160,6 +160,56 @@
    "region": "GEN"
   },
   {
+   "id": "delhi-dda-leasehold-freehold-conversion-mutation-guide",
+   "query": "How do I convert a DDA or L&DO leasehold property in Delhi to freehold and get it mutated in my name?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Who is covered, the conversion application and charges as notified (confirm current policy, otherwise say it varies), DDA versus Land and Development Office properties, mutation, sale permission, documents, common objections; informational",
+   "verify": "Delhi Development Act 1957; current DDA and L&DO conversion notifications and policy; official portals; Delhi High Court decisions on conversion and mutation",
+   "priority": "A",
+   "region": "DEL"
+  },
+  {
+   "id": "delhi-mcd-unauthorised-construction-notice-sealing-appeal-guide",
+   "query": "I received an MCD notice for unauthorised construction in Delhi: what are the stages and my remedies?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Delhi Municipal Corporation Act 1957 provisions on notice, hearing, sealing and demolition, appeal to the Appellate Tribunal MCD, writ jurisdiction of the Delhi High Court, regularisation; informational, no advice on defying orders",
+   "verify": "Delhi Municipal Corporation Act 1957 Sec 343, 344, 345A, 347A, 347B; Appellate Tribunal MCD procedure; Delhi High Court and Supreme Court decisions on sealing and demolition",
+   "priority": "A",
+   "region": "DEL"
+  },
+  {
+   "id": "delhi-rera-complaint-flat-delay-refund-interest-guide",
+   "query": "A Delhi builder has not delivered the flat: how do I complain to Delhi RERA and claim refund or interest?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Delhi RERA registration and complaint process, Adjudicating Officer, Sec 18 refund or interest, RERA versus consumer forum (link existing guide), limitation, recovery; confirm current status and rules of the Delhi regulator",
+   "verify": "RERA 2016 Sec 18, 31, 71; Delhi RERA rules and notifications; Newtech Promoters (2021) SC",
+   "priority": "A",
+   "region": "DEL"
+  },
+  {
+   "id": "delhi-family-courts-where-to-file-divorce-maintenance-custody-guide",
+   "query": "Which family court in Delhi can hear my divorce, maintenance or custody case?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Territorial jurisdiction by district (which family court complexes serve which area), Hindu Marriage Act Sec 19, residence tests, transfer of cases, mediation referral; link existing divorce and maintenance guides and the Gautam Buddha Nagar guide",
+   "verify": "Family Courts Act 1984; Hindu Marriage Act Sec 19; CPC Sec 24; Delhi district court notifications on territorial jurisdiction",
+   "priority": "A",
+   "region": "DEL"
+  },
+  {
+   "id": "delhi-high-court-original-side-pecuniary-jurisdiction-where-to-sue-guide",
+   "query": "When can a civil or commercial suit be filed in the Delhi High Court instead of the district court?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Delhi High Court original jurisdiction after the 2015 amendment, current pecuniary limit as notified (confirm), commercial division and district commercial courts, Sec 12A pre-institution mediation, how value of the suit is fixed, transfer",
+   "verify": "Delhi High Court (Amendment) Act 2015; Commercial Courts Act 2015 Sec 2(1)(c), 3, 12A; Delhi High Court Rules; Supreme Court on Sec 12A",
+   "priority": "A",
+   "region": "DEL"
+  },
+  {
    "id": "ancestral-property-sale-without-consent-coparceners-guide",
    "query": "Can the karta sell ancestral property without the consent of other family members?",
    "practice_area": "Property & Civil Litigation",

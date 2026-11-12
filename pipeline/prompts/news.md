@@ -19,3 +19,5 @@ STEPS:
 8. At the end print the file count and slug, court, date, practice_area of each new article.
 
 BCI RULE 36 (applies to every draft): purely educational. No call to contact, consult or hire the firm, no 'we can help', no free-consultation or fee wording, no client stories, names, results or success claims, no superlatives ('best', 'top', 'leading') or self-praise, no phone, email or address prompts, no fear or urgency language. Authors may be named with roles only as given in the roster. Scan every draft for solicitation phrasing before committing.
+
+STANDING RULES FROM CLIENT (read origin/pipeline-config:pipeline/batch.json): obey the REGIONAL_FOCUS and STRICT_VERIFICATION fields in batch.json as binding rules for every item. Do not publish; drafts only. BCI Rule 36 applies throughout: no solicitation, no results or experience claims, no client names, no call to contact the firm, no 'lawyers in <city>' framing.
