@@ -1088,5 +1088,40 @@
         "reason": "Adds the missing citation for the Annamalai v. Vasanthi decision relied on in the fixes above."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/56-civil-commercial-litigation-delhi-forum-map-article.json",
+    "verdict": "FIX",
+    "claims_checked": 10,
+    "evidence": [
+      "https://ssrana.in/articles/pecuniary-jurisdiction-of-the-delhi-high-court-raised-to-2-crores/",
+      "https://www.barandbench.com/news/litigation/pre-institution-mediation-under-section-12a-commercial-courts-act-mandatory-supreme-court",
+      "https://www.scconline.com/blog/post/2026/07/13/coordination-committee-on-pecuniary-jurisdiction/",
+      "https://www.livelawbiz.com/amp/high-court/delhi-high-court/delhi-high-court-upholds-validity-section-19-commercial-courts-amendment-act-says-3-lakh-threhold-not-retrospective-552850",
+      "https://www.barandbench.com/news/litigation/delhi-high-court-rules-it-can-execute-commercial-decrees-below-2-crore-if-original-suit-was-within-its-jurisdiction"
+    ],
+    "note": "Core forum-map claims confirmed precisely: Rs 2 crore general threshold (Delhi HC Act s.5(2), effective 26 Oct 2015), Rs 3 lakh commercial threshold (2018 amendment, effective 3 May 2018), Patil Automation v Rakheja Engineers ((2022) 10 SCC 1, decided 17 Aug 2022, mandatory Section 12A, prospective from 20 Aug 2022), the Alpro Industries ruling (30 Sept 2026, Section 19 not retrospective) and Ozone SPA v Co-incept (execution below pecuniary threshold) all match independent reporting exactly, including dates and citations. One point is stale: the draft describes the district court pecuniary ceiling increase as merely 'under active consideration' or 'under discussion,' but by the article's November 2026 as_on_date the Delhi High Court's Full Court had already issued a formal recommendation (Rs 10 crore, reported mid-2026), the DHCBA's challenge to the committee had failed, and a two-day lawyers' strike had occurred in July 2026. Fixes update the key point, the body paragraph, the conclusion and add a supporting citation.",
+    "fixes": [
+      {
+        "find": "Delhi's district courts hear ordinary civil suits up to a pecuniary value of Rs 2 crore, a limit raised from Rs 20 lakh in 2015; suits above that value go to the Delhi High Court's original side, and a further increase to the district ceiling is under active consideration.",
+        "replace": "Delhi's district courts hear ordinary civil suits up to a pecuniary value of Rs 2 crore, a limit raised from Rs 20 lakh in 2015; suits above that value go to the Delhi High Court's original side, and the Delhi High Court's Full Court has since recommended raising the district ceiling to Rs 10 crore, a change not yet notified.",
+        "reason": "By the article's November 2026 as_on_date, the proposal had already moved from discussion to a formal Full Court recommendation of Rs 10 crore (reported mid-2026), so describing it only as 'under active consideration' understates the current status."
+      },
+      {
+        "find": "There has been continuing pressure, including a December 2025 circular constituting a committee of High Court judges, to raise the district courts' pecuniary ceiling substantially, with figures as high as Rs 10 crore or Rs 20 crore reportedly under discussion. As on the date of this article, Rs 2 crore remains the notified figure, but given the pace of this discussion, anyone filing a suit near the threshold should confirm the current notified limit rather than rely on this figure as permanently fixed.",
+        "replace": "This pressure has since moved from discussion to a formal recommendation: the five-judge committee set up by the December 2025 circular reported in mid-2026, and the Delhi High Court's Full Court recommended raising the ceiling to Rs 10 crore, short of the Rs 20 crore some Bar Associations continue to press for. The Delhi High Court Bar Association's challenge to the committee process did not stop it, and advocates struck work for two days in July 2026 over the recommendation. As on the date of this article, Rs 2 crore remains the notified, legally operative figure, since the recommendation still needs a further notification step to take effect, but anyone filing a suit near the threshold should treat a change as likely and confirm the current notified limit before relying on it.",
+        "reason": "Updates the stale 'under discussion' framing to the actual mid-2026 status: a formal Rs 10 crore Full Court recommendation, an unsuccessful DHCBA challenge, and a July 2026 lawyers' strike, all of which predate the article's as_on_date."
+      },
+      {
+        "find": "None of this is static. The pecuniary thresholds have moved before, in 2015 and again in 2018, and a further increase to the district courts' general civil ceiling is actively under discussion as this piece is written. A business or its counsel filing in Delhi should treat the current figures as a starting point to be verified against the latest notification, not as settled numbers that will hold indefinitely.",
+        "replace": "None of this is static. The pecuniary thresholds have moved before, in 2015 and again in 2018, and the Delhi High Court's Full Court has already recommended raising the district courts' general civil ceiling to Rs 10 crore, a mid-2026 recommendation not yet implemented. A business or its counsel filing in Delhi should treat the current figures as a starting point to be verified against the latest notification, not as settled numbers that will hold indefinitely.",
+        "reason": "Consistent with the two corrections above, so the conclusion does not repeat the outdated 'under discussion' framing."
+      },
+      {
+        "find": "    \"LiveLaw, reports on the December 2025 Delhi High Court committee on district court pecuniary jurisdiction and on Supreme Court clarification of Section 12A's prospective application\",",
+        "replace": "    \"LiveLaw, reports on the December 2025 Delhi High Court committee on district court pecuniary jurisdiction and on Supreme Court clarification of Section 12A's prospective application\",\n    \"SCC Online Blog and Bar & Bench, reports on the Delhi High Court Full Court's mid-2026 recommendation to raise district court pecuniary jurisdiction to Rs 10 crore, the unsuccessful DHCBA challenge, and the July 2026 lawyers' strike\",",
+        "reason": "Adds the missing citation supporting the fixes above on the pecuniary jurisdiction increase proposal's current status."
+      }
+    ]
   }
 ]
