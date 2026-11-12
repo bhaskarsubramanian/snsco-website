@@ -60,6 +60,106 @@
    "region": "UP"
   },
   {
+   "id": "company-registered-in-noida-roc-kanpur-nclt-allahabad-jurisdiction-guide",
+   "query": "A company is registered in Noida: which ROC, NCLT bench and High Court have jurisdiction over it?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Registered office and territorial jurisdiction: Registrar of Companies, NCLT bench, High Court; effect of shifting the registered office; where winding up, oppression and insolvency petitions are filed; link existing NCLT guides",
+   "verify": "Companies Act 2013 Sec 2(41), 12, 13 and 60 for NCLT benches; NCLT Rules 2016 on jurisdiction; confirm which ROC and NCLT bench cover Gautam Buddha Nagar from official notifications",
+   "priority": "A",
+   "region": "UP"
+  },
+  {
+   "id": "allahabad-high-court-writ-noida-authority-action-how-to-file-guide",
+   "query": "How do I challenge an action of the Noida Authority or a UP government body before the Allahabad High Court?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Article 226 writ jurisdiction, when a writ lies against an authority, alternative remedy rule, where to file (principal seat or Lucknow bench), limitation and delay, interim relief, appeal; keep informational",
+   "verify": "Constitution Art 226 and 227; Allahabad High Court Rules on filing and territorial jurisdiction; Supreme Court on alternative remedy and delay in writs",
+   "priority": "A",
+   "region": "UP"
+  },
+  {
+   "id": "gautam-buddha-nagar-family-court-jurisdiction-where-to-file-guide",
+   "query": "Where can I file a divorce, maintenance or custody case if I live in Noida or Greater Noida?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Family Courts Act 1984, territorial jurisdiction under Hindu Marriage Act Sec 19, domicile and residence tests, transfer of cases under CPC Sec 24 and Supreme Court transfer powers; link existing divorce and maintenance guides",
+   "verify": "Family Courts Act 1984 Sec 7 and 8; Hindu Marriage Act Sec 19; Code of Civil Procedure Sec 24; Code of Criminal Procedure/BNSS provisions on maintenance jurisdiction; Supreme Court on transfer",
+   "priority": "A",
+   "region": "UP"
+  },
+  {
+   "id": "west-bengal-property-registration-stamp-duty-kolkata-guide",
+   "query": "What is the process and stamp duty for registering a property sale in Kolkata and West Bengal?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Registration Act process, e-registration through the West Bengal registration department, valuation by the State, stamp duty and registration fee heads (confirm current rates, otherwise say they vary), ADSR/DSR offices, documents, common errors; contrast briefly with the existing UP guide",
+   "verify": "Registration Act 1908 Sec 17, 23, 34; Indian Stamp Act 1899 as applied in West Bengal and its Schedule IB; current West Bengal notifications on rates and valuation",
+   "priority": "A",
+   "region": "WB"
+  },
+  {
+   "id": "kolkata-thika-tenancy-act-2001-thika-tenant-rights-guide",
+   "query": "What are the rights of a thika tenant in Kolkata and when can a thika tenancy be ended?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Kolkata Thika and Other Tenancies (Acquisition and Regulation) Act 2001, who is a thika tenant, vesting of the landlord's interest, Controller's powers, compensation, eviction limits, remedies and appeals; link West Bengal tenancy guide",
+   "verify": "Kolkata Thika and Other Tenancies (Acquisition and Regulation) Act 2001 sections on thika tenant, vesting and Controller; Supreme Court and Calcutta HC decisions on the Act; status of earlier 1981 Act",
+   "priority": "A",
+   "region": "WB"
+  },
+  {
+   "id": "hindu-will-probate-mandatory-kolkata-calcutta-high-court-guide",
+   "query": "Is probate compulsory for a Hindu will made in Kolkata, and how is it obtained from the Calcutta High Court?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Hindu Wills Act 1870 and Indian Succession Act Sec 57 and 213 on mandatory probate for wills made in Kolkata and certain other places, petition, citations, caveat, testamentary jurisdiction, court fee, duration, contrast with UP and Delhi practice; link existing wills and succession guides",
+   "verify": "Indian Succession Act 1925 Sec 57, 213, 276, 289; Hindu Wills Act 1870; Calcutta High Court Original Side Rules on probate; Supreme Court on the limits of probate court",
+   "priority": "A",
+   "region": "WB"
+  },
+  {
+   "id": "calcutta-high-court-writ-petition-article-226-how-to-file-guide",
+   "query": "How do I file a writ petition in the Calcutta High Court against a State authority or municipal body?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Article 226 writ jurisdiction, maintainability, alternative remedy, writ tribunals in West Bengal, limitation and delay, filing format, interim orders, appeal to the Division Bench; informational only; do not repeat the Allahabad guide",
+   "verify": "Constitution Art 226 and 227; Calcutta High Court Appellate Side Rules on writ practice; Supreme Court on alternative remedy",
+   "priority": "A",
+   "region": "WB"
+  },
+  {
+   "id": "deceased-parent-bank-account-fd-insurance-claim-legal-heir-nominee-guide",
+   "query": "How do the legal heirs claim a deceased parent's bank account, fixed deposit, insurance and shares in India, including when the heirs live abroad?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Nominee versus legal heir, banking laws and nomination, claim documents, legal heir or succession certificate, small-value claim rules (confirm RBI current rules), insurance and demat transmission, claim from abroad through attorney; link existing succession guides",
+   "verify": "Banking Regulation Act Sec 45ZA to 45ZE; Indian Succession Act Sec 372 and 381; Insurance Act Sec 39; Supreme Court on nominee versus heir; current RBI instructions",
+   "priority": "A",
+   "region": "GEN"
+  },
+  {
+   "id": "lost-original-sale-deed-title-documents-certified-copy-indemnity-guide",
+   "query": "I lost the original sale deed of my property: how do I get a certified copy and protect my title?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Certified copy from the registration office, FIR or police lost-report debate (state practice varies), public notice, indemnity, effect on sale and bank mortgage, duplicate title documents, proof of title without the original; link title due diligence guide",
+   "verify": "Registration Act 1908 Sec 57, 64 and 67 on copies and searches; Indian Evidence Act and BSA provisions on secondary evidence; practice of the registration offices in UP and West Bengal",
+   "priority": "A",
+   "region": "GEN"
+  },
+  {
+   "id": "iepf-unclaimed-shares-dividends-refund-iepf-5-nri-legal-heirs-guide",
+   "query": "How do I claim shares or dividends that were transferred to the Investor Education and Protection Fund, including as an NRI or legal heir?",
+   "practice_area": "Property & Civil Litigation",
+   "format": "blog guide",
+   "angle": "Companies Act Sec 124 and 125, IEPF Rules, Form IEPF-5, documents, role of the company's nodal officer, claim by legal heirs, NRI claim process, timelines, appeals; do not repeat anything live",
+   "verify": "Companies Act 2013 Sec 124 and 125; Investor Education and Protection Fund Authority Rules 2016 and Form IEPF-5; official IEPF portal procedure",
+   "priority": "A",
+   "region": "GEN"
+  },
+  {
    "id": "ancestral-property-sale-without-consent-coparceners-guide",
    "query": "Can the karta sell ancestral property without the consent of other family members?",
    "practice_area": "Property & Civil Litigation",

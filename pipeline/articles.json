@@ -1,5 +1,5 @@
 {
-  "per_run": 2,
+  "per_run": 3,
   "roster": {
     "Bhaskar Subramanian": "Partner, S&S Co. Advocates & Solicitors",
     "Subhradip Roy": "Partner, S&S Co. Advocates & Solicitors",
@@ -10,15 +10,6 @@
     "Deba Prasad Guha": "Food Safety & Regulatory Expert, Advisory Panel, S&S Co. Advocates & Solicitors"
   },
   "queue": [
-    {
-      "id": "AH",
-      "authors": [
-        "Bhaskar Subramanian",
-        "Subhradip Roy"
-      ],
-      "practice_area": "Property & Civil Litigation",
-      "topic": "Succession under the Dayabhaga school as followed in West Bengal and by Bengali Hindu families in Kolkata: how Dayabhaga differs from Mitakshara (no birth right in ancestral property, positions of sons and daughters, joint family property before and after the Hindu Succession Act 1956 and the 2005 amendment), intestate succession in West Bengal, wills and probate before the Calcutta High Court, partition suits, common title problems. Link the existing intestate-succession article and the ancestral-property guide; do not repeat them."
-    },
     {
       "id": "AI",
       "authors": [
@@ -56,13 +47,94 @@
       "topic": "Municipal and building-law remedies in Kolkata: Kolkata Municipal Corporation building plan sanction, unauthorised construction and demolition notices, hearing and appeal under the Kolkata Municipal Corporation Act 1980, Municipal Building Tribunal, writ jurisdiction of the Calcutta High Court against municipal action, neighbours' remedies and typical timelines. State only what can be confirmed from the Act and reported decisions."
     },
     {
-      "id": "AG",
+      "id": "AM",
+      "authors": [
+        "Subhradip Roy",
+        "Adv. Rahul Jangra"
+      ],
+      "practice_area": "Commercial Litigation",
+      "topic": "Arbitration practice in Kolkata: Section 9 interim relief, Section 11 appointment and Section 34 challenge in the Calcutta High Court, commercial division handling, deposit and stay of awards, execution, institutional and ad hoc arbitration with a Kolkata seat. Do not repeat the existing Noida and Delhi seat article; link it."
+    },
+    {
+      "id": "AN",
       "authors": [
         "Bhaskar Subramanian",
         "Souvik Bose"
       ],
+      "practice_area": "NRI Legal Services",
+      "topic": "Litigating in India as an NRI or against a defendant abroad: service of summons on parties abroad (Order 5 CPC, Hague Service route and letters rogatory), evidence on commission, video-conference hearings, appearing through a power of attorney holder and its limits, security for costs, limitation. Link the existing NRI power-of-attorney article; do not repeat it."
+    },
+    {
+      "id": "AO",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Anupam"
+      ],
+      "practice_area": "NRI Legal Services",
+      "topic": "Enforcing Indian court decrees and money judgments in the UK, the USA and Canada: reciprocating territory status, registration routes, common-law enforcement, what Indian decree holders need to prepare, limits. Confirm the position from statutes and reported decisions. Do not repeat the existing article on enforcing foreign decrees in India."
+    },
+    {
+      "id": "AP",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Chandrayee Roy"
+      ],
+      "practice_area": "NRI Legal Services",
+      "topic": "Child custody and cross-border parental disputes involving India and the USA, Canada or the UK: India is not a party to the Hague Child Abduction Convention, welfare principle, habeas corpus in the High Court and Supreme Court, mirror orders, foreign custody orders in Indian courts, travel and passport issues. Link the existing divorce and custody article; do not repeat it."
+    },
+    {
+      "id": "AQ",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Souvik Bose"
+      ],
+      "practice_area": "NRI Legal Services",
+      "topic": "OCI, citizenship and renunciation: effect of acquiring foreign citizenship on Indian passport, surrender certificate, OCI rights and limits, effect on bank accounts, agricultural land, inheritance and voting; the legal position under the Citizenship Act 1955. Link the existing OCI property guide; do not repeat it."
+    },
+    {
+      "id": "AR",
+      "authors": [
+        "Chandrayee Roy",
+        "Adv. Anupam"
+      ],
+      "practice_area": "NRI Legal Services",
+      "topic": "EPF, PPF, gratuity and pension for NRIs and those leaving India: withdrawal rules, inoperative accounts, PPF on change of residency, taxation of interest, transfer abroad, claims by legal heirs. State only what can be confirmed from the schemes and statutes."
+    },
+    {
+      "id": "AS",
+      "authors": [
+        "Adv. Rahul Jangra",
+        "Subhradip Roy"
+      ],
+      "practice_area": "Employment & Labour",
+      "topic": "Non-compete, confidentiality, notice period and garden leave in Indian employment contracts: Section 27 Contract Act, enforceability during and after employment, injunctions, recovery of training bonds, notice-pay disputes, reported decisions."
+    },
+    {
+      "id": "AT",
+      "authors": [
+        "Chandrayee Roy",
+        "Subhradip Roy"
+      ],
+      "practice_area": "Employment & Labour",
+      "topic": "Workplace sexual harassment law for employers: POSH Act 2013, Internal Committee composition, inquiry procedure, timelines, annual report, penalties for non-compliance, employer duties for smaller workplaces and the Local Committee. Educational compliance explainer only."
+    },
+    {
+      "id": "AU",
+      "authors": [
+        "Adv. Rahul Jangra",
+        "Bhaskar Subramanian"
+      ],
       "practice_area": "Property & Civil Litigation",
-      "topic": "Managing Indian property while living abroad: rent agreements and collection, tenant default and eviction under State rent laws, caretakers and property managers, property tax, utility and society transfers, insurance, protection against encroachment, and the documents an NRI landlord should hold. Do not repeat the existing guides on illegal occupation recovery."
+      "topic": "Gift deeds, release deeds and family settlements: stamp duty and registration pitfalls, differences between West Bengal and Uttar Pradesh practice, when an unregistered family settlement is valid, challenges and limitation. Link the existing guide on revoking gift deeds; do not repeat it."
+    },
+    {
+      "id": "AV",
+      "authors": [
+        "Bhaskar Subramanian",
+        "Adv. Anupam"
+      ],
+      "practice_area": "Commercial Litigation",
+      "topic": "Specific performance and injunctions after the 2018 amendment to the Specific Relief Act: mandatory specific performance, readiness and willingness, time as essence, liquidated damages and Section 74 Contract Act, interim injunctions, substituted performance. Link the existing news and title articles; do not repeat them."
     }
   ]
 }
