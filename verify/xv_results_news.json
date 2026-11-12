@@ -3491,5 +3491,28 @@
       "https://www.jurishour.in/indirect-taxes/malaysian-country-of-origin-certificates-evidence/"
     ],
     "note": "Case name, citation (Customs Appeal No. 76148 of 2024, 2026 LLBiz CESTAT(KOL) 636), demand amount (Rs 12.59 lakh), undisclosed-emails finding, DRI alert covering unrelated goods (antimony trioxide/zinc ingots, not aluminium pipes), and time-bar holding all independently confirmed. Not found on live site (no duplicate)."
+  },
+  {
+    "file": "_drafts/batch13/news/05-rbi-cyber-resilience-digital-payment-security-master-directions-2026.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://taxguru.in/rbi/master-directions-cyber-resilience-digital-payment-security-controls-non-bank-payment-system-operators.html",
+      "https://www.outlookmoney.com/banking/rbi-issues-new-cyber-security-rules-for-non-bank-payment-operators-sets-audit-deadlines",
+      "https://research.finbox.in/blog/rbi-cybersecurity-technology-risk-resilience-directions-2026/",
+      "https://website.rbi.org.in/documents/87730/39710850/Final+-+Master+Directions+on+Cyber+Resilience+and+Payment+Security+Controls+of+PSOs.pdf"
+    ],
+    "note": "Circular number, date, consolidation of the 2024 framework, extension to ATM switch application service providers, covered entities and the compliance timeline (large/medium from publication, small from 1 April 2028, vs 2024's staggered Apr 2025/Apr 2026/Apr 2028) all independently confirmed, including against what appears to be the RBI's own published Master Direction PDF. Not found on live site."
+  },
+  {
+    "file": "_drafts/batch13/news/06-allahabad-hc-up-electronics-corporation-ps-global-partner-death-arbitration.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://taxguru.in/?p=1097437",
+      "https://supremetoday.ai/allahabad-high-court-rules-firm-arbitration-proceedings-do-not-abate-upon-death-of-a-partner-20261102069",
+      "https://www.livelawbiz.com/arbitration/high-court/death-of-partner-who-signed-arbitration-agreement-does-not-abate-proceedings-in-firms-name-allahabad-high-court-556819"
+    ],
+    "note": "Case name, citation, award amount (Rs 8,99,38,275 at 8% interest), Section 37 forum, the three grounds rejected (partner's death/Order XXX CPC analogy, non-joinder of State, unproved cartel allegations) and the underlying Section 34 dismissal date all independently confirmed. A search result suggested a bench of Chief Justice Arun Bhansali and Justice Jaspreet Singh, but a targeted follow-up search could not confirm this tied to this specific case, so the draft's cautious 'not stated' is left as is rather than adding an unconfirmed bench."
   }
 ]
