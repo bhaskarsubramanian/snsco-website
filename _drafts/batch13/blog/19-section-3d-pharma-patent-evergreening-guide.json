@@ -1,0 +1,94 @@
+{
+  "slug": "section-3d-pharma-patent-evergreening-guide",
+  "title": "Section 3(d) and India's Bar on Evergreening Pharmaceutical Patents",
+  "meta_description": "What Section 3(d) of the Patents Act bars, what counts as enhanced efficacy after Novartis, and how it has been applied up to the 2025 Vymada revocation.",
+  "practice_area": "Intellectual Property",
+  "intro": [
+    "A pharmaceutical company that has already patented a molecule often develops a new salt, a new crystalline form, or a more stable formulation of the same drug years later, and wants a fresh patent on that improvement. Section 3(d) of the Patents Act, 1970 is the provision that decides whether that fresh patent is granted, and it was written specifically to stop a company from stretching its monopoly on a known drug by patenting minor variations that do not actually make the medicine work better, a practice generally called evergreening.",
+    "This guide explains, as on today's date, what Section 3(d) actually requires, how the Supreme Court read it in the Novartis Glivec case, and how that reading has played out since, including a September 2025 Delhi ruling that revoked a Novartis heart-failure drug patent on this exact ground. The test looks simple on paper, enhanced therapeutic efficacy, but proving or disproving it is where most of the real fight happens."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 3(d) actually says",
+      "paragraphs": [
+        "Section 3(d), inserted by the 2005 amendment that brought Indian patent law into line with product patents for pharmaceuticals, provides that the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance is not an invention within the meaning of the Act. The same bar applies to the mere discovery of a new property or new use for a known substance, and to the mere use of a known process, machine or apparatus, unless such known process results in a new product or employs at least one new reactant.",
+        "An Explanation attached to the section spells out what counts as a 'new form' of a known substance for this purpose: salts, esters, ethers, polymorphs, metabolites, pure forms, particle size, isomers, mixtures of isomers, complexes, combinations and other derivatives of a known substance. All of these are deemed to be the same substance as the one already known, unless they differ significantly in properties with regard to efficacy. The section does not say incremental pharmaceutical research is worthless; it says that research has to clear a specific efficacy bar before it earns a fresh twenty-year monopoly on top of the one the original molecule's patent already gave the innovator.",
+        "The provision sits within Section 3 of the Act, among categories of subject matter that are not inventions at all for patent purposes, so a Section 3(d) objection is different in kind from an ordinary novelty or inventive-step objection. It says that, efficacy aside, the claim does not describe an invention at all, which is why the comparative efficacy evidence needs to be squarely in the specification or the prosecution record, not argued for the first time once an opposition is already under way."
+      ]
+    },
+    {
+      "heading": "Novartis v. Union of India: what the Supreme Court actually decided",
+      "paragraphs": [
+        "The Supreme Court's 2013 ruling in Novartis AG v. Union of India remains the controlling authority. Novartis sought a patent on the beta-crystalline form of imatinib mesylate, the active ingredient in its leukaemia drug Glivec, arguing that the new crystalline form had better bioavailability and stability than the earlier free base form. The Court held that, for a pharmaceutical substance, efficacy under Section 3(d) means therapeutic efficacy alone, not any physical or physicochemical property such as flow characteristics, solubility or thermodynamic stability, and that the standard has to be read strictly.",
+        "Applying that standard, the Court found that Novartis had not shown the beta-crystalline form had any greater healing effect on patients than the known substance, and that improved bioavailability, without more, was a bald assertion that did not meet Section 3(d)'s requirement. At the same time, the Court was careful to say that this did not mean Section 3(d) bars patent protection for every incremental invention in the chemical and pharmaceutical fields; it bars protection only where the applicant fails to show the specific kind of efficacy improvement the section calls for. The Court also rejected the argument that the section was unconstitutionally vague, treating it instead as a deliberate, TRIPS-compliant policy choice available to India as a developing country."
+      ]
+    },
+    {
+      "heading": "How the efficacy test has been applied since",
+      "paragraphs": [
+        "The Delhi High Court has repeatedly had to work out what the Novartis efficacy test means for cases that do not involve a near-identical fact pattern. In a dispute over eltrombopag, a Division Bench held that improved bioavailability does not automatically translate into greater therapeutic efficacy, following the Supreme Court's own distinction and declining to treat better absorption, on its own, as the kind of clinical benefit Section 3(d) is looking for.",
+        "In a 2025 ruling concerning an intermediate compound used in a pharmaceutical synthesis process, the Delhi High Court upheld a refusal of patent protection on the ground that the applicant had to show the claimed invention produces a pharmaceutical product with enhanced therapeutic efficacy, and that improved process yield or easier synthesis was not enough by itself. Outside the pharmaceutical context, the same court has also held that the Novartis efficacy standard is specifically tied to pharmaceutical substances and need not be imported wholesale into disputes over agrochemicals, where a different kind of 'efficacy', such as thermal stability relevant to the product's function, can properly be considered. The common thread across these rulings is that courts ask for a concrete, evidence-backed showing tied to what the substance is actually meant to do, rather than accepting a general claim of improvement."
+      ]
+    },
+    {
+      "heading": "The 2025 Vymada opposition: Section 3(d) applied to a current drug",
+      "paragraphs": [
+        "The most concrete recent illustration is the fight over Novartis's patent on a supramolecular complex formulation of its heart-failure drug sold as Vymada, built on the sacubitril-valsartan combination. The patent had survived ten pre-grant oppositions and was granted in December 2022, after which generic manufacturers, including members of the Indian Pharmaceutical Alliance along with Micro Labs and Ipca, filed post-grant oppositions raising lack of inventive step and Section 3(d).",
+        "An Opposition Board recommended revocation in March 2025, and after Novartis filed rebuttal evidence, a reconstituted Board recommended revocation again in July 2025. The Controller of Patents revoked the patent on 12 September 2025, reasoning that the claimed supramolecular complex had not been shown to offer a clear therapeutic advantage over the existing formulation, squarely a Section 3(d) finding. Days later, on 16 September 2025, the Delhi High Court dismissed Novartis's writ petitions seeking to cross-examine the opponents' experts at that late stage, describing the attempt in strong terms as a dilatory tactic. The sequence shows Section 3(d) operating exactly as the 2013 ruling anticipated: not as an automatic bar on a new formulation, but as a real evidentiary hurdle that a patentee can lose on the facts, years after grant, once competitors test the efficacy claim through opposition."
+      ]
+    },
+    {
+      "heading": "What this means for prosecuting or opposing a pharmaceutical patent",
+      "paragraphs": [
+        "An applicant seeking a patent on a new form of an already-known drug should treat comparative efficacy data, not just improved manufacturing, stability or bioavailability data, as the centrepiece of the application. Courts and the Patent Office have consistently asked for a clear explanation, backed by comparative results, of how the new form produces a better clinical outcome for the patient than the known substance, and have been unwilling to infer that from physicochemical improvements alone.",
+        "An opponent or a generic competitor challenging such a patent, whether at the pre-grant or post-grant stage, should focus the attack on exactly this gap: whether the specification and the evidence on record actually establish enhanced therapeutic efficacy, or whether they really describe a more convenient, more stable or better-absorbed version of the same drug dressed up in efficacy language. The Vymada opposition shows that this argument can succeed even against a patent that has already survived pre-grant scrutiny and been in force for several years, so a competitor should not assume a granted pharmaceutical patent is settled simply because it cleared examination once.",
+        "Timing also matters on both sides. A patentee anticipating a Section 3(d) challenge is better served building the comparative efficacy record into the original specification and any response filed during examination, rather than trying to supplement it years later once an opposition is already under way, since a Controller and a reviewing court will read a late, litigation-driven efficacy claim with more scepticism than one that was part of the application from the start. A challenger, for its part, should request the complete prosecution history and any examiner correspondence early, since the gap between what was claimed at filing and what is argued at opposition is often where the Section 3(d) case is actually won."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does 'evergreening' mean in the context of Indian patent law?",
+      "a": "It refers to a company seeking a fresh patent on a minor variation, such as a new salt, crystalline form or formulation, of a drug it already patented, in order to extend its effective monopoly beyond the original patent's term. Section 3(d) of the Patents Act is the provision aimed squarely at preventing this."
+    },
+    {
+      "q": "Does Section 3(d) block every incremental improvement to a known drug?",
+      "a": "No. The Supreme Court in Novartis v. Union of India expressly said Section 3(d) does not bar protection for all incremental pharmaceutical inventions. It bars protection only where the applicant fails to show the new form enhances the known substance's therapeutic efficacy."
+    },
+    {
+      "q": "What counts as 'enhanced efficacy' under Section 3(d)?",
+      "a": "For a pharmaceutical substance, courts have read efficacy strictly as therapeutic efficacy: a demonstrable improvement in how the drug treats the patient, backed by comparative data. General improvements in stability, solubility or ease of manufacture are not efficacy on their own."
+    },
+    {
+      "q": "Can improved bioavailability alone satisfy the Section 3(d) test?",
+      "a": "Generally no. Both the Supreme Court in the Novartis case and a later Delhi High Court Division Bench ruling on eltrombopag held that improved bioavailability does not, by itself, amount to the enhanced therapeutic efficacy the section requires."
+    },
+    {
+      "q": "What happened to Novartis's patent on its heart-failure drug Vymada?",
+      "a": "The Controller of Patents revoked the post-grant patent on the drug's supramolecular complex formulation in September 2025, finding no clear therapeutic advantage over the existing formulation under Section 3(d), after opposition by Indian generic manufacturers. The Delhi High Court separately rejected Novartis's bid to cross-examine the opponents' experts at that stage."
+    }
+  ],
+  "references": [
+    "Patents Act, 1970, Section 3(d) and its Explanation, as inserted by the Patents (Amendment) Act, 2005, on the bar against patenting a new form of a known substance absent enhanced known efficacy",
+    "Novartis AG v. Union of India, (2013) 6 SCC 1, Supreme Court of India, holding that efficacy under Section 3(d) means therapeutic efficacy for pharmaceutical substances and that the standard is to be read strictly",
+    "Novartis AG v. Natco Pharma Limited (eltrombopag), Delhi High Court Division Bench, holding improved bioavailability does not automatically establish enhanced therapeutic efficacy",
+    "Zeria Pharmaceutical Co. Ltd. matter, Delhi High Court, 27 May 2025, on Section 3(d) applied to an intermediate compound and the need to show enhanced therapeutic efficacy of the resulting pharmaceutical product",
+    "Novartis AG v. Controller of Patents and Designs, Delhi High Court order of 16 September 2025, and the related post-grant opposition revocation of the Vymada (sacubitril-valsartan) patent on 12 September 2025"
+  ],
+  "sources": [
+    "https://www.rsrr.in/_files/ugd/286c9c_66e03cd3db864ad79b7d75b384202214.pdf?index=true",
+    "https://blog.ipleaders.in/analysis-novartis-g-vs-union-india/",
+    "https://www.barandbench.com/law-firms/view-point/drug-patents-and-their-evergreening-conundrum",
+    "https://www.bananaip.com/intellepedia/novartis-cross-examination-rights-delhi-high-court/",
+    "https://medicaldialogues.in/news/industry/pharma/setback-to-novartis-delhi-hc-rejects-cross-examination-request-in-post-grant-patent-dispute-155929",
+    "https://peoplesdemocracy.in/node/11624"
+  ],
+  "verification_notes": [
+    "The text of Section 3(d) and its Explanation listing salts, esters, ethers, polymorphs, metabolites, pure forms, particle size, isomers, mixtures of isomers, complexes, combinations and other derivatives as deemed the same substance absent a significant difference in efficacy: confirmed from an asiaiplaw.com analysis and corroborated by a second, independent practitioner guide (ssrana.in) describing the same Explanation in substantially the same terms.",
+    "Novartis v. Union of India's holding that efficacy under Section 3(d) means therapeutic efficacy alone for pharmaceutical substances, read strictly, and that bioavailability alone is insufficient: confirmed from two independent case summaries (a research-article PDF hosted by rsrr.in and an ipleaders.in case analysis), both stating the same holding in materially consistent terms.",
+    "The Supreme Court's express statement that Section 3(d) does not bar all incremental pharmaceutical inventions, and its treatment of the section as a TRIPS-compliant flexibility rather than unconstitutionally vague: confirmed from the same two sources.",
+    "The Delhi High Court's eltrombopag ruling on bioavailability not automatically equating to therapeutic efficacy, and the 2025 Zeria ruling on intermediates requiring proof of enhanced efficacy of the resulting pharmaceutical product rather than mere process improvement: these come from secondary legal commentary (a Bar and Bench law-firm viewpoint and related search summaries); the full judgment text was not opened in this search, so the case names and holdings are stated as reported by that commentary, and exact citations are not given since they could not be independently confirmed.",
+    "The Syngenta ruling holding the Novartis pharmaceutical-efficacy standard does not apply wholesale to agrochemical efficacy: reported from a single commentary source and not independently corroborated in this search, so it is described here only as that source's account of the ruling's reasoning.",
+    "The sequence of the Vymada post-grant opposition, including the December 2022 grant after ten pre-grant oppositions, the March and July 2025 Opposition Board recommendations, the 12 September 2025 revocation on Section 3(d) grounds, and the 16 September 2025 Delhi High Court order refusing cross-examination: confirmed from at least three independent sources (medicaldialogues.in, bananaip.com and peoplesdemocracy.in), consistent on the dates, the parties and the outcome, though the exact wording of the Controller's reasoning is stated as reported by commentary rather than quoted from the order itself."
+  ]
+}

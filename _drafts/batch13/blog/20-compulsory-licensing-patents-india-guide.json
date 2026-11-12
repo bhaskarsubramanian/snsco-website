@@ -1,0 +1,103 @@
+{
+  "slug": "compulsory-licensing-patents-india-guide",
+  "title": "Compulsory Licensing of Patents in India: Section 84 and the Bayer-Natco Precedent",
+  "meta_description": "When a compulsory patent licence can be granted under Section 84, what the Bayer-Natco Nexavar case actually decided, and the other routes under the Act.",
+  "practice_area": "Intellectual Property",
+  "intro": [
+    "A patent gives the holder the exclusive right to make, sell and license an invention, but that right is not absolute. The Patents Act, 1970 lets the Controller of Patents grant someone else a licence to work a patented invention without the patentee's consent, in a defined set of circumstances, under what the Act calls a compulsory licence. India has used this power only once so far, in the Bayer-Natco dispute over the cancer drug Nexavar, but the case remains the reference point for how Section 84 actually works.",
+    "This guide sets out, as on today's date, when an application for a compulsory licence can be made under Section 84, what the Bayer-Natco litigation decided at each stage up to the Supreme Court, and the separate routes under Sections 92 and 92A that let the government act without an individual applicant going through the Section 84 process at all."
+  ],
+  "sections": [
+    {
+      "heading": "What a compulsory licence does, and why it exists",
+      "paragraphs": [
+        "A compulsory licence is an order from the Controller of Patents permitting a named applicant, usually a competing manufacturer, to make and sell a patented invention without the patentee's agreement, in exchange for a royalty the Controller fixes. It does not revoke or weaken the underlying patent, and the patentee keeps every other right the patent gives against the rest of the world; it simply carves out one licensed manufacturer the patentee did not choose.",
+        "The provision exists because a patent monopoly, left completely unchecked, can let a patentee keep an invention, most sensitively a medicine, out of reach of the people who need it, whether through price, limited supply, or simply declining to work the patent in India at all. Section 84 gives the law a mechanism to correct that specific failure without taking away the patent itself, and it is deliberately hard to invoke, since it overrides a property right the Act otherwise protects strongly.",
+        "India is a member of the World Trade Organization and the TRIPS Agreement, and compulsory licensing is one of the flexibilities TRIPS itself permits member states to retain even after they adopt full product-patent protection, provided the specific statutory conditions are met. Section 84 is India's general domestic mechanism for that flexibility, sitting alongside the narrower routes under Sections 92 and 92A described further on in this guide."
+      ]
+    },
+    {
+      "heading": "The three grounds under Section 84",
+      "paragraphs": [
+        "Any interested person, including an existing licensee, can apply to the Controller for a compulsory licence once three years have passed from the date the patent was granted. The application has to make out at least one of three grounds: that the reasonable requirements of the public with respect to the patented invention have not been satisfied, that the patented invention is not available to the public at a reasonably affordable price, or that the patented invention has not been worked in the territory of India.",
+        "Section 84(7) does real work here by deeming the first ground, reasonable requirements not satisfied, to exist in a list of specific situations, including where the patentee has refused to grant licences on reasonable terms and that refusal has caused an existing trade or industry, or the establishment of a new trade or industry, in India to be prejudiced, or has caused demand for the patented article to go unmet on reasonable terms. An applicant also has to show it tried and failed to get a licence from the patentee voluntarily before coming to the Controller, since Section 84 is meant as a remedy for a patentee's unreasonable refusal, not a first resort."
+      ]
+    },
+    {
+      "heading": "Bayer v. Natco: how the one grant actually happened",
+      "paragraphs": [
+        "Natco Pharma applied for a compulsory licence in 2011 over Bayer's patent on sorafenib, sold as Nexavar, a kidney and liver cancer drug, arguing that Bayer had not made the drug available to patients in India at a reasonably affordable price and had not worked the patent in India at an adequate scale. On 9 March 2012, the Controller General of Patents granted the licence, India's first, fixing a royalty of 6 percent of Natco's net sales payable to Bayer.",
+        "Bayer appealed to the Intellectual Property Appellate Board, which dismissed the appeal and upheld the compulsory licence in 2013. Bayer then challenged that order before the Bombay High Court, which in August 2014 again upheld the grant, examining in detail what 'adequate extent' means for the purpose of showing a patent has been worked in India. Bayer's further attempt to get the Supreme Court to hear the matter did not succeed, leaving the Bombay High Court's ruling as the final word on this particular licence."
+      ]
+    },
+    {
+      "heading": "What Bayer argued, and why it did not work",
+      "paragraphs": [
+        "Bayer's central defence was that the public's need for the drug was already being met, since Cipla was separately selling its own, cheaper version of the same molecule in India without a licence from Bayer. The Intellectual Property Appellate Board rejected this, holding that it is the patentee's own responsibility to show that the patented invention is being made available to the public at a reasonably affordable price and worked in India, and that a third party's unauthorised sales elsewhere in the market cannot be used to discharge that burden.",
+        "That holding is the real lesson of the case for a patentee today: a compulsory licence turns on what the patentee itself has done to satisfy the public's reasonable requirements, not on whether someone, somehow, has managed to get the drug to patients through channels the patentee neither created nor controls. A patentee that wants to avoid a Section 84 application has to be able to point to its own pricing, its own supply volumes and its own licensing conduct, not to a competitor's parallel conduct."
+      ]
+    },
+    {
+      "heading": "Beyond Section 84: the government's own routes",
+      "paragraphs": [
+        "Section 84 is not the only compulsory licensing mechanism in the Act, and it is the slowest, since it runs through an individual application, evidence and appeals. Section 92 lets the Central Government itself issue a compulsory licence by notification in the gazette, without an individual applicant going through the Section 84 process, where it is satisfied a case of national emergency, extreme urgency, or public non-commercial use exists; a patentee cannot resist a licence granted this way through opposition proceedings in the same manner as a Section 84 application.",
+        "Section 92A is a narrower, pharmaceutical-specific route, inserted in 2005 to implement India's obligations under the WTO's post-Doha Declaration mechanism, allowing a compulsory licence for manufacture and export of a patented pharmaceutical product to a country that lacks sufficient manufacturing capacity of its own to meet a public health need. Separately, Section 85 lets the Central Government or any interested person apply to revoke a patent outright, but only after two years have passed from the date a first compulsory licence was granted under Section 84, and only if the reasonable requirements of the public are still unsatisfied or the invention still is not worked or affordably available despite that licence."
+      ]
+    },
+    {
+      "heading": "What this means for a patentee or a generic competitor today",
+      "paragraphs": [
+        "The fact that India has granted only one compulsory licence since Section 84 took its current form should not be read as the provision being toothless. The threshold is genuinely high, the applicant has to build a real evidentiary record on price, availability and working, and the process runs for years through appeals, but the Bayer-Natco case shows the Controller, the Appellate Board and the High Court are each willing to hold a patentee to the specific obligations Section 84 imposes once a properly supported application is filed.",
+        "For a patentee marketing a high-value, high-need invention in India, the practical takeaway is to keep a documented record of pricing decisions, licensing offers made and rejected, and supply volumes in the Indian market, since that record is exactly what an Appellate Board or a court will ask for if a Section 84 application is ever filed. For a generic manufacturer considering an application, Bayer-Natco shows that the case has to be built around the patentee's own conduct and documented efforts at a voluntary licence, not around general arguments about drug pricing or public interest in the abstract.",
+        "It is also worth being clear about what a compulsory licence does not do: it does not strip the patentee of royalties, does not open the invention to every competitor who wants in, and does not amount to a finding that the patent itself is invalid. A patentee that loses a Section 84 application still owns a valid, enforceable patent against everyone except the licensee the Controller has named, and still earns a royalty on that licensee's sales, which is why the remedy is better understood as a correction of market conduct than as a penalty on the patent itself."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Has India actually granted a compulsory patent licence?",
+      "a": "Yes, once. The Controller General of Patents granted a compulsory licence to Natco Pharma over Bayer's cancer drug Nexavar (sorafenib) on 9 March 2012. It was upheld by the Intellectual Property Appellate Board in 2013 and by the Bombay High Court in 2014, and remains India's only compulsory licence granted under Section 84 to date."
+    },
+    {
+      "q": "What does an applicant have to show before filing a Section 84 application?",
+      "a": "At least three years must have passed since the patent was granted, and the applicant has to make out at least one of three grounds: unsatisfied reasonable requirements of the public, the invention not being available at a reasonably affordable price, or the invention not being worked in India. The applicant also has to show it tried and failed to get a voluntary licence from the patentee first."
+    },
+    {
+      "q": "Can a patentee defend a compulsory licence application by pointing to a competitor already selling a cheaper, unlicensed version?",
+      "a": "No, not on the Bayer-Natco precedent. The Appellate Board held it is the patentee's own responsibility to show the invention is affordably available and adequately worked in India, and that a third party's unauthorised sales elsewhere in the market do not discharge that burden."
+    },
+    {
+      "q": "What is the difference between a compulsory licence under Section 84 and one under Section 92?",
+      "a": "Section 84 is an individual applicant's process before the Controller, available three years after grant, on specific grounds the applicant must prove. Section 92 lets the Central Government itself issue a compulsory licence by gazette notification, without that individual process, where it finds a national emergency, extreme urgency or public non-commercial use."
+    },
+    {
+      "q": "What happens if a compulsory licence still does not fix public access to the invention?",
+      "a": "Section 85 allows the Central Government or any interested person to apply for outright revocation of the patent, but only after two years from the grant of the first compulsory licence, and only if the public's reasonable requirements, affordable availability or working in India are still not satisfied despite that licence."
+    }
+  ],
+  "references": [
+    "Patents Act, 1970, Section 84, on the grounds, timing and procedure for a compulsory licence application",
+    "Patents Act, 1970, Section 84(7), deeming circumstances in which the reasonable requirements of the public are treated as unsatisfied",
+    "Patents Act, 1970, Sections 85, 92 and 92A, on revocation for continued non-working, the government's emergency compulsory licence power, and the pharmaceutical export licence route",
+    "Bayer Corporation v. Natco Pharma Ltd., Controller General of Patents, order dated 9 March 2012, granting India's first compulsory licence under Section 84",
+    "Bayer Corporation v. Union of India and Others, Intellectual Property Appellate Board, 2013, upholding the compulsory licence",
+    "Bayer Corporation v. Union of India, Bombay High Court, August 2014, upholding the IPAB's order and examining the 'adequate extent' of working in India"
+  ],
+  "sources": [
+    "https://ipindia.gov.in/acts/patent-act-1970/section-84",
+    "https://ipindia.gov.in/acts/patent-act-1970/section-85",
+    "https://www.ipindia.gov.in/writereaddata/Portal/ev/sections/ps92a.html",
+    "https://blog.ipleaders.in/bayer-corporation-vs-natco-pharma-ltd-a-case-analysis/",
+    "https://www.lkslaw.com/insights/articles/compulsory-license-high-court-upholds-ipab-order",
+    "https://www.managingip.com/Article/3410247/Managing-Patents-Archive/Indias-Supreme-Court-declines-to-hear-compulsory-licence-appeal.html"
+  ],
+  "verification_notes": [
+    "Section 84's three grounds, the three-year timing from grant, and the deeming provision in Section 84(7) including refusal to licence on reasonable terms: confirmed from the official Indian Patent Office text (ipindia.gov.in) and independently from an ipleaders.in commentary describing the same grounds and the same deeming circumstances.",
+    "The requirement that an applicant show failed efforts to obtain a voluntary licence before applying under Section 84: confirmed from the official statutory summary and a second, independent commentary describing the same requirement, though this guide does not state a specific waiting period for those efforts since the sources did not agree on one figure.",
+    "The Controller's grant of the compulsory licence to Natco on 9 March 2012, the 6 percent royalty on net sales, and the grounds Natco relied on: confirmed from two independent case summaries (ipleaders.in and a second, independent commentary), both describing the same date, parties and royalty figure. A later change to the royalty rate at the IPAB stage was reported inconsistently across sources, so this guide does not state a specific revised figure.",
+    "The IPAB's 2013 dismissal of Bayer's appeal, its rejection of the argument that Cipla's unauthorised sales satisfied the public-access requirement, and the Bombay High Court's August 2014 ruling upholding the IPAB order: confirmed from lkslaw.com's case note and independently from a second case analysis describing the same holdings and the same chronology.",
+    "The Supreme Court declining to hear Bayer's further appeal, leaving the Bombay High Court ruling as final: confirmed from a Managing IP report describing this as India's first compulsory licence surviving its final challenge.",
+    "Section 85's two-year timing from the grant of a first compulsory licence, who may apply, and the grounds for revocation: confirmed from the official Indian Patent Office text and independently from a secondary commentary (vidhijudicial.com) describing the same provision in consistent terms.",
+    "Section 92's national emergency, extreme urgency and public non-commercial use grounds, and Section 92A's 2005 insertion for pharmaceutical export to countries lacking sufficient manufacturing capacity: confirmed from two independent secondary sources describing the same statutory structure, though one source's description linking the Natco-Bayer case to Section 92A specifically conflicted with the more consistent account of that case as a Section 84 matter, so this guide does not adopt that characterisation."
+  ]
+}

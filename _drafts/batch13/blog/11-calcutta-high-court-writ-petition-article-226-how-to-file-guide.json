@@ -1,0 +1,98 @@
+{
+ "slug": "calcutta-high-court-writ-petition-article-226-how-to-file-guide",
+ "title": "Filing a Writ Petition in the Calcutta High Court Against a State Authority or Municipal Body",
+ "meta_description": "How to file a writ petition under Article 226 in the Calcutta High Court against a state body or the KMC, and when the court will decline to hear it.",
+ "practice_area": "Property & Civil Litigation",
+ "intro": [
+  "A writ petition under Article 226 lets you ask the Calcutta High Court to correct an order or an inaction of a state authority, a municipal body such as the Kolkata Municipal Corporation, or a statutory body, without first running the full distance of an ordinary civil suit. As on today's date, the Calcutta High Court can and does entertain such petitions against the state government, KMC, the Land and Land Reforms Department, WBRERA and similar bodies, but it is a discretionary remedy, not an automatic one. The single biggest reason petitions get thrown out at the admission stage is that the petitioner had an effective statutory remedy, such as a departmental appeal or a tribunal, and skipped it without a good reason.",
+  "This guide sets out the procedural map: which side of the court to approach, when the alternative remedy objection will and will not succeed, how delay affects your petition, and what happens after filing. It does not repeat the separate guide on writ petitions before the Allahabad High Court against Noida Authority and other UP bodies, since the two courts' rules and recent rulings differ enough to need their own treatment."
+ ],
+ "sections": [
+  {
+   "heading": "Which side of the court hears the petition",
+   "paragraphs": [
+    "The Calcutta High Court has an Original Side and an Appellate Side, and a writ petition under Article 226 is ordinarily filed on the Appellate Side. The Rules relating to Applications under Article 226 of the Constitution, framed in 1986, are read together with the general Appellate Side Rules to decide which side takes up a given matter. Where every respondent and the relevant record falls within the Original Side's territorial reach, courts have held that Rules 4 and 5 of the 1986 Rules bar the Appellate Side from entertaining the petition at all, and it has to go to the Original Side instead.",
+    "The good news for a petitioner who gets this wrong is that filing on the wrong administrative side is not by itself a ground for dismissal. The Calcutta High Court has held that such a mistake can be corrected by converting the petition to the right side rather than throwing it out, including in a 2024 case where a writ was moved from the Original Side to the Appellate Side because some respondents fell outside the Original Side's jurisdiction. Still, getting the side right at the drafting stage avoids an avoidable round of objections and delay. Habeas corpus petitions follow their own separate track, heard on the Appellate Side under a dedicated chapter of the Appellate Side Rules."
+   ]
+  },
+  {
+   "heading": "The alternative remedy objection, and when it does not stop the petition",
+   "paragraphs": [
+    "The most common ground on which the state or a municipal body resists a writ petition is that an effective statutory remedy exists, such as an appeal, a revision, or a tribunal set up for exactly this kind of dispute. The Supreme Court restated this position in PHR Invent Educational Society v. UCO Bank (2024), holding that a High Court will ordinarily decline to exercise its Article 226 jurisdiction where an effective and efficacious alternative remedy is available, and specifically rejected the argument that having to make a pre-deposit before an appeal is itself a reason to bypass that appeal and go straight to a writ.",
+    "But this is a rule of practice, not an absolute bar, and courts recognise exceptions. Where the authority has acted without following the procedure the statute itself lays down, where there is a breach of natural justice, where the order is wholly without jurisdiction, or where the very validity of the law under which the authority acted is challenged, the existence of an alternative remedy does not stop the writ. Calcutta High Court benches have applied this both ways on the facts: some have dismissed petitions for bypassing a statutory appeal under the GST law or the SARFAESI Act, or a tribunal set up under the West Bengal land reforms and tenancy framework, while others have gone ahead and heard the writ despite an available remedy because natural justice was breached. The outcome genuinely turns on how the petition frames the specific defect, not on the mere existence of a remedy elsewhere."
+   ]
+  },
+  {
+   "heading": "Does the type of respondent matter: Article 226 against private bodies",
+   "paragraphs": [
+    "Article 226 reaches the state and its agencies, and it also reaches any authority exercising a public function, which is why KMC, DDA-style development authorities, RERA and consumer forums all fall within its reach when their acts are challenged. Where, instead, every respondent is a private party and the order under challenge came from a quasi-judicial body such as the National Consumer Disputes Redressal Commission, the Calcutta High Court has held that the correct route is a petition under Article 227, not Article 226, because Article 226 is aimed at public law wrongs rather than purely private disputes dressed up as one.",
+    "Getting this distinction right matters because the two articles carry different supervisory standards. Article 227 supervisory jurisdiction is narrower and more restrained than Article 226's power to issue directions and quash orders, so a petition mislabelled as one under Article 226 when it is really a challenge to a private-party tribunal order can be recast, but it is cleaner to identify the correct provision from the outset."
+   ]
+  },
+  {
+   "heading": "Limitation and delay",
+   "paragraphs": [
+    "Article 226 carries no fixed limitation period of the kind the Limitation Act prescribes for civil suits. That does not mean a petitioner can sit on a grievance indefinitely. Courts apply the doctrine of laches, declining relief where the delay in approaching the court is unexplained and has caused prejudice to the other side, particularly where third-party rights have intervened in the meantime, such as a transfer of land or a completed construction relying on the challenged order. A petitioner who waits months after an adverse order, with no explanation for the delay, should expect the delay itself to become a contested issue at admission, independent of the merits.",
+    "Where the grievance is continuing, such as a municipal body's ongoing refusal to act on an application, the delay argument is weaker because the cause of action keeps renewing. Explaining the delay candidly in the petition, rather than hoping it goes unnoticed, is the safer course."
+   ]
+  },
+  {
+   "heading": "Filing mechanics and interim relief",
+   "paragraphs": [
+    "The Calcutta High Court introduced compulsory e-filing rules in 2021 under Articles 225 and 227 of the Constitution, and a petition complete in all respects, including the required affidavit, annexures and the vakalatnama, is filed through the centralised filing counter of the Appellate Side before it reaches the computerised cause list. A separate set of rules on the format of pleadings and affidavits has applied to the Appellate Side since January 2020. Given that these procedural notices get updated from time to time, check the court's current notices before filing rather than relying on an older practitioner's note.",
+    "Interim relief, usually an interim stay of the impugned order or action, can be sought at the first hearing itself, supported by an affidavit showing urgency and a prima facie case. Courts weigh the balance of convenience and irreparable harm just as in a civil suit, and a municipal body or state department resisting interim relief will typically argue that public interest or third-party reliance on the order outweighs the petitioner's claimed hardship."
+   ]
+  },
+  {
+   "heading": "Appeal and what follows",
+   "paragraphs": [
+    "An order passed by a single judge on a writ petition is appealable to a Division Bench of the same High Court, and that intra-court appeal is usually the next step rather than going straight to the Supreme Court. The Division Bench rehears the matter on both facts and law, though it will ordinarily be slow to disturb factual findings the single judge has already made unless they are shown to be clearly wrong.",
+    "If the writ succeeds, the usual relief is a direction to the authority to reconsider the matter, decide a pending application, or set aside the order complained of, rather than the High Court substituting its own decision for the authority's. Where the dispute really turns on disputed facts that a writ court cannot comfortably resolve on affidavits, expect the court to relegate the parties to a civil suit or the statutory forum instead, which is exactly the alternative remedy objection coming back into play at the admission stage."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can I file a writ petition in the Calcutta High Court instead of a RERA complaint against a builder?",
+   "a": "Generally no. RERA provides a specific statutory remedy for delay and refund claims, and courts treat that as an effective alternative remedy that should ordinarily be used first. A writ against RERA's own order, once passed, is a different question from bypassing RERA altogether."
+  },
+  {
+   "q": "Is there a time limit to file a writ petition after an adverse municipal order?",
+   "a": "There is no fixed limitation period under the Limitation Act for Article 226, but the court can refuse relief for unexplained delay under the doctrine of laches, especially if third parties have relied on the order in the meantime. File as soon as practicable and explain any delay in the petition itself."
+  },
+  {
+   "q": "What if I filed my writ petition on the wrong side of the Calcutta High Court?",
+   "a": "Filing on the wrong administrative side, Original or Appellate, is not by itself a ground for dismissal. The court has the power to direct that the matter be transferred to or treated as filed on the correct side, though it is better to get this right at the drafting stage."
+  },
+  {
+   "q": "Will the court hear my writ even though an appeal was available to me?",
+   "a": "It depends on how the petition is framed. Courts generally decline writs where an effective statutory appeal exists, but they make exceptions for breach of natural justice, orders passed wholly without jurisdiction, failure to follow the statute's own procedure, or a challenge to the validity of the underlying law itself."
+  },
+  {
+   "q": "Can I challenge an NCDRC order against a private builder through a writ petition?",
+   "a": "Where every party before the consumer commission is a private party, the Calcutta High Court has held the correct remedy is a petition under Article 227 rather than Article 226, since Article 226 is primarily aimed at public law wrongs involving the state or a public authority."
+  }
+ ],
+ "references": [
+  "Constitution of India, Articles 226 and 227",
+  "PHR Invent Educational Society v. UCO Bank, Civil Appeal No. 4845 of 2024, decided 10 April 2024 (2024 INSC 297), on the alternative remedy rule under Article 226",
+  "Rules relating to Applications under Article 226 of the Constitution, High Court at Calcutta, 1986, Rules 4 and 5, on Original Side versus Appellate Side jurisdiction",
+  "Rules for Online Electronic Filing (e-Filing) in the High Court at Calcutta, notified 16 December 2021 under Articles 225 and 227",
+  "Calcutta High Court decisions on the maintainability of a writ against purely private parties challenging NCDRC orders, and on conversion of petitions filed on the wrong administrative side"
+ ],
+ "sources": [
+  "https://www.verdictum.in/court-updates/supreme-court/phr-invent-educational-society-v-uco-bank-2024-insc-297-article-226-alternative-remedy-1530272",
+  "https://www.livelaw.in/amp/supreme-court/when-can-high-courts-entertain-writ-petition-under-article-226-despite-existence-of-statutory-remedies-supreme-court-explains-254903",
+  "https://barandbench.com/news/litigation/writ-cases-filed-wrong-administrative-side-calcutta-high-court-guidelines",
+  "https://patraslawchambers.com/guide-to-the-government-service-matter-writ-petition-in-the-calcutta-high-court/",
+  "https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/dr-tripti-das-anr-v-dr-phani-bhusan-mandal-ors-ncdrc-article-226-1607808"
+ ],
+ "verification_notes": [
+  "PHR Invent Educational Society v. UCO Bank (2024 INSC 297) and its holding that the SARFAESI pre-deposit requirement does not justify bypassing the statutory appeal: confirmed from Verdictum and LiveLaw reports of the same decision, both describing the same holding and case number.",
+  "The 1986 Rules, Rules 4 and 5, barring the Appellate Side from entertaining a writ where records and respondents fall wholly within the Original Side's jurisdiction, and the court's power to correct a wrong-side filing rather than dismiss it: confirmed from a Bar and Bench report and a secondary case-law summary describing the same rules and the same practice of conversion rather than dismissal.",
+  "The distinction that a writ against an order between purely private parties, such as an NCDRC order, properly lies under Article 227 rather than Article 226: confirmed from the Verdictum report of the specific Calcutta High Court ruling naming the parties; a second independent source carrying the same holding was not found, so this point is attributed to that single reported decision rather than stated as a settled general rule.",
+  "The four recognised exceptions to the alternative remedy rule (procedure not followed, natural justice breach, order without jurisdiction, vires challenged) are the textbook formulation traced to Whirlpool Corporation; the search results did not return the full four-point list from a single primary source, so this guide states the exceptions in general terms consistent with the secondary commentary reviewed rather than quoting the judgment.",
+  "The 2021 Calcutta High Court e-filing rules under Articles 225 and 227, and the January 2020 format rules for pleadings and affidavits on the Appellate Side: referenced from the Calcutta High Court's own notice listings; the full text of the format notice could not be read cleanly from the source available, so this guide describes its existence and effective date only, not its detailed content.",
+  "Doctrine of laches applying to Article 226 petitions in the absence of a fixed limitation period: this is settled, long-standing constitutional law doctrine rather than a recent ruling, and is not separately footnoted to a 2025-26 case because none of the search results specifically addressed it in the Calcutta context."
+ ]
+}

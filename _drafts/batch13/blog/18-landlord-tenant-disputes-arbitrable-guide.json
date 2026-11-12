@@ -1,0 +1,99 @@
+{
+  "slug": "landlord-tenant-disputes-arbitrable-guide",
+  "title": "Can a Landlord-Tenant Dispute Go to Arbitration? Vidya Drolia and After",
+  "meta_description": "Whether a rent or lease dispute can be arbitrated under the Transfer of Property Act, the rent control exception, and how courts apply it today.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "intro": [
+    "Commercial leases increasingly carry an arbitration clause, and the question that comes up the moment a dispute actually arises is whether that clause can be enforced at all, or whether a landlord-tenant matter has to go to a civil or rent court regardless of what the lease says. For years the Supreme Court's own case law pulled in different directions on this, and a tenant resisting arbitration, or a landlord wanting to use it, could each find language to support their position.",
+    "The position as on today's date is settled by a 2020 three-judge bench ruling and a follow-up decision the next year, both of which this guide works through, along with how High Courts have continued to apply that framework through 2025 and 2026. The short answer is that most ordinary tenancy disputes governed by the Transfer of Property Act can be arbitrated; disputes that a special rent statute has carved out for a designated court or forum generally cannot."
+  ],
+  "sections": [
+    {
+      "heading": "Why this question needed a larger bench at all",
+      "paragraphs": [
+        "In 2017, the Supreme Court in Himangni Enterprises v. Kamaljeet Singh Ahluwalia held that landlord-tenant disputes, even where the tenancy was governed by the ordinary Transfer of Property Act rather than a special rent statute, were not arbitrable. That ruling treated eviction and tenancy matters as the kind of dispute that should go through the ordinary civil court machinery built for them, not a private arbitrator.",
+        "The difficulty was that this sat uneasily with an older line of authority, including the Supreme Court's own reasoning in Natraj Studios, and with the general principle that an arbitration agreement should be given effect unless a specific statute takes the dispute out of arbitration. A two-judge bench hearing a later appeal in 2019 doubted whether Himangni Enterprises had got this right and referred the question to a larger bench, which is what produced the ruling that now controls the field. The reference itself is a sign of how unsettled the field had become: parties were drafting arbitration clauses into commercial leases on the assumption they would hold, while others were advised that any dispute touching a tenancy had to go to a civil court regardless of what the lease said, and no single ruling could be relied on with confidence either way until the larger bench spoke."
+      ]
+    },
+    {
+      "heading": "Vidya Drolia: the Supreme Court's answer",
+      "paragraphs": [
+        "In Vidya Drolia v. Durga Trading Corporation, decided in December 2020, a three-judge bench overruled Himangni Enterprises. The Court's reasoning was that a landlord-tenant dispute under the Transfer of Property Act is not an action in rem, meaning a dispute about a right good against the whole world that only a court or specific tribunal can decide, but rests on subordinate rights in personam between the two parties to the lease, even though those personal rights arise out of the broader property relationship. Disputes of that kind are capable of being arbitrated.",
+        "The Court also looked at whether the Transfer of Property Act itself, expressly or by necessary implication, bars arbitration of tenancy disputes, and found that it does not. Put together, the ruling means a tenancy governed only by the general law of landlord and tenant, with no special statute creating a dedicated forum, can be the subject of a valid arbitration clause, and either side can invoke Section 8 or Section 11 of the Arbitration and Conciliation Act, 1996 to have the dispute referred to arbitration."
+      ]
+    },
+    {
+      "heading": "The exception: tenancies protected by rent control legislation",
+      "paragraphs": [
+        "Vidya Drolia did not throw the door open to arbitration in every rent dispute. Where a tenancy is governed by a State's rent control legislation that gives the tenant specific statutory protection against eviction and assigns disputes about that protection to a Rent Controller or a similarly designated forum, the dispute remains outside arbitration. The rationale is that these statutes exist precisely to take certain categories of tenant out of the ordinary bargaining position and give them a protective forum the legislature chose deliberately, and a private arbitration clause cannot be used to route around that choice.",
+        "This is the distinction that actually decides most real disputes: not whether the relationship is landlord and tenant in a general sense, but whether the specific tenancy in question is one a State rent act has brought under its protective umbrella. A shop let under an ordinary unregistered rent agreement with no rent control act in the picture sits on one side of that line; a residential tenancy that a State's rent control statute expressly covers, with its own Rent Controller and appeal structure, sits on the other."
+      ]
+    },
+    {
+      "heading": "Suresh Shah: the principle applied to a commercial sub-lease",
+      "paragraphs": [
+        "The Supreme Court did not leave Vidya Drolia as an abstract statement for long. In Suresh Shah v. Hipad Technology India Private Limited, decided in 2020 on a petition for appointment of an arbitrator under Section 11, the Court applied the same framework to a commercial sub-lease deed and held that a dispute arising under a Transfer of Property Act-governed sub-lease is arbitrable, since no special rent statute was in play.",
+        "For a commercial landlord or tenant, this is the more directly useful precedent of the two, because most commercial leases in India, particularly in larger cities, are not covered by the older rent control acts that were drafted with a different kind of tenancy in mind. Suresh Shah is the authority a party cites when the other side resists arbitration purely on the ground that the dispute happens to involve a landlord and a tenant, without pointing to any statute that actually displaces the arbitration clause. It is also the ruling most often cited in a Section 11 petition where the only resistance raised is a bare assertion that landlord-tenant matters are inherently unsuited to arbitration, an argument Suresh Shah leaves with very little room to stand on once the premises in question are not covered by a protective rent statute."
+      ]
+    },
+    {
+      "heading": "How High Courts are drawing the line in practice",
+      "paragraphs": [
+        "Through 2025 and into 2026, High Courts have continued to work through this boundary case by case rather than treating Vidya Drolia as settling every dispute automatically. The Bombay High Court has read Vidya Drolia as displacing an earlier Full Bench position that had treated lease disputes in that State as non-arbitrable, reinforcing that the default now runs in favour of arbitration unless a specific statute says otherwise. Delhi High Court petitions seeking appointment of an arbitrator under rent agreements have likewise proceeded on the footing that the court's role at that stage is only to check, prima facie, whether an arbitration agreement exists, leaving the deeper question of whether the dispute is actually covered by a protective rent statute to be argued out properly, including before the arbitrator in the first instance.",
+        "Where a party has resisted arbitration by pointing to a specific State rent control act, such as Rajasthan's, as covering the tenancy, courts have engaged with that argument on its own facts rather than assuming Vidya Drolia settles it either way. The pattern that emerges is consistent with the Supreme Court's own framing: the inquiry is fact-specific to the particular statute and the particular tenancy, not a blanket rule that landlord-tenant disputes are now always, or never, arbitrable."
+      ]
+    },
+    {
+      "heading": "What this means for drafting and for a dispute already in hand",
+      "paragraphs": [
+        "A landlord or tenant negotiating a lease today has real reason to include a properly drafted arbitration clause if a State rent control act does not apply to the premises, since arbitration can be faster than the ordinary civil court route for disputes about rent, deposits, maintenance charges, lease renewal and breach of covenants. The clause should be specific about the seat, the number of arbitrators and the scope of disputes covered, since a vaguely worded clause invites exactly the kind of threshold fight over arbitrability this guide has been describing.",
+        "Where a dispute has already arisen and one side is resisting arbitration, the first practical step is checking whether any State rent control statute actually applies to the specific premises and tenancy, since that single fact, more than any general argument about the nature of landlord-tenant relationships, decides which way Vidya Drolia and Suresh Shah point. A party invoking Section 11 for appointment of an arbitrator, or Section 8 to seek reference of a pending suit to arbitration, should be ready to show affirmatively that no such protective statute covers the tenancy, rather than assuming the point will not be contested."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a landlord and tenant resolve a rent dispute through arbitration in India?",
+      "a": "Generally yes, where the tenancy is governed only by the Transfer of Property Act and no special rent control statute applies. The Supreme Court settled this in Vidya Drolia v. Durga Trading Corporation (2020), overruling an earlier ruling that had treated all landlord-tenant disputes as non-arbitrable."
+    },
+    {
+      "q": "Does an arbitration clause in a lease deed work for an eviction claim?",
+      "a": "It can, but only if the tenancy is not protected by a State rent control act that assigns eviction disputes to a Rent Controller or similar forum. Where such a statute applies, that dedicated forum's jurisdiction is not displaced by a private arbitration clause."
+    },
+    {
+      "q": "What exactly changed in the law after Vidya Drolia?",
+      "a": "The Supreme Court overruled Himangni Enterprises v. Kamaljeet Singh Ahluwalia, which had held landlord-tenant disputes non-arbitrable across the board. Vidya Drolia held that such disputes involve subordinate rights in personam, not rights in rem, and the Transfer of Property Act does not bar arbitration, so most tenancy disputes can now be arbitrated."
+    },
+    {
+      "q": "Does every rent control act automatically block arbitration?",
+      "a": "Only where the statute gives the tenant statutory protection against eviction and assigns the dispute to a specific court or Rent Controller. Whether a given tenancy actually falls within a particular State's rent control act is a fact-specific question courts continue to examine case by case."
+    },
+    {
+      "q": "Is it worth including an arbitration clause in a commercial lease?",
+      "a": "Where no rent control statute applies to the premises, yes. Suresh Shah v. Hipad Technology confirms that disputes under a Transfer of Property Act-governed lease or sub-lease, including commercial ones, are arbitrable, which makes a clearly drafted clause genuinely enforceable rather than cosmetic."
+    }
+  ],
+  "references": [
+    "Transfer of Property Act, 1882, as the general statute governing ordinary tenancies not covered by a special rent act",
+    "Arbitration and Conciliation Act, 1996, Sections 8 and 11, on reference to arbitration and appointment of an arbitrator",
+    "Vidya Drolia and Others v. Durga Trading Corporation, (2021) 2 SCC 1, Supreme Court of India, December 2020, overruling Himangni Enterprises and holding landlord-tenant disputes under the Transfer of Property Act generally arbitrable",
+    "Himangni Enterprises v. Kamaljeet Singh Ahluwalia, (2017) 10 SCC 706, overruled by Vidya Drolia",
+    "Suresh Shah v. Hipad Technology India Private Limited, [2020] 13 SCR 821, Supreme Court of India, applying Vidya Drolia to a commercial sub-lease dispute"
+  ],
+  "sources": [
+    "https://www.livelaw.in/top-stories/landlord-tenant-disputes-under-transfer-of-property-act-arbitrable-arbitration-rent-control-laws-supreme-court-167223",
+    "https://www.mondaq.com/india/arbitration-dispute-resolution/1020118/supreme-court-on-arbitrability-of-landlord-tenant-disputes",
+    "https://www.casemine.com/commentary/in/suresh-shah-v.-hipad-technology-india:-affirming-arbitrability-of-tp-act-governed-lease-disputes/view",
+    "https://lawfoyer.in/suresh-shah-v-hipad-technology-india-private-limited-2020-13-scr-821/",
+    "https://blog.ipleaders.in/arbitrability-lease-disputes-india-long-drawn-controversy-put-rest/",
+    "https://supremetoday.ai/lease-disputes-in-mumbai-arbitrable-supreme-court-s-vidya-drolia-overrides-full-bench-ruling-bombay-high-court-INDBOM00000126350"
+  ],
+  "verification_notes": [
+    "Himangni Enterprises v. Kamaljeet Singh Ahluwalia (2017) holding landlord-tenant disputes non-arbitrable, and its being overruled by Vidya Drolia: confirmed from livelaw.in's report and independently from mondaq.com's commentary, both describing the same 2017 ruling and the same overruling.",
+    "Vidya Drolia's holding that landlord-tenant disputes under the Transfer of Property Act are subordinate rights in personam rather than actions in rem, that the Act does not bar arbitration, and that the exception is tenancies covered by a special rent control statute with a designated forum: confirmed from livelaw.in and mondaq.com, both stating the holding and the exception in materially the same terms, with a third source (blog.ipleaders.in) describing the same rent-control exception.",
+    "Suresh Shah v. Hipad Technology India Private Limited applying the Vidya Drolia framework to a Transfer of Property Act-governed sub-lease and holding the dispute arbitrable: confirmed from casemine.com's case commentary and independently from lawfoyer.in's case summary, both citing the same parties, the same application of Vidya Drolia and the same outcome.",
+    "That the Bombay High Court has applied Vidya Drolia to displace an earlier Full Bench position on arbitrability of lease disputes in that State: this comes from a single source (a case-report aggregator) that did not show the date or full reasoning of the ruling, so this guide describes it only as a reported application of the Vidya Drolia principle rather than citing it as an independently confirmed, dated judgment.",
+    "The 2026 Delhi High Court and Madhya Pradesh High Court matters discussing Vidya Drolia in pending Section 11 petitions: these came from court-document search snippets that did not show a final outcome, so this guide refers to them only to show that the Vidya Drolia framework continues to be argued and applied, without asserting what either court ultimately decided.",
+    "The 'four-fold test' sometimes attributed to Vidya Drolia for arbitrability generally could not be confirmed in the search results with a clear, sourced description of its exact elements, so this guide does not state it as a named four-fold test and instead describes only the specific reasoning the sources confirmed for landlord-tenant disputes."
+  ]
+}
