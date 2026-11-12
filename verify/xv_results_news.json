@@ -3467,5 +3467,29 @@
       "https://www.livelawbiz.com/competition-law/cci/competition-commission-of-india-adani-approves-adani-energy-solutions-acquire-intellismart-infrastructure-private-limited-556715"
     ],
     "note": "Approval date 30 Oct 2026, consideration Rs 3,050 crore for 100% of IntelliSmart's equity, NIIF and EESL as sellers, and the June 2026 signing of the underlying agreement confirmed across three independent sources. No duplicate on live site."
+  },
+  {
+    "file": "_drafts/batch13/news/02-gstat-lucknow-ravish-kumar-singh-mani-ply-excess-goods-penalty.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://taxguru.in/?p=1097034",
+      "https://www.taxscan.in/gst/gst-penalty-cannot-be-imposed-on-entire-consignment-for-excess-undocumented-goods-gstat-read-order",
+      "https://www.livelawbiz.com/gst-vat-cst/gstat-upholds-reduction-of-penalty-for-excess-goods-to-undocumented-quantity-556673",
+      "https://www.taxheal.com/?p=143538"
+    ],
+    "note": "Case, parties, citation APL/239/LCK/2026, bench (Santosh Kumar Srivastava and Arvind Kumar), interception date, piece counts (418/450/32) and holding all confirmed by independent sources. Minor date discrepancy: LiveLaw and Taxscan report the decision as 27 October 2026 (as in the draft), but one source indicates the order itself may be dated 29.10.2026; not resolved conclusively from available sources, but immaterial to the holding."
+  },
+  {
+    "file": "_drafts/batch13/news/03-cestat-kolkata-instamod-air-pipe-customs-malaysia-preferential-duty.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://taxguru.in/?p=1096534",
+      "https://www.livelawbiz.com/custom-excise-service-tax/cestat-kolkata-sets-aside-penalty-after-authority-relied-on-undisclosed-emails-inapplicable-dri-alerts-556532",
+      "https://supremetoday.ai/cestat-kolkata-sets-aside-duty-demand-after-customs-relied-on-undisclosed-emails-in-customs-appeal-20261030151",
+      "https://www.jurishour.in/indirect-taxes/malaysian-country-of-origin-certificates-evidence/"
+    ],
+    "note": "Case name, citation (Customs Appeal No. 76148 of 2024, 2026 LLBiz CESTAT(KOL) 636), demand amount (Rs 12.59 lakh), undisclosed-emails finding, DRI alert covering unrelated goods (antimony trioxide/zinc ingots, not aluminium pipes), and time-bar holding all independently confirmed. Not found on live site (no duplicate)."
   }
 ]
