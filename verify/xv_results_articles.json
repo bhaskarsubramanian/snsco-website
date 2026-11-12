@@ -1123,5 +1123,53 @@
         "reason": "Adds the missing citation supporting the fixes above on the pecuniary jurisdiction increase proposal's current status."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/57-dda-ldo-leasehold-property-delhi-freehold-conversion-article.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://indiankanoon.org/doc/182433531/",
+      "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-directs-dda-to-process-pending-freehold-conversion-applications-within-two-months-552550",
+      "https://cag.gov.in/en/audit-report/details/115166",
+      "https://www.verdictum.in/delhi-high-court/delhi-development-authority-v-mala-sahni-seth-2026dhc7651-db-leasehold-freehold-property-conversion-1621698"
+    ],
+    "note": "Core facts on the Mala Sahni Seth contempt proceedings (portal non-functional, 1,373-application backlog, Rs 155.06 crore collected) and the CAG conversion ratio (34,905 of ~60,526 leases, well over half) are confirmed across independent sources. However the article mischaracterizes Ajai Chowdhry v. DDA, W.P.(C) 7998/2023 (21 April 2026): that ruling is a narrow, fact-specific holding that an auction sale following a statutory (Income Tax Department) acquisition does not attract further unearned increase (relying on DDA v. Karamdeep Finance and Investment), not a general rule that freehold conversion alone never triggers unearned increase as opposed to a transfer. This incorrect generalization appears in a body paragraph, an FAQ answer, and the references list.",
+    "fixes": [
+      {
+        "find": "A recent Delhi High Court ruling has also clarified a narrower but practically important point: unearned increase, the lessor's share of the rise in land value, is payable when a lessee proposes to transfer or sell the leasehold rights, not merely because the lessee applies to convert the property from leasehold to freehold. Conversion on its own, in other words, is a different transaction from a transfer, and an owner converting a property they intend to keep should not be asked to pay unearned increase on that conversion alone, though the position can shift if the conversion and a transfer are being carried out together or in close sequence.",
+        "replace": "Whether unearned increase is payable in a given case turns closely on the facts of how the property came to the current owner. In Ajai Chowdhry v. Delhi Development Authority, decided on 21 April 2026, the Delhi High Court quashed part of DDA's unearned increase demand because it related to an auction sale that followed a statutory acquisition by the Income Tax Department, relying on the Supreme Court's ruling in DDA v. Karamdeep Finance and Investment that no further unearned increase is leviable where a property is auctioned at market value after such an acquisition, while upholding a separate, older unearned increase demand relating to an earlier transaction in the same chain. This is a narrow, fact-specific outcome rather than a general rule that conversion alone is exempt from unearned increase, and an owner should get a specific opinion on their own chain of title before assuming either way.",
+        "reason": "The cited case does not stand for a conversion-versus-transfer distinction; it turns on an auction after statutory acquisition under the Karamdeep Finance precedent."
+      },
+      {
+        "find": "A recent Delhi High Court ruling draws a distinction between conversion and transfer: unearned increase is payable when a lessee proposes to transfer or sell the leasehold rights, and conversion to freehold on its own, without an accompanying transfer, does not by itself trigger that charge. Always confirm the authority's current position for the specific property before assuming either way.",
+        "replace": "It depends on the specific chain of ownership. Delhi High Court rulings on unearned increase, including a 2026 decision involving a DDA auction sale that followed a statutory acquisition, turn on the facts of how the property was acquired and transferred rather than on a blanket rule that conversion alone is exempt. Always get a specific opinion on the property's own history before assuming either way.",
+        "reason": "Same mischaracterization as above, repeated in the FAQ answer."
+      },
+      {
+        "find": "Delhi High Court judgment on unearned increase payable only on transfer, not on conversion alone, W.P.(C) 7998/2023, 2026",
+        "replace": "Ajai Chowdhry v. Delhi Development Authority, W.P.(C) 7998/2023, Delhi High Court, 21 April 2026 (unearned increase demand on an auction sale following statutory acquisition, partly quashed)",
+        "reason": "Corrects the reference description to match the actual holding."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/58-delhi-rent-control-act-1958-coverage-eviction-25b-article.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://prsindia.org/billtrack/the-delhi-rent-repeal-bill-2013",
+      "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/harbans-singh-v-anand-tyagi-2025dhc9375-delhi-high-court-rent-control-act-1596170",
+      "https://www.legitquest.com/case/shri-munshi-ram-v-union-of-india/E17",
+      "https://lawtext.in/judgement.php?bid=19025"
+    ],
+    "note": "Central premise (1995 Act assented but never notified, 1958 Act still operative), the Rs 3,500 / D.C. Bhatia threshold, Harbans Singh v. Anand Tyagi (2025 DHC 9375), Shri Munshi Ram v. Union of India, and the Prithipal Singh v. Satpal Singh line on Section 25B limitation are all independently confirmed. However the references list cites 'Rajbir Singh v. Mohan Lal Sharma (Supreme Court)' for the proposition that Section 15(7) is directory and requires a wilful/contumacious default -- no such Supreme Court case could be found under that name in two separate searches. The actual leading Supreme Court authority for that exact proposition is Santosh Mehta v. Om Prakash, which did surface repeatedly (including in a 1996 Delhi High Court second appeal applying it). The underlying legal point in the body text is sound; only the case name attributed to it in the references list appears to be wrong.",
+    "fixes": [
+      {
+        "find": "Rajbir Singh v. Mohan Lal Sharma (Supreme Court, on Section 15(7) being directory and the wilful-default standard for striking out a tenant's defence)",
+        "replace": "Santosh Mehta v. Om Prakash and Another (Supreme Court, on Section 15(7) being directory and the wilful or contumacious default standard for striking out a tenant's defence)",
+        "reason": "No Supreme Court case titled Rajbir Singh v. Mohan Lal Sharma could be located; Santosh Mehta v. Om Prakash is the actual, independently verified authority for this proposition."
+      }
+    ]
   }
 ]
