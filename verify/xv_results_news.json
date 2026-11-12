@@ -3575,5 +3575,27 @@
       "https://news.careers360.com/jnu-sexual-harassment-case-delhi-court-stays-dismissal-seeks-polices-reply-on-akoijams-anticipatory-bail-plea"
     ],
     "note": "Termination date (9 Oct 2026), stay date (2 Nov 2026) and bench (Justice Anup Jairam Bhambhani), the no-notice ground, next hearing in January 2027, the separate FIR and Rouse Avenue anticipatory-bail proceeding, and Akoijam's status as a sitting Congress MP all confirmed by multiple independent outlets (Bar and Bench, LiveLaw, Careers360). Draft's framing that the stay turns only on procedure and does not touch the merits matches all sources. Not found on live site."
+  },
+  {
+    "file": "_drafts/batch13/news/11-delhi-hc-bachchan-personality-rights-final-decree.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.barandbench.com/news/delhi-high-court-passes-permanent-injunction-in-amitabh-bachchans-personality-rights-suit",
+      "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-decrees-amitabh-bachchans-personality-rights-suit-against-multiple-defendants-557680",
+      "https://www.dynamitenews.com/entertainment/delhi-hc-grants-permanent-injunction-protecting-amitabh-bachchans-personality-rights-extends-decree-to-unidentified-infringers"
+    ],
+    "note": "Case number, decree date, bench, Rajat Nagi's app, co-defendants (Manoj Publications, Tamatina, Mahesh Patel), the 2022 ex parte interim order, the settlement basis, and the extension to unidentified John Doe infringers all confirmed by independent outlets. Not found on live site."
+  },
+  {
+    "file": "_drafts/batch13/news/12-allahabad-hc-noida-form-32-plot-allotment-2006-rate.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-authority-reject-application-document-required-brochure-555927",
+      "https://lawtrend.in/?p=371561",
+      "https://supremetoday.ai/allahabad-high-court-rules-noida-cannot-reject-applications-for-documents-not-required-by-original-brochure-20261026035"
+    ],
+    "note": "Writ number, bench, applicant's background, 2006 application date and scheme, Form-32 ground and the brochure not requiring it, the 'rules of the game' holding, and the direction to allot at 2006 rates (with an alternative plot if unavailable) all confirmed by independent sources. The draft's own caveats (precise pronouncement date, single-source fallback-relief detail) remain appropriately flagged. Not found on live site."
   }
 ]
