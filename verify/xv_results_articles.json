@@ -833,5 +833,58 @@
         "reason": "Replaces the 'genuinely unresolved' framing with the corroborated three-tier structure while still flagging the November 2025 notification as needing direct confirmation."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/44-commercial-premises-leases-kolkata-noida-article.json",
+    "verdict": "PASS",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.livelaw.in/pdf_upload/calcutta-hc-rent-449660.pdf",
+      "https://rai-web.rls.net.in/single.php?id=268",
+      "https://legalvidhiya.com/m-s-paul-rubber-industries-private-limited-v-amit-chand-mitra-anr/",
+      "https://www.legalauthority.in/judgement/antony-vs-k-c-ittoop-sons-22233"
+    ],
+    "note": "Independent searches confirm the WB PTA Section 3(f)(i) Rs 10,000 non-residential threshold (Calcutta/Howrah area), the November 2025 UP stamp duty cap on leases up to 10 years, and the holdings in Anthony v. K.C. Ittoop & Sons, Paul Rubber Industries v. Amit Chand Mitra (2023 INSC 854), Park Street Properties v. Dipak Kumar Singh and Tower Vision v. Procall. The two 2024-25 Delhi commercial-court cases (Sach Services v. Aluplast, Indian Energy Exchange v. BHL Forex) exist with matching dates and parties. Draft is already heavily and accurately hedged on open points."
+  },
+  {
+    "file": "_drafts/articles/45-kolkata-municipal-building-law-demolition-article.json",
+    "verdict": "PASS",
+    "claims_checked": 12,
+    "evidence": [
+      "https://calcuttahighcourt.gov.in/Show-Judgment-File/2023~wpa_26556_e.pdf",
+      "https://www.scconline.com/blog/post/2024/03/14/calcutta-high-court-affirms-larica-inns-right-to-roof-based-on-conveyance-deed-and-mutation-scc-blog/",
+      "https://future.indiankanoon.org/doc/50446877/",
+      "https://supremetoday.ai/doc/judgement/00900050498"
+    ],
+    "note": "Independent searches confirm Section 400(1)'s hearing requirement as consistently applied by the Calcutta High Court, Section 412A's insertion by the 2017 amendment, and the Larica Inn and Suresh Prasad Gupta rulings (the latter in fact a Division Bench of Banerjee and Sinha Ray JJ, as the draft states). Draft is candid about unresolved points (Tribunal membership ceiling, Article 226 vs 227) consistent with sources found."
+  },
+  {
+    "file": "_drafts/articles/46-arbitration-practice-calcutta-high-court-kolkata-article.json",
+    "verdict": "FIX",
+    "claims_checked": 13,
+    "evidence": [
+      "https://www.legitquest.com/case/ms-simplex-infrastructure-ltd-v-union-of-india/106336",
+      "https://api.sci.gov.in/supremecourt/2021/25981/25981_2021_8_2_34326_Order_24-Mar-2022.pdf",
+      "https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/indiasupreme-court-rules-on-jurisdiction-of-courts-in-execution-of-arbitral-awards-sundaram-finance-v-samad-6081",
+      "https://PRSINDIA.org/files/bills_acts/acts_parliament/2021/Arbitration and Conciliation (Amendment) Act, 2021.pdf"
+    ],
+    "note": "Ravi Ranjan Developers, Mayavati Trading, Sundaram Finance v. Abdul Samad and the 23 October 2015 retrospective date for the Section 36(3) second proviso all confirmed. But the Section 34 limitation case is misnamed: the Supreme Court decision is M/s Simplex Infrastructure Ltd. v. Union of India, (2019) 2 SCC 455 (5 Dec 2018) -- Simplex was the party that successfully challenged the Calcutta High Court's condonation, not the other way round as the draft has it -- and the underlying delay was 514 days, with 131 days left uncondonable after Section 14 exclusion, not an unspecified 'hundreds of days'. The companion reference to 'Popular Construction Co. v. Supreme Court' is also garbled; the actual case is Union of India v. Popular Construction Co., (2001) 8 SCC 470.",
+    "fixes": [
+      {
+        "find": "The Supreme Court's decision in Union of India v. Simplex Infrastructures, relying on its earlier ruling in Popular Construction, held that Section 5 of the Limitation Act, 1963, which allows condonation of delay on sufficient cause shown, has no application to a Section 34 application at all, and set aside a Calcutta High Court order that had condoned a delay running into hundreds of days beyond the statutory outer limit. Sources differ on the precise reported citation for the Simplex ruling, so no specific citation is given here, but its holding on the three-months-plus-thirty-days outer limit is consistent across the sources consulted.",
+        "replace": "The Supreme Court's decision in M/s Simplex Infrastructure Ltd. v. Union of India, (2019) 2 SCC 455, decided 5 December 2018, relying on its earlier ruling in Union of India v. Popular Construction Co., (2001) 8 SCC 470, held that Section 5 of the Limitation Act, 1963, which allows condonation of delay on sufficient cause shown, has no application to a Section 34 application at all, and set aside a Calcutta High Court order that had condoned a 514-day delay by the Union of India in filing its Section 34 application, holding that the 131 days left uncondoned even after excluding time spent in the wrong forum under Section 14 of the Limitation Act could not be condoned.",
+        "reason": "Case name order was reversed (Simplex, not the Union, challenged the High Court's condonation before the Supreme Court); the citation (2019) 2 SCC 455 and decision date are available and confirmed; the delay was specifically 514 days, narrowed to an uncondonable 131 days, not an unspecified 'hundreds of days'."
+      },
+      {
+        "find": "Union of India v. Simplex Infrastructures, Supreme Court (on Section 34 limitation and Section 5 of the Limitation Act)",
+        "replace": "M/s Simplex Infrastructure Ltd. v. Union of India, (2019) 2 SCC 455, Supreme Court, 5 December 2018 (on Section 34 limitation and Section 5 of the Limitation Act)",
+        "reason": "Case name order was reversed; correct citation and decision date confirmed via independent search and added."
+      },
+      {
+        "find": "Popular Construction Co. v. Supreme Court (earlier ruling relied on in Simplex Infrastructures)",
+        "replace": "Union of India v. Popular Construction Co., (2001) 8 SCC 470 (earlier ruling relied on in Simplex Infrastructure)",
+        "reason": "Original reference was garbled ('v. Supreme Court' is not a valid party) and lacked a citation; corrected to the actual case name and citation."
+      }
+    ]
   }
 ]
