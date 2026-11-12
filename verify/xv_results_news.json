@@ -919,8 +919,8 @@
     "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
     "fixes": [
       {
-        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
-        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+        "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+        "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
         "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
       },
       {
@@ -3642,5 +3642,28 @@
         "reason": "The 2012 trifurcation of the erstwhile MCD created North, South and East Delhi Municipal Corporations. The New Delhi Municipal Council is a separate, pre-existing body governing Lutyens' Delhi that was not part of this split; the petitioner in W.P.(C) 6128/2017 is the North Delhi Municipal Corporation."
       }
     ]
+  },
+  {
+    "file": "_drafts/batch13/news/15-delhi-hc-lift-noc-saraswati-enclave-obstruction-not-presumed.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://delhihighcourt.nic.in/app/showFileJudgment/59102112026CW48752026_181124.pdf",
+      "https://advocategandhi.com/?p=42872",
+      "https://future.indiankanoon.org/doc/123283123/"
+    ],
+    "note": "Independent search confirms case number W.P.(C) 4875/2026, Justice Saurabh Banerjee, judgment reserved 16 Oct 2026 and pronounced 2 Nov 2026, the Saraswati Enclave lift NOC facts, and dismissal of the petition. Petitioner's name Krishan Kumar Sharma and the burden-of-proof holding on obstruction claims are corroborated by the same case listing across two independent searches."
+  },
+  {
+    "file": "_drafts/batch13/news/16-nclat-technofab-certified-copy-limitation-appeal-non-est.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.livelawbiz.com/ibc/failure-to-apply-for-certified-copy-within-limitation-renders-appeal-incompetent-nclat-557666",
+      "https://courtbook.in/posts/certified-copy-mandatory-for-nclat-appeals-under-ibc-supreme-court",
+      "https://www.verdictum.in/supreme-court/angelwoods-apartment-allottees-association-v-m-lalitha-2026-insc-479-appeal-nclat-1613938",
+      "https://www.livelawbiz.com/pdf_upload/2026/11/06/anil-khandelwal-710259.pdf"
+    ],
+    "note": "Case name, number (Company Appeal (AT) (Insolvency) 1720/2026), 4 Nov 2026 decision date, bench, underlying 17 July 2026 NCLT order, the certified-copy-sought-on-66th-day fact, dismissal of condonation/exemption applications, and the non-est holding are confirmed via LiveLaw Biz and courtbook.in. The Angelwoods precedent's citation (2026 INSC 479) mentioned only in the draft's verification notes is independently confirmed via Verdictum, strengthening confidence; the 44th-day appeal-filing detail could not be separately corroborated but is a minor supporting fact."
   }
 ]
