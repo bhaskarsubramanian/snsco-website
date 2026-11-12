@@ -3709,5 +3709,27 @@
       "https://nclt.gov.in/sites/default/files/pdf_cause_list/Cause%20List-Kolkata%20Bench-Court%20No.%20II-%2017%20Aug%202026.pdf"
     ],
     "note": "Independent search confirms the Rs 5.52 crore default, the Section 7 admission against Shree Vaishnavi Ispat by Piyush Securities, and the written-loan-agreement-not-mandatory holding. An NCLT Kolkata cause list independently lists the matter (C.P.(IB)/236(KB)2025) with stage 'Admitted', corroborating the admission."
+  },
+  {
+    "file": "_drafts/batch13/updates/04-damodar-valley-corporation-maithan-alloys-supreme-court.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://supremetoday.ai/supreme-court-sets-aside-five-year-old-appellate-tribunal-review-order-against-damodar-valley-corporation-tariff-20261031062",
+      "https://www.verdictum.in/supreme-court/damodar-valley-corporation-v-maithan-alloys-limited-2026-insc-1178-finality-closure-litigation-cost-sail-1624980",
+      "https://courtbook.in/posts/supreme-court-slams-aptel-for-overruling-its-precedent-imposes-35-lakh-costs"
+    ],
+    "note": "Citation 2026 INSC 1178, 30 Oct 2026 decision date, and the holding that APTEL's review order impermissibly reopened a point the Supreme Court had already settled are confirmed via SupremeToday and Verdictum. The 2018 precedent the Court relied on is independently traceable to Bhaskar Shrachi Alloys Ltd v Damodar Valley Corporation, consistent with the draft naming it directly. Reported cost figures conflict across sources (Rs 35 lakh per one outlet vs a Rs 2 lakh/Rs 1.5 lakh split per another), which the draft correctly avoided including in the card."
+  },
+  {
+    "file": "_drafts/batch13/updates/05-south-bihar-power-india-power-corporation-supreme-court.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/south-bihar-power-distribution-company-ltd-v-india-power-corporation-ltd-2026-insc-1165-s-29a-lies-with-court-us-21e-1624757",
+      "https://taxguru.in/?p=1096231",
+      "https://supremetoday.ai/supreme-court-upholds-arbitration-extension-ruling-while-clarifying-jurisdictional-powers-under-arbitration-and-conciliation-act-20261029060"
+    ],
+    "note": "Citation 2026 INSC 1165, Civil Appeal No. 9313 of 2026, 28 Oct 2026 decision date, and the core waiver holding (unobjected participation before a sole arbitrator waives a contractual three-member tribunal clause) are confirmed by independent search. The judgment also addressed a second, unrelated point on Section 11/29A extension power not mentioned in the card, which is an omission but not an inaccuracy."
   }
 ]
