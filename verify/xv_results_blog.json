@@ -2914,5 +2914,25 @@
     "reason": "The FAQ as written suggests the Controller's role is confined to 'thika tenant status and registration' without noting the 2010 expansion, which could understate what the Controller can now decide."
    }
   ]
+ },
+ {
+  "file": "_drafts/batch13/blog/11-calcutta-high-court-writ-petition-article-226-how-to-file-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/phr-invent-educational-society-v-uco-bank-2024-insc-297-article-226-alternative-remedy-1530272",
+   "https://www.barandbench.com/news/litigation/writ-cases-filed-wrong-administrative-side-calcutta-high-court-guidelines"
+  ],
+  "note": "PHR Invent Educational Society v. UCO Bank (2024 INSC 297) and the Calcutta HC's conversion-not-dismissal practice for wrong-side filings under the 1986 Rules both confirmed independently, matching the draft's appropriately hedged claims."
+ },
+ {
+  "file": "_drafts/batch13/blog/12-lost-original-sale-deed-title-documents-certified-copy-indemnity-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.advocatekhoj.com/library/bareacts/registration/57.php",
+   "https://www.apnilaw.com/bare-act/bsa/section-60-bharatiya-sakshya-adhiniyam-bsa-cases-in-which-secondary-evidence-relating-to-documents-maybe-given"
+  ],
+  "note": "Section 57 Registration Act certified-copy mechanism and BSA secondary-evidence treatment of lost originals both confirmed; the draft correctly avoids naming an unverified specific BSA section number."
  }
 ]
