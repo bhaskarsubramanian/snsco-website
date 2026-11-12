@@ -1031,5 +1031,62 @@
       "https://www.scconline.com/blog/post/2025/08/19/posh-act-compliance-supreme-court-conduct-district-wise-survey-setting-up-icc/"
     ],
     "note": "Section 4 Internal Committee composition (senior woman presiding officer, two employee members, one external NGO member, half women, three-year tenure) confirmed by multiple independent sources. Section 9's three-month limitation with a discretionary further three-month extension, and Section 11's 90-day inquiry period with Section 13's 10-day report/60-day action and Section 18's 90-day appeal window, all confirmed, including the draft's correct hedge that courts have not applied the limitation period uniformly (a Madras HC ruling on serious offences was independently found in this run, matching the draft's deliberately general description). Section 26's fine of up to Rs 50,000 for a first contravention, doubled for repeat contravention, and possible licence/registration cancellation under 26(2) tied specifically to repeat convictions, all confirmed. Aureliano Fernandes v. State of Goa (12 May 2023 judgment) and the subsequent nationwide district-wise compliance survey and She-Box push (now confirmed to trace mainly to a 12 August 2025 order, 2025 SCC OnLine SC 1749) are accurately described in the draft's deliberately hedged, general terms rather than pinned to one precise date, which matches the genuine inconsistency found across independent sources in this run. All eight related_pages paths confirmed present in origin/main:assets/search-index.json. No marketing language or unsupported claims found."
+  },
+  {
+    "file": "_drafts/articles/54-gift-release-deeds-family-settlements-stamp-duty-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.livelaw.in/amp/high-court/delhi-high-court/indian-stamp-act-sisters-relinquishing-property-rights-in-favour-of-co-owner-brother-is-not-gift-delhi-high-court-306353",
+      "https://www.scconline.com/blog/?p=363493",
+      "https://lawinsider.in/judgment/kuppuswamy-chettiar-vs-a-s-p-a-arumugam-chettiar-and-another",
+      "https://lawfoyer.in/ravinder-kaur-grewal-ors-v-manjit-kaur-ors-2020-8-scr-1138/",
+      "https://www.freepressjournal.in/uttar-pradesh/up-cabinet-extends-stamp-duty-concession-to-commercial-industrial-gift-deeds"
+    ],
+    "note": "All core claims independently confirmed: Ramesh Sharma v GNCTD (LPA 346/2020, 2025:DHC:8835-DB / 2025 SCC OnLine Del 6367, decided 8 Oct 2025, bench Kshetarpal & Vaidyanathan Shankar) matches draft facts and holding exactly. Kuppuswami Chettiar [1967] 1 SCR 275 and Ravinder Kaur Grewal [2020] 8 SCR 1138 citations and holdings confirmed. Registration Act s.17(2)(v) wording confirmed. UP Jan 2026 commercial/industrial gift-deed stamp duty extension confirmed by multiple independent outlets; WB 0.5% family gift rate confirmed. All related_pages links exist on main. No marketing language or client anecdotes found."
+  },
+  {
+    "file": "_drafts/articles/55-specific-performance-injunctions-2018-amendment-article.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.drishtijudiciary.com/current-affairs/2018-amendment-to-sra-not-retrospective",
+      "https://www.verdictum.in/court-updates/supreme-court/annamalai-v-vasanthi-2025-insc-1267-termination-of-contract-specific-performance-1596228",
+      "https://www.verdictum.in/allahabad-high-court/tushar-agrawal-v-ganesh-prasad-2026ahc133431-specific-performance-no-longer-discretionary-2018-amendment-1617343",
+      "https://www.casemine.com/search/in/chand%2Brani%2Bkamal%2Brani"
+    ],
+    "note": "Core doctrine (Sections 10, 14, 16, 20, 41), Chand Rani, Kailash Nath Associates, Fateh Chand, and Tushar Agrawal v. Ganesh Prasad all confirmed accurately. However, the draft treats the prospective-vs-retrospective scope of the 2018 amendment as unsettled after the 2024 review of Katta Sujatha Reddy, omitting that the Supreme Court resolved this in Annamalai v. Vasanthi, 2025 INSC 1267 (decided 29 October 2025, Pardiwala and Misra JJ), which held the amendment has no retrospective effect. This is a material, verifiable gap given the article's November 2026 as_on_date; fixes update the key point, body section, drafting-strategy paragraph, conclusion and one FAQ answer, and add the missing citation to the references list.",
+    "fixes": [
+      {
+        "find": "The Supreme Court held in 2022 that the amendment is prospective and does not reach contracts executed before 1 October 2018; a 2024 review of that decision has reopened how far that prospective rule actually extends, and the position for contracts straddling the cut-off is not fully settled.",
+        "replace": "The Supreme Court held in 2022 that the amendment is prospective and does not reach contracts executed before 1 October 2018; a 2024 review of that decision left commentators divided, but in October 2025, in Annamalai v. Vasanthi, the Supreme Court confirmed that the amendment has no retrospective effect and does not reach suits or transactions arising before that date.",
+        "reason": "A later Supreme Court decision (Annamalai v. Vasanthi, 2025 INSC 1267, decided 29 October 2025) resolved the question the draft describes as unsettled; omitting it understates how settled the position now is as of the article's November 2026 as_on_date."
+      },
+      {
+        "find": "That position was not the end of the matter. A review petition against the August 2022 decision was heard, and in November 2024 the Supreme Court revisited its earlier ruling, reinstating the view taken by the High Court in the underlying dispute. Commentary on the review is divided on how far it actually unsettles the 2022 prospective rule: some readings treat the review as effectively making the amendment apply more broadly, including to pending suits on older contracts, while other commentary cautions that the review did not expressly hold that the amended provisions govern suits instituted on contracts predating the amendment, and that the point remains open for argument in future cases. Given this, a litigant with a contract that straddles the October 2018 cut-off should not assume which version of Section 10 will be applied to their claim; the safer course is to plead and argue the case under both the pre- and post-amendment standards and let the court decide the applicable regime on the specific facts, rather than build the whole case on one reading of a still-contested review.",
+        "replace": "That position was not the end of the matter. A review petition against the August 2022 decision was heard, and in November 2024 the Supreme Court revisited its earlier ruling, reinstating the view taken by the High Court in the underlying dispute. Commentary on the review was divided on how far it unsettled the 2022 prospective rule, but the Supreme Court has since resolved the uncertainty. In Annamalai v. Vasanthi, decided on 29 October 2025 (2025 INSC 1267), a bench of Justices J.B. Pardiwala and Manoj Misra held that the 2018 amendment has no retrospective effect and does not govern suits or transactions arising before 1 October 2018, clarifying that the 2024 review had not held otherwise. For a contract made before the cut-off, the pre-amendment position under Section 20 as it then stood, requiring the court's discretion to be exercised judicially rather than arbitrarily, continues to govern, whatever the date on which the suit itself was filed.",
+        "reason": "Adds the October 2025 Annamalai v. Vasanthi decision, which directly resolves the prospective-versus-retrospective question the draft leaves open; this is a significant, verifiable development predating the article's as_on_date."
+      },
+      {
+        "find": "Where the contract predates October 2018, plead the case to succeed under either the pre- or post-amendment standard until the unsettled scope of the 2024 review is clarified further by the courts.",
+        "replace": "Where the contract predates October 2018, the Supreme Court's October 2025 decision in Annamalai v. Vasanthi confirms that the pre-amendment, discretionary standard governs; plead and prepare evidence accordingly rather than assuming the 2018 standard will apply.",
+        "reason": "Consistent with the Annamalai v. Vasanthi correction above; the 2024 review's scope is no longer the operative uncertainty once the 2025 decision is accounted for."
+      },
+      {
+        "find": "The unresolved scope of the Supreme Court's 2024 review of Katta Sujatha Reddy means that a contract made close to the October 2018 cut-off still needs careful, forum-specific advice on which version of Section 10 will actually apply. Until that question settles further, the safer course for both drafters and litigants is to assume nothing and prepare for either standard to be applied.",
+        "replace": "The Supreme Court's October 2025 decision in Annamalai v. Vasanthi has since confirmed that the amendment does not reach contracts made before 1 October 2018, resolving the uncertainty left by the 2024 review of Katta Sujatha Reddy. A contract made close to that cut-off still needs careful, date-specific advice, but litigants and drafters no longer need to treat the applicable standard as unsettled.",
+        "reason": "Brings the conclusion in line with the October 2025 clarification; the draft's framing of the point as still unresolved is outdated given a Supreme Court decision over a year before the article's as_on_date."
+      },
+      {
+        "find": "The Supreme Court held in 2022, in Katta Sujatha Reddy, that the amendment is prospective and does not apply to contracts entered into before 1 October 2018. A 2024 review of that decision has reopened how far this prospective rule extends for suits on older contracts still pending, and the position is not fully settled.",
+        "replace": "The Supreme Court held in 2022, in Katta Sujatha Reddy, that the amendment is prospective and does not apply to contracts entered into before 1 October 2018. A 2024 review of that decision left the point in some doubt, but in October 2025, in Annamalai v. Vasanthi, the Supreme Court confirmed that the amendment has no retrospective effect and does not govern suits or transactions arising before that date.",
+        "reason": "Same correction applied to the FAQ answer for consistency with the body text."
+      },
+      {
+        "find": "    \"Review of Katta Sujatha Reddy v. Siddamsetty Infra Projects Pvt. Ltd., Supreme Court of India, order on review petition, November 2024\",",
+        "replace": "    \"Review of Katta Sujatha Reddy v. Siddamsetty Infra Projects Pvt. Ltd., Supreme Court of India, order on review petition, November 2024\",\n    \"Annamalai v. Vasanthi & Ors., 2025 INSC 1267, Supreme Court of India, decided 29 October 2025, holding the 2018 amendment has no retrospective effect\",",
+        "reason": "Adds the missing citation for the Annamalai v. Vasanthi decision relied on in the fixes above."
+      }
+    ]
   }
 ]
