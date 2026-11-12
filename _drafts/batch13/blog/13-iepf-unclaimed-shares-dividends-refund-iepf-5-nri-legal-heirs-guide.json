@@ -1,0 +1,92 @@
+{
+ "slug": "iepf-unclaimed-shares-dividends-refund-iepf-5-nri-legal-heirs-guide",
+ "title": "Claiming Shares or Dividends Transferred to the IEPF, Including as an NRI or Legal Heir",
+ "meta_description": "How to recover shares or dividends sent to the Investor Education and Protection Fund by filing Form IEPF-5, including the NRI and legal heir process.",
+ "practice_area": "Property & Civil Litigation",
+ "intro": [
+  "If dividends on your shares went unpaid or unclaimed for seven consecutive years, the company is required to transfer both the unclaimed dividend and the underlying shares to the Investor Education and Protection Fund, a central government fund maintained under the Companies Act, 2013. As on today's date, that transfer does not take away your ownership of the shares or your right to the dividend; it only moves custody of the money and the shares to the Fund until you, your nominee, or your legal heirs come forward with a claim.",
+  "The claim route is a single form, IEPF-5, filed online, but the supporting steps around it, verification by the company, and the documents a legal heir or an NRI claimant needs, are where most people get stuck. This guide sets out the statutory basis, who can claim, what has to happen before you file, and what is different for an NRI or an heir claiming a deceased shareholder's holding."
+ ],
+ "sections": [
+  {
+   "heading": "Why shares end up in the IEPF",
+   "paragraphs": [
+    "Section 124(5) of the Companies Act, 2013 requires a company to transfer any dividend that has remained unpaid or unclaimed for seven consecutive years, along with any interest earned on it, to the Investor Education and Protection Fund. Section 124(6) goes further: where the dividend on a particular shareholding has gone unclaimed for seven consecutive years, the company must also transfer the underlying shares themselves to the Fund, not merely the cash dividend. This most often happens to investors who changed address or bank details without updating the company or its registrar, to shareholders who died without their nominee or heirs informing the company, and to old physical share certificates nobody actively tracked.",
+    "Transfer to the IEPF is a custodial move, not a forfeiture. Section 125 establishes the Fund and the mechanism for refunding these amounts and shares to the rightful claimant on application, and the Investor Education and Protection Fund Authority (Accounting, Audit, Transfer and Refund) Rules, 2016 set out the detailed procedure, with Rule 7 governing the refund claim itself."
+   ]
+  },
+  {
+   "heading": "Who can claim, and the first step before filing",
+   "paragraphs": [
+    "The original shareholder, a nominee named on the folio or demat account, a legal heir of a deceased shareholder, an NRI shareholder, and joint holders can all claim shares and dividends from the IEPF, each by filing Form IEPF-5. Before filing the web form, the claimant should first get the company to register the underlying entitlement in the claimant's name, meaning transmission to a legal heir, or confirmation of a nominee's or joint holder's standing, through the company or its registrar and transfer agent. The claim to the IEPF Authority is built on that underlying entitlement being settled with the company first, not the other way round.",
+    "Each company is required to designate a nodal officer for IEPF matters, and that is the first point of contact to confirm which shares or dividend amounts of yours were transferred, since the company's own records will show the folio or demat details, the dividend years involved, and the date of transfer to the Fund."
+   ]
+  },
+  {
+   "heading": "Filing Form IEPF-5 and the documents needed",
+   "paragraphs": [
+    "Form IEPF-5 is filed as a web form on the Ministry of Corporate Affairs portal. After filling it in online, the claimant downloads the acknowledged copy, signs it, and sends it along with the supporting documents to the company, which then verifies the claim and forwards a verification report to the IEPF Authority. Supporting documents typically include the acknowledgement generated after submission, proof of the claimant's entitlement such as the original or duplicate share certificate where available, an indemnity bond, and the claimant's bank and demat account details, since any refund is credited to a demat account rather than paid out as physical certificates or cash to a bank account alone.",
+    "Where the claimant is a legal heir of a deceased shareholder, the document set also includes the death certificate and proof of succession, such as a succession certificate, probate, letters of administration, a legal heir certificate, or a registered family settlement, depending on what the company's own transmission process accepts. Where original share certificates have been lost, the claimant needs to follow the company's duplicate-certificate process first, since the Authority processes a refund claim against an entitlement the company has already verified, not a bare assertion of loss."
+   ]
+  },
+  {
+   "heading": "What changes for an NRI claimant",
+   "paragraphs": [
+    "An NRI claimant follows the same Form IEPF-5 route, but refunds are released only into a demat account, so an NRI without an existing NRO or NRE-linked demat account will need to open one before the claim can be completed. Where the claimant acts through a power of attorney because they are abroad, the power of attorney should be executed and, depending on the country, notarised or consularised in advance of the claim, since a document executed or attested after the fact to backdate the authority is not accepted.",
+    "Joint holders, including an NRI co-holder, must all sign the physical copy of the submitted form before it is sent to the company, which can itself take time to coordinate across jurisdictions, so building that step into your timeline matters more for an NRI claim than for a resident sole holder's claim.",
+    "Tax residency also comes into the picture once the refund lands, since the shares and any dividend credited after the claim are treated under the ordinary tax rules that apply to the NRI's residential status, which is a separate question from the IEPF claim itself and is better checked with whoever handles the claimant's Indian tax filings. None of this changes the underlying claim procedure, but it is worth planning for before the money or shares actually arrive, particularly where the claimant has not filed Indian returns in several years and the credit itself triggers a fresh compliance question."
+   ]
+  },
+  {
+   "heading": "Timelines, fraud safeguards and what to watch for",
+   "paragraphs": [
+    "The company is expected to verify the claim and forward its report to the IEPF Authority within a defined period after the claim is filed, and the Authority then processes the refund once it has that verification; practical experience reported by claimants suggests the full process, from filing to credit of the refund, more often runs into several months rather than weeks, particularly where the company's own records need reconciling against old folios. Build that into your expectations rather than assuming an administrative claim moves quickly.",
+    "A false or fraudulent claim under this process can attract liability under Section 447 of the Companies Act, the Act's general fraud provision, which is a reason the Authority and the company both scrutinise supporting documents carefully rather than processing refunds on the claimant's word alone. For a shareholder or heir dealing with other post-death claims on a deceased family member's investments, such as bank accounts, fixed deposits and insurance, see our separate guide on nominee versus legal heir claims, since the IEPF process for shares runs on its own track and does not substitute for those other claims."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I lose my shares permanently once they are transferred to the IEPF?",
+   "a": "No. Transfer to the IEPF only moves custody of the shares and the unpaid dividend to the Fund after seven years of non-claim. Your ownership is not extinguished, and you, your nominee, or your legal heirs can recover them by filing Form IEPF-5 with the required documents."
+  },
+  {
+   "q": "Can a legal heir claim shares from the IEPF without going through probate or a succession certificate?",
+   "a": "It depends on what the company's own transmission process accepts for the value and nature of the holding involved; smaller holdings are sometimes transmitted on simpler documents such as a legal heir certificate or an indemnity bond, while larger or disputed estates are more likely to need a succession certificate, probate or letters of administration. Check with the company's nodal officer what it requires before assuming either way."
+  },
+  {
+   "q": "How does an NRI receive the refund if their shares were in physical certificate form?",
+   "a": "The refund is credited only to a demat account, never as a fresh physical certificate, so an NRI claimant without one will first need to open an NRO or NRE-linked demat account and get the old physical holding dematerialised through the company's registrar before the claim can go through."
+  },
+  {
+   "q": "Who do I contact first if I think my shares were transferred to the IEPF?",
+   "a": "Contact the company's registrar and transfer agent or its designated IEPF nodal officer first, since the company holds the folio and dividend history that confirms whether and when a transfer happened, before you file the web claim form with the Authority."
+  },
+  {
+   "q": "What happens if I give wrong information in an IEPF-5 claim?",
+   "a": "A false or fraudulent claim exposes the claimant to action under the Companies Act's general fraud provision, Section 447, which carries serious penalties. This is exactly why the company and the Authority both verify the supporting documents carefully rather than process any refund on the claimant's own statement alone."
+  }
+ ],
+ "references": [
+  "Companies Act, 2013, Section 124(5) and 124(6), on transfer of unclaimed dividend and the underlying shares to the IEPF after seven years",
+  "Companies Act, 2013, Section 125, establishing the Investor Education and Protection Fund",
+  "Investor Education and Protection Fund Authority (Accounting, Audit, Transfer and Refund) Rules, 2016, Rule 7, on the refund claim procedure and Form IEPF-5",
+  "Companies Act, 2013, Section 447, on punishment for fraud, as applicable to a fraudulent refund claim"
+ ],
+ "sources": [
+  "https://thc.nic.in/Central Governmental Rules/Investor Education and Protection Fund Authority (Accounting, Audit, Transfer and Refund) Rules, 2016.pdf",
+  "https://taxguru.in/corporate-law/steps-iepf-refund.html",
+  "https://www.lawrbit.com/companies-act-procedures/claiming-unpaid-amounts-and-shares-from-iepf/",
+  "https://angelone.in/knowledge-center/share-market/iepf-shares-refund-process",
+  "https://sharesamadhan.com/blog-details/165/How-NRIs-Can-Recover-Shares-from-IEPF"
+ ],
+ "verification_notes": [
+  "Section 124(5) on seven years' unclaimed dividend going to the IEPF, and Section 124(6) on the underlying shares also being transferred: confirmed from the Investor Education and Protection Fund Authority Rules text and from an independent taxguru.in summary of the same two sub-sections stated in near-identical terms.",
+  "Section 125 establishing the Fund and Rule 7 of the 2016 Rules governing the Form IEPF-5 refund claim: confirmed from the official Rules PDF and from a second independent commentary (taxguru.in) citing the same rule and form number for the claim mechanism.",
+  "That a claimant must first have the entitlement transmitted or confirmed with the company before the IEPF Authority claim, and that refunds go only to a demat account: confirmed from two independent sources (lawrbit.com and angelone.in) describing the same sequence and the same demat-only refund mechanism.",
+  "Document requirements for a legal heir, including succession certificate, probate, letters of administration or legal heir certificate: confirmed from the Oil India company guide and sharesamadhan's NRI-focused guide, both listing an overlapping document set, though the exact combination the company insists on can vary by case, which this guide notes rather than presenting as a fixed checklist.",
+  "The requirement that an NRI's power of attorney be executed and attested in advance, with no retrospective consularisation accepted: this came from a single source (sharesamadhan.com) and could not be independently corroborated in the search results, so it is stated as that source's guidance rather than a confirmed universal rule.",
+  "Processing timelines of several months rather than weeks: this reflects claimant experience reported in secondary sources rather than an official service-level timeline fixed by the Rules, and is stated accordingly as a practical expectation, not a statutory deadline.",
+  "Section 447 fraud liability applying to a false IEPF claim: confirmed from a taxguru.in commentary; a second independent source making the same specific link to Section 447 for IEPF claims specifically was not found, though Section 447 is itself the Act's general fraud provision and its broad application is well established."
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "directors-personal-liability-companies-act-guide",
+ "title": "When Are Company Directors Personally Liable for the Company's Acts?",
+ "meta_description": "When a director can be made personally liable under the Companies Act, for cheque dishonour or fraud, and when the corporate veil still protects them.",
+ "practice_area": "Corporate Law & M&A",
+ "intro": [
+  "A company is a separate legal person, and the general rule is that its debts and wrongs are its own, not its directors'. A director becomes personally liable only when a specific statutory provision pierces that separation, or when the director's own conduct, not merely their office, satisfies the conditions that provision sets out. Directors who assume that signing documents or sitting on a board is itself a source of personal exposure usually overstate the risk; directors who assume the corporate veil protects them no matter what they personally did usually understate it.",
+  "This guide maps the main routes by which a director in India can end up personally liable: being treated as an officer in default under the Companies Act, fraud-related liability under Sections 447 and 339, cheque dishonour liability under the Negotiable Instruments Act, and the separate, narrower protection Parliament has built in for independent and non-executive directors. It also flags where tax and labour statutes create their own, separate recovery routes against directors that run independently of company law."
+ ],
+ "sections": [
+  {
+   "heading": "The starting point: officer in default",
+   "paragraphs": [
+    "Section 2(60) of the Companies Act, 2013 defines who counts as an officer in default for the purposes of the Act's penalty provisions. It covers a managing director or whole-time director, a key managerial person, and, importantly, a director who is aware of a contravention through participation in board proceedings and has not objected to it, or who is otherwise knowingly a party to the default by virtue of the board's decisions being carried out with their knowledge, consent or connivance. Being named a director on paper, without more, does not automatically make someone an officer in default.",
+    "This definition matters because dozens of specific provisions scattered through the Act impose penalties on the company and its officer in default jointly, so whether a particular director falls within Section 2(60) for a given contravention decides whether that person, individually, faces a penalty or prosecution for it. Courts and tribunals look at actual board-level knowledge and participation, not just designation, when deciding who was in default for a specific lapse."
+   ]
+  },
+  {
+   "heading": "Fraud: Sections 447 and 339",
+   "paragraphs": [
+    "Section 447 is the Companies Act's general fraud provision and carries some of the heaviest penalties in the statute, reaching any person, director or otherwise, who is found to have committed fraud in relation to the company's affairs. It is deliberately broad, and its reach to a director turns on proof of the fraudulent act and intent, not merely on the person's office.",
+    "Section 339 applies in the specific context of a company being wound up, and lets the Tribunal declare a person personally liable, without limitation, for the company's debts where it appears that the business was carried on with intent to defraud creditors or for any fraudulent purpose. This is one of the clearest statutory veil-piercing provisions in the Act, aimed squarely at those who ran the business fraudulently, and it operates through the National Company Law Tribunal in the course of the winding-up proceeding rather than as a stand-alone civil claim."
+   ]
+  },
+  {
+   "heading": "Cheque dishonour: Section 141 of the Negotiable Instruments Act",
+   "paragraphs": [
+    "Section 141 of the Negotiable Instruments Act, 1881 makes a person who was in charge of, and responsible to the company for, the conduct of its business at the time a cheque was dishonoured, liable alongside the company for the offence under Section 138. The Supreme Court has repeatedly clarified through 2025 that this is not a status offence attaching automatically to every director. In K.S. Mehta v. Morgan Securities and Credits Pvt. Ltd. (2025 INSC 315), the Court held that merely attending board meetings does not impose liability on a non-executive or independent director, and that such directors are not vicariously liable unless their direct involvement in the day-to-day affairs relevant to the cheque is specifically pleaded.",
+    "The Court has reached a similar result in other 2025 rulings, including HDFC Bank Ltd. v. State of Maharashtra (2025 INSC 759), holding there is no universal presumption that every director is in charge of a company's everyday affairs, and Kamalkishor Shrigopal Taparia v. India Ener-Gen Pvt. Ltd. (2025 INSC 223), holding that a bare designation as director does not conclusively establish liability. The practical consequence for a complaint under Section 138 read with Section 141 is that it must set out specific averments about what each named director actually did or controlled, not simply list every director on record at the relevant time."
+   ]
+  },
+  {
+   "heading": "The narrower shield for independent and non-executive directors",
+   "paragraphs": [
+    "Section 149(12) of the Companies Act specifically addresses independent directors and non-executive directors who are not promoters or key managerial personnel, providing that such a director is liable only for acts of omission or commission by the company that occurred with their knowledge, attributable through board processes, with their consent or connivance, or where they had not acted diligently. This is narrower than the exposure a managing director or whole-time director carries, and it exists precisely because Parliament wanted independent directors to be able to serve on boards without assuming blanket personal risk for every default of the company.",
+    "The practical effect is that a complaint or proceeding against an independent or non-executive director has to show one of those specific conditions, not merely that the person held the office, and courts have been willing to quash proceedings where a complaint names such a director without any averment linking them to actual knowledge, consent, connivance or want of diligence regarding the specific default in question."
+   ]
+  },
+  {
+   "heading": "Tax and labour dues: a separate, statute-specific track",
+   "paragraphs": [
+    "Beyond the Companies Act and the cheque-dishonour route, several tax and labour statutes carry their own provisions allowing recovery from directors personally in defined circumstances, typically where the company's own assets are insufficient and the statute expressly extends recovery to directors who were in charge of the company's affairs during the relevant period. These provisions operate independently of Section 2(60) or Section 149(12), on their own wording and their own conditions, so a director facing a tax recovery notice or a labour dues claim needs to look at that specific statute's language rather than assume the Companies Act's officer-in-default framework automatically applies or automatically protects them.",
+    "Because these provisions vary by statute and are amended periodically, including through the ongoing consolidation of labour law into the four Labour Codes, this guide does not state specific section numbers or thresholds for tax or labour recovery from directors; a director facing such a notice should check the current text of the particular statute invoked and, where relevant, whether the applicable Code provision has been brought into force for that purpose."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is every director of a company automatically liable if the company bounces a cheque?",
+   "a": "No. The Supreme Court has held in several 2025 rulings that a director is liable under Section 141 of the Negotiable Instruments Act only if they were in charge of and responsible for the company's business at the relevant time, and that a complaint must specifically plead this, not simply name every director on record."
+  },
+  {
+   "q": "Can an independent director be held liable for fraud committed by the company's management?",
+   "a": "Only if the specific conditions in Section 149(12) of the Companies Act are met, meaning the default occurred with the independent director's knowledge through board processes, with their consent or connivance, or through their own lack of diligence. Being on the board without any such link is not enough on its own."
+  },
+  {
+   "q": "What is the difference between Section 447 and Section 339 of the Companies Act?",
+   "a": "Section 447 is the Act's general fraud provision, applicable whenever fraud in relation to the company's affairs is proved against any person, director or otherwise. Section 339 is narrower and specific to a winding-up proceeding, letting the Tribunal declare a person personally liable for the company's debts where the business was carried on with intent to defraud creditors."
+  },
+  {
+   "q": "Does resigning as a director end personal liability for earlier defaults?",
+   "a": "Resignation stops future exposure for acts after the resignation takes effect, but it does not retroactively erase liability for conduct or defaults that occurred while the person was a director and otherwise met the conditions for personal liability under the relevant provision."
+  }
+ ],
+ "references": [
+  "Companies Act, 2013, Section 2(60), defining officer in default",
+  "Companies Act, 2013, Section 447 (fraud) and Section 339 (liability for fraudulent conduct of business during winding up)",
+  "Companies Act, 2013, Section 149(12), on the restricted liability of independent and non-executive directors",
+  "Negotiable Instruments Act, 1881, Sections 138 and 141, on cheque dishonour and liability of persons in charge of the company",
+  "K.S. Mehta v. Morgan Securities and Credits Pvt. Ltd., 2025 INSC 315; HDFC Bank Ltd. v. State of Maharashtra, 2025 INSC 759; Kamalkishor Shrigopal Taparia v. India Ener-Gen Pvt. Ltd., 2025 INSC 223"
+ ],
+ "sources": [
+  "https://www.verdictum.in/app-lite/court-updates/supreme-court/merely-attending-board-meetings-doesnt-impose-financial-liability-on-director-2025-insc-315-ks-mehta-v-morgan-securities-and-credits-pvt-ltd-1570214",
+  "https://www.verdictum.in/app-lite/court-updates/supreme-court/hdfc-bank-limited-v-state-of-maharashtra-2025-insc-759-section-141-ni-act-1578413",
+  "https://www.livelaw.in/amp/supreme-court/s-141-ni-act-non-executive-independent-company-directors-not-liable-for-cheques-dishonour-unless-their-direct-involvement-shown-supreme-court-285674",
+  "https://corporatelawreporter.com/?p=31944",
+  "https://lawsikho.com/blog/personal-liability-of-independent-directors-in-india-section-14912-risks-and-the-safe-harbour-playbook-2026/"
+ ],
+ "verification_notes": [
+  "K.S. Mehta v. Morgan Securities and Credits Pvt. Ltd. (2025 INSC 315) and its holding that attending board meetings alone does not impose Section 141 liability: confirmed from two independent reports (verdictum.in and livelaw.in) describing the same case number, parties and holding.",
+  "HDFC Bank Ltd. v. State of Maharashtra (2025 INSC 759) and Kamalkishor Shrigopal Taparia v. India Ener-Gen Pvt. Ltd. (2025 INSC 223), each on the absence of a universal presumption of director involvement: confirmed from the livelaw.in half-yearly digest summary and the verdictum.in case report, both naming the same cases and case numbers consistently.",
+  "Section 2(60) officer-in-default definition, including the board-participation and knowledge/consent/connivance test: confirmed from two independent commentaries (ksandk.com and a law-firm note) describing the same statutory elements, though neither source quoted the full bare-act text verbatim, so this guide states the definition's substance rather than a verbatim quotation.",
+  "Section 339 as a winding-up-specific, NCLT-administered veil-piercing provision for fraudulent conduct of business: confirmed from two independent commentaries (taxguru.in and corporatelawreporter.com) describing the same scope and forum; the exact penalty figures reported in one source were not independently corroborated, so this guide states the provision's effect without citing an unverified penalty figure.",
+  "Section 149(12) and its four conditions (knowledge through board processes, consent, connivance, or lack of diligence) limiting independent and non-executive director liability: confirmed from two independent commentaries (cbcl.nliu.ac.in and lawsikho.com) describing the same four conditions in materially consistent terms.",
+  "The statement that tax and labour recovery from directors runs on separate, statute-specific provisions rather than the Companies Act framework: this is stated in general terms deliberately, since the search results did not return confirmed, current section numbers or thresholds for this guide's scope, consistent with the instruction not to state an unconfirmed figure or provision; readers are pointed to check the specific statute rather than given a number that could not be verified twice."
+ ]
+}
