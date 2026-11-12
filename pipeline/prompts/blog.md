@@ -20,3 +20,6 @@ BCI RULE 36 (applies to every draft): purely educational. No call to contact, co
 QUERY QUEUE: this batch's guides follow `origin/pipeline-config:pipeline/query-queue.json` in order (see PRIORITY_INSTRUCTION_FOCUS in batch.json): use the entry id as slug, the query as basis of title, the angle as scope, and confirm the verify list from two sources. Skip entries whose subject is already live on origin/main or drafted on any research-batch-* branch.
 
 STANDING RULES FROM CLIENT (read origin/pipeline-config:pipeline/batch.json): obey the REGIONAL_FOCUS and STRICT_VERIFICATION fields in batch.json as binding rules for every item. Do not publish; drafts only. BCI Rule 36 applies throughout: no solicitation, no results or experience claims, no client names, no call to contact the firm, no 'lawyers in <city>' framing.
+
+
+DAILY MODE: read the DAILY_MODE field in origin/pipeline-config:pipeline/batch.json. It overrides the TARGET, per-run counts and 'up to 5' wording above: write only the daily quota stated there, then stop.
