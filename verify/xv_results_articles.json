@@ -1294,5 +1294,31 @@
     "reason": "Updates the claim to reflect the Court of Appeal's affirmance, which predates the article's 13 November 2026 as-on date, and ties it to the Mauritius-BIT claim discussed earlier rather than leaving the two sections disconnected."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/66-enforcing-foreign-money-judgment-india-section-44a-article.json",
+  "verdict": "FIX",
+  "claims_checked": 14,
+  "evidence": [
+   "https://indiankanoon.org/doc/112183904/",
+   "https://www.khaitanco.com/thought-leaderships/Supreme-Court-rules-that-period-of-limitation-for-execution-of-foreign-decrees-shall-be-governed-by-law-of-the-reciprocating-territory",
+   "https://www.livelaw.in/law-firms/articles/bank-of-baroda-vs-kotak-mahindra-bank-ltd-limitation-for-execution-of-foreign-decree-158211",
+   "https://www.scconline.com/blog/post/2020/01/24/central-govt-declares-united-arab-emirates-to-be-a-reciprocating-territory-under-s-44-a-of-cpc/",
+   "https://www.verdictum.in/court-updates/high-courts/bombay-high-court/elis-jane-quinlan-v-naveen-kumar-seth-section-44a-of-the-code-of-civil-procedure-1908-1607420",
+   "https://www.hcch.net/en/news-archive/?tag=India"
+  ],
+  "note": "The reciprocating-territories list, the UAE 17 January 2020 notification, the Section 13 six exceptions, the Article 101 three-year suit limitation, the Quinlan Bombay HC ruling (10 Feb 2026, confirming Section 44A execution is distinct from a fresh suit and the inquiry is ordinarily summary), Order XXXVII and Order XXV, and India's apostille accession dates (26 Oct 2004 / in force 14 July 2005 / apostilles from 29 Aug 2007) all check out against fresh independent sources. One real, confirmed error: the draft twice says the limitation period for a Section 44A execution petition is unsettled between a 12-year (Article 136) and a shorter residuary period. It is not unsettled -- the Supreme Court decided this in Bank of Baroda v. Kotak Mahindra Bank Ltd (17 March 2020), holding Section 44A itself prescribes no limitation period and that execution applications fall under the residuary Article 137 (three years), not Article 136 (twelve years), rejecting the Article 136 view the draft presents as a live possibility. This is a six-year-old Supreme Court precedent the draft missed, and it matters directly for the practical advice the piece gives a judgment creditor.",
+  "fixes": [
+   {
+    "find": "The limitation period applicable to an execution petition under Section 44A itself is a less settled question. Some reported commentary treats the twelve-year period under Article 136 of the Limitation Act, which generally applies to execution of an Indian decree, as extending equally to execution of a reciprocating-territory decree once it is filed in India, while other commentary describes a shorter residuary period applying instead. Given this inconsistency across secondary sources and the absence of a single clearly reconciled statement of the position in the material reviewed for this piece, a judgment creditor relying on Section 44A should treat the limitation position as unresolved and file the execution petition as promptly as practicable after the foreign decree becomes final, rather than assuming the full twelve years is safely available.",
+    "replace": "The limitation period applicable to an execution petition under Section 44A has in fact been settled by the Supreme Court. In Bank of Baroda v. Kotak Mahindra Bank Ltd (17 March 2020), the Court held that Section 44A is a purely enabling, procedural provision that does not itself prescribe a limitation period, that the twelve-year period under Article 136 applies only to decrees of Indian civil courts, and that an application to execute a foreign decree under Section 44A instead falls under the residuary Article 137, carrying a three-year period. Where execution has already begun in the originating country, that three-year period runs only once those foreign execution proceedings are finally concluded, not from the date of the decree itself. A judgment creditor relying on Section 44A should plan around this three-year, not twelve-year, period.",
+    "reason": "Draft presented the Section 44A limitation period as an open 12-year-vs-residuary question; the Supreme Court settled it in 2020 in favour of the 3-year residuary Article 137 period, not Article 136."
+   },
+   {
+    "find": "The exact limitation period for a Section 44A execution petition, as distinct from the three-year period governing a fresh Section 13 suit, has not been authoritatively settled across the material reviewed for this piece, and a judgment creditor should not assume the longer period is safely available without checking current authority at the time of filing.",
+    "replace": "The limitation period for a Section 44A execution petition is in fact settled: the Supreme Court held in Bank of Baroda v. Kotak Mahindra Bank Ltd (17 March 2020) that the residuary three-year period under Article 137 applies, not the twelve-year period under Article 136, and a judgment creditor should plan around that shorter period rather than assuming the longer one is available.",
+    "reason": "Same error repeated in the What remains unsettled section."
+   }
+  ]
  }
 ]
