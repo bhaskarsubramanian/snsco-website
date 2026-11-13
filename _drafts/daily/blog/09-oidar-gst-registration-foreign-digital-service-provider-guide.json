@@ -1,0 +1,90 @@
+{
+  "slug": "oidar-gst-registration-foreign-digital-service-provider-guide",
+  "title": "GST Registration for a Foreign Digital Service Provider Under the OIDAR Rules",
+  "meta_description": "Whether a foreign SaaS, streaming or digital content business needs Indian GST registration under the OIDAR rules, who pays the tax, and how REG-10 works.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "A foreign company selling software, streaming content, cloud services or similar digital products to customers in India can end up liable for Indian GST without ever opening an office here, under what the law calls Online Information Database Access and Retrieval, or OIDAR, services. Whether that liability actually falls on the foreign supplier or shifts to the Indian recipient depends on one question: is the Indian buyer a registered business, or an unregistered person or entity.",
+    "This guide sets out what counts as an OIDAR service after the 2023 widening of the definition, who has to register under the simplified scheme for overseas suppliers, how that registration and the monthly return actually work, and where a foreign digital business most often gets this wrong when it starts selling into the Indian market directly rather than through a registered Indian distributor."
+  ],
+  "sections": [
+    {
+      "heading": "What counts as an OIDAR service now",
+      "paragraphs": [
+        "Section 2(17) of the Integrated Goods and Services Tax Act, 2017 defines OIDAR services, and the Finance Act, 2023 removed a qualifier that had limited the definition to services that were essentially automated and involved minimal human intervention. Commentary from AMLEGALS and from India Briefing on the October 2023 changes both describe this as a deliberate widening: once the automation test is no longer part of the definition, a service that includes some human involvement, such as a hosted software product with a support team behind it, can still fall within OIDAR if it is otherwise delivered over the internet with essentially no physical interface between the supplier and the Indian recipient.",
+        "The companion definition of a non-taxable online recipient, in Section 2(16) of the IGST Act, was also simplified rather than removed outright, extending to any unregistered person located in India who receives the service, rather than the narrower category of government bodies and non-business individual consumers the law used before. The practical effect is that an Indian user who is not GST-registered, including one using the service for business purposes, now counts as a non-taxable online recipient, which pulls more transactions within the scope of supplier liability than the pre-2023 wording did."
+      ]
+    },
+    {
+      "heading": "Who pays the tax: the supplier or the recipient",
+      "paragraphs": [
+        "Section 14 of the IGST Act fixes liability on the overseas OIDAR supplier itself, but only where the recipient is a non-taxable online recipient. Where the Indian customer is instead a GST-registered business, the transaction is treated as an ordinary import of service, and the Indian recipient pays IGST on a reverse charge basis under the normal import-of-service mechanism rather than the foreign supplier registering in India for that sale. This is the single most important distinction for a foreign company's finance team to get right before pricing a contract, because getting it backwards means either under-collecting GST from consumers or needlessly registering and filing for a wholly B2B business.",
+        "Where a supply passes through an intermediary, such as an app store or a platform that collects payment on the overseas supplier's behalf, the intermediary can itself be treated as the supplier for GST purposes in defined circumstances, which shifts the compliance burden onto the platform rather than the underlying content or software owner. A foreign business distributing through a major platform should check its distribution agreement and the platform's own GST position before assuming either that it has no Indian GST exposure or that the platform has fully absorbed it."
+      ]
+    },
+    {
+      "heading": "The simplified registration scheme for overseas suppliers",
+      "paragraphs": [
+        "An overseas OIDAR supplier that is liable under Section 14 registers under Rule 14 of the Central Goods and Services Tax Rules, 2017, using Form GST REG-10, filed electronically through the GST portal. The rule, and the simplified scheme built around it, now extends by its own terms to suppliers of online money gaming from outside India as well as to OIDAR suppliers proper, reflecting the widening of GST's reach over cross-border digital supplies in recent years. Once the proper officer is satisfied with the application, the registration certificate is issued on Form GST REG-06, the same certificate form used for registrations generally.",
+        "The scheme is deliberately lighter than an ordinary GST registration: a single registration covers the supplier's OIDAR supplies into India as a whole, and the application is built around identity and contact details, such as the supplier's name, email and mobile number, together with a self-declaration about the absence of a physical presence in India, rather than the fuller set of documents an Indian-resident applicant would need to produce. A supplier should still appoint a person in India who can deal with correspondence and filings on its behalf, since notices and queries from the department are addressed to that contact in practice even where the law does not frame the requirement in exactly those terms."
+      ]
+    },
+    {
+      "heading": "Returns, rate and the absence of input tax credit",
+      "paragraphs": [
+        "A registered OIDAR supplier files a monthly return on Form GSTR-5A, due by the 20th of the following month, reporting its taxable supplies to non-taxable online recipients in India for that period. The applicable rate on OIDAR supplies is reported at 18 per cent IGST, with a materially higher rate reported for online money gaming specifically, reflecting the separate and more aggressive regime the government has built for that category rather than for OIDAR content and software generally.",
+        "An overseas OIDAR supplier registered under this scheme does not get input tax credit against the GST it collects and pays over, which is consistent with the scheme's design as a collection mechanism on supplies to consumers rather than a full participation in India's GST credit chain. A foreign business budgeting its India-facing pricing should treat this 18 per cent as an absolute cost of selling to an unregistered Indian recipient, not something that can be set off against the company's own India-related input costs, and should factor that into whether pricing is quoted inclusive or exclusive of Indian GST."
+      ]
+    },
+    {
+      "heading": "Where foreign digital businesses get this wrong",
+      "paragraphs": [
+        "The most common mistake is assuming that because a product is genuinely automated software, with no human support at all, the pre-2023 OIDAR test still protects it from registration if it is not purely automated. That test no longer exists in the statute, and a hosted service with any meaningful human element, a dedicated account manager, a support desk that does real troubleshooting rather than routing tickets, can still be OIDAR if the overall character of the supply remains an internet-delivered information or database service. A company that stopped checking its GST position after the pre-2023 rules were explained to it years ago is operating on a test the law has since dropped.",
+        "A second mistake is treating every Indian customer the same way regardless of registration status, either collecting GST from registered business customers who should self-assess under reverse charge, or failing to collect it from individual subscribers who are squarely non-taxable online recipients. Building a billing system that checks the customer's GSTIN at the point of sale, and defaults to supplier-collected GST only where no valid GSTIN is supplied, is the more defensible approach than asking the sales team to make that call deal by deal."
+      ]
+    },
+    {
+      "heading": "Getting started: the practical sequence",
+      "paragraphs": [
+        "A foreign company about to start selling OIDAR services into India for the first time should work out, before the first Indian transaction, whether its customer base is predominantly business-to-consumer, predominantly business-to-business through registered GST payers, or a mix, since that answer decides whether registration under Rule 14 is even required at all. Where registration is required, the application should be filed with enough lead time before the first taxable supply to India to avoid a gap between the first sale and the registration taking effect, since collecting and remitting GST retrospectively on sales already made is a far harder internal exercise than building the registration into the market-entry plan from day one.",
+        "Once registered, the compliance load is genuinely light compared with a full Indian GST registration, limited mainly to the monthly GSTR-5A return and keeping the billing system's GSTIN check accurate, but it is a recurring obligation that does not stop simply because a particular month saw few or no Indian sales; a nil return is still a return. A company entering through a marketplace or platform should still confirm in writing, rather than assume from the platform's general terms, which party is actually registered and remitting GST on the underlying supply, because a gap between the platform's position and the supplier's own understanding is exactly where this tends to go wrong."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a foreign SaaS company have to register for GST in India just because Indian customers can sign up on its website?",
+      "a": "Only if at least some of those customers are non-taxable online recipients, broadly meaning unregistered persons in India. If every Indian customer is a GST-registered business paying under reverse charge, the foreign supplier does not need to register under the OIDAR scheme, though it should keep evidence of each customer's registration status."
+    },
+    {
+      "q": "What is Form GST REG-10 used for?",
+      "a": "It is the application an overseas OIDAR supplier files, electronically through the GST portal, to register under the simplified scheme in Rule 14 of the CGST Rules. Once approved, the registration certificate is issued on Form GST REG-06, the same certificate form used across GST registrations generally."
+    },
+    {
+      "q": "Is there a minimum amount of sales before a foreign digital company has to register for GST in India?",
+      "a": "The OIDAR registration requirement is not framed around a sales threshold in the way ordinary GST registration is. A single taxable supply to a non-taxable online recipient in India can trigger the requirement, so a foreign supplier should not assume a low sales volume exempts it without checking the current rules directly."
+    },
+    {
+      "q": "Can a registered overseas OIDAR supplier claim input tax credit against the GST it collects from Indian customers?",
+      "a": "No. The simplified scheme does not give the overseas supplier input tax credit. The 18 per cent IGST it collects and remits on its taxable supplies should be treated as a cost of selling into the Indian consumer market, not something it can offset."
+    },
+    {
+      "q": "What happened to the old rule that OIDAR only covered automated services with minimal human intervention?",
+      "a": "The Finance Act, 2023 removed that qualifier from Section 2(17) of the IGST Act with effect from 1 October 2023. A hosted digital service with genuine human support behind it can still be OIDAR today, where it would not have qualified under the pre-2023 test."
+    }
+  ],
+  "references": [
+    "Integrated Goods and Services Tax Act, 2017, Sections 2(16), 2(17) and 14, as amended by the Finance Act, 2023",
+    "Central Goods and Services Tax Rules, 2017, Rule 14 (registration of a person supplying OIDAR services, or online money gaming, from outside India)",
+    "Form GST REG-10 and Form GST REG-06 under the CGST Rules, 2017",
+    "Form GSTR-5A, monthly return for OIDAR suppliers"
+  ],
+  "sources": [
+    "https://amlegals.com/gst-on-oidar-services-changes-in-taxability-and-overseas-supplier-liability/",
+    "https://www.india-briefing.com/news/indias-oidar-taxation-shift-key-changes-effective-october-1-2023-29757.html",
+    "https://www.bdo.in/en-gb/news/2023/gst-on-digital-services-budget-2023-24-broadens-scope-of-oidar",
+    "https://gstgyaan.com/rule-14-of-the-cgst-rules-grant-of-registration-to-a-person-supplying-oidar-services-from-a-place-outside-india",
+    "https://www.caclub.in/rule-14-of-cgst-rules-2017-registration-of-oidar-services-provider"
+  ],
+  "verification_notes": "AUDIENCE: foreign company (SaaS, streaming, digital content or software-as-a-service business selling to Indian customers without a local entity). TARGET QUERY: does a foreign digital service or SaaS company need GST registration in India under the OIDAR rules. DEMAND EVIDENCE: none seen (no most-read list or trending-ruling signal was available this run; the topic was chosen because OIDAR registration is a recurring first question for any foreign digital business entering the Indian market and was not yet covered on the site). The removal of the 'essentially automated, minimal human intervention' qualifier from Section 2(17) IGST Act and the widening of the non-taxable online recipient definition in Section 2(16), both effective 1 October 2023: confirmed from AMLEGALS and India Briefing, with BDO's 2023 budget note corroborating the widening of scope. That Section 14 IGST Act fixes supplier liability only where the recipient is a non-taxable online recipient, with reverse charge applying for a registered business recipient: this is the settled, long-standing structure of the OIDAR provisions and is consistent across the sources reviewed, including AMLEGALS. Rule 14 CGST Rules and Form GST REG-10 as the registration route, with the certificate issued on Form GST REG-06: confirmed from gstgyaan.com's statement of Rule 14 and from CA Club's summary, both independently describing the same rule number and form. GSTR-5A as the monthly return, due by the 20th, and an 18 per cent IGST rate with no input tax credit: reported consistently across the commercial compliance sources reviewed (ClearTax, ConnectAccounting-type advisory pages, and the CA Club summary), though these are secondary commentary rather than a government notification opened directly in this run, and the rate and due date should be checked on the GST portal before being relied on for a filing. Left out: a 2026 commentary surfaced in this run's research that described a different rule number and form (Rule 6A and Form GST REG-09A) for overseas OIDAR suppliers; this could not be corroborated by any second source and directly conflicts with the Rule 14/REG-10 position that multiple other sources describe consistently, so it is omitted entirely rather than mentioned as an alternative. Also left out: any claim about a specific date-before-first-sale filing requirement, since only one commercial source mentioned a five-day lead time and it did not cite the underlying rule."
+}
