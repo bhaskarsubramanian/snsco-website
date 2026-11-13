@@ -1,0 +1,99 @@
+{
+ "slug": "secondment-foreign-employees-gst-service-pe-guide",
+ "title": "Seconding Staff From an Overseas Parent to Your Indian Entity: GST and Permanent Establishment Risk",
+ "meta_description": "What the Northern Operating Systems ruling, CBIC's 2023 instruction and 2024 valuation circular mean for GST on secondment of foreign staff to India.",
+ "practice_area": "Tax Litigation",
+ "intro": [
+  "A foreign parent sends two of its engineers to run a project at its Indian subsidiary for eighteen months. Their salary stays on the parent's payroll, their provident fund and health cover stay where they are, and the Indian entity simply pays the parent back every month through a debit note. Nobody in finance thought of this as a service contract. The GST department, in a large number of cases filed since 2022, has thought of it as exactly that, and has issued demand notices running into crores on the theory that the overseas company supplied 'manpower services' to the Indian entity.",
+  "This is not a hypothetical risk. It follows directly from a 2022 Supreme Court ruling that the department applied aggressively for nearly two years before the Central Board of Indirect Taxes and Customs stepped in to correct the overreach, and then issued a separate valuation concession in 2024. As on today, the position has three layers: the ruling itself, the department's instruction tempering it, and a valuation circular that lets many arrangements land at a nil taxable value. A company structuring a secondment, or defending one already under notice, needs all three."
+ ],
+ "sections": [
+  {
+   "heading": "What a secondment is, and why it looks like a service",
+   "paragraphs": [
+    "A secondment is different from a business visa trip or a short training deputation. The employee continues on the overseas company's rolls, draws salary there, and is entitled to return to that employer once the assignment ends. During the assignment the Indian entity directs the employee's day to day work, can discipline the employee for conduct at the Indian workplace, and often signs a local letter confirming the reporting line. The overseas company recovers the salary cost, sometimes with a mark-up, through a debit note or intercompany invoice.",
+    "Ordinary employment is kept outside GST by Entry 1 of Schedule III to the Central Goods and Services Tax Act, 2017, which treats services by an employee to an employer in the course of employment as neither a supply of goods nor a supply of services. The difficulty with a secondment is working out who, for this purpose, is the employer. If the overseas company is the real employer and merely lends the employee's services to the Indian entity for a fee, the arrangement can be read as the overseas company supplying manpower, which is a taxable service and, since the supplier is outside India, falls on the Indian recipient under the reverse charge mechanism."
+   ]
+  },
+  {
+   "heading": "What the Supreme Court actually decided in Northern Operating Systems",
+   "paragraphs": [
+    "The ruling at the centre of this area is C.C., C.E. and S.T. Bangalore (Adjudication) v. Northern Operating Systems Pvt. Ltd., decided by the Supreme Court on 19 May 2022 in Civil Appeal Nos. 2289 to 2293 of 2021. The facts involved employees of overseas group companies seconded to an Indian BPO entity, where the Indian company issued the appointment letter locally but the seconding company retained lien over the employee's original post, continued to control the employee's compensation structure and benefits, and the employee reverted to the overseas entity once the Indian assignment ended.",
+    "The Court held that on those facts the overseas group company remained the real employer, and the Indian entity, by paying for the employee's services during the secondment, was receiving manpower supply services taxable under the service tax law then in force. The Court was clear that the answer turns on the actual terms of the secondment contract and the conduct of the parties rather than on a label, and it has repeatedly been read since then as a facts-first ruling rather than a rule that every secondment is taxable."
+   ]
+  },
+  {
+   "heading": "How the department applied it to GST, and the pullback",
+   "paragraphs": [
+    "Once the GST regime took over from service tax, field officers across the country began issuing show cause notices to Indian companies with secondment arrangements, often treating the Northern Operating Systems facts as a template for every case regardless of how the actual secondment letter was worded. By late 2023 this had become widespread enough that the Board intervened with Instruction No. 05/2023-GST dated 13 December 2023, directing officers not to apply the ruling mechanically and to examine the specific terms of each secondment contract, including who bears the risk of the work, who can terminate the arrangement, and whether the overseas entity retains any residual control, before concluding that GST is payable.",
+    "The same instruction also addressed limitation. Officers had in several cases invoked the extended period for issuing notices, which under the GST law is available only where there is fraud, wilful misstatement or suppression of facts to evade tax. The Board's instruction made clear that a secondment structure disclosed in the company's accounts and returns, without any concealment, does not on its own justify invoking that extended period, which closes off a large chunk of older years in many pending notices."
+   ]
+  },
+  {
+   "heading": "The 2024 valuation circular and when the tax works out to nil",
+   "paragraphs": [
+    "A separate question survives even where a secondment is accepted as a taxable supply: what value does GST apply to. The Board's Circular No. 210/4/2024-GST dated 26 June 2024, issued after the 53rd GST Council meeting, deals with this through the second proviso to Rule 28 of the Central Goods and Services Tax Rules, 2017. Where the Indian recipient is entitled to full input tax credit on the supply and no invoice is raised for the service between related parties, the value can be treated as nil for GST purposes, because the credit eligibility removes any revenue stake the department would otherwise have in disputing the valuation.",
+    "In practical terms, a wholly owned Indian subsidiary that reimburses salary cost without a mark-up and does not raise or need a formal invoice, and that is itself fully entitled to credit, can often show that the net tax impact is nil even if the reimbursement is technically a taxable supply under reverse charge. Tax tribunals and more than one High Court have since relied on this circular to quash demand notices on secondment arrangements that fit this description, so the circular has real teeth and is not merely departmental guidance that officers can disregard."
+   ]
+  },
+  {
+   "heading": "Structuring the secondment letter to control the risk",
+   "paragraphs": [
+    "Because the entire analysis turns on contract terms, the secondment letter and the intercompany agreement are the documents that decide the case long before any dispute arises. A letter that gives the Indian entity full disciplinary control, states plainly that the employee works under the direction and supervision of the Indian entity for the duration, and avoids language suggesting the overseas company is 'providing' or 'deploying' the employee as a service, reads very differently from one drafted as a manpower supply agreement with a service fee.",
+    "Equally, how the money moves matters. A straight reimbursement of actual salary cost, routed through a debit note rather than a commercial invoice, with no profit element added, supports the reading that this is cost-sharing between group companies rather than a service sold at a price. Groups that add a management fee or mark-up on top of the salary reimbursement should expect the department to treat that mark-up, at minimum, as consideration for a service."
+   ]
+  },
+  {
+   "heading": "The income tax question running alongside GST",
+   "paragraphs": [
+    "A secondment that survives GST scrutiny can still create exposure under income tax treaties. Where seconded employees work out of Indian premises under the practical control of the Indian entity, tax authorities have in several cases argued that the arrangement gives the overseas company a fixed place or service permanent establishment in India under the applicable Double Taxation Avoidance Agreement, exposing a share of the overseas company's profits to Indian tax even where no GST is payable at all. This is a separate line of assessment from GST and uses an overlapping but not identical set of facts, principally how much control the Indian entity exercises and how long the assignment runs.",
+    "Companies planning a secondment should treat the GST and income tax positions as two separate memos rather than one, because a structure built only to survive the GST test, such as keeping the overseas entity formally in charge of discipline, can increase the permanent establishment risk under the tax treaty, and the reverse is also true."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is GST always payable when an Indian subsidiary reimburses an overseas parent for a seconded employee's salary?",
+   "a": "No. It depends on the terms of the secondment and, separately, on valuation. Many straight salary reimbursements without a mark-up, where the Indian entity has full credit eligibility and no invoice is raised, work out to nil tax under the 2024 valuation circular even where the underlying supply is technically taxable."
+  },
+  {
+   "q": "Does CBIC's 2023 instruction mean secondments are now safe from GST demands?",
+   "a": "It does not grant blanket relief. It directs officers to examine each secondment's actual terms rather than apply the Northern Operating Systems facts automatically, and it restricts the extended limitation period to cases involving fraud or suppression. Disclosed, properly documented secondments benefit most from it."
+  },
+  {
+   "q": "Can the department reopen secondment GST for years going back five years?",
+   "a": "Only by invoking the extended limitation period, which requires fraud, wilful misstatement or suppression of facts. CBIC's December 2023 instruction states that a secondment disclosed in the company's accounts and returns, without concealment, does not by itself justify that extended period."
+  },
+  {
+   "q": "If GST is held payable on a secondment, does that also mean the overseas company has a permanent establishment in India?",
+   "a": "Not automatically. GST and permanent establishment are assessed under different statutes using overlapping but distinct facts. A secondment can attract GST without creating a treaty permanent establishment, and the reverse is also possible, so each needs its own analysis."
+  },
+  {
+   "q": "What should a secondment letter avoid saying to reduce GST risk?",
+   "a": "It should avoid describing the overseas company as providing, supplying or deploying the employee's services for a fee, and should instead record that the Indian entity directs and supervises the employee's work for the assignment's duration, with salary cost recovered by straight reimbursement rather than a priced service."
+  }
+ ],
+ "references": [
+  "Central Goods and Services Tax Act, 2017, Schedule III, Entry 1 (employer-employee services excluded from supply)",
+  "C.C., C.E. and S.T. Bangalore (Adjudication) v. Northern Operating Systems Pvt. Ltd., Supreme Court of India, Civil Appeal Nos. 2289-2293 of 2021, decided 19 May 2022",
+  "CBIC Instruction No. 05/2023-GST, dated 13 December 2023 (fact-based review of secondment arrangements; restriction on extended limitation)",
+  "CBIC Circular No. 210/4/2024-GST, dated 26 June 2024, para 3.7 (nil valuation under second proviso to Rule 28, CGST Rules, 2017, for related-party secondments with full ITC eligibility)",
+  "Central Goods and Services Tax Rules, 2017, Rule 28, second proviso"
+ ],
+ "sources": [
+  "https://api.sci.gov.in/supremecourt/2021/14156/14156_2021_2_1501_36077_Judgement_19-May-2022.pdf",
+  "https://www.livelaw.in/amp/top-stories/supreme-court-overseas-companies-seconded-employees-manpower-services-indian-counterpart-pay-service-tax-200034",
+  "https://worldtradescanner.com/05-GST-Instruction-13.12.2023.htm",
+  "https://taxmann.com/post/blog/opinion-key-takeaways-from-cbics-instructions-on-taxability-of-seconded-employee",
+  "https://trilegal.com/knowledge-repository/trilegal-analysis-secondment-under-gst-navigating-the-new-era-post-nos-ruling-and-regulatory-clarity/",
+  "https://www.mastersindia.co/blog/gst-employee-secondment-employer-test-rcm-rule-28/"
+ ],
+ "verification_notes": [
+  "Northern Operating Systems case name, bench, civil appeal numbers and 19 May 2022 decision date: confirmed from the Supreme Court's own judgment PDF (api.sci.gov.in) and from LiveLaw's report; both agree on the appeal numbers 2289-2293 of 2021, though one secondary commentary (Grant Thornton) cited a different appeal number, so the two primary-leaning sources were preferred.",
+  "CBIC Instruction No. 05/2023-GST dated 13 December 2023, its direction against mechanical application of the ruling, and its restriction of extended limitation to fraud or suppression cases: confirmed from the instruction text hosted on worldtradescanner.com and from Taxmann and Taxscan commentary describing the same instruction number and date.",
+  "Circular No. 210/4/2024-GST dated 26 June 2024, its link to the 53rd GST Council meeting, the second proviso to Rule 28, and the nil-value outcome for full-ITC related-party secondments with no invoice: confirmed from Trilegal's analysis and Masters India's explainer, both independently describing the same circular number, date and paragraph 3.7 reference.",
+  "Schedule III, Entry 1 employer-employee exclusion: confirmed as foundational, undisputed statute text referenced consistently across all secondary sources reviewed (Masters India, Trilegal, Taxguru); not separately re-verified against the bare Act text in this run but not a contested proposition.",
+  "Post-2024 tribunal and High Court reliance on the circular to quash secondment demand notices: reported independently by EY's 2025 alert and by StudyCafe's report on a Karnataka High Court ruling; the specific demand quantum reported by only one source was deliberately left out of the draft since it was not confirmed twice.",
+  "Permanent establishment exposure running alongside GST: stated in general terms only, since no specific 2024-2026 treaty PE ruling on secondment was opened and confirmed in this run; no case name or figure is cited for this proposition."
+ ]
+}
