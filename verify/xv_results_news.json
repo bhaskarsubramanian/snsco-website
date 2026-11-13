@@ -3848,5 +3848,75 @@
       "https://theprint.in/india/grap-restrictions-delhi-hc-directs-constitution-of-committee-on-demolition-of-dangerous-buildings/3094164/"
     ],
     "note": "Justice Saurabh Banerjee's 6 Nov 2026 order, the suo motu basis, the Section 348 DMC Act notice context, the sealing/repair/controlled-demolition alternative, the MCD Commissioner-with-CM direction, and the one-week timeline are all independently confirmed."
+  },
+  {
+    "file": "_drafts/daily/news/01-allahabad-hc-agricultural-revenue-entry-no-bar-sarfaesi-rama-chaurasia.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-revenue-entries-upzalr-absence-declaration-conclusive-agricultural-character-sarfaesi-557981",
+      "https://www.livelawbiz.com/recovery-laws/high-court/sarfaesi-borrower-must-tender-entire-dues-before-auction-notice-not-wait-for-sale-certificate-to-redeem-property-allahabad-hc-557991",
+      "https://www.livelawbiz.com/pdf_upload/2026/11/10/smt-rama-chaurasia--710750.pdf"
+    ],
+    "note": "Independent search confirms case name, neutral citation 2026:AHC-LKO:80567, Writ-C No. 1004411 of 2011, Justice Irshad Ali, Lucknow bench, decision date 05.11.2026, and both holdings (khatauni entry not conclusive proof of agricultural use under Section 31(i); redemption by tendering dues closes once the auction notice is published, Section 13(8)). DRT (2010) and DRAT (2011) chronology matches across two independent LiveLaw reports."
+  },
+  {
+    "file": "_drafts/daily/news/02-calcutta-hc-howrah-demolition-order-set-aside-sujoy-sarkar.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/high-court/calcutta-high-court/mere-request-for-time-to-produce-documents-not-admission-of-illegal-construction-calcutta-high-court-sets-aside-demolition-order-558074",
+      "https://lawchakra.in/high-court/calcutta-high-court/howrah-demolition-order/",
+      "https://indiankanoon.org/doc/122725640/",
+      "https://tv9bangla.com/west-bengal/howrah/calcutta-high-court-dismisses-order-to-demolish-howrah-municipal-building-1360146.html"
+    ],
+    "note": "Confirmed via LiveLaw, LawChakra, Indian Kanoon's full-text listing and a Bengali-language report (TV9 Bangla): case name Sujoy @ Sujay Sarkar v. Howrah Municipal Corporation, WPA 31462 of 2026, decided 10 November 2026 by Justice Saugata Bhattacharyya (vacation bench), demolition order of 28 September 2026 set aside, holding that a request for time to produce documents is not an admission of illegal construction. No duplicate on the live site (search-index.json has no match for the parties)."
+  },
+  {
+    "file": "_drafts/daily/news/03-rbi-fema-export-import-second-amendment-edf-resident-individual.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://studycafe.in/rbi-introduces-second-amendment-to-fema-export-and-import-regulations-effective-october-1-2026-427700.html",
+      "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=13750",
+      "https://caalley.com/fema26/FEMA23RA03112026F5D7706996DD3493DAD9E0899C64D4793.pdf"
+    ],
+    "note": "Citation FEMA 23(R)/(2)/2026-RB dated 2 November 2026 confirmed on the RBI notification index and in secondary coverage. Confirms insertion of a 'resident individual' definition (new clause (da)) and a deemed-EDF-filed mechanism tied to payment information furnished to Authorised Dealer banks. Draft does not assert a specific monetary threshold, so the conflicting threshold figures seen across sources do not affect it. Draft's background on the January 2026 principal regulations and the first (Sept 2026) amendment is independently corroborated."
+  },
+  {
+    "file": "_drafts/daily/news/04-mca-overseas-listing-equity-instruments-amendment-rules-2026.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.corplawupdates.in/updates/mca-overseas-listing-amendment-rules-2026-gsr-968e",
+      "https://vinodkothari.com/2026/11/mca-liberalises-direct-listing-of-equity-instruments-in-ifsc/",
+      "https://www.nextias.com/ca/current-affairs/07-11-2026/overseas-listing-norms-indian-companies",
+      "https://teamleaseregtech.com/updates/article/61117/companies-listing-of-equity-instruments-in-permissible-jurisdictions-a/"
+    ],
+    "note": "G.S.R. 968(E) dated 3 November 2026, the shares-to-instruments terminology change, the new equity-instruments definition, and the Form LEAP-1 replacement are all confirmed. However, multiple independent sources (Vinod Kothari, CorpLawUpdates, NextIAS, TeamLease) show the 75% QIB-allotment condition attaches specifically to a separate eligibility relaxation for companies with negative net worth, not generally to every convertible-debenture/preference-share listing as the draft's guardrail paragraph and card_summary imply. The same sources also show the amendment shortens the cooling-off period (2 years to a little over 6 months) for issuers that have repaid overdue lender dues, and tightens the position for issuers behind on annual filings -- both omitted from the draft. Fixes correct the mischaracterisation.",
+    "fixes": [
+      {
+        "find": "That widening comes with a guardrail. Reporting on the amendment describes a condition tying the expanded route to allocation in favour of Qualified Institutional Buyers, with one account putting the figure at 75 per cent of the offering. The policy logic is not hard to follow: a convertible debenture or preference share is a more complex instrument than an ordinary share, and MCA appears to want sophisticated institutional money, rather than a wider retail-style base, absorbing that complexity in the overseas market before the route is used more freely.",
+        "replace": "That widening travels alongside a separate eligibility change in the same amendment: a company with negative net worth, which the 2024 rules would otherwise have kept off this route altogether, can now use it if it undertakes to allot at least 75 per cent of the offering to Qualified Institutional Buyers. The amendment also shortens the cooling-off period for companies that have paid off overdue bank or lender dues, from two years to a little over six months, before they can use the route, while tightening the position the other way for companies that have not filed their annual returns or financial statements, who now have to clear those filings first.",
+        "reason": "The 75% QIB condition is tied to negative-net-worth issuers, not to the convertible-debenture/preference-share widening generally; draft also omitted the cooling-off and filing-compliance changes in the same amendment."
+      },
+      {
+        "find": "MCA's 3 November 2026 amendment lets Indian companies list convertible debentures and preference shares abroad, not just plain equity shares, with a QIB allocation condition.",
+        "replace": "MCA's 3 November 2026 amendment lets Indian companies list convertible debentures and preference shares abroad, not just plain equity shares, and lets negative-net-worth companies use the route if they allot at least 75% to Qualified Institutional Buyers.",
+        "reason": "Card summary attributed the QIB condition to the instruments-widening generally; it is actually tied to the negative-net-worth eligibility relaxation."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/news/05-cbdt-tds-exemption-ifsc-aircraft-leasing-dividend-form-1n.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.taxscan.in/other-taxations/cbdt-exempts-tds-on-inter-unit-dividend-payments-bw-ifsc-aircraft-leasing-companies-mandates-form-1n-declaration-read-notification",
+      "https://thetaxcorp.in/article/cbdt-notification-no-1412026-tds-exemption-on-dividends-between-ifsc-aircraft",
+      "https://teamleaseregtech.com/updates/article/61161/cbdt-tds-exemption-on-dividend-payments-between-aircraft-leasing-units/",
+      "https://www.incometaxindia.gov.in/documents/d/guest/notification-no-141-2026-pdf"
+    ],
+    "note": "Notification No. 141/2026 dated 4 November 2026, exempting TDS on dividends between IFSC aircraft-leasing units conditional on a Form 1(N) declaration under Schedule VI Table Sl. No. 11, Income-tax Act 2025, is corroborated across four independent sources. A separate cross-reference to Section 393(1) Table S.No.7 seen in one source is a different internal cross-reference within the same notification, not a contradiction of the Schedule VI Sl. No. 11 citation. The effective-date discrepancy was already flagged by the draft itself and is not resolved by this run either; draft's cautious treatment of it stands."
   }
 ]
