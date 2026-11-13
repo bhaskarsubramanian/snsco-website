@@ -1184,5 +1184,39 @@
       "https://www.legalauthority.in/judgement/friends-colony-dev-committee-vs-state-of-orissa-18609"
     ],
     "note": "PM-UDAY regularisation of 1,511 colonies (April 2026) confirmed across multiple independent news sources. Shri Balbir Singh v. MCD, 2025 DHC 8860 confirmed (W.P.(C) 15235/2025, decided 6 Oct 2025, correct standing holding). The Supreme Court's 2005 reversal of the Full Bench Bajaj Departmental Stores line on Section 345A reaching misuse of premises is independently confirmed (the article appropriately omits a specific SC citation, matching what is actually findable). The Appellate Tribunal MCD Presiding Officer vacancy from 6 August 2025 is confirmed verbatim across several Delhi High Court orders from Aug-Dec 2025, including Supreme Court involvement in the Chandni Chowk matter directing the Delhi High Court Chief Justice to appoint one. Friends Colony Development Committee v. State of Orissa, (2004) 8 SCC 733, is confirmed as authority for compounding being an exception rather than a routine route, consistent with the article's characterization. No factual errors or unsupported central claims found; appropriately hedged where sources are limited (no SC citation invented, no compounding percentage invented)."
+  },
+  {
+    "file": "_drafts/articles/60-where-to-sue-delhi-ncr-territorial-jurisdiction-article.json",
+    "verdict": "FIX",
+    "claims_checked": 16,
+    "evidence": [
+      "https://www.caseciter.com/rohit-kochhar-vs-vipul-infrastructure-developers-ltd-2024-insc-920/",
+      "https://taxmanagementindia.com/visitor/detail_act.asp?ID=7727",
+      "https://bombaychamber.com/notification/territorial-jurisdiction-in-a-cheque-bouncing-case/",
+      "https://www.legitquest.com/case/madan-mandul-v-haran-ghose/1F0875"
+    ],
+    "note": "The CPC framework (Sections 16 to 20, the Section 16 proviso, Order VII Rule 10), the jurisdiction-clause line from Hakam Singh through A.B.C. Laminart to Swastik Gases, the arbitration seat line (BALCO, Indus Mobile, BGS SGS Soma, Section 42), the Section 21 waiver point and the award-enforcement FAQ all hold up. Rohit Kochhar v. Vipul Infrastructure Developers is confirmed as 2024 INSC 920, decided 26 November 2024 (Pardiwala and Mahadevan, JJ.), and its Section 16 proviso holding is as the draft states, including that a possession prayer does not change the Section 16(d) character of the suit. Madan Mandul v. Haran Ghose is confirmed as a Calcutta High Court decision of 1893 on the CPC 1882 Section 16(e) proviso and the personal-obedience test. Main problem fixed: the draft misstates Section 142(2) of the Negotiable Instruments Act, 1881. Clause (a) fixes jurisdiction at the branch where the payee or holder in due course MAINTAINS the collecting account (with the Explanation deeming a cheque deposited at any other branch of the same bank to be delivered to the account-holding branch), and clause (b) covers presentment otherwise than through an account, where jurisdiction lies at the drawee bank branch at which the drawer maintains the account. The draft instead describes both limbs as payee-bank/clearing-system based and anchors clause (a) on where the cheque was delivered rather than where the account is maintained, an error repeated in a key point, the NCR worked example and an FAQ; all four are fixed. Not independently confirmed in this run (no contrary evidence, left unfixed): the parallel citations AIR 1971 SC 740 for Hakam Singh (confirmed as [1971] 3 SCR 314, CA 646/1967, 8 January 1971) and (2020) 4 SCC 234 for BGS SGS Soma (confirmed as 2019 INSC 1349, [2019] 17 SCR 742); and that the Rohit Kochhar suit property was commercial space in a Gurugram complex. The 'equity acts in personam' rationale attributed to Madan Mandul was found in later High Court discussion of the proviso rather than in that judgment's own confirmed headnote. BCI Rule 36: clean, no client anecdote, result claim, solicitation or 'lawyers in city' framing found. All five related_pages paths are confirmed present in origin/main:assets/search-index.json. Statutory status statements are current as on today. SEO_RULES check: title is 106 characters against the 60-character cap in rule (a); meta_description is 154 characters, within range; as_on_date is present (2026-11-12); FAQs number 8 with answers of 52 to 84 words, within range; verification_notes do not start with the three mandatory labelled lines (AUDIENCE / TARGET QUERY / DEMAND EVIDENCE).",
+    "fixes": [
+      {
+        "find": "inserting Section 142(2), which fixes jurisdiction instead at the place where the payee's bank branch presented the cheque for payment through the clearing system, or, for a cheque delivered for collection, the branch of the payee's bank where the cheque was delivered for collection.",
+        "replace": "inserting Section 142(2), which fixes jurisdiction instead by reference to the payee's own account. Where the cheque is delivered for collection through an account, the court having jurisdiction is the one within whose limits the branch of the bank at which the payee or holder in due course maintains that account is situated, and the Explanation to the clause treats a cheque deposited at any other branch of the same bank as delivered to the account-holding branch. Where the cheque is instead presented for payment otherwise than through an account, jurisdiction lies with the court within whose limits the branch of the drawee bank at which the drawer maintains the account is situated.",
+        "reason": "Section 142(2) is misstated: clause (a) turns on the branch where the payee maintains the account, not on where the cheque was delivered or on clearing-system presentment, and the draft omits clause (b) on presentment otherwise than through an account."
+      },
+      {
+        "find": "a Noida payee who deposited a dishonoured cheque at a Noida bank branch can prosecute in Gautam Buddh Nagar even though the drawer and the drawee bank are both in Gurugram",
+        "replace": "a payee who maintains the collecting account at a Noida branch can prosecute in Gautam Buddh Nagar even though the drawer and the drawee bank are both in Gurugram",
+        "reason": "Depositing at a Noida branch is not enough; under the Explanation to Section 142(2)(a) the deposit is deemed made at the branch where the payee maintains the account, which is what fixes the forum."
+      },
+      {
+        "find": "is filed where the payee's bank presented the cheque for collection, under the amended Section 142(2)",
+        "replace": "is filed where the payee maintains the account through which the cheque was presented for collection, under the amended Section 142(2)",
+        "reason": "Key point repeated the same misstatement of the statutory test."
+      },
+      {
+        "find": "At the court within whose jurisdiction your bank, the payee's bank, presented the cheque for collection, under the amended Section 142(2) of the Negotiable Instruments Act.",
+        "replace": "At the court within whose jurisdiction the branch of your own bank at which you maintain the collecting account is situated, under the amended Section 142(2) of the Negotiable Instruments Act, since the Explanation to that clause treats a cheque deposited at any other branch of the same bank as delivered to the account-holding branch.",
+        "reason": "FAQ repeated the same misstatement; the account-holding branch, not the branch of presentment, fixes jurisdiction."
+      }
+    ]
   }
 ]
