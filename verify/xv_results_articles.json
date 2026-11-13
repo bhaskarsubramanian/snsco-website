@@ -1266,5 +1266,33 @@
    "https://www.devdiscourse.com/article/law-order/3881047-govt-tightens-raw-jute-stock-norms-to-curb-hoarding-stabilise-prices-amid-supply-concerns"
   ],
   "note": "The Farm Laws Repeal Act, 2021 (Act 40 of 2021) repealing the Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act, 2020 along with the other two 2020 farm laws is confirmed. WB Agricultural Produce Marketing (Regulation) Act 1972 Section 13's licence requirement with the producer-selling-own-produce exemption is confirmed. The 2026 sugar stock-limit figures (4,000 quintals/30 days from August, cut to 2,000 quintals from September with a Kolkata exception) are confirmed verbatim against a TaxGuru report of the underlying notification. The raw jute zero-stock-limit order on traders and balers is confirmed from independent reporting. All ten related_pages paths exist in origin/main:assets/search-index.json. Formatting issues to flag: title is 97 characters against the 60-character cap, and verification_notes lacks the three mandatory AUDIENCE/TARGET QUERY/DEMAND EVIDENCE labelled lines."
+ },
+ {
+  "file": "_drafts/articles/65-bilateral-investment-treaty-claims-against-india-article.json",
+  "verdict": "FIX",
+  "claims_checked": 16,
+  "evidence": [
+   "https://www.iisd.org/itn/?p=1894",
+   "https://www.iisd.org/itn/2021/03/23/uncitral-tribunal-finds-india-in-breach-of-india-uk-bit-in-proceedings-brought-by-cairn-entities/",
+   "https://www.jenner.com/en/news-insights/client-alerts/english-high-court-confirms-that-indias-ratification-of-the-new-york-convention-was-not-a-waiver-of-its-sovereign-immunity",
+   "https://www.macfarlanes.com/insights/102nfrb/devas-v-india-court-of-appeal-confirms-no-blanket-waiver-of-sovereign-immunity-u",
+   "https://www.italaw.com/sites/default/files/case-html-files/italaw170005-CC-Devas-v-India-Limited-and-Telecom-Devas-Mauritius-Limited-v-India-Award-on-Quantum-October-13-2020.html",
+   "https://www.barandbench.com/news/devas-v-antrix-supreme-court-upholds-nclat-judgment-ordering-winding-up-of-devas-multimedia",
+   "https://riskandcompliance.freshfields.com/post/102mmwp/indias-investment-treaty-landscape-in-2026",
+   "https://www.outlookbusiness.com/economy-and-policy/india-israel-investment-pact-comes-into-force-heres-what-it-means-for-businesses"
+  ],
+  "note": "White Industries (2011), Vodafone (25 Sept 2020, ~Rs 22,000-22,100 crore, India-Netherlands BIT), Cairn (21 Dec 2020, ~1.2-1.4bn USD, India-UK BIT), the Taxation Laws (Amendment) Act 2021 (assent 13 Aug 2021, pre-28 May 2012 cutoff, Rs 7,900 crore Cairn refund), the 2016 Model BIT (5-year local remedies, no MFN, tax carve-out), the UAE/Kyrgyzstan/Uzbekistan/Brazil/Israel treaties, the Devas NCLT winding-up (25 May 2021) and Supreme Court affirmance (17 Jan 2022), and the English sovereign-immunity ruling (ratification of the New York Convention is not a waiver) all check out against fresh independent sources. One real error: the draft states the Devas Mauritius-shareholders BIT claim under the India-Mauritius BIT remains pending. In fact that claim was decided years ago -- an award on jurisdiction and merits in 2016 and an award on quantum on 13 October 2020 -- and what is actually still contested is enforcing that award against Indian state assets abroad; this is the same dispute as the English High Court/Court of Appeal sovereign-immunity ruling described two sections later in the same article (Court of Appeal affirmed 24 June 2026, EWCA Civ 797), which the draft does not connect. The sovereign-immunity paragraph also only cites the 2025 High Court decision without noting the Court of Appeal already affirmed it by the article's 13 November 2026 as-on date.",
+  "fixes": [
+   {
+    "find": "That treaty claim remains pending.",
+    "replace": "That treaty claim was no longer pending by 2026: a 2016 award on jurisdiction and merits found India liable under the India-Mauritius BIT, followed by an award on quantum on 13 October 2020. What remains contested is enforcing that award against Indian state assets abroad, where India has raised sovereign immunity defences, discussed further below.",
+    "reason": "The Mauritius-BIT claim produced a merits award in 2016 and a quantum award in October 2020; it is not pending. The still-live dispute is enforcement, which is the same proceeding discussed later in the article under sovereign immunity."
+   },
+   {
+    "find": "An English High Court ruling, examined in commentary on the Devas enforcement litigation, held that India's ratification of the New York Convention did not, by itself, constitute a waiver of its immunity from execution against state assets in England, rejecting the argument that signing the Convention alone opens the door to seizing sovereign property.",
+    "replace": "An English High Court ruling in April 2025, in the same Devas Mauritius-BIT enforcement proceedings described above, held that India's ratification of the New York Convention did not, by itself, constitute a waiver of its immunity from execution against state assets in England, rejecting the argument that signing the Convention alone opens the door to seizing sovereign property; the Court of Appeal unanimously affirmed that ruling on 24 June 2026.",
+    "reason": "Updates the claim to reflect the Court of Appeal's affirmance, which predates the article's 13 November 2026 as-on date, and ties it to the Mauritius-BIT claim discussed earlier rather than leaving the two sections disconnected."
+   }
+  ]
  }
 ]
