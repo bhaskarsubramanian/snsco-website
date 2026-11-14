@@ -1352,5 +1352,53 @@
    "https://www.scconline.com/blog/?p=384134"
   ],
   "note": "Section 164 maximum marginal rate for discretionary trusts, with the proviso exception for a trust declared under a will exclusively for a dependent relative (Finance Act 1984, effective 1 April 1985), is independently confirmed and matches the draft's characterisation closely, including the carry-forward into the 2025 Act (reported as Clause 307 of the Income Tax Bill 2025). Benami Act Section 2(9)(A)(ii)'s fiduciary-capacity exception, linked to the Indian Trusts Act Section 3 definition of trustee, is independently confirmed; a 2026 Supreme Court decision (Manjula v. D.A. Srinivas) construing 'fiduciary capacity' restrictively actually reinforces rather than undermines the draft's point, since a trustee is one of the enumerated categories the restrictive reading still covers. Sections 61-63 (revocable transfer clubbing) and the general Trusts Act 1882 framework are standard, settled positions consistent with the draft's own two-source citations. EDITORIAL FLAG (not a factual error): origin/main already carries a live blog guide, /blog/succession-planning-trusts-vs-wills-business-owners-guide.html ('Succession Planning for Business Owners', published 2026-09-20), covering materially the same core ground (trust vs will for business owners, Indian Trusts Act 1882, trust deed, named beneficiaries). This new article is considerably longer and adds real depth the existing guide lacks (discretionary vs specific trust taxation mechanics, Benami Act documentation requirements, HUF comparison, NRI/cross-border considerations, trustee governance and protector roles), so it is not a verbatim duplicate, but the overlap in framing and title ('Trusts vs Wills' / 'Private Family Trusts for Succession') is close enough that the editorial team should decide whether to publish both, merge them, or retire the shorter guide before this goes live."
+ },
+ {
+  "file": "_drafts/articles/69-gst-permanent-establishment-withholding-tax-foreign-company-india-article.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.internationaltaxreview.com/article/2domhin1o2rn1303tperk/sponsored/indias-2-equalisation-levy-abolished-from-bad-to-worse-for-some",
+   "https://www.theweek.in/wire-updates/business/2025/03/24/del55-biz-finance-bill-ld-amendment.html",
+   "https://taxguru.in/income-tax/budget-2025-amendment-significant-economic-presence-rules.html",
+   "https://www.india-briefing.com/news/section-393-income-tax-act-2025-tds-rules-rates-compliance-guide-44450.html"
+  ],
+  "note": "OIDAR GST/REG-10/Rule 14/GSTR-5A framework, both equalisation levy withdrawal dates (1 Aug 2024 for the 2% levy, 1 Apr 2025 for the 6% levy), the three-lakh-user SEP threshold under Explanation 2A to Section 9(1)(i)/Rule 11UD, the Finance Act 2025 export carve-out to SEP (effective 1 April 2026, matching the draft's own verification note), and the Section 195 to Section 393(2) mapping under the Income-tax Act 2025 are all confirmed by multiple independent sources. Related_pages links verified against the live search index."
+ },
+ {
+  "file": "_drafts/articles/70-nri-home-loan-loan-against-property-fema-article.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://taxmanagementindia.com/visitor/detail_act.asp?ID=33729",
+   "https://www.icici.bank.in/nri-banking/loans/home-loan/home-loans-faqs",
+   "https://blog.bankbazaar.com/rbi-has-allowed-residents-to-pay-housing-loans-of-nri-relatives/",
+   "https://getbelong.com/blog/nri-home-loans.md"
+  ],
+  "note": "Core claims confirmed by independent sources: FEMA 3(R)/2018-RB and the RBI master direction govern rupee lending by authorised dealer banks/HFCs to NRIs for housing; rupee-only denomination; disbursement goes to the seller/builder rather than the NRI's NRE/FCNR account; the three repayment channels including rental income via NRO; resident-relative EMI payment from the relative's own account (not cash); and quantum/margin/tenure parity with resident borrowers. SARFAESI applying regardless of residence reflects settled law. Related_pages links verified against the live search index."
+ },
+ {
+  "file": "_drafts/articles/71-foreign-creditor-claims-corporate-insolvency-cirp-article.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.verdictum.in/court-updates/supreme-court/kalyani-transco-v-bhushan-power-and-steel-limited-2025-insc-1165-foreign-award-arbitration-act-1592630",
+   "https://mahendrabhavsar.com/claims-with-proof-cannot-be-denied-for-incorrect-form/",
+   "https://moneylife.in/article/nclat-allows-dutch-administrator-to-attend-jet-airways-creditor-meetings/58269.html",
+   "https://www.livelaw.in/ibc-cases/nclt-ruling-foreign-arbitral-award-debt-not-financial-debts-other-debts-244308"
+  ],
+  "note": "Most of the article checks out: GNIDA v Prabhjit Singh Soni (2024 INSC 102, form directory not mandatory), Kalyani Transco v Bhushan Power and Steel (2025 INSC 1165, 26 Sept 2025, foreign award not automatically enforceable), the Jet Airways NCLAT Cross-Border Insolvency Protocol (Dutch administrator as non-voting CoC observer), and the IBC Amendment Act 2026/Section 240C facts (assent 6 April 2026, enabling provision, disputed commencement) are all independently confirmed. However, the case cited as 'Yes Bank Ltd v Sarga Hotel (P) Ltd' for the proposition that an NCLT Kolkata bench accepted an unenforced foreign-seated award as the basis for a claim is misattributed: that case ([2024] 160 taxmann.com 4, NCLT Kolkata) concerns an unrelated issue (an unregistered framework agreement). The actual NCLT Kolkata ruling on an unenforced Singapore-seated award, holding the debt was not a financial debt under Section 5(8) but admissible as an other debt, was against a different corporate debtor, Shristi Infrastructure Development Corporation Ltd (reported December 2023).",
+  "fixes": [
+   {
+    "find": "The Kolkata bench of the Tribunal, in a matter reported as Yes Bank Ltd v Sarga Hotel (P) Ltd, is reported to have taken a broadly similar approach where a creditor filed a claim during an ongoing corporate insolvency resolution process founded on a foreign-seated award.",
+    "replace": "The Kolkata bench of the Tribunal, in a December 2023 ruling on a Singapore-seated award a creditor held against Shristi Infrastructure Development Corporation Ltd and the corporate debtor, took a related but more qualified approach: it held that the debt arising from the unenforced foreign award did not meet the definition of financial debt under Section 5(8) of the Code, but admitted the claim as an other debt rather than rejecting it outright.",
+    "reason": "The case cited (Yes Bank Ltd v Sarga Hotel (P) Ltd, [2024] 160 taxmann.com 4, NCLT Kolkata) is an unrelated matter about an unregistered framework agreement, not about a foreign arbitral award claim; the actual NCLT Kolkata ruling on this point concerns a different corporate debtor (Shristi Infrastructure Development Corporation Ltd)."
+   },
+   {
+    "find": "Yes Bank Ltd v Sarga Hotel (P) Ltd, National Company Law Tribunal, Kolkata Bench (2024)",
+    "replace": "NCLT Kolkata ruling on a Singapore-seated foreign arbitral award against Shristi Infrastructure Development Corporation Ltd, holding the debt not a financial debt under Section 5(8) but admissible as an other debt (reported December 2023)",
+    "reason": "Same citation correction: the reference list cites the wrong, unrelated case name for this holding."
+   }
+  ]
  }
 ]
