@@ -4080,5 +4080,28 @@
       "https://www.livelawbiz.com/pdf_upload/2026/11/11/mahashian-di-hatti-710913.pdf"
     ],
     "note": "Case name, citation CS(COMM) 1191/2026, Delhi High Court, Justice Vikas Mahajan, 5 Nov 2026 ex parte ad-interim injunction, Order XXXIX Rules 1 and 2 CPC, April 2026 monitoring discovery, scope of restraint, and 20 Jan 2027 next listing all corroborated by LiveLaw Biz reporting plus the court's own order PDF. As the draft itself flags, LiveLaw Biz is the only outlet covering this specific case; a second independent outlet could not be located in this run either, but the primary order document corroborates the case facts. No duplicate found on origin/main."
+  },
+  {
+    "file": "_drafts/daily/updates/11-nclat-bindu-kapoor-imagine-group-bliss-house-corporate-guarantor.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelawbiz.com/ibc/nclat-upholds-cirp-against-rana-kapoor-linked-imagine-group-companies-557906",
+      "https://www.mondaq.com/india/insolvencybankruptcy/1805920/nclat-upholds-cirp-against-rana-kapoor-linked-companies-debt-default-and-the-limits-of-arbitration-challenges-under-the-ibc",
+      "https://courtkutchehry.com/judgments/bindu-kapoor-vs-mamta-binani-and-ors",
+      "https://ibbi.gov.in//uploads/order/102f2c9fa1366daaf2ca25fd6a099839.pdf"
+    ],
+    "note": "Independently confirmed: NCLAT dismissed Bindu Kapoor's four appeals on 6 Nov 2026 against NCLT Delhi's common admission order of 7 April 2026, holding the Imagine group companies were corporate guarantors for a loan to Bliss House Pvt Ltd regardless of the label used in the loan documents, and that Section 60(2) IBC keeps guarantor proceedings before the same bench. Mamta Binani's role as IRP is confirmed. The draft's decision to withhold a specific loan figure because of inconsistent reporting is a reasonable hedge (my own search found LiveLaw citing Rs 105 crore for the Bliss House loan specifically, consistent with, not contradicting, the draft's caution about aggregate-vs-single-loan figures). No duplicate found on origin/main."
+  },
+  {
+    "file": "_drafts/daily/updates/12-dgft-egypt-meat-exports-i-cas-halal-certification-deadline.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.taxscan.in/excise-customs/dgft-extends-transition-period-for-mandatory-i-cas-halal-certification-of-specified-meat-exports-to-egypt-read-notification",
+      "https://a2ztaxcorp.net/dgft-extends-transition-period-for-mandatory-i-cas-halal-certification-of-meat-exports-to-egypt/",
+      "https://worldtradescanner.com/48-Ntfn-DGFT-09.11.2026.htm"
+    ],
+    "note": "Confirmed: DGFT Notification 48/2026-27 dated 9 Nov 2026 amends Notification 59/2025-26 (9 Feb 2026) as earlier amended by Notification 28/2026-27 (5 Aug 2026), extending the i-CAS-Halal transition for Egypt meat exports by a further three months. The cumulative math (two prior 3-month extensions plus this one equal 12 months from 9 Feb 2026) resolves to the stated 9 Feb 2027 deadline, consistent across Taxscan, A2Z Taxcorp and World Trade Scanner despite the latter's headline reading 'another three months' rather than stating the cumulative date. No duplicate found on origin/main."
   }
 ]
