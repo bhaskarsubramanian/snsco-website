@@ -1400,5 +1400,44 @@
     "reason": "Same citation correction: the reference list cites the wrong, unrelated case name for this holding."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/72-fema-contravention-rbi-compounding-nri-foreign-investor-article.json",
+  "verdict": "FIX",
+  "claims_checked": 14,
+  "evidence": [
+   "https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5082",
+   "https://corporate.cyrilamarchandblogs.com/2025/06/compounding-under-fema-what-has-changed-post-2025-amendments/",
+   "https://www.azbpartners.com/bank/amendments-to-directions-on-compounding-of-contraventions-under-fema/",
+   "https://www.taxmann.com/post/blog/rbi-eliminates-previous-order-linkage-in-fema-compounding-fresh-applications-to-be-considered-independently/"
+  ],
+  "note": "The Section 15 RBI/ED split, the 2024 Rules replacing the 2000 Rules from 12 September 2024 (G.S.R. 566(E)), the Rs 10,000 plus GST fee, Rule 9 exclusions, the 15-day payment window, the 180-day disposal target, Section 13(1)'s three-times/Rs 2 lakh/Rs 5,000-per-day structure, and the April 2025 Rs 2 lakh cap for non-reporting contraventions all check out against fresh, independently corroborated sources, and all related_pages paths exist on the live site with no duplicate topic found. However, the draft's central claim about the April 2025 change to repeat contraventions is backwards: fresh research across Cyril Amarchand, AZB Partners, Taxmann, Saraf Partners and Mondaq consistently shows the fifty per cent enhancement was the OLD rule, applying narrowly where an applicant with an earlier unpaid compounding order for the SAME contravention reapplied, and that April 2025 removed this linkage and enhancement outright, rather than introducing a new fifty per cent surcharge for similar repeat contraventions generally as the draft states in its key points, body and FAQ. No source found a three-year bar being newly removed either. Fixes correct the five passages built on this inverted premise.",
+  "fixes": [
+   {
+    "find": "RBI's Directions updated in April 2025 removed the old practice of linking a fresh application to an earlier compounding order, and instead raise the fee by half for a similar contravention repeated within a defined period.",
+    "replace": "RBI's Directions updated in April 2025 removed the earlier practice of enhancing the compounding sum by fifty per cent when an applicant who had an unpaid earlier compounding order for the same contravention reapplied; such a fresh application is now considered independently of the earlier order, without that enhancement.",
+    "reason": "The fifty per cent figure was the old rule, applying only when an applicant with an earlier unpaid order on the same contravention reapplied; April 2025 removed that linkage and enhancement, it did not introduce a new fifty per cent surcharge for similar repeat contraventions generally."
+   },
+   {
+    "find": "The second addressed repeat conduct directly. Rather than the earlier, undefined three-year bar on compounding a similar contravention, which created real uncertainty because the Rules never spelled out what counted as similar, the amended Directions provide that a repeat applicant for what the Bank treats as a similar contravention pays a compounding fee increased by half, rather than being shut out of the compounding route altogether. This is a more workable rule for genuine repeat offenders in substance, but it also means a company that compounds the same type of filing lapse twice in quick succession should expect the second application to cost more, not simply to be refused.",
+    "replace": "The second also concerned repeat applications, but in a narrower situation: under the pre-2025 Directions, where an applicant had an earlier compounding order for the same contravention that was never paid, and then reapplied, the compounding sum could be enhanced by fifty per cent of the earlier amount. The April 2025 amendment removed this enhancement along with the linkage itself, so such a fresh application is now considered on its own facts rather than loaded with a surcharge tied to the unpaid earlier order.",
+    "reason": "Fresh research shows the fifty per cent figure was an existing enhancement for reapplying after non-payment of an earlier order on the same contravention, which April 2025 removed; it was not a new surcharge introduced for similar contraventions generally, and no source found a three-year bar being removed."
+   },
+   {
+    "find": "Both changes reduce the amount of discretion an officer has to read an applicant's compliance history unfavourably into a fresh, factually distinct matter, while still pricing in a real cost for genuine repetition. For a company with a pattern of late filings across group entities, the practical lesson is to fix the underlying compliance process rather than treat compounding as a recurring cost of doing business, since each repeat application now carries its own escalating price.",
+    "replace": "Both changes reduce the amount of discretion an officer has to read an applicant's compliance history, whether a connected earlier contravention or an unpaid earlier order on the very same contravention, unfavourably into a fresh application. For a company with a pattern of late filings across group entities, the practical lesson is still to fix the underlying compliance process, since each new contravention is judged on its own facts and amount rather than being linked back to what came before.",
+    "reason": "Removes the inaccurate escalating price framing tied to a repeat-contravention surcharge that fresh research could not confirm exists, consistent with the corrected fact that April 2025 removed enhancements linked to earlier orders rather than adding new ones."
+   },
+   {
+    "find": "To illustrate how the fifty per cent surcharge actually bites: a group that compounds a late FC-TRS filing for one step-down subsidiary this year, and then files a second application for an unrelated but similarly late FC-TRS filing in another subsidiary within the period the Directions treat as relevant, should expect the second application's fee calculation to start from a base increased by half, not from the same starting point as the first. Multiplied across several subsidiaries with a shared, outdated compliance checklist, that surcharge adds up faster than most groups expect, which is itself a reason to treat a first compounding exercise as an occasion to fix the group-wide process rather than just the one entity in front of the regulator.",
+    "replace": "",
+    "reason": "This worked example illustrates a fifty per cent repeat-contravention surcharge that fresh research could not confirm exists; the only confirmed fifty per cent figure is the pre-2025 enhancement for reapplying after non-payment of an earlier order on the same contravention, which April 2025 removed rather than extended, so the example rests on an unsupported premise."
+   },
+   {
+    "find": "Not any longer in the way it once was. The Directions as amended in April 2025 no longer apply an automatic bar for a defined period; instead, a repeat applicant for a similar contravention pays a compounding fee increased by fifty per cent rather than being refused outright.",
+    "replace": "Having a similar contravention compounded earlier does not add a surcharge to a later, separate application. The April 2025 amendment removed the earlier fifty per cent enhancement that applied only where an applicant had an unpaid earlier order on the very same contravention and reapplied; each fresh contravention is now considered independently on its own facts and amount.",
+    "reason": "Corrects the same unconfirmed repeat-contravention surcharge claim in the FAQ answer to match what fresh research found: a narrower, pre-2025 enhancement for non-payment-plus-reapplication on the same contravention, which was removed rather than replaced by a new broader surcharge."
+   }
+  ]
  }
 ]
