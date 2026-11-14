@@ -1,0 +1,215 @@
+{
+  "slug": "external-commercial-borrowings-2026-liberalisation-article",
+  "title": "External Commercial Borrowings After the 2026 Liberalisation: What a Borrower Must Watch",
+  "subtitle": "The RBI has dropped the all-in-cost ceiling and widened who can borrow and lend. The compliance traps have not gone away; they have moved.",
+  "meta_description": "What changed in India's ECB framework after the February 2026 FEMA amendment, and what foreign lenders and Indian borrowers must still confirm.",
+  "practice_area": "Banking & Finance",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Adv. Rahul Jangra",
+      "role": "Associate, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian, Adv. Rahul Jangra",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors; Associate, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-14",
+  "standfirst": "For most of the last decade, an Indian company raising a foreign-currency loan knew the drill: check the minimum maturity bucket, check the all-in-cost ceiling against the benchmark rate, pick the right end use from a fixed list, and file the forms on time. The Reserve Bank of India rewrote large parts of that framework in February 2026. The all-in-cost ceiling is gone. The pool of eligible lenders is wider than it has ever been. None of this means an external commercial borrowing has become a simple cross-border loan agreement. It means the risk has shifted from arithmetic to documentation, and that is the part foreign lenders and Indian treasuries tend to underestimate.",
+  "key_points": [
+    "The RBI withdrew the ECB-related provisions of its Master Direction with effect from 16 February 2026, folding the framework into the amended Foreign Exchange Management (Borrowing and Lending) Regulations, 2018.",
+    "The fixed all-in-cost ceiling has been replaced by a market-determined cost of borrowing for most ECBs, though a trade credit cost ceiling continues to apply where the average maturity is under three years.",
+    "Eligible borrowers and recognised lenders have both been widened; an LLP, a society, a REIT or an InvIT can now access the route in circumstances where earlier rules were narrower.",
+    "The default minimum average maturity period remains three years, but reported carve-outs for specific borrower categories and end uses differ across commentary, so a borrower should confirm the exact bracket for its transaction against the regulation text rather than a summary.",
+    "Real estate business is still a restricted end use, though the amended framework reads the restriction more narrowly than before; the scope of the carve-outs is contested enough that a term sheet should not assume one without a specific opinion.",
+    "Reporting through Form ECB and the Revised Form ECB (commonly called ECB-2) continues, and a further RBI circular with effect from 1 April 2026 changed how the late fee on Form ECB 1 filings is computed.",
+    "Existing ECBs with a Loan Registration Number issued before 16 February 2026 continue to be governed by the regulations as they stood before the amendment, so a borrower with an older facility is not automatically pulled into the new regime.",
+    "Substantive breaches, as opposed to late filing, still attract compounding under Section 15 of FEMA rather than a late fee, and the distinction between the two routes catches borrowers who treat every lapse as a filing problem."
+  ],
+  "sections": [
+    {
+      "heading": "A framework that moved, not one that disappeared",
+      "paragraphs": [
+        "Treasury teams who dealt with external commercial borrowings before 2026 built their internal checklists around three numbers: the minimum average maturity period for the category of borrowing, the all-in-cost ceiling expressed as a spread over a benchmark rate, and the list of permitted end uses. Those three numbers are still relevant in 2026, but only one of them, the maturity period, has kept roughly the shape it had before. The Reserve Bank of India amended the Foreign Exchange Management (Borrowing and Lending) Regulations, 2018 through what the market has been calling the FEMA Borrowing and Lending Amendment Regulations, 2026, notified in early February 2026, and followed this with an RBI circular dated 16 February 2026 that withdrew the ECB-related chapters of the 2019 Master Direction. Several law firm notes covering the amendment, including summaries from Roedl and Partners and from Law.asia, describe this as a structural consolidation rather than a tweak: the rules that used to live partly in a regulation and partly in a master direction now live in the regulation itself, and the master direction's ECB content has not been replaced with a new one as of this writing.",
+        "That matters for anyone drafting a facility agreement today. A loan document that recites the old Master Direction's clause numbers, or that still assumes a fixed all-in-cost ceiling expressed in basis points over six-month LIBOR successor benchmarks, is citing provisions that no longer carry independent force for new borrowings. Existing ECBs are not disturbed. The amendment is prospective: an ECB that already has a Loan Registration Number, or LRN, issued before 16 February 2026 stays governed by the rules that applied when the LRN was issued, and the old cost ceiling and conditions continue to bind that facility until it is repaid or refinanced. A fresh ECB, or a refinancing that generates a new LRN after that date, sits under the amended regime.",
+        "The practical consequence is that a company with one legacy ECB and one fresh ECB on its books in 2026 is, in a real sense, operating under two different sets of rules at the same time. Lenders who syndicate across both tranches need to be told this plainly, because a covenant drafted by reference to a cost ceiling that has since been abolished will read oddly, and possibly become unenforceable as drafted, for the new tranche."
+      ]
+    },
+    {
+      "heading": "Where the rules actually sit now",
+      "paragraphs": [
+        "Before the amendment, a practitioner answering a question on ECB eligibility would reach for the Master Direction on External Commercial Borrowings, Trade Credits and Structured Obligations, cross-reading it against the underlying 2018 regulations where the Master Direction was silent. That division of labour has been collapsed. The regulation itself now carries the substantive conditions on eligible borrowers, recognised lenders, minimum maturity, end use and cost of borrowing, and the RBI's 16 February 2026 circular expressly deleted the ECB portions of the Master Direction rather than amending them in place.",
+        "One consequence that commentary has flagged, including a note published by MS Associates, is that no fresh master direction or consolidated circular had been issued as of the date of that commentary to replace the deleted chapters. For a borrower this is not a mere drafting curiosity. It means that for interpretive questions that the Master Direction used to answer in worked examples and FAQs, such as how to treat a step-up coupon or how to classify a hybrid instrument for maturity purposes, the primary text to consult is now the amended regulation and whatever operational circulars the RBI issues under it, rather than a single consolidated document written for that purpose.",
+        "Authorised Dealer banks, who process the LRN application and the monthly or periodic ECB returns, are the practical first point of contact for a borrower trying to establish which version of the rules applies to a specific drawdown. Given that the regulation text is now doing work that was previously spread across two documents, a borrower would be well advised to get the AD bank's written confirmation of the applicable maturity bracket and cost treatment before signing a facility agreement, rather than relying on a law firm's general summary of the amendment, however reputable the firm."
+      ]
+    },
+    {
+      "heading": "Who can now borrow",
+      "paragraphs": [
+        "The amended framework widens the class of eligible borrowers. Under the pre-2026 position, the list of entities permitted to raise ECBs was already fairly broad, covering companies, LLPs in limited circumstances, Section 8 companies, and a handful of other categories depending on the end use. Commentary on the 2026 amendment, including the summary carried on Mondaq under the title covering the structural overhaul of the framework, describes the eligible borrower list as having been extended further to bring in categories such as societies, Real Estate Investment Trusts and Infrastructure Investment Trusts, with LLPs now sitting more squarely within the eligible borrower definition rather than qualifying through a side route.",
+        "For a REIT or an InvIT sponsor looking at ECB as a funding source, the point of interest is less the fact of eligibility and more the end-use restriction that still applies to real estate as a business, discussed later in this piece. Eligibility to borrow and permission to deploy the proceeds for a given purpose are two separate tests under the regulation, and widening the first does not automatically widen the second.",
+        "For an LLP, the practical gate is usually not the ECB regulation at all but the LLP's own constitutional documents and, where foreign lenders are involved, the FDI policy's treatment of LLPs for the relevant sector. An ECB regulation that permits an LLP to borrow does not, by itself, clear a sector that is closed to foreign investment through the LLP route. Borrowers structuring through an LLP should treat the ECB eligibility point and the sectoral FDI point as two independent checks, both of which need a clean answer."
+      ]
+    },
+    {
+      "heading": "Who can now lend",
+      "paragraphs": [
+        "The recognised lender list has moved further than the borrower list. Before the amendment, a lender generally had to be resident in a country that was a member of the Financial Action Task Force or a securities market regulator that was a signatory to the IOSCO's multilateral memorandum of understanding, subject to specific carve-outs for categories such as foreign equity holders and multilateral institutions. Multiple law firm summaries of the 2026 amendment, including notes from JSA and from the Mondaq-hosted analysis attributed to Lakshmikumaran, describe the new regime as recognising a person resident outside India as a lender more generally, alongside overseas branches of banks regulated by the RBI and financial institutions in India's International Financial Services Centres.",
+        "This is the change most likely to draw new counterparties into the ECB route, including family offices and specialist private credit funds that may not previously have cleared the FATF or IOSCO residence test for their fund domicile. It is also the change most likely to generate documentation disputes, because a lender that is newly eligible under the amended regulation is unlikely to have existing ECB-compliant loan documentation templates, and an Indian borrower's counsel will need to walk a first-time ECB lender through concepts, such as the LRN process and the end-use restrictions, that a seasoned offshore bank would already know.",
+        "Sources diverge on one specific point that a transaction team should not take on faith from either side: whether an entity regulated by the RBI can itself guarantee an ECB raised by a group company, and whether a person resident outside India can now stand as guarantor under the FEMA Guarantees Regulations in a way that was previously restricted. One summary states that RBI-regulated entities are barred from guaranteeing ECBs; another describes an expanded guarantee route for persons outside India. Given that this conflict could not be resolved from the commentary available, any guarantee structure involving an ECB should be put to the AD bank, or taken up as a specific query with the RBI, before the facility agreement is finalised rather than assumed from a law firm's bulletin."
+      ]
+    },
+    {
+      "heading": "The minimum average maturity period, and why the carve-outs need checking",
+      "paragraphs": [
+        "The minimum average maturity period, or MAMP, is the mechanism by which the RBI discourages short-term foreign-currency borrowing that could create a sudden repayment call on India's external position. The default MAMP under the amended framework, as under the regime it replaced, is three years. This figure is consistent across the commentary reviewed, including the c4scourses summary of the 2026 reforms and the Chambers article on the liberalisation.",
+        "Where the sources stop agreeing is on the exceptions. More than one commentary states that a shorter MAMP, in the region of one year, continues to apply to ECBs raised by manufacturing companies up to a specified amount, consistent with a relaxation that predates the 2026 amendment and that appears to have been carried forward. Beyond that, summaries refer in general terms to different MAMP brackets for specific end uses or specific categories of borrower without converging on the same list or the same figures. Because a wrongly calculated MAMP is not a paperwork slip but a structuring error that can require unwinding the facility or seeking retrospective RBI approval, this is exactly the kind of figure that should be confirmed against the regulation's schedule for the specific borrower category and end use, rather than taken from a comparison table in a client alert.",
+        "A related point worth flagging for term sheets: the MAMP is calculated on an average maturity basis, which means a bullet repayment loan and an amortising loan with the same final maturity date can land in different MAMP outcomes. Term sheets that fix a headline tenor without working through the average maturity calculation risk discovering the mismatch only when the AD bank reviews the LRN application, by which point renegotiating the repayment schedule with an offshore lender is considerably more awkward than catching the issue at term sheet stage."
+      ]
+    },
+    {
+      "heading": "Cost of borrowing: what replaced the all-in-cost ceiling",
+      "paragraphs": [
+        "The all-in-cost ceiling was, for most of the ECB regime's history, the single most quoted number in any term sheet discussion: a fixed spread over a benchmark rate, beyond which the RBI would not permit the loan to proceed without specific approval. The 2026 amendment removes this fixed ceiling for the general run of ECBs. Commentary converges on describing the change as a shift to a market-determined cost of borrowing, with the regulation replacing the defined term all-in-cost with a defined term described as cost of borrowing, covering interest and most associated charges but excluding commitment fees and Indian statutory taxes payable on the transaction. Both the Roedl summary and the Mondaq-hosted Lakshmikumaran note describe the change in these terms.",
+        "This does not mean pricing is now unregulated. Two guardrails survive the amendment on a converged reading of the commentary. First, ECBs with an average maturity under three years remain subject to the cost ceiling that applies to trade credit, rather than being left entirely to negotiation; this is the carve-out noted by both the Chambers article and the Singhania firm's blog on the liberalisation. Second, pricing between related parties, meaning an ECB from a foreign parent, affiliate or group treasury centre to its Indian subsidiary, must still be set on an arm's length basis, which keeps transfer pricing scrutiny alive even where the FEMA cost ceiling itself has fallen away.",
+        "One further figure appears in a single source reviewed for this piece and should be treated with appropriate caution: a penal interest cap, said to be no more than two percentage points over the contracted rate, sitting outside the ordinary cost of borrowing definition. Because this figure appears in only one summary among those checked, a lender or borrower negotiating a penal interest clause should confirm the current position with its AD bank rather than drafting the clause to this number on the strength of a single commentary.",
+        "For an Indian promoter used to negotiating within a known ceiling, the removal of the fixed cap changes the negotiation itself. Pricing discipline that used to come from the regulation now has to come from the borrower's own credit assessment and from market comparables, because the RBI is no longer going to reject a facility purely for being priced above a stated spread. This is, in a narrow sense, more freedom; it is also more responsibility sitting with the borrower's own board and finance function to demonstrate, if ever asked, that the pricing was commercially reasonable."
+      ]
+    },
+    {
+      "heading": "End use: wider in general, still tight on real estate",
+      "paragraphs": [
+        "ECB proceeds have always come with strings attached to how they can be spent, and the 2026 amendment does not remove that discipline, though it appears to narrow some of the older prohibitions. The area that draws the most questions from clients, understandably given how much foreign capital has historically wanted into Indian real estate, is the treatment of real estate business as an end use.",
+        "The commentary reviewed agrees that real estate business remains a restricted end use in principle. Where it disagrees is on how far the carve-outs extend. One reading, reflected in a summary that lists specific exclusions, treats the prohibition as applying broadly to real estate business but carving out construction development projects, industrial parks and infrastructure sector activities, consistent with carve-outs that existed in some form before the amendment. A second reading, found in commentary that focuses on the amended definition's own wording, treats real estate business as limited to transactions in land or immovable property undertaken with a view to earning profit, which would place an end user's own office, warehouse or factory premises, along with industrial park development, outside the restriction entirely because the activity is not undertaken to earn a profit from dealing in the property itself. Real estate broking services are mentioned in at least one summary as falling among permitted activities rather than the restricted category.",
+        "These two readings are not identical in their practical effect, particularly for a borrower whose business model sits close to the line, such as a group that builds and leases commercial space to its own operating subsidiaries rather than to third parties. Given that an incorrect end-use classification is a contravention that exposes the borrower to compounding proceedings under FEMA, this is not a point to settle by picking whichever reading suits the deal. The safer course, and the one this piece recommends without qualification, is to seek a specific end-use confirmation from the AD bank for the actual proposed deployment of funds, in writing, before drawdown, rather than relying on either summary above as a final word on the amended definition."
+      ]
+    },
+    {
+      "heading": "Reporting: Form ECB, the Revised Form ECB, and the LRN",
+      "paragraphs": [
+        "Reporting obligations have not been swept away by the liberalisation; if anything, they have become more important as the fixed numerical ceilings that used to do some of the RBI's monitoring work for it have been relaxed. A borrower still applies for a Loan Registration Number through its AD bank by filing Form ECB before drawdown, and continues to file periodic returns, commonly referred to as the Revised Form ECB or ECB-2 return, reporting drawdowns, outstanding balances and repayments for the life of the facility.",
+        "A separate RBI circular, distinct from the February structural amendment, changed how the late fee on these filings is computed with effect from 1 April 2026. Before that change, the Late Submission Fee framework introduced through the RBI's 2022 circular on standardising fees for delayed FEMA reporting applied a formula of seven thousand five hundred rupees plus zero point zero two five percent of the amount involved in the delayed reporting, multiplied by the number of years of delay, to flow-capturing returns including Form ECB, Form ECB-2 and the Revised Form ECB. The March 2026 circular reclassified Form ECB 1 and the Revised Form ECB 1 as returns that do not capture flows in the same sense, which changes the basis on which the late fee for those specific returns is calculated from 1 April 2026 onward. Commentary describing this reclassification, including the Taxmann analysis of the revised reporting framework, cautions that the precise computation for the reclassified category should be checked against the circular's own annex rather than assumed to mirror the flow-capturing formula.",
+        "For a compliance team managing a portfolio of ECBs raised at different times, the practical takeaway is that the filing calendar has not become simpler just because the cost ceiling has been removed. If anything, a borrower juggling pre-amendment and post-amendment facilities now needs to track which late fee formula applies to which return, for which facility, filed on which date, a level of granularity that previously did not matter because the formula was uniform across the board."
+      ]
+    },
+    {
+      "heading": "What a late filing costs, and what it does not cover",
+      "paragraphs": [
+        "The Late Submission Fee exists to give a borrower a defined, bounded cost for a reporting delay, so that a missed filing date does not automatically escalate into a formal enforcement action. It is payable only after the RBI, acting through the AD bank, has acknowledged the return in question, and the amount due is remitted by NEFT or RTGS to the relevant RBI regional office, as described in the compliance notes reviewed, including the setindiabiz summary of the LSF mechanism.",
+        "What the LSF does not do is launder a substantive contravention into a filing delay. If the underlying transaction itself breached a condition of the ECB regulation, for instance by exceeding the applicable MAMP, by deploying funds for a prohibited end use, or by borrowing from a lender who does not meet the recognised lender test, paying the LSF on the associated return does not cure that breach. A substantive contravention of FEMA still has to be regularised through the compounding process under Section 15 of the Act, which involves an application to the compounding authority, a disclosure of the contravention, and payment of a compounding amount that is assessed on the facts of the case rather than read off a fixed fee table.",
+        "Borrowers sometimes conflate the two routes because both end in a payment to a government account, and both are, in a loose sense, ways of putting a past irregularity right. They are not interchangeable, and a company that pays an LSF on a late ECB-2 return while sitting on an unreported end-use breach has addressed the easier problem and left the harder one exactly where it was."
+      ]
+    },
+    {
+      "heading": "Hedging, and the discipline the regulation does not supply",
+      "paragraphs": [
+        "Unlike the all-in-cost ceiling, hedging requirements for foreign-currency exposure created by an ECB were never a single fixed percentage applicable across the board; they have historically varied by borrower category, maturity and the RBI's periodic guidance on hedging coverage for specific brackets of foreign-currency debt. The 2026 amendment's headline changes concern cost, maturity, eligible borrowers and recognised lenders, and the commentary reviewed for this piece does not describe a parallel overhaul of the hedging framework itself.",
+        "What follows from that is a point worth stating plainly for any Indian company tempted to read the liberalisation as a general loosening of discipline: the removal of the all-in-cost ceiling addresses pricing, not currency risk. A rupee-denominated ECB avoids the currency mismatch question largely by definition, since repayment is fixed in rupees from the outset. A foreign-currency ECB, cheaper to arrange now that the regulatory cost ceiling has been lifted, still leaves the borrower exposed to the rupee's movement against the loan currency over what is, by regulation, a minimum three-year term. A board approving an ECB on the strength of an attractive headline coupon, without a corresponding hedging or natural-hedge analysis, is solving a financing problem while opening a currency risk problem, and the 2026 amendment gives it no shelter on that second point."
+      ]
+    },
+    {
+      "heading": "Automatic route, approval route, and why the distinction still matters",
+      "paragraphs": [
+        "Much of the post-amendment commentary focuses, understandably, on the liberalisation of cost, maturity and eligibility. It is worth remembering that the ECB framework has long operated on a dual-track basis, with most eligible borrowings processed through an automatic route via the AD bank without a case-by-case RBI examination, and a narrower category requiring the RBI's specific approval, typically because the borrower, the lender, the amount or the structure falls outside the automatic route's defined parameters.",
+        "A widened eligible borrower list and a widened recognised lender list, taken together, are likely to push more transactions into categories that the AD bank can process on its own rather than referring up to the RBI, simply because fewer borrower-lender combinations now sit outside the defined boundaries. That is a procedural convenience, not a substantive relaxation of the underlying conditions. A borrower or lender who falls into a genuinely novel structure, for instance a hybrid instrument that does not sit cleanly within the regulation's categories, should not assume that the general direction of the 2026 reforms, toward liberalisation, means the specific structure will clear automatically. The AD bank's own comfort, and if necessary a specific RBI reference, remains the practical test."
+      ]
+    },
+    {
+      "heading": "What this means for a foreign lender looking at India for the first time",
+      "paragraphs": [
+        "A lender newly eligible under the widened recognised lender category, perhaps a credit fund domiciled outside the FATF or IOSCO member countries that previously defined the recognised lender universe, should not treat the February 2026 amendment as a green light to use its own standard offshore loan documentation with minimal adaptation. The ECB regulation imposes conditions, on end use, on reporting, on maturity, that do not appear in a typical offshore facility agreement and that need to be drafted into the documentation as conditions precedent, representations and ongoing covenants, not left to a side letter or an assumption that the Indian borrower will handle compliance unilaterally.",
+        "Equally, an Indian borrower negotiating with a first-time ECB lender should expect to spend more time than usual walking the lender's counsel through the LRN process, the AD bank's role, and the distinction between a filing delay and a substantive contravention. Deals have been delayed, in the authors' experience with ECB transactions generally, not by the regulatory conditions themselves but by a foreign lender's documentation team discovering midway through negotiation that the loan needs an India-specific compliance architecture it had not budgeted time for."
+      ]
+    },
+    {
+      "heading": "A practical sequence for structuring an ECB today",
+      "paragraphs": [
+        "A borrower approaching an ECB after the 2026 amendment would do well to work through a sequence that starts with eligibility on both sides: confirm the borrower qualifies under the widened eligible borrower categories for its specific entity type, and confirm the proposed lender qualifies under the widened recognised lender categories, in writing from the AD bank where the lender's status is not an obvious case such as a well-known offshore bank branch.",
+        "Next comes the maturity and cost architecture: calculate the average maturity for the proposed repayment schedule against the applicable MAMP bracket for the borrower's category and end use, and agree pricing with the related-party arm's length question and, where maturity is under three years, the trade credit cost ceiling both checked rather than assumed. End use should be confirmed in writing with the AD bank wherever the deployment sits anywhere near the real estate business boundary, and documented clearly in the facility agreement's utilisation covenant regardless of the end use, since the utilisation covenant is what the AD bank and, if it comes to that, the compounding authority will look at first.",
+        "Only after those three questions are settled should the parties turn to guarantee structures, hedging arrangements and the reporting calendar, each of which should be built into the facility agreement as named obligations with named responsible parties, Indian borrower or AD bank, rather than left as generic references to FEMA compliance. An ECB facility agreement that reads well as a financing document but treats India's regulatory conditions as an appendix, rather than as terms woven into the operative clauses, is the kind of document that looks fine until the first compliance question arises, at which point nobody on either side's team can point to the clause that was supposed to answer it."
+      ]
+    }
+  ],
+  "conclusion": [
+    "The 2026 amendment is best read as the RBI trading one kind of discipline for another. A fixed all-in-cost ceiling was easy to check against a term sheet and hard to argue with; a market-determined cost of borrowing is easier to negotiate and harder to audit after the fact, which puts more weight on a borrower's own documentation and governance. The same is true of the wider lender and borrower categories: more counterparties can now participate, and more of them will be dealing with India's cross-border borrowing conditions for the first time, which raises rather than lowers the value of careful drafting at the outset.",
+    "None of this changes the basic discipline that has always applied to external commercial borrowings: get the maturity calculation right, get the end use confirmed in writing, and keep the reporting calendar current. What has changed is where the hard edges sit. They have moved from a published ceiling that both sides could check in advance to a set of definitions, carve-outs and AD bank confirmations that need to be worked through transaction by transaction. A borrower or lender who treats the liberalisation as a reason to spend less time on structuring, rather than more, is likely to find that out the expensive way."
+  ],
+  "faqs": [
+    {
+      "q": "Does the removal of the all-in-cost ceiling mean an ECB can be priced at any rate?",
+      "a": "No. For ECBs with an average maturity under three years, a trade credit cost ceiling continues to apply rather than free pricing. For related-party ECBs, the arm's length requirement continues to apply regardless of maturity. The fixed benchmark-plus-spread ceiling has been removed only for the general run of longer-maturity, non-related-party borrowings, and even there the pricing must still be commercially justifiable if it is ever examined."
+    },
+    {
+      "q": "Is an ECB raised before 16 February 2026 affected by the new rules?",
+      "a": "No. The amendment applies prospectively. An ECB with a Loan Registration Number issued before 16 February 2026 continues to be governed by the regulations and conditions that applied when that LRN was issued, including the old all-in-cost ceiling, until the facility is repaid or refinanced under the new regime."
+    },
+    {
+      "q": "Can a foreign private credit fund now lend to an Indian company as an ECB lender?",
+      "a": "The recognised lender category has been widened to cover a person resident outside India more generally, alongside overseas branches of RBI-regulated lenders and certain IFSC-based financial institutions, which brings in categories that did not clearly qualify under the earlier FATF or IOSCO residence test. Whether a specific fund structure qualifies should still be confirmed with the AD bank before documentation begins, since fund structures vary widely in where the actual lending entity is resident."
+    },
+    {
+      "q": "Can ECB proceeds be used to fund a real estate development in India?",
+      "a": "Real estate business remains a restricted end use, though the amended definition and its carve-outs are read differently across commentary, with construction development projects, industrial parks and infrastructure activities treated more favourably by most readings. Because an incorrect end-use classification is a FEMA contravention, a borrower should obtain the AD bank's written view on the specific proposed use before drawing down funds rather than relying on a general reading of the amendment."
+    },
+    {
+      "q": "What is the minimum average maturity period for an ECB today?",
+      "a": "The default remains three years. Certain categories, reportedly including manufacturing companies borrowing up to a specified amount, continue to enjoy a shorter period, said in some commentary to be one year, but the exact brackets for specific borrower categories and end uses should be confirmed against the amended regulation's schedule rather than a general summary."
+    },
+    {
+      "q": "What happens if a company misses the deadline for filing its ECB-2 return?",
+      "a": "A late filing of the Revised Form ECB attracts a Late Submission Fee, computed broadly as a fixed amount plus a small percentage of the reported amount multiplied by the years of delay, payable once the AD bank has processed and the RBI has acknowledged the return. A March 2026 circular changed the computation basis specifically for Form ECB 1 and the Revised Form ECB 1 filings with effect from 1 April 2026, so the applicable formula should be checked against the current circular for the specific form and filing date."
+    },
+    {
+      "q": "Does paying the Late Submission Fee resolve every ECB compliance problem?",
+      "a": "No. The Late Submission Fee only addresses the delay in filing a return. If the underlying borrowing itself breached a condition such as the maturity requirement, the end-use restriction or the recognised lender test, that is a substantive contravention that must be regularised separately through compounding under Section 15 of FEMA, which is a different process with a different authority and a case-specific compounding amount."
+    },
+    {
+      "q": "Can an LLP raise an external commercial borrowing after the 2026 amendment?",
+      "a": "LLPs sit more clearly within the eligible borrower categories under the amended framework than they did before. An LLP considering an ECB should still separately confirm, for the specific sector and the specific foreign lender's jurisdiction, that the arrangement does not run into sectoral FDI restrictions that apply independently of the ECB eligibility question."
+    }
+  ],
+  "references": [
+    "Reserve Bank of India, circular dated 16 February 2026 withdrawing ECB-related provisions from the Master Direction on External Commercial Borrowings, Trade Credits and Structured Obligations.",
+    "Foreign Exchange Management (Borrowing and Lending) Regulations, 2018, as amended by the FEMA Borrowing and Lending Amendment Regulations, 2026.",
+    "Foreign Exchange Management Act, 1999, Section 15 (power to compound contraventions).",
+    "RBI A.P. (DIR Series) Circular No. 16, dated 30 September 2022, on Late Submission Fee for delayed reporting under FEMA.",
+    "RBI circular RBI/2025-26/253, dated 30 March 2026, on the revised Late Submission Fee computation for Form ECB 1 and Revised Form ECB 1.",
+    "Roedl & Partners, 'Key Amendments to the Foreign Exchange Regime', published 26 February 2026.",
+    "Law.asia, 'Liberalisation of India's external commercial borrowing regime'.",
+    "Mondaq (Lakshmikumaran & Sridharan), 'External Commercial Borrowing Framework Amended: Key Takeaways'.",
+    "Chambers, 'Liberalizing India's External Commercial Borrowings Framework: Key Changes Under the 2026 Amendments'.",
+    "JSA Prism, Finance, February 2026 note on the FEMA Borrowing and Lending First Amendment Regulations, 2026.",
+    "Singhania & Co., 'RBI Liberalises ECB: Wider Access, Greater Flexibility, and New Guardrails'.",
+    "Maheshwari & Co., 'RBI ECB Framework 2026: Key FEMA Changes', dated with reference to the 9 February 2026 notification.",
+    "Taxmann, 'RBI Revises ECB Reporting Framework and Timelines'.",
+    "setindiabiz, explainer on the Late Submission Fee under FEMA.",
+    "AMSShardul Amarchand Mangaldas, ECB Client Update, February 2026.",
+    "KSandK Associates, newsletter on the Reserve Bank of India's structural consolidation of the ECB framework, 2026."
+  ],
+  "related_pages": [
+    "/blog/form-15ca-15cb-nri-remittance-guide.html",
+    "/blog/overseas-direct-investment-fema-guide.html",
+    "/blog/fema-fdi-reporting-fcgpr-fctrs-guide.html",
+    "/blog/foreign-court-decree-fema-rbi-ceiling-enforcement-guide.html",
+    "/articles/foreign-investment-india-entry-routes-fema-article.html"
+  ],
+  "sources": [
+    "https://www.roedl.com/en/insights/key-amendments-foreign-exchange/",
+    "https://law.asia/india-ecb-framework-liberalisation/",
+    "https://www.mondaq.com/india/corporate-and-company-law/1764028/external-commercial-borrowing-framework-amended-key-takeaways",
+    "https://chambers.com/articles/liberalizing-india-s-external-commercial-borrowings-framework-key-changes-under-the-2026-amendments",
+    "https://www.jsalaw.com/?p=56760",
+    "https://singhania.in/blog/rbi-liberalises-ecb-wider-access-greater-flexibility-and-new-guardrails",
+    "https://www.maheshwariandco.com/blog/rbi-ecb-framework-2026-key-fema-changes/",
+    "https://ksandk.com/newsletter/rbi-overhauls-ecb-framework-under-fema-2026/",
+    "https://www.msassociates.pro/articles/?p=16634",
+    "https://www.taxmann.com/post/blog/rbi-revises-ecb-reporting-framework-and-timelines/",
+    "https://www.setindiabiz.com/?p=24638",
+    "https://www.amsshardul.com/wp-content/uploads/2026/02/ECB-Client-Update.pdf",
+    "https://c4scourses.in/banking-finance/rbi-eases-cost-and-maturity-rules-in-new-ecb-regime-2026/",
+    "https://www.mondaq.com/india/financial-services/1749854/rbi-liberalises-ecb-framework"
+  ],
+  "verification_notes": "AUDIENCE: foreign company / HNI business. TARGET QUERY: what changed in India's ECB rules in 2026, can a foreign fund lend to an Indian company as ECB. DEMAND EVIDENCE: none seen (no search-volume or trending data observed; topic chosen because the February 2026 ECB overhaul is a live, heavily commented-on regulatory change directly within Banking & Finance and squarely affects foreign lenders and Indian promoters, per AUDIENCE_FOCUS and REGIONAL_FOCUS instructions). All figures on the all-in-cost ceiling removal, MAMP default, widened borrower and lender categories, and the LSF formula are corroborated across at least two independent law-firm or compliance publications found in this session's searches; no RBI primary notification text could be retrieved directly (network access to rbi.org.in and most primary sites was not available to the research tool used), so this draft flags every point where secondary sources disagree (MAMP carve-outs, real estate end-use scope, guarantee rules, penal interest cap) and declines to state a single figure where sources conflict, consistent with STRICT_VERIFICATION. The factual claims about dates (16 February 2026 circular, 1 April 2026 LSF change, 30 September 2022 base LSF circular) converge across multiple independent commentary sources. Before publication, counsel should attempt to pull the RBI notification and circular text directly from rbi.org.in to confirm the carve-outs this draft has deliberately left unquantified."
+}
