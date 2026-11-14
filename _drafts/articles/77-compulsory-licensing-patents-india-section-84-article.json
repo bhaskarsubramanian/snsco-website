@@ -1,0 +1,196 @@
+{
+  "slug": "compulsory-licensing-patents-india-section-84-article",
+  "title": "Compulsory Licensing of Patents in India: Section 84, the Bayer Precedent and the Risk Foreign Patentees Underrate",
+  "subtitle": "India has granted exactly one compulsory licence since the Patents Act was last amended. That single case still shapes how every foreign patent holder should price and supply in India.",
+  "meta_description": "How compulsory licensing works under Section 84 of the Patents Act, what Natco v Bayer actually decided, and why most applications since have failed.",
+  "practice_area": "Intellectual Property",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Subhradip Roy",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian, Subhradip Roy",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors; Partner, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-14",
+  "standfirst": "Foreign patentees entering India for the first time often ask the wrong question about compulsory licensing. They ask how likely it is that a generic manufacturer will actually get one, and the honest answer is that it has happened exactly once in the history of the amended Patents Act. The better question is what conduct by the patentee made that one case possible, because the Controller's reasoning in that case, upheld all the way to the Supreme Court's refusal to interfere, reads less like an attack on patent rights and more like a checklist of pricing and supply decisions a foreign patent holder can simply choose not to repeat.",
+  "key_points": [
+    "Section 84 of the Patents Act, 1970 lets any interested person apply for a compulsory licence three years after a patent is granted, on three grounds: reasonable requirements of the public are not satisfied, the patented invention is not available to the public at a reasonably affordable price, or the patented invention is not worked in the territory of India.",
+    "India has granted exactly one compulsory licence under Section 84 since the provision took its current form: to Natco Pharma Ltd in March 2012, for Bayer Corporation's anti-cancer drug sorafenib, sold under the brand Nexavar.",
+    "The Controller fixed Natco's royalty to Bayer at 6 percent of net sales and accepted Natco's proposed price of roughly Rs 8,800 for a month's therapy, against Bayer's reported price of roughly Rs 2,80,000 for the same month's supply.",
+    "The Intellectual Property Appellate Board upheld the grant on appeal in March 2013, the Bombay High Court dismissed Bayer's writ petition on 15 July 2014, and the Supreme Court dismissed Bayer's Special Leave Petition in December 2014, leaving the Natco licence as the only one of its kind to survive the full appellate process.",
+    "The only other reported Section 84 application to reach a decision, BDR Pharmaceuticals' bid for a compulsory licence over Bristol-Myers Squibb's dasatinib, was rejected by the Controller in 2013 for want of a prima facie case, principally because BDR had not shown a genuine effort to obtain a voluntary licence first.",
+    "Sections 92 and 92A provide separate, narrower routes: a government-notified compulsory licence during a national emergency or for public non-commercial use, and a compulsory licence specifically for exporting patented pharmaceutical products to a country that lacks manufacturing capacity, consistent with India's obligations under the Doha Declaration.",
+    "The Intellectual Property Appellate Board was abolished by the Tribunals Reforms Ordinance of 2021, with effect from 4 April 2021, and patent appeals that would once have gone to it, including a future Section 84 appeal, now go to the High Courts, with the Delhi High Court having set up a dedicated Intellectual Property Division in July 2021.",
+    "A foreign patentee's practical defence against a compulsory licence has little to do with litigation strategy and almost everything to do with pricing, local supply arrangements and responding seriously to voluntary licence requests well before the three-year post-grant window closes."
+  ],
+  "sections": [
+    {
+      "heading": "A remedy that looks more common in theory than in practice",
+      "paragraphs": [
+        "Compulsory licensing occupies an outsized place in how foreign investors and their counsel think about Indian patent risk, out of proportion to how often it has actually been used. The statutory architecture exists to let a patent monopoly be overridden, on specified grounds, in favour of a third party willing to work the invention on terms the Controller of Patents considers fair to both sides. It is a serious remedy, and the single instance in which it has actually been granted and upheld through to the Supreme Court involved a drug priced well beyond the reach of most patients who needed it. It is also, on the record to date, a remedy that Indian patentees and generic manufacturers invoke rarely and win even more rarely.",
+        "This gap between the provision's prominence in investor due diligence and its actual track record is worth dwelling on, because it changes how a foreign patentee should allocate its attention. A great deal of compliance energy goes into patent prosecution strategy, working statement filings and opposition defence, and comparatively little goes into the pricing and supply decisions that, on the one case where India actually granted a compulsory licence, turned out to matter most. This article sets out the statutory scheme, works through what the Bayer case actually held, and draws out the practical lesson that the single successful application leaves for anyone holding an Indian patent on a product with real public health or public interest stakes.",
+        "None of this is an argument that compulsory licensing is a toothless provision that a patentee can safely ignore. A statute that has been tested all the way to the Supreme Court and upheld on its facts is not toothless merely because it has been used once; it means the mechanism works as intended when the underlying facts justify it, and a patentee's task is to make sure its own facts never resemble the ones that justified it the first time. Treating the rarity of successful applications as a reason for complacency, rather than as evidence of what a well-run Indian supply and pricing strategy can avoid, is the kind of misreading that this article is written to correct."
+      ]
+    },
+    {
+      "heading": "The statutory grounds under Section 84",
+      "paragraphs": [
+        "Section 84 of the Patents Act, 1970 permits any person interested, a term that has been read to include a prospective manufacturer with a genuine interest in working the invention rather than a mere busybody, to apply to the Controller for a compulsory licence once three years have elapsed from the date the patent was granted. The application must be founded on at least one of three grounds set out in the provision: that the reasonable requirements of the public with respect to the patented invention have not been satisfied, that the patented invention is not available to the public at a reasonably affordable price, or that the patented invention is not worked in the territory of India.",
+        "These three grounds are not watertight compartments. In practice, as the Bayer case illustrates, they tend to be argued together and to reinforce each other: a drug that is not manufactured in India but only imported in limited quantities, priced well above what most patients can afford, and therefore reaching only a small fraction of those who need it, supports all three grounds simultaneously rather than resting on any single one. The Controller's order granting the Natco licence, as reported in the subsequent appellate judgments, treated the import-only supply model and the high price as mutually reinforcing evidence that the reasonable requirements of the public were not being met.",
+        "The 'worked in the territory of India' ground has generated the most sustained debate among practitioners, because it raises the question of whether importing a patented product into India, without any local manufacturing, can ever satisfy the working requirement. The Controller's view in the Bayer matter, upheld on appeal, was that Bayer's reliance on imports rather than local manufacture supported a finding that the invention was not being worked in India in the sense the provision requires. This reasoning has been influential, but it was decided on the specific facts before the Controller, including Bayer's own evidence about its supply volumes, and should not be read as a blanket rule that every imported patented product automatically fails the working requirement regardless of supply volume or circumstances."
+      ]
+    },
+    {
+      "heading": "Natco v Bayer: the facts that decided the case",
+      "paragraphs": [
+        "Bayer Corporation held an Indian patent on sorafenib tosylate, marketed as Nexavar, used in the treatment of advanced kidney and liver cancer. Natco Pharma Ltd applied to the Controller under Section 84 for a compulsory licence, and the Controller granted it in March 2012, having found that Bayer was supplying the drug in India largely through imports, at a price reported in the appellate record at roughly Rs 2,80,000 for a month's course of therapy, reaching, on the evidence before the Controller, only a small percentage of the patients who could have benefited from it.",
+        "Natco had proposed to supply the same drug at roughly Rs 8,800 to Rs 8,880 for a month's therapy, a price it represented as commercially viable for itself while being within reach of a far larger share of patients, and the Controller accepted this pricing as part of the basis for the licence. The Controller fixed Natco's royalty obligation to Bayer at 6 percent of net sales of the generic product, a rate reported consistently across the commentary reviewed for this piece as the royalty actually set, notwithstanding a separate, less consistently corroborated report that the rate may have been revisited on appeal; this article treats 6 percent as the Controller's original figure and does not assert a different figure was finally substituted, since that claim could not be confirmed from two independent sources.",
+        "Bayer appealed to the Intellectual Property Appellate Board, which rejected Bayer's challenge and upheld the compulsory licence by an order dated 4 March 2013. Bayer then filed a writ petition before the Bombay High Court, registered as Writ Petition No. 1323 of 2013, which a Division Bench comprising the then Chief Justice Mohit S. Shah and Justice M.S. Sanklecha dismissed on 15 July 2014, upholding the Intellectual Property Appellate Board's order and rejecting Bayer's arguments on both the reasonable-requirements ground under Section 84(1)(b) and the propriety of the licence terms fixed under Section 90. Bayer's Special Leave Petition to the Supreme Court was dismissed in December 2014, closing the litigation and leaving Natco's compulsory licence as the first, and to date the only, compulsory licence to survive the complete appellate process under the amended Patents Act."
+      ]
+    },
+    {
+      "heading": "What the case does and does not establish",
+      "paragraphs": [
+        "It is tempting to read the Bayer outcome as establishing that any foreign patentee pricing a drug far above what Natco or a comparable generic manufacturer could offer is exposed to a compulsory licence the moment three years pass from grant. That overstates what the courts actually decided. The Controller, the Appellate Board and the two courts that reviewed the matter were each responding to a specific factual record: a drug supplied almost entirely through imports, at a price that the evidence showed was reaching a small fraction of eligible patients, where the patentee had not put forward a credible case that its own pricing and supply model satisfied the reasonable-requirements test. A patentee with a materially different supply and pricing profile, for instance one manufacturing locally at scale or operating a patient-assistance programme that meaningfully widens access, would be presenting the Controller with a different factual case, and nothing in the Bayer litigation forecloses a different outcome on different facts.",
+        "What the case does establish, with reasonable confidence given how thoroughly it was tested on appeal, is that the three statutory grounds will be read together rather than in isolation, that import-dependent supply is a live risk factor rather than a formality, and that the reasonably affordable price test is assessed by reference to what the relevant patient population in India can actually pay, not by reference to global or developed-market pricing norms. A foreign patentee cannot assume that a price considered reasonable in its home market will be treated as reasonably affordable in India, because the two inquiries are not the same question."
+      ]
+    },
+    {
+      "heading": "The one other reported application, and why it failed",
+      "paragraphs": [
+        "The most frequently cited comparator to the Natco case is BDR Pharmaceuticals Pvt Ltd's application for a compulsory licence over Bristol-Myers Squibb's dasatinib, marketed as Sprycel, another cancer treatment. BDR had sought a voluntary licence from Bristol-Myers Squibb before turning to Section 84, consistent with the statutory scheme's general expectation that an applicant will have tried the voluntary route first, and filed its compulsory licence application in March 2013, offering to supply the drug at around Rs 8,100 for a month's dose against a reported price of roughly Rs 1,00,000 charged by Bristol-Myers Squibb for the same period.",
+        "The Controller rejected BDR's application, holding that BDR had not made adequate efforts to obtain a voluntary licence on reasonable terms before resorting to the compulsory route, and finding that BDR had not made out a prima facie case under Section 84. Bristol-Myers Squibb later relied on this rejection in separate patent litigation before the Delhi High Court, where Justice Manmohan rejected an attempt by BDR to use the compulsory licensing framework's underlying policy as a shield in an infringement dispute, upholding the patent.",
+        "The lesson from the BDR outcome is almost the mirror image of the lesson from Natco. Where Natco succeeded in part because the Controller found the patentee's own conduct, import-dependent supply at a price reaching few patients, left little room for the patentee to argue the statutory grounds were unmet, BDR failed because the Controller found the applicant itself had not done the groundwork, a genuine attempt at a voluntary licence, that Section 84 implicitly expects before the compulsory route is available. A compulsory licence is not granted merely because a generic manufacturer would like to sell a cheaper version of a patented drug; it requires the statutory grounds to be made out on a complete evidentiary record, from both sides."
+      ]
+    },
+    {
+      "heading": "The narrower routes: Sections 92 and 92A",
+      "paragraphs": [
+        "Section 84 is the general route, triggered by a private applicant's case against a specific patentee. Section 92 provides a different mechanism entirely: the Central Government can notify that circumstances of national emergency, extreme urgency, or public non-commercial use justify the grant of compulsory licences for a patented invention, at which point the Controller is empowered to grant such licences on application without the applicant having to independently establish the Section 84 grounds. This route has historical roots in Article 31 of the TRIPS Agreement and the flexibilities recognised in the 2001 Doha Declaration on TRIPS and Public Health, and it exists precisely so that India is not left waiting on a private party's Section 84 litigation during a genuine public health emergency.",
+        "Section 92A addresses a different problem: it provides for a compulsory licence specifically to manufacture and export a patented pharmaceutical product to a country that has insufficient or no manufacturing capacity in the pharmaceutical sector to address its own public health needs, implementing India's obligations under the WTO's Doha-related amendment to the TRIPS Agreement that permits exactly this kind of export-oriented compulsory licence. For a foreign patentee, Section 92A is less a domestic pricing risk and more a question of whether an Indian licensee could be authorised to manufacture and ship the patented product to a third country under this specific framework, a scenario relevant mainly to patentees whose products are needed in public health responses across multiple developing countries at once.",
+        "Both Section 92 and Section 92A routes are triggered by government notification or by the specific statutory export framework rather than by an ordinary private litigant's initiative, which makes them considerably less relevant to the day-to-day pricing and supply decisions that drive Section 84 risk, but they remain part of the full compulsory licensing architecture a foreign patentee should be aware of, particularly in the pharmaceutical sector."
+      ]
+    },
+    {
+      "heading": "Compulsory licensing outside the pharmaceutical sector",
+      "paragraphs": [
+        "Nearly every reported compulsory licensing dispute in India, including both cases discussed above, has involved pharmaceutical patents, and it would be a mistake for a foreign patentee outside that sector to read Section 84 as a pharma-specific risk that does not concern it. The provision is drafted in general terms and applies to any patented invention, regardless of field, and the three grounds, unmet reasonable requirements, unaffordable pricing and the absence of local working, translate readily to other sectors where a patented technology is essential to a wider public interest, such as agricultural inputs, renewable energy components, or medical devices and diagnostic equipment that sit just outside the strict definition of a pharmaceutical product.",
+        "What has kept Section 84 applications concentrated in pharmaceuticals so far is less a feature of the statute than a feature of who has had the incentive and the technical capacity to apply: generic pharmaceutical manufacturers in India have, for decades, built businesses on reverse-engineering patented drug molecules, and that industry has both the motive and the regulatory familiarity to bring a Section 84 application when a case looks winnable. A sector with a comparable domestic manufacturing base and a comparable public interest argument, agricultural biotechnology is often mentioned in commentary as a candidate, could in principle produce a similar application if a patentee's pricing and supply conduct created a comparable factual record. A foreign patentee in such a sector should not take comfort from the absence of a reported precedent outside pharmaceuticals; it should simply recognise that the absence reflects who has applied so far, not a legal limit on who could."
+      ]
+    },
+    {
+      "heading": "Where a Section 84 appeal goes today",
+      "paragraphs": [
+        "The procedural route that a future Section 84 dispute would travel through has changed since the Bayer litigation was decided. At the time of that case, an order of the Controller was appealable to the Intellectual Property Appellate Board, the specialist tribunal that heard Bayer's challenge before the matter went to the Bombay High Court by way of writ petition. The Tribunals Reforms (Rationalisation and Conditions of Service) Ordinance, 2021, promulgated on 4 April 2021, abolished the Intellectual Property Appellate Board along with several other tribunals, and patent appeals that would previously have gone to it now go directly to the High Courts.",
+        "The Delhi High Court responded to this change by creating a dedicated Intellectual Property Division within the court through an office order issued on 7 July 2021, becoming, on the reporting reviewed, the first High Court in India to set up such a division specifically for intellectual property matters, including the roughly three thousand cases reported to have been transferred to it from the erstwhile Appellate Board. Other High Courts have generally continued to use their existing procedures for the cases transferred to them rather than creating an equivalent dedicated division, which means the procedural experience of a Section 84 appeal today can differ meaningfully depending on which High Court it lands in.",
+        "For a foreign patentee assessing litigation risk on an Indian patent today, this matters in a practical sense: a future compulsory licence dispute no longer travels through a single specialist tribunal with patent-specific expertise sitting between the Controller and the High Courts. It goes straight to a High Court, which in Delhi means a bench with a dedicated IP docket and developing patent-specific procedural rules, and elsewhere means a High Court applying its general civil appellate procedure to a technically dense patent dispute, a difference in forum experience worth factoring into where, geographically, a patent dispute is likely to be litigated if the question ever arises."
+      ]
+    },
+    {
+      "heading": "Pricing and supply decisions that actually reduce the risk",
+      "paragraphs": [
+        "The most direct lesson a foreign patentee can draw from the Bayer litigation is that the three-year window following grant is not a period to be managed through legal monitoring alone. A patentee whose Indian supply model mirrors Bayer's, import-dependent, priced by reference to global markets, reaching a visibly small share of the patient population that could benefit, is building the same factual record that supported Natco's application, regardless of how carefully the patent itself was prosecuted. Local manufacturing, tiered or differential pricing for the Indian market, patient access or assistance programmes, and voluntary licensing to Indian manufacturers on commercially reasonable terms are not merely goodwill gestures; each one directly undercuts one or more of the Section 84 grounds before an application is ever filed.",
+        "A patentee that receives an approach from an Indian manufacturer seeking a voluntary licence should treat that approach as a meaningful data point regardless of whether it intends to grant the licence, because the BDR outcome shows that an applicant's own conduct in seeking, or failing to seek, a voluntary licence in good faith is scrutinised by the Controller. A patentee that engages seriously with such approaches, documents the terms it offered or the reasons it declined, and can show this process was not a formality, strengthens its own position considerably more than a patentee that ignores the approach and later has to explain, after a Section 84 application is filed, why no credible voluntary licensing effort was ever attempted on either side.",
+        "None of this is a substitute for competent patent prosecution and defence of the underlying patent's validity, which remains the first line of protection against any infringement, including a compulsory licence applicant's generic product once licensed. It is, however, a reminder that the compulsory licensing risk in India is managed substantially outside the courtroom, through pricing and distribution decisions taken years before any dispute arises, and a patentee that treats Section 84 purely as a litigation contingency to be fought if and when it arises has already missed the stage at which the Bayer case shows the real risk is actually created or avoided."
+      ]
+    },
+    {
+      "heading": "A three-year calendar for a newly granted Indian patent",
+      "paragraphs": [
+        "Because the compulsory licensing exposure under Section 84 only crystallises once three years have passed from grant, and because the Bayer case shows that the facts a Controller will examine accumulate over that whole period rather than appearing only once an application is filed, a foreign patentee is better served by treating those three years as a window to build a defensible record rather than as a quiet period before any risk begins. In the first year after grant, the patentee should settle its India supply model: whether the product will be imported, locally manufactured, or manufactured under licence, and should document the commercial reasoning for that choice in terms a Controller could later understand, since the 'not worked in India' ground turns substantially on exactly this decision.",
+        "In the second year, pricing should be reviewed specifically against what the relevant Indian patient or customer population can pay, rather than against global price-realisation targets set centrally for the product line, because a price that is reasonable by the patentee's own internal benchmarks can still be found unaffordable by Indian standards, as Bayer's was. Any approach from an Indian manufacturer seeking a voluntary licence during this period should be taken seriously and responded to in writing, whatever the eventual answer, because a documented, good-faith response is the single clearest way to avoid the fate that befell BDR's own application against a different patentee, and because a patentee's own conduct in these negotiations becomes part of the record a Controller may examine later.",
+        "By the third year, the patentee should have a clear, internally agreed answer to each of the three Section 84 grounds, supply volume and local working, pricing relative to Indian affordability, and the genuineness of any licensing engagement, so that if a compulsory licence application is ever filed, the response is a matter of assembling existing records rather than constructing a defence from scratch under litigation pressure. A patentee that reaches the three-year mark without having asked itself these questions is not necessarily exposed, since the one successful application to date required a specific and fairly extreme fact pattern, but it is flying blind on a risk that the Bayer litigation shows can be assessed and managed well before it ever becomes a dispute."
+      ]
+    }
+  ],
+  "conclusion": [
+    "India's compulsory licensing regime under Section 84 has, on the record to date, produced one successful application in the entire period since the current provision took shape, and that single success turned on a specific, fully litigated factual record rather than on any general hostility to foreign patent rights. The Bombay High Court and the Supreme Court each had the opportunity to curb the Controller's and the Appellate Board's findings and declined to do so, which gives the Natco precedent real weight for any patentee whose Indian supply and pricing model resembles the one Bayer was running in that case.",
+    "For a foreign company holding Indian patents on products with genuine public health or public interest stakes, the practical takeaway is not to fear Section 84 as an unpredictable sword hanging over every patent, since the BDR outcome shows the provision is not simply available on demand to any generic manufacturer who asks. It is to recognise that reasonably affordable pricing, credible local supply arrangements, and a genuine willingness to engage with voluntary licensing requests are not commercial nice-to-haves sitting alongside the patent strategy; on the one fully litigated precedent India has produced, they are the patent strategy."
+  ],
+  "faqs": [
+    {
+      "q": "How many compulsory licences has India actually granted under Section 84?",
+      "a": "One. The Controller of Patents granted a compulsory licence to Natco Pharma Ltd in March 2012 over Bayer Corporation's patent for sorafenib (Nexavar), and that remains, on the public record, the only compulsory licence under Section 84 to have been granted and to have survived the full appellate process to the Supreme Court."
+    },
+    {
+      "q": "What price did the Controller accept as reasonably affordable in the Bayer case?",
+      "a": "The Controller accepted Natco's proposed price of roughly Rs 8,800 to Rs 8,880 for a month's course of sorafenib, against Bayer's reported price of roughly Rs 2,80,000 for the same period, and set Natco's royalty obligation to Bayer at 6 percent of net sales."
+    },
+    {
+      "q": "Does importing a patented product into India automatically mean it is 'not worked' in India?",
+      "a": "Not automatically. The Controller and the courts in the Bayer case treated Bayer's reliance on imports as supporting a finding that the invention was not being worked in India, but that finding was reached on the specific evidence of Bayer's limited supply volumes and reach. A different supply record could support a different conclusion, and the point has not been tested to a different outcome in a later reported case."
+    },
+    {
+      "q": "Can a compulsory licence application succeed without the applicant first seeking a voluntary licence?",
+      "a": "It is considerably harder. In the BDR Pharmaceuticals case over Bristol-Myers Squibb's dasatinib, the Controller rejected the application substantially because BDR had not shown adequate efforts to obtain a voluntary licence on reasonable terms before applying under Section 84, finding no prima facie case had been made out."
+    },
+    {
+      "q": "Where does a compulsory licence dispute go on appeal today?",
+      "a": "Appeals that would once have gone to the Intellectual Property Appellate Board now go to the High Courts, following the Board's abolition under the Tribunals Reforms Ordinance, 2021, with effect from 4 April 2021. The Delhi High Court has set up a dedicated Intellectual Property Division to handle such matters, including cases transferred from the erstwhile Board; other High Courts generally apply their existing procedures to these cases."
+    },
+    {
+      "q": "Are Sections 92 and 92A relevant to an ordinary commercial patent dispute?",
+      "a": "Rarely. Section 92 compulsory licences require a Central Government notification of national emergency, extreme urgency or public non-commercial use, and Section 92A applies specifically to exporting patented pharmaceutical products to a country lacking manufacturing capacity, consistent with India's Doha Declaration obligations. Both are triggered by government action or a specific export framework rather than by an ordinary private party's initiative, unlike Section 84."
+    },
+    {
+      "q": "How soon after grant can a compulsory licence application be filed against a patent?",
+      "a": "Not before three years have elapsed from the date the patent was granted, under Section 84(1). An application filed before that period cannot proceed on the merits regardless of how strong the underlying grounds might otherwise be."
+    },
+    {
+      "q": "What can a foreign patentee do to reduce the risk of a compulsory licence in India?",
+      "a": "The single most useful lesson from the Bayer case is to avoid the fact pattern that supported it: import-only supply, pricing set without reference to what the Indian patient population can pay, and no engagement with voluntary licensing approaches. Local manufacturing or supply arrangements, differential pricing for the Indian market, and documented, good-faith responses to voluntary licence requests each directly address one or more of the three Section 84 grounds."
+    }
+  ],
+  "references": [
+    "The Patents Act, 1970, Section 84 (compulsory licence on application after three years from grant).",
+    "The Patents Act, 1970, Section 90 (terms and conditions of compulsory licences).",
+    "The Patents Act, 1970, Section 92 (special provision for compulsory licences on notified grounds of national emergency, extreme urgency or public non-commercial use).",
+    "The Patents Act, 1970, Section 92A (compulsory licence for export of patented pharmaceutical products).",
+    "Doha Declaration on the TRIPS Agreement and Public Health, World Trade Organization, 2001.",
+    "Natco Pharma Ltd v Bayer Corporation, Controller of Patents, order dated March 2012 granting compulsory licence under Section 84.",
+    "Bayer Corporation v Natco Pharma Ltd and Union of India, Intellectual Property Appellate Board, order dated 4 March 2013.",
+    "Bayer Corporation v Union of India and Ors, Bombay High Court, Writ Petition No. 1323 of 2013, decided 15 July 2014.",
+    "Bayer Corporation v Union of India, Supreme Court of India, Special Leave Petition dismissed, December 2014.",
+    "BDR Pharmaceuticals Pvt Ltd v Bristol-Myers Squibb Company, Controller of Patents, order rejecting compulsory licence application, 2013.",
+    "Tribunals Reforms (Rationalisation and Conditions of Service) Ordinance, 2021, promulgated 4 April 2021 (abolition of the Intellectual Property Appellate Board).",
+    "Delhi High Court, Office Order dated 7 July 2021, constituting the Intellectual Property Division.",
+    "AsiaIPLaw, 'Compulsory License issued to Natco Pharma for Nexavar'.",
+    "SS Rana & Co., 'Bombay High Court Dismisses Bayer's Plea: India's First Compulsory Licence Continues as IPAB's Decision Upheld by the Court'.",
+    "LawBhoomi, 'Case Brief: Bayer Corporation v Union of India (2014) Bombay HC'.",
+    "Khurana & Khurana, 'Indian Patent Office Rejects Compulsory Licensing Application: BDR Pharmaceuticals Pvt. Ltd. Vs Bristol Myers Squibb'.",
+    "Business Standard / Reuters, 'BDR Pharma Seeks Licence for Cancer Drug', 18 March 2013.",
+    "AZB & Partners, 'Intellectual Property Appellate Board Abolished', 9 April 2021.",
+    "Asia IP Law, 'India's High Court of Delhi Forms Intellectual Property Division'."
+  ],
+  "related_pages": [
+    "/blog/patent-registration-process-india-guide.html",
+    "/blog/patent-opposition-pre-grant-post-grant-guide.html",
+    "/blog/patent-infringement-litigation-claim-construction-guide.html",
+    "/blog/standard-essential-patent-frand-dispute-guide.html",
+    "/articles/trademark-enforcement-passing-off-well-known-marks-article.html"
+  ],
+  "sources": [
+    "https://asiaiplaw.com/sector/trademarks/compulsory-license-issued-to-natco-pharma-for-nexavar",
+    "https://www.intepat.com/blog/natco-vs-bayer-indias-bold-move-on-compulsory-licensing-and-the-backlash-from-foreign-nations/",
+    "https://www.indialaw.in/blog/intellectual-property-rights/bayer-corp-v-union-of-india/",
+    "https://ssrana.in/articles/bombay-high-court-dismisses-bayers-plea-indias-first-compulsory-licence-continues-as-ipabs-decision-upheld-by-the-court/",
+    "https://lawbhoomi.com/bayer-corporation-vs-union-of-india-2014-bombay-hc",
+    "https://www.livelaw.in/amp/apex-court-dismisses-bayers-slp-compulsory-license-anti-cancer-drug",
+    "https://www.downtoearth.org.in/news/sc-rejects-bayers-appeal-against-compulsory-licence-for-nexavar--47850",
+    "https://lakshmisri.com/insights/articles/compulsory-license-high-court-upholds-ipab-order",
+    "https://www.khuranaandkhurana.com/2013/11/13/indian-patent-office-rejects-compulsory-licensing-application-bdr-pharmaceuticals-pvt-ltd-vs-bristol-myers-squibb/",
+    "https://www.business-standard.com/article/reuters/bdr-pharma-seeks-licence-for-cancer-drug-113031800452_1.html",
+    "https://www.fiercepharma.com/regulatory/indian-court-upholds-bms-sprycel-patent-but-list-of-challengers-grows",
+    "https://ipindia.gov.in/writereaddata/Portal/ev/sections/ps92.html",
+    "https://www.azbpartners.com/?p=5977",
+    "https://conventuslaw.com/report/india-intellectual-property-appellate-board/",
+    "https://asiaiplaw.com/sector/ip-management/indias-high-court-of-delhi-forms-intellectual-property-division",
+    "https://www.khuranaandkhurana.com/?p=9779"
+  ],
+  "verification_notes": "AUDIENCE: foreign company. TARGET QUERY: compulsory licensing of patents in India, Natco v Bayer case, Section 84 Patents Act. DEMAND EVIDENCE: none seen (no search-volume or trending data observed; topic chosen because compulsory licensing is a standing concern for foreign patent holders entering India and the existing site content already covers patent registration, opposition, infringement litigation and SEP disputes but not compulsory licensing specifically, per the dedupe check against origin/main's search index). The Natco v Bayer chronology (Controller's grant, March 2012; IPAB order, 4 March 2013; Bombay High Court, Writ Petition No. 1323 of 2013, decided 15 July 2014, bench of Chief Justice Mohit S. Shah and Justice M.S. Sanklecha; Supreme Court SLP dismissed December 2014) and the BDR Pharmaceuticals v Bristol-Myers Squibb rejection are each corroborated across at least two independent sources found in this session's searches (AsiaIPLaw, SSRana, LawBhoomi, LiveLaw, Down To Earth for Bayer; Khurana & Khurana and Business Standard/Reuters for BDR). The royalty figure (6 percent of net sales) and the two price figures are taken from sources that converge on them, with a single conflicting report of a later revision to 7 percent deliberately not adopted because it could not be corroborated by a second source, consistent with STRICT_VERIFICATION. The IPAB abolition date (4 April 2021 Ordinance) and the Delhi High Court IP Division's creation (7 July 2021 office order) are corroborated across AZB Partners, Conventus Law and Asia IP Law reporting. A third compulsory-licence application sometimes cited in general commentary (Lee Pharma v AstraZeneca) could not be verified from any source found in this session's searches and has deliberately been left out of this article rather than stated from unverified general knowledge. Primary sources (the Controller's order, the IPAB order and the Bombay High Court judgment text itself) were not directly retrievable in this session; counsel should pull the judgment text from Indian Kanoon or the court's own site before this article is relied on in any filing or formal advice."
+}
