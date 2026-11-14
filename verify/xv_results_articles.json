@@ -1340,5 +1340,17 @@
     "reason": "Wrong circular number and issuance date; the actual circular is No. 24 dated 30 December 2009, effective 1 February 2010, not No. 23 dated 4 February 2010."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/68-private-family-trust-succession-planning-hni-india-article.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.incometaxindia.gov.in/w/section-164-64",
+   "https://lawgist.in/prohibition-of-benami-property-transactions-act/2",
+   "https://www.taxheal.com/?p=115614",
+   "https://www.scconline.com/blog/?p=384134"
+  ],
+  "note": "Section 164 maximum marginal rate for discretionary trusts, with the proviso exception for a trust declared under a will exclusively for a dependent relative (Finance Act 1984, effective 1 April 1985), is independently confirmed and matches the draft's characterisation closely, including the carry-forward into the 2025 Act (reported as Clause 307 of the Income Tax Bill 2025). Benami Act Section 2(9)(A)(ii)'s fiduciary-capacity exception, linked to the Indian Trusts Act Section 3 definition of trustee, is independently confirmed; a 2026 Supreme Court decision (Manjula v. D.A. Srinivas) construing 'fiduciary capacity' restrictively actually reinforces rather than undermines the draft's point, since a trustee is one of the enumerated categories the restrictive reading still covers. Sections 61-63 (revocable transfer clubbing) and the general Trusts Act 1882 framework are standard, settled positions consistent with the draft's own two-source citations. EDITORIAL FLAG (not a factual error): origin/main already carries a live blog guide, /blog/succession-planning-trusts-vs-wills-business-owners-guide.html ('Succession Planning for Business Owners', published 2026-09-20), covering materially the same core ground (trust vs will for business owners, Indian Trusts Act 1882, trust deed, named beneficiaries). This new article is considerably longer and adds real depth the existing guide lacks (discretionary vs specific trust taxation mechanics, Benami Act documentation requirements, HUF comparison, NRI/cross-border considerations, trustee governance and protector roles), so it is not a verbatim duplicate, but the overlap in framing and title ('Trusts vs Wills' / 'Private Family Trusts for Succession') is close enough that the editorial team should decide whether to publish both, merge them, or retire the shorter guide before this goes live."
  }
 ]
