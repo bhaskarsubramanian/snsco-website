@@ -1,0 +1,223 @@
+{
+  "slug": "closing-branch-liaison-project-office-india-foreign-company-article",
+  "title": "Closing a Branch, Liaison Office or Subsidiary in India: Foreign Company Exit",
+  "subtitle": "What a foreign company actually has to do, and in what order, to bring an Indian office or an Indian subsidiary to a clean close",
+  "meta_description": "How a foreign company closes a branch or liaison office, or winds up an Indian subsidiary, under FEMA, the Companies Act and the IBC, as the law stands.",
+  "practice_area": "Corporate Law & M&A",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Subhradip Roy",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-14",
+  "standfirst": "Setting up an Indian branch, liaison or project office, or incorporating an Indian subsidiary, is the well travelled part of doing business in India. Closing one down again, in a way that a bank will actually let you remit money against, is less travelled and more exacting. This article sets out the authorised dealer bank route for offices, the strike off and voluntary liquidation routes for a subsidiary, and the tax clearance that sits underneath both, as the law and regulatory practice stand today.",
+  "key_points": [
+    "Closing a liaison, branch or project office in India now runs through the designated Authorised Dealer Category-I bank, not the Reserve Bank directly, under the framework set out in the FEMA 22(R) Regulations, 2016 and the Reserve Bank's consolidated Master Direction.",
+    "The AD bank will ask for the original permission to open the office, an auditor's certificate on liabilities and the remittable amount, confirmation that every Annual Activity Certificate was filed, and a No Objection Certificate from the Registrar of Companies where the office was registered under Section 380.",
+    "A tax clearance certificate, sought from 1 April 2026 under the Income-tax Act, 2025 on Form 156, is a practical precondition for the final remittance in almost every closure, whichever route is used.",
+    "An Indian subsidiary with no assets or liabilities left can be struck off under Section 248 of the Companies Act, 2013, through the centralised Centre for Processing Accelerated Corporate Exit on Form STK-2, but a struck off company can be restored on application to the Tribunal under Section 252 if a liability later surfaces.",
+    "A solvent subsidiary with assets to realise and distribute to its foreign parent is better closed through voluntary liquidation under Section 59 of the Insolvency and Bankruptcy Code, 2016, which ends in a Tribunal order of dissolution rather than an administrative strike off.",
+    "Repatriating the closing balance of an office, or the liquidation or strike off proceeds of a subsidiary, still requires a chartered accountant's certificate in Form 15CB and an electronic filing in Form 15CA before the remitting bank will act.",
+    "Entities connected to sectors that needed government approval to enter India, and entities with employees still on the payroll at closure, should expect the exit to take longer than a straightforward, compliant, employee-free closure."
+  ],
+  "sections": [
+    {
+      "heading": "Closing an Indian presence is a project, not a formality",
+      "paragraphs": [
+        "A foreign company that decides to shut down its liaison office in Gurugram, wind down a branch office that has finished a contract, or exit a wholly owned Indian subsidiary usually assumes the hard part was setting up. In practice the exit is often the slower and more document heavy half of the relationship with Indian regulators. The office or company cannot simply stop filing and switch off the lights. Every rupee that is to leave India has to pass through an approval chain that checks, in turn, whether the entity ever had the right permissions, whether it filed what it was supposed to file every year, and whether tax on what it earned in India has actually been paid.",
+        "The route out depends entirely on what was set up on the way in. A branch office, liaison office or project office is closed through the authorised dealer bank under the foreign exchange rules for such offices. A separately incorporated Indian subsidiary, by contrast, is a company under the Companies Act, 2013, and its exit runs through the Registrar of Companies or the National Company Law Tribunal, with the foreign exchange angle arising only at the point of repatriating what is left after the company is wound up. Confusing the two routes, or starting one before the groundwork for the other is ready, is the most common reason an exit that should take a few months instead drags on for a year or more.",
+        "This article sets out both routes as they stand today, what the authorised dealer bank and the tax authorities will actually ask for, and the choice a foreign parent has to make between striking a subsidiary off the register and putting it through a formal liquidation. It does not cover the separate question of closing a project office before the underlying contract itself has ended, which usually depends on the terms of that contract as much as on regulation."
+      ]
+    },
+    {
+      "heading": "The three non-company structures, and why their exits differ",
+      "paragraphs": [
+        "A liaison office is, under the current regulatory definition, a channel of communication between the foreign parent and parties in India, with no power to earn income or undertake trading or commercial activity of its own. A branch office is permitted to carry out commercial activity of a limited, defined kind on behalf of the parent, and a project office exists only to execute a specific contract that a foreign company has been awarded in India, with a site office functioning as its sub-office at the project location. None of the three is a separate legal person. Each is the foreign company itself, operating in India through a permitted presence.",
+        "Because none of these offices has its own legal personality, there is no entity to strike off or liquidate when the activity ends. What has to happen instead is that the permission granted for the office is surrendered, the office's accounts are settled, and any balance in its Indian bank account is remitted abroad or otherwise accounted for. The closure is, in that sense, closer to cancelling a licence than to winding up a company, even though the paperwork involved is not noticeably lighter.",
+        "A wholly owned or majority owned Indian subsidiary is the opposite case. It is a company incorporated under the Companies Act, with its own board, its own PAN, and its own liability separate from the foreign parent's. Closing it means ending the company's existence as a legal person, through either a strike off by the Registrar or a liquidation, and only then addressing what, if anything, is left to send back to the shareholders.",
+        "The two structures are sometimes combined within a single group's India history, for example where a foreign company first tested the market through a liaison office and later incorporated a subsidiary to take on actual business, leaving the original liaison office dormant rather than formally closed. A dormant, never-formally-closed liaison office is its own liability years later, since its Annual Activity Certificate obligation does not lapse simply because the group's real activity has moved to the subsidiary, and closing it out properly, even if there was never anything in its account, is worth doing at the same time as any wider restructuring rather than leaving it to surface in a later compliance review."
+      ]
+    },
+    {
+      "heading": "Closing a liaison, branch or project office: the authorised dealer bank route",
+      "paragraphs": [
+        "A project office's closure follows this same route, with one practical difference: because a project office is tied to a specific contract, the AD bank will also typically want to see that the underlying project has actually been completed, handed over or terminated, and that any retention money, performance guarantee or warranty obligation under the contract has been dealt with, before treating the office's own closure as complete. Where a defect liability or warranty period runs on after physical completion of the project, some foreign contractors keep the project office open through that period rather than closing it immediately on handover, so that any warranty remittance or retention release can still pass through an existing, compliant office. Whether that is the right choice depends on the contract's own terms and on how much activity, if any, is expected during the warranty period.",
+        "Since February 2010, the work of processing the closure of branch and liaison offices has sat with the designated Authorised Dealer Category-I bank rather than with the Reserve Bank of India directly. The bank through which the office has been operating its Indian account is ordinarily the one that handles the closure, and it does so under the framework set out in the Foreign Exchange Management (Establishment in India of a Branch Office or a Liaison Office or a Project Office or Any Other Place of Business) Regulations, 2016, and the consolidated Master Direction that the Reserve Bank has issued under it.",
+        "The office applies to its AD bank for closure and permission to remit the closing balance. The bank does not simply accept the office's word that everything is in order. It expects, at minimum, a copy of the original Reserve Bank or AD bank permission that let the office open in the first place, a certificate from the office's auditor confirming the manner in which the remittable amount has been arrived at and that all liabilities in India, including arrears of gratuity, local taxes and other dues, have been either fully met or adequately provided for, and a No Objection Certificate or confirmation from the Registrar of Companies where the office was also registered under Section 380 of the Companies Act, 2013 as a foreign company place of business. The AD bank is also entitled to call for any further document it considers necessary, and in practice will do so if the file looks incomplete.",
+        "A separate but closely related check is whether the office has, in fact, filed what it was supposed to file every year it operated, principally the Annual Activity Certificate along with audited financial statements, submitted to the AD bank or the Reserve Bank as applicable. An office with gaps in its annual filings will usually be asked to regularise those filings, sometimes with a late fee or a compounding application, before the AD bank will process closure. This is one of the two most common causes of delay in practice, the other being disputes about whether a tax clearance has actually been obtained.",
+        "Once the AD bank is satisfied, it allows remittance of the winding up proceeds and separately reports the closure to the Reserve Bank, the Regional Office for a liaison office and the Central Office for a branch office, along with a declaration that it has scrutinised the documents and found them in order. The underlying file is retained by the AD bank for later inspection rather than sent wholesale to the Reserve Bank, which is why the quality of what the office hands its bank at closure matters as much as the quality of what it filed every year before that."
+      ]
+    },
+    {
+      "heading": "The tax clearance that has to come before the money moves",
+      "paragraphs": [
+        "No amount of foreign exchange compliance substitutes for a tax clearance, and an AD bank will not release a closing remittance without one. From 1 April 2026 this runs under the Income-tax Act, 2025, which replaced the 1961 Act and carries the tax clearance certificate requirement forward from the old Section 230 into a renumbered provision, applied for on Form 156 through the jurisdictional Assessing Officer or the e-filing portal. Income earned by the office before 1 April 2026 remains governed by the 1961 Act's provisions and assessment procedure even though the clearance itself is now sought under the new Act's form and process.",
+        "The clearance is not a rubber stamp. The Assessing Officer will look at whether the office has filed its income tax returns for every year it was active in India, whether tax deducted at source on salaries, professional fees and contractor payments has actually been deposited, and whether any pending assessment, reassessment or demand remains unresolved. A liaison office that genuinely earned no income in India, which is the position most liaison offices are in by definition, still has to show that it filed nil returns and complied with its withholding obligations on local expenses such as staff salaries and office rent.",
+        "Where there is a dispute with the tax department that has not been resolved, closure does not have to wait for the dispute to end in every case, but the AD bank will usually want either the clearance itself or a reasoned position from the office's tax advisers on why none is needed before it processes the final remittance. Building in the time for this step, rather than treating it as a last-minute formality, is what separates a closure that finishes in a predictable window from one that stalls for months over a certificate nobody applied for early enough."
+      ]
+    },
+    {
+      "heading": "Getting the money out: Form 15CA, 15CB and the last mile",
+      "paragraphs": [
+        "Even after the AD bank and the tax authorities have both signed off, the act of remitting the closing balance abroad is itself a regulated event under the foreign exchange rules on outward remittances. The remitting bank will ordinarily call for a certificate from a chartered accountant in Form 15CB, confirming that tax has been correctly accounted for on the remittance, and an undertaking from the remitter in Form 15CA, filed electronically, before it will process the transfer. These two forms exist independently of the tax clearance certificate discussed above and are not a substitute for it, although the information in one naturally overlaps with the other.",
+        "For a straightforward closure, where the tax clearance has already confirmed the position and the amount being remitted is simply what is left in the office's bank account after liabilities, this step is largely procedural. It becomes less straightforward where the office held foreign currency balances, had intercompany payables to the parent that need to be cleared first, or is remitting an amount that includes capital originally brought in rather than only accumulated surplus, since the characterisation of the remittance affects which Form 15CB certification applies.",
+        "The chartered accountant signing Form 15CB is personally certifying the tax position of the remittance, and a firm that has not itself prepared the office's returns through its life will usually want to review several years of filings before it is willing to sign, which is another reason this step is best planned for in advance rather than arranged at the last minute once a closing date has already been fixed with the AD bank."
+      ]
+    },
+    {
+      "heading": "Winding up a wholly owned Indian subsidiary: strike off under Section 248",
+      "paragraphs": [
+        "Where the Indian presence is a separate company rather than an office, the simplest exit, where it is available, is a strike off of the company's name from the Register of Companies under Section 248 of the Companies Act, 2013. Since 2023, voluntary strike off applications no longer go to the jurisdictional Registrar of Companies but to the Centre for Processing Accelerated Corporate Exit, a centralised office that the Ministry of Corporate Affairs set up by a notification dated 17 March 2023 under Section 396 of the Companies Act and which began functioning from 1 May 2023. The application is made in Form STK-2, accompanied by a government fee.",
+        "Strike off is built for a company that is genuinely dormant, with no significant assets and no outstanding liabilities, rather than one that still has business to wind down. The company's board has to pass a resolution, and the shareholders, which in a wholly owned subsidiary means the foreign parent alone, must approve the application, typically by special resolution or the equivalent high threshold of consent the Act requires. All liabilities, including statutory dues, have to be cleared beforehand, since the Centre for Processing Accelerated Corporate Exit is not set up to adjudicate disputed debts or distribute remaining assets. It simply removes the company's name once satisfied that there is nothing left to account for.",
+        "The special resolution itself is a straightforward step for a wholly owned subsidiary, since the foreign parent as sole shareholder is the only vote that matters, but the resolution and the board minutes approving it still have to be filed in the proper form and are among the documents the Centre for Processing Accelerated Corporate Exit checks before accepting the application. A defective resolution, for instance one passed by circulation where the company's articles require a meeting, or one that does not correctly record the foreign parent's authorised signatory, is a routine cause of an application being returned for correction rather than rejected outright, which still costs the parent weeks it did not need to lose.",
+        "A struck off company is not necessarily gone for good. Under Section 252 of the Companies Act, any aggrieved creditor, member, director or the Registrar itself can apply to the National Company Law Tribunal to have the company restored to the register, within the period the section allows, if it turns out the strike off was obtained on an incomplete picture or a liability was left unaddressed. This is the main reason foreign parents are advised not to treat a hurried strike off as the fast and risk free option it can look like on paper: a later claim that resurfaces the company is far more disruptive than the extra weeks it would have taken to close it properly in the first place."
+      ]
+    },
+    {
+      "heading": "Voluntary liquidation under Section 59 of the IBC: the route when there is something to distribute",
+      "paragraphs": [
+        "Strike off assumes the company has nothing left to give its shareholders. Where an Indian subsidiary is solvent but does hold assets, cash, receivables, perhaps a lease or other property, that the foreign parent wants realised and distributed in an orderly, legally final way, voluntary liquidation under Section 59 of the Insolvency and Bankruptcy Code, 2016 is the route that was built for exactly that situation. Section 59 is available only to a corporate person that has not committed any default and is capable of paying its debts in full from the proceeds of its assets, which the directors must confirm by a declaration of solvency supported by the company's financial records.",
+        "The process runs under the IBBI (Voluntary Liquidation Process) Regulations, 2017, with a liquidator appointed to take charge, verify and realise the company's assets, settle claims, and apply to the National Company Law Tribunal for an order of dissolution under Section 59(8), at which point the company formally ceases to exist. Unlike a strike off, this is a judicially supervised process from the declaration of solvency through to the final dissolution order, which gives both the foreign parent and any remaining Indian counterparties a cleaner, more defensible closure, at the cost of taking appreciably longer and costing more to run than a strike off.",
+        "Where the subsidiary's accounts and compliance history are genuinely clean and the amounts involved are modest, a strike off can still be the proportionate choice even where there are some residual assets, provided they are distributed and the books brought to nil before the application is filed. The dividing line in practice is less about which route the law prefers and more about whether the foreign parent wants a process with judicial sign off on the company's solvency and final closure, which only Section 59 provides."
+      ]
+    },
+    {
+      "heading": "Repatriating the proceeds of a subsidiary's closure",
+      "paragraphs": [
+        "Whichever route closes the subsidiary, getting its remaining value back to the foreign parent still runs through the same foreign exchange and tax checkpoints described earlier for offices. A liquidator distributing surplus assets to a non-resident shareholder, or a struck off company's last dividend or capital repayment before the application was filed, still needs the remittance to be supported by a Form 15CB certificate and a Form 15CA filing, and the underlying transaction still has to be reported to the authorised dealer bank in the ordinary way for an outward remittance to a non-resident shareholder. A tax clearance confirming the subsidiary's own filings and withholding compliance are in order is, in practice, asked for by banks before they will process a repatriation of any size, even though it is not always a strict precondition for the corporate law process itself.",
+        "A distribution in a voluntary liquidation is also, as a matter of Indian tax law, treated differently from an ordinary dividend, and the characterisation affects the rate and manner of withholding that applies before the money leaves the country. A liquidator unfamiliar with the non-resident angle of a distribution can misapply the withholding rules that would be routine for a purely domestic liquidation, which is one reason foreign parents are well advised to insist on a liquidator, or at least tax advisers to the liquidator, who have actually handled a cross-border distribution before.",
+        "Where the subsidiary originally brought in foreign investment under the automatic route and reported it correctly on the FIRMS portal at the time, the repatriation of capital on winding up is generally the less contentious half of the exercise. Difficulty arises more often where the original reporting was incomplete or late, since the bank processing the outward remittance will, in checking the file, also notice gaps on the way in and may ask for those to be regularised, through compounding if necessary, before it will let money move on the way out."
+      ]
+    },
+    {
+      "heading": "Employee-related liabilities: the step that is easy to underestimate",
+      "paragraphs": [
+        "An office or subsidiary with even a handful of employees on its payroll at the time of closure cannot treat staff settlement as an afterthought to the corporate or foreign exchange paperwork. Gratuity due under the Payment of Gratuity Act, 1972 to any employee who has completed the qualifying period of continuous service has to be computed and paid, provident fund accounts have to be settled or transferred, and full and final wage settlements, including any notice pay or accrued leave encashment due under the employment contract, have to be closed out and documented.",
+        "These are precisely the liabilities an auditor is certifying have been met or provided for when it issues the certificate an AD bank or a liquidator asks for, and an incomplete employee settlement is one of the more common reasons a closure certificate gets held back at the last stage rather than at the beginning. A foreign parent planning a closure date should treat the employee exit process, including any required notice period, as running on its own timeline that has to finish before the final certificates can be issued, not as something that can be compressed into the same week as the regulatory filing.",
+        "Where the office or subsidiary is covered by one of the four Labour Codes as they come into effect, or remains governed by the predecessor statutes they are replacing in a given state at a given time, the applicable notice period, retrenchment compensation if the closure amounts to a retrenchment under the relevant definition, and any requirement to notify or seek permission from the appropriate government before closing down an establishment of a certain size, all have to be checked against the current position in the state where the office or subsidiary is located, since the transition between the old industrial relations statutes and the new Codes is not uniform across every state as of this date."
+      ]
+    },
+    {
+      "heading": "Sectors and situations that slow an exit down",
+      "paragraphs": [
+        "Two categories of case regularly take longer than the ordinary timeline. The first is any office or subsidiary connected to a sector where the original entry itself required government approval, such as defence or anything touching a country sharing a land border with India, where the regulator reviewing the closure will often look again at whether the entity's activity throughout its life matched what it was permitted to do, and at whether it is now solvent and compliant, both of these questions rather than the second alone. The second is any entity with employees still on its payroll at the time of closure, where gratuity, provident fund settlement, and final statutory dues have to be fully discharged and evidenced before an auditor will certify that liabilities have been met, which in turn is a precondition the AD bank and the liquidator both insist on.",
+        "A less obvious source of delay is a history of late or missing Annual Activity Certificates or financial statements for an office, or missed annual returns for a subsidiary. Both the AD bank route and the company law route treat a clean compliance history as the fastest path through, and both are willing to require retrospective regularisation, sometimes with compounding of past contraventions under the foreign exchange law, before they will move the closure forward. An office or subsidiary that has kept its annual filings current throughout its life will generally close faster than an otherwise identical one that has not."
+      ]
+    },
+    {
+      "heading": "Errors that routinely stall an otherwise straightforward closure",
+      "paragraphs": [
+        "A recurring pattern across both the office route and the subsidiary route is a foreign parent that files the closure application before checking whether every annual filing for every year of the entity's life has actually gone in. An AD bank or the Centre for Processing Accelerated Corporate Exit will stop at the first missing Annual Activity Certificate or annual return it finds, and the gap then has to be filled retrospectively, sometimes years after the fact, before the file moves again. Checking the complete filing history before applying, rather than after a query comes back, is the single change that saves the most time in practice.",
+        "A second pattern is treating the tax clearance as something to request only once the AD bank or the liquidator asks for it, rather than applying for it in parallel with the main closure application from the start. Because the Assessing Officer's review covers the entity's entire filing and withholding history, and not merely the final year, it can surface issues, a disputed assessment, an unreconciled TDS mismatch, that take real time to resolve and that are far better discovered early than at the point the parent is expecting to receive its money.",
+        "A third, more specific pattern affects subsidiaries rather than offices: a parent choosing a strike off because it looks faster, without first confirming that every asset, including minor ones such as a security deposit with a landlord or a small refund due from a tax authority, has actually been recovered and distributed. The Centre for Processing Accelerated Corporate Exit is not equipped to chase a landlord for a deposit on the company's behalf, and an application filed while such a balance remains outstanding is liable to be rejected or, worse, to succeed on an incomplete picture that later exposes the parent to a Section 252 restoration application."
+      ]
+    },
+    {
+      "heading": "A practical sequence for an orderly exit",
+      "paragraphs": [
+        "Experience across both routes suggests a broadly similar order of work. The entity first settles its outstanding liabilities, including statutory dues, employee settlements and any genuine commercial debts, and brings its own books to a position its auditor can certify. It then regularises any outstanding annual compliance, whether Annual Activity Certificates for an office or annual returns for a subsidiary, since an unresolved compliance gap will be raised at every later stage regardless of which route is chosen. Only once that groundwork is done does it make sense to apply, in parallel, for the AD bank's closure approval or the corporate strike off or liquidation, and for the tax clearance that will be needed before the final remittance.",
+        "Running the tax clearance application and the AD bank or company law application in parallel, rather than waiting for one to finish before starting the other, is usually what makes the difference between a closure measured in months and one measured in years. The final step, the actual remittance supported by Forms 15CA and 15CB, is ordinarily the fastest part of the whole process once everything before it is in order, which is exactly why rushing to that stage without having done the earlier work properly so often backfires."
+      ]
+    },
+    {
+      "heading": "What a closed entity still has to keep after it is gone",
+      "paragraphs": [
+        "Closure does not end the paper trail. The Companies Act and the tax law both allow a reasonable period after an entity ceases to exist during which its records can still be called for, whether by the Registrar in connection with a Section 252 restoration application, by the tax authorities reopening an assessment within the time limit the law allows, or by the AD bank's own internal auditors or Reserve Bank inspecting officers reviewing the closure file retained under the Master Direction. A foreign parent is well advised to retain, outside India if the entity's own records cannot practically be kept in India after closure, a complete set of the final years' financial statements, the auditor's certificate given at closure, the tax clearance, and the Forms 15CA and 15CB filed for the final remittance.",
+        "This is particularly relevant where the entity's directors or the liaison office's authorised signatory were individuals resident in India who will, in the ordinary course, move on to other engagements once the closure is complete. Keeping the closure file accessible to the foreign parent directly, rather than relying on a departing local signatory's own records, avoids the awkward position of a restoration notice or a reopened assessment arriving years later with nobody readily able to locate the documents that would answer it."
+      ]
+    },
+    {
+      "heading": "Timelines, and what remains genuinely unsettled",
+      "paragraphs": [
+        "Reported timelines for both routes vary considerably depending on the source and on how clean the entity's compliance history is, and this article does not state a single figure for either an office closure or a subsidiary strike off or liquidation, because the sources available do not agree closely enough to be confident in one. What can be said is that a strike off with a genuinely clean file and no residual liabilities has, in recent years, moved markedly faster through the Centre for Processing Accelerated Corporate Exit than it did through the earlier Registrar led process, while a voluntary liquidation under Section 59, involving as it does a liquidator's work and a tribunal order, will ordinarily take longer than a strike off in a comparable case.",
+        "Foreign parents planning an exit should treat any timeline quoted to them, whether by an adviser or by this article, as an estimate built on the entity's own compliance history rather than a fixed statutory period, and should build the tax clearance and the annual filing regularisation into their planning from the outset rather than discovering the need for either only after the closure application has already been filed. The cost of getting advice on the closure early, before any application is filed, is almost always smaller than the cost of the delay that follows a closure application filed on an incomplete file, and that remains true regardless of which of the two routes, AD bank closure for an office or strike off or liquidation for a subsidiary, the parent needs to use."
+      ]
+    }
+  ],
+  "conclusion": [
+    "None of the routes described here is designed to be fast by default. Each is designed to make sure that whatever the foreign company owed in India, to its employees, its landlords, its tax authorities or its creditors, has actually been paid before any money is allowed to leave the country. A foreign parent that treats the exit with the same seriousness it gave the original entry, and that starts the tax clearance and compliance regularisation early rather than at the end, will generally find the process predictable even where it is not quick."
+  ],
+  "faqs": [
+    {
+      "q": "Can a foreign company close its liaison office without applying to the Reserve Bank of India directly?",
+      "a": "Yes. Since February 2010, the work of processing branch and liaison office closures has been delegated to the designated Authorised Dealer Category-I bank through which the office operates its Indian account. The AD bank reviews the closure documents, allows the remittance of any closing balance, and then reports the closure to the Reserve Bank with a declaration that it has checked the file, rather than the office applying to the Reserve Bank itself in the first instance."
+    },
+    {
+      "q": "What happens to money left in a liaison or branch office's Indian bank account when it closes?",
+      "a": "The office applies to its AD bank for permission to remit the balance, supported by an auditor's certificate on how the remittable amount was arrived at and confirmation that all Indian liabilities have been met or provided for. Before the actual transfer, the remitting bank will also need a chartered accountant's certificate in Form 15CB and an electronic undertaking in Form 15CA, and in most cases a tax clearance confirming the office's filings and withholding obligations are in order."
+    },
+    {
+      "q": "Can a wholly owned Indian subsidiary with no debts simply be struck off the register?",
+      "a": "Yes, provided it genuinely has no significant assets or outstanding liabilities left. The application is made in Form STK-2 to the Centre for Processing Accelerated Corporate Exit, the centralised office that has handled voluntary strike off applications since 2023, after the board and the foreign parent as sole shareholder have approved the application and all dues have been cleared."
+    },
+    {
+      "q": "What if the Indian subsidiary still has assets that need to be distributed to the foreign parent?",
+      "a": "Strike off assumes there is nothing left to distribute, so a subsidiary with assets to realise is generally better closed through voluntary liquidation under Section 59 of the Insolvency and Bankruptcy Code, 2016. A liquidator is appointed to realise and distribute the assets and the company is finally dissolved by an order of the National Company Law Tribunal, giving a more defensible closure where there is real value to deal with."
+    },
+    {
+      "q": "Is a tax clearance certificate always required before an office or subsidiary can remit money out of India on closure?",
+      "a": "The law's own precondition for closure itself does not always turn on a tax clearance certificate in every case, but in practice authorised dealer banks and liquidators routinely ask for one, or a documented reason why none is needed, before they will process the final remittance, because it confirms that income tax returns were filed and withholding tax was deposited throughout the entity's life in India."
+    },
+    {
+      "q": "Can a company that has been struck off be revived later?",
+      "a": "Yes. Under Section 252 of the Companies Act, 2013, an aggrieved creditor, member, director or the Registrar of Companies can apply to the National Company Law Tribunal to restore a struck off company to the register within the period the section allows, typically where it emerges that a liability was not accounted for or the strike off was obtained on an incomplete picture."
+    },
+    {
+      "q": "How long does it usually take to close a branch or liaison office in India?",
+      "a": "There is no single statutory timeline, and reported experience varies depending on how current the office's annual filings are and how quickly the tax clearance comes through. An office with a clean compliance history and no pending tax issues will generally close faster than one that has to regularise missed annual certificates or resolve an open assessment first."
+    },
+    {
+      "q": "Does a project office close in the same way as a branch or liaison office?",
+      "a": "Broadly yes, through the same Authorised Dealer Category-I bank route under the 2016 Regulations, though a project office's closure is usually tied to the completion of the underlying contract it was set up to execute, and the specific documentation the AD bank asks for can depend on the terms of that contract and any approvals that were conditional on it."
+    }
+  ],
+  "references": [
+    "Foreign Exchange Management Act, 1999",
+    "Foreign Exchange Management (Establishment in India of a Branch Office or a Liaison Office or a Project Office or Any Other Place of Business) Regulations, 2016 (FEMA 22(R)/2016-RB, dated 31 March 2016, as amended)",
+    "Reserve Bank of India Master Direction on Establishment of Branch Office (BO), Liaison Office (LO), Project Office (PO) or Any Other Place of Business in India by Foreign Entities",
+    "Reserve Bank of India circular A.P. (DIR Series) Circular No. 23, dated 4 February 2010, delegating closure processing to AD Category-I banks",
+    "Companies Act, 2013, Section 248 (power of Registrar to remove name of company from register)",
+    "Companies Act, 2013, Section 252 (appeal to Tribunal against strike off)",
+    "Companies Act, 2013, Section 380 (registration of foreign company's place of business in India)",
+    "Companies Act, 2013, Section 396 (constitution and functions of Regional Directors and offices of the Registrar)",
+    "Ministry of Corporate Affairs notification dated 17 March 2023 establishing the Centre for Processing Accelerated Corporate Exit (C-PACE)",
+    "Companies (Removal of Names of Companies from the Register of Companies) Rules, 2016, as amended",
+    "Insolvency and Bankruptcy Code, 2016, Section 59 (voluntary liquidation of corporate persons)",
+    "IBBI (Voluntary Liquidation Process) Regulations, 2017",
+    "Income-tax Act, 2025, provisions on tax clearance certificates (Form 156), as applicable from 1 April 2026",
+    "Income Tax Act, 1961, Section 230 (tax clearance certificate, as it applied before 1 April 2026)",
+    "Income-tax Rules, 1962/Income-tax Rules, 2026, Rules on Forms 15CA and 15CB for remittances to non-residents",
+    "Foreign Exchange Management (Current Account Transactions) Rules, 2000, as amended"
+  ],
+  "related_pages": [
+    "/articles/foreign-investment-india-entry-routes-fema-article.html",
+    "/articles/joint-ventures-acquisitions-contractual-protections-regulatory-article.html",
+    "/articles/shareholder-oppression-mismanagement-nclt-article.html",
+    "/blog/company-winding-up-voluntary-compulsory-guide.html"
+  ],
+  "sources": [
+    "https://website.rbi.org.in/web/rbi/-/notifications/master-direction-establishment-of-branch-office-bo-liaison-office-lo-project-office-po-or-any-other-place-of-business-in-india-by-foreign-entities-updated-as-on-may-18-2021-10404",
+    "https://website.rbi.org.in/web/rbi/-/notifications/foreign-exchange-management-establishment-in-india-of-a-branch-office-or-a-liaison-office-or-a-project-office-or-any-other-place-of-business-regulations-2016-amended-upto-january-21-2019-10327",
+    "https://www.vjmglobal.com/blog/process-of-closure-of-project-office-liaison-office-branch-office",
+    "https://blog.ipleaders.in/documents-submitted-ad-bank-time-closure-liaison-branch-office/",
+    "https://carajput.com/blog/how-to-close-a-branch-office-actives-in-india/",
+    "https://incometaxindia.gov.in/Documents/Provisions%20for%20NR/FEM-Establishment-in-India-of-a-Branch-Office-Regulations-2016.htm",
+    "https://www.incometaxindia.gov.in/w/section-420-6",
+    "https://www.incorpx.io/blog/tax-clearance-certificate-form-156-it-act-2025",
+    "https://www.deccanherald.com/business/centre-notifies-income-tax-act-2025-law-to-come-into-effect-from-april-1-2026-3693171",
+    "https://www.taxmann.com/post/blog/opinion-strike-off-cpace-center-for-processing-accelerated-corporate-exit-as-per-new-rules/",
+    "https://taxguru.in/company-law/mca-strikes-off-38658-companies-8368-llps-via-c-pace.html",
+    "https://taxguru.in/?p=867121",
+    "https://www.livelaw.in/amp/articles/dormant-companies-voluntary-liquidation-insolvency-bankruptcy-code-517339",
+    "https://bhattandjoshiassociates.com/voluntary-strike-off-vs-winding-up-choosing-the-right-company-exit/",
+    "https://treelife.in/legal/winding-up-a-company-in-india-strike-off-and-liquidation-explained/"
+  ],
+  "verification_notes": "AUDIENCE: foreign company. TARGET QUERY: how to close a branch office or liaison office in India / how to wind up an Indian subsidiary of a foreign company. DEMAND EVIDENCE: none seen (no search-volume or trending data was observed; the topic was chosen because the firm's own FDI entry article already fields the inverse question and the exit side is unanswered on the site). The AD bank closure route, the 2010 delegation circular, the FEMA 22(R)/2016 regulations and the Master Direction's closure documentation are confirmed from the RBI's own notification and Master Direction pages together with independent secondary summaries (ipleaders, vjmglobal, carajput) that agree on the core document list; the exact itemised closure paragraph of the Master Direction was not reproduced in full in any single source retrieved, so the document list here is stated as a minimum rather than exhaustive. The Income-tax Act, 2025 commencement on 1 April 2026 is confirmed from multiple independent news and official sources (Deccan Herald, income tax department URLs, Taxsutra-linked coverage). The tax clearance certificate's continuation under the new Act on Form 156 is confirmed from the official incometaxindia.gov.in section page together with a secondary explainer (IncorpX); the precise new section number is treated as provisionally confirmed on that basis. C-PACE's establishment by the 17 March 2023 notification under Section 396, its 1 May 2023 start, and the STK-2/₹10,000 fee are confirmed from Taxmann and Taxguru coverage citing the same MCA notification. The Section 248 strike off versus Section 59 IBC voluntary liquidation distinction, including the solvency precondition, nil-asset expectation for strike off, and Section 252 revival risk, is confirmed from multiple independent secondary legal commentary sources (LiveLaw, Bhatt & Joshi Associates, Treelife) that are consistent with each other on the core distinction, though they vary on timelines, so no single timeline figure is stated as settled. Form 15CA/15CB's role in outward remittances to non-residents reflects long-settled, generally known Indian tax procedure and was not separately re-verified by search in this run."
+}
