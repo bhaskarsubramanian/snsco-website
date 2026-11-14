@@ -4186,5 +4186,46 @@
       "https://lawstreet.co/judiciary/bonded-labourers-must-get-immediate-assistance-within-7-days-of-release-certificate-sc"
     ],
     "note": "Independently confirmed the bench (Vikram Nath and Aparesh Kumar Singh JJ), citation 2026 INSC 1185, decision date 2 November 2026, the 24-hour release-certificate and 7-day assistance timelines (both correctly qualified as 'ordinarily' in the draft, matching the judgment's own phrasing), the SOP dated 14 May 2026, the 4-month compliance affidavit, the 7-month relisting, and the Shahjahanpur/Bihar background facts. No duplicate found on the live site."
+  },
+  {
+    "file": "_drafts/daily/news/15-pfrda-nps-scheme-classification-naming-display-rules-amendment.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://taxguru.in/corporate-law/pfrda-amends-nps-scheme-naming-pop-display-rules-compliance-1-december-2026.html",
+      "https://www.angelone.in/news/mutual-funds/pfrda-revises-nps-scheme-naming-format-and-clarifies-display-rules-for-pop-platforms",
+      "https://www.outlookmoney.com/retirement/pension/pfrda-revises-nps-scheme-display-rules-new-framework-to-apply-from-december-1",
+      "https://www.business-standard.com/finance/personal-finance/pfrda-revises-nps-scheme-naming-rules-what-changes-for-subscribers-126110401054_1.html"
+    ],
+    "note": "Circular number, dates, 1 December 2026 compliance deadline and the August five-category framework are all confirmed. But the draft's claim that the November amendment 'does not change those five categories' and is limited to display mechanics is incomplete: independent sources confirm the amendment (clauses 3.1-3.3) also drops the A-to-E category code from an MSF scheme's own name, while still requiring the category to be shown in a smaller font next to or below the name. This naming change is confirmed across TaxGuru, Angel One and Business Standard, and is consistent with the draft's own title ('Scheme Naming and Display Rules'), which the body then contradicts.",
+    "fixes": [
+      {
+        "find": "The November amendment does not change those five categories. It instead fixes how a subscriber actually encounters them when choosing a scheme online.",
+        "replace": "The November amendment keeps those five categories unchanged, but it also drops the category code (A to E) from an MSF scheme's own name under amended clauses 3.1 to 3.3, so a scheme's title no longer has to carry a code, though the category must still appear next to or below the name in a smaller font. The amendment also fixes how a subscriber actually encounters the categories when choosing a scheme online.",
+        "reason": "The November amendment is not limited to display mechanics; it also revises the MSF scheme naming format, which the draft's own title acknowledges but the body denies."
+      },
+      {
+        "find": "PFRDA has taken this staged approach, category definitions first in August, then display mechanics in November,",
+        "replace": "PFRDA has taken this staged approach, category definitions first in August, then scheme naming and display mechanics in November,",
+        "reason": "Aligns this summary sentence with the corrected claim above."
+      },
+      {
+        "find": "to now dictating exactly how those categories must be displayed to the person actually choosing between them.",
+        "replace": "to now dictating the naming format MSF schemes must use and exactly how those categories must be displayed to the person actually choosing between them.",
+        "reason": "Completes the list of what the November amendment covers to include the naming change."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/news/16-delhi-hc-dhcba-winter-vehicle-ban-exemption.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.barandbench.com/news/delhi-high-court-exempts-lawyers-and-court-staff-in-ncr-from-ban-on-non-bs-vi-vehicles",
+      "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-exempts-ncr-based-court-staff-lawyers-from-winter-ban-on-non-bs-vi-vehicles-557670",
+      "https://lawchakra.in/high-court/delhi-high-court/non-bs-vi-vehicle-ban/",
+      "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-refuses-to-stay-ban-on-non-delhi-pre-bs-vi-vehicles-from-entering-capital-556928"
+    ],
+    "note": "Independently confirmed the order date (6 November 2026), judge (Amit Mahajan, J.), petitioner (DHCBA), the narrow court-day exemption conditioned on a valid Bar Association parking sticker and identification, the underlying notification (23 June 2026, 1 Nov 2026-31 Jan 2027 window), and the separate Division Bench (Sambre ACJ and Sharma J.) declining a stay and listing the broader challenge for 27 November 2026. The draft properly flagged and excluded an ambiguous report (whether the court criticised the government's pollution justification) that could not be clearly attributed to this order rather than the separate proceeding; that caution is correct and no fix is needed."
   }
 ]
