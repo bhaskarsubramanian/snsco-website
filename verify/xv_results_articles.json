@@ -1320,5 +1320,25 @@
     "reason": "Same error repeated in the What remains unsettled section."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/67-closing-branch-liaison-project-office-india-foreign-company-article.json",
+  "verdict": "FIX",
+  "claims_checked": 10,
+  "evidence": [
+   "https://website.rbi.org.in/web/rbi/-/notifications/establishment-of-branch-liaison-offices-in-india-by-foreign-entities-5442",
+   "https://bcajonline.org/journal/establishment-of-branch-office-bo-liaison-office-lo-in-india-by-foreign-entities-delegation-of-powers",
+   "https://taxguru.in/rbi/establishment-of-branch-bo-liaison-offices-lo-in-india-by-foreign-entities-delegation-of-powers.html",
+   "https://taxguru.in/company-law/mca-strikes-off-38658-companies-8368-llps-via-c-pace.html",
+   "https://blog.ipleaders.in/documents-submitted-ad-bank-time-closure-liaison-branch-office/"
+  ],
+  "note": "The references list cites the AD-bank delegation as 'A.P. (DIR Series) Circular No. 23, dated 4 February 2010'. The actual circular is A.P. (DIR Series) Circular No. 24, dated 30 December 2009 (RBI/2009-2010/279), which took effect from 1 February 2010; the body text's own date (February 2010) is correct, but the references entry misstates both the circular number and its issuance date. Fix applied below. Separately, the article attributes the AD bank's practical requirement of a pre-remittance tax clearance for office/subsidiary closures specifically to Form 156 under the new Section 420 of the Income-tax Act 2025 (replacing old Section 230). Form 156 is independently confirmed as the departure undertaking for a PAN holder individual leaving India, not obviously the instrument for an entity's winding-up remittance; the RBI documentation instead describes a more general 'no objection/tax clearance certificate from the Income Tax authority' obtained from the jurisdictional Assessing Officer, without tying it to a specific Section 230/420 form. This connection could not be confirmed or disproved with available sources in this run and should be treated as unverified rather than corrected outright; flagging for the author's attention rather than a forced fix. Everything else checked (C-PACE's 17 March 2023 establishment and 1 May 2023 start under Section 396, Form STK-2 and the Rs 10,000 fee, Section 248/252 strike-off and restoration, Section 59 IBC voluntary liquidation and the IBBI 2017 Regulations, FEMA 22(R)/2016, Section 380 and Form 15CA/15CB) is independently confirmed.",
+  "fixes": [
+   {
+    "find": "Reserve Bank of India circular A.P. (DIR Series) Circular No. 23, dated 4 February 2010, delegating closure processing to AD Category-I banks",
+    "replace": "Reserve Bank of India circular A.P. (DIR Series) Circular No. 24, dated 30 December 2009 (RBI/2009-2010/279), delegating closure processing to AD Category-I banks with effect from 1 February 2010",
+    "reason": "Wrong circular number and issuance date; the actual circular is No. 24 dated 30 December 2009, effective 1 February 2010, not No. 23 dated 4 February 2010."
+   }
+  ]
  }
 ]
