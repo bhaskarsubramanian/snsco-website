@@ -4127,5 +4127,40 @@
    "https://www.corplawupdates.in/updates/sebi-currency-derivatives-limits-usd-5-million-no-underlying-exposure-2026"
   ],
   "note": "RBI's own circular index confirms A.P. (DIR Series) Circular No. 25 dated 10 October 2026 cut the no-underlying-exposure threshold from USD 100 million to USD 5 million; multiple independent reporters confirm SEBI's linked circular HO/(561)2026-MRD-POD2/I/25177/2026 dated 5 November 2026 carrying this through via Clause 5.3.3 of its Master Circular. The domestic-client-vs-FPI distinction (domestic clients may exceed the threshold subject to separate RBI conditions, FPIs may not without underlying exposure) is independently confirmed. No duplicate found on the live site."
+ },
+ {
+  "file": "_drafts/daily/news/12-grandson-no-right-grandfathers-property-father-alive-supreme-court.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.verdictum.in/supreme-court/j-rajesh-minor-through-his-mother-and-natural-guardian-j-gomathi-v-m-kumaran-dead-through-lrs-2026-insc-1208-grandfathers-property-1625434",
+   "https://www.businesstoday.in/india/story/grandson-has-no-right-to-grandfathers-property-held-by-father-supreme-court-rules-566831-2026-11-11",
+   "https://drishtijudiciary.com/current-affairs/grandson-has-no-birthright-in-fathers-share-from-partition-of-grandfathers-property",
+   "https://lawbeat.in/supreme-court-judgments/hindu-succession-act-can-a-grandson-claim-coparcenary-rights-in-property-inherited-by-father-supreme-court-says-no-1650514"
+  ],
+  "note": "Case name J. Rajesh (Minor) v. M. Kumaran, citation 2026 INSC 1208, bench (Masih & Agarwal, JJ), the 1993/1994 partition and compromise decree, the 1997 sale, and the Section 8/Class I heir holding are corroborated across 8+ independent reporters in this run. A single AI search summary attributed the holding to a differently named case (Surinder Singh and Arshnoor Singh v. Harpal Kaur); the draft itself already found and correctly excluded this same conflicting name as uncorroborated, which this run's results support. No duplicate found on the live site."
+ },
+ {
+  "file": "_drafts/daily/updates/13-iff-sflc-x-corp-delhi-hc-impostor-takedown-notices.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://thewire.in/law/takedown-notices-to-iff-sflc-came-from-an-imposter-not-delhi-police-x-tells-delhi-high-court",
+   "https://www.livelaw.in/high-court/delhi-high-court/takedown-notices-sent-to-iff-sflc-were-fake-complaint-filed-against-impostor-x-corp-tells-delhi-high-court-557595",
+   "https://internetfreedom.in/takedown-reports-in-the-delhi-polices-name-were-fake-x-tells-the-delhi-high-court-our-petition-disposed-of-with-liberty-to-return/",
+   "https://www.moneylife.in/article/imposter-misused-delhi-police-name-to-get-iff-sflc-handles-blocked-x-to-delhi-high-court/82144.html"
+  ],
+  "note": "The blocking of IFF and SFLC's X accounts, X's statement that an impostor (not Delhi Police) sent the takedown notices, X's own police complaint, the disposal before Justice Amit Mahajan on 6 November 2026, and liberty to return are corroborated across at least 8 independent reporters including the petitioner's own account. No case/W.P. number was found by any source in this run either, consistent with the draft's own disclosure. No duplicate found on the live site."
+ },
+ {
+  "file": "_drafts/daily/updates/14-kotak-mahindra-maulin-patel-bombay-hc-credit-card-arbitration.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/bombay-high-court/kotak-mahindra-bank-limited-v-maulin-niranjan-patel-2026bhc-os23818-signature-on-credit-card-digital-record-1625199",
+   "https://www.livelawbiz.com/arbitration/high-court/bombay-high-court-unsigned-credit-card-application-does-not-bar-arbitration-cardholder-accepted-terms-through-card-use-557476",
+   "https://www.oquilia.com/news/bombay-high-court-credit-card-use-binds-arbitration-clause-kotak"
+  ],
+  "note": "Parties, Arbitration Application (L) No. 25878 of 2026, Justice Amit Borkar, the 4 November 2026 date, the Clause 2.1 acceptance-by-use holding and Clause 32.2 arbitration clause, the prima facie/Section 11 character of the order, and the reference of all four disputes to a sole arbitrator are corroborated across Verdictum, LiveLaw Biz and Oquilia. A different, unrelated Kotak Mahindra matter (Kotak Mahindra Bank Ltd. v. Trupti Sanjay Mehta, a Supreme Court SARFAESI/NBFC-assigned-debt ruling) already exists on the live site, but it is a different case on a different point of law, so this is not a duplicate."
  }
 ]
