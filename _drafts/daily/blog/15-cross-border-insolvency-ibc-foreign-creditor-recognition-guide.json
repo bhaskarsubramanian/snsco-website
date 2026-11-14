@@ -1,0 +1,85 @@
+{
+    "slug": "cross-border-insolvency-ibc-foreign-creditor-recognition-guide",
+    "title": "Cross-Border Insolvency Under the IBC: Is a Foreign Creditor or Foreign Order Recognised in India?",
+    "meta_description": "How cross-border insolvency works under the IBC: Sections 234, 235, the Jet Airways protocol, and the gap 2026's amendment has not closed, as on Nov 2026.",
+    "practice_area": "IBC & Insolvency",
+    "intro": [
+        "A foreign lender or a foreign insolvency office holder dealing with an Indian debtor's assets, or an Indian resolution professional who finds that the corporate debtor also has assets or proceedings abroad, runs into the same problem. The Insolvency and Bankruptcy Code, 2016 has two provisions meant to handle this, Sections 234 and 235, and in practice neither has done much work. There is no treaty in force under Section 234 and no letter of request has gone out under Section 235, so recognition across borders currently happens through one-off cooperation worked out between the parties and the tribunal, not through a settled procedure.",
+        "This note sets out where that leaves a foreign creditor or a foreign administrator dealing with an Indian insolvency as on November 2026, what the Jet Airways case actually decided, and what the 2026 amendment to the Code changes and does not yet change."
+    ],
+    "sections": [
+        {
+            "heading": "What Sections 234 and 235 were meant to do",
+            "paragraphs": [
+                "Section 234 allows the central government to enter into an agreement with a foreign country for enforcing the Code's provisions there, on a reciprocal basis. That is a government-to-government treaty mechanism, not something a creditor or a resolution professional can invoke on their own. Section 235 is the operative provision for a party in an actual case: it lets a resolution professional or liquidator apply to the National Company Law Tribunal for a letter of request to a court or authority in a foreign country, asking that court to take evidence or act in relation to assets of the corporate debtor located there.",
+                "The catch is that a letter of request under Section 235 can only go to a country with which the government has already signed an agreement under Section 234. Since no such agreement exists with any country, the Section 235 route has never actually been used. Several commentators now describe the pair as a dead letter in practice, whatever their formal commencement status, because the one precondition that makes Section 235 usable, a Section 234 treaty, has never been met."
+            ]
+        },
+        {
+            "heading": "The Jet Airways case: what happens without a working statute",
+            "paragraphs": [
+                "Jet Airways supplied the clearest illustration of the gap. The airline went into corporate insolvency resolution in India while a Dutch court, acting on a petition from creditors, had already passed a separate insolvency order against it in the Netherlands. Neither the IBC nor Dutch law had any mechanism for the Indian resolution professional and the Dutch administrator to coordinate, because India had no treaty under Section 234 and the Netherlands was outside any framework India recognised.",
+                "The National Company Law Appellate Tribunal stepped in and, in an order dated 12 July 2019 in the Dutch administrator's appeal, directed the Indian resolution professional and the Dutch trustee to work out a cooperation arrangement between themselves. The document that resulted is usually called the Jet Airways Cross-Border Insolvency Protocol. Most of its clauses were agreed without dispute; the sticking point was whether the Dutch trustee could attend meetings of the Committee of Creditors, and the eventual position allowed the trustee to attend as an observer rather than a voting participant. It was welcomed at the time as a first working example of cross-border cooperation under Indian insolvency law, built entirely out of an ad hoc order rather than any statutory procedure."
+            ]
+        },
+        {
+            "heading": "Why this matters for a foreign creditor's own position",
+            "paragraphs": [
+                "A foreign creditor does not need Sections 234 or 235 to file a claim in an Indian corporate insolvency resolution process. Claims are invited from all creditors, domestic and foreign, once a corporate debtor is admitted into the process, and a foreign creditor can submit proof of its debt to the resolution professional in the ordinary way. The gap in the law shows up somewhere else: in coordinating two parallel proceedings against the same debtor's group, or in getting an Indian tribunal's cooperation when the debtor's real assets sit abroad, or persuading a foreign court to recognise what the NCLT has done.",
+                "That last point is not entirely closed. Reports describe a Singapore court treating an Indian resolution professional as a foreign representative and the NCLT's order as a foreign court's order in connection with an Indian company's affairs, which suggests foreign courts operating under the UNCITRAL Model Law are willing to extend recognition to Indian proceedings even without a reciprocal Indian framework. That willingness runs one way for now. A foreign administrator seeking the reverse, recognition and assistance inside India, still has no statutory channel and depends on persuading the NCLT to order something along Jet Airways lines in that particular case."
+            ]
+        },
+        {
+            "heading": "The push toward the UNCITRAL Model Law",
+            "paragraphs": [
+                "The government has known about this gap for years. The Insolvency Law Committee recommended in its 2018 report that India adopt the UNCITRAL Model Law on Cross-Border Insolvency, 1997, and proposed a new Part Z of the Code built around it. A separate Cross-Border Insolvency Rules and Regulations Committee reported in 2020, and the Ministry of Corporate Affairs put out a version for public comment in 2021. None of that produced an operative framework, and for the next several years Sections 234 and 235 remained the only text in the statute.",
+                "The IBC amendment passed in 2026 moves this forward on paper. Commentary describes a new enabling clause, reported as Section 240C, that lets the central government frame rules for cross-border insolvency aligned with the Model Law, alongside a parallel enabling clause for group insolvency cases such as a common NCLT bench and a joint committee of creditors. An enabling clause is not a working procedure by itself. As this was written, the rules needed to actually operate a cross-border framework had not been notified, so a foreign creditor or administrator still cannot invoke a Model Law style recognition process in an Indian tribunal. The legal basis exists; the mechanism to use it does not yet."
+            ]
+        },
+        {
+            "heading": "What a foreign party should actually do today",
+            "paragraphs": [
+                "A foreign creditor with exposure to an Indian corporate debtor should treat the Indian CIRP like any other creditor would: track the insolvency commencement date and the public announcement calling for claims, file proof of debt within the time the resolution professional sets, and stay alert to the resolution plan voting process where the committee of creditors decides the debtor's fate. None of that needs a cross-border recognition order.",
+                "Where real coordination is needed, because the same group has a parallel proceeding abroad or assets located in another country, the only route available right now is to ask the NCLT for directions and let the tribunal fashion a protocol for that specific case, the way it did in Jet Airways. That is slower and less predictable than a statutory recognition procedure would be, and the outcome depends heavily on how cooperative the foreign office holder and the foreign court turn out to be. Anyone structuring new cross-border lending or investment into an Indian group with insolvency risk in mind should assume, for the time being, that recognition of a foreign proceeding inside India will have to be negotiated case by case rather than claimed as a right under the Code."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "q": "Does India automatically recognise a foreign insolvency proceeding against an Indian company's parent or affiliate?",
+            "a": "No. There is no automatic recognition mechanism in the IBC. Cooperation between an Indian resolution professional and a foreign office holder currently depends on a case-specific protocol approved by the NCLT, as happened in the Jet Airways matter, rather than any standing statutory procedure."
+        },
+        {
+            "q": "What are Sections 234 and 235 of the IBC actually for?",
+            "a": "Section 234 lets the government sign reciprocal agreements with foreign countries to enforce the Code there. Section 235 lets a resolution professional seek a letter of request to a foreign court, but only for a country already covered by a Section 234 agreement. No such agreement exists, so Section 235 has never been used in practice."
+        },
+        {
+            "q": "Can a foreign creditor file a claim in an Indian company's corporate insolvency resolution process?",
+            "a": "Yes. Foreign creditors can submit proof of their debt to the resolution professional once the corporate debtor is admitted into insolvency, the same way any other creditor does. This does not require any cross-border recognition mechanism."
+        },
+        {
+            "q": "Has India adopted the UNCITRAL Model Law on Cross-Border Insolvency?",
+            "a": "Not yet in an operative form. The Insolvency Law Committee recommended it in 2018 and the IBC amendment of 2026 added an enabling provision allowing rules to be framed along those lines, but the rules needed to actually run a Model Law style process had not been notified at the time of writing."
+        },
+        {
+            "q": "What did the Jet Airways case decide about cross-border insolvency?",
+            "a": "The NCLAT, facing parallel Indian and Dutch insolvency proceedings against the same airline with no statutory framework to coordinate them, directed the Indian resolution professional and the Dutch administrator to agree a cooperation protocol. It is treated as the first real example of cross-border cooperation under the Code, built case by case rather than under a settled law."
+        }
+    ],
+    "references": [
+        "Insolvency and Bankruptcy Code, 2016, Sections 234 and 235",
+        "Insolvency and Bankruptcy Code (Amendment) Act, 2026, enabling provision for cross-border and group insolvency rule-making",
+        "Jet Airways (India) Ltd, Company Appeal (AT) (Insolvency) No. 707 of 2019 (NCLAT, order of 12 July 2019, Cross-Border Insolvency Protocol)",
+        "Insolvency Law Committee Report, 2018, recommending adoption of the UNCITRAL Model Law on Cross-Border Insolvency, 1997 (draft Part Z)",
+        "Cross-Border Insolvency Rules/Regulations Committee Report, 2020"
+    ],
+    "sources": [
+        "https://www.legal500.com/developments/thought-leadership/recognition-of-cross-border-insolvency-in-india/",
+        "https://www.livelaw.in/articles/cross-border-insolvency-india-537437",
+        "https://cbcl.nliu.ac.in/insolvency-law/dealing-with-cross-border-insolvencies-an-analysis-of-the-jet-airways-saga/",
+        "https://www.barandbench.com/columns/turbulence-insolvency-process-jet-airways",
+        "https://www.khuranaandkhurana.com/ibc-amendment-act-2026-and-cross-border-insolvency-in-india",
+        "https://prsindia.org/policy/report-summaries/insolvency-law-committee-cross-border-insolvency"
+    ],
+    "verification_notes": "AUDIENCE: foreign company / foreign creditor or insolvency office holder dealing with an Indian corporate debtor. TARGET QUERY: does India recognise a foreign insolvency proceeding or allow a foreign creditor to act under the IBC. DEMAND EVIDENCE: none seen (no analytics opened this run; chosen because dedupe search found an existing article on foreign creditor claims inside a domestic CIRP, but nothing on recognition of a foreign proceeding or the Jet Airways protocol, confirmed against origin/main's search-index.json, origin/stage-final, and every drafted branch including research-articles). Sections 234/235 text and the Section 234-as-precondition-for-235 link: confirmed from ca2013.com's section text and the legal500.com/Maheshwari & Co. commentary, which both state the same mechanism and that no agreement exists under Section 234. That no bilateral treaty has been signed and no letter of request issued, so the provisions are commonly called inoperative in practice: confirmed from two independent commentaries (legal500.com and livelaw.in), both using that description; left out any firm statement on formal commencement/notification status because sources disagreed on that specific point. Jet Airways facts (parallel Dutch proceeding, NCLAT order of 12 July 2019, Company Appeal (AT) (Insolvency) No. 707 of 2019, the protocol, and the Committee of Creditors observer-attendance outcome for the Dutch trustee): confirmed from barandbench.com and cbcl.nliu.ac.in, which converge on the same sequence; the full NCLAT order was not opened, so no paragraph-level quote is used. The Singapore court's recognition of an Indian resolution professional as a foreign representative (Compuage-related reporting): mentioned from a single search summary only and stated here in general, hedged terms rather than as a sourced holding, because a second independent source was not opened for it. 2018 Insolvency Law Committee report and draft Part Z, the 2020 Rules/Regulations Committee report, and the 2021 public consultation: confirmed from prsindia.org and livelaw.in. The 2026 amendment's enabling clause for cross-border and group insolvency rule-making: confirmed in substance from two sources (khuranaandkhurana.com and a second summary citing the same Act), though the exact section number is reported, not independently verified from the Act's text, so it is flagged as 'reported' rather than stated as settled; left out any claim that operative rules have been notified, because no source confirmed that."
+}
