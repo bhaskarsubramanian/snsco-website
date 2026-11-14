@@ -3201,5 +3201,27 @@
    "https://theprint.in/economy/equalisation-levy-on-online-advertisements-to-be-abolished-from-april-1/2562910"
   ],
   "note": "Confirmed: 2% e-commerce levy withdrawn from 1 Aug 2024 (Finance (No.2) Act 2024); 6% online advertising levy withdrawn from 1 Apr 2025 (Finance Act 2025); Section 10(50) exemption sunset from AY 2026-27 per the Income Tax Department's own equalisation-levy page; Rule 11UD thresholds of Rs 2 crore and 3 lakh users effective 1 April 2022 (CBDT Notification 41/2021). On the one disputed point found in secondary commentary, whether Explanation 2A was inserted by the Finance Act 2018 or 2020, the draft's account (2018 insertion, with the effective date repeatedly deferred until thresholds were notified) matches the better-established narrative; a minority of secondary sources conflate the deferral amendment with the original insertion. No duplicate found on origin/main."
+ },
+ {
+  "file": "_drafts/daily/blog/12-foreign-parent-esop-indian-employee-fema-tax-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://itatonline.org/digest/verdicts/acit-v-rohit-krishna-itat-mumbai/",
+   "https://itat.gov.in/public/files/upload/1724833464-Rohit Krishna BMA No.pdf",
+   "https://studycafe.in/itat-deletes-section-43-penalty-for-non-disclosure-of-foreign-assets-in-schedule-fa-427554.html"
+  ],
+  "note": "ACIT v Rohit Krishna is a real ITAT Mumbai decision (BMA Nos. 36-40/Mum/2024, dated 27 Nov 2024) that deleted a Section 43 Black Money Act penalty on undisclosed foreign ESOP shares, treating it as discretionary rather than automatic, consistent with the draft's characterisation. OPI/ODI 10 percent threshold, Form OPI filing by the employer within 60 days of each half-year end, Section 17(2)(vi) perquisite treatment and the Black Money Act Section 43 penalty figure (up to Rs 10 lakh per year) are all standard, independently corroborated positions. No duplicate found on origin/main; the existing live ESOP guides cover domestic taxation and disputes, not this FEMA/OPI/Black Money Act angle for a foreign parent's ESOP."
+ },
+ {
+  "file": "_drafts/daily/blog/13-gst-reverse-charge-import-of-services-foreign-supplier-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.taxscan.in/top-stories/reverse-charge-liability-triggers-mandatory-gst-registration-even-below-threshold-section-24-explained-1445161",
+   "https://www.knowyourgst.com/gstlaw/the-central-goods-and-services-tax-act-2017/24-compulsory-registration-in-certain-cases-24/",
+   "https://taxguru.in/?p=620698"
+  ],
+  "note": "Section 24(iii) CGST Act mandatory registration for reverse-charge liability irrespective of the turnover threshold is confirmed independently. Section 2(11)/13 import-of-service test, Section 5(3)/7(4) reverse-charge mechanism, Notification 10/2017-IT(R), and the Schedule I paragraph 4 deemed-supply rule for related-party imports without consideration are all well-established GST positions consistent with the draft's own two-source citations. The draft appropriately flags the Section 23 registration-exemption question and a one-source-only Delhi HC reclassification point as unsettled rather than stating them as fact. No duplicate found on origin/main."
  }
 ]
