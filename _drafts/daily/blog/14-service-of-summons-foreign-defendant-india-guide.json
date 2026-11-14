@@ -1,0 +1,91 @@
+{
+  "slug": "service-of-summons-foreign-defendant-india-guide",
+  "title": "Serving an Indian Court Summons on a Defendant Abroad",
+  "meta_description": "How an Indian court serves summons on a defendant outside India, under CPC Order V and the Hague Service Convention, as on November 2026.",
+  "practice_area": "Commercial Litigation",
+  "intro": [
+    "When the person or company a civil suit is filed against lives outside India, the plaintiff cannot simply post the summons and move on. The Code of Civil Procedure, 1908 sets out the domestic machinery for this in Order V, Rules 25, 26 and 26A, and where the destination country is a member of the Hague Convention on the Service Abroad of Judicial and Extrajudicial Documents, 1965, that treaty adds a formal channel of its own. Getting this step wrong is one of the quieter ways a sound commercial claim loses years, or a decree obtained against an absent foreign defendant later gets set aside as improperly served.",
+    "This note looks at the routes a plaintiff actually has available as on November 2026, how a Kerala High Court ruling from late 2024 has settled a long-running argument about whether post and email service survive alongside the Hague Convention, and what a foreign company facing an Indian suit, or an Indian company trying to sue one, should expect from the process."
+  ],
+  "sections": [
+    {
+      "heading": "The three routes inside the Code itself",
+      "paragraphs": [
+        "Order V, Rule 25 of the CPC is the provision courts actually use. It applies where the defendant resides outside India and has no agent in India authorised to accept service on their behalf, and it permits service by post, by courier approved by the High Court, or by fax or electronic mail, or by any other means the High Court has approved. This rule does not depend on any treaty; it is a purely domestic mechanism, and it is the default route a plaintiff's advocate will reach for first.",
+        "Rule 26 provides a separate, treaty-style route through a political agent or a court in the foreign territory that the Central Government has specifically notified for this purpose, or through the Ministry dealing with external affairs if the Central Government so directs. In practice this route has little life in it, because no political agent and no such foreign court has in fact been notified under it. Rule 26A is a narrower, related mechanism allowing service through an officer of the foreign country who is recognised by the Central Government for the purpose, with the request routed through the Ministry. Between the three, Rule 25 carries almost all of the real-world traffic, with Rules 26 and 26A sitting mostly unused."
+      ]
+    },
+    {
+      "heading": "Where the Hague Service Convention comes in",
+      "paragraphs": [
+        "India acceded to the Hague Service Convention on 23 November 2006, and the Convention entered into force for India on 1 August 2007. The Convention's formal channel runs through a Central Authority in each member state, and for India that is the Ministry of Law and Justice, Department of Legal Affairs, in New Delhi. A request routed this way is sent to the Central Authority of the destination country, which arranges service according to its own domestic law and sends back a certificate confirming what was done.",
+        "A separate reservation complicates the picture at first glance. India has objected under Article 10 of the Convention to the alternative methods that Article permits, such as sending documents directly by post, through a foreign country's judicial officers, or through an agent of the party. The practical effect of that reservation is to block informal routes into India when a foreign plaintiff wants to serve someone here; it exists to protect India's own sovereignty over service within its territory, and does not, on its own words, say anything about how an Indian court should go about serving a defendant who lives in another member state."
+      ]
+    },
+    {
+      "heading": "The Kerala High Court's 2024 ruling on the overlap",
+      "paragraphs": [
+        "Whether Order V Rule 25 survives once a destination country is itself a Hague Convention member had divided courts for years, after a 2018 Division Bench ruling in Mollykutty v. Nicey Jacob had suggested that direct postal service on a defendant abroad was not permissible once the Convention applied. A three-judge Bench of the Kerala High Court took up the question on reference in Charuvila Philippose Sundaran Pillai v. P.N. Sivadasan, 2024:KER:84933, decided on 15 November 2024, and overruled Mollykutty.",
+        "The Bench held that the Hague Service Convention does not foreclose service under Order V, Rule 25 by post, courier or electronic mail, and that a court can use that route as long as the country where the defendant lives has not itself objected to such methods of service entering its territory. Where attempts under Rule 25 do not succeed within a reasonable time, the Bench said parties should fall back on the formal Convention channel through the Central Authority. It also held that service on a family member at the defendant's address, without a confirmed current address for the defendant personally, does not amount to valid service under Rule 25. This is a Kerala High Court ruling on reference, carrying real persuasive weight and widely reported, but it has not yet been tested by the Supreme Court or adopted uniformly across every High Court, so it should be read as the leading current position rather than a settled, pan-India rule."
+      ]
+    },
+    {
+      "heading": "Why the formal Convention route is the slower fallback",
+      "paragraphs": [
+        "Multiple commentators, including foreign courts dealing with the reverse situation of serving defendants located in India, have noted that requests routed through a Central Authority commonly take a long time to complete, because the request has to travel through two government departments in two countries, each operating on its own domestic timetable with no fixed deadline under the Convention itself. No reliable, independently confirmed figure for the typical delay in either direction could be established for this note, and any specific number quoted for how long it takes should be treated with caution unless it comes from the Central Authority's own current practice.",
+        "This is precisely why the Kerala High Court's reasoning in Charuvila Philippose matters to a commercial plaintiff with a limitation clock running or an interim application pending. Attempting service by post or email under Rule 25 at the same time as, rather than only after, a request is lodged with the Central Authority is now a defensible and commonly used strategy, provided the destination state raises no objection to those informal methods."
+      ]
+    },
+    {
+      "heading": "What happens if service turns out to be defective",
+      "paragraphs": [
+        "A decree passed after the court has proceeded ex parte against a defendant who was never properly served carries a standing weakness. The defendant, once they learn of it, can apply to have that decree set aside on the ground that service was never validly effected, and an execution based on it can be resisted on the same ground. This is not a technicality a plaintiff can afford to treat lightly in a cross-border matter, because a decree that collapses years later on a service defect usually means starting the substantive fight over again.",
+        "Keeping proof of every attempt, tracking numbers, delivery confirmations, read receipts for email service, and any correspondence from the destination country's postal or consular authority, matters more in a foreign-defendant case than in an ordinary domestic one, precisely because the defendant has a wider set of grounds to argue that an attempt never actually reached them."
+      ]
+    },
+    {
+      "heading": "Drafting around the problem before a dispute even arises",
+      "paragraphs": [
+        "A commercial contract with a foreign counterparty, a loan agreement, a joint venture document, or a distribution arrangement, can remove most of this uncertainty at the drafting stage by naming an agent for service of process in India and recording the counterparty's consent to specific modes of notice. Order V, Rule 25 only comes into play at all where the defendant has no such authorised agent in India, so a properly drafted service clause takes the entire Hague Convention question off the table if a dispute later lands in an Indian court.",
+        "This is standard practice in cross-border finance and joint venture documentation for exactly this reason, and parties should build it into any agreement where enforcement in India is a realistic possibility, rather than treating it as boilerplate to be accepted without thought. A clause of this kind usually names a specific individual or firm as agent, records an address for that agent in India, and states that notice delivered there is deemed good service on the foreign party, which gives a court a clean domestic address to work from instead of having to decide whether a foreign jurisdiction has objected to postal or electronic service at all. Lenders and franchisors who deal with the same categories of Indian counterparty repeatedly tend to use a standard form of this clause across their contracts for that reason, and it costs very little to negotiate compared with the delay it avoids later."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an Indian court serve summons on a foreign company by email?",
+      "a": "Often yes, under Order V Rule 25, if the company has no authorised agent in India and the country where it is based has not objected to email service entering its territory. The Kerala High Court's 2024 ruling in Charuvila Philippose supports this, though it is a High Court ruling, not yet a Supreme Court one."
+    },
+    {
+      "q": "How long does service through the Hague Convention's Central Authority take?",
+      "a": "There is no fixed timeline under the Convention, and commentary from several jurisdictions reports significant delay because the request passes through government departments in two countries. No specific, verified duration can be given, so plan for a long wait rather than a short one."
+    },
+    {
+      "q": "What happens if a case proceeds and the defendant later says they were never served?",
+      "a": "An ex parte decree obtained without valid service can be challenged and set aside on that ground once the defendant learns of it, and any execution based on it can be resisted. This risk is why proof of every service attempt should be preserved carefully."
+    },
+    {
+      "q": "Does a foreign company need to appoint an agent in India under every contract?",
+      "a": "It is not legally compulsory, but naming an agent for service in India, and agreeing to specific modes of notice, in the contract removes the entire Order V and Hague Convention question if a dispute reaches an Indian court. This is common in cross-border finance and joint venture agreements."
+    },
+    {
+      "q": "Does India's reservation under Article 10 of the Hague Convention stop an Indian plaintiff from serving a defendant abroad by post?",
+      "a": "No. That reservation mainly limits informal methods being used to serve someone located in India. Whether an Indian plaintiff can use post or email to serve a defendant in another member state depends on whether that other state has objected to those methods, not on India's own reservation."
+    }
+  ],
+  "references": [
+    "Code of Civil Procedure, 1908, Order V, Rules 25, 26 and 26A",
+    "Hague Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, 1965 (India's accession 23 November 2006, in force 1 August 2007), Article 10",
+    "Charuvila Philippose Sundaran Pillai v. P.N. Sivadasan, 2024:KER:84933 (Kerala High Court, 15 November 2024)",
+    "Mollykutty v. Nicey Jacob, 2018 (Kerala High Court Division Bench, overruled by Charuvila Philippose)"
+  ],
+  "sources": [
+    "https://conflictoflaws.net/2025/charuvila-philippose-v-p-v-sivadasan-harmonizing-indias-civil-procedure-code-and-the-hague-service-convention/",
+    "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-guidelines-service-summons-in-suits-for-defendants-outside-india-275411",
+    "https://www.mondaq.com/india/trials-appeals-compensation/1682280/postal-service-is-now-hague-convention-compliant-charuvila-philippose-sundaran-pillai-v-p-n-sivadasan",
+    "https://www.scconline.com/blog/post/2025/09/20/india-hague-service-convention-challenges/",
+    "https://www.verdictum.in/court-updates/high-courts/kerala-charuvilla-philippose-sundaran-pillai-v-pn-sivadasan-2024-ker-84933-summons-service-defendants-1558147",
+    "https://aaptaxlaw.com/code-of-civil-procedure/order-V-code-of-civil-procedure-rule-26-26a-27-28-29-30-issue-and-service-of-summons-rule-26-26a-27-28-29-30-order-V-of-cpc-1908-code-of-civil-procedure.html"
+  ],
+  "verification_notes": "AUDIENCE: foreign company / foreign national being sued, or seeking to sue, in an Indian commercial court. TARGET QUERY: how is a court summons served on a defendant who lives outside India. DEMAND EVIDENCE: none seen (no analytics or trending-question evidence was opened this run; chosen as a recurring practical question for cross-border litigants after a dedupe search across origin/main's blog/ listing and search-index.json, origin/stage-final, and all drafted branches found no existing guide specifically on serving process abroad, as distinct from the separate guides already live on enforcing a foreign money decree or a foreign arbitral award). Order V Rules 25, 26 and 26A scope: confirmed from aaptaxlaw.com and the conflictoflaws.net commentary, which describe the same three mechanisms and agree Rules 26/26A are rarely used in practice. India's accession date (23 November 2006) and entry into force (1 August 2007), and the Ministry of Law and Justice as Central Authority: confirmed from two independent sources among livelaw.in, scconline.com and conflictoflaws.net, which state the same dates and authority. India's Article 10 reservation: confirmed from scconline.com and a second, independent law-firm source, both describing the same objection to alternative service methods. The holding in Charuvila Philippose Sundaran Pillai v. P.N. Sivadasan (2024:KER:84933), including the date, the overruling of Mollykutty v. Nicey Jacob, and the fallback-to-Convention guidance, is confirmed from at least three independent reporters (livelaw.in, mondaq.com and verdictum.in) that converge on the same holding; the full judgment text itself was not opened, so pinpoint paragraph citations are avoided. Left out: any specific number of months or weeks for Central Authority delay, because no two independently confirmed figures could be found; the note states only that delay is commonly reported, without a number. Left out: a US court's use of Facebook/email service on an Indian defendant (the PCCare matter), because it concerns the reverse direction and a foreign court's own rules, not an Indian court serving a defendant abroad, and was not independently verified here."
+}

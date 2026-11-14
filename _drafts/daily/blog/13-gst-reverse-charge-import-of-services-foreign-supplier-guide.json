@@ -1,0 +1,92 @@
+{
+  "slug": "gst-reverse-charge-import-of-services-foreign-supplier-guide",
+  "title": "GST on Import of Services: When Reverse Charge Applies",
+  "meta_description": "When GST reverse charge applies on payments to a foreign supplier for services, who must register and pay, under the IGST Act, as on November 2026.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "If an Indian company pays a consultant abroad, a software vendor overseas, or its own foreign parent for management or technical support, GST is usually payable in India on that payment, and it is the Indian recipient who pays it, not the foreign supplier. The mechanism is reverse charge under Section 5(3) of the Integrated Goods and Services Tax Act, 2017, and it catches a great deal of ordinary cross-border spending that businesses do not think of as an import at all.",
+    "This note sets out, as on November 2026, when a payment to someone outside India counts as an import of service, who has to register and pay the tax, where free intra-group services get caught as well, and what a GST officer typically asks for when this area comes up in scrutiny. It does not deal with digital services sold directly to Indian consumers by a foreign platform, which sit under a separate registration regime for the foreign supplier."
+  ],
+  "sections": [
+    {
+      "heading": "What counts as an import of service",
+      "paragraphs": [
+        "Section 2(11) of the IGST Act treats a transaction as an import of service when the supplier is located outside India, the recipient is located in India, and the place of supply of that service is also in India. The first two conditions are usually easy to check from the invoice and the payment trail. The third condition, place of supply, is the one that decides the outcome and is fixed under Section 13 of the IGST Act, which applies whenever either the supplier or the recipient is outside India.",
+        "That provision lists specific situations first. Where a service requires the supplier to physically inspect or work on goods made available by the recipient, the place of supply is where that work is actually done. For services tied to immovable property, it is where the property sits. For admission to or organisation of an event, it is where the event happens. Outside these listed categories, which cover most professional, advisory, management, licensing and software services bought by an Indian company, the default rule applies: the place of supply is the location of the recipient. Since the recipient is in India, the place of supply lands in India, and the transaction becomes an import of service even though the person actually performing the work never set foot here."
+      ]
+    },
+    {
+      "heading": "Why the recipient pays and not the foreign vendor",
+      "paragraphs": [
+        "Once a transaction is classified as an import of service, Section 7(4) of the IGST Act treats it as an inter-state supply, which brings it within the IGST framework rather than CGST and SGST. A foreign supplier with no establishment in India generally cannot register and collect GST here, so the law shifts the liability to the recipient instead. Section 5(3) empowers the government to notify categories of supply where the recipient, not the supplier, pays tax, and the relevant notification for imported services is Notification No. 10/2017-Integrated Tax (Rate), which places this liability on the Indian recipient for services received from a person located outside India.",
+        "In practice this means the Indian company does not wait for a tax invoice with a GST line from the vendor abroad, because there will not be one. It self-assesses the IGST on the value paid or payable, reports it in the reverse charge table of Form GSTR-3B, and pays it in cash for that tax period. A separate framework applies to online information and database access services sold to Indian recipients who are not business entities, where the foreign supplier itself is expected to register, and that regime is outside the scope of this note."
+      ]
+    },
+    {
+      "heading": "Registration: why a small turnover does not help",
+      "paragraphs": [
+        "Ordinary GST registration is triggered by turnover crossing a threshold under Section 22 of the CGST Act. Reverse charge liability does not work that way. Section 24(iii) of the CGST Act requires compulsory registration for any person liable to pay tax under reverse charge, and this obligation applies regardless of turnover. A small consultancy that imports a single service worth a modest sum from an overseas vendor can find itself required to register for GST on that transaction alone, even if its own output supplies would never have crossed the threshold.",
+        "There is a genuine, unresolved question in professional commentary about whether a 2023 amendment to Section 23 of the CGST Act, which gave that section an overriding effect, now exempts a person from registration where the only taxable activity is otherwise wholly exempt. Views differ and no settled position has emerged in the material available, so this note does not take a side; a business relying on any such exemption should treat it as a disputed reading rather than a safe harbour."
+      ]
+    },
+    {
+      "heading": "Free services from a foreign parent or group company",
+      "paragraphs": [
+        "GST is ordinarily a tax on supplies made for consideration, so a service received for free would seem to fall outside it. Paragraph 4 of Schedule I to the CGST Act removes that escape for one specific case: the import of a service by a person in India from a related person, or from any other establishment of the same legal entity outside India, is treated as a supply even without consideration, provided the import is in the course or furtherance of business. A foreign head office running centralised IT infrastructure, brand support, or treasury functions for its Indian subsidiary at no separate charge can still trigger GST under this deeming provision.",
+        "Where this applies, the Indian subsidiary has to work out an open market value for the deemed supply under the GST valuation rules and pay reverse charge tax on that value, which is rarely straightforward when no invoice exists to anchor the figure. A separate and genuinely contested argument, that a related-party import without consideration falls outside Notification No. 10/2017 if the place of supply analysis is read narrowly, has been raised in professional discussion but has not been settled by any ruling this note could verify, so businesses should not assume it protects them."
+      ]
+    },
+    {
+      "heading": "Where this interacts with income tax withholding",
+      "paragraphs": [
+        "GST on import of services and income tax withholding under Section 195 of the Income Tax Act operate on the same cross-border payment but are entirely separate obligations, and paying one does nothing to discharge the other. A company that correctly deducts tax at source on a royalty or fee paid to a foreign group entity can still have missed its reverse charge GST liability on the identical payment, and the two are checked by different wings of the tax administration using different filings.",
+        "Form 15CA and 15CB, filed with the authorised dealer bank before a foreign remittance leaves India, create a documentary trail that GST officers routinely use to identify payments that should have attracted reverse charge tax but did not show up in GSTR-3B. A mismatch between the remittance data a bank reports and the RCM figures a taxpayer has disclosed is one of the more common triggers for a notice in this area, independent of whether the underlying payment was for a genuine business service."
+      ]
+    },
+    {
+      "heading": "Common mistakes that invite scrutiny",
+      "paragraphs": [
+        "The most frequent error is simply not recognising the payment as an import of service because the foreign invoice has no GST on it, which creates a false sense that there is nothing to report. A second is reconciling only large consulting or licence fees while missing smaller recurring charges, such as a shared software subscription billed centrally by a foreign parent and recharged to Indian group entities, which is still an import of service even when bundled into a single intercompany invoice.",
+        "A third is claiming input tax credit on the reverse charge amount before it has actually been paid in cash for that tax period, since credit on RCM tax can only be taken once the tax itself has been discharged, not merely accrued. A fourth, and one that surfaces often in group structures, is overlooking the Schedule I deemed supply rule entirely because no money changed hands, on the assumption that GST only follows consideration."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does GST apply if the foreign supplier never issues a GST invoice?",
+      "a": "Yes. A foreign supplier with no establishment in India will not and generally cannot raise a GST invoice. The Indian recipient still has to self-assess the tax under reverse charge and report it in GSTR-3B, regardless of what the foreign invoice shows."
+    },
+    {
+      "q": "Is there a minimum value below which an imported service escapes GST?",
+      "a": "No general threshold applies to reverse charge liability. Section 24(iii) of the CGST Act requires registration for anyone liable under reverse charge irrespective of turnover, so even a single, modest payment abroad can create a registration and payment obligation that a small business would not otherwise have had."
+    },
+    {
+      "q": "Can the GST paid under reverse charge be claimed back as input tax credit?",
+      "a": "Generally yes, once the tax has actually been paid in cash for that period and the usual input tax credit conditions, such as use in the business and matching disclosure, are satisfied. Credit cannot be claimed merely on the basis that the liability has accrued."
+    },
+    {
+      "q": "Does GST apply to a service a foreign parent provides to its Indian subsidiary for free?",
+      "a": "It can. Paragraph 4 of Schedule I to the CGST Act deems an import of service from a related party to be a taxable supply even without consideration, if it is for business purposes, and the subsidiary then has to value that deemed supply and pay reverse charge tax on it."
+    },
+    {
+      "q": "Is GST under reverse charge in addition to income tax TDS on the same foreign payment?",
+      "a": "Yes. GST reverse charge under the IGST Act and income tax withholding under Section 195 are independent obligations arising on the same cross-border payment. Complying with one, such as deducting TDS correctly and filing Form 15CA, does nothing to satisfy the other, and both need separate attention."
+    }
+  ],
+  "references": [
+    "Integrated Goods and Services Tax Act, 2017, Sections 2(11), 5(3), 7(4) and 13",
+    "Central Goods and Services Tax Act, 2017, Section 24(iii) and Schedule I, paragraph 4",
+    "Notification No. 10/2017-Integrated Tax (Rate), dated 28 June 2017",
+    "Central Goods and Services Tax Act, 2017, Section 23 as amended by the Finance Act, 2023 (position on registration exemption remains disputed)",
+    "Income Tax Act, 1961, Section 195, and Rule 37BB (Forms 15CA and 15CB)"
+  ],
+  "sources": [
+    "https://taxguru.in/?p=620698",
+    "https://www.mastersindia.co/blog/place-of-supply-of-imports-under-gst/",
+    "https://www.teachoo.com/amp/12053/3358/Section-53-of-IGST-RCM-on-Import-of-Service/category/Chapter-7-GST-Reverse-Charge",
+    "https://www.taxscan.in/top-stories/reverse-charge-liability-triggers-mandatory-gst-registration-even-below-threshold-section-24-explained-1445161",
+    "https://tallysolutions.com/gst/gst-supply-without-consideration-services-import/",
+    "https://taxguru.in/goods-and-service-tax/rcm-import-service-intellectual-property.html"
+  ],
+  "verification_notes": "AUDIENCE: foreign company / Indian subsidiary of a foreign parent. TARGET QUERY: does GST reverse charge apply on payments to a foreign parent or vendor for services. DEMAND EVIDENCE: none seen (no analytics or trending-question evidence was opened this run; the topic was chosen as a routine, high-frequency compliance question for Indian subsidiaries of foreign groups, and a dedupe search across origin/main (assets/search-index.json and the blog/ listing), origin/stage-final, and every drafted-but-unpublished branch found no existing guide on GST reverse charge for import of services, as distinct from the separate OIDAR regime already drafted). Section 2(11) import-of-service test: confirmed from taxguru.in and teachoo.com, both describing the same three conditions. Section 13 default place-of-supply rule (location of recipient): confirmed from mastersindia.co and taxguru.in. Section 5(3)/7(4) mechanism and Notification No. 10/2017-IT(R) fixing liability on the recipient: confirmed from teachoo.com and taxguru.in. Section 24(iii) no-threshold compulsory registration for reverse charge: confirmed from taxscan.in and a second independent commentary making the identical point. Schedule I paragraph 4 deemed supply for related-party imports without consideration: confirmed from tallysolutions.com and taxguru.in. Left out: a reported March 2025 Delhi High Court ruling on reclassifying import of service as import of goods, because only one source (a law firm note) carried it and no second independent source could be found to cross-verify it within this run. Left out: any specific figure for how often such imports are audited, and any claim about the outcome of the unresolved Section 23 registration-exemption debate, because sources disagree and neither could be confirmed from two independent sources; both are stated as unsettled instead of resolved one way."
+}
