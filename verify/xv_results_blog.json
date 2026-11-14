@@ -3259,5 +3259,17 @@
       "https://spicyip.com/2008/10/breaking-news-india-unveils-national.html"
     ],
     "note": "Independently confirmed India has no dedicated trade secrets statute and relies on contract, breach of confidence and adjacent IT Act provisions; confirmed Diljeet Titus v. Alfred A. Adebare (decided 8 May 2006, Sanjay Kishan Kaul J., citations 2006(32)PTC609(DEL) and 130(2006)DLT330 match the draft) and its retained-skill-versus-copied-material holding; confirmed Burlington Home Shopping v. Rajnish Chibber (Delhi HC, 20 October 1995, customer database as copyrightable compilation); confirmed Section 27 Contract Act voiding post-employment non-competes while confidentiality clauses generally survive; confirmed the draft National Innovation Act, 2008 (modelled on the America COMPETES Act) was floated and never enacted, matching the draft's 'went nowhere' characterisation. Minor unresolved point: one source cites the Burlington case as '61 DLT 6 (1995)' rather than the draft's '61 (1996) DLT 6'; this is a citation-year nuance common to DLT volumes spanning year-end and not a substantive factual error, so no fix is proposed."
+  },
+  {
+    "file": "_drafts/daily/blog/17-fssai-import-licence-labelling-foreign-food-business-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.fas.usda.gov/data/india-india-fssai-updates-rectifiable-labeling-information-imported-food-products",
+      "https://foodsafetyworks.com/fssai_updates/fssai-rectifiable-labelling-information-for-imported-food-consignments",
+      "https://ficsuat.fssai.gov.in/pdf/FAQs_Import.pdf",
+      "https://www.simpliance.in/India/EHS/govt_notification/Central/notification-of-authorised-officer-under-section-25-read-with-section-47-5-of-fss-act-2006-and-regulation-13-1-of-fss-imports-regulations-2017-dated-24062022"
+    ],
+    "note": "Independently confirmed the 28 November 2023 FSSAI order (F. No. TIC-B02/3/2023-IMPORTS-FSSAI) permits bonded-warehouse rectification of most labelling defects while excluding exactly the three items the draft names: country of origin, lot/batch number, and date marking; confirmed Section 25/Section 47(5)/Regulation 13(1) as the basis for Authorised Officer notifications at each port, and that some ports use customs officers in that role instead of a dedicated FSSAI appointee; confirmed the Central licence is mandatory for food importers regardless of turnover, alongside a DGFT Importer Exporter Code; confirmed the FICS registration and NOC/PNOC workflow. All checkable claims hold up against official FSSAI/FAS sources."
   }
 ]
