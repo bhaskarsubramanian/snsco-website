@@ -1,0 +1,101 @@
+{
+  "slug": "resident-director-foreign-owned-indian-company-guide",
+  "title": "Resident Director Rules for a Wholly Foreign-Owned Indian Subsidiary",
+  "meta_description": "A wholly foreign-owned Indian subsidiary still needs one director who has stayed in India at least 182 days in the financial year, under Section 149(3).",
+  "practice_area": "Corporate Law & M&A",
+  "intro": [
+    "A foreign company that incorporates a wholly-owned subsidiary in India cannot run that subsidiary entirely from abroad. Section 149(3) of the Companies Act 2013 requires every company registered in India, private or public, listed or unlisted, to have at least one director who has stayed in India for a total period of not less than 182 days during the financial year. This applies whether every share is held by the overseas parent and every board decision is really made in another time zone.",
+    "The test is about physical presence in India, not citizenship or where the money comes from. A foreign national can satisfy it just as an Indian national can, provided the days add up. This guide sets out what the rule actually demands, who can fill the role, and what a group should do before incorporation rather than after an inspector asks for the register of directors. As on 14 November 2026."
+  ],
+  "sections": [
+    {
+      "heading": "What the resident director rule actually requires",
+      "paragraphs": [
+        "Section 149(3) does not ask for a resident director with special powers or a reserved seat on the board. It asks that, among the company's directors, at least one person has been physically present in India for 182 days or more in the relevant period. Those days need not run together. A director who is in India for stretches of a few weeks at a time across the year can still cross the threshold, as long as the total adds up when the days are counted.",
+        "Where the test is currently pegged matters for the count. The 2013 Act as originally enacted referred to the previous calendar year, a point the Ministry of Corporate Affairs confirmed in General Circular No. 25 of 2014. The Companies (Amendment) Act 2017 changed the reference period to the current financial year, which for Indian companies runs from 1 April to 31 March. A company working out whether its director has cleared the bar should use the financial year test now in force, and keep a simple travel log rather than relying on memory at the time of the annual return."
+      ]
+    },
+    {
+      "heading": "Why foreign ownership does not exempt the company",
+      "paragraphs": [
+        "A wholly foreign-owned subsidiary is, in law, an Indian company. Incorporation under the Companies Act makes it subject to the Act in full, and nothing in Section 149 carves out an exception for a company whose entire shareholding sits with a parent abroad. Advisers who set up such subsidiaries report this as one of the more common points a first-time foreign promoter misses, because the instinct is to assume that full ownership means full control over how the Indian entity is governed.",
+        "The same reasoning applies to a joint venture company where the Indian partner holds a minority stake, and to a company that converts from an Indian promoter structure to one with entirely foreign shareholders through a share transfer. The obligation travels with the company, not with its ownership pattern. A board that is reshuffled after a share purchase agreement closes needs to check, on day one of the new structure, whether a director who meets the residency test is still in place."
+      ]
+    },
+    {
+      "heading": "Who can serve as the resident director",
+      "paragraphs": [
+        "The company is free to choose who satisfies the requirement. Three patterns are common. The subsidiary can appoint an executive who is based in India to run the operating business and also sit on the board. It can appoint an independent Indian director purely to meet the compliance requirement, alongside directors nominated by the foreign parent who attend board meetings from abroad. Or it can engage a professional resident director through a corporate secretarial or compliance firm, a service that has grown as more foreign subsidiaries have been set up in India.",
+        "Whichever route is chosen, the person appointed is a director in every legal sense, not a nominal placeholder. Section 166 of the Companies Act sets out the statutory duties owed by every director, including the duty to act in good faith to promote the company's objects and the duty to exercise independent judgment, and these apply to the resident director exactly as they apply to any other board member. A group that treats the position as a formality, and leaves the resident director out of real decision-making, is creating a governance gap that can surface awkwardly if something goes wrong at the company."
+      ]
+    },
+    {
+      "heading": "How the 182-day count actually gets tracked",
+      "paragraphs": [
+        "In practice, the company secretary or compliance officer should maintain a simple record of the resident director's days in India across the financial year, built from passport stamps, travel bookings or visa records where the director also travels for group business. This matters most for a group that rotates which executive holds the role, or that relies on a director who splits time between India and the parent's home jurisdiction.",
+        "A director who falls short of 182 days in a given year because of an unplanned posting abroad, an illness, or a change in role creates a compliance gap for the company, not just for that individual. The board should treat a dip below the threshold as something to flag well before the financial year closes, so that a second director can be appointed or an existing director's India time can be adjusted, rather than discovering the shortfall only when the annual return is being prepared."
+      ]
+    },
+    {
+      "heading": "What happens if the company has no resident director",
+      "paragraphs": [
+        "Section 149(3) does not carry its own standalone penalty clause. A breach of the provision falls back on the general penalty regime under Section 172 of the Companies Act for a contravention of the Act where no specific penalty is prescribed elsewhere, which can expose the company and every officer in default. Beyond the statutory exposure, a foreign subsidiary that cannot show a compliant board on its Master Data on the Ministry of Corporate Affairs portal can run into friction when it tries to open or operate a bank account, apply for certain licences, or go through due diligence ahead of a funding round or acquisition, because the lapse shows up as soon as anyone checks the company's filings.",
+        "The practical fix, once a gap is noticed, is straightforward: appoint a qualifying director as soon as possible and keep the appointment on record through a board resolution and the usual filings with the Registrar of Companies. What is harder to fix after the fact is the period during which the company operated without a resident director, so the better discipline is to build the check into the subsidiary's annual compliance calendar rather than treat it as a one-time box ticked at incorporation."
+      ]
+    },
+    {
+      "heading": "Structuring the appointment without creating a control problem",
+      "paragraphs": [
+        "Foreign groups sometimes worry that appointing an India-based director will dilute the parent's control over the subsidiary. That worry is usually overstated. Control in an Indian company runs through shareholding, the articles of association, and reserved matters that require shareholder or specific board approval, not through where a particular director happens to live. A foreign parent holding 100% of the shares retains the right to appoint and remove directors, approve the budget, and set the subsidiary's strategy regardless of whether the resident director is a parent nominee, an independent professional, or a local operating head.",
+        "Where this does need care is in drafting the subsidiary's articles and any shareholders' agreement, so that the resident director's statutory duties under Section 166 are not written around in a way that leaves that director unable to exercise independent judgment if the parent's instructions ever conflict with the Indian company's interests, for example in a related-party transaction between the subsidiary and the parent. A well-drafted board charter, rather than an informal understanding, keeps this workable for both sides."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the resident director have to be an Indian citizen?",
+      "a": "No. Section 149(3) tests physical presence in India for 182 days or more in the financial year, not nationality. A foreign national who is based in India for most of the year, including an expatriate executive on a work visa, can satisfy the requirement in the same way an Indian citizen can."
+    },
+    {
+      "q": "Can one person act as the resident director for several group companies?",
+      "a": "Yes, subject to the overall limit on the number of directorships a person may hold under the Companies Act. Many professional resident directors do serve several subsidiaries of the same or different foreign groups, provided each company's own 182-day requirement is independently met by that person's time in India."
+    },
+    {
+      "q": "Does a liaison office or branch office of a foreign company need a resident director?",
+      "a": "No. Section 149(3) applies to companies incorporated in India under the Companies Act. A liaison, branch or project office is not a separate Indian company; it operates under its own Reserve Bank of India approval and reporting regime, which is a different compliance track altogether."
+    },
+    {
+      "q": "What if the only India-based director has to leave the country mid-year?",
+      "a": "The board should treat this as an early warning, not wait for the financial year to end. It can appoint a second director who can build up qualifying days, or adjust the existing director's travel so the 182-day total is still met by 31 March, and record the position through a board resolution."
+    },
+    {
+      "q": "Is a professional or nominee resident director a safe arrangement for the company?",
+      "a": "It can be, provided the person actually performs the role rather than lending a name. The appointee owes the full set of director's duties under Section 166, so the company should brief the person properly, give access to records, and avoid treating the position as administrative only."
+    }
+  ],
+  "references": [
+    "Companies Act 2013, Section 149(3) (resident director requirement)",
+    "Companies (Amendment) Act 2017 (changed the reference period to the current financial year)",
+    "Ministry of Corporate Affairs General Circular No. 25/2014 (clarifying the original calendar-year test)",
+    "Companies Act 2013, Section 166 (duties of directors)",
+    "Companies Act 2013, Section 172 (general penalty where none is separately prescribed)"
+  ],
+  "sources": [
+    "https://india-briefing.com/news/resident-director-requirement-in-effect-under-updated-companies-act8924-8924.html",
+    "https://treelife.in/legal/resident-director-options-for-a-foreign-owned-indian-subsidiary/",
+    "https://thelegalschool.in/blog/section-149-3-companies-act-2013",
+    "https://ca2013.com/wp-content/uploads/2015/06/General-Circular-No.-25-2014.pdf",
+    "https://www.setindiabiz.com/blog/resident-director-vs-designated-partner-residency-rules"
+  ],
+  "verification_notes": [
+    "AUDIENCE: foreign company",
+    "TARGET QUERY: does a wholly foreign owned company in India need a resident director",
+    "DEMAND EVIDENCE: none seen (no search-volume or trending data observed; topic chosen because it is a recurring first-time-incorporation question in advisory commentary and has no existing guide on the site)",
+    "Core rule (182 days, Section 149(3)) confirmed from thelegalschool.in and treelife.in, both reproducing the same statutory test independently.",
+    "Rule applies regardless of place of shareholding confirmed from india-briefing.com and treelife.in.",
+    "Original calendar-year wording and MCA General Circular 25/2014 confirmed from the circular text itself (ca2013.com) together with thelegalschool.in's account of the pre-2017 position; the 2017 amendment to financial year confirmed from thelegalschool.in and setindiabiz.com.",
+    "No specific penalty in Section 149(3) and fallback to the general Section 172 penalty: stated in general terms because sources did not agree on a specific rupee figure for any particular enforcement case; a reported ROC Bangalore penalty amount appeared in only one advisory source and has been left out rather than stated as fact.",
+    "Director's duties under Section 166 applying equally to a resident/nominee director: standard statutory position, not disputed across sources checked.",
+    "Liaison/branch office not being a separate company, and therefore outside Section 149(3): drawn from the settled distinction between a foreign company's India establishment (RBI-regulated) and an Indian-incorporated subsidiary (Companies Act-regulated), consistent across every source consulted; no single figure or date was in dispute here so it was not treated as needing two citations beyond general incorporation law."
+  ]
+}

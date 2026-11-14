@@ -1,0 +1,102 @@
+{
+  "slug": "significant-economic-presence-equalisation-levy-foreign-digital-business-guide",
+  "title": "From Equalisation Levy to Significant Economic Presence",
+  "meta_description": "Both equalisation levies are gone. A foreign digital business in India is now taxed chiefly through the significant economic presence rule under Section 9.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "A foreign company selling digital services, advertising space or goods online to Indian customers no longer pays the equalisation levy that used to apply to that revenue. Both versions of it have been withdrawn, the 2% levy on e-commerce supply from 1 August 2024 and the 6% levy on online advertising from 1 April 2025. That does not mean the income is now untaxed in India. The main route for taxing a foreign digital business with no office or staff here is the significant economic presence test under Section 9 of the Income-tax Act, which was already in force before either levy was withdrawn and now carries more weight than it did.",
+    "This guide sets out where the equalisation levy actually stood, what replaced it in practical terms, and how the significant economic presence test works, including the two thresholds that trigger it and what a foreign business should be checking before it assumes its India revenue sits outside the tax net. As on 14 November 2026."
+  ],
+  "sections": [
+    {
+      "heading": "Why the equalisation levy was withdrawn, not just reduced",
+      "paragraphs": [
+        "The 2% equalisation levy on e-commerce supply or services, introduced by the Finance Act 2020 and charged under what was numbered Section 165A of the Finance Act 2016, stopped applying to consideration received on or after 1 August 2024. The Finance (No. 2) Act 2024 carried out the withdrawal. It had applied to non-resident e-commerce operators on the gross amount they received from Indian customers, and did not apply where the operator already had a permanent establishment in India to which that income was effectively connected.",
+        "The older 6% levy on online advertising, in force since 2016 under Section 165 of the Finance Act 2016, followed a year later. The Finance Act 2025 withdrew it with effect from 1 April 2025, so no levy applies to consideration received on or after that date. The same Finance Act inserted a sunset into Section 10(50) of the Income-tax Act, the provision that had exempted levy-chargeable income from ordinary income tax, so that the exemption stops applying from assessment year 2026-27. The government's stated reason for both withdrawals was to reduce compliance friction and respond to friction with trading partners over digital taxes of this kind; this guide does not take a position on that reasoning, only on what it changed."
+      ]
+    },
+    {
+      "heading": "What significant economic presence actually means",
+      "paragraphs": [
+        "Significant economic presence, usually shortened to SEP, is not a new tax. It is a way of deciding when a non-resident's income is treated as accruing or arising in India under Section 9(1)(i) of the Income-tax Act, even though the non-resident has no office, branch or agent here. It was inserted as Explanation 2A to that section by the Finance Act 2018, with the government deferring its practical start until the thresholds were notified.",
+        "The Central Board of Direct Taxes notified those thresholds through the Income-tax (13th Amendment) Rules 2021, inserting Rule 11UD with effect from 1 April 2022. A non-resident has an SEP in India, and so a business connection here, if either of two tests is met in relation to transactions with persons in India, including the download of data or software. The gap between 2018, when the concept was legislated, and 2022, when it actually started to bite, was deliberate; the government wanted the thresholds fixed in subordinate legislation before non-resident businesses were expected to self-assess against them, rather than leaving the trigger point open to interpretation from the day the provision was inserted."
+      ]
+    },
+    {
+      "heading": "The two thresholds that trigger it",
+      "paragraphs": [
+        "The first test looks at value. Under Rule 11UD, a non-resident's transactions in goods, services or property, including data or software downloads, with any person in India cross the SEP threshold once the aggregate payments from those transactions exceed Rs 2 crore in the relevant year. This is a revenue test and does not depend on how many customers are involved.",
+        "The second test looks at reach rather than money. A non-resident has an SEP if it systematically and continuously solicits business from, or interacts with, 3 lakh or more users in India, regardless of whether any of those interactions generated a rupee of revenue. A foreign platform with a large free user base in India, and comparatively modest Indian billings, can still trip this second test on numbers alone. Either test is sufficient on its own; a foreign business does not need to clear both to have an SEP."
+      ]
+    },
+    {
+      "heading": "What counts toward the threshold, and what was carved out",
+      "paragraphs": [
+        "The thresholds are measured against transactions and interactions connected to India, which in practice means Indian billing addresses, Indian payment instruments, Indian IP addresses or similar indicators the tax department can point to. A later amendment, carried through the Finance Act 2025, aligned the SEP rule with the general business-connection exemption that already existed for a foreign buyer's India operations limited to purchasing goods for export. Before that alignment, there was a real question whether a foreign company's India-facing purchase activity, conducted purely to buy goods here for sale abroad, could itself trigger an SEP on the reach test even though it was never meant to be taxed as business connection income. The amendment closed that gap so that purchase-for-export activity is treated consistently whether it is tested under the general business-connection rule or under SEP.",
+        "What an SEP does not do is tax the non-resident's entire global income. Only the income reasonably attributable to the operations carried out in India, or to the specific transactions and activities that created the SEP, is treated as accruing in India. A foreign company with Rs 50 crore of India-linked billings but a thin local margin is taxed on the income fairly attributable to that India-facing activity, not on its worldwide profit."
+      ]
+    },
+    {
+      "heading": "Treaty relief is where most of the real argument happens",
+      "paragraphs": [
+        "Section 9 is a domestic law deeming provision. It does not override a tax treaty that India has with the non-resident's home jurisdiction where that treaty's business profits article requires something closer to a fixed place of business or a dependent agent before India can tax business income. A foreign digital company resident in a treaty country typically argues that, even if SEP is met under the Income-tax Act, the treaty's more traditional permanent establishment test is not met, and that the treaty, being more favourable, should apply instead of the domestic deeming rule.",
+        "This is where most SEP disputes actually get fought, not on whether the Rs 2 crore or 3 lakh user figures were crossed, which is usually a matter of record, but on whether the treaty permits India to tax the income at all in the absence of a fixed place of business. A foreign business relying on treaty protection should keep its tax residency certificate current and be ready to show, with contemporaneous records, that it has no fixed place of business, dependent agent or other presence in India beyond the digital activity that triggered SEP."
+      ]
+    },
+    {
+      "heading": "What a foreign digital business should do now",
+      "paragraphs": [
+        "The withdrawal of both equalisation levies removes a flat-rate, relatively simple charge and leaves income tax, with its attribution and treaty questions, as the operative regime. A foreign business that budgeted for the levy as a known cost should revisit that assumption, because an SEP-based assessment, even where treaty relief is eventually available, brings assessment proceedings, documentation demands and the possibility of a dispute that a flat levy never did.",
+        "Practically, this means tracking Indian billings and Indian user numbers against the Rs 2 crore and 3 lakh thresholds as a matter of routine, not as something discovered at audit. It means keeping clean records of where income is generated and what functions are actually performed in India, so that attribution, if it comes to that, starts from the company's own numbers rather than an assessing officer's estimate. And it means treating the tax residency certificate and treaty position as live documents to maintain each year, not a one-time filing from when the Indian business first started."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does SEP apply if my company has no office, server or employee in India?",
+      "a": "Yes. That is the point of the rule. SEP was designed for exactly this situation, where a non-resident earns Indian-linked revenue or has a large Indian user base without any physical presence. Crossing either the Rs 2 crore transaction threshold or the 3 lakh user threshold is enough on its own."
+    },
+    {
+      "q": "Can a tax treaty override the SEP rule?",
+      "a": "A tax treaty can limit India's right to tax the income even where SEP is met under domestic law, if the treaty's business profits article requires a fixed place of business or dependent agent that the foreign company does not have. Whether the treaty actually helps depends on its specific wording and the facts, so this needs case-by-case analysis rather than a general assumption either way."
+    },
+    {
+      "q": "Does selling through an app or website to Indian customers automatically trigger SEP?",
+      "a": "Not automatically. SEP is triggered only once the Rs 2 crore aggregate transaction value or the 3 lakh user interaction threshold is actually crossed in the relevant year. A small foreign seller with limited India billings and a modest user base may fall under both thresholds and have no SEP at all."
+    },
+    {
+      "q": "What replaced the equalisation levy for non-resident e-commerce operators?",
+      "a": "Nothing replaced it as a standalone levy; it was simply withdrawn from 1 August 2024. For e-commerce operators that already had a business connection in India through significant economic presence or otherwise, ordinary income tax under the Income-tax Act continues to apply to the income attributable to that connection."
+    },
+    {
+      "q": "Does the significant economic presence rule survive under the new Income-tax Act, 2025?",
+      "a": "The SEP concept is understood to continue under the Income-tax Act 2025, which took effect from 1 April 2026, carried forward within that Act's business-connection provisions. Commentary differs on the exact section number under the new Act, so a foreign business should confirm the current provision and rule numbering rather than rely on the old Section 9(1)(i) citation alone."
+    }
+  ],
+  "references": [
+    "Income-tax Act 1961, Section 9(1)(i), Explanation 2A (significant economic presence, inserted by Finance Act 2018)",
+    "Income-tax Rules 1962, Rule 11UD (SEP thresholds: Rs 2 crore transaction value and 3 lakh users, inserted by the Income-tax (13th Amendment) Rules 2021, effective 1 April 2022)",
+    "Finance (No. 2) Act 2024 (withdrawal of the 2% equalisation levy on e-commerce supply, formerly Section 165A of the Finance Act 2016, effective 1 August 2024)",
+    "Finance Act 2025 (withdrawal of the 6% equalisation levy on online advertising under the Finance Act 2016, effective 1 April 2025, and sunset of the Section 10(50) income-tax exemption from assessment year 2026-27)",
+    "Finance Act 2025 (alignment of the SEP rule with the business-connection exemption for purchase-for-export activity)"
+  ],
+  "sources": [
+    "https://taxguru.in/income-tax/rule-11ud-thresholds-purposes-significant-economic-presence.html",
+    "https://www.taxscan.in/digital-tax-threshold-fixed-at-2-crores-and-3-lakh-users-cbdt-amends-rules-relating-to-indirect-transfer-provisions/113283",
+    "https://www.bdo.in/en-gb/news/2024/relief-for-non-resident-e-commerce-operators-abolishing-the-equalisation-levy",
+    "https://theprint.in/economy/equalisation-levy-on-online-advertisements-to-be-abolished-from-april-1/2562910",
+    "https://studycafe.in/harmonization-of-significant-economic-presence-applicability-with-business-connection-364659.html"
+  ],
+  "verification_notes": [
+    "AUDIENCE: foreign company",
+    "TARGET QUERY: how is a foreign digital company taxed in India now that the equalisation levy is removed",
+    "DEMAND EVIDENCE: none seen (no search-volume data observed; topic chosen because the 2% and 6% levy withdrawals are major, recent, dated changes directly affecting the audience and the site had no guide tying SEP to the levy's end)",
+    "2% e-commerce levy withdrawal, effective date 1 August 2024, enacting law Finance (No. 2) Act 2024: confirmed from bdo.in and taxscan.in, both independently.",
+    "6% online advertising levy withdrawal, effective date 1 April 2025: confirmed from theprint.in and a second, independent set of reports in the same search (business-standard.com and mondaq.com per the underlying search); section-number attribution (163 vs 165 of the Finance Act 2016) was disputed between sources, so the guide refers to 'the provision in the Finance Act 2016' generally rather than committing to one subsection number.",
+    "Section 10(50) sunset from AY 2026-27: stated as reported by theprint.in-linked commentary; treated as a secondary point and phrased cautiously.",
+    "Rule 11UD thresholds (Rs 2 crore; 3 lakh users) and effective date 1 April 2022: confirmed from taxguru.in and taxscan.in, both citing CBDT Notification No. 41/2021 independently.",
+    "Either threshold being independently sufficient, and only India-attributable income being taxed: drawn from the Explanation 2A/Rule 11UD structure itself, consistent across all sources checked; not a disputed point.",
+    "2025 harmonisation of SEP with the purchase-for-export exemption: confirmed from studycafe.in and a second commentary page surfaced in the same search (taxheal.com); the exact new-Act section number for SEP was reported inconsistently (9(9) versus 9(8)(d)) across sources, so this guide does not state a specific subsection for the Income-tax Act 2025 and instead flags that readers should confirm current numbering.",
+    "No case law was relied on for this guide; none met the two-source confirmation standard for a specific holding, so none is cited."
+  ]
+}
