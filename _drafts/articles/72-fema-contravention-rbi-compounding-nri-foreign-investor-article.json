@@ -1,0 +1,239 @@
+{
+  "slug": "fema-contravention-rbi-compounding-nri-foreign-investor-article",
+  "title": "FEMA Contraventions and RBI Compounding: Clearing a Technical Breach Without Prosecution",
+  "subtitle": "Why an NRI holding an old NRO account the wrong way, or a foreign investor who filed Form FC a year late, usually has a cheaper and faster way out than waiting for a show cause notice.",
+  "meta_description": "How RBI compounding under Section 15 of FEMA works in 2026: who decides, the fee, the 180-day clock, and what cannot be compounded.",
+  "practice_area": "Banking & Finance",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Adv. Rahul Jangra",
+      "role": "Associate, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-14",
+  "standfirst": "A breach of the Foreign Exchange Management Act, 1999 is rarely the result of anyone trying to move money out of India by stealth. Far more often it is a late FC-GPR filing after a funding round, an NRO account that received rent for a few years before anyone checked whether that was the right account, or a step-down subsidiary set up abroad without the annual return that FEMA expects. For most of these, the law gives a route that ends in a payment and a certificate rather than a prosecution. This piece sets out how that route works today, who decides, what it costs, and where it does not apply.",
+  "key_points": [
+    "FEMA contraventions are compounded under Section 15 by the Reserve Bank of India for every contravention except one under Section 3(a), which goes to the Directorate of Enforcement instead.",
+    "The Foreign Exchange (Compounding Proceedings) Rules, 2024 replaced the 2000 Rules with effect from 12 September 2024 and raised the application fee to Rs 10,000 plus GST.",
+    "Which RBI officer decides an application depends on the sum involved, running from an Assistant General Manager for smaller amounts up to a Chief General Manager for the largest.",
+    "Rule 9 of the 2024 Rules lists contraventions that cannot be compounded at all, chiefly where the amount involved cannot be quantified or Section 37A applies.",
+    "An order has to be paid within fifteen days, failing which the application is treated as never having been made and the contravention stands as before.",
+    "RBI's Directions updated in April 2025 removed the old practice of linking a fresh application to an earlier compounding order, and instead raise the fee by half for a similar contravention repeated within a defined period.",
+    "Doing nothing about a known contravention is rarely the safer option: it leaves an adjudication process, a possible appeal, and continuing daily penalty exposure open indefinitely."
+  ],
+  "sections": [
+    {
+      "heading": "What Counts as a Contravention Under FEMA",
+      "paragraphs": [
+        "The Foreign Exchange Management Act, 1999 is written as a civil statute, and that distinction matters more than most people filing an application realise. Unlike its predecessor, the Foreign Exchange Regulation Act, FEMA does not treat every breach as a criminal offence. A contravention is a failure to comply with the Act itself, with a regulation or direction made under it, or with a condition attached to an authorisation the Reserve Bank has granted. That covers an enormous range of conduct: an NRI who held agricultural land through inheritance without regularising the holding, a startup that forgot to file Form FC-GPR after a foreign round closed, or a company that paid a foreign consultant without the withholding and reporting FEMA expects.",
+        "What makes FEMA unusual is that liability under it does not depend on intention. A contravention committed carelessly, or without any awareness that a filing was due, is treated the same way in law as one committed deliberately, though intention affects how seriously an adjudicating officer or compounding authority eventually treats it. Section 42 extends this liability to every officer of a company who was in charge of and responsible for its conduct at the time of the contravention, not merely to the company as a legal person. A director who signs off on a cross-border payment without checking the FEMA angle can end up personally named in a notice years later.",
+        "This breadth is precisely why the compounding mechanism exists. If every contravention, however minor or unintentional, had to be prosecuted through adjudication and possible appeal, the system would be unworkable for both the regulator and the regulated. Compounding gives a person who has contravened FEMA, or who discovers an old contravention during due diligence or a bank's periodic review, a way to close the matter on payment of a sum fixed by the authority, without the contravention being litigated on its merits.",
+        "A FEMA contravention frequently surfaces alongside an issue under some other statute, and the two have to be kept apart even where the facts overlap. An undisclosed foreign bank account, for instance, is both a potential FEMA contravention and a matter the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 treats separately, with its own disclosure and penalty regime that compounding under FEMA does not touch. Regularising the FEMA side of such a position closes only the FEMA exposure, and anyone in that situation needs tax advice on the other statute as a distinct, parallel exercise rather than assuming one filing covers both."
+      ]
+    },
+    {
+      "heading": "Two Regulators, Two Separate Tracks",
+      "paragraphs": [
+        "Section 15(1) of FEMA splits compounding power between two bodies, and an applicant has to know which one to approach before filing anything. The Reserve Bank of India compounds any contravention except one falling under clause (a) of Section 3. The Directorate of Enforcement, which sits under the Department of Revenue, compounds that one category on its own.",
+        "Section 3(a) covers dealing in or transferring foreign exchange or foreign security to or from a person not authorised to deal in it, essentially the hawala-type conduct FEMA was designed to reach when money moves outside the banking channel altogether. Everything else, FDI reporting delays, ECB non-compliance, overseas investment filings, current account remittance irregularities, export realisation delays, and the NRI banking and property contraventions most individuals actually encounter, falls to the RBI.",
+        "The two tracks have never shared a single set of pecuniary limits. The 2024 reform raised the RBI's officer-wise limits substantially while leaving the Enforcement Directorate's limits for Section 3(a) matters unchanged, which in practice means RBI now handles a wider band of larger-value compounding on its own side of the line than it did before September 2024.",
+        "The division also matters because the Enforcement Directorate's involvement in a matter rarely stays confined to FEMA alone. A Section 3(a) contravention frequently sits alongside a Prevention of Money Laundering Act investigation into the same underlying funds, since the two agencies share information and the same facts can attract both a compounding proceeding under FEMA and a separate attachment or prosecution under the money laundering law. A person facing a notice from the Enforcement Directorate should not assume that compounding the FEMA angle closes the file if a parallel PMLA angle has also opened, and the two need to be handled, usually by different specialists, as genuinely separate proceedings even when they arise from one set of transactions."
+      ]
+    },
+    {
+      "heading": "What a Compounding Order Does, and Does Not Do",
+      "paragraphs": [
+        "Compounding under Section 15 is not an acquittal and not a finding that no contravention occurred. It is closer to a settlement: the applicant admits, in substance, that a contravention took place, and the authority fixes a sum on payment of which the proceeding is closed and no further action follows for that contravention. Once an order is passed and the sum paid within the time allowed, Section 15(2) bars any further proceeding against the applicant in respect of the same contravention before the adjudicating authority under Section 16, and bars criminal prosecution for that contravention as well.",
+        "This immunity is specific to the contravention covered by the order. A compounding order on a late FC-GPR filing does not protect the same company from a wholly separate contravention discovered later, even if it comes up in the same compliance review. Each contravention, or set of related contraventions disclosed together, needs its own application and its own order.",
+        "Compounding is voluntary. Nobody can be compelled to apply, and an applicant can withdraw before an order is passed, though withdrawal does not prevent the regulator from later proceeding by adjudication on the same facts. In practice, most people apply precisely because adjudication, which can run to a penalty of up to three times the sum involved under Section 13(1), carries more cost and more uncertainty than a compounding sum fixed administratively and disclosed in advance through the applicable rules.",
+        "Where Section 42 brings individual officers of a company into the picture, a compounding order passed in the company's name does not automatically extend to every director named in the underlying show cause notice unless the order itself says so. Applicants who want the officers covered as well generally need to name them in the application and have the order record that the compounding extends to them, rather than assuming that paying on the company's behalf closes the position for everyone who signed the relevant documents."
+      ]
+    },
+    {
+      "heading": "The 2024 Rules: What Changed",
+      "paragraphs": [
+        "For nearly twenty-four years, compounding ran under the Foreign Exchange (Compounding Proceedings) Rules, 2000. The Central Government replaced them with the Foreign Exchange (Compounding Proceedings) Rules, 2024, notified under G.S.R. 566(E) dated 12 September 2024, in exercise of the power under Section 46 read with Section 15(1). The new rules apply from the date of that notification; an application already pending when the 2024 Rules took effect continues to be governed by the 2000 Rules rather than being reopened under the new framework.",
+        "Three changes stand out for anyone filing today. The application fee moved from the long-standing Rs 5,000 to Rs 10,000 plus applicable GST. The monetary thresholds that decide which RBI officer handles an application were raised, so contraventions that once needed sign-off from a more senior officer can now be compounded at a lower rung within the Bank. And the 2024 Rules introduced, for the first time, an express list under Rule 9 of contraventions that cannot be compounded at all, where earlier the exclusions had to be read out of scattered provisions and RBI practice.",
+        "The Reserve Bank followed the new Rules with its own Directions, Compounding of Contraventions under FEMA, 1999, dated 1 October 2024, superseding the version that had been in force since May 2022, and amended those Directions again in April 2025. An application filed today is governed by the 2024 Rules and the Directions as they currently stand, not by the older circulars still cited in some older commentary.",
+        "The transitional clause in the 2024 Rules is narrower than it first appears. It preserves the 2000 Rules only for an application that was already pending with the Reserve Bank or the Enforcement Directorate on 12 September 2024; it does not give an applicant the option of choosing the older, lower fee for a fresh contravention merely because the underlying conduct took place before that date. A contravention that occurred in 2022 but is being disclosed for the first time today is filed, and charged, entirely under the 2024 regime."
+      ]
+    },
+    {
+      "heading": "Filing the Application: Form, Fee and Supporting Material",
+      "paragraphs": [
+        "An application for compounding can be made by the person who has contravened FEMA, whether or not the Reserve Bank or the Enforcement Directorate has already issued a show cause notice. Many applications are in fact filed proactively, after a company's own compliance audit, an authorised dealer bank's periodic review, or a due diligence exercise ahead of a transaction turns up an old filing gap. Filing before a notice is issued is generally treated more favourably than filing in response to one, though the Rules do not guarantee a lower sum on that basis alone.",
+        "The application goes in the form prescribed under the 2024 Rules, together with the fee of Rs 10,000 plus GST, and is accompanied by a memorandum setting out the facts of the contravention, the FEMA provision involved, the period of delay or the extent of the breach, and any steps already taken to regularise the position, such as a belated FC-GPR filing or an after-the-fact RBI approval obtained through the authorised dealer bank. Where the applicant has more than one contravention to disclose, each is typically dealt with as a separate item within the application rather than left unmentioned, since a contravention not disclosed is not covered by whatever order eventually issues.",
+        "Applications can be filed physically with the Reserve Bank's compounding cell or, for categories the Bank has opened up for online filing, through its PRAVAAH portal. The portal's use has been made compulsory for certain categories of applications, authorisations and approvals, but as of today it has not been made the only route for a compounding application itself, so physical filing remains available unless a specific notification says otherwise for the category in question.",
+        "The practical document set an applicant should assemble before filing is longer than the form itself suggests: a chartered accountant's certificate quantifying the amount involved and the period of delay, copies of the original FEMA filings (where any were made) and proof of the belated filing or correction, the relevant board resolutions or account-opening documents, correspondence with the authorised dealer bank, and a signed memorandum of facts. Gathering this before filing, rather than in response to a query raised after filing, is usually what separates an application disposed of well within the 180-day period from one that drags on through repeated requests for clarification."
+      ]
+    },
+    {
+      "heading": "Which Officer Decides: Pecuniary Jurisdiction",
+      "paragraphs": [
+        "The 2024 Rules fix which level of RBI officer can pass a compounding order by reference to the sum involved in the contravention, not by reference to the applicant's size or the complexity of the facts. A relatively small contravention by a large multinational's Indian subsidiary and a relatively small contravention by an individual NRI are decided at the same level if the amounts are comparable.",
+        "At the lower end, an Assistant General Manager or an officer of higher rank can compound contraventions up to a threshold the 2024 Rules raised well above the figure that applied under the 2000 Rules, where it had stood at a much smaller amount. At the upper end, only a Chief General Manager can compound the largest contraventions, with intermediate seniority levels handling the amounts in between on a sliding scale. Commentary on the exact rupee figures at each intermediate level is not uniform, so an applicant should confirm the current slab against the Reserve Bank's own published Directions rather than rely on a single secondary source, particularly where the amount sits close to a boundary.",
+        "This structure exists for the same reason tiered adjudication exists anywhere in financial regulation: it keeps routine, low-value matters moving quickly through junior officers while reserving larger or more sensitive amounts for more senior sign-off. For most individual NRI matters, FEMA compounding applications are decided well within the lower bands.",
+        "An applicant does not get to choose which officer hears the matter, and a sum that turns out, on closer examination during the proceeding, to be larger than first stated in the application can result in the file being moved up to a more senior officer rather than being decided at the level the applicant originally approached. For this reason, the amount involved should be worked out as accurately as possible, with the chartered accountant's certificate referred to earlier, before the application is filed rather than estimated loosely and corrected later."
+      ]
+    },
+    {
+      "heading": "What Cannot Be Compounded",
+      "paragraphs": [
+        "Not every contravention can be closed this way, and Rule 9 of the 2024 Rules is the first place to check before assuming compounding is available. The clearest exclusion is a contravention where the amount involved cannot be quantified at all; compounding works by fixing a sum against a quantifiable breach, and where there is nothing to quantify, the Rules simply do not provide a mechanism.",
+        "A second exclusion applies where Section 37A of FEMA is in play. That section deals with the seizure of equivalent-value assets held in India where foreign exchange, security or immovable property abroad is suspected to have been acquired in contravention of the Act, and a matter that has reached that stage is treated as outside the ordinary compounding route, since it typically also carries a Prevention of Money Laundering Act dimension that compounding under FEMA alone cannot resolve.",
+        "A contravention under Section 3(a), as already noted, is compoundable only by the Enforcement Directorate, not by the RBI, so an application filed with the wrong authority for that category simply will not be entertained by the Bank. Anyone unsure which category a given fact pattern falls into is better served checking with counsel before filing than filing speculatively and losing the application fee to a rejection.",
+        "Where an application is found to fall within Rule 9, the Reserve Bank or the Enforcement Directorate returns it rather than disposing of it on the merits, and the applicant is generally not left with the choice of trying again on the same facts under a different label. The only route forward at that point is to let the matter proceed to adjudication under Section 16, where the full facts, including any voluntary disclosure and remedial steps already taken, can still be placed before the adjudicating authority as mitigating factors, even though the administrative shortcut of compounding is no longer available."
+      ]
+    },
+    {
+      "heading": "How the Compounding Sum Is Worked Out",
+      "paragraphs": [
+        "Section 13(1) sets the outer limit for what a contravention could cost if it were adjudicated rather than compounded: a penalty of up to three times the sum involved where that sum is quantifiable, or up to Rs 2 lakh where it is not, with a further sum of up to Rs 5,000 for every day the contravention continues after the first day. A compounding sum is fixed within that same statutory ceiling, but the compounding authority has discretion to arrive at a figure well below the maximum, taking into account factors such as the amount involved, the period of the delay, whether the contravention was voluntarily disclosed, and whether the applicant has a history of similar contraventions.",
+        "RBI's Directions updated in April 2025 introduced a specific cap of Rs 2 lakh on the compounding amount for what the Directions describe as non-reporting contraventions, a category that covers delayed filings such as FC-GPR, FC-TRS and annual return submissions rather than contraventions involving an actual unauthorised transfer of funds. This matters in practice because a large share of the compounding applications filed by foreign-invested companies and their Indian subsidiaries fall precisely into this reporting-delay category rather than into any substantive breach of the investment rules themselves.",
+        "Where the contravention does involve an actual movement of funds outside what FEMA permits, rather than a late filing about a transaction that was itself permissible, the compounding sum is calculated with closer reference to the amount involved and the period for which the contravention subsisted, and can run considerably higher than the flat cap that applies to reporting delays.",
+        "A factor that recurs across the commentary on how authorities approach quantum, though it is nowhere reduced to a formula, is whether the applicant retained any undue financial benefit from the delay itself. A company that filed its FC-GPR a year late but held the shares, and the underlying investment, exactly as it would have if the filing had been timely is generally treated differently from one where the delay coincided with some other advantage, such as an extended period during which funds that should have been reported as equity were instead shown as an unsecured loan on the books. The second fact pattern tends to attract closer scrutiny of the quantum even where both cases are nominally the same type of reporting lapse."
+      ]
+    },
+    {
+      "heading": "The Hearing, the 180-Day Clock, and Paying the Order",
+      "paragraphs": [
+        "Once an application is filed, the compounding authority can call for records, seek clarification from the applicant, and in most cases affords a personal hearing before passing an order, particularly where the facts are not straightforward. The 2024 Rules carried forward the 180-day period within which the authority is expected to dispose of an application, counted from the date of its receipt. This is an administrative target rather than a limitation on jurisdiction, so an order passed after that period is not for that reason alone invalid, though delays beyond it are uncommon in practice for routine matters.",
+        "The order itself states the compounding sum and the period within which it must be paid. The Rules fix that period at fifteen days from the date of the order. If the sum is not paid within that window, the order is treated as if it was never made, the application is deemed never to have been filed, and the underlying contravention stands exactly where it did before the application, with the Reserve Bank or the Enforcement Directorate free to proceed by ordinary adjudication.",
+        "Payment within time, by contrast, closes the matter completely for that contravention. The applicant receives a certificate recording that the contravention has been compounded, which is the document banks and counterparties in a later transaction will ask to see if the same issue comes up again during a due diligence review or a fresh loan or investment approval.",
+        "Payment is usually made by demand draft in favour of the Reserve Bank of India drawn on the authority's regional office, though the Bank has been extending electronic payment options alongside the PRAVAAH rollout for categories it has opened to online filing. Keeping the receipted payment instrument together with the compounding order and the original application, rather than relying on the bank's own records years later, is a small step that saves considerable time the next time the same transaction history has to be explained to a buyer, a lender or a fresh set of auditors."
+      ]
+    },
+    {
+      "heading": "The Contraventions NRIs and Foreign Investors Compound Most Often",
+      "paragraphs": [
+        "Among individuals, the single most common category is an NRI who continued operating a resident savings account, or received rent, dividends or sale proceeds into the wrong account type, for a period after their residential status changed under FEMA. The correct course on becoming a non-resident is to convert resident accounts to NRO status and route foreign remittable income through an NRE account, and a delay in doing so, however innocent, is a contravention that banks increasingly flag during periodic KYC refreshes rather than leaving undetected.",
+        "A second common category involves agricultural land, plantation property or a farmhouse that an NRI or OCI has acquired by inheritance rather than purchase, where the general FEMA prohibition on an NRI buying such property does not apply to inheritance but does require the holding to be reported and, on a subsequent sale, the proceeds to be repatriated through the correct route. Gaps here surface most often when the property is finally sold and the authorised dealer bank asks for documentation the family does not have on file.",
+        "Among companies and their foreign shareholders, delayed filing of Form FC-GPR after allotment of shares to a foreign investor, delayed Form FC-TRS on a subsequent transfer, and a missed Annual Return on Foreign Liabilities and Assets or Annual Performance Report for an overseas investment, remain the contraventions that come up most often during funding rounds, acquisitions and routine annual compliance reviews, almost always falling into the lower-cost, non-reporting category described above.",
+        "A further category involves NRIs who serve as directors or significant shareholders of Indian companies and who fund a home loan, a loan against property, or an investment in a family business from abroad without routing the funds through the account type and the authorised channel FEMA specifies for that purpose. These cases are not always discovered by the company at all; they often come to light only when the individual's own bank raises a query years later during an unrelated transaction, by which point the daily penalty exposure under Section 13(1) has typically been running for a considerable period."
+      ]
+    },
+    {
+      "heading": "The April 2025 Changes to RBI's Directions",
+      "paragraphs": [
+        "RBI's Directions on compounding, originally issued to accompany the 2024 Rules from 1 October 2024, were amended again with effect from 22 April 2025. Two changes from that round matter for anyone filing today. The first removed the earlier practice of treating a fresh compounding application with reference to an applicant's previous compounding history on a connected or overlapping contravention, so that applications are now meant to be considered independently of an earlier order rather than automatically read against it.",
+        "The second addressed repeat conduct directly. Rather than the earlier, undefined three-year bar on compounding a similar contravention, which created real uncertainty because the Rules never spelled out what counted as similar, the amended Directions provide that a repeat applicant for what the Bank treats as a similar contravention pays a compounding fee increased by half, rather than being shut out of the compounding route altogether. This is a more workable rule for genuine repeat offenders in substance, but it also means a company that compounds the same type of filing lapse twice in quick succession should expect the second application to cost more, not simply to be refused.",
+        "Both changes reduce the amount of discretion an officer has to read an applicant's compliance history unfavourably into a fresh, factually distinct matter, while still pricing in a real cost for genuine repetition. For a company with a pattern of late filings across group entities, the practical lesson is to fix the underlying compliance process rather than treat compounding as a recurring cost of doing business, since each repeat application now carries its own escalating price.",
+        "To illustrate how the fifty per cent surcharge actually bites: a group that compounds a late FC-TRS filing for one step-down subsidiary this year, and then files a second application for an unrelated but similarly late FC-TRS filing in another subsidiary within the period the Directions treat as relevant, should expect the second application's fee calculation to start from a base increased by half, not from the same starting point as the first. Multiplied across several subsidiaries with a shared, outdated compliance checklist, that surcharge adds up faster than most groups expect, which is itself a reason to treat a first compounding exercise as an occasion to fix the group-wide process rather than just the one entity in front of the regulator."
+      ]
+    },
+    {
+      "heading": "What Happens if the Contravention Is Left Unaddressed",
+      "paragraphs": [
+        "Doing nothing about a known contravention does not make it disappear. Once the Reserve Bank or the Enforcement Directorate becomes aware of a contravention, whether through a bank's reporting, a routine inspection, or a disclosure made in some unrelated filing, the ordinary route is adjudication under Section 16: a show cause notice, an opportunity to respond, and a reasoned order from an adjudicating authority that can impose the full penalty available under Section 13, with an appeal lying to the Appellate Tribunal for Foreign Exchange and from there, on a point of law, to the High Court.",
+        "For a continuing contravention, such as an account held in the wrong form for years, the daily penalty component under Section 13(1) keeps accruing for as long as the breach continues, which makes early regularisation considerably cheaper than discovering, years later, that a small original lapse has grown into a much larger exposure purely through the passage of time.",
+        "There is also a practical cost beyond the statute itself. An unresolved FEMA contravention surfaces in due diligence for almost any later transaction, a sale of the property in question, a fresh round of investment, a loan against securities held by the non-resident, and buyers, lenders and their counsel are increasingly unwilling to proceed, or insist on an indemnity and an escrow, until the position is regularised through compounding or adjudication.",
+        "Authorised dealer banks have also become considerably less willing, since the 2024 reform tightened reporting expectations generally, to process a fresh FEMA-regulated remittance or filing for a customer whose own records show an earlier, unresolved gap in the same category, even where the bank has no formal obligation to refuse. In practice this means an NRI or a company with an open contravention can find routine banking requests, a repatriation, a fresh loan drawdown, a share transfer, slowed down or referred for additional compliance sign-off until the older position is cleared up, which is its own form of cost quite apart from any penalty eventually payable."
+      ]
+    },
+    {
+      "heading": "A Practical Sequence Before Filing",
+      "paragraphs": [
+        "The first step is establishing exactly what happened and when, which for an individual usually means reconstructing bank statements, the dates on which residential status changed, and any correspondence with the authorised dealer bank, and for a company means pulling the share allotment register, board resolutions, and the dates on which FEMA filings were actually made against the dates on which they were due. Compounding applications are judged on the facts as disclosed, and an application built on an incomplete reconstruction tends to generate further queries that slow the process rather than speed it.",
+        "The second step is deciding whether to regularise the underlying position before or alongside filing, where that is possible, such as converting an account to the correct type, filing the overdue FC-GPR or FC-TRS, or completing a belated APR for an overseas investment. Authorities generally expect to see that the contravention has been cured in substance, not merely acknowledged on paper, before an order closes the matter.",
+        "The third step is routing the application through the authorised dealer bank where the contravention concerns that bank's own records, since the bank will usually need to issue its own compliance certificate confirming the position has been corrected, and building in the fifteen-day payment window from the outset so that funds are available the moment an order is passed rather than scrambled for afterwards.",
+        "A fourth, often overlooked step is coordinating the FEMA filing with whatever income tax position the same facts touch. A belated repatriation or a correction to how a cross-border payment was booked can have knock-on consequences for withholding tax already deducted, for the residential-status determination used in an earlier return, or for a disclosure the taxpayer may separately owe under the Black Money Act. Bringing the tax adviser in at the same time as the FEMA filing, rather than treating the two as sequential tasks for different years, tends to avoid a second, avoidable round of corrections once the compounding order is already in hand."
+      ]
+    },
+    {
+      "heading": "What Remains Open",
+      "paragraphs": [
+        "Two things are worth flagging rather than stated as settled. The exact rupee thresholds separating the intermediate officer tiers between Assistant General Manager and Chief General Manager are described inconsistently across secondary commentary on the 2024 Rules, and an applicant close to a boundary should confirm the current figure directly with the Reserve Bank's compounding cell or through an authorised dealer bank rather than rely on any single published table. Separately, what the Directions mean by a similar contravention for the purpose of the repeat-fee surcharge introduced in April 2025 has not yet, as on the date of this piece, been tested in a reported decision, and how narrowly or broadly the Bank reads that phrase in practice is likely to become clearer only as more repeat applications are decided.",
+        "A third point to watch rather than rely on is how far the PRAVAAH portal's mandatory online-filing requirement will eventually extend to compounding applications themselves. The portal's coverage has been expanding category by category since the Reserve Bank first mandated it for specified authorisations and approvals in 2025, and an applicant should check the current position for the compounding category at the time of filing rather than assume physical filing will remain available indefinitely in the form described here."
+      ]
+    }
+  ],
+  "conclusion": [
+    "Compounding exists because FEMA's reach is wide enough to catch conduct nobody seriously intended as a violation, and because forcing every late filing or misclassified account through full adjudication would serve neither the regulator nor the person who made the mistake. For an NRI or a foreign investor who discovers an old gap, the question is rarely whether the law allows a way out; for most categories of contravention, it plainly does, within a process that now runs to a published fee, a known pecuniary structure, and a fixed timeline. The harder questions are factual: establishing precisely what happened, curing it where that is still possible, and filing before the Reserve Bank or the Enforcement Directorate finds the gap first rather than after."
+  ],
+  "faqs": [
+    {
+      "q": "Can I apply for compounding before RBI or the Enforcement Directorate has issued any notice?",
+      "a": "Yes. Many applications are filed proactively after an internal review, an authorised dealer bank's periodic check, or a due diligence exercise turns up an old contravention. Filing before any notice is issued is generally viewed more favourably, though it does not by itself fix the compounding sum at any particular figure."
+    },
+    {
+      "q": "Does paying a compounding sum mean I have admitted guilt in some permanent sense?",
+      "a": "It means the contravention is treated as having occurred for the purpose of that proceeding, and the matter is then closed on payment, with immunity from further proceedings or prosecution for that specific contravention. It is not a conviction and does not appear as one, but it is also not a finding that nothing happened."
+    },
+    {
+      "q": "What is the current fee for filing a compounding application?",
+      "a": "Rs 10,000 plus applicable GST under the Foreign Exchange (Compounding Proceedings) Rules, 2024, which replaced the earlier Rs 5,000 fee that applied under the 2000 Rules."
+    },
+    {
+      "q": "How long does the process usually take?",
+      "a": "The Rules set an administrative target of 180 days from receipt of the application for the authority to pass an order, though straightforward, lower-value matters are often disposed of faster than that in practice."
+    },
+    {
+      "q": "Can a hawala-type contravention under Section 3(a) be compounded by the RBI?",
+      "a": "No. Contraventions under Section 3(a), which cover dealing in or transferring foreign exchange through an unauthorised person, are compounded only by the Directorate of Enforcement, not by the Reserve Bank."
+    },
+    {
+      "q": "Is compounding unavailable if I have a similar contravention in my history?",
+      "a": "Not any longer in the way it once was. The Directions as amended in April 2025 no longer apply an automatic bar for a defined period; instead, a repeat applicant for a similar contravention pays a compounding fee increased by fifty per cent rather than being refused outright."
+    },
+    {
+      "q": "What happens if I cannot pay the compounding sum within fifteen days of the order?",
+      "a": "The order lapses, the application is treated as if it had never been filed, and the contravention stands exactly as it did before, leaving the Reserve Bank or the Enforcement Directorate free to proceed by ordinary adjudication instead."
+    },
+    {
+      "q": "Is online filing through the PRAVAAH portal compulsory for a compounding application?",
+      "a": "The portal has been made mandatory for certain categories of RBI applications, authorisations and approvals, but as things stand it has not displaced physical filing for a compounding application itself, and applicants should check the current requirement for their specific category before filing."
+    }
+  ],
+  "references": [
+    "Foreign Exchange Management Act, 1999, Section 3(a) (dealing in foreign exchange through an unauthorised person)",
+    "Foreign Exchange Management Act, 1999, Section 13(1) (penalty for contravention)",
+    "Foreign Exchange Management Act, 1999, Section 15 (power to compound contravention)",
+    "Foreign Exchange Management Act, 1999, Section 16 (adjudication)",
+    "Foreign Exchange Management Act, 1999, Section 37A (special provision relating to assets held outside India)",
+    "Foreign Exchange Management Act, 1999, Section 42 (contravention by companies)",
+    "Foreign Exchange Management Act, 1999, Section 46 (power to make rules)",
+    "Foreign Exchange (Compounding Proceedings) Rules, 2024, notified vide G.S.R. 566(E) dated 12 September 2024",
+    "Foreign Exchange (Compounding Proceedings) Rules, 2000 (superseded, continues to govern applications pending as on 12 September 2024)",
+    "Reserve Bank of India, Directions - Compounding of Contraventions under FEMA, 1999, dated 1 October 2024",
+    "Reserve Bank of India, amendment to the Directions on Compounding of Contraventions under FEMA, 1999, effective 22 April 2025",
+    "RBI PRAVAAH portal notification on mandatory online submission of specified applications, authorisations and approvals",
+    "Nishith Desai Associates, regulatory hotline on the Foreign Exchange (Compounding Proceedings) Rules, 2024",
+    "Cyril Amarchand Mangaldas, commentary on the Foreign Exchange (Compounding Proceedings) Rules, 2024",
+    "Taxmann, analysis of the new compounding regime under FEMA: Rules, Directions and the PRAVAAH portal",
+    "Taxmann, commentary on the April 2025 amendment removing linkage to earlier compounding orders",
+    "Taxmann, commentary on the Rs 2 lakh cap for non-reporting contraventions introduced in April 2025",
+    "AmLegals, analysis of key highlights of the Foreign Exchange (Compounding Proceedings) Rules, 2024"
+  ],
+  "related_pages": [
+    "/articles/foreign-investment-india-entry-routes-fema-article.html",
+    "/articles/nre-nro-fcnr-accounts-fema-article.html",
+    "/blog/fema-fdi-reporting-fcgpr-fctrs-guide.html",
+    "/blog/nri-oci-agricultural-land-farmhouse-fema-guide.html",
+    "/blog/liberalised-remittance-scheme-family-abroad-guide.html",
+    "/blog/income-tax-compounding-offences-guide.html"
+  ],
+  "sources": [
+    "https://www.corporateprofessionals.com/regulatoryupdate/new-compounding-regime-under-fema/",
+    "https://naiknaik.com/?p=7773",
+    "https://www.taxmann.com/post/blog/analysis-new-compounding-regime-under-fema",
+    "https://www.taxmann.com/post/blog/govt-notifies-new-rules-for-compounding-under-fema-specifies-list-of-non-compoundable-offences-expands-pecuniary-limits",
+    "https://www.taxmann.com/post/blog/rbi-eliminates-previous-order-linkage-in-fema-compounding-fresh-applications-to-be-considered-independently/",
+    "https://www.taxmann.com/post/blog/rbi-updates-compounding-norms-under-fema-caps-compounding-amount-at-rs-2-lakhs-for-non-reporting-contraventions",
+    "https://amlegals.com/foreign-exchange-compounding-proceedings-rules-2024/",
+    "https://corporate.cyrilamarchandblogs.com/2024/10/foreign-exchange-compounding-proceedings-baby-steps-or-revamped/",
+    "https://www.nexdigm.com/archived/taxstreet-october-2024/focus-point.php",
+    "https://vasai.icai.org/detail/52393.aspx",
+    "https://www.taxtmi.com/article/detailed?id=16074",
+    "https://www.advocatekhoj.com/library/lawareas/foreign/penalty.php",
+    "https://bhattandjoshiassociates.com/penalties-under-fema-what-you-need-to-know-about-fines-and-potential-consequences/",
+    "https://www.taxheal.com/faqs-penalty-under-fema.html",
+    "https://rbi.org.in/scripts/bs_viewcontent.aspx?Id=5082"
+  ],
+  "verification_notes": "AUDIENCE: NRI, foreign investor. TARGET QUERY: how to compound a FEMA violation / RBI compounding process and fee 2026. DEMAND EVIDENCE: none seen (no search-volume or trending data was observed; the topic was chosen because FEMA compounding is a recurring, high-stakes question for NRIs and foreign-invested companies regularising old filing gaps, and it is not yet covered by any existing article or blog guide on the site). The official RBI website (rbi.org.in and website.rbi.org.in) could not be reached directly from this session's network, so the figures in this piece rest on at least two independent secondary reporters agreeing with each other for each specific figure (the Rs 10,000 plus GST fee, the 12 September 2024 notification date and G.S.R. number, the 180-day disposal period, the 15-day payment window, the April 2025 amendment removing linkage to earlier orders and introducing the fifty per cent repeat-contravention surcharge, and the Rs 2 lakh cap for non-reporting contraventions). Where sources disagreed, specifically on the exact rupee thresholds for the intermediate officer tiers between Assistant General Manager and Chief General Manager, this piece states only the two endpoints both sets of sources agreed on and flags the middle tiers as needing direct confirmation, rather than stating a specific figure neither source set fully corroborated. Section 13, Section 15, Section 16, Section 37A and Section 42 of FEMA itself are long-standing, stable provisions confirmed across multiple independent secondary legal sources (taxtmi.com, advocatekhoj.com, bhattandjoshiassociates.com, taxheal.com) that were not available to be cross-checked against the India Code text directly in this session."
+}
