@@ -1,0 +1,92 @@
+{
+    "slug": "fssai-import-licence-labelling-foreign-food-business-guide",
+    "title": "FSSAI Import Licence and Labelling Rules for a Foreign Food Business Selling Into India",
+    "meta_description": "What a foreign food exporter needs to sell into India: FSSAI import licence, FICS clearance, and a label rule that cannot be fixed later, as on Nov 2026.",
+    "practice_area": "Food Safety & FSSAI",
+    "intro": [
+        "A foreign food manufacturer shipping its first consignment to India usually discovers two separate compliance tracks at once. One runs on the Indian importer's side, where a Central FSSAI licence and registration on the Food Import Clearance System are mandatory before anything clears customs. The other runs on the product itself, where the label has to carry specific declarations, country of origin chief among them, that cannot be fixed once the goods have landed if they are missing.",
+        "This note sets out what the Food Safety and Standards Act, 2006 and the Food Safety and Standards (Import) Regulations, 2017 actually require, how the Food Import Clearance System works in practice, and which labelling defects a consignment can correct in a bonded warehouse and which it cannot, as on November 2026."
+    ],
+    "sections": [
+        {
+            "heading": "Why this falls on the Indian importer, not the foreign exporter directly",
+            "paragraphs": [
+                "Section 25 of the Food Safety and Standards Act, 2006 brings every article of food imported into India within the Act, and the Food Safety and Standards (Import) Regulations, 2017 set out the procedure that follows from that. The licence itself has to sit with a food business operator based in India, typically the importer, its registered agent, or an Indian group entity, rather than with the foreign manufacturer. A foreign company's own entity, if it has no registered presence in India, generally has to route its shipments through an Indian importer who holds the import licence and the Importer Exporter Code issued by the Directorate General of Foreign Trade.",
+                "That does not make the arrangement a formality from the foreign manufacturer's side. The Indian importer's licence application, and every consignment cleared under it, depends on documentation that only the manufacturer can supply, including a full ingredient list, the product's composition, and manufacturing and shelf-life details, and the labelling obligations described further below attach to the product itself regardless of which entity technically holds the import licence."
+            ]
+        },
+        {
+            "heading": "The Central licence and what sits behind it",
+            "paragraphs": [
+                "Importing food into India requires a Central FSSAI licence, issued regardless of the importer's turnover, which is a stricter rule than the turnover-based threshold that decides whether a purely domestic food business needs a Central or a State licence. Along with the licence, the importer needs a valid Importer Exporter Code and, for the specific consignment, a complete list of the ingredients used in the product, since Indian food safety standards can differ from the exporting country's own permitted additives, colours and contaminant limits.",
+                "A foreign manufacturer should expect its Indian importer to ask for this information well before the first shipment, not at the port, because an Indian food safety officer reviewing the consignment later will be checking the product against Indian permitted-ingredient and contaminant standards, not against the exporting country's own regulatory approval for the same product."
+            ]
+        },
+        {
+            "heading": "How clearance actually runs: FICS and the Authorised Officer",
+            "paragraphs": [
+                "Every import consignment is referred through the Food Import Clearance System, an online platform that FSSAI operates in parallel with the Customs ICEGATE system, so that a Bill of Entry gets routed to an Authorised Officer for a food-safety decision alongside the ordinary customs process. The Authorised Officer is a person appointed by the FSSAI Chief Executive Officer specifically for this function at a given port, airport, inland container depot or special economic zone, and the powers and duties involved sit in Chapter IX of the 2017 Import Regulations. At some entry points, customs officers themselves are notified to perform this role rather than a separate FSSAI appointee, under notifications issued under Section 25 read with Section 47(5) of the Act.",
+                "The importer or its customs house agent has to be registered on FICS before clearance can proceed. From there, the usual sequence is document review, a decision on whether physical inspection and laboratory sampling are required for that category of product, and then either a No Objection Certificate or a Provisional No Objection Certificate once the consignment passes. Customs clearance follows only after FICS issues its decision, so a consignment with incomplete FICS registration or missing documentation sits at the port rather than moving, which is the most common reason first-time exporters face unplanned delay and demurrage."
+            ]
+        },
+        {
+            "heading": "Country of origin: the one labelling item that cannot be fixed later",
+            "paragraphs": [
+                "India's labelling rules require the country of origin to be declared on the label of every food article imported into India. Where a food is processed in a second country in a way that changes its nature, that second country, not the country where the raw ingredient originated, is treated as the country of origin for labelling purposes. Where the food is manufactured abroad but packed in India, the package has to carry both the foreign country of origin and the name and address of the Indian importer and the Indian packing or bottling premises.",
+                "FSSAI's order of 28 November 2023 allows most labelling deficiencies discovered on an imported consignment to be corrected inside a customs bonded warehouse rather than forcing the whole shipment to be sent back or destroyed. Country of origin is specifically excluded from that relief, along with lot or batch numbers and date marking. A consignment that arrives without a proper country of origin declaration on the label cannot simply have a sticker applied at the warehouse the way some other label defects can; exporters should treat this single declaration as something to get right before the goods ever leave the factory, not something to patch at the Indian end."
+            ]
+        },
+        {
+            "heading": "The rest of the label: what else has to be there",
+            "paragraphs": [
+                "Beyond country of origin, an imported food label needs the FSSAI logo and the importer's licence number, instructions for use where the product needs them, and a declaration of food allergens where applicable, on top of the ordinary requirements that apply to any food label sold in India, such as the list of ingredients, net quantity, manufacturing and expiry or best-before dates, and vegetarian or non-vegetarian marking. These requirements sit in FSSAI's packaging and labelling regulations, and several of them, unlike country of origin, fall within the categories the 2023 rectification order allows to be corrected at the bonded warehouse rather than requiring the goods to be turned back.",
+                "A foreign manufacturer supplying multiple markets usually finds it faster to build an India-specific label into its production run for Indian-bound stock, rather than relying on a sticker applied after the product reaches an Indian warehouse, because the rectification window helps only with the items the order actually covers and adds time and cost even for those."
+            ]
+        },
+        {
+            "heading": "What a first-time exporter should line up before the first shipment",
+            "paragraphs": [
+                "Before booking the first consignment, a foreign food business should confirm that its Indian importer, or its own Indian group entity if it has one, already holds a Central FSSAI import licence and is registered on FICS, and should supply the full ingredient and additive list for the product well in advance so the importer can check it against Indian permitted-use standards rather than discovering a mismatch at the port. The product's artwork should carry the country of origin declaration from the outset, built into the packaging rather than planned as a post-arrival fix, since that is the one item the 2023 rectification order will not help with.",
+                "Categories with a history of stricter scrutiny, including dairy, meat and meat products, and products containing novel ingredients or health claims, tend to draw more frequent sampling and a longer path to the No Objection Certificate, so a realistic lead time for the first shipment should assume laboratory testing rather than a document-only clearance. None of this is specific to one product category in the statute itself; Section 25 and the 2017 Regulations apply across the board, and the variation in practice comes from how FSSAI and customs treat different categories of food on the ground."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "q": "Can a foreign food manufacturer hold an FSSAI import licence directly?",
+            "a": "The licence sits with a food business operator in India, usually the importer or an Indian group entity, rather than with the foreign manufacturer directly. A foreign company without an Indian presence generally has to route shipments through an Indian importer who holds the Central licence."
+        },
+        {
+            "q": "Does a food importer need a Central or State FSSAI licence?",
+            "a": "Importing food into India requires a Central licence regardless of the importer's turnover. This differs from a purely domestic food business, where the Central or State licence requirement usually depends on turnover and scale."
+        },
+        {
+            "q": "What is the Food Import Clearance System?",
+            "a": "FICS is FSSAI's online platform, integrated with Customs ICEGATE, that routes an imported food consignment's Bill of Entry to an Authorised Officer for a food-safety decision alongside ordinary customs clearance. The importer or its customs house agent must be registered on it before a consignment can clear."
+        },
+        {
+            "q": "Can a missing country of origin label be fixed after the goods reach India?",
+            "a": "No. FSSAI's November 2023 rectification order allows most labelling deficiencies to be corrected in a customs bonded warehouse, but it specifically excludes country of origin, along with lot or batch numbers and date marking, so this declaration has to be correct on the label before the goods ship."
+        },
+        {
+            "q": "Does the FSSAI import licence alone satisfy requirements in the country the goods are exported from?",
+            "a": "No. An FSSAI import licence and clearance govern entry into India only. A foreign manufacturer still has to separately satisfy its own country's export requirements and any other destination country's import rules if it sells to multiple markets."
+        }
+    ],
+    "references": [
+        "Food Safety and Standards Act, 2006, Sections 25 and 47(5)",
+        "Food Safety and Standards (Import) Regulations, 2017, including Chapter IX on the Authorised Officer",
+        "Food Safety and Standards (Packaging and Labelling) Regulations, on country of origin declaration for imported food",
+        "FSSAI order dated 28 November 2023 on rectifiable labelling information for imported food consignments",
+        "Customs notification on Authorised Officers under Section 25 read with Section 47(5) of the FSS Act and Regulation 13(1) of the FSS (Import) Regulations, 2017"
+    ],
+    "sources": [
+        "https://fssai.gov.in/upload/uploadfiles/files/Food%20Imports%20Manual.pdf",
+        "https://ficsuat.fssai.gov.in/pdf/FAQs_Import.pdf",
+        "https://foodsafetyworks.com/fssai_updates/fssai-rectifiable-labelling-information-for-imported-food-consignments",
+        "https://www.fas.usda.gov/data/india-india-fssai-updates-rectifiable-labeling-information-imported-food-products",
+        "https://www.simpliance.in/India/EHS/govt_notification/Central/notification-of-authorised-officer-under-section-25-read-with-section-47-5-of-fss-act-2006-and-regulation-13-1-of-fss-imports-regulations-2017-dated-24062022",
+        "https://corpseed.com/knowledge-centre/FSSAI-Import-Clearance-Procedure"
+    ],
+    "verification_notes": "AUDIENCE: foreign company / foreign food manufacturer exporting to India for the first time. TARGET QUERY: what licence and labelling rules apply to a foreign food business selling into India. DEMAND EVIDENCE: none seen (no analytics opened; chosen because dedupe search found an existing guide on FSSAI compounding of offences, which concerns domestic enforcement after a violation, and a separate article on FSSAI enforcement, labelling claims and recalls, neither of which covers the import-licence and country-of-origin requirements a foreign exporter faces before its first shipment; checked against origin/main's search-index.json, origin/stage-final, research-batch-13 and research-articles). Section 25 of the FSS Act bringing imports within the Act, and the 2017 Import Regulations setting out the procedure: confirmed from the FSSAI Food Imports Manual and a second source (taxguru.in commentary on the authorised-officer notification), both describing the same statutory basis. The Central licence requirement regardless of turnover, and the Importer Exporter Code requirement: confirmed from two independent compliance-consultancy sources; left out any specific licence fee figure, since no figure was confirmed from two sources in this run. The Authorised Officer's basis under Section 25 read with Section 47(5) and Regulation 13(1), and that some entry points use customs officers instead of a separate FSSAI appointee: confirmed from the simpliance.in notification summary and a second taxguru.in source describing the same notification scheme. The FICS process, its integration with Customs ICEGATE, and the requirement that the importer or CHA be registered before clearance: confirmed from the FSSAI Food Imports Manual and the FICS FAQ document, both official FSSAI sources. The country of origin declaration requirement, the second-country processing rule, and the foreign-manufactured-but-India-packed labelling requirement: confirmed from two independent sources summarising the Packaging and Labelling Regulations text, both stating the same three rules in near-identical terms. The 28 November 2023 rectification order and its exclusion of country of origin, lot/batch numbers and date marking from bonded-warehouse correction: confirmed from two independent sources, foodsafetyworks.com and the USDA Foreign Agricultural Service's own reporting on the same FSSAI order, which is an official US government summary of an Indian regulatory action. Left out: any claim about a 2020 'Labelling and Display Regulations' replacing the 2011 Packaging and Labelling Regulations by name, because the search could not confirm the current regulation's title and date from two independent primary sources; the substantive labelling rules stated above are drawn from sources describing current practice rather than from a dated regulation number."
+}
