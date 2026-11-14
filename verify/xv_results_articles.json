@@ -1439,5 +1439,17 @@
     "reason": "Corrects the same unconfirmed repeat-contravention surcharge claim in the FAQ answer to match what fresh research found: a narrower, pre-2025 enhancement for non-payment-plus-reapplication on the same contravention, which was removed rather than replaced by a new broader surcharge."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/73-overseas-direct-investment-hni-family-business-oi-rules-article.json",
+  "verdict": "PASS",
+  "claims_checked": 15,
+  "evidence": [
+   "https://khaitanco.com/sites/default/files/2022-09/Ergo_06092022.pdf",
+   "https://www.scconline.com/blog/post/2023/05/26/changes-in-indias-overseas-investment-framework-addressing-the-round-tripping-dilemma/",
+   "https://www.barandbench.com/view-point/significant-reforms-in-the-indian-overseas-investment-regime",
+   "https://www.jsalaw.com/wp-content/uploads/2022/09/Liberalizing-the-Outbound-Investment-Framework-in-India-A-step-towards-Ease-of-Doing-Business-Lexology.pdf"
+  ],
+  "note": "The 2022 Rules' notification (G.S.R. 646(E), 22 August 2022), the ODI/OPI 10%-and-control test, the 400% net worth automatic-route ceiling and 50% OPI ceiling, the prohibited-activity list with the real-estate-development carve-out, the financial services three-year profit test and IFSC exemption with 45-day deemed approval, the Rule 19(3) two-layer round-tripping limit with its exemption for banks/NBFCs/insurers/government companies, the genuinely unsettled layer-counting debate, the USD 250,000 LRS cap for individual ODI, and the 31 December Form APR deadline are all independently corroborated by multiple sources in this run. All related_pages paths exist on the live site. One observation for the owner rather than a factual defect: a general-audience blog guide on the same core ODI/FEMA framework (/blog/overseas-direct-investment-fema-guide.html, live since 30 Oct 2026) already exists; this article is a materially deeper, HNI/family-business-focused piece (layering, financial services carve-out, succession planning) rather than a restatement, but the two are not currently cross-linked in related_pages, which the owner may want to add."
  }
 ]
