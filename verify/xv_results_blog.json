@@ -1339,7 +1339,7 @@
   "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
   "fixes": [
    {
-    "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
+    "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
     "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
     "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
    }
@@ -3177,5 +3177,29 @@
    "https://india-briefing.com/news/tax-digital-services-oidar-in-india-gst-applicability-and-compliance-22465.html"
   ],
   "note": "Confirmed: Finance Act 2023 removed the automated/minimal-human-intervention qualifier from the Section 2(17) IGST Act OIDAR definition and widened Section 2(16) non-taxable online recipient, both effective 1 October 2023; Section 14 fixes supplier liability only for non-taxable online recipients with reverse charge for registered business recipients; Rule 14 CGST Rules / Form GST REG-10 registration, certificate on REG-06; GSTR-5A monthly return due the 20th; 18% IGST rate with no input tax credit for the overseas supplier. A July 2026 ICSI publication confirms the 18% rate was left undisturbed by the September 2025 GST 2.0 reforms, so the guide reflects current law as of today. No contradicting sources found."
+ },
+ {
+  "file": "_drafts/daily/blog/10-resident-director-foreign-owned-indian-company-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://thelegalschool.in/blog/section-149-3-companies-act-2013",
+   "https://treelife.in/legal/resident-director-options-for-a-foreign-owned-indian-subsidiary/",
+   "https://ca2013.com/wp-content/uploads/2015/06/General-Circular-No.-25-2014.pdf",
+   "https://taxguru.in/company-law/eligibility-foreign-nationals-director-companies-act-2013.html"
+  ],
+  "note": "Section 149(3) 182-day rule, the Companies (Amendment) Act 2017 shift from calendar year to financial year, MCA General Circular 25/2014, Section 166 duties and Section 172 fallback penalty all independently confirmed. One source surfaced a claim that a 2020 rule temporarily reduced the figure to 120 days (an expired COVID relaxation); this does not contradict the draft since 182 days is correctly stated as the current standing rule. The draft's decision to withhold a specific penalty rupee figure given inconsistent reporting is a reasonable hedge. No duplicate found on origin/main."
+ },
+ {
+  "file": "_drafts/daily/blog/11-significant-economic-presence-equalisation-levy-foreign-digital-business-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.incometaxindia.gov.in/w/equalisation-levy-1",
+   "https://taxguru.in/income-tax/rule-11ud-thresholds-purposes-significant-economic-presence.html",
+   "https://www.bdo.in/en-gb/news/2024/relief-for-non-resident-e-commerce-operators-abolishing-the-equalisation-levy",
+   "https://theprint.in/economy/equalisation-levy-on-online-advertisements-to-be-abolished-from-april-1/2562910"
+  ],
+  "note": "Confirmed: 2% e-commerce levy withdrawn from 1 Aug 2024 (Finance (No.2) Act 2024); 6% online advertising levy withdrawn from 1 Apr 2025 (Finance Act 2025); Section 10(50) exemption sunset from AY 2026-27 per the Income Tax Department's own equalisation-levy page; Rule 11UD thresholds of Rs 2 crore and 3 lakh users effective 1 April 2022 (CBDT Notification 41/2021). On the one disputed point found in secondary commentary, whether Explanation 2A was inserted by the Finance Act 2018 or 2020, the draft's account (2018 insertion, with the effective date repeatedly deferred until thresholds were notified) matches the better-established narrative; a minority of secondary sources conflate the deferral amendment with the original insertion. No duplicate found on origin/main."
  }
 ]
