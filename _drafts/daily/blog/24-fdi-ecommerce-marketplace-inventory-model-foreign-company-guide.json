@@ -1,0 +1,98 @@
+{
+    "slug": "fdi-ecommerce-marketplace-inventory-model-foreign-company-guide",
+    "title": "FDI in Indian E-Commerce: Marketplace vs Inventory Model",
+    "meta_description": "Why a foreign-funded e-commerce platform in India must run a marketplace, not an inventory model, the 25 percent control test, and the 2026 export rule.",
+    "practice_area": "Corporate Law & M&A",
+    "intro": [
+        "A foreign company looking to sell to Indian consumers online runs into a structural rule before it ever gets to tax or consumer protection: India's foreign direct investment policy does not allow a foreign-funded e-commerce entity to hold and sell its own inventory to Indian buyers. Under the consolidated FDI policy, a platform with foreign investment can operate only as a marketplace, listing and facilitating sales between independent third-party sellers and buyers, not as a retailer selling goods it owns.",
+        "This distinction, between the marketplace model and the inventory-based model, drives almost every structuring question a foreign platform asks when entering India, including how much control it can exercise over any single seller on its platform, and it was only partly loosened in 2026 for a narrow category of export-focused business. This guide sets out the current rule, the control test that has tripped up large platforms before, and what actually changed."
+    ],
+    "sections": [
+        {
+            "heading": "Marketplace model: the only route open to foreign-funded platforms for domestic sales",
+            "paragraphs": [
+                "Under the consolidated FDI policy, one hundred per cent foreign investment is permitted under the automatic route in a business-to-consumer e-commerce marketplace, defined broadly as a platform that provides an information technology platform on a digital or electronic network to act as a facilitator between buyer and seller. The platform itself does not sell to the consumer; it earns through commissions, listing fees, logistics and other platform services, while title to the goods passes directly from the independent seller to the buyer.",
+                "Inventory-based e-commerce, where the entity owns the inventory of goods and services and sells directly to consumers, is not open to foreign investment for the domestic Indian market. A foreign retailer wanting to sell its own branded goods directly to Indian consumers online has, until the narrow 2026 change discussed below, generally had to do so either without foreign investment in the selling entity, through a single-brand retail trading route with its own separate conditions, or by selling through independent sellers on a marketplace rather than as the seller of record itself."
+            ]
+        },
+        {
+            "heading": "The twenty-five per cent control test",
+            "paragraphs": [
+                "A marketplace entity cannot simply route its own inventory through a nominally independent seller and call that compliance. The policy treats a vendor's inventory as controlled by the marketplace entity, and therefore outside the permitted model, once more than twenty-five per cent of that vendor's purchases come from the marketplace entity or its group companies. This test is why foreign-funded marketplaces in India have historically structured their relationships with large, platform-affiliated sellers carefully, keeping purchases from the marketplace group below that threshold and avoiding equity or other control relationships with preferred sellers that could tip a seller into being treated as the marketplace's own retail arm in substance.",
+                "Related conditions limit a marketplace's influence over pricing and sales terms: a marketplace entity and its related or group companies are barred from directly or indirectly influencing the sale price of goods sold by sellers on the platform, and from entering into exclusive arrangements with a vendor that would prevent that vendor from selling the same goods through other channels. These restrictions have been the subject of government scrutiny and enforcement action against major platforms over deep-discounting practices and preferred-seller structures, and they remain the practical core of what a foreign-funded platform's commercial and legal teams police on an ongoing basis, not a one-time compliance exercise completed at the time of entry."
+            ]
+        },
+        {
+            "heading": "The July 2026 export-only relaxation",
+            "paragraphs": [
+                "On 23 July 2026, the Department for Promotion of Industry and Internal Trade announced a change to the FDI policy allowing a foreign-invested e-commerce entity to run an inventory-based model, but solely for exporting goods made or produced in India, not for sale to Indian consumers. The relaxation was framed around boosting exports of Indian-made goods through foreign e-commerce platforms, and it was reported to particularly interest large global platforms already present in India through their marketplace arms.",
+                "The relaxation carries a structural condition that keeps it separate from ordinary domestic e-commerce: an entity undertaking this export-only inventory model cannot itself be a marketplace e-commerce entity, meaning an existing foreign-funded marketplace generally needs a separate legal entity to run the export-only inventory business rather than folding it into its existing platform. Domestic business-to-consumer sales to Indian buyers remain governed by the marketplace-only rule exactly as before, and the relaxation does nothing to change that for a platform whose business is selling to Indian consumers rather than exporting Indian-made goods abroad. At least one tracked version of the consolidated FDI policy text had not yet incorporated this change as of mid-2026, so a foreign investor relying on the relaxation should check the current master circular or press note text directly rather than an older consolidated policy document that may not yet reflect it."
+            ]
+        },
+        {
+            "heading": "Services beyond the sale of goods",
+            "paragraphs": [
+                "The marketplace-versus-inventory distinction is specific to the sale of goods and does not by itself govern every service a platform offers around that sale. Logistics, payment processing, warehousing and fulfilment services offered by or through the platform's group are permitted and commonly structured as separate group entities, provided they do not collapse into the kind of control over a vendor's inventory or pricing that the twenty-five per cent test and the pricing-influence restriction are designed to catch. A platform offering private-label or own-brand products through independent sellers, rather than selling them directly itself, needs to structure that relationship carefully for the same reason, since a private label sold predominantly through one seller that itself buys predominantly from the platform group risks the same control analysis as any other vendor relationship.",
+                "Separately, a marketplace is also subject to the Consumer Protection (E-Commerce) Rules, 2020, which impose disclosure, grievance redressal and seller-identification obligations on the platform regardless of the FDI structure; a platform that gets its FDI structuring right still has a distinct and ongoing set of consumer-facing compliance obligations to meet, and the two sets of rules are enforced by different authorities for different purposes."
+            ]
+        },
+        {
+            "heading": "Why this surfaces in due diligence and acquisitions",
+            "paragraphs": [
+                "A marketplace-versus-inventory question rarely gets raised for the first time at the point of market entry. It more often surfaces when a foreign strategic investor is buying into, or acquiring outright, an existing Indian e-commerce business that has grown its preferred-seller relationships informally over several years, and whose purchase and pricing arrangements with its largest sellers have never been tested against the twenty-five per cent threshold with any rigour. A buyer's legal due diligence on such a target should specifically trace purchase volumes between the platform's group companies and its top sellers by revenue, since a target that has quietly crossed the control threshold with one or more sellers carries a real regulatory exposure that a conventional commercial or financial diligence exercise can miss.",
+                "The same issue arises in reverse for a foreign platform already compliant in its own structure that is considering an India-focused joint venture or minority investment in a seller on its own marketplace: taking an equity stake, or agreeing commercial terms that function as de facto control, in a seller the platform also supplies can convert that seller into a deemed extension of the platform's own retail business for FDI purposes, even where neither side intended that result. Structuring any such investment with clear, arm's length purchase terms and without governance rights that amount to control of the seller's day-to-day buying and selling decisions is the usual way this risk is managed."
+            ]
+        },
+        {
+            "heading": "What this means for a foreign company entering the Indian market",
+            "paragraphs": [
+                "A foreign company planning to sell into India online should treat the marketplace requirement as a structuring constraint from the outset rather than a compliance detail to resolve after the business is running. That generally means setting up or contracting with independent sellers who genuinely buy and resell on their own account, keeping purchase volumes from any single seller below the twenty-five per cent threshold where the platform or its group is itself a supplier, and avoiding equity stakes, exclusivity terms or pricing instructions that would blur the line between facilitation and retail.",
+                "A foreign manufacturer whose principal interest is exporting goods made in India, rather than selling to Indian consumers, should look specifically at the July 2026 relaxation and its requirement of a dedicated, non-marketplace entity for that business, rather than assuming the relaxation lets an existing Indian marketplace subsidiary begin holding inventory for any purpose. Getting the entity structure wrong at this stage is the kind of error that surfaces later as a regulatory enforcement action or an adverse finding in due diligence on an acquisition or investment round, not as something easily corrected after the fact."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "q": "Can a foreign company that owns its own brand sell directly to Indian consumers through its own website?",
+            "a": "Not through a foreign-invested inventory-based e-commerce entity, for domestic sales. It can sell through independent sellers on a marketplace, structure the business as single-brand retail trading under that route's own conditions, or, if its real purpose is exporting India-made goods rather than domestic sale, consider the narrow export-only inventory relaxation introduced in July 2026."
+        },
+        {
+            "q": "What is the twenty-five per cent rule in e-commerce FDI?",
+            "a": "A seller's inventory is treated as controlled by the marketplace entity, taking it outside the permitted marketplace model, once more than twenty-five per cent of that seller's purchases come from the marketplace entity or its group companies. Platforms structure vendor relationships to stay under this threshold."
+        },
+        {
+            "q": "Does the 2026 change let foreign e-commerce platforms finally sell their own inventory to Indian consumers?",
+            "a": "No. The July 2026 relaxation permits an inventory-based model only for exporting goods made or produced in India, through a separate entity that cannot itself be a marketplace e-commerce entity. Domestic sales to Indian consumers remain restricted to the marketplace model exactly as before."
+        },
+        {
+            "q": "Can a marketplace entity influence the price at which sellers sell on its platform?",
+            "a": "No. The policy bars a marketplace entity and its related or group companies from directly or indirectly influencing the sale price of goods or services sold by sellers on the platform, and this restriction has been the basis for past regulatory scrutiny of deep-discounting and preferred-seller arrangements."
+        },
+        {
+            "q": "Are the FDI rules on e-commerce the same as the consumer protection rules for online sellers?",
+            "a": "No, they are separate regimes. The FDI policy governs how much foreign investment is allowed and in what structure. The Consumer Protection (E-Commerce) Rules, 2020 separately govern disclosure, grievance redressal and seller identification obligations on the platform, and apply regardless of how the FDI structuring is done."
+        }
+    ],
+    "references": [
+        "Consolidated FDI Policy, Department for Promotion of Industry and Internal Trade, paragraph 5.2.15 (e-commerce)",
+        "DPIIT press note, 23 July 2026 (export-only inventory-based e-commerce relaxation)",
+        "Consumer Protection (E-Commerce) Rules, 2020"
+    ],
+    "sources": [
+        "https://www.india-briefing.com/news/india-fdi-inventory-based-e-commerce-exports-rule-change-46324.html/",
+        "https://www.businesstoday.in/latest/corporate/story/govt-permits-fdi-in-inventory-based-ecommerce-model-for-exports-544908-2026-07-23",
+        "https://www.barandbench.com/law-firms/view-point/dpiit-relaxes-fdi-norms-for-export-oriented-inventory-based-e-commerce",
+        "https://www.livelaw.in/articles/unlocking-fdi-made-in-india-exports-analyzing-framework-inventory-based-ecommerce-547807",
+        "https://www.mondaq.com/india-opens-inventory-based-e-commerce-to-fdi-for-exports/1825674"
+    ],
+    "verification_notes": [
+        "AUDIENCE: foreign company",
+        "TARGET QUERY: can a foreign company sell directly to Indian consumers online, FDI marketplace vs inventory e-commerce rules",
+        "DEMAND EVIDENCE: live reporting across multiple outlets (India Briefing, Business Today, Bar and Bench, LiveLaw) on a 23 July 2026 DPIIT policy change was the trigger for choosing this topic now, treated as evidence of current relevance for a foreign-company reader rather than a stated search-volume figure; confirmed the topic is not already covered by searching origin/stage-final:assets/search-index.json for 'marketplace model', 'inventory based' and 'FDI in e-commerce', none of which returned a hit, distinct from the site's existing Consumer Protection e-commerce guides which address consumer-facing rules rather than the FDI structuring question",
+        "Marketplace model as the only FDI-permitted structure for B2C e-commerce, with inventory-based FDI barred for domestic sale: confirmed from india-briefing.com and businesstoday.in, both describing the pre-2026 baseline consistently before describing the July 2026 change against it",
+        "Twenty-five percent vendor-purchase control test and the bar on influencing sale price or entering exclusive vendor arrangements: confirmed from india-briefing.com and barandbench.com, both reproducing the same control and pricing-influence conditions from the consolidated FDI policy",
+        "23 July 2026 DPIIT press note permitting inventory-based FDI solely for export of India-made goods, through an entity that cannot itself be a marketplace e-commerce entity: confirmed from businesstoday.in, livelaw.in and barandbench.com, independently reported across at least three outlets with consistent description of the export-only scope and the separate-entity condition",
+        "Observation that a tracked version of the consolidated FDI policy master text had not yet incorporated the change as of mid-2026: taken from a single search summary describing a Master Direction snapshot; stated cautiously as a reason to check the current text rather than asserted as a continuing gap, since the underlying document itself was not independently opened in this run",
+        "Consumer Protection (E-Commerce) Rules, 2020 obligations existing separately from FDI structuring: this is settled, previously reported law already reflected in the site's live Consumer Protection coverage and was not re-searched in this run beyond confirming it remains in force"
+    ]
+}
