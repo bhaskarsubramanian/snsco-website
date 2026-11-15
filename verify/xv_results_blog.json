@@ -3271,5 +3271,57 @@
       "https://www.simpliance.in/India/EHS/govt_notification/Central/notification-of-authorised-officer-under-section-25-read-with-section-47-5-of-fss-act-2006-and-regulation-13-1-of-fss-imports-regulations-2017-dated-24062022"
     ],
     "note": "Independently confirmed the 28 November 2023 FSSAI order (F. No. TIC-B02/3/2023-IMPORTS-FSSAI) permits bonded-warehouse rectification of most labelling defects while excluding exactly the three items the draft names: country of origin, lot/batch number, and date marking; confirmed Section 25/Section 47(5)/Regulation 13(1) as the basis for Authorised Officer notifications at each port, and that some ports use customs officers in that role instead of a dedicated FSSAI appointee; confirmed the Central licence is mandatory for food importers regardless of turnover, alongside a DGFT Importer Exporter Code; confirmed the FICS registration and NOC/PNOC workflow. All checkable claims hold up against official FSSAI/FAS sources."
+  },
+  {
+    "file": "_drafts/daily/blog/18-foreign-arbitral-award-enforcement-india-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://arbitrationlaw.com/node/48430",
+      "https://conventuslaw.com/report/india-supreme-courts-recent-judgment-on/",
+      "https://www.azbpartners.com/bank/enforcement-of-foreign-arbitral-awards-vijay-karia-and-ors-v-prysmian-cavi-e-sistemi-srl-and-ors/",
+      "https://www.barandbench.com/view-point/time-for-reciprocity-why-india-should-recognise-uae-for-enforcement-of-arbitral-awards"
+    ],
+    "note": "Fuerst Day Lawson v Jindal Exports (2001) 6 SCC 356 single-window enforcement holding, Vijay Karia v Prysmian (2020, 'may' discretion, three-way classification, FEMA/public-policy holding) and the UAE's non-notified status under Section 44 despite 2020 CPC Section 44A notification are all independently confirmed. Draft's own hedging on timelines/limitation is appropriate given sources genuinely conflict."
+  },
+  {
+    "file": "_drafts/daily/blog/19-nri-tds-property-sale-lower-deduction-certificate-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://sbnri.com/blog/nri-income-tax/tds-certificate-for-nri-property-sale",
+      "https://www.taxbuddy.com/blog/how-a-lower-deduction-certificate-helps-nris-retain-sale-proceeds",
+      "https://taxguru.in/?p=855202"
+    ],
+    "note": "Section 195 withholding on gross consideration, the Section 197/Form 13 lower-deduction route via TRACES, the 24-month LTCG/STCG threshold and the buyer's TAN requirement are confirmed. Draft's deliberate refusal to state a single current TDS percentage is justified: sources still conflict on the post-Finance-Act-2024 rate."
+  },
+  {
+    "file": "_drafts/daily/blog/20-benami-transactions-prohibition-act-what-is-illegal-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.metalegal.in/post/supreme-court-revisits-constitutional-validity-recalling-union-of-india-v-ganpati-dealcom-judgment",
+      "https://www.thequint.com/opinion/supreme-court-review-on-resurrection-of-retrospective-proceedings-under-benami-law",
+      "https://www.verdictum.in/supreme-court/manjula-v-da-srinivas-2026-insc-465-clever-drafting-illusionary-cause-of-action-1613671",
+      "https://www.lawcurb.in/judgements/manjula-and-others-vs-d-a-srinivas-2026-insc-465"
+    ],
+    "note": "Section 2(9) definition and the four exceptions check out. But the draft's Ganpati Dealcom section is materially wrong: the Supreme Court did NOT 'confirm' the 2022 prospective-only ruling on review -- it RECALLED the 2022 judgment on 18 Oct 2024 (2024 INSC 799) and restored the appeal for fresh hearing before a new bench. Moreover, a later ruling (Manjula and Others v. D.A. Srinivas, 2026 INSC 465, 8 May 2026) held confiscation under the 2016 amendment IS a retrospective civil consequence (criminal prosecution remains prospective only) -- the opposite of what the draft tells readers. This is a live, practically important error for the HNI readers this guide targets.",
+    "fixes": [
+      {
+        "find": "The government sought a review of this ruling, and the subsequent decision, reported as Ganpati Dealcom (P.) Ltd. in later case digests, is understood to have confirmed that the unamended provisions were unconstitutional from the start and that the 2016 Act's criminal provisions remain prospective in operation. The practical effect for families is significant: an old property arrangement completed well before November 2016 is not exposed to confiscation or prosecution under the 2016 amendment's machinery merely because it would not have qualified for an exception if tested against today's definition. This does not mean old arrangements are immune from every form of scrutiny, civil disputes over title and beneficial ownership between family members themselves are unaffected by this ruling, but it does mean the government's own confiscation and prosecution powers under the amended Act are time-limited in their reach.",
+        "replace": "The government sought review of this ruling, and the Supreme Court did not confirm it: on 18 October 2024 a Bench recalled the entire 2022 judgment (Review Petition (C) No. 359 of 2023, reported as 2024 INSC 799), holding that the constitutionality of the unamended Act should never have been decided in the absence of a live dispute between the parties on that specific question, and restored the appeal for fresh adjudication by a new Bench. The 2022 prospective-only position was therefore not the last word, and a later ruling has gone the other way on confiscation: in Manjula and Others v. D.A. Srinivas, 2026 INSC 465 (8 May 2026), the Supreme Court held that confiscation under the 2016 amendment is a civil consequence attached to the property, not a penal consequence, so it is not barred by Article 20(1) and can apply to transactions completed before the 2016 amendment, while criminal prosecution under the Act's penal provisions remains prospective only. The practical effect for families is the reverse of what the earlier, now-displaced position suggested: an old property arrangement completed well before November 2016 can still be confiscated under the amended Act's machinery, even though its participants cannot be criminally prosecuted for it, and families should not assume an old arrangement is safe from confiscation merely because it predates 2016.",
+        "reason": "The 2022 ruling was recalled, not confirmed; a later 2026 ruling holds confiscation (not prosecution) applies retrospectively, the opposite of the draft's advice."
+      },
+      {
+        "find": "Following Union of India v. Ganpati Dealcom (2022), the 2016 amendment's confiscation and criminal provisions apply only prospectively, so a transaction completed well before the amendment generally falls outside that enforcement machinery, though civil disputes over the property between the parties themselves are a separate matter.",
+        "replace": "Possibly, yes. The 2022 Ganpati Dealcom ruling that treated confiscation as prospective-only was recalled by the Supreme Court in October 2024, and a later ruling, Manjula and Others v. D.A. Srinivas, 2026 INSC 465, held that confiscation under the 2016 amendment is a civil consequence that can reach a transaction completed before the amendment. Criminal prosecution remains prospective only, so the participants cannot be charged over a pre-2016 transaction, but the property itself is not automatically safe from confiscation merely because it predates 2016.",
+        "reason": "Same correction applied to the FAQ answer, which currently states the opposite of the Supreme Court's most recent ruling on confiscation retrospectivity."
+      },
+      {
+        "find": "\"Union of India and another v. Ganpati Dealcom Pvt. Ltd., 2022 (Supreme Court, prospective application of the 2016 amendment)\"",
+        "replace": "\"Union of India and another v. Ganpati Dealcom Pvt. Ltd., 2022 (Supreme Court; judgment recalled on review, 2024 INSC 799, and restored for fresh adjudication by a new Bench)\",\n    \"Manjula and Others v. D.A. Srinivas, 2026 INSC 465 (Supreme Court, 8 May 2026; held confiscation under the 2016 amendment is a retrospective civil consequence, while criminal prosecution remains prospective only)\"",
+        "reason": "Adds the superseding reference and corrects the status of the recalled 2022 citation."
+      }
+    ]
   }
 ]

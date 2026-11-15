@@ -1499,5 +1499,78 @@
         "reason": "Discloses that the operative instrument changed mid-2026, which the draft omits entirely despite being dated as on 14 November 2026."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/77-compulsory-licensing-patents-india-section-84-article.json",
+    "verdict": "PASS",
+    "claims_checked": 10,
+    "evidence": [
+      "https://ssrana.in/articles/bombay-high-court-dismisses-bayers-plea-indias-first-compulsory-licence-continues-as-ipabs-decision-upheld-by-the-court/",
+      "https://www.downtoearth.org.in/news/sc-rejects-bayers-appeal-against-compulsory-licence-for-nexavar--47850",
+      "https://www.azbpartners.com/bank/intellectual-property-appellate-board-abolished/",
+      "https://www.khuranaandkhurana.com/2021/07/08/delhi-high-court-comes-up-with-the-intellectual-property-division"
+    ],
+    "note": "Full Natco v Bayer chronology (grant March 2012, IPAB 4 Mar 2013, Bombay HC 15 July 2014, SC SLP dismissal Dec 2014), the BDR v BMS rejection, the IPAB abolition (4 April 2021 Ordinance) and Delhi HC IP Division (7 July 2021) are all independently confirmed. Draft's deliberate non-adoption of an unconfirmed 6%->7% royalty revision is appropriately cautious (one of my own sources also only partially supports that figure)."
+  },
+  {
+    "file": "_drafts/articles/78-benami-property-hni-family-holdings-article.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.metalegal.in/post/supreme-court-revisits-constitutional-validity-recalling-union-of-india-v-ganpati-dealcom-judgment",
+      "https://www.livelaw.in/supreme-court/scs-2024-order-allowing-union-to-seek-review-of-benami-act-cases-decided-relying-on-ganpati-dealcom-wrong-supreme-court-310018",
+      "https://www.lawcurb.in/judgements/manjula-and-others-vs-d-a-srinivas-2026-insc-465",
+      "https://equicorplegal.com/retrospective-enforcement-on-benami-property/"
+    ],
+    "note": "Excellent, well-hedged treatment of the Section 2(9)(A) exemptions, confiscation machinery, Section 53/54 penalties, and the 2022 Ganpati Dealcom recall (Oct 2024, 2024 INSC 799) plus the Nov 2025 order on the scope of that recall -- all independently confirmed. However, as of today (as_on_date 2026-11-15) the piece misses a material, dated development squarely within its own stated scope: Manjula and Others v. D.A. Srinivas, 2026 INSC 465 (8 May 2026), in which a two-judge Bench held that confiscation under the 2016 amendment is a retrospective civil consequence (criminal prosecution remains prospective only). The piece's 'What Remains Unsettled' section and FAQ currently state the retrospectivity question is wide open with 'no authority currently available allows it to be resolved responsibly' -- that overstates the gap; there is now a Supreme Court ruling on point, even though the restored 3-judge Ganpati Dealcom appeal itself remains pending.",
+    "fixes": [
+      {
+        "find": "A Supreme Court order reported in November 2025 went further and held that the liberty the 2024 recall order gave to reopen cases already decided on the strength of the 2022 ruling was itself wrongly granted, since a later overruling is not a ground to seek review of an earlier, final order.",
+        "replace": "A Supreme Court order reported in November 2025 went further and held that the liberty the 2024 recall order gave to reopen cases already decided on the strength of the 2022 ruling was itself wrongly granted, since a later overruling is not a ground to seek review of an earlier, final order. On 8 May 2026, a two-judge Bench in Manjula and Others v. D.A. Srinivas, 2026 INSC 465, held that the 2016 amendment's confiscation machinery is a civil consequence that can reach pre-2016 transactions even though the Act's criminal provisions remain prospective only, the most recent Supreme Court word on the point while the restored Ganpati Dealcom appeal remains pending before a three-judge Bench.",
+        "reason": "Adds the missing May 2026 ruling to the key points, since it is the most recent Supreme Court word on retrospective confiscation."
+      },
+      {
+        "find": "For a family with a pre-2016 arrangement facing a benami proceeding today, the honest advice is that the constitutional argument that looked decisive in 2022 is no longer available as settled law, and a defence built on retrospectivity needs to be argued on its merits before whichever bench eventually hears the matter afresh, rather than cited as something the Supreme Court has already decided. This is one of the genuinely unsettled points in this area of law, and any adviser who tells a family otherwise, in either direction, is overstating the current position.",
+        "replace": "The question has moved again since the November 2025 order. On 8 May 2026, a two-judge Bench of the Supreme Court in Manjula and Others v. D.A. Srinivas, 2026 INSC 465, held, in the course of deciding a separate succession and benami dispute, that the 2016 amendment's confiscation and attachment machinery is a civil consequence attached to the property rather than a penal consequence on a person, so it is not barred by Article 20(1) of the Constitution and can reach transactions completed before the amendment; the Bench held the Act's penal provisions, by contrast, remain prospective only. Manjula does not itself decide the restored Ganpati Dealcom appeal, which a three-judge Bench has yet to rehear, and commentary is divided on how far a two-judge ruling on this point binds pending that rehearing, but it is, as of today, the most recent word from the Supreme Court on retrospective confiscation, and it points the other way from the recalled 2022 position. For a family with a pre-2016 arrangement facing a benami proceeding today, the honest advice has therefore shifted: the constitutional argument that looked decisive in 2022 is no longer available as settled law, and the most recent Supreme Court authority on confiscation actually points toward retrospective application, while criminal prosecution for a pre-2016 transaction remains unavailable under either ruling. A defence built on retrospectivity needs to be argued on its merits, taking Manjula into account, before whichever forum hears the matter, rather than cited as something the Supreme Court has already decided either way.",
+        "reason": "The section ends by calling this 'one of the genuinely unsettled points' without mentioning the intervening Manjula ruling, which materially changes the practical advice."
+      },
+      {
+        "find": "The retrospectivity of the 2016 amendment is the clearest open question in this area as the law stands today. The Supreme Court's 2022 ruling that appeared to settle the point has been recalled, the matter awaits fresh adjudication before a different bench, and a 2025 order has further narrowed how far the recall itself can be used to reopen already final decisions, without resolving the underlying constitutional question on the merits. A family or an adviser relying on either outcome, that the amendment definitely cannot reach pre-2016 transactions, or that it definitely can, is stating a position the Supreme Court has not yet actually settled, and this piece does not resolve that disagreement because no authority currently available allows it to be resolved responsibly.",
+        "replace": "The retrospectivity of the 2016 amendment's confiscation and attachment machinery is less open than it was even a few months ago, though the point is still not finally closed by the bench that will actually decide the restored Ganpati Dealcom appeal. The Supreme Court's 2022 ruling that appeared to settle the point in favour of prospective-only operation was recalled in October 2024, and on 8 May 2026 a two-judge Bench in Manjula and Others v. D.A. Srinivas, 2026 INSC 465, held that confiscation is a civil consequence that can reach pre-2016 transactions, while the Act's criminal provisions remain prospective only. The three-judge Bench still due to rehear the restored Ganpati Dealcom appeal has not yet ruled, so a family relying on Manjula as the final word on confiscation, rather than as the most recent and currently most authoritative word pending that rehearing, is overstating how settled the point actually is; a family assuming the opposite, that confiscation definitely cannot reach a pre-2016 transaction, is simply wrong on the law as it currently stands.",
+        "reason": "This section currently says 'no authority currently available allows it to be resolved responsibly', which is no longer accurate given Manjula v. D.A. Srinivas."
+      },
+      {
+        "find": "This is currently unsettled. The Supreme Court held in 2022 that it could not, then recalled that judgment in October 2024 and sent the question back for fresh hearing. A further 2025 order narrowed how far that recall can be used to reopen cases that had already become final, without deciding the retrospectivity question itself on the merits.",
+        "replace": "As of today, yes for confiscation, no for prosecution. The Supreme Court held in 2022 that it could not, then recalled that judgment in October 2024 and sent the underlying constitutional question back for fresh hearing before a three-judge Bench that has not yet ruled. In the meantime, a two-judge Bench held on 8 May 2026, in Manjula and Others v. D.A. Srinivas, 2026 INSC 465, that the 2016 amendment's confiscation and attachment machinery is a civil consequence that can reach a pre-2016 transaction, while criminal prosecution under the Act remains available only for transactions after the amendment.",
+        "reason": "FAQ answer corrected to reflect the May 2026 ruling rather than describing the question as fully unsettled."
+      },
+      {
+        "find": "\"Union of India v. Virendra Amrutbhai Patel, reported as 2025 LiveLaw (SC) 1107 (order on the scope of liberty granted by the 2024 recall)\",",
+        "replace": "\"Union of India v. Virendra Amrutbhai Patel, reported as 2025 LiveLaw (SC) 1107 (order on the scope of liberty granted by the 2024 recall)\",\n    \"Manjula and Others v. D.A. Srinivas, 2026 INSC 465, Civil Appeal No. 7370 of 2026, decided 8 May 2026 (confiscation under the 2016 amendment held a retrospective civil consequence; criminal provisions held prospective only)\",",
+        "reason": "Adds the missing reference for the May 2026 ruling."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/79-foreign-governing-law-jurisdiction-clauses-india-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.cliffordchance.com/content/dam/cliffordchance/briefings/2021/04/Indian-supreme-court-rules-that-two-indian-companies-can-choose-a-foreign-seat-of-arbitration.pdf",
+      "https://corporate.cyrilamarchandblogs.com/2020/12/can-two-indian-parties-choose-foreign-law-to-govern-their-arbitration-agreement-the-delhi-high-court-answers-in-the-affirmative/",
+      "https://www.khaitanco.com/thought-leaderships/Government-Notification:-Decrees-passed-by-courts-of-UAE-can-now-be-executed-in-India"
+    ],
+    "note": "PASL Wind Solutions v GE Power Conversion (2021, 3-judge bench, foreign seat between two Indian parties plus Section 9 interim relief), Dholi Spintex v Louis Dreyfus (2020, foreign law governing arbitration between two Indian parties) and the Section 44A reciprocating-territory list (UK, Singapore, UAE, Hong Kong) are all confirmed. Classical authorities (Hakam Singh, A.B.C. Laminart, Swastik Gases, Modi Entertainment Network) are well-established and consistent with the draft's description."
+  },
+  {
+    "file": "_drafts/articles/80-prenuptial-postnuptial-agreements-india-hni-article.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/columns/legal-validity-of-pre-nuptial-agreements-155937",
+      "https://www.fd.ulisboa.pt/wp-content/uploads/2020/10/Family-Law-in-Goa-after-the-Act-of-2012.pdf",
+      "https://lawbhoomi.com/maintenance-under-section-144-of-bharatiya-nagarik-suraksha-sanhita/"
+    ],
+    "note": "Maintenance-waiver clauses being void under Section 23 public policy, Goa's Portuguese Civil Code communion-of-assets default with prenuptial opt-out to separation of assets, and BNSS Section 144 as the 1 July 2024 successor to CrPC 125 are all confirmed. Draft is appropriately candid in 'What Remains Unsettled' about the lack of a Supreme Court ruling squarely on point, and about not being able to re-verify the two named 1900/1960 Calcutta HC cases against primary text."
   }
 ]
