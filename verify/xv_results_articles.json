@@ -1572,5 +1572,79 @@
       "https://lawbhoomi.com/maintenance-under-section-144-of-bharatiya-nagarik-suraksha-sanhita/"
     ],
     "note": "Maintenance-waiver clauses being void under Section 23 public policy, Goa's Portuguese Civil Code communion-of-assets default with prenuptial opt-out to separation of assets, and BNSS Section 144 as the 1 July 2024 successor to CrPC 125 are all confirmed. Draft is appropriately candid in 'What Remains Unsettled' about the lack of a Supreme Court ruling squarely on point, and about not being able to re-verify the two named 1900/1960 Calcutta HC cases against primary text."
+  },
+  {
+    "file": "_drafts/articles/81-us-uk-estate-tax-nri-hni-cross-border-succession-article.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax-for-nonresidents-not-citizens-of-the-united-states",
+      "https://www.dechert.com/knowledge/onpoint/2025/8/obbba-dee-obbba-dah--life-goes-on--and-a-us-15-million-exemption.html",
+      "https://adviser.royallondon.com/technical-central/protection-guidance/inheritance-tax-and-related-manuals/long-term-resident-and-inheritance-tax/",
+      "https://www.taxadvisermagazine.com/article/inheritance-tax-and-foreign-doms-welcome-simplification",
+      "https://taxguru.in/?p=623141"
+    ],
+    "note": "India's 1985 estate duty abolition, the US $60,000 non-resident-alien exemption and 40% top rate with Form 706-NA, the absence of an India-US estate tax treaty, the OBBBA's $15M exemption from 1 Jan 2026, and the UK's Finance Act 2025 shift to a 10-of-20-year 'long-term resident' test from 6 April 2025 all confirmed from independent sources (IRS.gov, Dechert, Royal London, Tax Adviser Magazine). related_pages all verified against origin/main:assets/search-index.json. But the draft's claim that long-term resident status 'continues until they have been non-UK resident for 10 consecutive tax years' (stated flatly in the body and in an FAQ) overstates the exit rule for most people: the actual tail is tapered, from 3 tax years of non-residence for someone just over the 10-year threshold up to 10 years only for someone UK-resident 20+ years (Royal London, Tax Adviser Magazine, Albert Goodman all describe the sliding scale). Fixed in two places.",
+    "fixes": [
+      {
+        "find": "The general position is that an individual remains a long-term resident, and therefore within the worldwide scope of UK inheritance tax, until they have been non-UK resident for 10 consecutive tax years, a considerably longer tail than many families expect when they plan an exit. A spouse who is not themselves a long-term resident can also elect into long-term resident treatment in certain circumstances, and that election similarly persists until ten consecutive years of non-residence.",
+        "replace": "The general position is that an individual remains a long-term resident, and therefore within the worldwide scope of UK inheritance tax, for a tail period after leaving that scales with how long they were UK resident: as little as three tax years of non-residence for someone resident for 10 to 13 of the preceding 20 years, rising band by band to a full ten consecutive tax years of non-residence for someone who was UK resident for 20 years or more, a considerably longer tail than many families expect when they plan an exit, especially at the long end. A spouse who is not themselves a long-term resident can also elect into long-term resident treatment in certain circumstances, and that election is subject to the same tapered exit rule.",
+        "reason": "The 10-consecutive-year exit tail is only the maximum, applying to those UK-resident 20+ years; most long-term residents face a shorter tail (as little as 3 years), per Royal London Adviser and Tax Adviser Magazine commentary on the Finance Act 2025 reform."
+      },
+      {
+        "find": "No. Once someone becomes a long-term resident, that status generally continues until they have been non-UK resident for 10 consecutive tax years. Leaving the UK starts that clock; it does not end the exposure immediately.",
+        "replace": "No. Once someone becomes a long-term resident, that status continues for a tail period after leaving that depends on how long they were UK resident: as little as three tax years of non-residence for someone just over the 10-year threshold, rising to a full ten consecutive tax years only for someone who was UK resident for 20 years or more. Leaving the UK starts that clock; it does not end the exposure immediately, and for long-resident individuals the tail can run considerably longer than many expect.",
+        "reason": "Same correction to the FAQ answer: the 10-year tail is the maximum for 20+ years of residence, not a flat rule for everyone who becomes a long-term resident."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/82-alternative-investment-funds-india-hni-nri-guide-article.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://ksandk.com/investment/aif-regulations-2012-amendment/",
+      "https://incometaxindia.gov.in/w/pass-through-income",
+      "https://treelife.in/taxation/category-iii-aif-taxation-in-india/",
+      "https://elplaw.in/leadership/recent-changes-to-fema-rules-makes-it-easier-for-oci-holders-to-manage-aifs/"
+    ],
+    "note": "Rs 1 crore general minimum across Category I/II/III, Section 115UB pass-through for Category I/II with the business-income carve-out, Category III fund-level taxation, NRI eligibility and NRO's USD 1 million/year repatriation ceiling, and the 2024 FEMA change treating an OCI-controlled AIF manager/sponsor as domestic all confirmed from independent sources. However one related_pages link is broken: '/blog/rnor-returning-nri-fema-tax-residency.html' does not exist on origin/main; the live guide is at '/blog/rnor-returning-nri-fema-tax-residency-guide.html' (confirmed by listing origin/main:assets/search-index.json). Fixed.",
+    "fixes": [
+      {
+        "find": "/blog/rnor-returning-nri-fema-tax-residency.html",
+        "replace": "/blog/rnor-returning-nri-fema-tax-residency-guide.html",
+        "reason": "The draft's related_pages entry is missing the '-guide' suffix; the correct, live path (confirmed in origin/main:assets/search-index.json) is '/blog/rnor-returning-nri-fema-tax-residency-guide.html'."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/83-customs-ipr-border-enforcement-foreign-brand-owners-article.json",
+    "verdict": "FIX",
+    "claims_checked": 10,
+    "evidence": [
+      "https://www.scconline.com/blog/post/2018/06/26/the-intellectual-property-rights-imported-goods-enforcement-amendment-rules-2018-notified/",
+      "https://spicyip.com/2018/07/india-breaks-the-patents-customs-linkage-a-bit.html",
+      "https://www.legal500.com/intelligence/india/intellectual-property/patents-excluded",
+      "https://ksandk.com/tax/customs-recordation-ip-rights-india/",
+      "https://www.barandbench.com/news/delhi-high-court-passes-john-doe-order-favour-dabur-trademark-infringement-suit-against-websites"
+    ],
+    "note": "Section 11/156 Customs Act basis for the 2007 Rules, the all-India-ports effect of one recordal, the roughly five-year validity, Rule 8 inspection rights, Section 110/111(d) seizure and confiscation, and both named John Doe/Ashok Kumar cases (Luxottica Group v Ashok Kumar, 2011 SCC OnLine Del 5709, and Dabur India Ltd v Ashok Kumar, Delhi HC, 3 March 2022, CS(COMM) 135/2022) all independently confirmed; related_pages all verified against origin/main:assets/search-index.json. But the draft materially understates the patents position: a 2018 amendment (Notification No. 56/2018-Customs (N.T.)) removed 'patent' from the Rules' own definition of intellectual property, which took away customs' statutory power to suspend any shipment on a patent-infringement complaint entirely (confirmed independently by SCC Online Blog, SpicyIP and Legal500/Mondaq's 'Patents Excluded'). The draft instead describes patent border protection as merely 'narrower and more contested' while still available in principle, which is no longer accurate post-2018. Fixed in three places (key point, body section, FAQ).",
+    "fixes": [
+      {
+        "find": "Patent protection at the border is narrower and more contested than trademark, copyright or design protection, and a foreign patentee should not assume patent infringement alone will stop a shipment the way a recorded trademark will.",
+        "replace": "Patents were removed entirely from the customs recordal framework by a 2018 amendment to the 2007 Rules, which took 'patent' out of the Rules' own definition of intellectual property; customs has no statutory power to suspend an import on a patent-infringement complaint, so a foreign patentee cannot use this mechanism at all and must rely on civil remedies under the Patents Act, 1970.",
+        "reason": "Notification No. 56/2018-Customs (N.T.) removed patents from the 2007 Rules' definition of IP (confirmed by SCC Online Blog, SpicyIP and Legal500's 'Patents Excluded'), so patent border protection is not merely narrower, it is unavailable under this framework."
+      },
+      {
+        "find": "Patents sit in a narrower and more contested position. The statutory language does extend to patents in principle, and the prohibition, where it applies, is generally understood to cover products made outside India for sale, where an Indian patent is in force, except where the patentee's own consent has been obtained or importation is otherwise permitted under the Patents Act, 1970. Several practitioner sources nonetheless describe patent enforcement at the Indian border as practically narrower than trademark or copyright enforcement, partly because assessing patent infringement, unlike comparing a mark or a design against a registered image, often requires a technical, claim-by-claim analysis that a customs officer examining a shipment is not well placed to perform at the port. A foreign patentee should treat border measures as a secondary tool at best for patent protection, and rely primarily on civil and, where available, administrative remedies under the Patents Act.",
+        "replace": "Patents are not available at all. A 2018 amendment to the 2007 Rules (Notification No. 56/2018-Customs (N.T.)) omitted 'patent' from the Rules' definitions of intellectual property and intellectual property law, which took away customs' power to suspend clearance of a shipment on a patent-infringement complaint. Before 2018 the statutory language did extend to patents, but that is no longer the position: a foreign patentee cannot record a patent with Indian customs today, and should rely entirely on civil remedies under the Patents Act, 1970, since the border mechanism described in this piece simply does not reach patents any longer.",
+        "reason": "Multiple independent sources (SCC Online Blog, SpicyIP, Legal500/Mondaq) confirm the 2018 amendment removed patents from the Rules' definition of IP, so customs has no power at all over patent-infringement imports, not merely a narrower or more contested one."
+      },
+      {
+        "find": "Border protection for patents exists in principle under the same statutory framework, but it is narrower and more contested in practice than protection for trademarks, copyright or designs, partly because assessing patent infringement is a technical exercise that customs officers are not well positioned to carry out at the port. A patentee should treat border measures as a secondary tool and rely primarily on civil remedies under the Patents Act, 1970.",
+        "replace": "No, not through customs recordal. A 2018 amendment to the 2007 Rules removed patents from the Rules' own definition of intellectual property, so customs no longer has any power to suspend a shipment on a patent-infringement complaint. A patentee must rely entirely on civil remedies under the Patents Act, 1970, rather than any border measure.",
+        "reason": "Same correction applied to the FAQ answer: patent border protection is not merely narrower post-2018, it was removed from the framework entirely."
+      }
+    ]
   }
 ]
