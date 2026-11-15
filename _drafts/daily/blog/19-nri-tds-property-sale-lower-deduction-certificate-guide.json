@@ -1,0 +1,102 @@
+{
+  "slug": "nri-tds-property-sale-lower-deduction-certificate-guide",
+  "title": "NRI Property Sale: TDS Under Section 195 and Form 13",
+  "meta_description": "Why a buyer must withhold tax on the full sale price when buying from an NRI, and how a Section 197 lower deduction certificate on Form 13 fixes that.",
+  "practice_area": "Tax Litigation",
+  "intro": [
+    "An NRI selling property in India runs into one problem almost every resident seller avoids: the buyer is required to withhold tax under Section 195 of the Income Tax Act on the full sale consideration, not on the seller's actual gain, unless the seller has first obtained a certificate permitting a lower or nil rate. For a seller whose real tax liability is a fraction of the gross price, that gap can lock up a large part of the sale proceeds for months while a refund works its way through an income tax return filed after the fact.",
+    "The fix is procedural, not substantive: an application under Section 197, filed on Form 13 before the sale closes, asking the jurisdictional Assessing Officer to certify a lower or nil rate based on the seller's actual computed gain. Done early, it changes what the buyer withholds at source. Done late, or not at all, the seller is left waiting for a refund on money that was never really owed as tax in the first place."
+  ],
+  "sections": [
+    {
+      "heading": "Why the buyer withholds on the full price, not the gain",
+      "paragraphs": [
+        "Section 195 puts the withholding obligation on the buyer, resident or not, whenever a payment is made to a non-resident that is chargeable to tax in India, and property sale proceeds are treated this way regardless of how modest the seller's actual profit on the property turns out to be. The buyer has no way of independently verifying the seller's cost of acquisition, improvement costs, or exemptions claimed, and the law does not ask the buyer to make that judgment call. Absent a certificate from the tax department fixing a different rate, the buyer is expected to withhold at the rate applicable to the full consideration, which in practice can mean tax withheld on an amount many times larger than the seller's real capital gain.",
+        "This is the single biggest source of friction in NRI property sales, and it surprises first-time sellers the most. A seller who bought a flat decades ago for a small sum and is now selling for a large one may have a genuine capital gain and a genuine tax liability on it; a seller who bought at a price close to the current sale price, or who qualifies for exemptions under Sections 54 or 54EC by reinvesting the proceeds, may owe very little tax and still see a large sum withheld unless the certificate route is used."
+      ]
+    },
+    {
+      "heading": "Long-term and short-term gains, and why the rate itself needs checking at the time of sale",
+      "paragraphs": [
+        "Whether a gain is long-term or short-term turns on how long the property was held before sale; the generally used dividing line is twenty-four months, with property held longer taxed as long-term capital gains and property held for a shorter period taxed as short-term gains added to the seller's other income. The applicable rate for long-term gains on property changed with the Finance Act, 2024, which altered the choice between an indexed rate and a flat rate without indexation for property bought before the amendment, and sources on current TDS percentages are not consistent with each other at the time of writing. Rather than state a specific percentage that may already be out of date by the time this is read, the point to take away is structural: the rate is tied to the nature of the gain, carries a surcharge that increases at higher income slabs, and health and education cess on top, and it should be confirmed against the current Finance Act and the tax department's own TDS rate chart before a sale is structured.",
+        "Short-term gains are generally taxed as part of the seller's total income at the slab rate that would apply to that income, which for an NRI with limited other Indian income can look quite different from a wealthy resident's marginal rate. This is one more reason the blanket withholding on gross consideration overshoots the real liability so often, and why the certificate route is worth the paperwork for anything beyond a very small transaction."
+      ]
+    },
+    {
+      "heading": "Form 13 and the Section 197 certificate",
+      "paragraphs": [
+        "Section 197 lets a taxpayer who expects tax to be deducted at a rate higher than the final liability apply to the jurisdictional Assessing Officer for a certificate fixing a lower rate, or nil, instead. The application is filed as Form 13 online through the tax department's TRACES-linked system, and it is the seller, not the buyer, who files it, well before the sale is registered. The Assessing Officer reviews the computation, cost of acquisition with any indexation claimed, exemptions sought, and other income, and either issues the certificate at a reduced rate or declines to. This is a discretionary review on the facts placed before the officer; filing the form is not itself a guarantee of approval, and a seller with incomplete records or an aggressive exemption claim should expect more scrutiny, not less.",
+        "Once the certificate is issued, it names the rate the buyer is permitted to withhold, and the buyer deducts at that rate instead of the default rate on the full price. The certificate is specific to the transaction and the amount it authorises, and a seller planning more than one sale, or a sale in tranches, should check whether a fresh certificate is needed for the balance."
+      ]
+    },
+    {
+      "heading": "Timeline, documents and practical sequencing",
+      "paragraphs": [
+        "Processing commentary on how long a Form 13 application takes varies by source, with estimates running from a few weeks to a little over a month; the application should be filed as early as possible once a sale is seriously in prospect, and certainly before any agreement to sell fixes a closing date the seller cannot move. Filing after the sale deed is registered defeats the purpose entirely, since by then the buyer has already withheld at the default rate on the full consideration.",
+        "Commonly required documents include the original purchase deed and the proposed sale agreement, computation of the capital gain with supporting cost records, the seller's income tax returns for recent years, proof of any exemption claimed, and the buyer's PAN and TAN, since a buyer deducting tax under Section 195 is required to hold a TAN rather than relying on a PAN-based mechanism available for some resident-to-resident property transactions. Missing or inconsistent documentation is the most common reason applications take longer than expected or come back with queries from the Assessing Officer."
+      ]
+    },
+    {
+      "heading": "After the sale: filing a return and claiming relief abroad",
+      "paragraphs": [
+        "Tax withheld under Section 195, whether at the certificate rate or the default rate, is only a prepayment; the seller must still file an Indian income tax return for the year of sale to report the actual gain and reconcile it against the amount withheld, claiming a refund if the withholding exceeded the final liability. A seller who skips the certificate route and lets the buyer withhold on the full price is not permanently out that money, but is choosing to wait for a refund cycle rather than fixing the rate upfront.",
+        "Most NRIs' country of residence has a double taxation avoidance agreement with India, and tax paid in India on the property gain is ordinarily available as a credit against tax on the same income in the country of residence, subject to that country's own rules and any limits in the specific treaty. The mechanics of claiming that credit sit outside Indian procedure and depend on the seller's home country return, which is a separate filing exercise from anything done with the Indian Assessing Officer."
+      ]
+    },
+    {
+      "heading": "What commonly goes wrong",
+      "paragraphs": [
+        "The most frequent mistake is timing: a seller signs an agreement to sell with a closing date that leaves no real room for the Form 13 application to be filed and processed, and ends up accepting withholding on the full price simply because the deal cannot wait. Treating the certificate application as a step to start the moment a sale is seriously contemplated, rather than after a buyer has already been found and a date fixed, avoids most of this.",
+        "A second recurring problem is incomplete proof of the original cost of acquisition, particularly for property bought many years ago, inherited, or acquired through a series of transactions, gift, and family settlement. An Assessing Officer reviewing a Form 13 application will want documentary support for the cost claimed, and a seller who cannot produce the original purchase deed or comparable records should expect either a lower approved rate than hoped for or requests for further documentation that eat into the time available before closing. Buyers, for their part, sometimes resist cooperating with the certificate process because it adds a step to their own closing timeline; building that cooperation into the sale agreement itself, rather than negotiating it informally after signing, avoids a late dispute over who bears the consequences of a certificate that was not obtained in time."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can the buyer simply deduct tax at a lower rate without a certificate, if both sides agree the gain is small?",
+      "a": "No. Without a Section 197 certificate from the Assessing Officer, the buyer is expected to withhold under Section 195 at the default rate applicable to the full consideration. An informal understanding between buyer and seller does not protect the buyer from a shortfall demand later."
+    },
+    {
+      "q": "Who applies for the lower deduction certificate, the buyer or the seller?",
+      "a": "The seller applies, since the certificate is based on the seller's own computation of cost, gain and exemptions. The buyer only acts on the certificate once issued, by withholding at the rate it specifies instead of the default rate on the full consideration, so the seller has every incentive to start the application early and keep the buyer informed of its progress."
+    },
+    {
+      "q": "What happens if the certificate is still pending when the sale has to close?",
+      "a": "If the certificate has not been issued by the time payment is made, the buyer withholds at the default rate on the full consideration. The seller can still claim a refund later by filing a return, but the certificate route only helps if obtained before payment, not after."
+    },
+    {
+      "q": "Does the 24-month holding period apply to every kind of property?",
+      "a": "The long-term versus short-term distinction generally turns on the holding period, with property commonly treated as long-term once held beyond that threshold, but the exact rate applicable to the gain has changed with recent amendments and should be checked against the Finance Act in force for the year of sale rather than assumed from an earlier year's rule."
+    },
+    {
+      "q": "Is tax paid in India on the property sale creditable against tax owed in the NRI's country of residence?",
+      "a": "Usually, subject to the specific double taxation avoidance agreement between India and that country and that country's own domestic rules for claiming foreign tax credit. This is handled in the seller's home country tax filing, separately from the Indian certificate and return process."
+    }
+  ],
+  "references": [
+    "Income Tax Act, 1961, Section 195 (TDS on payments to non-residents)",
+    "Income Tax Act, 1961, Section 197 (certificate for lower or nil deduction) and Form 13",
+    "Income Tax Act, 1961, Sections 54 and 54EC (capital gains exemptions on reinvestment)",
+    "Finance Act, 2024 changes to long-term capital gains taxation on property (effective from 23 July 2024)"
+  ],
+  "sources": [
+    "https://sbnri.com/blog/nri-income-tax/tds-on-purchase-of-property-from-nri",
+    "https://learn.quicko.com/tds-on-purchase-of-property-from-nri",
+    "https://taxguru.in/income-tax/sale-property-india-non-resident-tax-tds-provisions.html",
+    "https://sbnri.com/blog/nri-income-tax/income-tax-form-13-for-lower-deduction-certificate",
+    "https://taxmann.com/post/blog/practical-guide-to-lower-or-nil-tds-certificate-for-nris",
+    "https://carajput.com/learn/lower-tds-certificate-for-nri-property-sales.html"
+  ],
+  "verification_notes": [
+    "AUDIENCE: NRI",
+    "TARGET QUERY: NRI selling property in India TDS and lower deduction certificate",
+    "DEMAND EVIDENCE: none seen (no search-volume or trending data observed); topic chosen as a core, recurring NRI question inside the firm's audience focus and Tax Litigation practice area, not found drafted on any checked branch",
+    "Section 195 obligation on the buyer to withhold on the full consideration absent a certificate: confirmed consistently from sbnri.com and taxguru.in, and taxadda.com, all describing withholding on gross sale value rather than net gain",
+    "24-month holding period distinguishing long-term from short-term property gains: confirmed consistently across sbnri.com, learn.quicko.com and taxguru.in",
+    "Specific current TDS percentage for long-term gains: NOT stated as a figure in the draft because sources conflicted (one source gave 12.5 percent post-23 July 2024 without indexation versus 20 percent with indexation pre-amendment; other sources still showed 20 percent generally) and could not be reconciled to a single confirmed figure from two fully agreeing sources in this run; the draft states only the structural position and flags that the rate should be checked against the current Finance Act, per STRICT_VERIFICATION",
+    "Form 13 filed under Section 197, processed through the TRACES-linked online system, reviewed by the jurisdictional Assessing Officer: confirmed from sbnri.com and taxmann.com/carajput.com describing the same filing route",
+    "Processing time for Form 13: sources disagreed (ranges from about two weeks to over a month, one citing a 30-day-from-month-end statutory figure that was not independently cross-confirmed by a second source in this run); the draft states only a general range and does not assert the 30-day statutory figure as confirmed",
+    "Buyer requiring a TAN rather than relying on PAN for Section 195 deduction: confirmed from carajput.com and policybazaar.com documents lists both naming the buyer's TAN as a required item",
+    "DTAA foreign tax credit availability: stated only in general terms, since no specific country's treaty mechanics were searched or confirmed in this run"
+  ]
+}
