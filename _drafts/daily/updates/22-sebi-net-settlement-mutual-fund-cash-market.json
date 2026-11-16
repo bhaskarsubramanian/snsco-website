@@ -1,0 +1,19 @@
+{
+  "slug": "sebi-net-settlement-mutual-fund-cash-market",
+  "title": "SEBI Allows Mutual Fund Schemes to Net Settle Cash Market Trades From April 2027",
+  "seo_title": "SEBI's New Mutual Fund Net Settlement Rule",
+  "practice_area": "Banking & Finance",
+  "court": "Securities and Exchange Board of India",
+  "case_name": "SEBI Circular on the Framework for Net Settlement of Funds for Mutual Fund Scheme Transactions in the Cash Market",
+  "citation": "Circular No. HO/24/13(1)/2026-IMD-POD-2/I/25242/2026 dated 5 November 2026",
+  "decision_date": "2026-11-05",
+  "reported_by": ["Moneylife", "LiveLawBiz", "Cafemutual"],
+  "sources": [
+    "https://www.moneylife.in/article/sebi-allows-net-settlement-of-funds-for-mutual-fund-schemes-from-april-2027-to-reduce-funding-requirements/82137.html",
+    "https://www.livelawbiz.com/securities-law/sebi/securities-and-exchange-board-of-india-allows-mutual-fund-schemes-net-funds-cash-market-transactions-april-2027-557664",
+    "https://cafemutual.com/news/industry/39236-sebi-allows-mutual-funds-to-net-cash-market-transactions-from-april-2027"
+  ],
+  "card_summary": "SEBI's circular of 5 November 2026 lets a mutual fund scheme net its fund pay-in and pay-out for outright cash market trades within the same settlement cycle, effective 1 April 2027. Only the money leg nets; securities still settle gross, and a scheme that both buys and sells the same security in a cycle cannot use this. SEBI had already given foreign portfolio investors this option in April 2026.",
+  "card_tip": "AMCs should confirm system readiness with custodians well before 1 April 2027, since trustees must review the netting process first, and it will not help a scheme that both buys and sells the same security in a cycle.",
+  "verification_notes": "AUDIENCE: HNI investors in mutual fund schemes who benefit from lower scheme-level funding costs and steadier NAV computation, with a secondary domestic angle for AMCs and custodians implementing the change. TARGET QUERY: what is SEBI's new net settlement rule for mutual funds. DEMAND EVIDENCE: none seen. Cross-verified from Moneylife, LiveLawBiz and Cafemutual, which agree the circular issued 5 November 2026 permits netting of the money leg only, at individual scheme level, for outright cash-market purchases and sales within the same settlement cycle, effective 1 April 2027, excludes a scheme that both buys and sells the same security in a cycle, and follows a similar framework SEBI gave foreign portfolio investors in April 2026 after a September 2026 consultation paper. The circular number is given by secondary reports as HO/24/13(1)2026-IMD-POD-2/I/25242/2026; the SEBI circular PDF itself was not opened directly in this run, so the exact circular number should be checked against sebi.gov.in before publication."
+}

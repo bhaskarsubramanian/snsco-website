@@ -1,0 +1,19 @@
+{
+  "slug": "cbic-scmtr-phased-export-message-migration",
+  "title": "CBIC Sets Phased Port-Wise Deadline to Retire Old Export Cargo Messages Under SCMTR",
+  "seo_title": "CBIC Sets SCMTR Export Message Cutover Dates",
+  "practice_area": "Tax Litigation",
+  "court": "Central Board of Indirect Taxes and Customs",
+  "case_name": "CBIC Circular on migration from the erstwhile export messages to the Sea Cargo Manifest and Transhipment Regulations, 2018",
+  "citation": "Circular No. 47/2026-Customs dated 1 November 2026 (F. No. 450/58/2015-Cus.IV(Pt.I)), read with Notification No. 90/2026-Customs (N.T.) dated 1 November 2026",
+  "decision_date": "2026-11-01",
+  "reported_by": ["World Trade Scanner", "Corp Law Updates", "TaxGuru"],
+  "sources": [
+    "https://worldtradescanner.com/47-CBIC%20Circular-01.11.2026.htm",
+    "https://www.corplawupdates.in/updates/cbic-circular-47-2026-scmtr-export-message-migration",
+    "https://taxguru.in/?p=1097362"
+  ],
+  "card_summary": "CBIC's Circular No. 47/2026-Customs, dated 1 November 2026, sets a port-by-port switch from old export cargo messages to the Sea Cargo Manifest and Transhipment Regulations, 2018 format. Rollout starts in the Thiruvananthapuram zone on 16 November 2026, and old export messages end everywhere by 31 January 2027. Exporters, brokers and shipping lines must move to SCMTR filing once their port's turn comes.",
+  "card_tip": "Check your port's SCMTR cutover date now and move export filings to the new format in advance, rather than waiting for the old export messages to stop working there.",
+  "verification_notes": "AUDIENCE: foreign company (exporters, importers and foreign shipping lines or freight forwarders adjusting EDI filings at Indian ports), with a secondary domestic angle for Indian customs brokers and terminal operators. TARGET QUERY: when do old export customs messages stop working under SCMTR. DEMAND EVIDENCE: none seen. Cross-verified from World Trade Scanner's posted circular text, Corp Law Updates' summary and TaxGuru's report, which agree on the circular number (47/2026-Customs), the 1 November 2026 date, the F. No. 450/58/2015-Cus.IV(Pt.I) reference, the 31 January 2027 final discontinuation date for old export messages per Annexure A, and the phased zone-wise rollout beginning 16 November 2026 in the Thiruvananthapuram zone. The underlying Notification No. 90/2026-Customs (N.T.) amending the SCMTR dates was not opened directly in this run. One source described the full zone-by-zone schedule beyond the Thiruvananthapuram start as provisional, so the card omits dates for other zones."
+}
