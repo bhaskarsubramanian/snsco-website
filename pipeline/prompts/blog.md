@@ -23,3 +23,6 @@ STANDING RULES FROM CLIENT (read origin/pipeline-config:pipeline/batch.json): ob
 
 
 DAILY MODE: read the DAILY_MODE field in origin/pipeline-config:pipeline/batch.json. It overrides the TARGET, per-run counts and 'up to 5' wording above: write only the daily quota stated there, then stop.
+
+
+WIDENING AND SEO TITLES (owner, 16 Nov 2026): read BLOG_WIDENING and DRAFT_SEO_TITLE_RULE in origin/pipeline-config:pipeline/batch.json. If fresh topics look scarce, widen formats and sub-topics inside the existing practice areas instead of writing nothing. Never add practice areas. Add a hand-written 'seo_title' (60 characters or fewer) to every draft.

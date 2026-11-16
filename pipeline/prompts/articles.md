@@ -22,3 +22,6 @@ STANDING RULES FROM CLIENT (read origin/pipeline-config:pipeline/batch.json): ob
 
 
 DAILY MODE: read the DAILY_MODE field in origin/pipeline-config:pipeline/batch.json. It overrides the TARGET, per-run counts and 'up to 5' wording above: write only the daily quota stated there, then stop.
+
+
+SEO TITLES (owner, 16 Nov 2026): read DRAFT_SEO_TITLE_RULE in origin/pipeline-config:pipeline/batch.json and add a hand-written 'seo_title' (60 characters or fewer) to every draft.
