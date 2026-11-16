@@ -1,0 +1,101 @@
+{
+ "slug": "significant-beneficial-owner-sbo-ben1-ben2-filing-guide",
+ "title": "Significant Beneficial Owner Filings Under Section 90: Who Must File BEN-1 and BEN-2, and When",
+ "seo_title": "SBO Filings Under Section 90: BEN-1 and BEN-2",
+ "meta_description": "Who counts as a significant beneficial owner under Section 90, when BEN-1 and BEN-2 are due, and what a layered holding structure gets wrong.",
+ "practice_area": "Corporate Law & M&A",
+ "format": "step-by-step process",
+ "intro": [
+  "An individual who holds at least ten percent of a company's shares, voting rights or dividend entitlement, directly or through other entities, or who otherwise exercises significant influence or control over it, is a significant beneficial owner under Section 90 of the Companies Act, 2013. That individual must declare the holding to the company on Form BEN-1, and the company must then report it to the Registrar of Companies on Form BEN-2 within thirty days of receiving the declaration.",
+  "The rule looks simple until a foreign parent sets up an Indian subsidiary through two or three intermediate holding entities in different jurisdictions, at which point the company has to trace the chain all the way up to a natural person before it can say with any confidence who its significant beneficial owners actually are. This guide sets out the test, the two filings, and where Indian subsidiaries of foreign groups most often get the analysis wrong."
+ ],
+ "sections": [
+  {
+   "heading": "Who counts as a significant beneficial owner",
+   "paragraphs": [
+    "The ten percent threshold under the Companies (Significant Beneficial Owners) Rules, 2018 is applied to shares, voting rights or the right to receive or participate in dividend or other distribution, whether that right is held directly in the reporting company or indirectly through one or more other entities in the chain above it. A person can also qualify without crossing ten percent on paper if they have the right to exercise, or actually exercise, significant influence or control over the company through means other than direct shareholding, such as a shareholders' agreement or a right to appoint a majority of directors.",
+    "The exercise is deliberately individual-focused. A holding company, a trust, or a fund sitting between the Indian subsidiary and the ultimate owner is never itself the significant beneficial owner; the Rules require tracing the chain upward through each layer until a natural person is identified, or until it becomes clear that no individual crosses the threshold, in which case a senior managing official of the ultimate holding entity is deemed the significant beneficial owner for reporting purposes. Getting this tracing wrong, usually by stopping at the first corporate shareholder instead of going further up the chain, is the most common compliance failure this provision produces."
+   ]
+  },
+  {
+   "heading": "Form BEN-1: the individual's declaration",
+   "paragraphs": [
+    "Once an individual meets the definition, the obligation to declare sits with that individual, not with the company. The declaration goes to the reporting company on Form BEN-1 and must set out the nature and extent of the interest held, including how it is held, whether directly or through the specific intermediate entities in the chain. A fresh BEN-1 is required when an individual first crosses the threshold, and again whenever there is a change in the significant beneficial ownership, such as a transfer that alters the percentage held or a restructuring that changes the entities sitting between the individual and the company.",
+    "This makes the obligation continuing rather than one-time, which is where groups with frequent internal restructurings, share transfers between group entities, or changes in ultimate promoters abroad tend to fall behind. An Indian subsidiary that was fully compliant at incorporation can drift out of compliance within a year if nobody tracks ownership changes happening several layers up in the foreign parent structure."
+   ]
+  },
+  {
+   "heading": "Form BEN-2: the company's return to the Registrar",
+   "paragraphs": [
+    "The reporting company, on receiving a BEN-1 declaration, must file Form BEN-2 with the Registrar of Companies within thirty days under Section 90(4) and Rule 4 of the Rules. The company is also required to maintain a register of significant beneficial owners in Form BEN-3, open for inspection, and to take reasonable steps itself to find out whether any individual is a significant beneficial owner of the company, rather than waiting passively for a declaration to arrive.",
+    "The Rules apply to every company incorporated under the Companies Act with limited exemptions, and the exempt categories are narrow enough that a company should not assume it falls outside the regime without checking the current text of the Rules; this guide does not list the exemptions because sources consulted for it did not agree closely enough on the current list to state it reliably."
+   ]
+  },
+  {
+   "heading": "Why foreign-owned Indian subsidiaries get the tracing wrong",
+   "paragraphs": [
+    "A typical structure runs an Indian operating company under a Singapore or Mauritius holding company, which in turn sits under a Cayman or Delaware fund vehicle, in which a handful of individual investors or a family office hold the controlling interest. Many Indian subsidiaries stop the SBO analysis at the first foreign holding company, record it as the shareholder of record under the ordinary register of members, and never ask who the natural persons controlling that holding company actually are.",
+    "That approach satisfies the register of members under Section 88 but does nothing for Section 90, which exists precisely because the register of members shows the registered shareholder and not the person who actually controls the economic and voting interest behind it. Private equity and venture-backed structures with rolling share transfers between SPVs are particularly prone to this gap, because each transfer at the SPV level can shift who the ultimate individual is without anyone at the Indian subsidiary noticing."
+  ]
+  },
+  {
+   "heading": "What happens if the declaration or filing is missed",
+   "paragraphs": [
+    "Section 90(10) penalises a failure to make the required declaration, and the Ministry of Corporate Affairs has issued adjudication orders applying a penalty in the range of fifty thousand rupees as a base amount, with an additional per-day amount for continuing default subject to an overall cap, in orders covering defaults running for well over a thousand days before being regularised. The exact current figures and the split between the individual's default and the company's or officers' default are set out in Section 90(10) and the Rules as amended, and a company facing a lapsed filing should check the current penalty structure rather than rely on an older figure, since this area has seen adjudication activity and rule changes over the past few years.",
+    "Separately, Section 90(7) gives a company a mechanism to apply to the National Company Law Tribunal for an order restricting the rights attached to the relevant shares, including suspension of voting rights and dividend, where a person required to make a declaration has failed to do so after the company has given notice. This is a company-side remedy against an uncooperative or unreachable beneficial owner, and it exists because the company, not just the individual, carries compliance exposure for a gap it cannot always force the individual to close."
+   ]
+  },
+  {
+   "heading": "Practical steps when setting up or auditing a subsidiary's compliance",
+   "paragraphs": [
+    "A foreign parent setting up an Indian subsidiary should map the full ownership chain down to natural persons at the point of incorporation, not after the first ROC notice. That means asking the holding entities above the Indian company, at each layer, who actually owns or controls them at the top, and keeping that chain documented and refreshed whenever a transfer happens anywhere above the Indian entity, including transfers the Indian company's own management may not be told about promptly.",
+    "Where the structure genuinely has no individual crossing the threshold, for instance because ownership is dispersed across a wide investor base with no single holder near ten percent, the company should still identify and record the senior managing official who is deemed the significant beneficial owner under the Rules, rather than concluding that the filing requirement simply does not apply. An annual compliance review that re-traces the chain, timed to the company's board meeting cycle, catches most of the drift that otherwise only surfaces when a lender, acquirer or regulator asks for the SBO register during due diligence."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is the significant beneficial owner the same person as the registered shareholder?",
+   "a": "Not usually. The registered shareholder on the register of members is often a holding company or fund. The significant beneficial owner is the natural person who, after tracing up the chain, actually holds or controls the qualifying interest. The two registers serve different purposes and can show different names entirely."
+  },
+  {
+   "q": "Does a wholly-owned subsidiary of a foreign company need to file BEN-2?",
+   "a": "Yes, if tracing the ownership chain above the subsidiary identifies an individual who crosses the ten percent threshold or exercises significant control. The fact that the direct shareholder is a single foreign company does not exempt the subsidiary; it only means the tracing has to go one or more layers further up."
+  },
+  {
+   "q": "What if no individual anywhere in the chain crosses ten percent?",
+   "a": "The Rules deem a senior managing official of the ultimate holding entity to be the significant beneficial owner for reporting purposes in that situation. The company still has a filing obligation; it does not become exempt simply because ownership is dispersed."
+  },
+  {
+   "q": "How often does the BEN-1 declaration need to be refreshed?",
+   "a": "Whenever there is a change in the significant beneficial ownership, such as a transfer anywhere in the chain that alters the qualifying interest or control. It is not a one-time filing made at incorporation and then forgotten."
+  },
+  {
+   "q": "Can a company force an uncooperative beneficial owner to declare?",
+   "a": "The company can apply to the National Company Law Tribunal under Section 90(7) for an order restricting the rights attached to the relevant shares, including voting and dividend rights, after giving the required notice. This is a remedy against the shares, not a way to compel the individual personally."
+  }
+ ],
+ "references": [
+  "Companies Act, 2013, Section 90 (as substituted by the Companies (Amendment) Act, 2017)",
+  "Companies (Significant Beneficial Owners) Rules, 2018, including Forms BEN-1, BEN-2 and BEN-3",
+  "Companies Act, 2013, Section 90(7) and 90(10)",
+  "Ministry of Corporate Affairs adjudication orders under Section 90(10) applying penalties for continuing default"
+ ],
+ "sources": [
+  "https://www.setindiabiz.com/blog/filing-of-form-no-ben-2-by-company-to-roc-to-declare-significant-business-owner-sbo",
+  "https://taxguru.in/company-law/failure-comply-section-90-significant-beneficial-owner-provisions-mca-imposes-penalty.html",
+  "https://calcguru.in/?p=9711",
+  "https://ssrana.in/?p=40926",
+  "https://www.icsi.edu/media/webmodules/Sensitization_SBO03112023.pdf"
+ ],
+ "verification_notes": [
+  "AUDIENCE: foreign company (structuring and auditing an Indian subsidiary's beneficial-ownership compliance)",
+  "TARGET QUERY: who has to file BEN-1 and BEN-2 for significant beneficial ownership in India",
+  "DEMAND EVIDENCE: none seen beyond a steady run of MCA adjudication orders and compliance-service pages on this topic found in this run; no specific search-volume or trending signal observed",
+  "Ten percent threshold on shares, voting rights or dividend entitlement, direct or indirect, plus the control test: confirmed from two independent sources (ssrana.in and setindiabiz.com) describing the same threshold and control test in materially the same terms.",
+  "BEN-1 filed by the individual to the company, BEN-2 filed by the company to the Registrar within thirty days of receiving BEN-1: confirmed from two independent sources (setindiabiz.com and taxguru.in) describing the same two-form structure and the thirty-day window under Rule 4.",
+  "Section 90(10) base penalty in the range of fifty thousand rupees with a per-day continuing amount subject to a cap, applied in actual MCA adjudication orders: confirmed from two independent sources (taxguru.in and calcguru.in), the second citing a specific adjudication order with a multi-year default period and a capped penalty amount. The exact current figures and the split between individual and company or officer penalties were not fully reconciled between sources, so the guide states the range without asserting a single precise figure as current law.",
+  "Senior managing official deemed the significant beneficial owner where no individual crosses the threshold, and the Section 90(7) remedy of restricting share rights through the National Company Law Tribunal: taken from the Rules and Section 90(7) directly rather than from a single secondary source; stated in general structural terms without a specific case citation, since no adjudicated case applying Section 90(7) specifically was confirmed in this run.",
+  "Left out: the current list of companies exempt from the SBO Rules, because sources in this run described the exemptions inconsistently (one limiting it to listed and government companies, another describing a broader exempt list) and the guide says plainly that the list should be checked rather than stating it."
+ ]
+}

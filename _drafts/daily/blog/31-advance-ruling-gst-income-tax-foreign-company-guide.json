@@ -1,0 +1,90 @@
+{
+ "slug": "advance-ruling-gst-income-tax-foreign-company-guide",
+ "title": "Advance Rulings for a Foreign Company in India: GST's AAR Versus the Income Tax Board for Advance Rulings",
+ "seo_title": "Advance Rulings in India: GST AAR vs Income Tax BAR",
+ "meta_description": "How a foreign company gets certainty on a GST or income tax question in India, and why the two advance ruling routes no longer work the same way.",
+ "practice_area": "Tax Litigation",
+ "format": "X vs Y comparison",
+ "intro": [
+  "A foreign company planning to set up in India, or an Indian subsidiary structuring a cross-border transaction, can ask for a binding answer on a GST question before it happens, through the jurisdictional Authority for Advance Rulings under the CGST Act. It cannot get the same certainty on an income tax question any more, at least not in the way it used to, because the income tax advance ruling mechanism was restructured in 2021 and no longer promises a binding outcome the way the old Authority for Advance Rulings did.",
+  "The two systems share a name and a similar idea, certainty before you act, but they diverge sharply on how binding the result is, who can apply, and how long it takes. This guide sets out both routes and flags the specific point, the loss of binding effect on the income tax side, that catches foreign investors who assume an advance ruling means the same thing under both laws."
+ ],
+ "sections": [
+  {
+   "heading": "GST advance rulings: the AAR and the appeal to the AAAR",
+   "paragraphs": [
+    "Under Sections 97 and 98 of the CGST Act, any registered person, or a person seeking registration, can apply to the state-level Authority for Advance Rulings on specified questions, such as classification of goods or services, applicability of a notification, determination of liability to pay tax, or whether a particular activity amounts to a supply at all. The application is filed on Form GST ARA-01 on the common portal with the prescribed fee, and the Authority is required to pronounce its ruling within ninety days of receiving the application, after giving the applicant and the jurisdictional officer an opportunity to be heard.",
+    "If either side is unhappy with the ruling, an appeal lies to the Appellate Authority for Advance Ruling within thirty days, extendable by a further thirty days on sufficient cause, with the applicant filing Form GST ARA-02 and the department's officer filing ARA-03. The AAAR is also expected to decide within ninety days of the appeal. Because each state runs its own AAR, two states have reached conflicting rulings on similar facts, which is why Sections 101A to 101C created a National Appellate Authority to resolve conflicting AAAR decisions, though that body's rollout has been gradual."
+   ]
+  },
+  {
+   "heading": "What a GST advance ruling actually binds",
+   "paragraphs": [
+    "A GST ruling binds only the applicant who sought it and the jurisdictional tax authorities in relation to that applicant, for the specific transaction described in the application, and only for as long as the facts and the law underlying it remain unchanged. It does not bind the department generally, and it does not help a different taxpayer running an identical business model, though in practice a reasoned AAR or AAAR ruling on a common fact pattern, such as the GST treatment of a particular cross-border service, tends to shape how other applicants and officers approach the same question.",
+    "For a foreign company this is still useful, because the uncertainty that matters most is usually about its own transaction, for example whether a particular cross-border service it supplies into India is taxable as an import of service or falls outside the GST net entirely. Getting a binding answer before invoicing starts, rather than after an assessment years later, converts an open tax exposure into a known cost that can be priced into the commercial arrangement."
+   ]
+  },
+  {
+   "heading": "Income tax advance rulings before 2021: the old AAR",
+   "paragraphs": [
+    "Under Section 245N of the Income Tax Act, a non-resident, or a resident entering into a transaction with a non-resident, could apply for an advance ruling on a question of law or fact relating to a transaction, and the older Authority for Advance Rulings issued a ruling that, under the law as it then stood, bound both the applicant and the tax department for that transaction, giving a foreign investor real certainty on contentious questions such as whether a particular cross-border restructuring attracted capital gains tax in India.",
+    "That certainty was the whole appeal of the mechanism for inbound investors structuring an acquisition, a group reorganisation, or the sale of shares in an Indian company, because it let them price tax risk before signing rather than litigating it for years afterward."
+   ]
+  },
+  {
+   "heading": "The 2021 change: the Board for Advance Rulings",
+   "paragraphs": [
+    "The Finance Act, 2021 replaced the Authority for Advance Rulings with the Board for Advance Rulings, an in-house body of serving income tax officers rather than the earlier Authority, which had included a retired judge and outside members. Non-resident applicants still file under Section 245N, using Form 34C, and a resident applicant dealing with a non-resident files Form 34D, so the categories of eligible applicant have not changed.",
+    "What has changed, on the account given by most commentators who have tracked the transition, is that a ruling from the Board is not treated as binding in the way the old Authority's ruling was, and both the applicant and the department can now approach the High Court if dissatisfied with the outcome, which is a meaningfully different proposition from a binding determination that closes the question. Sources differ on exactly how this plays out in practice and on the precise commencement date of the change, so a foreign investor relying on this route for a significant transaction should confirm the current binding status and procedure directly with counsel before treating a favourable ruling as final."
+   ]
+  },
+  {
+   "heading": "Why this matters for deal timing and structuring",
+   "paragraphs": [
+    "A foreign company weighing whether to seek certainty before a transaction should not assume the income tax route delivers the same finality as the GST route. For a GST question on an ongoing supply, applying for an advance ruling early in the life of the transaction remains a sound way to lock in treatment, because the binding effect, limited as it is to that applicant, is still real. For an income tax question on a one-off transaction such as a share sale or a restructuring, the Board route may still produce a useful, reasoned view of how the department is likely to approach the transaction, which has value for planning even without the old guarantee of finality, but it should not be the only safeguard built into deal timing where the tax exposure is large enough to matter.",
+    "Where the amounts involved are significant, many foreign investors now combine an application for a ruling with contractual protections in the transaction documents, such as tax indemnities or price adjustment mechanisms, precisely because the ruling alone may no longer be the last word if the department later disagrees and the matter ends up before the High Court instead of being closed at the ruling stage."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can any company apply for a GST advance ruling, or only foreign companies?",
+   "a": "Any person registered under GST, or applying for registration, can seek an advance ruling on the listed categories of questions. It is not limited to foreign companies, though foreign companies and their Indian subsidiaries use it heavily for cross-border supply and import-of-service questions."
+  },
+  {
+   "q": "Is a GST advance ruling binding on other taxpayers with the same question?",
+   "a": "No. It binds only the applicant and the jurisdictional authorities in relation to that applicant's specific transaction. Another taxpayer with an identical fact pattern has to apply separately, though a reasoned ruling can still be persuasive when officers or the AAAR consider a similar question."
+  },
+  {
+   "q": "Does the Board for Advance Rulings still give a binding decision on an income tax question?",
+   "a": "Most commentary on the 2021 change describes Board rulings as no longer binding in the way the old Authority's rulings were, with both sides able to approach the High Court if dissatisfied. Confirm the current position with counsel before relying on a ruling as final for a large transaction."
+  },
+  {
+   "q": "How long does a GST advance ruling take?",
+   "a": "The Authority is required to pronounce its ruling within ninety days of receiving a complete application, and the Appellate Authority is expected to decide an appeal within a further ninety days, though actual timelines can run longer depending on the state authority's workload."
+  }
+ ],
+ "references": [
+  "Central Goods and Services Tax Act, 2017, Sections 97, 98, 100 and 101",
+  "Central Goods and Services Tax Act, 2017, Sections 101A to 101C (National Appellate Authority for Advance Ruling)",
+  "Income Tax Act, 1961, Section 245N (as amended by the Finance Act, 2021)",
+  "Finance Act, 2021 (replacement of the Authority for Advance Rulings with the Board for Advance Rulings)"
+ ],
+ "sources": [
+  "https://tallysolutions.com/gst/advance-ruling-under-gst-meaning-process-and-benefits/",
+  "https://taxguru.in/goods-and-service-tax/procedure-checklist-obtaining-advance-rulings-gst.html",
+  "https://www.barandbench.com/amp/story/law-firms/view-point/the-viewpoint-whither-advance-ruling-under-income-tax-law",
+  "https://taxcorner.co.in/2021/03/board-for-advance-rulings-to-replace-authority-for-advance-rulings-aar.html",
+  "https://www.azbpartners.com/bank/bar-the-unfulfilled-promise-of-aar/"
+ ],
+ "verification_notes": [
+  "AUDIENCE: foreign company (pre-transaction tax certainty for inbound investment and cross-border supply)",
+  "TARGET QUERY: how does an advance ruling work for a foreign company in India, GST versus income tax",
+  "DEMAND EVIDENCE: none seen beyond consistent commentary on the 2021 income-tax change across multiple law-firm and journal sources found in this run; no specific search-volume signal observed",
+  "GST advance ruling structure under Sections 97, 98 and 100, including the ninety-day timeline for the AAR and AAAR and the Forms ARA-01/02/03: confirmed from two independent sources (tallysolutions.com and taxguru.in) describing the same sections, forms and ninety-day timeline, though the application and appeal fee figures conflicted between sources and are therefore not stated.",
+  "GST ruling binding only the applicant and jurisdictional officers for that transaction: stated directly from Section 103 of the CGST Act's known scheme and corroborated by both GST sources above describing the same limited binding effect.",
+  "Replacement of the AAR by the Board for Advance Rulings under the Finance Act, 2021, and the loss of binding effect with both sides able to approach the High Court: confirmed from two independent sources (barandbench.com and azbpartners.com) both describing the same shift from a binding authority to a non-binding board, though they did not fully agree on the exact commencement date, so the guide does not state a single date as settled.",
+  "Forms 34C and 34D for non-resident and resident-with-non-resident applicants under Section 245N: taken from the Income Tax Act's own form scheme as described consistently across the income-tax sources reviewed.",
+  "Left out: the precise current application and appeal fees for GST advance rulings, and the exact 2021 commencement date for the Board for Advance Rulings, because sources in this run gave conflicting figures and dates for both."
+ ]
+}
