@@ -1,0 +1,206 @@
+{
+  "slug": "enforcing-maintenance-nri-absconding-spouse-article",
+  "title": "Enforcing Maintenance and Alimony When the Paying Spouse Is an NRI or Has Gone Missing",
+  "subtitle": "A maintenance order is only as useful as the machinery behind it. When the person it binds has moved abroad, stopped responding, or simply disappeared, the order itself rarely changes; what changes is how much work it takes to make it count.",
+  "meta_description": "How maintenance orders against an NRI or absconding spouse are enforced in India: BNSS, the Hindu Marriage Act, passport impounding and asset attachment.",
+  "practice_area": "Family Law",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Chandrayee Roy",
+      "role": "Associate, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-16",
+  "seo_title": "Enforcing Maintenance Against an NRI Spouse",
+  "standfirst": "The spouse left behind in India after a marriage breaks down usually gets a maintenance order without too much difficulty. Getting it actually paid is a different undertaking entirely once the other spouse has moved abroad, changed phone numbers, or stopped engaging with the Indian legal process altogether. Indian law gives a deserted spouse several distinct tools for this situation, a criminal maintenance order that can be recovered like a fine, a civil decree that can be executed against property, a passport that can, under narrow conditions, be impounded, and a disclosure procedure the Supreme Court tightened in 2020 specifically to stop a paying spouse from hiding income. None of these tools works by itself, and several of them are easy to use incorrectly, including one, the Look Out Circular, that courts have repeatedly warned against treating as a routine matrimonial remedy.",
+  "key_points": [
+    "A deserted spouse can seek maintenance through three separate statutory routes, a criminal application under Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (the successor to Section 125 of the Code of Criminal Procedure, 1973), a civil claim under Sections 24 and 25 of the Hindu Marriage Act, 1955, or monetary relief under Section 20 of the Protection of Women from Domestic Violence Act, 2005, and the choice affects how the order is later enforced.",
+    "An order for arrears of maintenance under the BNSS can be recovered the way a fine is recovered under Section 461 of the BNSS (the successor to Section 421 of the CrPC), by attachment and sale of the defaulter's movable property in India or, failing that, by having the arrears realised as arrears of land revenue against immovable property.",
+    "A maintenance order under the Hindu Marriage Act is enforceable as a decree of a civil court under Section 28-A of that Act, which opens the full range of civil execution remedies under the Code of Civil Procedure, including attachment of property situated in India.",
+    "The Supreme Court's 2020 ruling in Rajnesh v. Neha requires both spouses in a maintenance proceeding to file a sworn affidavit of assets and liabilities in a standard format, a disclosure obligation that applies regardless of where the respondent spouse is actually living and that a court can act on even if that spouse never files a reply.",
+    "Only the passport authority can impound a passport under Section 10(3) of the Passports Act, 1967; neither a criminal court nor the police can impound a passport directly, and the Supreme Court held in 2025 that impounding a passport merely because multiple cases have been filed, without giving the passport holder a hearing, is itself illegal.",
+    "A Look Out Circular is meant for a person deliberately evading arrest or trial in a cognizable criminal matter, not as a routine tool in a matrimonial dispute, and the guidelines the Delhi High Court laid down in 2010 in Sumer Singh Salkan v. Assistant Director continue to be applied to restrict when one can be issued.",
+    "An Indian court's execution process reaches only property actually situated in India; where the paying spouse has moved assets abroad, the deserted spouse's practical options are to attach what remains in India, or to pursue recognition and enforcement of the Indian order in the foreign country where the spouse now lives, which depends on that country's own law.",
+    "A 2019 bill that would have let passport authorities impound an NRI's passport for failing to register an overseas marriage within 30 days lapsed without being enacted, and no equivalent central law has since taken its place, so claims that such a passport sanction already exists in Indian law are not currently accurate."
+  ],
+  "sections": [
+    {
+      "heading": "An Order Is Not the Same Thing as Money in Hand",
+      "paragraphs": [
+        "Most of the legal effort in a maintenance dispute goes into getting the order itself, establishing the marriage, the need, the respondent spouse's capacity to pay, and arriving at a figure a court is willing to fix either as interim support during the case or as a final award once it concludes. Where the paying spouse has emigrated, stopped responding to summons, or is actively concealing income and assets, that effort is only the first half of the problem. The order exists, it is legally valid, and it still has to be turned into money actually reaching the spouse it was made for, which is where most of the genuinely difficult work in these cases happens.",
+        "This piece sets out the enforcement tools Indian law actually gives a deserted spouse once an order is in hand and the other side is abroad, uncooperative, or both: the criminal and civil routes to the order itself, the disclosure procedure meant to stop income from being hidden, and the narrower, more frequently misunderstood tools, passport impounding and Look Out Circulars, that come up constantly in these cases and are just as often used incorrectly as they are used well."
+      ]
+    },
+    {
+      "heading": "Three Routes to a Maintenance Order, and Why the Choice Affects Enforcement Later",
+      "paragraphs": [
+        "A spouse seeking maintenance in India is not confined to a single statute. A criminal application under Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023, which took over from Section 125 of the Code of Criminal Procedure, 1973 for proceedings commenced from 1 July 2024 onward, remains available regardless of religion and is usually the fastest route to an interim order. A Hindu wife or husband can separately claim maintenance pendente lite under Section 24 of the Hindu Marriage Act, 1955 while a matrimonial case is pending, and permanent alimony under Section 25 once it concludes. A wife, whatever her religion, who has faced domestic violence as that Act defines it can also claim monetary relief under Section 20 of the Protection of Women from Domestic Violence Act, 2005, as part of a broader set of civil protections that statute provides.",
+        "These routes are not mutually exclusive, and it is common practice, and generally permissible subject to adjustment for double recovery, to pursue more than one simultaneously, typically a criminal application for a quick interim order while a civil matrimonial case and its own maintenance claim proceed in parallel. The choice matters for enforcement because each route carries a different execution mechanism once the order is made, and a spouse who has not thought through which mechanism actually reaches the specific assets the other spouse holds, movable property in India, immovable property in India, or income that may or may not be traceable at all once it crosses a border, often ends up with an order that is correct in principle and difficult to collect on in practice."
+      ]
+    },
+    {
+      "heading": "The Criminal Route: Section 144 BNSS and Recovery as a Fine",
+      "paragraphs": [
+        "Section 144 of the BNSS carries forward, in substance, the maintenance framework that operated for decades under Section 125 of the CrPC, and reported commentary on the transition suggests the two provisions are close enough in text that the large body of case law built up under Section 125 continues to guide how Section 144 is interpreted and applied. Where the Magistrate's order for maintenance, whether interim or final, is not complied with, the enforcement mechanism that gives this route its practical force is the power to recover the amount due as though it were a fine, following the procedure for levy of a fine that now sits at Section 461 of the BNSS, the successor to Section 421 of the CrPC.",
+        "That procedure gives the Magistrate two distinct avenues: issuing a warrant for attachment and sale of the defaulting spouse's movable property found in India, or, where that does not satisfy the arrears, issuing a warrant to the district Collector to realise the amount as arrears of land revenue, a route that can reach immovable property as well. Where recovery through either avenue still fails, the defaulting spouse remains exposed to a sentence of imprisonment for the default, a consequence meant to apply pressure on a spouse who has the means to pay but is simply refusing to, rather than one genuinely unable to pay.",
+        "For a spouse whose counterpart has moved abroad, the practical value of this route depends heavily on whether the defaulting spouse retains identifiable movable or immovable property inside India, a family home, a bank account, shares, a vehicle still registered locally, since the warrant for attachment and sale operates only within India. A spouse who moved every asset out of the country before leaving presents a materially harder enforcement problem than one who left behind a house or a locker, and this is precisely the gap the disclosure procedure discussed below was designed to help close."
+      ]
+    },
+    {
+      "heading": "The Civil Route: Hindu Marriage Act Sections 24, 25 and 28-A",
+      "paragraphs": [
+        "Where the parties are proceeding under the Hindu Marriage Act, an order for maintenance pendente lite under Section 24, or for permanent alimony under Section 25, is enforceable as a decree of a civil court under Section 28-A of that Act, which was inserted specifically to put orders made under the Act on the same enforcement footing as an ordinary civil decree rather than leaving the successful spouse to separately sue on the order. This opens the full machinery of execution under the Code of Civil Procedure, 1908, including attachment and sale of movable and immovable property, attachment of salary or other periodic payments where these can be identified and reached, and the range of coercive measures available to a civil court executing a money decree generally.",
+        "Courts have taken a reasonably practical view of how an unpaid Section 24 order should be treated pending full execution proceedings, generally accepting that a party entitled to interim maintenance can move directly under Order XXI of the Code of Civil Procedure to execute the amount due rather than waiting for the underlying matrimonial petition to conclude, which matters because the point of interim maintenance is to support the applicant while the case is still pending, not years later once a final decree issues.",
+        "The civil decree route and the criminal Section 144 BNSS route are not meant to produce double recovery, and a spouse who has secured both an interim order under Section 24 and an order under Section 144 should expect a court to adjust one against the other rather than treat the two as cumulative entitlements, a point reported directions on maintenance enforcement have made in setting out how multiple routes to the same relief should be reconciled."
+      ]
+    },
+    {
+      "heading": "The Domestic Violence Act's Monetary Relief",
+      "paragraphs": [
+        "A wife who has experienced domestic violence, defined broadly under the 2005 Act to include economic abuse alongside physical harm, can claim monetary relief under Section 20 of that Act as part of the wider protective order a Magistrate can grant, covering loss of earnings, medical expenses, loss caused by destruction or damage to property, and maintenance for herself and any children. An order under Section 20 is enforceable under Section 20(6) of the Act in the manner the Magistrate directs, and reported directions on reconciling the various maintenance routes treat this enforcement mechanism as sitting alongside, rather than displacing, the Hindu Marriage Act and BNSS routes discussed above.",
+        "This route carries a procedural advantage for a wife whose husband has moved abroad: an application under the 2005 Act proceeds before a Magistrate using a comparatively informal procedure designed to move faster than a full civil suit, and the protective and monetary relief it offers can often be obtained, at least on an interim basis, well before a parallel Hindu Marriage Act petition reaches the stage of a final decree."
+      ]
+    },
+    {
+      "heading": "Rajnesh v. Neha: Making an NRI Spouse's Income Harder to Hide",
+      "paragraphs": [
+        "The Supreme Court's decision in Rajnesh v. Neha, delivered on 4 November 2020 and reported at (2021) 2 SCC 324, was aimed squarely at the problem of maintenance proceedings turning into a contest over incomplete or misleading financial disclosure, a problem that an NRI respondent's physical distance and foreign-held assets make considerably worse. The Court directed that both parties in a maintenance proceeding, in every court and tribunal across the country, file a sworn affidavit of disclosure of assets and liabilities in a standard format the judgment itself set out, covering income, movable and immovable property, liabilities and monthly expenditure, with the respondent required to file a reply affidavit within a defined period after the applicant's affidavit.",
+        "Two features of this disclosure procedure matter specifically for a spouse facing an absent or uncooperative NRI respondent. First, the obligation to file the affidavit does not depend on the respondent spouse's cooperation or even presence in India; a court can proceed to decide the maintenance application on the applicant's own affidavit and pleadings where the respondent, after being given the limited number of opportunities the judgment contemplates, simply fails to file one. Second, the judgment contemplates that a false affidavit can itself expose the person who filed it to separate proceedings for making a false statement, which gives a court a lever against a respondent spouse who does respond but understates assets, rather than leaving the court to simply accept whatever figure the respondent chooses to disclose.",
+        "In practice, an applicant spouse dealing with an NRI respondent should use the disclosure affidavit process as an evidentiary tool in its own right, pressing the court to insist on the respondent's reply affidavit within the time the judgment allows, and treating the respondent's silence or an incomplete filing as itself supporting an inference about undisclosed income and assets, rather than treating the affidavit as a formality to be exchanged and then set aside while the real argument happens elsewhere."
+      ]
+    },
+    {
+      "heading": "When the Respondent Will Not Appear: Service and Proceeding Ex Parte",
+      "paragraphs": [
+        "A respondent spouse living abroad who does not want to engage with an Indian maintenance proceeding will frequently avoid service altogether, refusing registered post, declining to accept notice through relatives, or simply not responding to any communication sent to a last-known foreign address. Indian courts are not powerless against this tactic. Where service by ordinary means fails and the court is satisfied the respondent is deliberately avoiding it, substituted service, typically by publication in a newspaper with circulation at the respondent's last known place of residence, or increasingly by courts accepting service through electronic means such as email or messaging applications where the respondent's use of that channel can be shown, is available, and once service is validly effected in one of these ways, the proceeding can continue and conclude ex parte if the respondent still does not appear.",
+        "An ex parte maintenance order is not a lesser order; it carries the same enforceability as a contested one, and a respondent who later surfaces cannot simply ignore it on the footing that no contest ever took place, though a court retains discretion to set aside an ex parte order on a proper application showing the respondent was genuinely prevented from appearing through no fault of their own, a standard that mere inconvenience of living abroad does not meet."
+      ]
+    },
+    {
+      "heading": "Passport Impounding: A Narrower Tool Than It Looks",
+      "paragraphs": [
+        "A deserted spouse's instinct, once the other side is clearly avoiding an Indian court while travelling freely on an Indian passport, is often to ask that the passport be impounded or seized. The law here is more limited than that instinct suggests. The Supreme Court held in Suresh Nanda that a criminal court cannot itself impound a passport, because the Passports Act, 1967 is a specific, self-contained statute on the subject, and the Court reaffirmed in Chennupati Kranthi Kumar v. State of Andhra Pradesh, decided on 25 July 2023, that while the police may seize a passport in the course of an investigation under the power to seize property generally, only the passport authority can actually impound it, and a passport cannot be retained indefinitely without that authority formally doing so under Section 10 of the Act.",
+        "Section 10(3) of the Passports Act lists the specific grounds on which the passport authority may impound a passport, and courts have treated a validly issued summons requiring the holder's personal appearance, falling within the ground at Section 10(3)(h), as capable of supporting impounding in some reported matters, while declining to treat the mere existence of a maintenance proceeding, without more, as an offence proceeding that would fall within a different ground at Section 10(3)(e). The distinction matters in practice: a court order alone does not impound a passport, and the passport authority has to be separately approached and has to act within the specific grounds the statute actually provides.",
+        "The Supreme Court's decision in Vishal Shah v. Monalisha Gupta and others, reported as 2025 INSC 254 and decided on 20 February 2025 (the case is also reported under anonymised party names in some outlets), is the clearest recent caution against overreaching on this point. The Court held that impounding a husband's passport merely because his wife had filed multiple cases against him, without giving him any opportunity of a hearing, was ex facie illegal, applying the long-standing requirement from Maneka Gandhi v. Union of India that any action affecting the right to travel abroad must follow a fair procedure, and ordered the passport released, while separately directing payment of permanent alimony in that case. A deserted spouse should treat passport impounding as a genuinely available but narrow remedy, properly pursued through the passport authority on a specific statutory ground, rather than as an automatic consequence of the other spouse's non-cooperation."
+      ]
+    },
+    {
+      "heading": "Look Out Circulars: Why Courts Keep Restricting Their Use in Matrimonial Matters",
+      "paragraphs": [
+        "A Look Out Circular, issued through immigration authorities to flag a person at the border, is a tool built for law enforcement in criminal matters, not a general-purpose instrument for stopping an uncooperative spouse from leaving or re-entering India. The Delhi High Court's judgment in Sumer Singh Salkan v. Assistant Director, decided on 11 August 2010, remains the leading authority restricting when one can be opened, holding, in substance, that a Look Out Circular is appropriate only in connection with a cognizable offence and only where the person concerned is deliberately evading arrest or deliberately failing to appear before a trial court despite the process issued against them, and later Delhi High Court rulings continue to apply this framework, including as recently as 2026 in disputes over how aggressively the circular has been used.",
+        "A matrimonial dispute, including one where a spouse is accused of cruelty or dowry harassment under the Bharatiya Nyaya Sanhita, 2023, can in principle meet this threshold where the accused spouse is deliberately evading a non-bailable warrant or deliberately failing to appear despite process, but a purely civil maintenance claim, without an accompanying criminal complaint and a genuine pattern of evasion, is unlikely to support one, and a deserted spouse who seeks a Look Out Circular as a first resort, rather than after process has genuinely been evaded, risks having it quashed on exactly the grounds Sumer Singh Salkan sets out."
+      ]
+    },
+    {
+      "heading": "Attaching What Is Actually in India When the Rest Has Moved Abroad",
+      "paragraphs": [
+        "Every enforcement route discussed in this piece, attachment under Section 461 of the BNSS, civil execution of a decree under the Hindu Marriage Act, and monetary relief enforcement under the Domestic Violence Act, shares the same territorial limit: an Indian court's process reaches property physically or legally situated in India, and nothing in this framework lets an Indian Magistrate or civil court directly attach a bank account, a flat, or an investment held by the respondent spouse abroad. A deserted spouse should therefore treat the identification and prompt attachment of Indian assets, the family home, a locally held bank account, shares in an Indian company, or an insurance policy, as the most time-sensitive step in the entire enforcement process, since a respondent who has already emigrated has every incentive to liquidate or transfer whatever remains in India before an attachment order can reach it.",
+        "Where the respondent spouse has moved essentially everything abroad and genuinely holds nothing of value in India any longer, the deserted spouse's remaining option is to seek recognition and enforcement of the Indian maintenance order in the country where the respondent now lives, a process that depends entirely on that country's own law on recognising foreign family-law orders and that this piece does not attempt to summarise in general terms, since the position varies sharply between jurisdictions and the practical steps for pursuing an Indian money decree abroad are addressed in this firm's separate article on enforcing Indian decrees in the United Kingdom, the United States and Canada."
+      ]
+    },
+    {
+      "heading": "The NRI Marriage Registration Bill: What Does Not Currently Exist in Law",
+      "paragraphs": [
+        "A good deal of informal advice circulating among deserted spouses refers to a law that would let the passport of an NRI spouse be impounded automatically for failing to register an overseas marriage, or for failing to appear before an Indian court within a set period. This refers to the Registration of Marriage of Non-Resident Indian Bill, 2019, introduced in the Rajya Sabha on 11 February 2019, which would have required NRI marriages to be registered within thirty days, allowed courts to attach the movable and immovable property of an NRI declared a proclaimed offender for failing to appear, and permitted the passport authority to revoke or impound a passport in defined circumstances connected with non-registration.",
+        "That bill lapsed without being enacted. A parliamentary standing committee reviewing it in March 2020 found its scope too narrow, and the Law Commission's Report No. 287, considering the broader question in 2024, recommended wider central legislation covering both NRIs and Overseas Citizens of India rather than reviving the 2019 bill as drafted. No replacement central statute specific to NRI marriage registration and enforcement has since been enacted, and a deserted spouse should not assume the specific passport sanctions the 2019 bill proposed are presently available in law; the tools actually available remain the general maintenance, civil execution, passport and Look Out Circular mechanisms this piece has described, applied through the ordinary statutes already in force."
+      ]
+    },
+    {
+      "heading": "Interim Orders Versus Final Decrees: Timing the Claim Correctly",
+      "paragraphs": [
+        "Several of the enforcement problems described above become easier if the underlying maintenance claim is pleaded with enforcement in mind from the start, rather than treating the order as the end point and enforcement as a separate exercise taken up only once payment stops. A spouse who can show the court, at the interim stage itself, specific movable or immovable property the respondent holds in India, a flat, a fixed deposit, a demat account, has given the court a concrete basis to pass an attachment order quickly if the respondent defaults, rather than leaving the applicant to go hunting for assets only after default has already occurred and the respondent has had time to act.",
+        "It also helps to ask the court, at the time interim maintenance is fixed, to record the specific sources of income and the specific assets the disclosure affidavit under Rajnesh v. Neha has revealed, since a later execution application that can point back to the respondent's own sworn affidavit faces far less resistance than one that has to re-establish the respondent's means from scratch. A deserted spouse's lawyer should treat the disclosure affidavit not as paperwork exchanged early in the case and then forgotten, but as the factual foundation the entire enforcement effort will eventually rest on."
+      ]
+    },
+    {
+      "heading": "A Practical Sequence for a Spouse Left Behind",
+      "paragraphs": [
+        "Put together, the realistic sequence for a spouse dealing with an NRI or absconding respondent runs roughly as follows. File for interim maintenance promptly, under Section 144 of the BNSS, Section 24 of the Hindu Marriage Act, or Section 20 of the Domestic Violence Act as the facts support, choosing the route or routes that best fit the marriage and the available grounds, and do not wait for a final decree to seek enforceable interim relief. Press for the respondent's disclosure affidavit under the Rajnesh v. Neha framework at the earliest opportunity, and be prepared to ask the court to proceed on the applicant's own affidavit if the respondent does not comply within the time allowed.",
+        "Identify and move quickly to attach whatever property the respondent holds in India before it can be moved or liquidated, since this is usually the single most time-sensitive step and the one most within the applicant's own control. Treat passport impounding and Look Out Circulars as narrow, fact-specific remedies rather than default tools, pursuing the former through the passport authority on a specific statutory ground and the latter only where a genuine pattern of evading criminal process, not merely a civil maintenance dispute, actually exists. Where none of this recovers the full amount because the respondent's assets have genuinely moved abroad, turn to the separate question of enforcing the Indian order in the respondent's country of residence, recognising that this is a different legal exercise governed by that country's own law rather than an extension of the Indian proceeding."
+      ]
+    }
+  ],
+  "conclusion": [
+    "Indian law gives a deserted spouse real enforcement tools against an NRI or absconding counterpart, a criminal recovery mechanism that functions like fine recovery, a civil decree that opens the full machinery of execution, a disclosure procedure specifically aimed at hidden income, and narrower instruments for the passport and border-control situations that come up often enough in these disputes to deserve careful, rather than reflexive, use. None of these tools reaches assets the respondent has genuinely moved beyond India's borders, and a spouse who understands this limitation early, and moves promptly against whatever remains in India while building the disclosure record the Rajnesh v. Neha framework supports, is in a materially stronger position than one who waits for a single order to solve the entire problem on its own.",
+    "The passport and Look Out Circular remedies deserve particular caution. Both are available in genuine cases of deliberate evasion of criminal process, and both have been firmly cut back by the Supreme Court and the High Courts where they were used as a general-purpose pressure tactic in an ordinary matrimonial dispute, which means a spouse reaching for either remedy should be prepared to show the specific statutory ground it actually requires, not simply the fact that the other side has gone quiet."
+  ],
+  "faqs": [
+    {
+      "q": "Can I get a maintenance order against my spouse if they have moved abroad and will not respond?",
+      "a": "Yes. If ordinary service fails, a court can permit substituted service, such as publication, or service through electronic means where the respondent's use of that channel can be shown, and the case can then proceed and conclude even if the respondent never appears, producing an order that is fully enforceable."
+    },
+    {
+      "q": "How is a maintenance order under Section 144 of the BNSS actually enforced if the spouse does not pay?",
+      "a": "The arrears can be recovered the way a fine is recovered under Section 461 of the BNSS, through attachment and sale of the defaulting spouse's movable property in India or, where that fails, by having the amount realised as arrears of land revenue against immovable property, with imprisonment remaining available if recovery still fails."
+    },
+    {
+      "q": "Can an Indian court impound my spouse's passport to stop them leaving the country?",
+      "a": "Not directly. Only the passport authority can impound a passport under Section 10(3) of the Passports Act, 1967, on specific statutory grounds, and the Supreme Court has held that impounding a passport without giving the holder a hearing, or merely because multiple cases have been filed, is illegal."
+    },
+    {
+      "q": "Can I get a Look Out Circular issued against my spouse for not appearing in a maintenance case?",
+      "a": "Usually not on a maintenance claim alone. A Look Out Circular is meant for a person deliberately evading arrest or trial in a cognizable criminal matter, and courts applying the Delhi High Court's 2010 guidelines in Sumer Singh Salkan have restricted its use to genuine evasion of criminal process rather than an ordinary civil or matrimonial dispute."
+    },
+    {
+      "q": "What is the Rajnesh v. Neha affidavit and why does it matter for an NRI spouse?",
+      "a": "It is the sworn disclosure of assets and liabilities the Supreme Court required both spouses to file in every maintenance proceeding from its 2020 ruling onward. It matters for an NRI spouse because the obligation applies regardless of where that spouse lives, and a court can decide the case on the applicant's own affidavit if the respondent does not comply."
+    },
+    {
+      "q": "Can an Indian court attach my spouse's bank account or property held abroad?",
+      "a": "No. Indian execution process reaches only property situated in India. Where the respondent's assets are genuinely abroad, the remaining option is to seek recognition and enforcement of the Indian order in the country where the respondent now lives, which depends on that country's own law."
+    },
+    {
+      "q": "Is there a special law that lets an NRI's passport be impounded for not registering an overseas marriage?",
+      "a": "No. A bill proposing this, the Registration of Marriage of Non-Resident Indian Bill, 2019, lapsed without being enacted, and no equivalent central law has replaced it, so this specific passport sanction is not currently part of Indian law."
+    },
+    {
+      "q": "Which is faster, a criminal maintenance application or a civil claim under the Hindu Marriage Act?",
+      "a": "A criminal application under Section 144 of the BNSS is generally the faster route to an interim order, which is why it is often filed alongside, rather than instead of, a civil claim under Sections 24 and 25 of the Hindu Marriage Act or monetary relief under the Domestic Violence Act."
+    }
+  ],
+  "references": [
+    "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 144 (order for maintenance of wives, children and parents; successor to Section 125, Code of Criminal Procedure, 1973)",
+    "Bharatiya Nagarik Suraksha Sanhita, 2023, Section 461 (warrant for levy of fine; successor to Section 421, Code of Criminal Procedure, 1973)",
+    "Hindu Marriage Act, 1955, Section 24 (maintenance pendente lite and expenses of proceedings)",
+    "Hindu Marriage Act, 1955, Section 25 (permanent alimony and maintenance)",
+    "Hindu Marriage Act, 1955, Section 28-A (enforcement of decrees and orders)",
+    "Protection of Women from Domestic Violence Act, 2005, Section 20 (monetary relief) and Section 20(6) (enforcement)",
+    "Passports Act, 1967, Section 10(3) (grounds for impounding or revoking a passport)",
+    "Code of Civil Procedure, 1908, Order XXI (execution of decrees and orders)",
+    "Rajnesh v. Neha, (2021) 2 SCC 324, Supreme Court of India, decided 4 November 2020",
+    "Maneka Gandhi v. Union of India, (1978) 1 SCC 248, Supreme Court of India",
+    "Suresh Nanda v. CBI, Supreme Court of India, on the limits of a criminal court's power over passports",
+    "Chennupati Kranthi Kumar v. State of Andhra Pradesh, Supreme Court of India, decided 25 July 2023",
+    "Vishal Shah v. Monalisha Gupta and Others (reported as ABC v. XYZ in some outlets), 2025 INSC 254, Supreme Court of India, decided 20 February 2025",
+    "Sumer Singh Salkan v. Assistant Director and Others, Delhi High Court, decided 11 August 2010, on Look Out Circulars",
+    "Registration of Marriage of Non-Resident Indian Bill, 2019, introduced in the Rajya Sabha on 11 February 2019 (lapsed, not enacted)",
+    "Law Commission of India, Report No. 287 (2024), on legislation covering NRIs and Overseas Citizens of India"
+  ],
+  "related_pages": [
+    "/articles/divorce-maintenance-custody-india-recent-developments-article.html",
+    "/articles/cross-border-child-custody-india-usa-canada-uk-article.html",
+    "/articles/enforcing-indian-decree-abroad-uk-usa-canada-article.html",
+    "/articles/elderly-parents-nri-children-abroad-maintenance-poa-article.html"
+  ],
+  "sources": [
+    "https://www.livelaw.in/articles/maintenance-under-bnss-omission-word-minor-major-change-295467",
+    "https://blog.ipleaders.in/maintenance-under-section-125-crpc-section-144-bnss/",
+    "https://vakeel360.com/crpc-to-bnss/section-421-warrant-for-levy-of-fine",
+    "https://ssrana.in/articles/supreme-court-guidelines-maintenance/",
+    "https://www.lawweb.in/2022/08/whether-order-of-maintenance-us-125-of.html",
+    "https://www.verdictum.in/court-updates/supreme-court/abc-v-xyz-2025-insc-254-husband-passport-impounded-1568993",
+    "https://www.caseciter.com/vishal-shah-vs-monalisha-gupta-2025-insc-254-domestic-violence-act-passport-impounding-irretrievable-breakdown-of-marriage-permanent-alimony.md",
+    "https://www.taxtmi.com/article/detailed?id=8720",
+    "https://www.shoneekapoor.com/sumer-singh-salkan-versus-asstt-director-ors/",
+    "https://www.mondaq.com/india/insolvencybankruptcy/1792904/delhi-high-court-lays-down-comprehensive-principles-governing-look-out-circulars-loc-holds-mere-loan-defaults-cannot-justify-travel-restrictions-and-grants-relief-to-persons-cooperating-with-investigation",
+    "https://www.easterneye.biz/nris-who-dont-register-their-marriage-can-have-passports-impounded-bill",
+    "https://www.impriindia.com/insights/policy-update/the-registration-of-marriage-of/"
+  ],
+  "verification_notes": "AUDIENCE: NRI. TARGET QUERY: how to get maintenance from NRI husband / can passport be impounded for maintenance default / look out circular against husband abroad. DEMAND EVIDENCE: none seen as a measured search-volume figure; the topic was chosen because the site's existing family-law articles cover divorce and custody generally (30), elderly-parent maintenance from NRI children (34) and cross-border custody (49), leaving the enforcement side of maintenance against an NRI or absconding spouse, a recurring practical question for the spouse left behind in India, as an uncovered angle. The BNSS Section 144/CrPC Section 125 mapping and the BNSS Section 461/CrPC Section 421 mapping were each corroborated across at least two independent secondary sources (LiveLaw, ipleaders, legalkart and vakeel360), which agree on the substance though this session's network could not reach India Code directly to confirm the enacted text, a limitation disclosed rather than papered over. Rajnesh v. Neha, (2021) 2 SCC 324, decided 4 November 2020, was corroborated across ssrana.in, ipleaders and Mondaq commentary, which agree on the date, the citation and the affidavit-of-disclosure framework. Vishal Shah v. Monalisha Gupta (2025 INSC 254, decided 20 February 2025) was corroborated across Verdictum's two reports and caseciter.com, which agree on the date, the citation and the holding on passport impounding and natural justice, though outlets differ on whether to name the parties or anonymise them as ABC v. XYZ, which this piece discloses rather than silently picking one. Sumer Singh Salkan v. Assistant Director (Delhi High Court, 11 August 2010) was corroborated as a still-applied authority across Mondaq's 2026 commentary and shoneekapoor.com's case page, though this session's network could not reach the full judgment text on indiankanoon or the Delhi High Court's own site to verify the precise wording of the evasion standard, so the holding is stated at the level of substance reported consistently across secondary sources rather than quoted verbatim. The lapse of the Registration of Marriage of Non-Resident Indian Bill, 2019 was corroborated across easterneye.biz, impriindia.com and a 2020 parliamentary standing committee reference, which agree the bill was introduced on 11 February 2019 and was never enacted; the claim that the Ministry of External Affairs considers reintroduction unnecessary as of July 2026 could not be corroborated from a second independent source in this run and is therefore not asserted as settled fact in the piece itself."
+}
