@@ -1,0 +1,97 @@
+{
+ "slug": "angel-tax-abolished-section-56-2-viib-myths-guide",
+ "title": "Angel Tax Is Abolished: What Section 56(2)(viib) Still Means for a Pre-2024 Investment",
+ "seo_title": "Angel Tax Abolished: What Section 56(2)(viib) Means Now",
+ "meta_description": "Angel tax under Section 56(2)(viib) is gone from AY 2025-26, but not retrospectively. What a startup or an NRI investor still needs to watch for.",
+ "practice_area": "Tax Litigation",
+ "format": "myth versus fact",
+ "intro": [
+  "Angel tax, the charge under Section 56(2)(viib) of the Income Tax Act on a closely held company that issued shares above fair market value, no longer applies to any investor, resident or non-resident, from assessment year 2025-26 onward. The Finance (No. 2) Act, 2024 removed the provision, and the Income-tax Act, 2025, which takes its place, carries no equivalent charge.",
+  "That has not stopped the myths. Founders and NRI investors still ask whether angel tax applies to a round closing now, whether DPIIT registration is still needed to avoid it, and whether an old assessment year can still be reopened on this ground. This guide separates what actually changed from what people still assume because the rule existed, in one form or another, for twelve years before it was removed."
+ ],
+ "sections": [
+  {
+   "heading": "Myth: angel tax was always a resident-investor problem",
+   "paragraphs": [
+    "Section 56(2)(viib) was introduced by the Finance Act, 2012, aimed at resident investors putting money into unlisted closely held companies at a valuation the tax department could later question as inflated. For most of its life, the provision applied only where the investor was a resident, which is why non-resident and foreign investment in Indian startups was commonly seen as angel-tax-free.",
+    "That changed with the Finance Act, 2023, which brought consideration received from non-resident investors within the scope of Section 56(2)(viib) as well, a shift that alarmed the venture capital and startup community because it meant a foreign investor's valuation could now also be questioned. The government responded within months with a carve-out and clarifying notifications rather than leaving the extension to operate at full width."
+   ]
+  },
+  {
+   "heading": "Myth: DPIIT registration was the only way to avoid angel tax on a foreign round",
+   "paragraphs": [
+    "After the 2023 extension, the government exempted DPIIT-recognised startups from the expanded non-resident scope, and CBDT Notification 30/2023 extended that startup exemption to individual non-resident investors on broadly the same conditions that applied to resident investors. A separate notification excluded investment from specified categories of foreign investors, including entities from a list of twenty-one countries, from the angel tax net regardless of DPIIT status.",
+    "So DPIIT registration mattered a great deal between 2023 and 2024, but it was never the only route to relief, and in any event the entire question became academic once the provision was removed outright for all investors. A startup that spent 2023 structuring a raise purely to fit inside the DPIIT exemption no longer needs that structuring for any round closing in AY 2025-26 or later, though the registration itself still carries other benefits unrelated to angel tax."
+   ]
+  },
+  {
+   "heading": "Fact: the abolition is not retrospective",
+   "paragraphs": [
+    "The Finance (No. 2) Act, 2024 removed Section 56(2)(viib) with effect from assessment year 2025-26, which the Income Tax Department's own published guidance confirms. That means a share issuance in an earlier assessment year, where the valuation is disputed, remains governed by the law as it stood at the time, and an assessment already under scrutiny or reassessment for AY 2024-25 or earlier does not get wiped out by the later repeal.",
+    "This is the point that catches founders and CFOs who hear that angel tax is gone and assume a pending notice for an earlier year has become moot. It has not. A startup with an open assessment or reassessment proceeding touching a pre-abolition share issuance should keep defending it on the merits, including on valuation methodology and the genuineness of the investor, exactly as it would have had to before the repeal."
+   ]
+  },
+  {
+   "heading": "Fact: other provisions can still reach the same transaction",
+   "paragraphs": [
+    "Removing Section 56(2)(viib) did not touch Section 68 of the Income Tax Act, which lets the department treat an unexplained credit, including share capital or premium, as income if the company cannot satisfactorily establish the identity, creditworthiness and genuineness of the investor and the transaction. A startup that could previously defend a valuation dispute on the fair-market-value question under Section 56(2)(viib) can still face a Section 68 inquiry into whether the money and the investor are real, which is a different and in some ways harder question to answer.",
+    "Valuation also has not become irrelevant simply because the income tax charge is gone. A foreign investment still needs a valuation that satisfies FEMA pricing guidelines for the issue and transfer of shares to a non-resident, and the same valuation feeds into transfer pricing analysis where the investor is a related party, and into the Companies Act's own requirements on share allotment. Founders who treat the abolition of angel tax as removing the need for a defensible valuation report are solving only one of several problems that a weak valuation can create."
+   ]
+  },
+  {
+   "heading": "What this means for a round closing now",
+   "paragraphs": [
+    "For a share issuance in the current assessment year, Section 56(2)(viib) is simply not in play, for a resident or a non-resident investor, and a startup does not need to structure around it or chase a DPIIT exemption for this specific purpose. The practical work has shifted rather than disappeared: get the FEMA pricing guideline valuation done properly for any non-resident investor, keep the investor's KYC and fund-flow documentation on file in case Section 68 questions arise later, and treat DPIIT recognition as worth pursuing for the benefits it still carries, such as the Section 80-IAC tax holiday and self-certification under labour laws, rather than for angel tax relief that no longer has anything to protect against.",
+    "A startup with an unresolved dispute from an earlier year gets none of this relief, because the abolition changes nothing about how that dispute should be fought. The file still needs the same valuation report, the same investor documentation, and the same argument on why the fair market value adopted at the time was defensible, because the assessing officer reviewing that year is applying the law as it stood then, not the law as it stands now."
+   ]
+  },
+  {
+   "heading": "What a careful investor still asks for in diligence",
+   "paragraphs": [
+    "An NRI or foreign investor doing diligence on an Indian startup before writing a cheque should still ask for the valuation report and board resolutions behind every prior round, even rounds that closed well before the 2024 abolition. If an earlier round was priced aggressively and the company never obtained a defensible valuation report at the time, that gap can surface years later as a Section 56(2)(viib) dispute for that earlier year or, separately, as a Section 68 question about the genuineness of an earlier investor, and either can affect the company's balance sheet and management bandwidth during the very period the new investor expects it to be focused on growth.",
+    "The same diligence point applies in reverse for a founder preparing to raise. A clean paper trail for every historical round, including the valuation methodology used, the investor's KYC, and the money's path into the company's bank account, remains the strongest defence against a dispute touching an earlier year, and it no longer needs to be built around angel tax specifically since that provision cannot bite rounds closing under the current law. It still needs to exist, because an incoming investor's lawyers will ask for exactly this file regardless of what Section 56(2)(viib) currently says."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does angel tax apply to a funding round closing this financial year?",
+   "a": "No. Section 56(2)(viib) does not apply from assessment year 2025-26 onward, for resident and non-resident investors alike, following its removal by the Finance (No. 2) Act, 2024. A round closing now does not need to be structured around angel tax."
+  },
+  {
+   "q": "Can the department reopen an old assessment on angel tax grounds even though the provision is now abolished?",
+   "a": "Yes, for assessment years before AY 2025-26, because the abolition is not retrospective. An earlier share issuance remains governed by the law as it stood at the time, so a pending or reopened assessment for an earlier year still has to be defended on the valuation and genuineness questions Section 56(2)(viib) raised."
+  },
+  {
+   "q": "Is DPIIT registration still necessary to avoid angel tax on an NRI investment?",
+   "a": "Not for its original purpose, since the provision it protected against has been removed for all investors. DPIIT recognition still carries other benefits, including the Section 80-IAC tax holiday and compliance simplifications, independent of angel tax."
+  },
+  {
+   "q": "Does the abolition mean a startup no longer needs a formal share valuation?",
+   "a": "No. A valuation is still required for FEMA pricing compliance on any non-resident investment, for transfer pricing where the investor is a related party, and under the Companies Act's own rules on share allotment. Removing the income tax charge did not remove these other requirements."
+  }
+ ],
+ "references": [
+  "Income Tax Act, 1961, Section 56(2)(viib), as it stood before omission (introduced by the Finance Act, 2012; extended to non-residents by the Finance Act, 2023)",
+  "Finance (No. 2) Act, 2024 (removal of Section 56(2)(viib) with effect from AY 2025-26)",
+  "CBDT Notification 30/2023 (extension of the DPIIT startup exemption to non-resident individual investors)",
+  "Income Tax Act, 1961, Section 68 (unexplained cash credits)"
+ ],
+ "sources": [
+  "https://www.incometaxindia.gov.in/w/exemption-from-angel-tax-section-56-2-viib-",
+  "https://india-briefing.com/news/abolishing-the-angel-tax-in-india-applicable-for-fy-2025-26-35289.html",
+  "https://bhattandjoshiassociates.com/section-562viib-angel-tax-abolition-2024-retrospective-refund-rights-of-startups-assessed-between-2012-2024/",
+  "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/technical/alerts-hub/documents/cbdt-proposes-relief-from-angel-tax-pursuant-to-budget-2023-amendment-expanding-scope-to-non-resident-investment.pdf",
+  "https://ksandk.com/md/tax/angel-tax-gone-startup-fundraising-india/"
+ ],
+ "verification_notes": [
+  "AUDIENCE: NRI and foreign investors in Indian startups, and the startups receiving their investment",
+  "TARGET QUERY: is angel tax still applicable, does Section 56(2)(viib) apply to foreign investors now",
+  "DEMAND EVIDENCE: none seen beyond consistent, recent coverage of the 2024 abolition across law-firm and official sources found in this run; no specific search-volume signal observed",
+  "Abolition of Section 56(2)(viib) by the Finance (No. 2) Act, 2024, effective from AY 2025-26, for all categories of investor: confirmed from the Income Tax Department's own published page (incometaxindia.gov.in) and corroborated independently by india-briefing.com and bhattandjoshiassociates.com describing the same Act and effective date.",
+  "2023 extension of Section 56(2)(viib) to non-resident investors, followed by a DPIIT-startup carve-out and CBDT Notification 30/2023 extending the exemption to non-resident individuals, and a separate twenty-one-country exemption: confirmed from two independent sources (the EY alert and bhattandjoshiassociates.com-linked commentary), both describing the 2023 extension and the subsequent relief notifications in materially the same terms.",
+  "Non-retrospective effect of the 2024 abolition, leaving earlier assessment years governed by the law as it stood then: confirmed from bhattandjoshiassociates.com, which addresses this point directly (its title refers to retrospective refund rights for startups assessed between 2012 and 2024), corroborated by the Income Tax Department page's own statement that the provision is 'not applicable with effect from Assessment Year 2025-26', which by implication leaves earlier years unaffected.",
+  "Section 68 remaining available on the same facts, and the continuing relevance of FEMA pricing guideline valuations and transfer pricing, independent of Section 56(2)(viib): stated from the Income Tax Act's own scheme and FEMA pricing rules rather than from a single secondary commentary, and corroborated by ksandk.com's observation that valuations still matter for FEMA, transfer pricing, Companies Act requirements and Section 68 even after the abolition.",
+  "Left out: the exact list of the twenty-one exempted countries and the precise wording of CBDT Notification 30/2023's conditions, because this guide did not independently verify the full notification text against the official gazette; readers with a live dispute should check the notification directly."
+ ]
+}

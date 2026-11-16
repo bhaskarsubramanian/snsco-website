@@ -1,0 +1,90 @@
+{
+ "slug": "duty-drawback-vs-rodtep-export-incentive-guide",
+ "title": "Duty Drawback Versus RoDTEP: Can an Exporter Claim Both, and Which One Actually Fits a Shipment",
+ "seo_title": "Duty Drawback vs RoDTEP: Which Applies to Your Export",
+ "meta_description": "Duty drawback and RoDTEP refund different costs on an export, not the same ground twice. How to tell which scheme fits a shipment, and where they overlap.",
+ "practice_area": "Tax Litigation",
+ "format": "X vs Y comparison",
+ "intro": [
+  "Duty drawback and RoDTEP are both refund mechanisms for an exporter, and both get claimed through the same shipping bill, which is exactly why exporters confuse them. Duty drawback under Sections 74 and 75 of the Customs Act refunds customs duty already paid or deemed paid on inputs used in the export, while RoDTEP, the Remission of Duties and Taxes on Exported Products scheme, is meant to remit duties and taxes that sit embedded in the cost of the export but are not refunded through GST or drawback, such as certain state and central levies on fuel and electricity used in production.",
+  "The two are not alternatives an exporter picks between for the same cost; they are built to cover different cost components, and the real question for most shipments is not which one to choose but whether a particular product qualifies for RoDTEP at all, since several sectors were kept out of it from the start. This guide sets out the difference, where the schemes can run alongside each other, and what to check before assuming a shipment qualifies for RoDTEP."
+ ],
+ "sections": [
+  {
+   "heading": "Duty drawback: refunding customs duty already paid",
+   "paragraphs": [
+    "Section 74 applies where previously imported goods are re-exported, largely as they were imported, and allows a refund of a substantial part of the import duty paid, scaled down depending on how long the goods were used in India before re-export. Section 75 is the more commonly used provision for manufacturers, covering duty drawback on imported or excisable materials used in manufacturing goods that are then exported, with the Central Board of Indirect Taxes and Customs notifying All Industry Rates for broad categories of products each year, and a Brand Rate available on application where the standard rate does not reflect the actual duty incidence on a specific exporter's inputs.",
+    "An exporter claiming drawback cannot simultaneously claim a separate refund of the same duty component through another export incentive scheme; the restriction against double benefit on the identical duty cost is a consistent feature across these schemes, even where the schemes are otherwise allowed to run in parallel on different cost components of the same shipment."
+   ]
+  },
+  {
+   "heading": "RoDTEP: remitting duties and taxes that no other scheme reaches",
+   "paragraphs": [
+    "RoDTEP was introduced to replace the Merchandise Exports from India Scheme after MEIS was found inconsistent with India's commitments at the World Trade Organization, and it is designed, at least on paper, to be a WTO-compliant remission of actual, calculable duties and taxes borne on inputs that are not otherwise rebated, rather than a general export subsidy. The rates, product by product, were notified under Appendix 4R to Notification 19/2015-20 and have since been expanded through further notifications covering additional tariff lines, with rates that are generally lower than the two to five percent range MEIS used to offer.",
+    "Several sectors were excluded from RoDTEP at launch, including steel and organic and inorganic chemicals, and apparel and made-ups fall outside RoDTEP because they are covered instead by the separate RoSCTL scheme. Exports from special economic zones, export-oriented units, and units operating under Advance Authorisation or the manufacture-in-bond scheme are generally excluded from RoDTEP benefits as well, along with deemed exports and the re-export of previously imported goods. An exporter should check the current tariff line and sector coverage before assuming a product qualifies, because coverage has shifted across successive notifications since the scheme began."
+   ]
+  },
+  {
+   "heading": "How RoDTEP is actually claimed and paid out",
+   "paragraphs": [
+    "Unlike drawback, which is typically credited to the exporter's bank account, RoDTEP benefits are issued as transferable electronic duty credit scrips rather than cash. The exporter must indicate at the shipping bill stage, item by item, whether RoDTEP is being claimed; missing that declaration at the time of filing generally forecloses claiming it later for that shipment. Once the carrier files the Export General Manifest after the goods leave, the customs system processes RoDTEP eligibility and the credit amount against each shipping bill, and the resulting e-scrip is generated on the ICEGATE portal, where it can be used to pay basic customs duty on the exporter's own imports or transferred electronically to another IEC holder through the Common Credit Ledger.",
+    "This procedural difference matters commercially. A cash refund under drawback improves working capital directly, while a RoDTEP scrip is only as useful as the exporter's ability to use it against future import duty or find a buyer for it in the scrip market, which usually trades at a discount to face value. An exporter weighing the practical benefit of RoDTEP eligibility on a product should factor in this liquidity difference, not just the headline percentage rate."
+   ]
+  },
+  {
+   "heading": "Where the two schemes can be claimed on the same shipment",
+   "paragraphs": [
+    "Because drawback addresses customs duty on inputs and RoDTEP addresses other embedded duties and taxes that drawback does not reach, several commentators describe the two as capable of being claimed together on the same export, provided the exporter is not claiming drawback and RoDTEP on the identical duty component. In practice this means an exporter who is otherwise eligible for RoDTEP on a product, and who also qualifies for a drawback rate on specific imported inputs used in that product, should check both boxes rather than assume claiming one rules out the other, since giving up a legitimate claim under either scheme reduces the refund without any compliance benefit.",
+    "The opposite mistake, assuming both schemes always apply together, is just as costly. Where a product sits in an excluded RoDTEP category, such as a chemical covered by the sector exclusion or an export made under Advance Authorisation, claiming drawback remains available on the terms Sections 74 and 75 set out, but RoDTEP simply is not on the table for that shipment regardless of how the paperwork is filled."
+   ]
+  },
+  {
+   "heading": "Practical checklist before filing the shipping bill",
+   "paragraphs": [
+    "Before filing, an exporter should confirm the current RoDTEP rate and eligibility for the specific tariff line under the latest DGFT appendix, since rates and coverage are revised periodically and a rate that applied to a near-identical product last year may no longer apply unchanged. The RoDTEP declaration at the shipping bill stage needs to be made correctly the first time, because the claim generally cannot be added retroactively once the bill is filed without the flag set.",
+    "Separately, an exporter should confirm whether the specific inputs used qualify for an All Industry Rate under the drawback schedule or whether the actual duty incidence is high enough to justify the extra documentation of a Brand Rate application. Getting both the RoDTEP eligibility question and the drawback rate question right at the filing stage avoids the more painful alternative, which is discovering months later, during a reconciliation or an audit, that a claim was missed or wrongly made and now has to be corrected through a separate refund or demand process."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can an exporter claim both duty drawback and RoDTEP on the same shipment?",
+   "a": "Generally yes, because the two schemes cover different cost components, provided the same duty amount is not claimed twice under both. The common restriction is against double benefit on the identical duty cost, not against using both schemes on the same export for different components."
+  },
+  {
+   "q": "Is RoDTEP paid as cash like duty drawback?",
+   "a": "No. RoDTEP is issued as a transferable electronic duty credit scrip through the ICEGATE portal, usable to pay basic customs duty on the exporter's own future imports or transferable to another IEC holder. Drawback is typically credited directly to the exporter's bank account."
+  },
+  {
+   "q": "Why are some products excluded from RoDTEP?",
+   "a": "Certain sectors, including steel and some chemicals, were kept outside RoDTEP from its launch, and apparel and made-ups are covered instead by the separate RoSCTL scheme. Exports from SEZs, EOUs, and units under Advance Authorisation or manufacture-in-bond schemes are also generally excluded, along with deemed exports."
+  },
+  {
+   "q": "What happens if the RoDTEP flag is not selected on the shipping bill?",
+   "a": "The claim is generally lost for that shipment, because the declaration has to be made item by item at the time of filing. There is usually no mechanism to add the claim retroactively once the shipping bill has been filed without it."
+  }
+ ],
+ "references": [
+  "Customs Act, 1962, Sections 74 and 75 (duty drawback)",
+  "Foreign Trade Policy, Notification No. 19/2015-20 and Appendix 4R (RoDTEP rates and scheme guidelines)",
+  "RoDTEP scheme guidelines as notified by the Directorate General of Foreign Trade",
+  "Foreign Trade Policy provisions on the Rebate of State and Central Taxes and Levies (RoSCTL) scheme for apparel and made-ups"
+ ],
+ "sources": [
+  "https://echai.ventures/d2c/d2c-export-compliance/rodtep-vs-duty-drawback",
+  "https://payglocal.in/blog/export-benefits-guidelines-rodtep-rates",
+  "https://www.skydo.com/blog/rodtep-scheme-guide",
+  "https://taxguru.in/?p=783249",
+  "https://indiantradeportal.in/vs.jsp?lang=0&id=0,55,23222"
+ ],
+ "verification_notes": [
+  "AUDIENCE: foreign company and HNI-owned exporters (choosing between and combining India's two main export duty remission schemes)",
+  "TARGET QUERY: duty drawback versus RoDTEP, can both be claimed on the same export",
+  "DEMAND EVIDENCE: none seen beyond a steady volume of exporter-facing compliance content on this comparison found in this run; no specific search-volume signal observed",
+  "Conceptual split between drawback refunding customs duty on inputs and RoDTEP remitting duties and taxes not covered by GST refund or drawback, including the ability to claim both on different cost components of the same shipment without double-claiming the same duty: confirmed from two independent sources (payglocal.in and echai.ventures) describing the same division and the same no-double-claim restriction.",
+  "RoDTEP's origin as a WTO-compliant replacement for MEIS, rates notified under Appendix 4R to Notification 19/2015-20, and sector exclusions for steel, chemicals, and apparel and made-ups (covered instead by RoSCTL): confirmed from two independent sources (indiantradeportal.in and the mondaq/taxguru RoDTEP notification coverage) describing the same notification basis and exclusion categories.",
+  "RoDTEP paid as a transferable e-scrip rather than cash, the mandatory shipping-bill declaration, and processing after the Export General Manifest is filed: confirmed from two independent sources (skydo.com and the RoDTEP scheme FAQ material referenced in search results) describing the same scrip mechanism and shipping-bill flag requirement.",
+  "Exclusion of SEZ, EOU, Advance Authorisation, manufacture-in-bond operators and deemed exports from RoDTEP: confirmed from two independent sources describing the same exclusion list in materially similar terms.",
+  "Left out: current RoDTEP percentage rates for specific tariff lines and the exact drawback All Industry Rate figures, because sources in this run were dated across several years and gave conflicting or outdated figures; the guide states that rates should be checked against the current DGFT appendix and CBIC drawback notification rather than citing a specific percentage as current."
+ ]
+}
