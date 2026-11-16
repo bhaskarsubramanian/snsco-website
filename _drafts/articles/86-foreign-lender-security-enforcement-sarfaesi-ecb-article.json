@@ -1,0 +1,194 @@
+{
+  "slug": "foreign-lender-security-enforcement-sarfaesi-ecb-article",
+  "title": "Can a Foreign Lender Enforce Security Over Indian Assets? ECBs, Guarantees and the SARFAESI Gap",
+  "subtitle": "An offshore lender financing an Indian borrower can now take security over almost any class of Indian asset after the February 2026 liberalisation of the ECB framework, but holding that security and actually enforcing it on default remain two different questions, because the fastest Indian enforcement route, SARFAESI, is generally not open to the lender itself.",
+  "meta_description": "Can a foreign lender enforce security over Indian assets? How ECB security, guarantees, SARFAESI eligibility, DRT and security trustees actually work.",
+  "practice_area": "Banking & Finance",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Chandrayee Roy",
+      "role": "Associate, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian, Chandrayee Roy",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors; Associate, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-16",
+  "seo_title": "Foreign Lender Security Enforcement in India: ECB Guide",
+  "standfirst": "A foreign bank or fund lending to an Indian borrower under an External Commercial Borrowing can, since February 2026, take security over a wider range of Indian assets than before, without the authorised dealer bank sign-off that used to slow the process down. None of that changes a separate, older fact: most offshore lenders cannot invoke SARFAESI, India's fastest security-enforcement statute, in their own name, which is why the security trustee structure exists and why an offshore lender's enforcement strategy has to be built before disbursement, not after default.",
+  "key_points": [
+    "Following RBI's liberalisation of the External Commercial Borrowing framework effective from February 2026, security for an ECB can be created over immovable, movable, financial and intangible assets, including intellectual property, and the prior requirement for authorised dealer bank approval to create or cancel a charge, or to issue a guarantee, has been removed.",
+    "Security for an ECB can be created directly in favour of the overseas lender or in favour of a resident security trustee, and current RBI guidance treats the creation of security as broadly a matter for the borrowing agreement to specify, subject to conditions such as co-termination of the security with the ECB and a no-objection certificate from existing Indian lenders before encumbering an asset already charged to them.",
+    "SARFAESI, the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, is generally available to banks, specified financial institutions and NBFCs that meet a notified asset and debt-size threshold; a pure offshore ECB lender with no banking presence in India typically does not fall within any of these categories and cannot invoke SARFAESI's summary enforcement powers in its own name.",
+    "A branch of a foreign bank licensed to carry on banking business in India is a 'bank' for SARFAESI and Recovery of Debts and Bankruptcy Act purposes for as long as it holds that status, which is a materially different position from an offshore lender that has no licensed presence in India at all.",
+    "Because SARFAESI is unavailable to most offshore lenders, the Recovery of Debts and Bankruptcy Act, 1993, civil suit, or the Insolvency and Bankruptcy Code, 2016 route as a financial creditor become the realistic enforcement paths, each with its own eligibility threshold, forum and timeline, and none as fast as a SARFAESI-eligible lender's own enforcement process.",
+    "A security trustee structure, where an Indian bank or trustee entity that does qualify as a secured creditor under SARFAESI holds the security interest on behalf of the offshore lender or lender group, is the common market response to this gap, though whether a trustee's SARFAESI standing passes through cleanly to protect the underlying offshore lenders is treated differently by different practitioners and has not been uniformly settled by reported decisions, so the trust deed's drafting matters considerably.",
+    "A foreign financial creditor is not barred from filing a Section 7 application under the Insolvency and Bankruptcy Code against a defaulting Indian corporate borrower merely because the creditor is offshore, which makes the IBC route a meaningful fallback even where SARFAESI is unavailable, though it comes with the Code's own timelines and the reality of competing claims in a collective insolvency process rather than the lender recovering alone."
+  ],
+  "sections": [
+    {
+      "heading": "The question an offshore lender asks only after signing",
+      "paragraphs": [
+        "A foreign bank or private credit fund structuring a loan to an Indian company spends most of its diligence effort on pricing, covenants and the commercial terms of the facility, and treats the security package as a conveyancing exercise to be handed to local counsel once the term sheet is agreed. The harder question, how the lender actually gets its money back if the borrower defaults, tends to surface only once a default has already happened, by which point the lender's options are whatever the facility and security documents already provided for, not whatever would have been ideal.",
+        "India's statutory enforcement framework was built primarily around domestic banks and financial institutions. The SARFAESI Act gives a qualifying secured creditor the ability to take possession of and sell a defaulting borrower's secured assets without first going to court, which is considerably faster than a civil suit, but that power is defined by reference to who the creditor is, not simply whether the creditor holds valid security. An offshore lender that assumes its security interest automatically carries SARFAESI's enforcement powers because the security itself is validly created is working from an incorrect premise, and the gap between holding security and being able to enforce it the fast way is the subject of this article.",
+        "What follows works through how security for an External Commercial Borrowing is actually created today, why SARFAESI is closed to most offshore lenders, and what the realistic enforcement paths, DRT, civil suit, IBC and the security trustee structure, actually look like in practice."
+      ]
+    },
+    {
+      "heading": "The February 2026 liberalisation of ECB security",
+      "paragraphs": [
+        "The Reserve Bank of India amended the External Commercial Borrowing framework with effect from February 2026, broadening the security options available to a borrower raising an ECB and removing a procedural step that had slowed transactions down. Security can now be created over immovable property, movable assets, financial assets and intangible assets, including intellectual property, a materially wider scope than the position before the amendment, and a guarantee for the ECB can similarly be structured in favour of the lender or a security trustee under the applicable FEMA guarantee regulations.",
+        "The amendment also removed the earlier requirement for prior approval from an authorised dealer bank before a borrower could create or cancel a charge on an asset, or issue a guarantee, to secure an ECB; that approval step, which had been a routine but real source of delay, is no longer a precondition. What remains is a set of conditions attached to the security itself: the loan agreement must contain a clause requiring the borrower to provide security, security on an asset already encumbered to an existing Indian lender needs a no-objection certificate from that lender before a further charge is created, and the security's tenor is generally required to be co-terminous with the underlying ECB, meaning it cannot outlast the loan it secures.",
+        "Security can be granted directly to the offshore lender, or to a resident security trustee holding it on the lenders' behalf, and the choice of structure is largely left to the parties rather than dictated by the regulation. That flexibility is useful, but it does not, on its own, answer the separate question of which enforcement statute the secured party can actually use once security has been validly created, which is where the analysis in this article properly begins."
+      ]
+    },
+    {
+      "heading": "What SARFAESI actually requires of the creditor",
+      "paragraphs": [
+        "SARFAESI's summary enforcement mechanism, including the ability to take symbolic or physical possession of secured assets and sell them without first obtaining a court decree, is available to a 'secured creditor' as the Act defines that term, a category built around banks, specified financial institutions, and asset reconstruction companies, with non-banking financial companies brought within the definition only through a notification subject to an asset-size and debt-size threshold. An NBFC with assets of at least roughly INR 100 crore, enforcing a secured debt of at least roughly INR 50 lakh, currently qualifies; an NBFC below that threshold, and an entity that is not a bank, notified financial institution or qualifying NBFC at all, generally does not.",
+        "A pure offshore ECB lender, a foreign bank lending from outside India with no Indian banking licence, or an offshore private credit fund, does not fall within any of these categories in the ordinary case, because the lender is neither a bank carrying on business in India nor an NBFC registered and regulated by the RBI. The consequence is that such a lender cannot invoke SARFAESI's possession-and-sale powers in its own name, regardless of how properly its security interest over the Indian borrower's assets was created under the ECB framework described above.",
+        "This is a different position from a branch of a foreign bank that is licensed to carry on banking business in India. Reported case law has treated such a branch as a 'bank' for the purposes of both SARFAESI and the Recovery of Debts and Bankruptcy Act for as long as it carries on that licensed business, including in at least one instance where the branch's subsequent surrender of its licence did not retrospectively strip it of standing for an application it had already filed while licensed. A foreign bank lending into India through its own RBI-licensed Indian branch is therefore in a meaningfully stronger enforcement position than an offshore fund or an overseas bank lending directly from outside India, and this distinction should inform how a foreign lending group decides which entity in its structure actually extends the ECB."
+      ]
+    },
+    {
+      "heading": "Why this gap exists and why it has not closed",
+      "paragraphs": [
+        "SARFAESI was designed as a tool for the domestic banking and financial sector to clean up non-performing assets without the delay of ordinary civil litigation, and its secured-creditor definition reflects that origin: the categories of eligible creditor are all entities the RBI itself regulates, licenses or notifies, which is a natural fit for domestic lending but does not extend automatically to an offshore lender the RBI has no equivalent regulatory relationship with. Extending SARFAESI's summary powers to any offshore lender simply because it holds valid Indian security would represent a significant policy change, handing a foreign, unregulated-in-India creditor the same power to dispossess a borrower without court process that only regulated domestic lenders currently have, and there is no current indication that such an extension is under consideration.",
+        "The ECB liberalisation of February 2026 widened what security an offshore lender can hold and how that security is created; it did not touch the SARFAESI eligibility question at all, and none of the commentary on the amendment suggests it was intended to. An offshore lender should read the broadened security options as good news about the asset classes available to secure its loan, not as a signal that enforcement has become any faster or simpler than it was before the amendment."
+      ]
+    },
+    {
+      "heading": "The security trustee structure",
+      "paragraphs": [
+        "The market response to this gap, used across syndicated and bilateral ECB facilities for years before the 2026 amendment and continuing afterward, is to appoint an Indian entity, typically a bank or a dedicated security trustee company that independently qualifies as a secured creditor under SARFAESI, to hold the security interest on behalf of the offshore lender or lender syndicate under a security trustee agreement. On a default, the trustee, as the SARFAESI-eligible secured creditor of record, can in principle invoke SARFAESI's enforcement powers and apply the proceeds for the benefit of the offshore lenders in accordance with the trust deed's waterfall.",
+        "This structure is widely used, but it is not free of legal uncertainty. Whether a trustee's own SARFAESI eligibility cleanly extends to enforcement action taken for the economic benefit of underlying offshore lenders who are not themselves eligible secured creditors is a question different practitioners and, in places, different courts have approached with varying degrees of comfort, and it has not been settled by a uniform line of reported authority that forecloses the argument either way. The practical response is not to assume the structure is bulletproof, but to draft the security trustee agreement, the underlying security documents and the inter-creditor arrangements with enough care that the trustee's standing to enforce is as unambiguous as the documentation can make it, and to build in a civil suit or DRT fallback in the facility's enforcement strategy rather than relying on the trustee route as the only plan.",
+        "An offshore lender relying on a security trustee structure should also confirm, at the time the facility is documented rather than at the time of default, that the chosen trustee entity in fact meets the current asset and debt-size thresholds for SARFAESI eligibility, since an NBFC trustee that qualified at the time the facility was signed can in principle fall below the threshold later if its own balance sheet changes, which would undermine the very mechanism the structure was built to provide."
+      ]
+    },
+    {
+      "heading": "The DRT and civil suit routes",
+      "paragraphs": [
+        "Where SARFAESI is unavailable, whether because the lender does not qualify as a secured creditor or because the parties did not use a trustee structure, the Recovery of Debts and Bankruptcy Act, 1993 provides a tribunal-based route for recovery, but its original-application jurisdiction is similarly restricted to 'banks and financial institutions' as the Act defines them, subject to a pecuniary threshold currently set at roughly INR 20 lakh following a 2018 notification that doubled the earlier INR 10 lakh threshold. A foreign bank operating through a licensed Indian branch generally qualifies for this route in the same way it can access SARFAESI; a pure offshore lender with no Indian banking presence again falls outside the Act's creditor categories in the ordinary case.",
+        "An offshore lender that does not qualify for either SARFAESI or DRT proceedings is left with an ordinary civil suit for recovery of the debt, and, separately, enforcement of any mortgage or other security through a suit for sale or foreclosure under the Transfer of Property Act or the relevant procedural law. This route is available to any creditor regardless of status, which is its advantage, but it runs through the ordinary civil court system with the timelines that implies, materially slower than either SARFAESI or DRT proceedings, and a lender's facility pricing and covenant package should be built with that realistic timeline in mind rather than assuming a summary remedy will be available if the security trustee structure is not used or does not hold up.",
+        "Arbitration is frequently layered on top of these court-based routes through the facility agreement's dispute resolution clause, which can give an offshore lender a forum and a governing law it is more comfortable with for establishing the debt and obtaining an award, but an arbitral award still generally needs to be enforced against Indian assets through the Indian courts, so arbitration shortens the dispute-resolution path without eliminating the need for an Indian enforcement step at the end of it."
+      ]
+    },
+    {
+      "heading": "The IBC as a recovery route for an offshore lender",
+      "paragraphs": [
+        "A foreign lender is not barred from filing an application under Section 7 of the Insolvency and Bankruptcy Code, 2016 against a defaulting Indian corporate borrower merely because the lender is based outside India; the Code's financial creditor definition turns on the nature of the debt, a disbursal against the consideration for the time value of money, not on the creditor's nationality or place of incorporation, and offshore ECB lenders and bondholders have been treated as financial creditors able to trigger the corporate insolvency resolution process. This gives an offshore lender a meaningful fallback where neither SARFAESI nor DRT proceedings are available to it directly.",
+        "The IBC route comes with a different character of outcome than a direct enforcement action: once the corporate insolvency resolution process is admitted, the defaulting borrower's assets and the claims against it are dealt with collectively, under a moratorium, with a resolution professional running the process and all financial creditors, not just the one who filed, participating in the resolution plan or liquidation waterfall. An offshore lender considering this route should weigh it as a tool to force a restructuring or recovery process rather than as a way to isolate and realise its own security ahead of other creditors, since the IBC's collective character is the opposite of what a SARFAESI-eligible secured creditor achieves by enforcing alone. This distinction is explored in more detail in connection with foreign creditor claims generally in corporate insolvency.",
+        "Where the offshore lender does hold valid security, that security interest is not extinguished merely because the borrower enters the corporate insolvency resolution process, but the lender's ability to enforce it directly is suspended by the moratorium for the duration of the process, and the lender's practical recovery then depends on how the security interest is treated in the resolution plan or, if the company is liquidated, in the liquidation waterfall under the Code, which gives secured creditors a priority position but still channels recovery through the Code's process rather than a standalone enforcement action."
+      ]
+    },
+    {
+      "heading": "Guarantees, and who may give one",
+      "paragraphs": [
+        "Alongside asset-backed security, an ECB can be supported by a guarantee, and the February 2026 liberalisation widened who may give one in favour of the offshore lender or its security trustee, subject to compliance with the applicable FEMA guarantee regulations; a corporate guarantee from an Indian group company, or a personal guarantee in an appropriate case, can therefore form part of the credit support package alongside or instead of asset security.",
+        "A guarantee from an Indian entity, once called, generally gives the offshore lender a straightforward debt claim against the guarantor, enforceable through the same civil suit, DRT or arbitration routes available for any unsecured debt claim, and this route does not depend on SARFAESI eligibility at all, since a guarantee claim is a contractual debt claim rather than a security-enforcement action. For an offshore lender concerned about the practical enforceability of an Indian security interest, a well-structured Indian guarantee, from an entity with identifiable, attachable Indian assets, can be a more reliable fallback than relying solely on the speed of a security-enforcement route that may not be open to the lender in the first place.",
+        "Entities regulated by the Reserve Bank of India are, under current guidance, generally restricted from providing certain categories of guarantee, which an offshore lender structuring a guarantee package involving an Indian bank, NBFC or other regulated group entity as guarantor should check specifically against the current FEMA guarantee regulations before assuming such a guarantor is available."
+      ]
+    },
+    {
+      "heading": "Drafting and structuring points for the facility agreement",
+      "paragraphs": [
+        "An offshore lender negotiating an ECB facility should decide, at the term sheet stage rather than after disbursement, whether the lending entity itself has any realistic path to SARFAESI or DRT eligibility, whether through an Indian branch or otherwise, and if not, whether a security trustee structure is being used and, if so, whether the trustee entity's own eligibility has been confirmed and is being monitored rather than assumed permanent. Facility pricing, covenant strength and the realism of the lender's recovery expectations should all be set with the actual, not the assumed, enforcement route in mind.",
+        "The security trustee agreement, the inter-creditor agreement where there is a lender syndicate, and the underlying security documents should be drafted consistently with each other and should expressly address what happens if the trustee's SARFAESI eligibility is later challenged or lapses, including a fallback mechanism for appointing a replacement trustee or for the lenders pursuing a DRT or civil suit route directly. A facility that is silent on this contingency leaves the lenders negotiating a solution for the first time at the point of default, which is the worst possible time to be negotiating anything.",
+        "Where the borrower's assets include intellectual property or other intangible assets now expressly eligible as ECB security following the 2026 amendment, the lender should confirm how that specific asset class is actually perfected and, separately, how it would actually be realised on enforcement, since a charge over intellectual property raises valuation and marketability questions that a mortgage over real property or a pledge over listed shares does not, and the broadened eligibility to take this kind of security does not by itself solve the practical question of what it is worth to a lender trying to recover against it.",
+        "The choice of governing law and forum for the facility agreement also interacts with the enforcement analysis more than lenders sometimes assume. A facility governed by English or New York law and subject to arbitration seated outside India can give the lender a comfortable forum for establishing the debt, but once the lender turns to Indian assets, whether under a security document or in aid of an arbitral award, the Indian enforcement statutes and the Indian lender-eligibility questions discussed throughout this article apply regardless of what law governs the underlying facility, so a governing-law choice that suits the lending relationship should not be read as resolving, or even simplifying, the India-specific enforcement questions that arise once recovery actually begins."
+      ]
+    },
+    {
+      "heading": "Cross-border insolvency and assets held outside India",
+      "paragraphs": [
+        "The analysis above addresses an offshore lender enforcing against a borrower's Indian assets. The position runs the other way too: an Indian lender or an Indian security trustee pursuing a borrower's assets located outside India, or an Indian insolvency process needing recognition in a foreign jurisdiction where the debtor also holds assets, raises its own set of questions under whatever cross-border insolvency framework applies, since India's domestic insolvency and enforcement statutes do not themselves have extraterritorial reach over foreign-situs assets without the cooperation of the foreign jurisdiction's own courts.",
+        "For a facility where the Indian borrower's group has assets both inside and outside India, and the lender group includes both Indian and offshore lenders, the security and inter-creditor documentation should address which lender can enforce which Indian asset under which Indian statute, and separately, how recovery against foreign-situs assets, if any form part of the security package, is coordinated with the Indian-law enforcement process, since a lender group that has not agreed this in advance tends to find the Indian and foreign recovery efforts proceeding on inconsistent timelines and, in a contested case, working against rather than alongside each other."
+      ]
+    },
+    {
+      "heading": "A lender's checklist before disbursement",
+      "paragraphs": [
+        "Before an offshore lender disburses under an ECB facility secured over Indian assets, the questions worth resolving on paper are: whether the lending entity itself, or only a security trustee, will hold the security interest, and if a trustee, whether that trustee's SARFAESI eligibility has been checked against the current thresholds; whether the borrowing agreement and security documents meet the February 2026 conditions, including the security's co-termination with the ECB and any required no-objection certificate from existing Indian lenders; what enforcement route, SARFAESI through a trustee, DRT, civil suit or IBC, the lender would actually use on a default, given its own status; and whether a guarantee from an Indian group entity forms part of the package as a fallback independent of the asset security's enforceability.",
+        "An offshore lender that has answered these questions before disbursement is negotiating from a position where the credit committee understood the real recovery timeline when the facility was priced. One that has not is discovering, at the point of default, that the fast Indian enforcement route it assumed was available belongs to a different category of creditor altogether."
+      ]
+    }
+  ],
+  "conclusion": [
+    "The February 2026 liberalisation of the ECB security framework solved a real problem: it widened the asset classes an offshore lender can take security over and removed a procedural bottleneck in creating that security. It did not solve, and was never intended to solve, the separate question of who can actually use SARFAESI's fast enforcement powers once a default occurs, and that question still turns on the lender's own status as a bank, a notified financial institution, a qualifying NBFC, or neither.",
+    "An offshore lender's practical answer to that gap, a security trustee structure, an Indian branch presence, a supporting Indian guarantee, or acceptance that enforcement will run through DRT, civil suit or the IBC, should be chosen and documented at the time the facility is negotiated, because none of these routes can be improvised after the borrower has already defaulted. A broader security package signed in February 2026 is only as useful as the enforcement plan sitting behind it."
+  ],
+  "faqs": [
+    {
+      "q": "Can a foreign bank lending directly from outside India use SARFAESI to enforce security in India?",
+      "a": "Generally no. SARFAESI's fast enforcement powers are available to a 'secured creditor' as the Act defines it, a category built around banks, specified financial institutions and notified NBFCs above a threshold. A pure offshore lender with no licensed Indian banking presence typically does not fall within this definition and cannot invoke SARFAESI directly."
+    },
+    {
+      "q": "Does a foreign bank's Indian branch have the same SARFAESI rights as an Indian bank?",
+      "a": "A branch of a foreign bank that is licensed to carry on banking business in India has generally been treated as a 'bank' for SARFAESI and Recovery of Debts and Bankruptcy Act purposes for as long as it holds that status, putting it in a materially stronger position than an offshore lender with no Indian branch presence."
+    },
+    {
+      "q": "What is a security trustee structure and why is it used for ECBs?",
+      "a": "It is an arrangement where an Indian entity that independently qualifies as a secured creditor under SARFAESI, typically a bank or trustee company, holds the security interest on behalf of offshore lenders. On default, the trustee can invoke SARFAESI's powers and distribute recovered proceeds to the offshore lenders under the trust deed, working around the fact that the offshore lenders themselves cannot use SARFAESI directly."
+    },
+    {
+      "q": "What security can a foreign lender take for an External Commercial Borrowing today?",
+      "a": "Following the RBI's liberalisation effective February 2026, security for an ECB can be created over immovable, movable, financial and intangible assets, including intellectual property, either directly in favour of the overseas lender or in favour of a resident security trustee, without the earlier requirement for prior authorised dealer bank approval."
+    },
+    {
+      "q": "Can a foreign lender file an insolvency application against an Indian borrower under the IBC?",
+      "a": "Yes. A foreign lender is not barred from filing a Section 7 application as a financial creditor merely because it is based outside India, since the Code's financial creditor test turns on the nature of the debt rather than the creditor's nationality. This gives offshore lenders a fallback recovery route even where SARFAESI and DRT proceedings are unavailable to them directly."
+    },
+    {
+      "q": "What recovery route does an offshore lender have if it cannot use SARFAESI or the DRT?",
+      "a": "An ordinary civil suit for recovery of the debt and, where relevant, for enforcement of a mortgage, remains available to any creditor regardless of status, as does an IBC application if the debtor is a corporate entity in default. These routes are generally slower than SARFAESI or DRT proceedings, which is why facility pricing and timelines should account for the realistic route from the outset."
+    },
+    {
+      "q": "Is a security trustee's SARFAESI eligibility guaranteed to protect the underlying offshore lenders?",
+      "a": "Not with certainty. Whether a trustee's own SARFAESI standing cleanly extends to enforcement carried out for the economic benefit of offshore lenders who are not themselves eligible secured creditors has been approached with varying degrees of comfort by different practitioners and has not been settled by a uniform line of reported authority, so the trust deed and security documents need careful drafting rather than reliance on the structure alone."
+    },
+    {
+      "q": "Can an Indian group company guarantee an ECB in favour of an offshore lender?",
+      "a": "Yes, subject to the applicable FEMA guarantee regulations, and this can be a useful recovery fallback because a guarantee claim is an ordinary contractual debt claim rather than a security-enforcement action, so it does not depend on the lender's SARFAESI eligibility at all."
+    },
+    {
+      "q": "Does the DRT pecuniary threshold limit which ECB defaults a qualifying lender can pursue there?",
+      "a": "Yes. The Recovery of Debts and Bankruptcy Act's original-application jurisdiction currently applies where the debt due is at least roughly Rs 20 lakh, following a 2018 notification that doubled the earlier Rs 10 lakh threshold, so a qualifying bank or financial institution pursuing a smaller default would need to use a civil suit or another available route instead."
+    }
+  ],
+  "references": [
+    "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act), Sections 2(zd) (secured creditor) and 13",
+    "Reserve Bank of India notification extending SARFAESI eligibility to specified NBFCs above prescribed asset and debt thresholds",
+    "Recovery of Debts and Bankruptcy Act, 1993 (formerly the Recovery of Debts Due to Banks and Financial Institutions Act, 1993), Section 1(4) and Section 19",
+    "Central Government notification dated 6 September 2018 raising the DRT pecuniary threshold to Rs. 20 lakh",
+    "Tribunal Reforms Act, 2021, amendments to the Recovery of Debts and Bankruptcy Act, 1993",
+    "Foreign Exchange Management (Borrowing and Lending) Regulations, as amended by the First Amendment Regulations, 2026, on ECB security and guarantees",
+    "Foreign Exchange Management (Guarantees) Regulations",
+    "Insolvency and Bankruptcy Code, 2016, Section 5(7)-(8) (financial creditor and financial debt) and Section 7 (initiation by financial creditor)",
+    "Transfer of Property Act, 1882, provisions on mortgage and foreclosure/sale suits",
+    "Banking Regulation Act, 1949, definition of 'banking company' as applied to a licensed foreign bank branch in India"
+  ],
+  "related_pages": [
+    "/articles/external-commercial-borrowings-2026-liberalisation-article.html",
+    "/articles/fema-contravention-rbi-compounding-nri-foreign-investor-article.html",
+    "/articles/debt-recovery-sarfaesi-drt-ibc-guarantor-exposure-article.html",
+    "/articles/foreign-creditor-claims-corporate-insolvency-cirp-article.html",
+    "/legal-news/letter-of-credit-ucp600-discrepancy-dispute-high-court.html",
+    "/articles/nri-home-loan-loan-against-property-fema-article.html"
+  ],
+  "sources": [
+    "https://www.aoshearman.com/en/insights/new-route-for-offshore-lenders-through-the-liberalization-of-indias-ecb-framework",
+    "https://www.barandbench.com/law-firms/view-point/rbi-liberalises-ecb-wider-access-greater-flexibility-and-new-guardrails",
+    "https://law.asia/rbi-expands-security-options-for-ecbs/",
+    "https://ksandk.com/newsletter/rbi-overhauls-ecb-framework-under-fema-2026/",
+    "https://bhattandjoshiassociates.com/non-banking-financial-companies-under-the-sarfaesi-act-legal-framework-and-enforcement-mechanisms/",
+    "https://gpg-pdf.chambers.com/private-credit-2026/114/",
+    "https://taxguru.in/corporate-law/monetary-limit-raised-filing-application-debts-recovery-tribunals.html",
+    "https://zeebiz.com/companies/news-monetary-limit-for-filing-cases-in-debt-recovery-tribunals-drt-doubled-to-rs-20-lakh-62415",
+    "https://ksandk.com/banking/security-enforcement-in-india/",
+    "https://resourcehub.bakermckenzie.com/en/resources/asia-pacific-guide-to-lending-and-taking-security/asia-pacific/india/topics/when-considering-whether-to-lend"
+  ],
+  "verification_notes": "AUDIENCE: foreign company. TARGET QUERY: can a foreign lender use SARFAESI in India / enforcing ECB security India / foreign bank debt recovery India. DEMAND EVIDENCE: none seen (no search-volume or trending data observed); topic chosen because the February 2026 ECB security liberalisation is a live, recent regulatory change for the foreign-company/HNI-lender audience and the site's existing ECB article (no. 75) covers the liberalisation generally without addressing the separate SARFAESI-eligibility gap, which this article treats as its distinct angle. Two-source check applied to: the February 2026 ECB security liberalisation, asset scope, removal of AD bank approval, co-termination and NOC conditions (aoshearman.com, barandbench.com, ksandk.com newsletter, law.asia); SARFAESI secured-creditor eligibility and the NBFC asset/debt thresholds (bhattandjoshiassociates.com, ksandk.com banking); SARFAESI unavailability to ECB lenders for both immovable and movable property (Chambers Private Credit 2026 via gpg-pdf.chambers.com); the DRT pecuniary threshold raised to Rs 20 lakh by the 6 September 2018 notification (taxguru.in, zeebiz.com, gktoday.in); and the foreign bank branch 'bank' status under the Recovery of Debts and Bankruptcy Act (secondary case summary, treated as reported commentary rather than a directly opened judgment, flagged accordingly rather than cited as a named case). The IBC financial-creditor treatment of foreign lenders is stated as a general proposition consistent with the Code's text rather than tied to an unverified specific case. Where sources conflicted (for example on whether security trustees can exercise SARFAESI rights on behalf of offshore lenders), the article states the position as unsettled rather than resolving it, per STRICT_VERIFICATION."
+}
