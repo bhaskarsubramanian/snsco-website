@@ -1646,5 +1646,52 @@
         "reason": "Same correction applied to the FAQ answer: patent border protection is not merely narrower post-2018, it was removed from the framework entirely."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/40-nri-managing-property-abroad-landlord-documents-article.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://future.indiankanoon.org/doc/199096823",
+      "https://www.legalauthority.in/judgement/bhimabai-mahadeo-kambekar-dead-thr-lrs-vs-arthur-import-export-co-40341"
+    ],
+    "note": "Registration Act ss.17/18/49 thresholds, Ravinder Kaur Grewal v Manjit Kaur (2019) 8 SCC 729 (adverse possession as sword, not just shield) and Bhimabai Mahadeo Kambekar v Arthur Import and Export Co (mutation does not create/extinguish title) both confirmed with matching holdings. Article appropriately hedges contested points (Model Tenancy Act adoption list, Mumbai police verification practice, exact SCC citation for Bhimabai not independently re-confirmed but case and holding are solid)."
+  },
+  {
+    "file": "_drafts/articles/84-expatriate-employment-india-visa-frro-tax-article.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/amp/top-stories/centre-brings-four-labour-codes-into-operation-with-effect-from-november-21-310772",
+      "https://www.incometaxindia.gov.in/w/schedule-iv-3"
+    ],
+    "note": "Four Labour Codes effective 21 Nov 2025 and Central Rules notified 8-9 May 2026 confirmed across multiple law-firm sources. Income-tax Act 2025 Schedule IV serial 3 conditions (90-day stay cap, no Indian business, remuneration not chargeable to employer's Indian income) confirmed directly against incometaxindia.gov.in official text, matching the draft's description of the Section 10(6)(vi) successor. Unconfirmed items (INR 24 lakh salary floor rumour) are correctly flagged as unconfirmed in the draft."
+  },
+  {
+    "file": "_drafts/articles/85-cross-border-merger-india-section-234-fema-article.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://taxguru.in/company-law/section-234-companies-act-2013-notified-13042017.html",
+      "https://website.rbi.org.in/web/rbi/-/notifications/foreign-exchange-management-cross-border-merger-regulations-2018-11235"
+    ],
+    "note": "Section 234 commencement (13 April 2017, notification S.O. 1182(E)) and the FEMA Cross Border Merger Regulations, 2018 (FEMA 389/2018-RB, dated 20 March 2018, deemed-approval mechanism) both confirmed. The NCLT Ahmedabad bench inconsistency on cross-border demergers (2018 Sun Pharma inbound demerger allowed; 19 Dec 2019 Sun Pharma order holding Section 234 does not extend to demergers) is independently confirmed and matches the draft's framing of an unresolved, inconsistent tribunal position."
+  },
+  {
+    "file": "_drafts/articles/86-foreign-lender-security-enforcement-sarfaesi-ecb-article.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.taxscan.in/govt-notifies-reduction-in-loan-limit-for-debt-recovery-for-nbfcs-from-rs-50-lakhs-to-20-lakhs-read-notification/100992",
+      "https://www.barandbench.com/law-firms/view-point/rbi-liberalises-ecb-wider-access-greater-flexibility-and-new-guardrails"
+    ],
+    "note": "The Feb 2026 ECB liberalisation (security over intangibles/IP, removal of AD bank approval) and the DRT Rs 20 lakh threshold (2018, for banks/FIs) are both confirmed. But the SARFAESI NBFC secured-debt threshold is misstated: the draft says 'roughly INR 50 lakh' currently qualifies, when a February 2021 notification (S.O. 652(E)) reduced this from Rs 50 lakh to Rs 20 lakh, confirmed by multiple current High Court rulings (Calcutta HC, Himachal Pradesh HC) applying the Rs 20 lakh floor.",
+    "fixes": [
+      {
+        "find": "An NBFC with assets of at least roughly INR 100 crore, enforcing a secured debt of at least roughly INR 50 lakh, currently qualifies; an NBFC below that threshold, and an entity that is not a bank, notified financial institution or qualifying NBFC at all, generally does not.",
+        "replace": "An NBFC with assets of at least roughly INR 100 crore, enforcing a secured debt of at least roughly INR 20 lakh (reduced from INR 50 lakh by a February 2021 notification), currently qualifies; an NBFC below that threshold, and an entity that is not a bank, notified financial institution or qualifying NBFC at all, generally does not.",
+        "reason": "The NBFC secured-debt threshold for SARFAESI eligibility was lowered from Rs 50 lakh to Rs 20 lakh by notification S.O. 652(E) dated 12 February 2021; current reporting and case law (Calcutta HC, Himachal Pradesh HC) confirm Rs 20 lakh is the figure in force, not Rs 50 lakh as the draft states."
+      }
+    ]
   }
 ]

@@ -4331,5 +4331,24 @@
       "https://www.taxscan.in/corporate-laws/nclt-admits-114-cr-insolvency-plea-despite-no-written-loan-agreement-holds-account-confirmation-part-payments-extend-limitation-read-order"
     ],
     "note": "Case number C.P.(IB) 54/KB/2026, 3 Nov 2026 admission date, the Rs 75 lakh/Jan 2017 loan, the ~Rs 1.15 crore (Rs 1,14,76,223) claim and the account-confirmation/part-payment reasoning are confirmed across Oquilia, TaxGuru and Taxscan."
+  },
+  {
+    "file": "_drafts/daily/news/21-delhi-hc-pagdi-payment-cannot-defeat-bona-fide-eviction-masjid-moth.json",
+    "verdict": "FAIL",
+    "claims_checked": 8,
+    "evidence": [
+      "https://delhihighcourt.nic.in/app/showFileJudgment/68003112026RCR3342025_190315.pdf"
+    ],
+    "note": "Every fact in the draft (case name, bench, case number, date, pagdi figures, Section 5(2)(a), Sarla Ahuja/Abid-Ul-Islam, dismissal) is confirmed directly from the signed Delhi High Court judgment PDF. However this exact ruling (Md. Kamruddin v. Devi Dayal Saini, RC.REV. 334/2025) is already live on origin/main:legal-updates/index.html as an existing update card with matching case details. Duplicate of live content."
+  },
+  {
+    "file": "_drafts/daily/news/22-rbi-domestic-money-transfer-directions-2026-consolidated-framework.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://rbi.org.in/Scripts/NotificationUser.aspx?Id=13752&Mode=0",
+      "https://psuwatch.com/newsupdates/rbi-issues-domestic-transfer-norms-walk-in-customers-can-send-up-to-rs-50k"
+    ],
+    "note": "Title, reference number (RBI/DPSS/2026-27/476), date (11 Nov 2026), repeal of the 2011 and 2024 circulars, cash pay-in (Rs 5,000/txn, Rs 25,000/month), cash pay-out (Rs 10,000/txn), walk-in NEFT (Rs 50,000), KYC/registration and AFA requirements all confirmed directly against the RBI's own notification page, corroborated by PSU Watch/Daily Pioneer wire coverage. No duplicate found on live site (legal-updates/index.html, search-index.json)."
   }
 ]
