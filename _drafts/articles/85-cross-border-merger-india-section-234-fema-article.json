@@ -1,0 +1,204 @@
+{
+  "slug": "cross-border-merger-india-section-234-fema-article",
+  "title": "Cross-Border Mergers Into and Out of India: Section 234 and the RBI's 2018 Regulations",
+  "subtitle": "A foreign company absorbing its Indian subsidiary, or an Indian promoter moving a business into a foreign holding structure, both run through the same two-step gateway: NCLT sanction under Section 234 and deemed RBI approval under a regulation most teams only read once the merger is already underway.",
+  "meta_description": "How a cross-border merger into or out of India works: Section 234, the FEMA Cross Border Merger Regulations, 2018, and the NCLT process explained.",
+  "practice_area": "Corporate Law & M&A",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Subhradip Roy",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian, Subhradip Roy",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-16",
+  "seo_title": "Cross-Border Mergers Into and Out of India: A Guide",
+  "standfirst": "Before 2017, a merger across the Indian border ran only one way: a foreign company could merge into an Indian company, but an Indian company could not merge into a foreign one. Section 234 of the Companies Act, 2013 opened the route in both directions, and the Reserve Bank of India's 2018 regulations supplied the foreign exchange framework that makes either direction actually workable. The mechanics, and the gaps that remain, matter to any foreign group restructuring its Indian presence and any Indian promoter consolidating a business under an overseas holding company.",
+  "key_points": [
+    "Section 234 of the Companies Act, 2013, in force since 13 April 2017, allows both inbound mergers (a foreign company merging into an Indian company) and outbound mergers (an Indian company merging into a foreign company), applying the Section 230 to 232 scheme of arrangement procedure with modifications.",
+    "An outbound merger is permitted only into a foreign company incorporated in a jurisdiction notified as permitted for this purpose, which in practice has meant jurisdictions whose securities regulator and central bank have arrangements of the kind listed in the applicable rule; the current notified list should be checked before structuring a specific outbound transaction.",
+    "The Foreign Exchange Management (Cross Border Merger) Regulations, 2018 give deemed RBI approval to a merger that complies with the regulations, so a separate RBI application is generally not required where the conditions are met, though the resultant company must still file the prescribed post-merger reports.",
+    "For an inbound merger, the resultant Indian company's issue of securities to non-resident shareholders of the merging foreign company must follow ordinary FDI pricing, entry route and sectoral cap rules, and the resultant company may hold any overseas asset or liability the scheme transfers to it, subject to disposal or transfer timelines under the regulations.",
+    "For an outbound merger, resident shareholders of the merging Indian company may acquire or hold securities of the resultant foreign company in accordance with the Overseas Investment framework, and the resultant foreign company may hold Indian assets and liabilities the merging Indian company held, subject to the same sectoral and pricing conditions that would apply to a fresh acquisition.",
+    "The 2018 Regulations govern mergers and amalgamations; they do not, on their current wording, extend to a cross-border demerger, and at least one bench of the NCLT has held that Section 234 itself does not accommodate a demerger structure, leaving outbound or inbound demergers in an unsettled position that should be checked against the latest tribunal position before being assumed available.",
+    "Tax neutrality for an amalgamation under the Income-tax Act depends on meeting conditions separate from NCLT sanction; a scheme approved by the NCLT is not automatically tax neutral, and the amalgamation must independently satisfy the statutory conditions, including the share-consideration requirement, under whichever Income-tax Act applies to the relevant tax year."
+  ],
+  "sections": [
+    {
+      "heading": "Why a group reaches for a cross-border merger rather than a share sale",
+      "paragraphs": [
+        "A foreign group that has operated an Indian subsidiary for years sometimes decides the subsidiary no longer needs to exist as a separate legal entity, because the commercial reasons for a joint venture partner or a regulatory requirement for local incorporation have fallen away, and running a wholly owned subsidiary as a branch of the parent, administratively, is simpler and cheaper. An Indian promoter building a business with international customers sometimes reaches the opposite conclusion, wanting the group's top entity to sit in a jurisdiction more familiar to overseas investors, lenders or acquirers, while keeping the Indian operating business intact underneath.",
+        "Both outcomes can usually be achieved through an asset transfer or a share acquisition structured as two separate transactions, but a statutory merger does something those structures do not: it transfers the entire undertaking, assets, liabilities, contracts, employees and all, by operation of a court-or-tribunal-sanctioned scheme, without needing a separate novation of every contract or a separate conveyance of every asset. That is the real commercial attraction of Section 234, and it is also why the procedural and foreign exchange conditions attached to it deserve to be understood before a group commits to the route rather than after.",
+        "This piece works through the two directions a cross-border merger can run, the statutory and regulatory conditions each direction has to satisfy, the NCLT process that both directions share, and the areas, cross-border demergers chief among them, where the law has not yet caught up with what groups actually want to do."
+      ]
+    },
+    {
+      "heading": "The statutory gateway: Section 234 and Chapter XV",
+      "paragraphs": [
+        "Section 234 of the Companies Act, 2013 came into force on 13 April 2017 through a notification of the Ministry of Corporate Affairs, together with the corresponding amendment to the Companies (Compromises, Arrangements and Amalgamations) Rules, 2016. It provides that the scheme-of-arrangement machinery in Chapter XV of the Act, Sections 230 to 232, applies, with such modifications as may be prescribed, to a merger or amalgamation between an Indian company and a company incorporated outside India.",
+        "Before this provision, the position under the predecessor Companies Act, 1956 allowed only an inbound merger: a foreign company could merge into an Indian company under Section 394 of the 1956 Act, but the reverse direction, an Indian company merging into a foreign one, had no statutory route. Section 234 closed that gap by making the provision expressly bidirectional, subject to the outbound direction being restricted to mergers into a company incorporated in a jurisdiction the applicable rules permit.",
+        "Section 234 and the Rules speak of mergers and amalgamations. They do not mention compromises, arrangements or demergers, and this drafting choice has become the central unresolved question in cross-border restructuring practice, addressed later in this article; a group planning a cross-border demerger, as distinct from a full merger, should treat that as a genuinely open question rather than an extension of the Section 234 route that can be assumed available."
+      ]
+    },
+    {
+      "heading": "Inbound mergers: a foreign company merging into an Indian company",
+      "paragraphs": [
+        "An inbound merger typically arises where a foreign group wants to consolidate an overseas entity's business, assets or a specific undertaking into its existing Indian company, or where a foreign parent itself merges into its Indian subsidiary to simplify the group structure. The transferor foreign company ceases to exist on the scheme becoming effective, and its undertaking vests in the Indian transferee company.",
+        "Because non-resident shareholders of the foreign transferor company typically end up holding shares in the resultant Indian company, the issue of those shares has to be tested against the ordinary foreign direct investment framework: the sector the resultant Indian company operates in must be open to the relevant level of foreign investment, the entry route (automatic or government) applicable to that sector must be followed, and the valuation and pricing of the shares issued must meet the pricing guidelines that would apply to any other issue of shares to a person resident outside India.",
+        "The resultant Indian company may also hold an overseas office, asset or liability that the foreign transferor held before the merger, acquired or held in accordance with the law applicable at the time, but the 2018 Regulations place a time limit on retaining a foreign office or branch that India's overseas investment rules would not otherwise allow an Indian company to hold directly, and that asset or liability generally has to be transferred or disposed of within a prescribed period measured from the date the National Company Law Tribunal sanctions the scheme."
+      ]
+    },
+    {
+      "heading": "Outbound mergers: an Indian company merging into a foreign company",
+      "paragraphs": [
+        "An outbound merger runs the other way: an Indian company's undertaking vests in a foreign resultant company, and the Indian company is dissolved without being wound up. This route is used where a group wants its ultimate operating entity to sit outside India, commonly to align with an overseas listing plan, an overseas financing structure, or a global reorganisation that treats the Indian business as one division among several rather than a standalone entity.",
+        "The foreign resultant company can only be incorporated in a jurisdiction that the applicable rules recognise as permitted for this purpose; the test used is generally tied to whether the securities market regulator and the banking regulator of that jurisdiction are signatories to specified international regulatory memoranda, or otherwise fall within a notified list. A group considering an outbound merger needs to confirm, as a first step rather than an afterthought, that its intended destination jurisdiction currently qualifies, because the permitted list is a regulatory, not a commercial, question and is not something the transaction documents can work around.",
+        "Resident Indian shareholders of the merging Indian company end up holding securities in the foreign resultant company, which is itself an overseas investment by each resident shareholder and has to be made in accordance with India's Overseas Investment rules, including any applicable financial commitment limits for a resident individual or company making that investment. The foreign resultant company, for its part, may hold Indian assets and liabilities that the merging Indian company held, subject to the same sectoral and pricing conditions that would have applied had the foreign company acquired those assets directly."
+      ]
+    },
+    {
+      "heading": "The FEMA Cross Border Merger Regulations, 2018: deemed approval",
+      "paragraphs": [
+        "The Reserve Bank of India notified the Foreign Exchange Management (Cross Border Merger) Regulations, 2018 on 20 March 2018, under its general powers to regulate cross-border capital account transactions. The regulations' central mechanism is deemed approval: a merger or amalgamation that complies with the conditions set out in the regulations is deemed to have the Reserve Bank's approval, and the parties do not need to make a separate application for a specific merger-approval letter from the Reserve Bank before proceeding.",
+        "Deemed approval is conditional, not automatic in the sense of requiring no engagement with the regulations at all. The resultant company, whether Indian or foreign, has reporting obligations to the Reserve Bank once the scheme is sanctioned, and the regulations require specified certifications, commonly from the managing director, whole-time director or company secretary, confirming compliance with the regulations as part of the scheme filed with the NCLT and the subsequent reporting. A scheme that does not in fact meet the regulations' conditions, even if the NCLT sanctions it on the corporate law side, does not get the benefit of deemed FEMA approval simply because the tribunal process was completed.",
+        "The 2018 Regulations do not prescribe a separate valuation methodology specific to cross-border mergers; valuation for the purposes of share pricing to non-residents or by residents in the foreign resultant company instead follows the pricing guidelines under the ordinary FEMA regulations governing inbound and outbound investment respectively. Getting the valuation approach wrong, by applying a domestic merger valuation convention without checking it against the FEMA pricing guidelines that actually govern the cross-border leg, is one of the more common points where a scheme that looks complete on the corporate law side runs into a reporting or compliance gap on the foreign exchange side."
+      ]
+    },
+    {
+      "heading": "The NCLT process end to end",
+      "paragraphs": [
+        "A cross-border merger follows the same procedural spine as a domestic scheme of arrangement under Sections 230 to 232: an application to the jurisdictional NCLT bench, notice to statutory authorities including the Registrar of Companies, the Regional Director, the Income Tax Department and sectoral regulators where relevant, convening and holding meetings of shareholders and creditors (or dispensing with them where the prescribed majority has already consented in writing), and, once objections are addressed, a final order sanctioning the scheme.",
+        "The cross-border-specific additions are mainly about proof of regulatory compliance on the foreign exchange side: the application and the scheme documents generally need to demonstrate that the merger meets the Cross Border Merger Regulations, 2018, and the draft scheme itself typically records the FEMA compliance certifications described above as a condition of the scheme becoming effective. An Indian or foreign entity involved should also check the foreign jurisdiction's own corporate law requirements for approving its side of the merger, since Section 234 governs the Indian leg of the transaction but does not, on its own, satisfy whatever court or regulatory sanction the foreign jurisdiction requires of the foreign company.",
+        "Timelines for a cross-border scheme tend to run longer than a purely domestic one, both because of the additional regulatory stakeholders consulted during the NCLT process and because coordinating a simultaneous or sequential approval process in the foreign jurisdiction adds its own calendar. Groups that treat the cross-border merger as a single-jurisdiction domestic scheme with an email sent to the foreign counsel late in the process tend to be the ones whose NCLT timeline stretches well beyond what a comparable domestic merger would have taken."
+      ]
+    },
+    {
+      "heading": "Tax neutrality is a separate question from NCLT sanction",
+      "paragraphs": [
+        "An amalgamation sanctioned by the NCLT does not automatically become tax neutral; tax neutrality is tested against the independent conditions in the Income-tax Act that define what counts as an 'amalgamation' for tax purposes and what transfers in connection with that amalgamation are treated as not giving rise to a taxable transfer. Under the 1961 Act, this turned on the definition in Section 2(1B) and the exemption provisions, commonly referenced as the Section 47 group, and those conditions include requirements about the consideration shareholders of the transferor company receive, generally that it be in the form of shares in the transferee, and about the transferee company's treatment of the transferred assets and shareholders going forward.",
+        "The Income-tax Act, 2025 applies from the 2026-27 tax year and carries forward the broad shape of this scheme, including dedicated provisions addressing accumulated losses on amalgamation, but the exact clause numbering of the 2025 Act's amalgamation definition and its equivalent to the old Section 47 exemption had not been independently confirmed as on the date of this article from a verified comparative source, so a transaction structured with tax neutrality as an objective should have its specific clause references checked against the enacted text of whichever Act governs the relevant tax year, rather than assumed to mirror the 1961 Act's numbering.",
+        "A cross-border merger adds a further layer to this analysis because one leg of the transaction sits outside Indian tax jurisdiction altogether: an outbound merger's foreign resultant company is typically taxed, if at all on the transaction itself, under the destination jurisdiction's own law, and an inbound merger can raise questions about the foreign transferor's exit taxation in its home jurisdiction quite apart from anything the Indian Income-tax Act requires. A scheme designed around Indian tax neutrality alone, without checking the destination or origin jurisdiction's treatment of the same transaction, risks solving one half of the tax question and leaving the other half unexamined."
+      ]
+    },
+    {
+      "heading": "Where the law runs out: cross-border demergers",
+      "paragraphs": [
+        "Section 234 and the 2018 Regulations are both drafted around mergers and amalgamations. Neither instrument expressly addresses a demerger, meaning a single company's business splitting so that part of it moves into or out of India while the rest stays where it is, structured as a cross-border transaction. This gap has mattered in practice: at least one bench of the National Company Law Tribunal has taken the position, in a reported demerger matter, that Section 234 does not extend to cross-border demergers, while other NCLT benches have in different matters approved schemes with cross-border demerger features, leaving the tribunal-level position genuinely inconsistent rather than settled either way.",
+        "Practitioners commenting on this gap have generally read it as a legislative oversight rather than a deliberate policy choice, since there is no obvious reason a group should be free to merge a business across the border but not to demerge one, but a reading of legislative intent is not a substitute for a clear statutory text, and a group should not assume a cross-border demerger will be approved on the strength of commentary alone. Where a restructuring genuinely requires a cross-border demerger rather than a full merger, the current, cautious approach is to test the specific NCLT bench's recent practice before committing to the structure, and to have a fallback plan, commonly a sequence of a domestic demerger followed by a separate cross-border merger or share transfer, ready if the tribunal declines to sanction a single combined cross-border demerger scheme.",
+        "This is also an area where the position can change on relatively short notice, whether through an amendment to the Rules under Section 234, a clarificatory RBI circular, or an appellate ruling that resolves the inconsistency between NCLT benches, so a group planning a transaction on this basis should treat the position described here as current only as on the date of this article and confirm it again closer to the time the scheme is actually filed."
+      ]
+    },
+    {
+      "heading": "Structuring points that come up repeatedly",
+      "paragraphs": [
+        "Groups planning an inbound merger frequently discover late in the process that the sector the Indian resultant company operates in sits under the government approval route for foreign investment rather than the automatic route, which can add a separate regulatory approval timeline to the NCLT process rather than running in parallel with it; checking the sectoral FDI position before, not after, filing the NCLT application avoids a scheme that is tribunal-ready but regulator-stalled.",
+        "Groups planning an outbound merger just as frequently assume the destination jurisdiction question is a formality, when in practice confirming that the destination regulator and central bank fall within the permitted list, and that the foreign jurisdiction's own corporate law has a mechanism to receive the merging Indian undertaking, needs to be resolved before the scheme documents are drafted, not treated as a closing condition to be sorted out later.",
+        "Both directions also raise employee and contract continuity questions that the statutory vesting mechanism answers for Indian-law purposes but does not automatically answer for contracts or employment relationships governed by foreign law or containing their own change-of-control or assignment restrictions; a scheme that relies entirely on the Indian vesting order to carry foreign-law contracts across the merger without checking each contract's own terms risks a dispute with a counterparty who is under no obligation to treat an Indian tribunal order as automatically binding on a foreign-law contract.",
+        "A related point groups routinely underestimate is intellectual property. Trademarks, patents and domain names registered in India in the transferor's name do not update automatically in every register simply because the NCLT order says the undertaking has vested in the resultant company; recordal of the change of ownership at the Trade Marks Registry, the Patent Office or the relevant domain registrar is usually still a separate administrative filing that follows the scheme becoming effective, and leaving this step for later has, in practice, left a resultant company unable to enforce a trademark against an infringer because the register still showed the dissolved transferor as the owner of record."
+      ]
+    },
+    {
+      "heading": "Competition clearance and other sectoral approvals",
+      "paragraphs": [
+        "A cross-border merger that meets the asset or turnover thresholds under the Competition Act, 2002 requires notice to the Competition Commission of India and clearance before the combination takes effect, in the same way a purely domestic merger of comparable size would, and the NCLT will generally expect evidence that this clearance has been obtained, or that the transaction is exempt, before sanctioning the scheme. A foreign group merging an Indian subsidiary into itself should not assume that a wholly owned intra-group restructuring automatically falls outside the Competition Act's notice requirement without checking the current exemption thresholds and categories against the specific transaction.",
+        "Where the Indian company being merged operates in a regulated sector, banking, insurance, non-banking finance, or a sector with its own sectoral merger-control regime, the Reserve Bank of India, the Insurance Regulatory and Development Authority of India or the relevant sectoral regulator will typically have its own approval requirement running alongside, not instead of, the Section 234 and FEMA processes. These sectoral approvals are frequently the slowest-moving part of an otherwise well-prepared cross-border merger timeline, because the sectoral regulator's own process rarely moves at the same pace as the NCLT's, and a scheme that is otherwise ready to file can still sit waiting on a sectoral no-objection that was requested too late in the sequence."
+      ]
+    },
+    {
+      "heading": "Creditor and secured lender consent",
+      "paragraphs": [
+        "A merging Indian company that has secured lenders, whether domestic banks or, increasingly, offshore lenders under an External Commercial Borrowing, generally has to secure those lenders' consent or at least give them an opportunity to object as part of the Section 230 to 232 process, since the scheme affects the identity of the obligor on secured debt once the undertaking vests in a foreign resultant company. A lender's facility agreement will typically contain its own change-of-control or merger consent clause independent of the statutory notice the NCLT process already requires, and the two obligations need to be tracked separately, because satisfying the statutory notice requirement does not automatically satisfy a contractual consent condition that a facility agreement imposes.",
+        "Where the merging Indian company has an outstanding ECB, moving the obligor to a foreign resultant company raises its own FEMA questions distinct from the merger regulations themselves, since the ECB framework's conditions on who may borrow and on what terms were set with reference to the original Indian borrower, and a change in the obligor's jurisdiction is not something the Cross Border Merger Regulations, 2018 address on their own terms. Groups with outstanding ECB debt planning an outbound merger should treat the lender consent and the ECB repayment or restructuring question as a work stream that starts well before the scheme is filed, not a condition precedent resolved in the weeks before the NCLT hearing."
+      ]
+    },
+    {
+      "heading": "A board's practical checklist before filing",
+      "paragraphs": [
+        "Before an Indian or foreign board commits to a cross-border merger, the questions worth answering on paper are: which direction the merger runs and whether the destination jurisdiction, for an outbound merger, currently sits on the permitted list; whether the resultant Indian company's sector, for an inbound merger, falls under the automatic or government FDI route and what that means for sequencing; whether the valuation approach proposed for share pricing actually follows the FEMA pricing guidelines rather than a purely domestic merger-valuation convention; whether tax neutrality is actually required for the transaction to make commercial sense, and if so, whether the current Income-tax Act's conditions for amalgamation treatment have been checked against the enacted text rather than assumed from the 1961 Act's numbering; and whether any part of the restructuring is, in substance, a demerger rather than a merger, in which case the current inconsistent NCLT position needs to be addressed head-on rather than papered over in the scheme's drafting.",
+        "None of these questions is answered faster by starting the NCLT filing first and resolving them along the way. A cross-border merger that has already cleared the sectoral, valuation, tax and demerger-classification questions before the scheme is drafted moves through the tribunal process as what it actually is, a corporate restructuring with a well-understood regulatory shape, rather than as a filing that keeps generating fresh objections from the Regional Director or the Reserve Bank each time a gap surfaces.",
+        "The same discipline applies to the sectoral and competition clearances described above and to secured lender consent: these are not closing conditions to be chased after the NCLT hearing is fixed, but work streams that should start on the same day the merger decision is taken, since a CCI filing, a sectoral regulator's no-objection or a lender's consent can each independently set the pace of the overall timeline regardless of how quickly the NCLT itself is prepared to move."
+      ]
+    }
+  ],
+  "conclusion": [
+    "Section 234 and the 2018 Regulations between them turned cross-border mergers from a one-way inbound route into a genuinely bidirectional one, and the deemed-approval mechanism in the Regulations means most compliant mergers do not need a separate, discretionary Reserve Bank sign-off. That structural openness has not closed every gap: the demerger question remains unresolved at the tribunal level, the destination or origin jurisdiction's own law still has to be satisfied independently of the Indian process, and tax neutrality still depends on conditions that sit outside the NCLT's sanction altogether.",
+    "A group that works through the sectoral, valuation, tax and demerger-classification questions before filing, rather than discovering them through NCLT objections or a stalled RBI report, is the group whose cross-border merger actually completes on the timeline it started with. The statute and the regulations give both directions a workable route; the discipline of using them correctly is what decides whether that route is quick or slow."
+  ],
+  "faqs": [
+    {
+      "q": "Can an Indian company merge into a foreign company?",
+      "a": "Yes, through an outbound merger under Section 234 of the Companies Act, 2013, provided the foreign resultant company is incorporated in a jurisdiction that current rules recognise as permitted for this purpose. The permitted-jurisdiction list should be checked at the time of structuring, since it is a regulatory determination rather than a commercial choice."
+    },
+    {
+      "q": "Does a cross-border merger need separate RBI approval?",
+      "a": "Generally no. The Foreign Exchange Management (Cross Border Merger) Regulations, 2018 deem a compliant merger to have RBI approval, so a standalone approval application is usually unnecessary. The resultant company still has to meet the regulations' conditions and file the prescribed post-merger reports with the Reserve Bank."
+    },
+    {
+      "q": "Can a cross-border demerger be done under Section 234?",
+      "a": "This is currently unsettled. Section 234 and the 2018 Regulations speak only of mergers and amalgamations, not demergers, and NCLT benches have taken inconsistent positions on whether a cross-border demerger can be sanctioned under this route. A group needing a cross-border demerger should check the latest position with the specific bench rather than assume it will be approved."
+    },
+    {
+      "q": "How is a resultant Indian company's share issue to foreign shareholders priced in an inbound merger?",
+      "a": "The issue follows the ordinary FDI pricing guidelines applicable to an issue of shares to a person resident outside India, not a separate cross-border-merger-specific valuation method, because the 2018 Regulations do not prescribe their own pricing formula and instead rely on the existing FEMA pricing framework."
+    },
+    {
+      "q": "Does NCLT sanction of a merger automatically make it tax neutral?",
+      "a": "No. Tax neutrality depends on separately satisfying the Income-tax Act's conditions for an amalgamation, including the requirement that shareholders of the transferor receive shares, not cash, as consideration. An NCLT-sanctioned scheme that does not meet those conditions is not automatically tax neutral merely because the tribunal approved it."
+    },
+    {
+      "q": "Can resident Indian shareholders hold shares in the foreign company after an outbound merger?",
+      "a": "Yes, but that shareholding is treated as an overseas investment by each resident shareholder and must be made in accordance with India's Overseas Investment framework, including any applicable financial commitment limits, rather than being exempt from those rules simply because it arose through a merger scheme."
+    },
+    {
+      "q": "How long does a cross-border merger typically take compared with a domestic one?",
+      "a": "It generally takes longer, because the NCLT process involves additional regulatory stakeholders on the foreign exchange side and because the foreign jurisdiction's own corporate law approval, which Section 234 does not itself satisfy, usually has to be coordinated alongside the Indian tribunal timeline rather than left until after the Indian order is passed."
+    },
+    {
+      "q": "What happens to a foreign office the Indian resultant company inherits in an inbound merger?",
+      "a": "The 2018 Regulations generally allow the resultant Indian company to retain an overseas office, asset or liability that the foreign transferor held, but only for a prescribed period measured from NCLT sanction, after which it typically must be transferred or disposed of in line with India's overseas investment rules."
+    },
+    {
+      "q": "Does a cross-border merger need Competition Commission of India clearance?",
+      "a": "If the combination meets the Competition Act's asset or turnover thresholds, yes, notice to and clearance from the CCI is generally required before the combination takes effect, the same as for a domestic transaction of comparable size, and the NCLT typically expects evidence of this clearance, or confirmation the transaction is exempt, before sanctioning the scheme."
+    }
+  ],
+  "references": [
+    "Companies Act, 2013, Section 234 and Chapter XV (Sections 230 to 232)",
+    "Companies (Compromises, Arrangements and Amalgamations) Rules, 2016, as amended, Rule 25A (cross-border mergers)",
+    "Ministry of Corporate Affairs notification bringing Section 234 into force, 13 April 2017",
+    "Companies Act, 1956, Section 394 (inbound-only merger route, repealed)",
+    "Foreign Exchange Management Act, 1999",
+    "Foreign Exchange Management (Cross Border Merger) Regulations, 2018 (Notification No. FEMA 389/2018-RB dated 20 March 2018)",
+    "Foreign Exchange Management (Non-debt Instruments) Rules, 2019 and FDI pricing guidelines",
+    "Foreign Exchange Management (Overseas Investment) Rules and Regulations, 2022",
+    "Income-tax Act, 1961, Section 2(1B) (definition of amalgamation) and Section 47 (transfers not regarded as transfer)",
+    "Income-tax Act, 2025, applicable from tax year 2026-27, provisions on amalgamation and carry forward of accumulated losses",
+    "Reported NCLT decisions on cross-border demergers, including the Ahmedabad bench's position declining to extend Section 234 to a demerger"
+  ],
+  "related_pages": [
+    "/articles/foreign-investment-india-entry-routes-fema-article.html",
+    "/articles/closing-branch-liaison-project-office-india-foreign-company-article.html",
+    "/blog/fdi-compliance-company-structuring-guide.html",
+    "/blog/buyback-of-shares-section-68-compliance-guide.html",
+    "/blog/related-party-transactions-section-188-guide.html",
+    "/articles/overseas-direct-investment-hni-family-business-oi-rules-article.html"
+  ],
+  "sources": [
+    "https://www.nishithdesai.com/default.aspx?id=5670",
+    "https://www.grantthornton.in/insights/blogs/cross-border-mergers-demergers-in-india-finer-aspects/",
+    "https://indiacorplaw.in/?p=8377",
+    "https://corporate.cyrilamarchandblogs.com/2020/01/cross-border-demergers-lack-of-legislative-intent/",
+    "https://taxguru.in/rbi/foreign-exchange-management-cross-border-merger-regulations-2018.html",
+    "https://www.khaitanco.com/thought-leadership/FEMA-cross-border-merger-regulations-issued-by-RBI",
+    "https://cbcl.nliu.ac.in/company-law/strengthening-of-foreign-investment-in-india-owing-to-the-foreign-exchange-management-cross-border-merger-regulations-2018/",
+    "https://www.mondaq.com/india/corporate-and-company-law/592890/merger-and-amalgamation-of-indian-companies-with-foreign-companies",
+    "https://www.visaverge.com/knowledge/goodwill-risks-rise-as-income-tax-act-2025-looms-over-tax-neutral-mergers-at-nclt/",
+    "https://www.taxwink.com/blog/amalgamation-meaning-under-income-tax"
+  ],
+  "verification_notes": "AUDIENCE: foreign company. TARGET QUERY: can an Indian company merge with a foreign company / cross-border merger RBI approval India / Section 234 Companies Act cross border merger. DEMAND EVIDENCE: none seen (no search-volume or trending data observed); topic chosen because cross-border statutory mergers are a recurring restructuring question for foreign groups and Indian promoters with overseas holding plans, and no existing article or blog guide on the site covers Section 234 and the 2018 FEMA regulations together. Two-source check applied to: Section 234 commencement 13 April 2017 and the inbound-only position under the 1956 Act (nishithdesai.com, mondaq commentary), FEMA Cross Border Merger Regulations, 2018 dated 20 March 2018 and the deemed-approval mechanism (taxguru.in, khaitanco.com, cbcl.nliu.ac.in), the inbound/outbound pricing and overseas-asset-retention mechanics (khaitanco.com, cbcl.nliu.ac.in), and the unresolved demerger position with inconsistent NCLT bench practice (indiacorplaw.in, corporate.cyrilamarchandblogs.com, grantthornton.in). The exact clause numbering of the amalgamation and tax-neutrality provisions under the Income-tax Act, 2025 could not be confirmed from a verified comparative source and is flagged in the article as unconfirmed rather than stated as settled, per STRICT_VERIFICATION; the 1961 Act's Section 2(1B)/Section 47 position is well established and cited as such. No specific NCLT case name or citation is asserted beyond what secondary commentary consistently reports, since the underlying order was not itself opened in this run."
+}
