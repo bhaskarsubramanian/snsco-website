@@ -4388,5 +4388,50 @@
    "https://delhihighcourt.nic.in/app/showFileJudgment/75203112026AA14582026_200348.pdf"
   ],
   "note": "Petition number, Section 11(5) basis, judge (Justice Om Prakash Shukla), 3 November 2026 decision date, respondents' non-appearance despite service, the finding of a valid arbitration agreement, and the DIAC-governed sole-arbitrator appointment are all confirmed from the court's own judgment PDF and a corroborating case listing. No material discrepancies found."
+ },
+ {
+  "file": "_drafts/daily/updates/20-cbic-scmtr-phased-export-message-migration.json",
+  "verdict": "PASS",
+  "claims_checked": 4,
+  "evidence": [
+   "https://taxguru.in/?p=1097362",
+   "https://www.corplawupdates.in/updates/cbic-circular-47-2026-scmtr-export-message-migration",
+   "https://worldtradescanner.com/47-CBIC%20Circular-01.11.2026.htm"
+  ],
+  "note": "Circular number, 1 November 2026 date, 16 November 2026 Thiruvananthapuram rollout start and 31 January 2027 final discontinuation date are all confirmed from at least two independent sources. No material discrepancies found."
+ },
+ {
+  "file": "_drafts/daily/updates/21-irdai-four-layer-motor-insurance-structure.json",
+  "verdict": "FIX",
+  "claims_checked": 5,
+  "evidence": [
+   "https://upstox.com/news/personal-finance/insurance/irdai-four-layer-motor-insurance-policy-what-car-and-bike-owners-need-to-know/article-203018/",
+   "https://www.business-standard.com/amp/industry/news/irdai-four-layer-motor-insurance-two-wheeler-structure-december-15-126110400489_1.html",
+   "https://www.moneylife.in/article/4layer-motor-insurance-structure-from-15th-december-irdai-makes-customer-option-form-mandatory/82117.html"
+  ],
+  "note": "Circular number, 2 November 2026 date and 15 December 2026 effective date confirmed. But the draft wrongly says personal accident cover is an optional layer: multiple independent sources agree the base personal accident cover for the owner-driver remains mandatory (only additional/enhanced PA cover for passengers, and occupant legal liability and own-damage, are optional). Telling readers PA cover is optional could lead them to skip a cover that is actually compulsory.",
+  "fixes": [
+   {
+    "find": "Only third-party liability stays compulsory; occupant liability, personal accident cover and own-damage become separate optional layers, with Bima Sugam integration and a customer option form at purchase.",
+    "replace": "Third-party liability and the base personal accident cover for the owner-driver stay compulsory; occupant liability, any enhanced personal accident cover and own-damage become separate optional layers, with Bima Sugam integration and a customer option form at purchase.",
+    "reason": "Base owner-driver personal accident cover remains mandatory under the circular; only enhanced PA cover, occupant liability and own-damage are optional, per Upstox, Business Standard and Moneylife."
+   },
+   {
+    "find": "When buying a car or two-wheeler policy after 15 December, ask for the customer option form and choose each optional layer, occupant liability, personal accident and own-damage, on its own terms.",
+    "replace": "When buying a car or two-wheeler policy after 15 December, ask for the customer option form and choose each optional layer, occupant liability, any enhanced personal accident cover and own-damage, on its own terms.",
+    "reason": "The base personal accident cover for the owner-driver is mandatory, not an optional layer to choose; only enhanced PA cover is optional."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/daily/updates/22-sebi-net-settlement-mutual-fund-cash-market.json",
+  "verdict": "PASS",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.moneylife.in/article/sebi-allows-net-settlement-of-funds-for-mutual-fund-schemes-from-april-2027-to-reduce-funding-requirements/82137.html",
+   "https://www.livelawbiz.com/securities-law/sebi/securities-and-exchange-board-of-india-allows-mutual-fund-schemes-net-funds-cash-market-transactions-april-2027-557664",
+   "https://cafemutual.com/news/industry/39236-sebi-allows-mutual-funds-to-net-cash-market-transactions-from-april-2027"
+  ],
+  "note": "5 November 2026 circular date, 1 April 2027 effective date, money-leg-only netting at scheme level, exclusion of schemes that both buy and sell the same security in a cycle, and the April 2026 FPI precedent are all confirmed from three independent sources. Exact circular number could not be confirmed directly against the SEBI PDF (host not reachable in this run) but is consistently reported, so left as is."
  }
 ]
