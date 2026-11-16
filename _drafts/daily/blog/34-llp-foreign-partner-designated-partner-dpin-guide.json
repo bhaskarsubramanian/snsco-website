@@ -1,0 +1,97 @@
+{
+ "slug": "llp-foreign-partner-designated-partner-dpin-guide",
+ "title": "Setting Up an LLP With a Foreign Partner: The Resident Designated Partner Rule and the FDI Conditions",
+ "seo_title": "LLP With a Foreign Partner: Resident DP and FDI Rules",
+ "meta_description": "A foreign national can be a designated partner in an Indian LLP, but a resident designated partner is still mandatory. What that means for FDI and DPIN.",
+ "practice_area": "Corporate Law & M&A",
+ "format": "document checklist",
+ "intro": [
+  "A foreign national or a foreign company can be a partner, and even a designated partner, in an Indian limited liability partnership. What cannot be avoided is Section 7 of the Limited Liability Partnership Act, 2008, which requires every LLP to have at least two designated partners who are individuals, and at least one of them resident in India. A structure with only foreign designated partners, however senior or however much capital they bring, does not satisfy this requirement and cannot be registered as it stands.",
+  "This guide sets out the resident designated partner rule, the separate question of whether foreign investment into the LLP is even permitted for the chosen business activity, and the Designated Partner Identification Number process a foreign individual has to go through either way."
+ ],
+ "sections": [
+  {
+   "heading": "The resident designated partner requirement",
+   "paragraphs": [
+    "Section 7(1) of the LLP Act requires at least two individual designated partners, with at least one resident in India. The Act's own definition of resident in this context, as reflected in the current statutory text, turns on the number of days an individual has stayed in India during the relevant financial year, and an LLP should check the current threshold rather than rely on an older figure, since secondary commentary on this point is not fully consistent and the statutory wording is the one that controls.",
+    "A foreign national can absolutely be a designated partner, and the Act does not bar a non-citizen from holding that role. What it requires is that at least one of the two designated partners, not necessarily a majority if there are more than two, independently satisfies the residency test. An LLP with two foreign promoters and no India-based individual anywhere in its structure typically has to bring in a resident nominee or a resident individual partner specifically to fill this role, which is a planning point that needs to be settled before incorporation documents are filed rather than discovered afterward."
+   ]
+  },
+  {
+   "heading": "A body corporate partner still needs an individual nominee",
+   "paragraphs": [
+    "Where one of the partners is itself a body corporate, such as a foreign holding company investing through the LLP structure, that body corporate cannot act as a designated partner in its own name. It can only be represented through a nominee who is a natural person, and that nominee individual is the one who must hold a valid Designated Partner Identification Number and meet whatever residency or other qualification the designated partner role requires.",
+    "This is where groups sometimes assume that naming the foreign holding company as a partner is enough and separately overlook that someone still has to be nominated, identified, and registered as the actual designated partner standing behind that corporate partner. The nomination itself needs to be formally recorded and filed with the Registrar, not handled as an internal, undocumented understanding within the group."
+   ]
+  },
+  {
+   "heading": "FDI eligibility is a separate question from the designated partner rule",
+   "paragraphs": [
+    "Satisfying Section 7 does not by itself mean foreign investment into the LLP is permitted. Under the FDI policy, foreign investment into an LLP is allowed only in sectors where 100% FDI is permitted under the automatic route and which are not subject to FDI-linked performance conditions, such as minimum capitalisation requirements that apply in some sectors. An LLP operating in a sector that allows only partial automatic-route FDI, or that carries performance conditions, generally cannot take foreign investment in LLP form at all, regardless of how the designated partner structure is arranged.",
+    "The LLP structure also cannot be used to raise the kind of capital an investor might expect from a company. Preference shares and other capital instruments do not exist in an LLP, and debt investment, whether convertible or non-convertible, into an LLP from a foreign investor is not a route the FDI policy accommodates in the way it accommodates external commercial borrowing into a company. A foreign investor who wants convertible instruments or a structured debt-equity mix as part of the deal usually needs to use a company rather than an LLP for that part of the investment."
+   ]
+  },
+  {
+   "heading": "The Designated Partner Identification Number for a foreign individual",
+   "paragraphs": [
+    "Every designated partner, resident or foreign, must obtain a Designated Partner Identification Number before being appointed, applied for through the incorporation form or the relevant DPIN application process, and a digital signature certificate is needed to complete the filing. A foreign national applying from outside India typically has to submit notarised and apostilled copies of identity and address proof, since the usual Aadhaar-based verification route available to Indian residents is not available to them.",
+    "This documentation step is often the slowest part of bringing a foreign designated partner onto an Indian LLP, because apostille processing abroad can take weeks depending on the country, and a foreign national's passport and overseas address proof both typically need separate notarisation and apostille before the DPIN application can be filed. Building this lead time into the incorporation timeline avoids the common mistake of assuming DPIN approval will move at the same speed for a foreign applicant as it does for a resident one."
+   ]
+  },
+  {
+   "heading": "Practical sequencing for a foreign-backed LLP",
+   "paragraphs": [
+    "Before committing to the LLP structure, confirm that the intended business activity sits within a sector where 100% FDI is allowed under the automatic route with no performance conditions, since this is the threshold question that determines whether the LLP route is even available, independent of who the designated partners are. Only after clearing that question does it make sense to work out who will serve as the resident designated partner, whether that is an individual partner who happens to be India-based, a trusted nominee, or an Indian professional engaged specifically for the role.",
+    "Start the DPIN and apostille process for any foreign designated partner well before the target incorporation date, given the documentation lead time involved, and keep the nomination of an individual behind any corporate partner properly documented and filed rather than left as an informal arrangement. An LLP that gets the sector eligibility and the resident designated partner requirement settled early avoids the more disruptive alternative, which is a registration that stalls at the Registrar's desk, or a foreign investment that arrives before anyone has checked whether the LLP route was ever open to that sector."
+   ]
+  },
+  {
+   "heading": "What happens when the LLP later adds or replaces a foreign partner",
+   "paragraphs": [
+    "The resident designated partner requirement is not a one-time box checked at incorporation. If the individual who satisfied the residency test later moves abroad, resigns, or is removed as a partner, the LLP has to replace that role with another qualifying resident individual and file the change with the Registrar, and an LLP that lets this lapse, even briefly, is technically out of compliance with Section 7 until it is fixed. Groups that rely on a single Indian employee or professional to hold the resident designated partner role should plan for what happens if that person leaves the company or the country, rather than treating the role as a fixed fact of the structure.",
+    "Adding a new foreign partner later in the LLP's life raises the same DPIN and apostille questions as the original incorporation, and the lead time involved does not shrink just because the LLP already exists. A group bringing in a new foreign co-investor as a partner midway through the LLP's life should start the DPIN and documentation process as early as it would for a brand new incorporation, rather than assuming an existing, already-registered LLP can absorb a new foreign partner on a shorter timeline."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can an LLP have only foreign designated partners?",
+   "a": "No. Section 7 of the LLP Act requires at least two individual designated partners with at least one resident in India. An LLP cannot be registered, or cannot remain compliant, with only foreign designated partners and no India-resident individual filling that role."
+  },
+  {
+   "q": "Can a foreign company be a designated partner of an Indian LLP?",
+   "a": "A body corporate, including a foreign company, can be a partner but not a designated partner in its own name. It must nominate an individual to act as designated partner on its behalf, and that nominee individual needs a valid Designated Partner Identification Number."
+  },
+  {
+   "q": "Is foreign investment allowed into any LLP, regardless of its business?",
+   "a": "No. Foreign investment into an LLP is permitted only where the business activity falls in a sector with 100% FDI allowed under the automatic route and no FDI-linked performance conditions. Outside that, the LLP structure is generally not available for foreign investment in that sector."
+  },
+  {
+   "q": "What documents does a foreign individual need for a DPIN application?",
+   "a": "Typically notarised and apostilled copies of a passport and overseas address proof, since the Aadhaar-based verification available to Indian residents does not apply. This step often takes longer than other parts of incorporation because of apostille processing time abroad."
+  }
+ ],
+ "references": [
+  "Limited Liability Partnership Act, 2008, Section 7 (designated partners, including the resident requirement)",
+  "Limited Liability Partnership Act, 2008, Section 7(6) (Designated Partner Identification Number)",
+  "Consolidated FDI Policy, provisions on foreign investment in Limited Liability Partnerships",
+  "Foreign Exchange Management (Non-Debt Instruments) Rules, provisions applicable to LLPs with foreign investment"
+ ],
+ "sources": [
+  "https://www.incometaxindia.gov.in/w/section-7-196",
+  "https://www.kanakkupillai.com/learn/who-is-eligible-to-be-an-llp-designated-partner-in-india/",
+  "https://blog.ipleaders.in/role-designated-partner-llp/",
+  "https://blog.ipleaders.in/fdi-rules-regarding-investing-llps/",
+  "https://www.nishithdesai.com/default.aspx?id=5715"
+ ],
+ "verification_notes": [
+  "AUDIENCE: foreign company and foreign national (choosing and structuring an LLP as the India entry vehicle)",
+  "TARGET QUERY: can a foreign national be a designated partner in an Indian LLP, what are the FDI conditions for an LLP",
+  "DEMAND EVIDENCE: none seen beyond consistent incorporation-service and law-firm coverage of this question found in this run; no specific search-volume signal observed",
+  "At least two individual designated partners with at least one resident in India under Section 7: confirmed from the statutory text itself as reproduced on the Income Tax Department's section-text page and corroborated independently by kanakkupillai.com describing the same requirement.",
+  "Foreign nationals permitted to serve as designated partners, subject to the resident-partner requirement still being met by someone in the structure, and a body corporate partner needing an individual nominee to act as designated partner: confirmed from two independent sources (kanakkupillai.com and blog.ipleaders.in) describing the same eligibility rule and nominee requirement in materially similar terms.",
+  "FDI into an LLP permitted only in sectors with 100% automatic-route FDI and no performance conditions, and the unavailability of preference shares and convertible or non-convertible debt instruments for a foreign investor in LLP form: confirmed from two independent sources (blog.ipleaders.in's FDI-in-LLP piece and nishithdesai.com) describing the same sectoral limitation and the same restriction on capital instruments.",
+  "DPIN requirement under Section 7(6) and the need for notarised and apostilled documents for a foreign applicant: confirmed from the statutory requirement itself plus corroboration from kanakkupillai.com and incorporation-service commentary describing the apostille step for foreign applicants.",
+  "Left out: the exact current day-count threshold for the residency test (sources gave conflicting figures, one citing a statutory figure tied to the financial year and others citing an older 182-day figure), and any claim about land-border-country investors needing government approval for LLP investment, because that point was not confirmed from a primary source in this run."
+ ]
+}
