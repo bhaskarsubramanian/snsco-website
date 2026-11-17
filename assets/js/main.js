@@ -97,6 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
     a.addEventListener('click', function(){
       window.location.href='mailto:'+a.getAttribute('data-u')+'@'+a.getAttribute('data-d');
     });
+    a.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); window.location.href='mailto:'+a.getAttribute('data-u')+'@'+a.getAttribute('data-d'); } });
   });
 
   /* SMOOTH SCROLL (same-page hash links only, excluding links that open in a new tab) */

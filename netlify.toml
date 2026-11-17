@@ -692,6 +692,653 @@
   to = "/legal-news/"
   status = 301
 
+# EXTENSIONLESS TWINS of the .html redirects (Search Console 404 report, 17 Nov 2026)
+
+[[redirects]]
+  from = "/legal-news/airline-flight-delay-consumer-complaint-compensation"
+  to = "/blog/airline-flight-delay-consumer-complaint-compensation.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/airport-concession-revenue-share-dispute-delhi-hc-aai"
+  to = "/blog/airport-concession-revenue-share-dispute-delhi-hc-aai.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/anti-dumping-duty-sunset-review-continuation-cestat"
+  to = "/blog/anti-dumping-duty-sunset-review-continuation-cestat.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/apmc-mandi-fee-direct-farm-gate-purchase-high-court"
+  to = "/blog/apmc-mandi-fee-direct-farm-gate-purchase-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/benami-transaction-recovery-suit-restriction-supreme-court"
+  to = "/blog/benami-transaction-recovery-suit-restriction-supreme-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/boundary-encroachment-commissioner-report-evidentiary-value-high-court"
+  to = "/blog/boundary-encroachment-commissioner-report-evidentiary-value-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/builder-possession-delay-consumer-complaint-compensation"
+  to = "/blog/builder-possession-delay-consumer-complaint-compensation.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/cbic-circular-gst-liquidated-damages-penalty-clauses"
+  to = "/blog/cbic-circular-gst-liquidated-damages-penalty-clauses.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/celebrity-endorser-liability-misleading-advertisement-ccpa"
+  to = "/blog/celebrity-endorser-liability-misleading-advertisement-ccpa.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/child-custody-best-interest-relocation-mother-high-court"
+  to = "/blog/child-custody-best-interest-relocation-mother-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/concession-termination-compensation-vidharba-highways-dispute"
+  to = "/blog/concession-termination-compensation-vidharba-highways-dispute.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/court-fee-valuation-possession-suit-high-court"
+  to = "/blog/court-fee-valuation-possession-suit-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/customs-svb-related-party-valuation-loading-cestat"
+  to = "/blog/customs-svb-related-party-valuation-loading-cestat.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/dairy-cooperative-board-supersession-registrar-order-set-aside"
+  to = "/blog/dairy-cooperative-board-supersession-registrar-order-set-aside.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/deficiency-service-vs-unfair-trade-practice-distinction"
+  to = "/blog/deficiency-service-vs-unfair-trade-practice-distinction.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/delhi-hc-section-9-post-tribunal-constitution"
+  to = "/blog/delhi-hc-section-9-post-tribunal-constitution.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/desertion-ground-divorce-animus-deserendi-high-court"
+  to = "/blog/desertion-ground-divorce-animus-deserendi-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/drb-recommendation-binding-until-superseded-karnataka-hc"
+  to = "/blog/drb-recommendation-binding-until-superseded-karnataka-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/epc-contractor-payment-certificate-dispute-madras-hc-injunction"
+  to = "/blog/epc-contractor-payment-certificate-dispute-madras-hc-injunction.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/execution-decree-possession-resistance-order-21-high-court"
+  to = "/blog/execution-decree-possession-resistance-order-21-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/faceless-assessment-denial-personal-hearing-natural-justice-hc"
+  to = "/blog/faceless-assessment-denial-personal-hearing-natural-justice-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/food-delivery-platform-consumer-complaint-deficiency"
+  to = "/blog/food-delivery-platform-consumer-complaint-deficiency.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/force-majeure-infra-contract-flood-disruption-gujarat-arbitral-tribunal"
+  to = "/blog/force-majeure-infra-contract-flood-disruption-gujarat-arbitral-tribunal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/geac-field-trial-approval-challenge-gm-mustard-ngt"
+  to = "/blog/geac-field-trial-approval-challenge-gm-mustard-ngt.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/grandparents-visitation-rights-recognised-high-court"
+  to = "/blog/grandparents-visitation-rights-recognised-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gst-eway-bill-expiry-penalty-proportionality-tribunal"
+  to = "/blog/gst-eway-bill-expiry-penalty-proportionality-tribunal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gst-itc-rule-86a-blocking-reasons-to-believe-hc"
+  to = "/blog/gst-itc-rule-86a-blocking-reasons-to-believe-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gst-refund-rejection-without-hearing-set-aside-hc"
+  to = "/blog/gst-refund-rejection-without-hearing-set-aside-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gstat-penalty-only-order-section-74-misapplied-modified"
+  to = "/blog/gstat-penalty-only-order-section-74-misapplied-modified.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/ham-annuity-payment-delay-arbitral-award-orissa-hc"
+  to = "/blog/ham-annuity-payment-delay-arbitral-award-orissa-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/haryana-land-ceiling-surplus-declaration-tribunal"
+  to = "/blog/haryana-land-ceiling-surplus-declaration-tribunal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/hospital-billing-dispute-consumer-commission-overcharging"
+  to = "/blog/hospital-billing-dispute-consumer-commission-overcharging.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/huf-partition-daughter-coparcenary-rights-reaffirmed-high-court"
+  to = "/blog/huf-partition-daughter-coparcenary-rights-reaffirmed-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/income-tax-reassessment-section-148a-monetary-threshold-hc"
+  to = "/blog/income-tax-reassessment-section-148a-monetary-threshold-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/income-tax-search-seizure-section-132-reason-to-believe-hc"
+  to = "/blog/income-tax-search-seizure-section-132-reason-to-believe-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/insurance-claim-repudiation-deficiency-service-consumer-commission"
+  to = "/blog/insurance-claim-repudiation-deficiency-service-consumer-commission.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/ipa-disciplinary-action-insolvency-professional-non-compliance"
+  to = "/blog/ipa-disciplinary-action-insolvency-professional-non-compliance.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/judicial-separation-conversion-divorce-section-13-1a-high-court"
+  to = "/blog/judicial-separation-conversion-divorce-section-13-1a-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/khatauni-mutation-correction-limitation-revenue-appeal"
+  to = "/blog/khatauni-mutation-correction-limitation-revenue-appeal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/lis-pendens-transfer-during-suit-void-supreme-court"
+  to = "/blog/lis-pendens-transfer-during-suit-void-supreme-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/medical-negligence-deficiency-service-consumer-forum"
+  to = "/blog/medical-negligence-deficiency-service-consumer-forum.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/mental-cruelty-false-criminal-complaints-divorce-ground-high-court"
+  to = "/blog/mental-cruelty-false-criminal-complaints-divorce-ground-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/metro-rail-ppp-concessionaire-viability-gap-dispute-nclat"
+  to = "/blog/metro-rail-ppp-concessionaire-viability-gap-dispute-nclat.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/mutation-entry-no-title-supreme-court"
+  to = "/blog/mutation-entry-no-title-supreme-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/na-permission-retrospective-conversion-fee-demand-quashed"
+  to = "/blog/na-permission-retrospective-conversion-fee-demand-quashed.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-2026-ibc-amendment-timeline-extension-strict-application"
+  to = "/blog/nclat-2026-ibc-amendment-timeline-extension-strict-application.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-coc-commercial-wisdom-minority-creditor-challenge"
+  to = "/blog/nclat-coc-commercial-wisdom-minority-creditor-challenge.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-group-company-insolvency-substantive-consolidation-denied"
+  to = "/blog/nclat-group-company-insolvency-substantive-consolidation-denied.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-irp-resolution-professional-transition-duties-dispute"
+  to = "/blog/nclat-irp-resolution-professional-transition-duties-dispute.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-resolution-professional-related-party-claims-verification"
+  to = "/blog/nclat-resolution-professional-related-party-claims-verification.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclat-statutory-dues-government-claims-resolution-plan-treatment"
+  to = "/blog/nclat-statutory-dues-government-claims-resolution-plan-treatment.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclt-admission-delay-condonation-section-7-listing-challenge"
+  to = "/blog/nclt-admission-delay-condonation-section-7-listing-challenge.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclt-essential-supplies-section-14-2-moratorium-utility-disconnection"
+  to = "/blog/nclt-essential-supplies-section-14-2-moratorium-utility-disconnection.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclt-related-party-transaction-scrutiny-suspended-board-preadmission"
+  to = "/blog/nclt-related-party-transaction-scrutiny-suspended-board-preadmission.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nclt-set-off-netting-master-agreement-during-cirp"
+  to = "/blog/nclt-set-off-netting-master-agreement-during-cirp.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/nwr-double-pledge-fraud-wdra-warehouse-negligence"
+  to = "/blog/nwr-double-pledge-fraud-wdra-warehouse-negligence.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/online-payment-fraud-deficiency-service-bank-consumer"
+  to = "/blog/online-payment-fraud-deficiency-service-bank-consumer.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/performance-security-bank-guarantee-invocation-infra-contract-bombay-hc"
+  to = "/blog/performance-security-bank-guarantee-invocation-infra-contract-bombay-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/permanent-alimony-section-25-hma-lump-sum-quantum-high-court"
+  to = "/blog/permanent-alimony-section-25-hma-lump-sum-quantum-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/permanent-injunction-settled-possession-burden-proof-high-court"
+  to = "/blog/permanent-injunction-settled-possession-burden-proof-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/pmfby-state-premium-subsidy-arrears-insurer-writ"
+  to = "/blog/pmfby-state-premium-subsidy-arrears-insurer-writ.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/prescriptive-easement-twenty-year-user-high-court"
+  to = "/blog/prescriptive-easement-twenty-year-user-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/registered-gift-deed-irrevocable-fraud-exception-high-court"
+  to = "/blog/registered-gift-deed-irrevocable-fraud-exception-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/restitution-conjugal-rights-decree-execution-limits-high-court"
+  to = "/blog/restitution-conjugal-rights-decree-execution-limits-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/rfctlarr-2013-act-land-acquisition-compensation-mp-hc-market-value"
+  to = "/blog/rfctlarr-2013-act-land-acquisition-compensation-mp-hc-market-value.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/right-of-way-linear-infrastructure-pipeline-easement-punjab-hc"
+  to = "/blog/right-of-way-linear-infrastructure-pipeline-easement-punjab-hc.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/senior-citizens-maintenance-act-eviction-son-property-tribunal"
+  to = "/blog/senior-citizens-maintenance-act-eviction-son-property-tribunal.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/specific-performance-suit-readiness-willingness-supreme-court"
+  to = "/blog/specific-performance-suit-readiness-willingness-supreme-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-consumer-complaint-limitation-discovery-of-defect"
+  to = "/blog/supreme-court-consumer-complaint-limitation-discovery-of-defect.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-partition-suit-co-sharers-residing-abroad"
+  to = "/blog/supreme-court-partition-suit-co-sharers-residing-abroad.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/tds-default-section-271c-reasonable-cause-itat"
+  to = "/blog/tds-default-section-271c-reasonable-cause-itat.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/telecom-service-deficiency-billing-consumer-complaint"
+  to = "/blog/telecom-service-deficiency-billing-consumer-complaint.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/up-tenant-ejectment-zamindari-abolition-act-limitation"
+  to = "/blog/up-tenant-ejectment-zamindari-abolition-act-limitation.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/void-marriage-bigamy-section-11-hma-distinguished-voidable-high-court"
+  to = "/blog/void-marriage-bigamy-section-11-hma-distinguished-voidable-high-court.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/bombay-hc-deemed-date-completion-occupancy-certificate"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/bombay-hc-food-delivery-platform-co-liability-unlicensed-seller"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/criminal-prosecution-copyright-piracy-optical-disc-raid"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/customs-ip-border-enforcement-counterfeit-seizure-upheld"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/delhi-hc-arbitrator-challenge-section-12-independence"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/delhi-hc-emergency-arbitrator-order-enforceable-section-17"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/delhi-hc-imported-food-noc-consignment-demurrage-customs-fssai"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/delhi-hc-one-sided-buyer-agreement-clause-unfair-rera"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/design-registration-piracy-functional-feature-defence-rejected"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/disciplinary-inquiry-report-non-furnishing-natural-justice-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/domain-name-cybersquatting-indrp-transfer-order"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/edible-oil-argemone-contamination-karnataka-hc-batch-wide-recall"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/employer-no-icc-constituted-section26-penalty-labour-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/esop-vested-options-forfeiture-resignation-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/fsat-delhi-limitation-condonation-appeal-food-safety-tribunal"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/fsat-tribunal-permissible-limits-food-colour-additive-burden-of-proof"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/fssai-novel-food-gm-ingredient-approval-timeline-circular"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/garden-leave-full-pay-notice-period-enforceability-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/geographical-indication-infringement-enforcement-handloom"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gig-worker-control-test-employee-classification-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/gratuity-forfeiture-misconduct-termination-supreme-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/haryana-rera-real-estate-agent-registration-penalty"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/high-court-section-37-limited-interference-arbitral-award"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/icc-external-member-independence-challenge-inquiry-quashed-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/icc-interim-relief-transfer-leave-section12-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/kolkata-milk-adulteration-detergent-contamination-conviction-upheld"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/madras-hc-food-adulteration-section-59-sentencing-graded"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/mahareat-carpet-area-shortfall-two-percent-tolerance"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/minimum-wages-scheduled-employment-contract-workers-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/parallel-imports-trademark-exhaustion-genuine-goods"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/patent-infringement-claim-construction-purposive-approach-hc"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/payment-of-bonus-act-wage-ceiling-date-of-payment-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/plant-variety-protection-infringement-ppvfra-order"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/posh-annual-report-non-filing-district-officer-show-cause"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/posh-confidentiality-breach-section16-disciplinary-action-upheld-tribunal"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/posh-icc-inquiry-quorum-defect-section4-tribunal"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/posh-inquiry-delay-beyond-90-days-judicial-scrutiny-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/prayosha-capital-third-party-funding-commercial-litigation-recognised"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/rajasthan-rerat-execution-recovery-arrears-land-revenue"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/rerat-appeal-limitation-condonation-sufficient-cause"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/retrenchment-last-come-first-go-departure-justification-tribunal"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-fssai-standard-setting-delegated-legislation-overreach-challenge"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-group-of-companies-doctrine-non-signatory"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-public-policy-domestic-award-section-34"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-section-11-prima-facie-review-existence"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/supreme-court-unstamped-arbitration-agreement-section-11-validity"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/sustained-humiliation-denial-of-work-constructive-dismissal-tribunal"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/trade-union-check-off-facility-registered-membership-high-court"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/trademark-dilution-well-known-mark-unrelated-services"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/trademark-rectification-non-use-fraud-grounds-registrar-order"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/up-adjudicating-officer-section-68-penalty-notice-particulars-quashed"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/up-rera-registration-refused-incomplete-title-disclosure"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/wbrera-70-percent-escrow-diversion-show-cause"
+  to = "/legal-news/"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/sugarcane-cane-price-arrears-recovery-control-order.html"
+  to = "/blog/sugarcane-frp-arrears-recovery-guide.html"
+  status = 301
+
+[[redirects]]
+  from = "/legal-news/sugarcane-cane-price-arrears-recovery-control-order"
+  to = "/blog/sugarcane-frp-arrears-recovery-guide.html"
+  status = 301
+
 [[redirects]]
   from = "/*"
   to = "/404.html"
