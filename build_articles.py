@@ -88,7 +88,7 @@ for f in files:
 
 # ---- hub ----
 h = rd('blog/index.html')
-h = re.sub(r'<title>.*?</title>', '<title>Articles | Long-form Legal Analysis | S&amp;S Co. Advocates &amp; Solicitors</title>', h, count=1, flags=re.S)
+h = re.sub(r'<title>.*?</title>', '<title>Legal Articles | S&amp;S Co. Advocates &amp; Solicitors</title>', h, count=1, flags=re.S)
 dsc = 'Long-form legal analysis by the partners and team of S&S Co. on contemporary Indian legal issues in arbitration, insolvency, data protection, intellectual property, criminal law, real estate and succession.'
 for pat in (r'(<meta name="description" content=")[^"]*(")', r'(<meta property="og:description" content=")[^"]*(")', r'(<meta name="twitter:description" content=")[^"]*(")'):
     h = re.sub(pat, lambda m: m.group(1) + q(dsc) + m.group(2), h)
