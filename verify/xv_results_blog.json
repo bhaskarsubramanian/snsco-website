@@ -3544,5 +3544,52 @@
     "reason": "The 120-day, financial-year test (replacing the older 182-day test) is confirmed consistently across multiple independent law-firm sources (ebizfiling, Khaitan & Co, India Briefing)."
    }
   ]
+ },
+ {
+  "file": "_drafts/daily/blog/35-eps-95-higher-pension-option-status-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 14,
+  "evidence": [
+   "https://www.wtwco.com/en-IN/insights/2022/11/supreme-court-judgement-on-higher-pension-based-on-eps-95",
+   "https://www.azbpartners.com/bank/sc-pension-judgment-epfo-vs-sunil-kumar-others/",
+   "https://www.businesstoday.in/personal-finance/news/story/higher-eps-95-pension-epfo-received-15-24-lakh-applications-where-cases-are-still-pending-548620-2026-08-12",
+   "https://www.livelaw.in/amp/high-court/madras-high-court/madras-high-court-epfo-circular-quashed-exemption-pf-scheme-cannot-deny-benefit-under-pension-scheme-303750",
+   "https://www.taxmann.com/post/blog/government-notifies-employees-pension-scheme/"
+  ],
+  "note": "EPFO v Sunil Kumar B, decided 4 November 2022, and its holding (2014 amendment upheld, cut-off reopened, extra 1.16% employee contribution found unsustainable/ultra vires and later shifted onto the employer side) is confirmed from multiple independent sources. The 10 August 2026 Lok Sabha reply figures are confirmed precisely: 15,24,365 applications received, 11,595 pending, matching the draft's 15.24 lakh and five-figure pending claims. The Madras HC exempted-establishment ruling (2 Sept 2025, cut-off 31 Jan 2025 for joint options) is confirmed. The claim that a consolidated Employees Pension Scheme replacing EPS-95 and the 1971 Family Pension Scheme has been notified under the Code on Social Security is independently confirmed and in fact more solidly established than the draft implies (EPS 2026, G.S.R. 527(E), notified 29 June 2026). No material errors found; the draft's hedging on the minimum-pension-hike figure and exact backlog history is appropriate given genuinely conflicting press reports."
+ },
+ {
+  "file": "_drafts/daily/blog/36-oci-card-renewal-cancellation-rules-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 13,
+  "evidence": [
+   "https://www.eoibeijing.gov.in/public_files/assets/pdf/Press Release-Relaxation of OCI rules for below 20 and above 50 years of age.pdf",
+   "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/grounds-for-deportation-blacklisting-have-to-be-informed-2025-dhc-2108-john-robert-roughton-iii-v-union-of-india-1572885",
+   "https://www.verdictum.in/court-updates/high-courts/delhi-khalid-jahangir-qazi-v-union-of-india-2024-dhc-8754-oci-cardholders-1558055",
+   "https://www.casemine.com/commentary/in/ensuring-procedural-fairness-in-oci-cancellation:-mandatory-disclosure-and-hearing-under-section-7d(e)-of-the-citizenship-act/view"
+  ],
+  "note": "The April 2021 relaxation (reissue only after a passport obtained post-20 and post-50, old passport need not be carried) is confirmed from an official Indian-mission press release, and the Dec 2021-Dec 2022 transitional window is independently confirmed. Ashok Swain (Delhi HC sets aside OCI cancellation as mechanical, requires disclosure of material before cancelling), Khalid Jahangir Qazi (2024 SCC OnLine Del 7847, vague/unparticularised allegations insufficient), and John Robert Roughton III (2025:DHC:2108, blacklisting on Section 7D-overlapping grounds needs the same safeguards) are all independently confirmed with matching holdings. Section 7D clauses (e) and (da) and the hearing proviso are correctly described. No errors found."
+ },
+ {
+  "file": "_drafts/daily/blog/37-sound-mark-nontraditional-trademark-registration-india-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://nishithdesai.com/research-and-articles/hotline/ip-hotline/sounds-good-for-trademark-protection-yahoo-registers-the-first-ever-sound-trademark-in-india-5801",
+   "https://www.mondaq.com/india/trademark/1177272/sound-mark-registration-process",
+   "https://www.intepat.com/blog/registering-sound-marks-india/"
+  ],
+  "note": "Rule 26(5) of the Trade Marks Rules 2017 (MP3, not exceeding 30 seconds, plus graphical/musical-notation representation) confirmed from multiple independent sources, as is the point that 'notations' is undefined in the Rules. Yahoo's yodel as India's first registered sound mark (granted 18 August 2008) is confirmed by a primary-sounding law-firm hotline (Nishith Desai) and corroborated elsewhere; the ICICI 2011 date rests on a single source, which the draft already flags appropriately as not independently confirmed. No errors found."
+ },
+ {
+  "file": "_drafts/daily/blog/38-llp-to-private-limited-company-conversion-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://blog.ipleaders.in/amendment-of-section-366-of-the-companies-act-2013-corporatisation-prospects-for-unregistered-entities/",
+   "https://taxguru.in/company-law/convert-llp-private-limited.html",
+   "https://www.iepf.gov.in/content/dam/mca-aem-forms/instructionkits/Instruction%20Kit_URC-1.pdf"
+  ],
+  "note": "The Section 366-374 route (Chapter XXI Part I, Companies Act 2013), the Companies (Amendment) Act 2017 substituting \"two or more members\" for \"seven or more members\" in Section 366(2) (Section 75 of the 2017 Amendment Act), Form URC-1 under Rule 3(2) of the Companies (Authorised to Register) Rules 2014, and Section 374's vesting of property, rights and liabilities are all confirmed. The draft already flags the tax-neutrality claim and the alleged 2023 URC-1 form change as unconfirmed by an official source, which matches what this run found. No errors."
  }
 ]
