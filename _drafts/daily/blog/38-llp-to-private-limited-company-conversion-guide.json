@@ -1,0 +1,106 @@
+{
+  "slug": "llp-to-private-limited-company-conversion-guide",
+  "title": "Converting an LLP Into a Private Limited Company: The Section 366 Process",
+  "seo_title": "LLP to Private Limited Company: Step by Step",
+  "meta_description": "The actual Section 366 route for converting an LLP into a private limited company in India: who can use it, the filing steps, and common mistakes.",
+  "practice_area": "Corporate Law & M&A",
+  "format": "step-by-step process with timelines and fees where official",
+  "intro": [
+    "An LLP cannot convert itself into a private limited company under the LLP Act, 2008, because that Act has no conversion provision at all. The route actually used is Sections 366 to 374 of the Companies Act, 2013, a mechanism originally written to let any eligible entity, including a partnership firm or a cooperative society, register itself as a company, with an LLP being one of the entities the Ministry has allowed to use it.",
+    "What follows is the practical sequence: who is eligible, the filings involved, what the Registrar actually does with the LLP's existing assets and liabilities on conversion, and the points businesses most often get wrong, including the fact that the LLP does not disappear automatically just because the company has been formed."
+  ],
+  "sections": [
+    {
+      "heading": "What you are actually choosing, and why this route exists",
+      "paragraphs": [
+        "An LLP converting under this mechanism can only become a company limited by shares. It cannot become a company limited by guarantee or any other structure, so a business that wants a different corporate form has to incorporate fresh rather than convert.",
+        "The mechanism sits in Chapter XXI, Part I of the Companies Act, 2013, titled provisions relating to companies capable of being registered under the Act, and runs from Section 366 through to Section 374. Because the LLP Act itself is silent on conversion, this Companies Act route is the only statutory path available, and an LLP using it is described in the Act's own language as a company being registered under this Part, not as an LLP being converted in the way a partnership firm might be.",
+        "The same Part I mechanism is also used by partnership firms and certain cooperative societies seeking to become companies, which is worth knowing because much of the commentary and many of the official instruction kits describe the route in that broader language rather than speaking specifically about LLPs. An LLP's partners reading guidance written for the general route should expect to translate some of its terms, treating references to a firm's partners as applying equally to the LLP's partners, and references to the firm's capital contribution as applying to the LLP's own contribution structure."
+      ]
+    },
+    {
+      "heading": "Who can actually use this route",
+      "paragraphs": [
+        "Section 366(2) originally required seven or more members to use this registration route, a threshold that made no sense for the great majority of LLPs, which commonly have only two partners. The Companies (Amendment) Act, 2017 fixed this by substituting the words two or more members for seven or more members in Section 366(2), which is what made the route genuinely usable for small and mid-sized LLPs rather than only large ones.",
+        "Beyond the numeric threshold, the LLP's partners have to actually agree to the conversion. Commentary on the process describes this as requiring the consent of all partners before the process begins, which in practice means checking the LLP agreement's own provisions on major decisions alongside the statutory requirement, since the agreement may set a different internal approval threshold for a step this significant.",
+        "A partner who objects to the conversion but is outvoted or overridden by the others does not have a separate statutory veto under Section 366 itself; the protection such a partner has lies in the LLP agreement's own exit, valuation and dispute provisions, which is why reviewing that agreement before initiating a conversion is as important as reviewing the Companies Act requirements, particularly in an LLP with only two or three partners where a single dissenting voice can otherwise stall the business."
+      ]
+    },
+    {
+      "heading": "The filing sequence",
+      "paragraphs": [
+        "The process begins with the partners' resolution approving conversion, followed by a public notice of the proposed registration, which one source describes as published through a form generally referred to as URC-2, intended to give creditors and other interested parties notice before the conversion is finalised. Where the LLP has existing secured creditors, their consent or a no-objection is a practical precondition, since those creditors' security interests do not simply vanish because the entity holding the assets has changed form.",
+        "The core filing is Form URC-1, filed under Rule 3(2) of the Companies (Authorised to Register) Rules, 2014, read with Section 366 of the Companies Act, 2013. It is filed together with the incorporation form used for the new company itself, and the attachments commentators describe include the list of partners and creditors, the LLP's financial statement, an affidavit from the partners, and a certificate from a practising professional confirming compliance. The Registrar of Companies issues a certificate of incorporation once satisfied, and the company's existence as a company begins from that certificate's date.",
+        "Form URC-1 has itself been revised more than once, including changes in 2016 and in 2018, and vendor and advisory sources describe a further 2023 change adding more required detail, though that last point was not confirmed against an official Gazette notification in the material available for this guide. Anyone filing should pull the current version of the form from the Ministry's portal rather than relying on an older downloaded copy."
+      ]
+    },
+    {
+      "heading": "What happens to the LLP's assets, contracts and the LLP itself",
+      "paragraphs": [
+        "Section 374 provides that on registration, all property, movable and immovable, and all rights and liabilities, vest in the new company. This is a genuine statutory vesting, not merely an instruction to the parties to transfer assets themselves, which is part of why this route is often chosen over simply forming a new company and having the old LLP sell or assign its assets to it.",
+        "Vesting under Section 374 does not by itself mean every third-party contract automatically continues on the same terms. Many commercial contracts contain their own consent or assignment clauses, and counterparties, particularly lenders, landlords and licensing authorities, often still insist on a fresh consent or a formal novation even where the statute says the right already vested automatically. Treating Section 374 as a substitute for actually checking each material contract is a common and avoidable mistake.",
+        "The LLP itself does not automatically cease to exist once the company is formed. It continues as a separate, now largely dormant, legal entity unless it is formally wound up or struck off, a process covered in a separate guide on closing an LLP through the Form 24 strike-off process. Skipping that step leaves the original LLP still obligated to file its annual returns and statement of accounts, and penalties for missing those filings continue to accrue even though the business has moved on to operating as a company."
+      ]
+    },
+    {
+      "heading": "Tax treatment is not a settled, blanket exemption",
+      "paragraphs": [
+        "One line of commentary on this route states that a conversion carried out under Section 366 is not treated as a transfer in the way a straightforward asset sale would be, which, if it holds in a given case, could matter for capital gains exposure. This point was found in only one source for this guide and could not be independently cross-confirmed against the Income Tax Act's own transfer-related provisions or a reported ruling, so it should not be treated as a settled, general exemption.",
+        "This is a meaningfully different question from the tax treatment of converting a private company into an LLP, which the Income Tax Act addresses more directly through its own specific conditions, and the two routes should not be assumed to mirror each other simply because both involve a change of corporate form. A business weighing this conversion against other restructuring options, such as a slump sale into a newly formed company, should ask its tax advisor to compare the actual positions side by side rather than assuming the LLP-to-company route is automatically the more tax-efficient one.",
+        "A business planning this conversion should get a specific tax opinion on its own facts before assuming the transition is automatically tax-neutral, rather than relying on general commentary that has not been tested against its particular asset mix, valuation and partner shareholding pattern after conversion."
+      ]
+    },
+    {
+      "heading": "Timelines, cost and realistic expectations",
+      "paragraphs": [
+        "Advisory and vendor sources quote rough figures of thirty to forty-five days and professional fees somewhere between fifteen thousand and fifty thousand rupees for the conversion process, but these are vendor-supplied estimates rather than figures fixed by the Ministry, and actual time depends heavily on how quickly the Registrar processes the filing, how complete the URC-1 attachments are on first submission, and whether any creditor raises an objection during the notice period.",
+        "Official government fees for incorporation itself are tied to the new company's authorised share capital under the Ministry's standard fee schedule, which this guide does not restate here because that schedule changes periodically and should be checked directly on the Ministry's portal at the time of filing rather than taken from a guide that may be months or years old by the time it is read.",
+        "A realistic internal timeline should also build in the newspaper notice period before URC-1 can be filed, and a further buffer for the Registrar to raise and for the applicant to answer any queries on the attachments, rather than assuming the vendor-quoted window runs start to finish without interruption. Businesses working to a fixed external deadline, such as an investor's closing date, are better served by starting the process well ahead of that date than by treating the quoted thirty to forty-five days as a guarantee."
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "paragraphs": [
+        "The most frequent error is treating the conversion as complete once the certificate of incorporation is issued, and leaving the original LLP's own compliance filings unattended, which quietly accumulates penalties on an entity the business has stopped actively using. A close second is skipping the creditor notice or consent step where a charge exists, which can expose the conversion to later challenge.",
+        "Businesses also commonly assume that statutory licences, GST registration and bank accounts migrate automatically along with the vesting of property under Section 374. In practice, most regulators and banks require a fresh application or at least a formal intimation in the name of the new company, so these should be budgeted as separate action items rather than assumed to follow the Registrar's certificate on their own.",
+        "A related mistake is informing only some stakeholders of the change in entity, typically the bank and the major customers, while leaving smaller vendors, insurers and statutory authorities to find out later from a mismatched invoice or a bounced communication. Drawing up a single checklist of every counterparty, licence and account the LLP held, and working through it methodically once the certificate of incorporation is in hand, catches most of these gaps before they turn into disputes."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a two-partner LLP convert into a private limited company?",
+      "a": "Yes. The Companies (Amendment) Act, 2017 lowered the Section 366(2) threshold from seven or more members to two or more, which is what made this route workable for most LLPs, since the great majority have far fewer than seven partners."
+    },
+    {
+      "q": "Does the LLP stop existing once the new company is incorporated?",
+      "a": "No. The LLP continues as a separate legal entity, and remains obligated to file its own annual returns, until it is formally wound up or struck off. Many businesses miss this and accumulate avoidable penalties on the dormant LLP for filings that were due after operations had effectively already moved to the new company."
+    },
+    {
+      "q": "Do existing contracts automatically continue with the new company after conversion?",
+      "a": "Property and liabilities vest in the company by statute under Section 374, but third parties, especially lenders and licensing authorities, often still require fresh consent or formal novation under the specific contract's own terms, so this should be checked contract by contract."
+    },
+    {
+      "q": "Is the conversion automatically tax-neutral?",
+      "a": "This is not something to assume. At least one source describes the conversion as not being treated as a transfer for income tax purposes, but this could not be independently confirmed against the statute or a reported ruling, so specific tax advice on the facts of the conversion is necessary before relying on that position for any filing."
+    },
+    {
+      "q": "What is the main form used to file this conversion?",
+      "a": "Form URC-1, filed under Rule 3(2) of the Companies (Authorised to Register) Rules, 2014, together with the company incorporation form, with attachments including the list of partners and creditors, financial statements, a partners' affidavit and a practising professional's certificate confirming compliance with the Rules."
+    }
+  ],
+  "references": [
+    "Companies Act, 2013, Sections 366 to 374 (Chapter XXI, Part I)",
+    "Companies (Authorised to Register) Rules, 2014, Rule 3(2), Form URC-1",
+    "Companies (Amendment) Act, 2017 (amending Section 366(2) threshold from seven to two or more members)",
+    "Limited Liability Partnership Act, 2008"
+  ],
+  "sources": [
+    "https://treelife.in/compliance/conversion-of-llp-to-private-limited-company-in-india/",
+    "https://taxguru.in/company-law/convert-llp-private-limited.html",
+    "https://www.iepf.gov.in/content/dam/mca-aem-forms/instructionkits/Instruction%20Kit_URC-1.pdf",
+    "https://ca2013.com/374-obligations-of-companies-registering-under-this-part/",
+    "https://www.kanakkupillai.com/learn/understanding-conversion-of-limited-liability-partnership-to-private-limited-company/"
+  ],
+  "verification_notes": "AUDIENCE: domestic and HNI/family-business (business owners restructuring an LLP, including family-run LLPs converting ahead of raising equity capital). TARGET QUERY: 'how to convert LLP to private limited company' / 'LLP to Pvt Ltd process India'. DEMAND EVIDENCE: none seen directly (no search-volume or trend data observed; chosen because the site already compares entity types at formation but had no guide on converting an existing LLP). The core statutory route (Sections 366-374, Chapter XXI Part I, LLP Act silent on conversion) is confirmed from two independent sources (an MCA-hosted instruction kit for Form URC-1 and ca2013.com's statute commentary). The 2017 amendment lowering the Section 366(2) threshold from seven to two or more members is confirmed from the quoted amendment text itself as reproduced in search results, corroborated by a second advisory source describing the same two-member threshold. Form URC-1's filing basis (Rule 3(2) of the 2014 Rules) and its attachments are confirmed from the MCA instruction kit together with a second advisory source (treelife.in) describing the same attachments. The claim that a 2023 amendment added further required fields to URC-1 appeared only in one vendor blog and could not be confirmed against an official notification, so it is mentioned only as unconfirmed. The tax-neutrality claim for Section 366 conversions appeared in only one source and is explicitly flagged in the guide as not independently confirmed, rather than stated as settled law. Cost and timeline figures (₹15,000-50,000; 30-45 days) are vendor estimates from advisory websites, not official MCA figures, and are presented as such rather than as confirmed costs."
+}
