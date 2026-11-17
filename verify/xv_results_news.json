@@ -4433,5 +4433,62 @@
    "https://cafemutual.com/news/industry/39236-sebi-allows-mutual-funds-to-net-cash-market-transactions-from-april-2027"
   ],
   "note": "5 November 2026 circular date, 1 April 2027 effective date, money-leg-only netting at scheme level, exclusion of schemes that both buy and sell the same security in a cycle, and the April 2026 FPI precedent are all confirmed from three independent sources. Exact circular number could not be confirmed directly against the SEBI PDF (host not reachable in this run) but is consistently reported, so left as is."
+ },
+ {
+  "file": "_drafts/daily/news/26-allahabad-hc-penguin-random-house-mindmill-159-page-order-set-aside.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-judgment-quality-determined-depth-judicial-scrutiny-558181",
+   "https://lawtrend.in/?p=374621",
+   "https://images.assettype.com/barandbench/2026-11-06/drjcu11p/Harper_Collins_India_v_Rana_Kapoor.pdf"
+  ],
+  "note": "Fresh independent searches confirm the case name, Section 37 appeal number, bench, reservation/delivery dates, the lease background, the 08.12.2023 Commercial Court order, and the specific finding that pages 6-84 reproduced paragraphs 123-345 of the award and pages 86-142 reproduced the parties submissions, plus the remand to the Commercial Court, Gautam Budh Nagar. No stay or further appeal found. Not a duplicate of any live content (search-index.json and legal-updates/index.html have no match for Penguin Random House or Mindmill)."
+ },
+ {
+  "file": "_drafts/daily/news/27-nclat-ftf-pharma-pre-existing-dispute-insolvency-set-aside.json",
+  "verdict": "PASS",
+  "claims_checked": 11,
+  "evidence": [
+   "https://www.livelawbiz.com/ibc/nclat-sets-aside-insolvency-admission-against-ftf-pharma-over-pre-existing-disputes-557649",
+   "https://www.multibagg.ai/market-pulse/articles/ftf-pharma-cirp-closure-announcement-cmw3l7dsn005ls02rgjpf6s17",
+   "https://www.investywise.com/shilpa-medicare-limited-subsidiary-faces-corporate-insolvency-resolution/",
+   "https://nsearchives.nseindia.com/corporate/SHILPAMED_05112026165141_Finalorder.pdf"
+  ],
+  "note": "Independent sources (LiveLawBiz, Multibagg, Investywise, and the Shilpa Medicare NSE filing) confirm the appellant/respondent, appeal number, bench, the 09.09.2026 NCLT Ahmedabad admission, the 21.07.2023-09.08.2024 pre-notice emails versus the 22.10.2024 demand notice, the IRP appointment, and the 04.11.2026 NCLAT order closing the CIRP. Not a duplicate of live content."
+ },
+ {
+  "file": "_drafts/daily/news/28-allahabad-hc-seema-sharma-dismissal-convict-age-manipulation.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-court-employee-dismissal-convict-age-manipulation-558471",
+   "https://lawchakra.in/?p=326722",
+   "https://theprint.in/india/allahabad-hc-upholds-dismissal-of-court-employee-for-altering-prisoners-age-in-records/3099043/",
+   "https://www.prabhatkhabar.com/state/uttar-pradesh/allahabad-high-court-upholds-seema-sharma-dismissal-in-judicial-record-tampering-case"
+  ],
+  "note": "Confirmed by LiveLaw, LawChakra, The Print (PTI) and a Hindi Prabhat Khabar report: writ number, neutral citation, judge, decision date, the convict Juber, the age change from 19 to 38 in the 13.09.2000 questionnaire, the link to the premature-release scheme, and the dismissal being upheld. No report found that she personally gained financially, consistent with the draft. Not a duplicate of live content."
+ },
+ {
+  "file": "_drafts/daily/news/29-supreme-court-national-book-trust-state-article-12.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://www.livelaw.in/supreme-court/national-book-trust-qualifies-as-state-due-to-deep-and-pervasive-government-control-supreme-court-557681",
+   "https://www.verdictum.in/supreme-court/the-chairman-national-book-trust-india-v-ar-abdul-gaffar-2026-insc-1202-national-book-trust-is-state-1625336",
+   "https://courtbook.in/posts/supreme-court-declares-national-book-trust-a-state-under-article-12-upholds-delhi-high-court-judgment"
+  ],
+  "note": "Confirmed by LiveLaw, Verdictum and Courtbook: case name, 2026 INSC 1202 citation, Civil Appeal No. 14369 of 2015, 06.11.2026 decision, bench, the pervasive-control holding, that society registration and self-generated revenue do not exclude Article 12, and the clarification that this does not make staff civil servants. Background confirmed: the Delhi HC Full Bench ruling under appeal is LPA 600/2010 decided 1 June 2012. Not a duplicate of live content."
+ },
+ {
+  "file": "_drafts/daily/updates/23-national-book-trust-abdul-gaffar-supreme-court-article-12-state.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.verdictum.in/supreme-court/the-chairman-national-book-trust-india-v-ar-abdul-gaffar-2026-insc-1202-national-book-trust-is-state-1625336",
+   "https://courtbook.in/posts/supreme-court-declares-national-book-trust-a-state-under-article-12-upholds-delhi-high-court-judgment",
+   "https://lawstreet.co/judiciary/national-book-trust-is-state-under-article-12-supreme-court"
+  ],
+  "note": "Same ruling as item 29 above (updates-card version); bench, citation, date and holding all confirmed across Verdictum, Courtbook and Lawstreet. Not a duplicate of live content."
  }
 ]
