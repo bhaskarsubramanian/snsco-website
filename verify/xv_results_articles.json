@@ -1749,5 +1749,65 @@
     "reason": "Same correction applied to the key_points summary for consistency: the pre-2024 exemption threshold was Rs 5 lakh, not Rs 10 lakh."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/91-fugitive-economic-offenders-act-extradition-red-corner-notice-article.json",
+  "verdict": "FIX",
+  "claims_checked": 16,
+  "evidence": [
+   "https://www.livelaw.in/amp/high-court/bombay-high-court/come-back-to-india-for-challenging-vires-of-fugitive-economic-offenders-act-bombay-high-court-to-vijay-mallya-514274",
+   "https://www.freepressjournal.in/mumbai/bombay-hc-asks-vijay-mallya-to-disclose-return-plan-ed-says-extradition-at-advanced-stage",
+   "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-procedure-arrest-fugitives-interpol-warrants-550024",
+   "https://www.enforcementdirectorate.gov.in/media/performance-summary/f2779594-d6e1-45d7-84d9-00d0fc656af3_Performance%20Report%20202526.pdf",
+   "https://www.scconline.com/blog/post/2026/10/15/del-hc-look-out-circulars-debt-recovery-right-to-travel-abroad/"
+  ],
+  "note": "Most of this article checks out: the Rs 100 crore/Section 2(1)(m) threshold, the FEOA mechanics (Sections 4, 10, 11, 12, 14), Bhavesh Jayanti Lakhani (2009) on Red Corner Notices not being arrest warrants, the Kerala HC's Rakhul Krishnan ruling (decided 8 Sept 2026, confirmed), the March 2026 MHA Look Out Circular guideline revision (3-hour/24-hour custody rule confirmed), the October 2026 Delhi HC batch ruling on LOCs and civil debt, and the ED's 21-declarations/Rs 2,178 crore figure are all independently confirmed. One claim needs correction: the draft states that in December 2025 the Bombay High Court 'declined to hear Vijay Mallya's challenge to both his own 2019 Special Court declaration and the Act's validity... it would not take up either challenge until he submits to the court's jurisdiction.' Fresh reporting (LiveLaw, Free Press Journal) on the actual December 22-23, 2025 hearing shows the court's refusal was specifically about the constitutional-validity challenge; it told Mallya it could consider the challenge to the order/declaration even in his absence, and separately told him the two petitions could not run together and one would have to be withdrawn. The blanket 'won't hear either challenge' framing overstates and conflates two distinct petitions.",
+  "fixes": [
+   {
+    "find": "in December 2025, the Bombay High Court declined to hear Vijay Mallya's challenge to both his own 2019 Special Court declaration and the Act's validity, and told him to file an affidavit on when he intends to return to India, making clear it would not take up either challenge until he submits to the court's jurisdiction.",
+    "replace": "in December 2025, the Bombay High Court told Vijay Mallya it would not take up his constitutional challenge to the Act's validity unless he submits to the court's jurisdiction, and ordered him to file an affidavit on when he intends to return to India; it indicated it could still consider his separate appeal against his own 2019 Special Court declaration, even in his absence, but added that the two petitions could not proceed together and one would have to be withdrawn.",
+    "reason": "The December 2025 Bombay HC order addressed the constitutional-validity challenge specifically; it did not refuse to hear the separate appeal against the 2019 declaration in the same blanket terms, per contemporaneous LiveLaw and Free Press Journal reporting."
+   },
+   {
+    "find": "at least one High Court, in Vijay Mallya's case in December 2025, has declined to hear a challenge to a declaration or to the Act's validity until the person returns to India and submits to the court's jurisdiction.",
+    "replace": "at least one High Court, in Vijay Mallya's case in December 2025, has declined to hear a constitutional challenge to the Act's validity until the person returns to India and submits to the court's jurisdiction, while treating a separate appeal against the declaration order itself differently.",
+    "reason": "Same correction as above, applied to the FAQ answer, which repeats the overstated framing."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/articles/92-royalty-fees-technical-services-withholding-tax-treaty-relief-article.json",
+  "verdict": "PASS",
+  "claims_checked": 15,
+  "evidence": [
+   "https://www.verdictum.in/app-lite/court-updates/supreme-court/grant-of-automatic-mfn-clause-benefits-based-on-other-countrys-entry-into-oecd-is-unfeasible-1500597",
+   "https://www.taxmann.com/post/blog/notification-is-needed-to-apply-mfn-clause-no-benefit-if-country-joins-oecd-post-signing-of-first-treaty-sc/",
+   "https://taxmann.com/post/blog/sc-dismissed-review-petition-against-ruling-that-sum-paid-towards-sale-of-computer-software-not-taxable-as-royalty",
+   "https://regfollower.com/india-to-abolish-6-equalisation-levy-on-online-advertising-from-april-2025/"
+  ],
+  "note": "The Nestle SA ruling (2023 INSC 928, decided 19 October 2023, holding a Section 90(1) notification is mandatory before an MFN protocol clause takes effect, and that the relevant OECD-membership date is when the third country signed its own DTAA with India) is confirmed. The Engineering Analysis software-royalty holding and the 20% Section 115A rate are confirmed; the draft's hedge that the review-petition status is 'reported inconsistently' is conservative but not wrong (review petitions have in fact been dismissed in 2024 and again in 2026, so a more confident statement was available, but the hedge does not misstate anything). The 6% equalisation levy's withdrawal effective 1 April 2025 is confirmed; the 2% levy's 1 August 2024 withdrawal date could not be independently pinned down in this run (sources say 'July 2024' or 'the previous year') but this is a minor supporting detail and nothing found contradicts it. No material errors found."
+ },
+ {
+  "file": "_drafts/articles/93-industrial-designs-registration-enforcement-india-article.json",
+  "verdict": "PASS",
+  "claims_checked": 13,
+  "evidence": [
+   "https://www.managingip.com/article/2a5brfep5ov7bbg38zj7k/india-special-bench-allows-combined-design-infringement-and-passing-off-action",
+   "https://www.barandbench.com/news/litigation/supreme-court-dismisses-pleas-by-bata-liberty-against-revival-of-crocs-passing-off-suits",
+   "https://www.business-standard.com/amp/industry/news/sc-rejects-bata-liberty-plea-crocs-design-suit-125111401758_1.html",
+   "https://www.mondaq.com/india/copyright/1746070/reforms-in-the-indian-designs-act"
+  ],
+  "note": "Carlsberg Breweries v Som Distilleries (Delhi HC Special Bench, 14 December 2018, overruling Mohan Lal v Sona Paint and allowing a composite design-infringement-plus-passing-off suit) is confirmed exactly as described. The Crocs v Bata timeline is confirmed: Division Bench reversal on 1 July 2025 (Justices C Hari Shankar and Ajay Digpaul) and Supreme Court dismissal of Bata's and Liberty's challenge in November 2025 (Justices Sanjay Kumar and Alok Aradhe), with the Supreme Court expressly not deciding the underlying legal question, matching the draft's careful framing. The DPIIT 23 January 2026 concept note (Hague accession, Riyadh Design Law Treaty, 5+5+5 year term, 12-month grace period, 30-month deferred publication) is confirmed; the proposed Rs 50 lakh statutory-damages figure could not be independently located in this run's sources but nothing contradicts it and the draft's own verification notes already flag it as checked against two sources. No material errors found."
+ },
+ {
+  "file": "_drafts/articles/94-west-bengal-premises-tenancy-act-kolkata-article.json",
+  "verdict": "PASS",
+  "claims_checked": 11,
+  "evidence": [
+   "https://rawlaw.in/calcutta-high-court-dismisses-landlords-plea-for-market-rate-occupation-charges-during-pendency-of-eviction-suit-holds-statutory-tenant-cannot-be-treated-as-tenant-at-sufferance-a-tenant/",
+   "https://future.indiankanoon.org/doc/72278979/",
+   "https://www.courtkutchehry.com/bare-acts/west-bengal-premises-tenancy-act-1997"
+  ],
+  "note": "The July 2001 commencement of the 1997 Act and simultaneous repeal of the 1956 Act under Section 45 is confirmed (reported as 9 or 10 July 2001 notification no. 3052-L). The Section 3(f) rent ceiling is confirmed exactly as the draft states it: Rs 10,000/month in the Kolkata/Howrah municipal corporation areas and Rs 5,000/month elsewhere the Act applies, both raised by the 2002 amendment (from Rs 3,000 and Rs 1,500/1,000 respectively, depending on area) - an initial search surfaced an outdated pre-2002 Rs 3,000 figure for 'other areas' cited in one older judgment, but a closer check confirmed the current Rs 5,000 figure the draft uses is correct. The statutory-tenant/no-market-rate-occupation-charges holding is independently confirmed. No material errors found; this article's own verification notes already candidly flag its thinner evidentiary base (several hosts unreachable in this run) and hedge the less-certain clause numbers appropriately."
  }
 ]
