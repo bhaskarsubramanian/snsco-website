@@ -1,0 +1,196 @@
+{
+  "slug": "royalty-fees-technical-services-withholding-tax-treaty-relief-article",
+  "title": "Royalty and Fees for Technical Services: Withholding Tax and Treaty Relief for a Foreign Licensor",
+  "subtitle": "A foreign company that licenses software, a trademark, know-how or technical support into India without ever opening an office here still has to answer how much Indian tax comes off every payment, and whether the treaty rate actually applies.",
+  "seo_title": "Royalty, FTS Withholding Tax & Treaty Relief India",
+  "meta_description": "How Indian withholding tax on royalty and fees for technical services works for a foreign licensor, the make-available test, and claiming treaty relief.",
+  "practice_area": "Tax Litigation",
+  "authors": [
+    { "name": "Bhaskar Subramanian", "role": "Partner, S&S Co. Advocates & Solicitors" },
+    { "name": "Adv. Anupam", "role": "Senior Associate, S&S Co. Advocates & Solicitors" }
+  ],
+  "author": "Bhaskar Subramanian",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-17",
+  "standfirst": "A foreign company that licenses a trademark, software, a patent or technical know-how to an Indian customer, or sends its own engineers to support one, earns income that India taxes at the source, before the money ever leaves the country. The headline rate is a known quantity. What actually decides how much reaches the foreign licensor is a chain of narrower questions: whether the payment is royalty or fees for technical services at all, whether the governing treaty's definition is narrower than the Act's, whether a most-favoured-nation clause actually applies after a 2023 Supreme Court ruling, and whether the Indian payer has the paperwork to use the treaty rate rather than the domestic one.",
+  "key_points": [
+    "Royalty and fees for technical services paid to a non-resident are taxed on a gross basis at 20% under the domestic law, before any treaty relief is applied",
+    "Most of India's tax treaties cap the rate at 10%, but only if the Indian payer holds a valid Tax Residency Certificate and the prescribed additional information",
+    "Several treaties, including the ones with the United States and the United Kingdom, apply a narrower \"make available\" test that excludes services which do not transfer technical knowledge",
+    "A 2023 Supreme Court ruling in the Nestle case means a most-favoured-nation clause in a protocol no longer applies automatically, closing off a route many foreign licensors used to import that narrower test into their own treaty",
+    "The Supreme Court has settled that payment for the right to use software, without more, is not royalty, though authorities continue to contest where cloud and SaaS arrangements fall",
+    "The equalisation levy on digital transactions has been fully withdrawn since April 2025, but the underlying tax exposure has not disappeared, it has simply reverted to the ordinary royalty, fees-for-technical-services and permanent-establishment framework",
+    "A foreign licensor's recourse against under-withholding or a wrong characterisation runs through the Indian payer's own return and assessment, which makes the paperwork a shared problem rather than the Indian company's alone"
+  ],
+  "sections": [
+    {
+      "heading": "Why This Question Keeps Recurring for Every Foreign Licensor",
+      "paragraphs": [
+        "Very little about cross-border royalty and technical-fee taxation in India has stayed still over the last five years. The rate itself doubled from 10% to 20% with effect from Financial Year 2023-24. The equalisation levy, which for a time offered a lower, simpler alternative for digital transactions, was wound down in two stages and stopped applying to any payment received on or after 1 April 2025. The Supreme Court decided, after two decades of litigation, that payment for the right to use software is not royalty at all. And in October 2023 the same Court restricted how a most-favoured-nation clause in a tax treaty's protocol can actually be used, cutting off a route many foreign licensors had relied on to claim a narrower tax base.",
+        "None of this changes the basic shape of the problem. A foreign company earning royalty or fees for technical services from an Indian source, with no permanent establishment here, is taxed at source by a withholding obligation placed on the Indian payer. What has changed, repeatedly, is the rate, the available treaty relief, and the characterisation disputes that decide whether a payment is royalty, fees for technical services, or neither. Getting any one of those three wrong produces either an Indian tax demand years after the money has moved, or an over-withholding that the foreign licensor never recovers because nobody filed the right form at the right time.",
+        "This article sets out the current framework under both the Income-tax Act, 1961, which still governs the bulk of reported case law and practitioner guidance, and the recodified Income-tax Act, 2025, which took effect on 1 April 2026 and carries the same scheme forward under renumbered provisions. Where the renumbering is not yet settled beyond doubt in the material available, that uncertainty is flagged rather than resolved by guesswork."
+      ]
+    },
+    {
+      "heading": "Royalty and Fees for Technical Services Are Two Different Boxes",
+      "paragraphs": [
+        "Indian tax law treats royalty and fees for technical services as separate categories of income, each with its own definition, even though both get withheld at the same rate and both routinely appear in the same cross-border contract. Royalty, defined under Section 9(1)(vi) of the Income-tax Act, 1961, covers consideration for the transfer of rights in a patent, trademark, copyright, design, process, know-how or similar property, and for the use of equipment. Fees for technical services, under Section 9(1)(vii), covers consideration for managerial, technical or consultancy services, including the provision of technical or other personnel, but specifically excludes consideration that would itself count as salary.",
+        "Both categories, when paid to a non-resident with no permanent establishment in India, are taxed on a gross basis under Section 115A at 20%, plus applicable surcharge and cess, regardless of the licensor's actual profit margin on the transaction. There is no deduction for the licensor's own cost of developing the technology or running the support desk; the entire gross payment is the taxable base unless a lower treaty rate applies instead.",
+        "The Income-tax Act, 2025, in force from 1 April 2026, is reported to carry these provisions forward as Section 9 for the source rule and as an entry in the Section 207 rate schedule for the 20% figure, with the non-resident withholding obligation itself moving from the old Section 195 to Section 393(2). Practitioner commentary is consistent on the substance of the change, namely that nothing about the rate, the royalty and FTS definitions, or the gross basis of taxation has altered; what has changed is only where each rule sits in the renumbered Act. Anyone drafting a contract or a withholding certificate after 1 April 2026 should still confirm the exact section reference against the Gazette text rather than the renumbering tables now circulating, several of which do not agree on every sub-section.",
+        "The royalty definition's reach into equipment use is the part foreign equipment lessors and technology vendors miss most often. Consideration for the use of, or the right to use, industrial, commercial or scientific equipment falls within Section 9(1)(vi) just as squarely as a trademark licence does, which is why a foreign company leasing drilling equipment, telecom infrastructure or specialised machinery to an Indian operator can find itself withheld against as a royalty recipient even though no intellectual property, in the ordinary sense, changes hands at all. Disputes in this space tend to turn on whether the arrangement is genuinely a lease of identifiable equipment the Indian party controls and operates, which attracts the royalty characterisation, or a disguised service contract where the foreign company retains operational control and simply delivers an outcome, which tends to fall outside Section 9(1)(vi) and has to be tested instead against the fees-for-technical-services definition or against ordinary business income rules."
+      ]
+    },
+    {
+      "heading": "The \"Make Available\" Test: Why a Treaty Can Tax Less Than the Act Does",
+      "paragraphs": [
+        "A non-resident does not have to accept the domestic definition if a tax treaty applies and defines the same income more narrowly, because Section 90(2) lets the taxpayer choose whichever of the Act or the treaty is more beneficial. Several of India's treaties, most notably with the United States and the United Kingdom, define fees for technical services narrower than the Act does, by adding a condition that the service must \"make available\" technical knowledge, experience, skill, know-how or a process to the recipient, something the recipient can then apply on its own without the provider's continued involvement.",
+        "This single phrase has generated a long run of litigation. Where a foreign provider simply performs a service, such as routine data processing, cost cross-charges within a group, or standard support, without leaving the Indian recipient able to replicate the work independently afterward, tribunals and courts have repeatedly held the make-available condition is not met, and the payment escapes taxation as fees for technical services under the narrower treaty definition even though it would clearly qualify under the Act's own wording. Where the foreign provider's service does transfer usable technical knowledge, for instance training that leaves the recipient able to run the process itself going forward, the same tribunals have gone the other way and taxed the payment.",
+        "The practical consequence is that the same contract can be taxed differently depending purely on which country's treaty governs it, since not every Indian treaty carries the make-available condition. A services contract with a United States or United Kingdom counterparty gets the benefit of the narrower test from the treaty text itself; the identical contract with a counterparty resident in a country whose treaty has no such condition does not, unless a most-favoured-nation clause can be used to borrow it, which is exactly the route the next section addresses.",
+        "Two recurring fact patterns illustrate how fine the line can be. Management and supply-management services, where a foreign parent coordinates sourcing or operational decisions for its Indian subsidiary without handing over any method the subsidiary could run on its own, have repeatedly been held outside the fees-for-technical-services definition under treaties carrying the make-available test, on the reasoning that coordination is not the same as transferring a usable skill. By contrast, where a foreign provider's engagement includes training the Indian recipient's own staff to operate a process, run a system or apply a methodology independently once the engagement ends, the same tribunals have found the make-available condition satisfied and taxed the fee accordingly, even where the contract is framed as ordinary consulting. The practical test is less about the contract's label than about what the Indian recipient can still do on its own once the foreign provider walks away."
+      ]
+    },
+    {
+      "heading": "The Most-Favoured-Nation Route, and Why It No Longer Works the Way It Used To",
+      "paragraphs": [
+        "A number of India's older treaties, including those with France, the Netherlands and Switzerland, carry a most-favoured-nation protocol promising that if India later gives a more favourable royalty or fees-for-technical-services treatment to a third country, that better treatment automatically extends to the treaty in question. For years, taxpayers and some tribunals read this to mean that once India signed a treaty with a country such as Slovenia or Lithuania carrying the narrower make-available test, that narrower test flowed automatically into the older treaties too, without India having to do anything further.",
+        "The Supreme Court closed that door, or at least narrowed it substantially, in Nestle SA's case, decided on 19 October 2023. The Court held that an most-favoured-nation clause in a protocol does not operate automatically; it takes effect only once the Central Government issues a notification under Section 90(1) of the Act specifically extending the benefit. Since the third country that triggered the comparison, in each of the France, Netherlands and Switzerland matters before the Court, was not yet an OECD member at the time India signed the treaty with it, the Court held the condition for invoking the clause was not met in any event, and no benefit arose without a notification regardless.",
+        "A subsequent notification dated 19 March 2024 is reported to have restricted the scope of the most-favoured-nation benefit, so that it does not in fact extend to royalty and fees-for-technical-services definitions for the treaties concerned. The result, for a foreign licensor resident in a country whose treaty carries such a clause, is that the narrower make-available test can no longer be assumed to apply by cross-reference to someone else's treaty; it has to be checked, afresh, against the specific notification position for that treaty today, and the position is far less generous than it was before October 2023."
+      ]
+    },
+    {
+      "heading": "Software Is Settled Law Now, Even If the Edges Are Still Being Litigated",
+      "paragraphs": [
+        "One characterisation question that ran for roughly two decades through India's tribunals and High Courts has been settled at the top. The Supreme Court, in Engineering Analysis Centre of Excellence Pvt. Ltd. v. CIT, held that payments made by an Indian distributor or end-user for the right to use shrink-wrapped or licensed software do not amount to royalty under either the Act or India's tax treaties, because no right in the underlying copyright itself is transferred to the user, only a right to use a copy. The Income Tax Department's attempt to have the ruling reviewed has had an unsettled public record, with different reports describing the review petitions as both dismissed and still pending at different points; whichever is accurate, the underlying holding on software has not been disturbed and continues to be followed by High Courts in later cases.",
+        "What the ruling did not resolve is every adjacent question. Payments for cloud computing, software-as-a-service, data hosting and similar arrangements continue to generate disputes over whether the Revenue's attempt to recast them as royalty for the use of equipment, or as fees for technical services, should succeed on their specific facts, since these arrangements often look less like a pure software licence and more like a bundled service. A foreign SaaS provider should not treat the software ruling as a blanket exemption for every form of digital payment; it answers the narrow question of a software licence cleanly, and leaves the broader question of service-like digital arrangements to be argued on the particular contract each time."
+      ]
+    },
+    {
+      "heading": "The Equalisation Levy Is Gone, Not the Underlying Exposure",
+      "paragraphs": [
+        "Between 2016 and 2025 the equalisation levy offered an alternative, and for a period a considerably lower, route for taxing certain cross-border digital payments: a 6% levy on online advertising from 2016, and a 2% levy on a wider set of e-commerce transactions from 2020. Both have now been withdrawn. The 2% levy stopped applying from 1 August 2024, and the 6% levy stopped applying to any consideration received on or after 1 April 2025, with the Finance Act, 2025 as the statutory basis for the withdrawal.",
+        "Withdrawing the levy did not create a tax holiday. It simply means a payment that might once have been taxed at 2% or 6% under the levy now falls back into the ordinary framework this article describes, royalty, fees for technical services, or neither, taxed at 20% subject to treaty relief, or assessed under the significant economic presence test if the foreign company's digital footprint in India is large enough to constitute a business connection in its own right. A foreign digital business should treat the levy's withdrawal as a reason to re-check its withholding position rather than as a reduction in exposure; for many arrangements the practical tax cost has gone up, not down, now that the lower levy rate is no longer available as an alternative."
+      ]
+    },
+    {
+      "heading": "Claiming the Treaty Rate Instead of the Act Rate",
+      "paragraphs": [
+        "A lower treaty rate, commonly 10% under the royalty and fees-for-technical-services article of most of India's modern treaties, against the Act's 20%, is not available automatically merely because a treaty exists. Section 90(4) of the Income-tax Act, 1961 denies treaty relief to a non-resident who does not hold a Tax Residency Certificate from the tax authority of their own country of residence. Section 90(5) adds a further requirement: specified additional information, covering matters such as the period the certificate covers and the taxpayer's status, which the certificate itself may not contain, has to be furnished separately in Form 10F under Rule 21AB of the Income-tax Rules.",
+        "The Income-tax Act, 2025 is reported to carry the same two-step requirement forward as Section 159(8), with Form 41 under new rules replacing Form 10F for periods from 1 April 2026 onward. The substance, a residency certificate plus a prescribed supplementary form, has not changed; only the form numbers have, and a foreign licensor should confirm which form applies to the specific period being paid for before assuming the older one still works.",
+        "In practice, the documentation step is the one most likely to be missed, not the legal entitlement itself. An Indian payer who cannot show a valid Tax Residency Certificate and the corresponding supplementary form on file at the time of payment has no defensible basis to withhold at the treaty rate rather than the Act rate, whatever the treaty itself actually permits. Foreign licensors who want the benefit of their treaty should supply this paperwork before the first payment is due, not after an assessing officer raises the question years later."
+      ]
+    },
+    {
+      "heading": "Grossing-Up: Who Actually Bears the Tax Cost",
+      "paragraphs": [
+        "Many cross-border licence and service agreements are negotiated on a net basis, where the foreign licensor is promised a fixed amount free of Indian tax, and the Indian payer absorbs whatever withholding is due on top. Where that is the commercial deal, Section 195A requires the payment to be grossed up before tax is computed, using the formula gross amount equals the net amount multiplied by one hundred and divided by the quantity one hundred minus the applicable rate, so that the actual tax withheld, calculated on the grossed-up figure, still leaves the foreign licensor with the full net amount it was promised.",
+        "Whether the Act rate or the treaty rate applies to the grossing-up calculation makes a real difference to the Indian payer's own cost, since a treaty rate is typically applied as a flat percentage without the surcharge and cess that load onto the domestic rate. An Indian company agreeing to a net royalty clause without first confirming which rate, and therefore which effective cost, will apply is agreeing to an open-ended liability that can only be fixed once the foreign licensor's residency documentation is actually in hand. Grossing up is not required at all, incidentally, where the underlying income is itself exempt, such as under a government-approved collaboration agreement falling within Section 10(6A), a narrower category that still exists for certain pre-1990s approvals and should not be assumed to apply to a new contract without checking.",
+        "A simple illustration shows why the point matters commercially. If an Indian company agrees to pay a foreign licensor a net licence fee of Rs 80 lakh a year and the applicable rate turns out to be the Act's 20% rather than a 10% treaty rate, the grossed-up figure the Indian payer must actually account for, before surcharge and cess, rises to Rs 1 crore rather than roughly Rs 88.9 lakh under the treaty rate. That difference of more than Rs 11 lakh a year exists purely because of a documentation gap, not because of anything in the underlying commercial deal, which is why the paperwork question is worth resolving at the negotiation stage rather than left to be discovered at the first remittance."
+      ]
+    },
+    {
+      "heading": "Service Personnel on the Ground Can Create a Different, Larger Problem",
+      "paragraphs": [
+        "Withholding tax on a fee is not the only Indian tax question a foreign licensor providing technical services needs to ask. Sending engineers, consultants or support staff into India to deliver the service, rather than performing it entirely from abroad, risks creating a service permanent establishment under the business-connection rules and under most treaties' own permanent establishment article, typically once the foreign company's personnel are present and rendering services in India beyond a specified number of days in a twelve-month period, commonly 90 days under several Indian treaties though the exact threshold varies by agreement.",
+        "The distinction matters because the two outcomes are not comparable in scale. Withholding tax on fees for technical services is a flat 20%, or the treaty rate, applied to the gross payment, collected at source and generally final so far as that specific payment is concerned. A service permanent establishment, by contrast, exposes the foreign company to tax on a net basis on the business profits properly attributable to that presence in India, assessed through a full return rather than through withholding alone, which can produce a materially larger liability than the withholding tax ever would have, particularly where the foreign company's margin on the underlying engagement is high. A foreign licensor structuring a technical-support arrangement should track the cumulative days its personnel actually spend in India against the relevant treaty's threshold, alongside the characterisation of the fee itself, since crossing that threshold changes the entire basis of Indian taxation rather than simply the withholding rate."
+      ]
+    },
+    {
+      "heading": "The Indian Payer's Compliance Burden, and What Happens if It Gets Withholding Wrong",
+      "paragraphs": [
+        "The withholding obligation sits on the Indian payer, not the foreign licensor, which means the foreign company's practical leverage over getting the rate right lies in supplying complete documentation early rather than in any direct recourse against the Indian tax department. Before remitting any royalty or fees for technical services abroad, an Indian payer is required to obtain a certificate from a chartered accountant in Form 15CB confirming the nature of the payment, the rate applied and the treaty position relied on, and to file Form 15CA reporting the remittance to the tax department, except for payments that fall within specifically exempted categories. Form 15CA itself is filed under one of several parts depending on the amount and whether the payment is taxable at all, with a simplified Part A for small remittances that are not chargeable to tax, and a more detailed Part C, built on the chartered accountant's Form 15CB certificate, for larger taxable remittances such as most royalty and technical-fee payments; getting the part wrong is itself a common, avoidable compliance slip.",
+        "Getting the withholding wrong carries two distinct risks for the Indian payer, both of which indirectly affect the foreign licensor's own commercial relationship with that payer. Under-withholding exposes the Indian company to being treated as an assessee in default, with interest and potential penalty under the Act's TDS default provisions, and separately risks disallowance of the entire expense under Section 40(a)(i) if tax that should have been withheld was not, which inflates the Indian payer's own taxable income regardless of what actually happened to the foreign licensor's side of the transaction. A genuine short deduction made in good faith, on a debatable characterisation question such as the ones this article describes, can sometimes be regularised through the compounding route for TDS defaults, but that is a remedy for the Indian payer's own exposure, not a substitute for getting the position right at the time of payment."
+      ]
+    },
+    {
+      "heading": "A Practical Checklist Before the First Payment Goes Out",
+      "paragraphs": [
+        "Before any royalty, licence fee or technical-service payment leaves India, four questions are worth settling in order rather than leaving to the chartered accountant preparing Form 15CB to resolve alone. First, is the payment actually royalty or fees for technical services at all, as opposed to a payment for an outright sale of goods, a reimbursement of cost with no profit element, or a service that genuinely does not transfer any technical knowledge; getting this wrong in either direction either over-withholds unnecessarily or under-withholds and exposes the Indian payer later. Second, does the governing treaty define the relevant category more narrowly than the Act, particularly through a make-available condition, and if the treaty in question relies on a most-favoured-nation clause to borrow that narrower definition, has the position actually been checked against the post-Nestle notification framework rather than assumed from pre-2023 commentary. Third, is the Tax Residency Certificate and the Form 10F, or Form 41 for periods after 1 April 2026, actually in hand before the payment date, not promised for later. Fourth, if the contract is a net-of-tax arrangement, has the grossing-up calculation been run on the correct rate so that both sides know the real cost before signing rather than after the first invoice.",
+        "A foreign licensor entering the Indian market for the first time gains more from resolving these four points at the term-sheet stage than from any clause added to the contract afterward, because the tax position is set by the nature of the payment and the paperwork in place at the time it is made, not by how the contract describes itself."
+      ]
+    },
+    {
+      "heading": "What Remains Open",
+      "paragraphs": [
+        "Three things are worth watching rather than treating as settled. The exact section numbers under the Income-tax Act, 2025 for provisions discussed in this article, including the non-resident withholding section, the treaty-documentation requirement and the grossing-up rule, are reported consistently enough across practitioner sources to be stated with reasonable confidence, but none of this article's drafting should be read as a substitute for checking the Gazette text of the 2025 Act and its rules directly before relying on a specific section number in a filing. The fate of the Revenue's review petition against the Engineering Analysis software ruling is reported inconsistently, and should be checked against the Supreme Court's own record before being cited as fully closed either way. And the post-Nestle notification position on most-favoured-nation clauses has already drawn representations from industry bodies seeking a review, so a foreign licensor relying on a narrower make-available test imported through such a clause should treat that position as unsettled and worth revisiting as further notifications or rulings emerge."
+      ]
+    }
+  ],
+  "conclusion": [
+    "The headline rate of 20% on royalty and fees for technical services is the easy part of this area of law. What actually decides a foreign licensor's real tax cost is whether the payment is correctly characterised in the first place, whether the applicable treaty narrows that characterisation through a make-available test, whether any most-favoured-nation route to a narrower test still survives the 2023 Nestle ruling, and whether the Indian payer has the residency documentation in hand before the money moves.",
+    "None of these four questions gets easier to answer after the fact. A foreign company licensing technology, a brand or technical support into India is better served treating its withholding position as something to settle before the first invoice than as a line item to be argued with the Indian tax department years later, by which time interest and penalty have usually attached to whichever side got it wrong."
+  ],
+  "faqs": [
+    {
+      "q": "What is the current Indian withholding tax rate on royalty paid to a foreign company?",
+      "a": "The domestic rate under Section 115A is 20% of the gross payment, plus applicable surcharge and cess, where the foreign company has no permanent establishment in India. Most of India's tax treaties cap this at 10%, but only if the Indian payer holds a valid Tax Residency Certificate and the prescribed supplementary form at the time of payment."
+    },
+    {
+      "q": "Is payment for a software licence treated as royalty in India?",
+      "a": "No. The Supreme Court held in Engineering Analysis Centre of Excellence that payment for the right to use software, without a transfer of the underlying copyright, is not royalty under the Act or under India's tax treaties. Cloud, SaaS and bundled digital-service arrangements can still raise separate characterisation disputes on their own facts."
+    },
+    {
+      "q": "What does the \"make available\" test mean for fees for technical services?",
+      "a": "Several treaties, including with the United States and the United Kingdom, tax a service as fees for technical services only if it makes available technical knowledge, skill or a process that the Indian recipient can then use on its own. A service performed for the recipient, without transferring that capability, generally falls outside this narrower treaty definition even though it would meet the Act's wider wording."
+    },
+    {
+      "q": "Can a foreign licensor import a narrower treaty test through a most-favoured-nation clause?",
+      "a": "It is now considerably harder to do so. The Supreme Court held in the Nestle case in October 2023 that a most-favoured-nation clause in a protocol needs a specific Indian government notification before it takes effect, and a subsequent 2024 notification is reported to have restricted the benefit for royalty and fees-for-technical-services definitions. Earlier case law allowing the import should not be relied on without checking the current notification position."
+    },
+    {
+      "q": "What documents does an Indian company need before paying a foreign licensor at the treaty rate?",
+      "a": "A Tax Residency Certificate from the foreign licensor's home tax authority under Section 90(4), and the prescribed additional information in Form 10F (Form 41 for periods from 1 April 2026) under Section 90(5). Without both, the payer has no defensible basis to withhold at the lower treaty rate rather than the Act's 20%."
+    },
+    {
+      "q": "Is the equalisation levy still relevant for cross-border digital payments?",
+      "a": "No new equalisation levy applies to any consideration received on or after 1 April 2025, following the earlier withdrawal of the 2% e-commerce levy from 1 August 2024. Payments that might once have fallen under the levy now fall back into the ordinary royalty, fees-for-technical-services or significant-economic-presence framework."
+    },
+    {
+      "q": "What happens if an Indian company withholds too little tax on a royalty payment?",
+      "a": "The Indian payer can be treated as an assessee in default, facing interest and potential penalty, and the entire expense can be disallowed under Section 40(a)(i), increasing the payer's own taxable income regardless of the foreign licensor's position. A good-faith short deduction on a genuinely debatable characterisation question can sometimes be regularised through the TDS compounding route."
+    },
+    {
+      "q": "Does a net-of-tax royalty clause change how much Indian tax is actually withheld?",
+      "a": "Yes. Under Section 195A, a net-of-tax payment must be grossed up before tax is calculated, so the foreign licensor still receives the promised net amount after withholding. Whether the Act rate or the lower treaty rate is used for that calculation significantly changes the Indian payer's real cost, which should be fixed before the contract is signed, not after the first payment."
+    }
+  ],
+  "references": [
+    "Income-tax Act, 1961, Sections 9(1)(vi), 9(1)(vii), 90(1), 90(2), 90(4), 90(5), 115A, 195 and 195A",
+    "Income-tax Rules, 1962, Rule 21AB (Form 10F)",
+    "Income-tax Act, 2025 (in force from 1 April 2026), reported successor provisions including Section 9, Section 207 rate schedule, Section 159(8) and Section 393",
+    "Finance Act, 2023 (increase in rate under Section 115A from 10% to 20% for royalty and fees for technical services)",
+    "Finance Act, 2025 (withdrawal of equalisation levy with effect from 1 April 2025)",
+    "Engineering Analysis Centre of Excellence Pvt. Ltd. v. Commissioner of Income Tax & Anr., Supreme Court of India",
+    "Assessing Officer, Circle (International Taxation) v. Nestle SA, Supreme Court of India, 2023 INSC 928, decided 19 October 2023",
+    "CBDT notification dated 19 March 2024 on the scope of most-favoured-nation clauses in India's tax treaties, as reported by tax practitioner commentary",
+    "Income-tax Department guidance on Form 10F and Form 41 under the Income-tax Act, 2025",
+    "India-United States Double Taxation Avoidance Agreement, Article 12 (fees for included services, make-available test)",
+    "India-United Kingdom Double Taxation Avoidance Agreement, Article 13 (fees for technical services, make-available test)",
+    "Delhi High Court ruling on cost cross-charges and the make-available test under the India-UK DTAA, as reported in 2026",
+    "Reports on the equalisation levy's phased introduction (2016, 2020) and withdrawal (2024-2025)",
+    "Articles 69's companion discussion of GST, permanent establishment and withholding tax for a foreign company selling into India without a local entity"
+  ],
+  "related_pages": [
+    "/blog/dtaa-nri-double-taxation-form-10f-trc-guide.html",
+    "/blog/significant-economic-presence-equalisation-levy-foreign-digital-business-guide.html",
+    "/blog/tds-tcs-default-compliance-disputes-guide.html",
+    "/articles/gst-permanent-establishment-withholding-tax-foreign-company-india-article.html"
+  ],
+  "sources": [
+    "https://taxguru.in/?p=1100563",
+    "https://www.khuranaandkhurana.com/withholding-tax-on-cloud-infrastructure-payments-characterisation",
+    "https://www.china-briefing.com/china-outbound-news/tds-rate-chart-fy-2026-27-domestic-cross-border-payments",
+    "https://www.india-briefing.com/news/tds-rate-chart-fy-2026-27-domestic-cross-border-payments-44023.html",
+    "https://blog.ipleaders.in/engineering-analysis-centre-of-excellence-pvt-ltd-v-the-commissioner-of-income-tax-another/",
+    "https://www.xflowpay.com/blog/equalisation-levy",
+    "https://trilegal.com/knowledge_repository/supreme-court-ruling-on-the-most-favoured-nation-clause-likely-to-withhold-benefits-for-taxpayers/",
+    "https://indiacorplaw.in/2023/11/27/clarity-or-complexity-decoding-the-supreme-courts-verdict-on-interpreting-mfn-clause-in-dtaas/",
+    "https://tpcases.com/?p=317043",
+    "https://bhattandjoshiassociates.com/fts-the-make-available-principle-in-dtaa-tax-implications-and-a-study-of-the-indo-singapore-agreement/",
+    "https://mondaq.com/india/income-tax/451230/no-indian-tax-on-payments-for-commercial-services-to-dutch-company-ahmedabad-tribunal-allows-import-of-make-available-test-from-us-treaty-owing-to-mfn-clause",
+    "https://taxguru.in/?p=915751",
+    "https://www.vjmglobal.com/feeds/blog/dtaa-form-10f-india",
+    "https://calcguru.in/section-195a-grossing-up-calculator/",
+    "https://www.xflowpay.com/blog/form-10f"
+  ],
+  "verification_notes": "AUDIENCE: foreign company (licensors of IP, software and technical services with no Indian office)\nTARGET QUERY: how much withholding tax applies to royalty and technical service fees paid to a foreign company in India\nDEMAND EVIDENCE: sustained 2023-2026 practitioner and news coverage of the Nestle MFN ruling, the Income-tax Act 2025 recodification, and the equalisation levy withdrawal; no search-volume tool was used, so no figure is stated.\n\nMethod and gaps: Direct access to indiacode.nic.in, incometaxindia.gov.in's primary pages and several reporter sites failed in this run because this session's network allowlist does not resolve those hosts; findings rely on the search tool's own retrieval of practitioner commentary (taxguru.in, china-briefing/india-briefing, trilegal, indiacorplaw, ipleaders) rather than a direct fetch of the Gazette text, and the article says so explicitly wherever a 2025 Act section number is given, since different secondary sources gave inconsistent numbering for some provisions. The Engineering Analysis review-petition status is stated as unsettled because sources disagreed on whether it was dismissed or still pending. Surcharge and cess rates are described only in general terms, not as a specific percentage, because the exact current slab was not confirmed from a primary source in this run. The 19 March 2024 MFN notification's effect is stated as \"reported\" rather than as confirmed primary text, consistent with the sources actually retrieved."
+}
