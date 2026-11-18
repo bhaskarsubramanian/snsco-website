@@ -1809,5 +1809,49 @@
    "https://www.courtkutchehry.com/bare-acts/west-bengal-premises-tenancy-act-1997"
   ],
   "note": "The July 2001 commencement of the 1997 Act and simultaneous repeal of the 1956 Act under Section 45 is confirmed (reported as 9 or 10 July 2001 notification no. 3052-L). The Section 3(f) rent ceiling is confirmed exactly as the draft states it: Rs 10,000/month in the Kolkata/Howrah municipal corporation areas and Rs 5,000/month elsewhere the Act applies, both raised by the 2002 amendment (from Rs 3,000 and Rs 1,500/1,000 respectively, depending on area) - an initial search surfaced an outdated pre-2002 Rs 3,000 figure for 'other areas' cited in one older judgment, but a closer check confirmed the current Rs 5,000 figure the draft uses is correct. The statutory-tenant/no-market-rate-occupation-charges holding is independently confirmed. No material errors found; this article's own verification notes already candidly flag its thinner evidentiary base (several hosts unreachable in this run) and hedge the less-certain clause numbers appropriately."
+ },
+ {
+  "file": "_drafts/articles/95-guardianship-trust-disabled-adult-india-article.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://www.livelaw.in/amp/high-court/kerala-high-court/kerala-high-court-section-14-persons-with-disabilities-act-district-court-designated-authority-concurrent-jurisdiction-limited-guardianship-242731",
+   "https://supremetoday.ai/doc/judgement/00300050302",
+   "https://www.advocatekhoj.com/library/bareacts/mentalhealthcare/14.php"
+  ],
+  "note": "National Trust Act Sections 13/14/17 mechanics, the Kerala HC concurrent-jurisdiction ruling (FAO 32/2023 and the later Bindumol case) and the Karnataka HC Stewart Bradley Miciotto ruling (District Collector as designated authority, and only limited not permanent guardianship) independently confirmed, as were Mental Healthcare Act Sections 5/14. All related_pages paths verified present in origin/main search-index.json."
+ },
+ {
+  "file": "_drafts/articles/96-insurance-100-percent-fdi-2025-reform-article.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://www.skadden.com/insights/publications/2026/02/indias-landmark-insurance-sector-reforms",
+   "https://www.scconline.com/blog/post/2025/12/31/indian-insurance-companies-foreign-investment-amendment-rules-2025-explained/",
+   "https://webiis08.mondaq.com/india/insurance-laws-and-products/1741702/insurance-20-%7c-insurance-reforms-to-commence-from-5-february-2026"
+  ],
+  "note": "Sabka Bima Sabki Raksha Act 2025 (assented 20 Dec 2025), the Foreign Investment Amendment Rules 2025 (notified 30 Dec 2025, 100% automatic-route ceiling), the narrowed resident-leadership condition (one of CEO/MD/chairperson), and Section 32A being kept in abeyance all independently confirmed across multiple sources. LIC's 20% figure rests on a single source as the draft itself discloses. All related_pages paths verified present in the live search index."
+ },
+ {
+  "file": "_drafts/articles/97-reit-invit-unitholder-rights-governance-article.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://www.taxmann.com/post/blog/sebi-releases-framework-for-unitholders-of-reits-invits-allowing-them-to-exercise-their-board-nomination-rights/",
+   "https://www.angelone.in/news/market-updates/sebi-revises-reit-invit-rules-changes-voting-threshold-sponsor-exit-framework",
+   "https://taxmann.com/post/blog/sebi-prescribes-various-methods-for-reits-invits-to-achieve-a-minimum-25-public-unitholding"
+  ],
+  "note": "2023 board nomination rights (10% eligible unitholder, one seat not a per-10% scale, Stewardship Code), the 25% minimum public unitholding mechanics including the 2%-subject-to-5x-trading-volume sponsor sale route, and the 2026 InvIT Second Amendment Regulations (votes-cast 75% threshold, narrowed dissenting-unitholder definition, sponsor-exit provision, depository receipts) all independently confirmed. All related_pages paths verified present in the live search index."
+ },
+ {
+  "file": "_drafts/articles/98-agricultural-exports-apeda-fssai-trade-disputes-article.json",
+  "verdict": "PASS",
+  "claims_checked": 11,
+  "evidence": [
+   "https://www.livelaw.in/amp/top-stories/foreign-award-against-public-policy-not-enforceable-in-india-sc-renders-rs-450-crores-award-against-nafed-unenforceable-read-judgment-156012",
+   "https://www.mondaq.com/india/food-and-drugs-law/1801924/fssai-raises-turnover-limits-for-food-business-registration-and-licensing",
+   "https://www.taxscan.in/top-stories/dgft-revises-wheat-export-policy-limited-exports-now-allowed-1445444"
+  ],
+  "note": "NAFED v. Alimenta S.A. (SC, 22 April 2020, Civil Appeal 667/2012, award held unenforceable on public policy grounds), APEDA's e-RCMC regime effective 17 July 2023 and the First/Second Schedule distinction (Basmati rice as the only Second Schedule special product), the FSSAI order of 13 March 2026 effective 1 April 2026 requiring a Central Licence for 100% export-oriented units regardless of turnover, and the 2026 DGFT wheat policy volatility are all independently confirmed. All related_pages paths verified present in the live search index."
  }
 ]
