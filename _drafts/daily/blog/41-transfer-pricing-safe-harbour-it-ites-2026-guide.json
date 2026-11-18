@@ -1,0 +1,101 @@
+{
+  "slug": "transfer-pricing-safe-harbour-it-ites-2026-guide",
+  "seo_title": "India's 2026 Safe Harbour Rules for IT and ITeS",
+  "title": "India's Revised Transfer Pricing Safe Harbour Rules for IT and ITeS Companies From 2026-27",
+  "meta_description": "What changed in India's transfer pricing safe harbour for software, IT-enabled and captive service companies from Tax Year 2026-27, and who should opt in.",
+  "practice_area": "Tax Litigation",
+  "format": "what happens if explainer",
+  "intro": [
+    "An Indian company that provides software development, IT-enabled or back-office services to its own foreign parent or group affiliate has to price those services at arm's length under the transfer pricing provisions of the Income-tax Act, and defending that price in an assessment, year after year, is expensive even when the company is confident its margins are correct. Safe harbour rules exist precisely for this situation: the company accepts a prescribed minimum operating margin set by the tax department in advance, in exchange for the department agreeing not to make a transfer pricing adjustment to that transaction for the year.",
+    "The safe harbour regime has existed since 2013, but it was used by only a modest slice of eligible companies, mainly because the margins were set separately and often unattractively for software development, information technology enabled services, knowledge process outsourcing and contract research and development. The Income-tax Rules, 2026, which took effect from 1 April 2026 under the new Income-tax Act, 2025, restructured this for Tax Year 2026-27 onward, and the changes matter enough that every captive IT and ITeS unit in India should look at whether opting in now makes more sense than it used to."
+  ],
+  "sections": [
+    {
+      "heading": "What actually changed",
+      "paragraphs": [
+        "Before this revision, software development, information technology enabled services, knowledge process outsourcing and contract research and development each had their own safe harbour category with its own margin, commonly reported in practitioner commentary as being in the range of 17 to 18 percent of operating cost for software development and ITeS, 18 percent for KPO, and 24 percent for contract research and development, with margins varying further by the size of the international transaction. The main change under the Income-tax Rules, 2026 is consolidation: these separate categories have been merged into a single category of information technology services, carrying one uniform margin rather than a different number for each kind of work.",
+        "Multiple practitioner sources report the new uniform margin as 15.5 percent of operating expenses, applicable for Tax Year 2026-27 onward. That is lower than most of the earlier category-specific margins, and the main appeal of the change is as much about certainty and simplicity as about the number itself: a company no longer has to argue over which category its mixed-service delivery actually falls into, a dispute that previously generated its own share of litigation before a transfer pricing adjustment was even reached."
+      ]
+    },
+    {
+      "heading": "Who qualifies",
+      "paragraphs": [
+        "The safe harbour applies to an eligible international transaction between an Indian entity and its associated enterprise abroad, where the Indian entity is providing software development or related information technology services, and where the transaction is priced on a cost-plus basis rather than, for example, a transaction involving real risk-bearing on the Indian side. A condition that appears consistently in the commentary on the current framework is that the service must be rendered with insignificant risk to the foreign principal, meaning the Indian unit is functioning as a contract service provider rather than taking on the commercial risk of the underlying business, which is the normal description of how a captive centre or global capability centre actually operates.",
+        "A turnover threshold also applies, and one widely reported change for the current cycle is that this threshold was raised, with CBDT officials quoted as saying that only a small number of larger IT companies, reportedly around a hundred, now remain outside the expanded safe harbour framework after the threshold increase. The exact turnover figure has been reported with some variation across commentary, so a company close to any boundary should check its own eligibility against the notified rules directly rather than rely on a generally quoted figure."
+      ]
+    },
+    {
+      "heading": "Advance pricing agreements as the alternative route",
+      "paragraphs": [
+        "Safe harbour is not the only way to get certainty on a captive unit's transfer pricing. An advance pricing agreement, negotiated directly with the tax department, fixes an agreed transfer pricing methodology for the covered transactions for a period of years, and can be rolled back to earlier years already under dispute, which a safe harbour election cannot do. The trade-off is time and effort: an APA negotiation is a bilateral or unilateral process that takes meaningfully longer to conclude than ticking the safe harbour box for a year, and it suits a company with a transaction profile complex enough, or a margin different enough from the safe harbour rate, that the extra negotiation is worth it.",
+        "Commentary around the 2026 budget describes a push toward a faster track for advance pricing agreements specifically for information technology services, alongside the safe harbour reset, with a tax department official quoted as expecting the companies that remain outside the expanded safe harbour, reportedly around a hundred larger IT companies, to be able to resolve their position through an APA within a stated two-year horizon. A company whose margin genuinely differs from the safe harbour figure, or whose transactions do not fit neatly into the single IT services category, should treat the APA route as a serious alternative rather than assuming safe harbour is the only practical option now that the rate has fallen."
+      ]
+    },
+    {
+      "heading": "The decision to opt in is annual and it has a real trade-off",
+      "paragraphs": [
+        "Opting into safe harbour is not automatic and is not permanent. A company elects into it for a given year by filing the prescribed form, and it can choose not to opt in for a year where it believes its actual margin, properly computed, is lower than the safe harbour rate and it is prepared to defend that lower margin in a transfer pricing assessment instead. For a company confident that its real arm's length margin sits comfortably below 15.5 percent and that it can prove this with solid comparables, staying out and litigating, or seeking an advance pricing agreement instead, can still be the better economic choice.",
+        "The most significant trade-off reported in current commentary is that electing safe harbour forfeits access to mutual agreement procedure relief under the applicable tax treaty for the transactions it covers. That matters specifically for a group that might otherwise want to resolve double taxation through the treaty's competent authority process, for instance where the foreign tax authority also makes an adjustment on the other side of the same transaction. A company operating mainly between India and a treaty partner with an active, workable mutual agreement procedure channel should weigh giving that up before taking the safe harbour route purely for the lower margin."
+      ]
+    },
+    {
+      "heading": "Why this particularly affects global capability centres",
+      "paragraphs": [
+        "A global capability centre set up by a foreign group to deliver software, analytics or other technology-enabled services to the rest of the group is structurally the textbook safe harbour candidate, since its entire revenue consists of cost-plus billing to related parties abroad for exactly the kind of service the safe harbour category covers. For a GCC, the appeal of the revised, lower and simplified margin is straightforward: predictable tax treatment without an annual transfer pricing dispute, in exchange for giving up the chance to argue for an even lower margin and giving up mutual agreement procedure access for the relevant year.",
+        "Groups running a GCC that straddles multiple service lines, some clearly software development and some closer to general back-office or analytics work, benefit most directly from the consolidation into a single information technology services category, since the earlier multi-category structure forced an allocation exercise between categories that itself invited dispute. That specific friction is largely removed for transactions that now fall within the single consolidated category."
+      ]
+    },
+    {
+      "heading": "What a company should actually do before the filing deadline",
+      "paragraphs": [
+        "Compute the company's actual operating margin for the year under the ordinary transfer pricing method it would otherwise use, and compare that number honestly against 15.5 percent before deciding. A company already operating comfortably above that margin loses little by opting in and gains the certainty, while a company whose real margin runs close to or below it should think harder about whether the safe harbour's cost-plus floor actually helps, since opting in when the real margin is lower just locks in paying tax on an inflated, if dispute-free, number.",
+        "Check the current turnover threshold and the exact scope of the eligible transaction category against the notified Income-tax Rules, 2026 directly, since secondary commentary in this area has already shown small inconsistencies, including differing accounts of the specific rule numbering, between the draft stage and the final notification. A company that is part of a larger group with transactions in more than one category, for instance combining software services with contract manufacturing or trading, should also confirm that only the IT-eligible portion of its business is being tested against the IT safe harbour margin, since other business lines fall outside this framework entirely and need their own transfer pricing analysis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the new safe harbour margin for IT and ITeS companies in India?",
+      "a": "Multiple practitioner sources report a single consolidated margin of 15.5 percent of operating expenses for information technology services, applicable from Tax Year 2026-27 under the Income-tax Rules, 2026, replacing the separate, generally higher margins that used to apply to software development, ITeS, KPO and contract research and development."
+    },
+    {
+      "q": "Do I have to opt into the safe harbour rules every year?",
+      "a": "Yes. Electing safe harbour is an annual choice made by filing the prescribed form for that year, not a one-time or permanent status, so a company can opt in for a year where the margin helps it and stay out for a year where it believes a lower, properly supported margin is achievable."
+    },
+    {
+      "q": "What do I give up by opting into safe harbour?",
+      "a": "The main trade-off reported in current commentary is losing access to mutual agreement procedure relief under the relevant tax treaty for the transactions covered by the election, which matters most for a company that might otherwise need treaty-based relief from double taxation on the same transaction."
+    },
+    {
+      "q": "Does safe harbour apply to every kind of outsourced service?",
+      "a": "No. It is aimed at software development and related information technology enabled services provided on a cost-plus basis, where the Indian entity bears insignificant risk relative to the foreign principal, which is why it fits a captive or global capability centre model well but does not cover every kind of cross-border service arrangement."
+    },
+    {
+      "q": "Has the company turnover limit for safe harbour eligibility changed?",
+      "a": "Reports describe the eligibility threshold as having been raised for the current cycle, widening the number of companies that can use the safe harbour, though the exact figure has been reported with some variation across commentary, so check the figure against the notified rules for the specific year rather than relying on a general estimate."
+    }
+  ],
+  "references": [
+    "Income-tax Act, 1961, transfer pricing provisions on arm's length pricing of international transactions between associated enterprises, and the advance pricing agreement scheme",
+    "Income-tax Act, 2025, Section 167, and the Income-tax Rules, 2026, notified by the CBDT with effect from 1 April 2026 (safe harbour for eligible international transactions)",
+    "Consolidation of the earlier separate safe harbour categories for software development, information technology enabled services, knowledge process outsourcing and contract research and development into a single information technology services category, effective Tax Year 2026-27"
+  ],
+  "sources": [
+    "https://kpmg.com/us/en/taxnewsflash/news/2026/02/tnf-india-draft-rules-amending-transfer-pricing-safe-harbor-regime.html",
+    "https://treelife.in/legal/safe-harbour-rules-for-it-ites-and-captives/",
+    "https://regfollower.com/india-cbdt-rolls-out-2026-income-tax-rules-with-expanded-transfer-pricing-framework/",
+    "https://www.mondaq.com/india/tax-authorities/1741246/budget-2026-a-structural-reset-of-safe-harbour-provisions-and-fast-track-apa-for-it-services",
+    "https://a2ztaxcorp.net/only-about-100-it-firms-outside-safe-harbour-cbdt-chairman-assures-apas-within-two-years-for-rest/"
+  ],
+  "verification_notes": [
+    "AUDIENCE: foreign company",
+    "TARGET QUERY: India transfer pricing safe harbour rules 2026 IT ITES / should my captive unit opt into safe harbour",
+    "DEMAND EVIDENCE: no search-volume data seen; the topic is current, heavily reported tax commentary from the 2026 Budget and the CBDT's subsequent rule notification, confirmed across multiple independent law-firm and advisory sources found in this run, and the site's search index shows no existing guide specifically on the revised safe harbour margin.",
+    "The consolidation of software development, ITeS, KPO and contract R&D into a single information technology services category, and the new uniform margin reported as 15.5 percent of operating expenses from Tax Year 2026-27, are confirmed from two independent sources, a KPMG tax alert on the draft rules and treelife.in's practitioner explainer, both describing the same consolidation and the same margin figure; a third source (regfollower.com) corroborates the CBDT notification and effective date.",
+    "The CBDT notification date (20 March 2026) and the statutory basis under Section 167 of the Income-tax Act, 2025 are reported consistently across sources, but the exact implementing rule number differed between reports (Rule 89 in one, Rule 91 in an earlier draft-stage report), so no specific rule number is stated in the draft to avoid repeating an unconfirmed figure.",
+    "The turnover threshold increase and the CBDT chairman's statement that roughly a hundred IT companies remain outside the expanded safe harbour are drawn from a single news report (a2ztaxcorp.net) describing the chairman's statement; this is flagged in the draft as a generally quoted figure rather than a precisely confirmed threshold, since no second independent source gave the exact turnover number.",
+    "The trade-off against mutual agreement procedure relief under a tax treaty is confirmed from two independent sources describing the same consequence of electing safe harbour, consistent with the design of the safe harbour regime generally.",
+    "No specific rupee turnover figure is stated as the eligibility cutoff, since the figure was not confirmed consistently across two independent sources in this run; the draft directs the reader to check the notified rules instead.",
+    "The fast-track advance pricing agreement push for IT services and the two-year resolution expectation for companies outside the expanded safe harbour are confirmed from two sources, a Mondaq commentary describing the Budget 2026 fast-track APA proposal for IT services and the a2ztaxcorp report of the CBDT chairman's statement; treated as a reported policy direction rather than a guaranteed timeline, and stated accordingly."
+  ]
+}

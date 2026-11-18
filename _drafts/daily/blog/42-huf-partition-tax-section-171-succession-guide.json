@@ -1,0 +1,97 @@
+{
+  "slug": "huf-partition-tax-section-171-succession-guide",
+  "seo_title": "HUF Partition: What Happens to Tax and Shares",
+  "title": "What Happens When a Hindu Undivided Family Partitions: Tax Recognition and Each Member's Share",
+  "meta_description": "What happens when a Hindu Undivided Family partitions: why the Income-tax Act and Hindu law test the same partition differently, and who gets what.",
+  "practice_area": "Wills & Succession",
+  "format": "what happens if explainer",
+  "intro": [
+    "A Hindu Undivided Family is one of the few things in Indian law that exists for two entirely different purposes under two entirely different statutes, and a partition that satisfies one does not automatically satisfy the other. Under Hindu succession law, a coparcener can demand their share of joint family property and the family's joint status can end the moment that intention is unequivocally expressed, even orally in some circumstances. Under the Income-tax Act, 1961, the same event is tested far more strictly, because a Hindu Undivided Family is also a separate unit of taxation, and the tax department will keep assessing it as one undivided family until a partition is proved and formally recorded under Section 171, regardless of what has actually happened inside the family.",
+    "Families that only look at one half of this picture run into trouble. A family that executes a partition deed, divides the property, and assumes the tax consequences will simply follow can find the Assessing Officer still treating the HUF as intact for years afterward, with every member's share of rental income or capital gains still clubbed into one return, because nobody actually went through the Section 171 recognition process."
+  ],
+  "sections": [
+    {
+      "heading": "What a coparcener is actually entitled to demand",
+      "paragraphs": [
+        "A coparcener acquires an interest in joint family property by birth, and under the law as it stands after the Hindu Succession (Amendment) Act, 2005 amended Section 6 of the Hindu Succession Act, 1956, a daughter has the same coparcenary right by birth that a son always had, with the Supreme Court in Vineeta Sharma v. Rakesh Sharma (2020) 9 SCC 1 confirming that this applies regardless of whether the father coparcener was alive on the date the 2005 amendment came into force. Any coparcener, son or daughter, can call for a partition of their share, and partition does not require unanimous agreement of the whole family, only that the demanding coparcener's intention to separate is clear and communicated.",
+        "A partition can be partial in the ordinary Hindu-law sense, covering some members or some property while the rest continues jointly, and the family does not have to dissolve itself completely just because one member wants their share carved out. Courts have also made clear that a family settlement or an oral partition, where genuinely proved, can have real legal effect, though recent commentary flags that an oral partition is a weak foundation once a coparcener's share is challenged, and that a registered partition deed or a decree of a court is the safer way to make the separation stick, particularly where daughters' shares are involved and a family member later disputes that an informal division ever properly happened."
+      ]
+    },
+    {
+      "heading": "Why the tax department applies a stricter test",
+      "paragraphs": [
+        "Section 171 of the Income-tax Act, 1961 provides that a Hindu Undivided Family that has been assessed as such is deemed to continue as an HUF for tax purposes, except where the Assessing Officer, on a claim by a member, records a finding that a partition has in fact taken place among the members, and when it took place. Until that finding is recorded, the family keeps being taxed as one assessee, even if everyone inside the family privately agrees that they have already divided the property between themselves. This is a deliberate rule against unilateral self-assessment: the taxpayer does not get to decide the partition happened and file returns accordingly without the department examining and accepting the claim.",
+        "The process requires a formal claim, supported by evidence such as the partition deed, and the Assessing Officer is expected to make enquiries into the genuineness of the claimed partition before recording a finding under the section. A family that treats its own partition deed as self-executing for tax purposes, without going through this recognition step, keeps that risk open indefinitely, since an unrecognised HUF can be reassessed as a single unit for the years in between."
+      ]
+    },
+    {
+      "heading": "Total partition versus partial partition: the 1980 cut-off",
+      "paragraphs": [
+        "Section 171 originally allowed recognition of both total and partial partitions, a total partition dividing the entire HUF property among all members and ending the family's joint status altogether, and a partial partition dividing only part of the property, or separating only some members, while the rest of the family continues as an HUF. A 1980 amendment added sub-section (9), which withdrew recognition for any partial partition effected after 31 December 1978, specifically to stop families from repeatedly splitting into smaller HUFs through partial partitions purely to multiply the number of taxable units and reduce the overall tax burden.",
+        "That restriction was challenged as unconstitutional, with the Madras and Karnataka High Courts both striking it down as arbitrary and violative of Article 14, before the question reached a Constitution Bench of the Supreme Court. In Union of India v. M.V. Valliappan (1999), the Supreme Court reversed those High Court rulings and upheld Section 171(9), holding that the provision was within Parliament's legislative competence and that the cut-off date of 31 December 1978 was not arbitrary, since it was tied to curbing a specific and real pattern of tax avoidance through partial partitions. The practical result today is straightforward: a total partition, fully dividing the family and ending the HUF, can still be recognised under Section 171. A partial partition effected after that 1978 cut-off cannot be, which means the HUF keeps being assessed as a single unit on the property that was supposedly partially partitioned, whatever the family itself has agreed among its members."
+      ]
+    },
+    {
+      "heading": "Who is taxed on what, and when",
+      "paragraphs": [
+        "Income earned by the joint family property up to the date the partition actually takes place continues to be assessed in the hands of the HUF as a single unit. Once a total partition has taken place and is recognised under Section 171, income from the specific assets each member received is assessed individually in that member's own hands from that point onward, under their own slab rate, rather than being pooled back into a family assessment. Members remain jointly and severally liable for the HUF's tax dues up to the date of partition, so a member who has already received and disposed of their share can still be pursued for the family's earlier tax liability if it is not otherwise recovered.",
+        "The division of assets on partition is not itself treated as a transfer that attracts capital gains tax, since it is a division of what coparceners already jointly owned rather than a sale or exchange, though the department still verifies that the claimed partition is genuine, proportionate and not a disguised transaction before extending this treatment. A notional partition, the kind of partition the law deems to have happened immediately before a coparcener's death solely to work out that deceased coparcener's share for succession purposes under the proviso to Section 6 of the Hindu Succession Act, is a completely different concept from an actual partition under Section 171, and is not by itself recognised as dividing the HUF for income tax purposes."
+      ]
+    },
+    {
+      "heading": "Common mistakes families make",
+      "paragraphs": [
+        "Executing and registering a partition deed, dividing the properties physically, and then continuing to file the HUF's income tax return exactly as before, on the assumption that the deed itself settles the tax position. It does not. Without a claim made to the Assessing Officer and a finding recorded under Section 171, the department can continue to assess the family as one HUF, and years of returns filed on the basis of an unrecognised partition can unravel into a reassessment dispute.",
+        "Treating a partial division, where some members separate and others continue holding property jointly, as something the department will recognise the way Hindu law itself would recognise it. Since 1978, a partial partition gets no recognition under Section 171 at all, so a family that wants a clean tax position for every member going forward generally has to go the whole distance to a total partition for Section 171 purposes, even if, as a matter of Hindu law among themselves, a smaller partial separation would have been perfectly valid.",
+        "Relying on an oral or undocumented partition where a daughter's coparcenary share is involved. Recent High Court commentary on this point treats a registered partition deed or a court decree as the real safeguard for a daughter's post-2005 coparcenary rights, since an oral partition becomes far harder to establish once another family member later disputes that it happened at all, and the dispute can run for years before any share is actually realised."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does dividing HUF property automatically change how the family is taxed?",
+      "a": "No. Under Section 171 of the Income-tax Act, 1961, the family continues to be assessed as an undivided Hindu family until a claim is made and the Assessing Officer records a finding that a partition has actually taken place, whatever the family itself has already agreed or physically divided among its members."
+    },
+    {
+      "q": "Can a partial partition of an HUF still be recognised for tax purposes?",
+      "a": "Generally no. Section 171(9), added in 1980 and upheld by the Supreme Court in Union of India v. M.V. Valliappan (1999), withdrew tax recognition for any partial partition effected after 31 December 1978, so only a total partition dividing the entire family can be recognised under the section today."
+    },
+    {
+      "q": "Do daughters have the same right to demand partition of HUF property as sons?",
+      "a": "Yes. Since the Hindu Succession (Amendment) Act, 2005 amended Section 6 of the Hindu Succession Act, 1956, a daughter is a coparcener by birth with the same right to call for partition as a son, a position the Supreme Court confirmed in Vineeta Sharma v. Rakesh Sharma (2020) 9 SCC 1."
+    },
+    {
+      "q": "Is capital gains tax charged when an HUF partitions its property?",
+      "a": "The division of property among coparceners on a genuine partition is not treated as a transfer attracting capital gains tax, since it divides existing joint ownership rather than selling or exchanging the property, though the tax department verifies that the claimed partition is genuine before giving this treatment."
+    },
+    {
+      "q": "Who is liable for the HUF's past tax dues after partition?",
+      "a": "Members remain jointly and severally liable for the Hindu Undivided Family's tax liability up to the date of partition, so a member can still be pursued for that earlier liability after receiving their share if the dues are not otherwise recovered from the family's assets."
+    }
+  ],
+  "references": [
+    "Income-tax Act, 1961, Section 171, including sub-section (9) (recognition of partition for assessment, and the bar on recognising a partial partition effected after 31 December 1978)",
+    "Hindu Succession Act, 1956, Section 6, as amended by the Hindu Succession (Amendment) Act, 2005 (coparcenary rights of daughters, and the notional partition proviso for determining a deceased coparcener's share)",
+    "Vineeta Sharma v. Rakesh Sharma, (2020) 9 SCC 1 (daughters' coparcenary rights apply regardless of whether the father coparcener was alive when the 2005 amendment came into force)",
+    "Union of India v. M.V. Valliappan, Supreme Court, 27 July 1999 (upholding the constitutional validity of Section 171(9) of the Income-tax Act, 1961)"
+  ],
+  "sources": [
+    "https://www.taxbuddy.com/blog/what-happens-to-an-huf-on-partition-or-separation",
+    "https://learn.quicko.com/partition-of-huf",
+    "https://www.outlookmoney.com/invest/can-a-daughter-claim-her-share-in-huf-property-heres-what-the-law-says",
+    "https://www.courtkutchehry.com/pages/blog/chhattisgarh-high-court-oral-partition-daughters-coparcenary-rights",
+    "https://qe-judgments.vakilsearch.com/union-india-uoi-ors-vs-mv-valliappan-ors/6455e1c9e83cfa093663410d",
+    "https://legalvidhiya.com/m-v-valliappan-and-ors-vs-income-tax-officer-and-ors-1988/"
+  ],
+  "verification_notes": [
+    "AUDIENCE: HNI",
+    "TARGET QUERY: what happens to tax when an HUF partitions / HUF partition rules",
+    "DEMAND EVIDENCE: no search-volume data seen; chosen because the site's search index has no existing guide on HUF partition despite covering adjacent family-business and succession topics, confirmed by a keyword check against the live index.",
+    "Section 171's basic scheme, requiring a claim and an Assessing Officer finding before a partition is recognised for tax purposes, and the income-before/after-partition assessment rule, are confirmed from two independent sources, taxbuddy.com and learn.quicko.com, which describe the same mechanism consistently.",
+    "Section 171(9)'s 1980 addition, the 31 December 1978 cut-off and its effect of denying recognition to partial partitions after that date, are confirmed from the same two sources plus a third practitioner blog discussing the provision's history; the Karnataka and Madras High Courts' decisions striking down the provision, and the Supreme Court's reversal in Union of India v. M.V. Valliappan (1999) upholding it, are confirmed from two independent case-report sources (vakilsearch's judgment index and legalvidhiya.com's case note), both describing the same bench outcome and reasoning.",
+    "Vineeta Sharma v. Rakesh Sharma on daughters' coparcenary rights under the amended Section 6 is treated as well-settled law already reflected in the site's existing coverage of coparcenary and Hindu succession topics, and corroborated independently by outlookmoney.com's explainer describing the same 2005 amendment and the same Supreme Court position.",
+    "The description of a registered partition deed as the safer route for a daughter's coparcenary share, over an oral or undocumented partition, draws on a February 2026 Chhattisgarh High Court report (courtkutchehry.com); this is stated as a single-court, recent decision and the draft does not generalise it into a nationwide rule beyond what that report itself describes.",
+    "The non-taxability of a genuine partition as a capital gains event is stated in general terms, since the specific statutory exemption provision was not independently opened and confirmed from the bare Act text in this run; the draft notes that the department still verifies genuineness rather than treating the exemption as automatic.",
+    "No specific figure is given for any stamp duty or registration cost of a partition deed, since state rates were not confirmed from two sources in this run and vary by state."
+  ]
+}
