@@ -1,0 +1,103 @@
+{
+  "slug": "global-capability-centre-india-setup-structure-guide",
+  "seo_title": "Setting Up a GCC in India: Subsidiary or Branch",
+  "title": "Setting Up a Global Capability Centre in India: Subsidiary, Branch Office or LLP",
+  "meta_description": "How a foreign group sets up a Global Capability Centre in India: subsidiary, branch office and LLP compared, approvals needed, and what each means for tax.",
+  "practice_area": "Corporate Law & M&A",
+  "format": "X vs Y comparison",
+  "intro": [
+    "A Global Capability Centre is not a defined legal entity under Indian law. It is a business label for an in-house unit a foreign group sets up in India to run technology, finance, analytics or other support functions for the rest of the group rather than for outside clients. Because there is no separate statute for a GCC, the group still has to pick one of the ordinary legal vehicles available to a foreign investor, and the choice of vehicle is what actually determines approvals, tax exposure and how much the Indian unit can do on its own.",
+    "Three structures come up in practice: a wholly owned Indian subsidiary incorporated under the Companies Act, 2013, a branch office of the foreign company itself, and, less commonly, a limited liability partnership with foreign partners. Almost every GCC of any scale in India today runs through a subsidiary, and the reasons for that are worth setting out plainly before looking at when a branch or an LLP might still make sense."
+  ],
+  "sections": [
+    {
+      "heading": "The subsidiary route, and why it is the default",
+      "paragraphs": [
+        "A wholly owned Indian subsidiary is a new Indian company, usually a private limited company, whose shares are held by the foreign parent, subject to the sectoral conditions and reporting under the Foreign Exchange Management (Non-debt Instruments) Rules, 2019. Incorporation follows the ordinary Companies Act route: reserving a name, filing incorporation documents with the Registrar of Companies, and meeting the resident director requirement, after which the company is a distinct Indian legal person that can hire staff, lease premises, open bank accounts and contract in its own name without needing a fresh approval for each of those steps.",
+        "The practical advantage is operational freedom. A subsidiary is not restricted to a narrow list of permitted activities the way a branch office is, it can undertake the full range of business its memorandum allows, and once incorporated it does not need the foreign group to go back to the regulator each time its functions expand. The cost is a full company law compliance calendar: board meetings, annual filings, statutory audit and, if applicable, transfer pricing documentation for every transaction with the foreign group, since a GCC's entire revenue model is intra-group service charges that tax authorities scrutinise closely."
+      ]
+    },
+    {
+      "heading": "The branch office route, and why it is rarer for a GCC",
+      "paragraphs": [
+        "A branch office is not a separate legal entity. It is the foreign company itself, operating in India through a registered place of business, which is why its activities are kept on a tighter leash. Under the Foreign Exchange Management (Establishment in India of a branch office or a liaison office or a project office or any other place of business) Regulations, 2016, a foreign entity must first get approval, routed through an Authorised Dealer Category-I bank that forwards the application to the Reserve Bank of India, and only after that approval can it register with the Registrar of Companies by filing Form FC-1 under Section 380 of the Companies Act, 2013, read with the Companies (Registration of Foreign Companies) Rules, 2014.",
+        "The bank examines the applicant's track record and financial soundness before forwarding the application, and a foreign company that cannot show this on its own can sometimes rely on a letter of comfort from its parent, provided the parent meets the prescribed financial conditions. A branch is also expected to confine itself to the activities its parent is itself engaged in, which sits awkwardly with a GCC that is meant to deliver support services the parent does not itself perform as a line of business, and the approval lapses if the office is not actually opened within a set period after it is granted. For most GCC mandates, this combination of prior approval, narrower permitted activity and continuing dependence on the parent's own financial profile makes a branch a weaker fit than a subsidiary, and it tends to appear only where a group specifically wants to keep the India unit inside the same legal entity as the parent for accounting or liability reasons."
+      ]
+    },
+    {
+      "heading": "The LLP route, and where it is actually used",
+      "paragraphs": [
+        "A limited liability partnership with foreign partners is permitted in sectors where 100 percent foreign direct investment is allowed under the automatic route and where the business does not operate in a sector with performance-linked conditions attached to the investment. An LLP has lighter compliance than a company, no separate concept of share capital, and can be a reasonable structure for an early-stage or exploratory unit a group wants to run with minimal governance overhead before deciding whether to scale it into a full company.",
+        "In practice, this route is used less often for a GCC than for other kinds of joint ventures or professional services arms, mainly because large multinational groups generally prefer the more standard governance and reporting that a company structure gives them, and because a captive centre that will eventually need to hire at scale finds a company's familiar framework, including employee stock arrangements and a conventional board, easier to run across multiple group jurisdictions than a partnership structure."
+      ]
+    },
+    {
+      "heading": "Transfer pricing is the issue that follows every structure",
+      "paragraphs": [
+        "Whichever vehicle is chosen, the core commercial fact about a GCC does not change: almost all of its income comes from services billed to group companies abroad, which makes every one of those transactions an international transaction for transfer pricing purposes under the Income-tax Act. The Indian unit has to be remunerated on an arm's length basis and support that with contemporaneous transfer pricing documentation, and this exposure exists identically whether the unit is a subsidiary, a branch, or an LLP, since the tax law looks at the transaction, not the corporate form.",
+        "India's safe harbour rules give GCCs providing software development, IT-enabled or related services a way to avoid a transfer pricing dispute altogether, by accepting a prescribed minimum margin on costs instead of litigating the arm's length price case by case, though opting into the safe harbour also means giving up access to mutual agreement procedure relief under the applicable tax treaty for the transactions it covers. Groups weighing that trade-off should treat it as a separate, dedicated decision rather than an afterthought to the entity structure, since the right choice depends on how confident the group is of its margins and how much it values certainty over treaty-based dispute resolution."
+      ]
+    },
+    {
+      "heading": "Labour law compliance does not depend on the structure chosen",
+      "paragraphs": [
+        "India's four central labour codes, consolidating a large body of earlier central labour legislation on wages, social security, industrial relations and occupational safety, came into force with effect from 21 November 2025, and central rules under them followed through 2026, with individual states still notifying their own rules on a staggered timeline. A GCC hiring staff in India, whatever structure it uses, has to track which of these state-level rules have actually been notified for the state it operates in, since obligations such as registration, working-hour limits and social security contributions can differ until a state's own rules catch up with the central framework.",
+        "This is a genuinely moving target at present, and a GCC that assumes the labour-law position is settled nationwide risks missing a state-specific requirement that applies only once that state notifies its rules. Checking the current state of notification for the specific state of operation, rather than relying on the central codes alone, should be a standing item in the GCC's compliance calendar for the next few years."
+      ]
+    },
+    {
+      "heading": "Picking between the structures in practice",
+      "paragraphs": [
+        "A group that wants full operational flexibility, plans to scale headcount, and is comfortable running an ordinary Indian company's governance and compliance calendar should default to the subsidiary route, which is why it remains the overwhelming market practice for GCCs of any real size. A group that wants to keep the India operation inside the same legal entity as the parent, accepts a narrower scope of permitted activity, and can clear the RBI approval process should weigh the branch route, typically for a more limited or specialised function rather than a full-scale centre.",
+        "An LLP earns consideration mainly where the group wants to start small, keep governance light, and preserves the option to convert into a company once the centre's scope and headcount are clearer, accepting that this route is less tested for GCC purposes than the other two. None of these choices removes the transfer pricing exposure or the labour-law compliance burden, which attach to the activity itself rather than to the vehicle carrying it out, so the entity decision and the tax and employment compliance plan should be made together, not in sequence."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a Global Capability Centre a separate legal structure under Indian law?",
+      "a": "No. There is no dedicated legal form for a GCC. A foreign group sets one up by choosing an existing route, most commonly a wholly owned Indian subsidiary under the Companies Act, 2013, and less often a branch office or an LLP, each carrying its own approval process and compliance obligations."
+    },
+    {
+      "q": "Does a branch office need Reserve Bank of India approval before it can register in India?",
+      "a": "Yes. Under the FEMA regulations governing branch, liaison and project offices, a foreign company must first secure approval, routed through an Authorised Dealer Category-I bank to the RBI, before it files Form FC-1 with the Registrar of Companies under Section 380 of the Companies Act, 2013."
+    },
+    {
+      "q": "Can a GCC avoid transfer pricing disputes in India?",
+      "a": "It can reduce the risk by opting into India's safe harbour rules for IT and IT-enabled services, which accept a prescribed minimum margin instead of a case-by-case arm's length pricing dispute, but opting in also means giving up mutual agreement procedure relief under the relevant tax treaty for those transactions."
+    },
+    {
+      "q": "Why do most GCCs use a subsidiary rather than a branch office?",
+      "a": "A subsidiary is a separate Indian legal person that can carry on the full range of business its documents permit without going back to a regulator for each new activity, while a branch office needs prior RBI approval and is expected to stay within activities its foreign parent itself carries on, which fits a captive support centre poorly."
+    },
+    {
+      "q": "Do India's new labour codes apply the same way across every state?",
+      "a": "Not yet in every respect. The four central labour codes took effect on 21 November 2025 with central rules following through 2026, but individual states are notifying their own rules on different timelines, so specific obligations can still depend on whether a particular state has notified its rules."
+    }
+  ],
+  "references": [
+    "Companies Act, 2013, Section 380, and the Companies (Registration of Foreign Companies) Rules, 2014, Rule 3(3) (Form FC-1 registration of a foreign company's place of business)",
+    "Foreign Exchange Management (Establishment in India of a branch office or a liaison office or a project office or any other place of business) Regulations, 2016 (FEMA 22(R)/2016-RB) and the RBI Master Direction issued under it",
+    "Foreign Exchange Management (Non-debt Instruments) Rules, 2019 (subsidiary route and sectoral conditions for foreign direct investment)",
+    "Income-tax Act, 1961, transfer pricing provisions, and the Income-tax Rules, 2026 safe harbour framework for information technology and IT-enabled services effective from Tax Year 2026-27",
+    "The four central Labour Codes, in force from 21 November 2025, consolidating central labour legislation on wages, social security, industrial relations and occupational safety"
+  ],
+  "sources": [
+    "https://www.mondaq.com/india/corporate-and-company-law/1775832/india-market-entry-in-2026-choosing-between-a-subsidiary-branch-office-and-llp-for-gcc-operations",
+    "https://ksandk.com/corporate/setting-up-gcc-in-india-legal-regulatory-framework/",
+    "https://www.setindiabiz.com/blog/filing-fc1-form-branch-office",
+    "https://website.rbi.org.in/web/rbi/-/notifications/master-direction-establishment-of-branch-office-bo-liaison-office-lo-project-office-po-or-any-other-place-of-business-in-india-by-foreign-entities-updated-as-on-may-18-2021-10404",
+    "https://treelife.in/legal/safe-harbour-rules-for-it-ites-and-captives/",
+    "https://kpmg.com/us/en/taxnewsflash/news/2026/02/tnf-india-draft-rules-amending-transfer-pricing-safe-harbor-regime.html"
+  ],
+  "verification_notes": [
+    "AUDIENCE: foreign company",
+    "TARGET QUERY: how to set up a Global Capability Centre in India / GCC legal structure India",
+    "DEMAND EVIDENCE: no search-volume data seen; GCCs are a heavily reported 2025-2026 trend in Indian legal and business commentary (multiple law-firm and consultancy explainers found), and the site's search index has no existing entry on GCC entity structure despite covering adjacent foreign-company topics (branch/liaison office closure, resident director, ECB), so treated as a genuine gap.",
+    "Subsidiary as the dominant GCC structure, and branch office requiring prior RBI approval before Form FC-1 registration under Section 380, confirmed from two independent sources, Mondaq's 2026 market-entry comparison and ksandk.com's legal framework note, both describing the same sequence and the same statutory basis.",
+    "The RBI approval route through an AD Category-I bank, the letter-of-comfort option where the applicant itself cannot show a financially sound track record, and the six-month lapse condition on an unopened approved office, are confirmed from the RBI's own Master Direction page description and corroborated by a second commentary (taxguru.in) describing the same AD-bank forwarding process; the specific net worth and profit figures for eligibility were not confirmed from two sources in this run and are therefore not stated.",
+    "The safe harbour margin of 15.5 percent for IT and IT-enabled services, effective from Tax Year 2026-27, and the trade-off against mutual agreement procedure relief, are confirmed from two independent sources, a KPMG tax alert and treelife.in's practitioner explainer, which both describe the same margin and timing; the exact rule number under the Income-tax Rules, 2026 differed between sources (Rule 89 versus Rule 91 in different reports) so no specific rule number is stated in the draft.",
+    "The labour codes' 21 November 2025 commencement date and the staggered state-level rule notification are confirmed from two independent sources describing the same commencement date and the same state-by-state rollout; no specific state's notification status is stated as current, since that changes quickly and was not independently verified for any one state in this run.",
+    "LLP eligibility for GCC-type operations under the automatic FDI route is stated only in general terms, since no source in this run confirmed specific sector exclusions relevant to a typical GCC beyond the general 100 percent automatic route condition."
+  ]
+}
