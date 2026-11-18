@@ -3591,5 +3591,67 @@
    "https://www.iepf.gov.in/content/dam/mca-aem-forms/instructionkits/Instruction%20Kit_URC-1.pdf"
   ],
   "note": "The Section 366-374 route (Chapter XXI Part I, Companies Act 2013), the Companies (Amendment) Act 2017 substituting \"two or more members\" for \"seven or more members\" in Section 366(2) (Section 75 of the 2017 Amendment Act), Form URC-1 under Rule 3(2) of the Companies (Authorised to Register) Rules 2014, and Section 374's vesting of property, rights and liabilities are all confirmed. The draft already flags the tax-neutrality claim and the alleged 2023 URC-1 form change as unconfirmed by an official source, which matches what this run found. No errors."
+ },
+ {
+  "file": "_drafts/daily/blog/39-caveat-petition-section-148a-cpc-probate-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://indiankanoon.org/doc/61589326/",
+   "https://courtkutchehry.com/judgments/in-re-narendra-narayan-roy-chaudhury",
+   "https://www.legalserviceindia.com/Legal-Articles/?p=16156"
+  ],
+  "note": "Section 148A notice/90-day mechanics, Deepak Khosla v. Union of India (Delhi HC, WP(C) 1703/2011, 11 May 2011, holding Section 148A confined to civil proceedings and not extending to Article 226/227 writs or CrPC petitions), the Yaseen v. Mahendra Yadav lockdown-exclusion point, and the 1945 Narendra Narayan Roy Chaudhury rule on propounding a different will all confirmed independently. Draft's own hedging on single-source points (Yaseen specifics, probate conversion split) is appropriate."
+ },
+ {
+  "file": "_drafts/daily/blog/40-global-capability-centre-india-setup-structure-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://ey.com/en_in/technical/alerts-hub/2025/11/new-labour-codes-implemented-across-the-country-effective-21-november-2025",
+   "https://website.rbi.org.in/documents/87730/39710850/22RNT04042016ccf68741715d47f887de23b7b550a83a.pdf",
+   "https://kpmg.com/us/en/taxnewsflash/news/2026/02/tnf-india-draft-rules-amending-transfer-pricing-safe-harbor-regime.html"
+  ],
+  "note": "Branch-office RBI approval route (AD Cat-I bank, letter of comfort, 6-month lapse/extension under FEMA 22(R) Master Direction), Section 380/Form FC-1 registration, labour codes effective 21 Nov 2025, and the safe-harbour reset from Tax Year 2026-27 all confirmed from independent sources."
+ },
+ {
+  "file": "_drafts/daily/blog/41-transfer-pricing-safe-harbour-it-ites-2026-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://kpmg.com/us/en/taxnewsflash/news/2026/03/india-transfer-pricing-income-tax-rules-2026.html",
+   "https://treelife.in/legal/safe-harbour-rules-for-it-ites-and-captives/",
+   "https://a2ztaxcorp.net/only-about-100-it-firms-outside-safe-harbour-cbdt-chairman-assures-apas-within-two-years-for-rest/"
+  ],
+  "note": "Consolidation of software/ITeS/KPO/contract R&D into a single IT services safe-harbour category at 15.5% of operating cost from Tax Year 2026-27, the CBDT notification (No. 22/2026, 20 March 2026, effective 1 April 2026), the MAP-relief trade-off, and the roughly-100-companies/fast-track-APA reporting all independently confirmed. Draft's hedging on turnover threshold and rule numbering already appropriate."
+ },
+ {
+  "file": "_drafts/daily/blog/42-huf-partition-tax-section-171-succession-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://hcraj.nic.in/sci/1998/3-1612-1998_1999-07-27.pdf",
+   "https://itatonline.org/digest/uoi-v-m-v-valliappan-1999-238-itr-1027-105-taxman-605-155-ctr-193-sc/",
+   "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2020/volume%2010/Part%20I/Vineeta%20Sharma%20_%20Rakesh%20Sharma%20&%20Ors._1700823168.pdf"
+  ],
+  "note": "Section 171/171(9) scheme, the 31 December 1978 cut-off barring recognition of partial partitions after that date, Union of India v. M.V. Valliappan (SC, 27 July 1999) upholding Section 171(9) and reversing the Madras High Court, and Vineeta Sharma v. Rakesh Sharma (2020) on daughters' coparcenary rights applying regardless of the father's death date, all independently confirmed."
+ },
+ {
+  "file": "_drafts/daily/blog/43-execution-attachment-sale-immovable-property-order-21-guide.json",
+  "verdict": "FIX",
+  "claims_checked": 8,
+  "evidence": [
+   "https://kkbzlegal.blogspot.com/2016/02/order-21-r-54-attachment-of-immovable.html",
+   "https://hcraj.nic.in/sci/2005/3-2598-2005_2008-04-02.pdf",
+   "https://future.indiankanoon.org/doc/545614"
+  ],
+  "note": "Order XXI Rule 54(1A)'s mandatory notice, Rule 64 (deciding what to sell), Rule 66 proclamation, Rule 90's twin-condition test (irregularity/fraud plus substantial injury, confirmed via Jagan Singh & Co. v. Ludhiana Improvement Trust) and Rules 92/94/95 confirmation-certificate-possession sequence all independently confirmed. However, sub-rule (1A) was added by the Code of Civil Procedure (Amendment) Act, 1976, not a 2002 amendment as the draft states; two independent sources attribute it to the 1976 Act and nothing in the text or history of the Civil Procedure Code (Amendment) Act, 2002 (Act 22 of 2002) touches Rule 54.",
+  "fixes": [
+   {
+    "find": "A 2002 amendment to the Code added sub-rule (1A), requiring the court to give the judgment debtor notice to appear on a specified date to take notice of the date fixed for settling the terms of the proclamation of sale, before the court goes ahead and settles those terms.",
+    "replace": "A 1976 amendment to the Code added sub-rule (1A), requiring the court to give the judgment debtor notice to appear on a specified date to take notice of the date fixed for settling the terms of the proclamation of sale, before the court goes ahead and settles those terms.",
+    "reason": "Sub-rule (1A) was inserted by the CPC (Amendment) Act, 1976, not a 2002 amendment; no provision of Act 22 of 2002 touches Rule 54."
+   }
+  ]
  }
 ]
