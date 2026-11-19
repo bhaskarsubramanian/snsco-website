@@ -919,8 +919,8 @@
   "note": "The core holding is confirmed: NHAI's Section 34 challenge succeeded in setting aside the Rs 911.13 crore termination payment component (tribunal used a Rs 1045.5 crore Total Project Cost figure exceeding the Rs 650 crore Article 48.1 cap), and that result was upheld on 28 September 2026. But the draft materially mischaracterises the 28 September event: independent sources (SupremeToday.ai, LiveLawBiz) show the 28 July 2026 order was a single-judge Section 34 ruling by Justice Sachin Datta, and KEPL's challenge to it was a Section 37 appeal heard and dismissed by a Division Bench of Justices Anil Kshetarpal and Shail Jain on 28 September 2026, not a reconsideration/recall request decided by 'the same court'. The neutral citation 2026:DHC:5961 (per Verdictum, discussing 'Court Restraint; Tribunal's Fidelity to Contract') attaches to the single judge's 28 July order, not the Division Bench's 28 September order.",
   "fixes": [
    {
-    "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
-    "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's \u20b9911 Crore Termination Payment\",",
+    "find": "\"title\": \"Delhi HC Refuses to Recall Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
+    "replace": "\"title\": \"Delhi HC Division Bench Upholds Order Cutting NHAI Concessionaire's ₹911 Crore Termination Payment\",",
     "reason": "The 28 September 2026 ruling was a Division Bench dismissing KEPL's Section 37 appeal, not the same court declining to recall its own order."
    },
    {
@@ -4555,5 +4555,67 @@
    "https://yourstory.com/2026/11/indian-govt-bans-export-battery-waste-including-lithium-ion-battery-black-mass"
   ],
   "note": "Notification No. 49/2026-27 dated 10 November 2026, HS code 85491400, change from Free to Prohibited with immediate effect, exclusion of lead/cadmium/mercury-bearing scrap, and the stated critical-mineral-recovery rationale all confirmed across multiple independent outlets (a2ztaxcorp, Deccan Herald, World Trade Scanner, YourStory, and others). Not duplicate of live content."
+ },
+ {
+  "file": "_drafts/daily/news/34-sc-dda-gratuity-pending-acquittal-appeal-rajender-kumar-sharma.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelaw.in/top-stories/supreme-court-pending-appeal-against-acquittal-ground-withhold-retired-employees-gratuity-558644",
+   "https://lawtrend.in/supreme-court-gratuity-withheld-pending-appeal-against-acquittal/",
+   "https://courtbook.in/posts/supreme-court-upholds-release-of-gratuity-to-acquitted-dda-employees-despite-pending-state-appeal",
+   "https://www.latestly.com/agency-news/india-news-pendency-of-appeal-does-not-disentitle-state-from-withholding-gratuity-of-delinquent-employee-sc-3476666.html"
+  ],
+  "note": "Case, citation (2026 INSC 1213), decision date (16 Nov 2026), bench, CAT/HC history, holding and the Bikram Chand Rana distinguishing are all confirmed by fresh independent sources. Fresh searches also surfaced specific gratuity amounts (~Rs 18.5 lakh and ~Rs 15.4 lakh under Rule 69(1)(c) CCS Pension Rules) that the draft omitted as unconfirmed; this is an omission, not an error, so no fix is required. No duplicate found on the live site."
+ },
+ {
+  "file": "_drafts/daily/news/35-sc-lulu-manjeera-ibc-limitation-condonation-nclat.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.livelaw.in/supreme-court/supreme-court-clears-lulu-malls-resolution-plan-for-manjeera-retail-holdings-558646",
+   "https://www.verdictum.in/supreme-court/lulu-international-shopping-malls-v-gorinka-pratyusha-2026-insc-1224-nclat-review-ibc-1625922",
+   "https://www.livelawbiz.com/ibc/supreme-court/supreme-court-sets-aside-nclat-order-allowing-delayed-appeals-against-lulus-resolution-plan-for-manjeera-retail-holdings-558672",
+   "https://lawchakra.in/supreme-court/lulu-resolution-plan/"
+  ],
+  "note": "Case name, citation (2026 INSC 1224), bench, decision date, the Section 61(2)/Section 4 Limitation Act holding, reliance on Tata Steel v. Raj Kumar Banerjee, and the review-vs-recall (Rule 11 NCLAT Rules) point are all confirmed independently. The 'Civil Appeal Nos. 3110-3111' detail is consistent with one source's 'No. 3110 and connected appeal' framing, not a real conflict. No duplicate found on the live site."
+ },
+ {
+  "file": "_drafts/daily/news/36-calcutta-hc-malhotra-panama-trademark-mediation-exemption.json",
+  "verdict": "FIX",
+  "claims_checked": 7,
+  "evidence": [
+   "https://www.livelawbiz.com/trademark/delay-in-filing-suit-doesnt-negate-urgency-in-continuing-infringement-mediation-can-be-dispensed-with-calcutta-high-court-558593",
+   "https://indiankanoon.org/doc/57037019/",
+   "https://supremetoday.ai/calcutta-high-court-trademark-mediation-exemption-20261117052"
+  ],
+  "note": "Core holding, bench, decision date, citation, first-use dates and the mediation-exemption outcome are all confirmed. However, the respondent's name, which the draft said was unconfirmed, IS identified in two independent sources found this run (an Indian Kanoon order record and LiveLawBiz's report): Rohan Malhotra and others. Fix applied to case_name.",
+  "fixes": [
+   {
+    "find": "Malhotra International Pvt. Ltd. v. Respondent(s) (name not confirmed in available reports)",
+    "replace": "Malhotra International Pvt. Ltd. v. Rohan Malhotra & Ors.",
+    "reason": "Fresh searches found the respondent named in both an Indian Kanoon order record (14 Oct 2026 order in the same suit) and LiveLawBiz's report: Rohan Malhotra and others, trading in the same PANAMA shaving-blade mark."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/daily/news/37-delhi-hc-goldmedal-electricals-great-medal-trademark-injunction.json",
+  "verdict": "PASS",
+  "claims_checked": 8,
+  "evidence": [
+   "https://www.livelawbiz.com/trademark/delhi-high-court-restrains-srinagar-company-from-selling-electrical-goods-under-great-medal-mark-in-goldmedal-electricals-trade-mark-suit-558338",
+   "https://supremetoday.ai/delhi-high-court-restrains-plywood-sellers-from-using-registered-goldmedal-trademark-to-defraud-public-consumers-20261026083"
+  ],
+  "note": "Case number, parties, judge (Justice Tejas Karia), decision date, the marks/platforms involved and the 1979 first-use claim are all confirmed by independent fresh searches, including one that explicitly ties Justice Tejas Karia to this specific suit (CS(COMM) 1199/2026), resolving an initial ambiguity. No duplicate found on the live site."
+ },
+ {
+  "file": "_drafts/daily/news/38-calcutta-hc-west-bengal-rajpath-contractors-arbitral-award-interest.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.livelawbiz.com/arbitration/high-court/no-duplication-of-interest-calcutta-high-court-upholds-arbitral-award-in-contractors-favour-558251",
+   "https://jgu.edu.in/mappingADR/executive-engineer-r-and-b-and-others-v-gokul-chandra-kanungo-dead-thr-his-lrs/"
+  ],
+  "note": "Case name, citation, bench, decision date, the bridge contract background and the no-duplication-of-interest holding are confirmed. The Gokul Chandra Kanungo Supreme Court case the State relied on is confirmed to exist and to concern arbitrator discretion on interest under Section 31(7)(a). No duplicate found on the live site."
  }
 ]
