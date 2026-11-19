@@ -1339,7 +1339,7 @@
   "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
   "fixes": [
    {
-    "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
+    "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
     "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
     "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
    }
@@ -3653,5 +3653,61 @@
     "reason": "Sub-rule (1A) was inserted by the CPC (Amendment) Act, 1976, not a 2002 amendment; no provision of Act 22 of 2002 touches Rule 54."
    }
   ]
+ },
+ {
+  "file": "_drafts/daily/blog/44-nri-oci-inherit-agricultural-land-india-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10196",
+   "https://website.rbi.org.in/documents/d/rbi/faq_purchaseofimmovableproperty",
+   "https://assetlyhq.com/blog/can-nri-buy-agricultural-land-india-fema/"
+  ],
+  "note": "Core rule (purchase of agricultural land/plantation/farmhouse barred for NRI/OCI, inheritance permitted, resale restricted to resident Indian citizens) is confirmed directly from the RBI's own Master Direction and FAQ text, and the draft's hedging on gift/resale-approval points matches genuine secondary-source disagreement. SIGNIFICANT OVERLAP FLAG (not a factual error): the live site already has two blog guides on essentially this exact topic -- /blog/nri-inherited-agricultural-land-sale-guide.html and /blog/nri-oci-agricultural-land-farmhouse-fema-guide.html -- which together cover both halves (inheriting and buying) of this new draft. Recommend the owner review for redundancy before publishing, even though no factual error was found."
+ },
+ {
+  "file": "_drafts/daily/blog/45-inheritance-tax-india-capital-gains-inherited-property-guide.json",
+  "verdict": "PASS",
+  "claims_checked": 7,
+  "evidence": [
+   "https://retirement.outlookindia.com/plan/news/inheritance-tax-row-a-brief-history-of-death-tax-in-india",
+   "https://www.mondaq.com/india/inheritance-tax/708128/estate-duty-act-a-critical-analysis-of-the-journey-so-far",
+   "https://www.incometaxindia.gov.in/w/section-49",
+   "https://abcaus.in/budget-2015-16/abolition-of-wealth-tax-act-1957-from-ay-2016-17.html"
+  ],
+  "note": "Estate duty abolition (deaths on/after 16 March 1985), Section 56(2)(x) exclusion for inheritance, Section 49 carried-over cost of acquisition, and the Wealth Tax Act's withdrawal from AY 2016-17 are all confirmed by independent fresh sources. No duplicate found on the live site."
+ },
+ {
+  "file": "_drafts/daily/blog/46-probate-mandatory-india-section-213-repealed-guide.json",
+  "verdict": "FAIL",
+  "claims_checked": 5,
+  "evidence": [
+   "https://www.barandbench.com/view-point/omission-of-section-213-of-the-indian-succession-act-1925-seeking-probate-of-will-is-no-longer-mandatory",
+   "https://theprint.in/judiciary/probate-no-longer-must-to-prove-validity-of-wills-whats-the-amendment-to-indian-succession-act/2811546/",
+   "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-ruling-probate-of-will-requirement-section-57-indian-succession-act-309202"
+  ],
+  "note": "All the legal facts check out (Repealing and Amending Act 2025 omitted Section 213 effective 20 Dec 2025; Allahabad HC's Nov 2025 ruling applying Clarence Pais). FAIL for duplicate of live content: the site already has two live guides on exactly this topic, /blog/probate-no-longer-mandatory-section-213-guide.html and /blog/probate-after-section-213-repeal-guide.html, with near-identical titles. This draft would be a third near-duplicate on the same narrow point."
+ },
+ {
+  "file": "_drafts/daily/blog/47-closing-branch-liaison-office-india-rbi-procedure-guide.json",
+  "verdict": "FAIL",
+  "claims_checked": 5,
+  "evidence": [
+   "https://rbi.org.in/Scripts/bs_viewcontent.aspx?Id=1284",
+   "https://blog.ipleaders.in/documents-submitted-ad-bank-time-closure-liaison-branch-office/"
+  ],
+  "note": "Facts check out (AD Category-I bank handling closures since 1 Feb 2010 per RBI Circular 24, tax clearance precondition, etc). FAIL for duplicate of live content: the site already has a live article covering this exact topic, /articles/closing-branch-liaison-project-office-india-foreign-company-article.html ('Closing a Branch, Liaison Office or Subsidiary in India: Foreign Company Exit'), which overlaps heavily with this draft's scope."
+ },
+ {
+  "file": "_drafts/daily/blog/48-transfer-pricing-master-file-cbcr-india-guide.json",
+  "verdict": "FAIL",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.taxtmi.com/tmi_notes?id=2065",
+   "https://www.taxheal.com/?p=123884",
+   "https://efiletax.in/blog/new-forms-56-to-60-under-the-income-tax-act-2025",
+   "https://www.caclubindia.com/news/forms-56-to-60-simplified-master-file-cbcr-forms-under-income-tax-act-2025-26508.asp"
+  ],
+  "note": "FAIL: the Income-tax Act, 2025 has been in force since 1 April 2026, which is before today's date. Multiple independent sources confirm the whole statutory and form framework this draft describes has been superseded: old Section 92D/Rule 10DA/Forms 3CEAA-3CEAB (Master File) are now Section 171/Rule 123/Forms 56-57, and old Section 286/Rule 10DB/Forms 3CEAC-3CEAD (CbCR) are now Section 511/Rule 124/Forms 58-60. The draft cites only the repealed 1961-Act provisions throughout as if they were current law, which fails the 'law as it stands today' check; this needs a full rewrite under the Income-tax Act 2025 framework rather than a targeted fix, since nearly every statutory and form citation in the piece would need to change."
  }
 ]
