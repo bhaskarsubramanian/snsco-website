@@ -1,0 +1,78 @@
+{
+  "slug": "transfer-pricing-master-file-cbcr-india-guide",
+  "title": "Master File and Country-by-Country Report: when must an Indian group entity file them?",
+  "seo_title": "Master File & CbCR Filing Rules for India Explained",
+  "meta_description": "Form 3CEAA Master File and Form 3CEAD CbCR apply at different revenue thresholds. Here is who in an Indian multinational group has to file each, and when.",
+  "practice_area": "Tax Litigation",
+  "format": "document checklist",
+  "intro": [
+    "A Master File and a Country-by-Country Report sound like the same compliance item to many finance teams inside a multinational group's Indian subsidiary, and they are often handed to whoever already does the transfer pricing study without anyone checking whether either filing is actually triggered. They are governed by different provisions, filed on different forms, and triggered at different revenue thresholds, and a group can owe one without owing the other.",
+    "Both obligations sit on top of, not instead of, the ordinary transfer pricing documentation every Indian entity with international related-party transactions already has to maintain. Getting the Master File and CbCR analysis wrong usually means either filing something that was not required, which wastes time, or missing a filing that was required, which carries its own penalty exposure."
+  ],
+  "sections": [
+    {
+      "heading": "The Master File: Form 3CEAA under Section 92D and Rule 10DA",
+      "paragraphs": [
+        "Section 92D of the Income Tax Act, 1961 requires a constituent entity of an international group operating in India to maintain prescribed Master File information in addition to its own transaction-level transfer pricing documentation, with Rule 10DA of the Income-tax Rules, 1962 setting out what that information is and how it is filed, on Form 3CEAA. The due date for filing Form 3CEAA is on or before the due date for filing the entity's return of income under Section 139(1).",
+        "Form 3CEAA has two parts, and they are not triggered by the same test. Part A has to be furnished by every constituent entity of an international group that is required to keep Master File information at all, with no revenue threshold attached to Part A itself. Part B, which carries the more detailed group-level information, is triggered only once the group crosses specific thresholds: sources consistently describe this as a consolidated group revenue above a stated crore-rupee level together with either the Indian entity's aggregate international transactions, or its intangible-property transactions, crossing a further threshold. The exact rupee figures should be confirmed against the current Rule 10DA text for the relevant year before being applied to a specific group, since reported figures for the intangibles limb were not fully consistent across the sources checked in this run."
+      ]
+    },
+    {
+      "heading": "Who within the group actually files it",
+      "paragraphs": [
+        "Where a group has more than one constituent entity resident in India, the group does not have to file a separate Master File from every one of them. Rule 10DA, as amended, allows one designated constituent entity to file Form 3CEAA on behalf of all the Indian constituent entities, with that designation itself communicated on a separate form, Form 3CEAB. This is a meaningful relief for groups with several Indian subsidiaries or branches, since it avoids duplicate filings covering the same group-level information.",
+        "The designation still needs to be made correctly and on time, because if no valid designation is on file, each Indian constituent entity that is independently required to maintain Master File information remains separately exposed if the filing does not happen. Groups restructuring their Indian entities, such as after a merger or a new subsidiary being added, should revisit who is designated rather than assuming the old designation still covers the new structure."
+      ]
+    },
+    {
+      "heading": "The Country-by-Country Report: Form 3CEAD under Section 286",
+      "paragraphs": [
+        "Section 286 of the Income Tax Act, 1961 deals separately with Country-by-Country Reporting, and the threshold for it is set by Rule 10DB rather than Rule 10DA. The current threshold, as notified, is a total consolidated group revenue of the international group of six thousand four hundred crore rupees or more in the accounting year preceding the reporting accounting year; that figure replaced an earlier five thousand five hundred crore rupee threshold from a prior period. Because this threshold is set in absolute terms at the whole group's consolidated level, a modestly sized Indian subsidiary of a very large global group can still trigger the obligation even though its own Indian operations are comparatively small.",
+        "An Indian parent entity of the group, or an Indian entity the group has designated as its alternate reporting entity, has to file Form 3CEAD once the threshold is crossed. A constituent entity resident in India whose ultimate parent is a non-resident can also come under an obligation to file, in the specific circumstances the section sets out, such as where the parent's own jurisdiction has no exchange arrangement with India for this report or has failed to actually transmit it."
+      ]
+    },
+    {
+      "heading": "Timelines and the intimation step",
+      "paragraphs": [
+        "Form 3CEAD itself is due within twelve months of the end of the reporting accounting year. Before that, Form 3CEAC, which is an intimation rather than the report itself, has to be filed naming which entity of the group will file the Country-by-Country Report and for which reporting year, and this intimation is due before the report's own due date, not alongside it. Treating the intimation as an afterthought, once the report is nearly ready, is a common and avoidable scheduling mistake, since the intimation is meant to be filed well ahead of the report.",
+        "Groups should map out, at the start of each financial year, which Indian entities are constituent entities of an international group at all, whether the group's consolidated revenue is likely to cross either the Master File Part B threshold or the much higher CbCR threshold for that year, and who within the group will be designated to file on behalf of the rest. Doing this mapping only when the return filing deadline is close tends to produce rushed filings with a higher chance of being wrong about thresholds or designations."
+      ]
+    },
+    {
+      "heading": "What happens if the filing is missed or wrong",
+      "paragraphs": [
+        "Both Section 92D and Section 286 carry their own penalty provisions for a Master File or Country-by-Country Report that is not filed, or that is filed with inaccurate information, and these sit on top of whatever penalty already applies for a deficient transfer pricing study at the transaction level. Because the two filings are assessed independently, a group can face separate exposure on the Master File and on the CbCR in the same year if it gets both thresholds wrong, rather than a single combined penalty for one underlying failure.",
+        "A frequent practical problem is a group correctly identifying that it must file a Master File, filing Part A, but missing Part B because nobody circulated the group's actual consolidated revenue figure for the relevant year to the Indian finance team in time to check it against the threshold. Since the threshold test depends on global, not Indian, financial information, the Indian entity is often dependent on the parent's finance function for the number it needs, and building that information request into the group's annual reporting calendar, rather than chasing it close to the filing deadline, avoids a gap that is easy to create and hard to notice until an assessment raises it."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does every Indian subsidiary of a foreign multinational have to file a Master File?",
+      "a": "Only if it is a constituent entity of an international group required to maintain Master File information under Section 92D. Part A of Form 3CEAA then applies without a revenue threshold, but the more detailed Part B applies only once the group's consolidated revenue and the entity's transaction values cross the thresholds set in Rule 10DA."
+    },
+    {
+      "q": "Do we need to file both a Master File and a Country-by-Country Report?",
+      "a": "Not necessarily. The two are triggered by different thresholds and different sections. A group can be large enough to require a Master File under Section 92D without being large enough to cross the much higher consolidated-revenue threshold under Section 286 for Country-by-Country Reporting, so each should be checked separately."
+    },
+    {
+      "q": "Can one Indian company file the Master File for the whole group's Indian entities?",
+      "a": "Yes, where the group has more than one Indian constituent entity, Rule 10DA allows a single designated entity to file Form 3CEAA on behalf of all of them, with the designation itself recorded on Form 3CEAB. The designation needs to be current and should be rechecked whenever the group's Indian structure changes."
+    },
+    {
+      "q": "What is Form 3CEAC and is it the same as the Country-by-Country Report?",
+      "a": "No. Form 3CEAC is an intimation naming which group entity will file the actual Country-by-Country Report and for which year, and it is due before the report itself under the applicable timeline. Form 3CEAD is the report. Filing the report without having first filed the intimation is a common procedural error."
+    }
+  ],
+  "references": [
+    "Income Tax Act, 1961, Section 92D (Master File) and Section 286 (Country-by-Country Reporting)",
+    "Income-tax Rules, 1962, Rule 10DA (Master File, Forms 3CEAA and 3CEAB) and Rule 10DB (Country-by-Country Report, Forms 3CEAC and 3CEAD)"
+  ],
+  "sources": [
+    "https://www.incometaxindia.gov.in/w/rule-10db",
+    "https://treelife.in/legal/master-file-and-cbcr-in-india/",
+    "https://taxguru.in/?p=815803",
+    "https://www.patronaccounting.com/blog/country-by-country-reporting-cbcr-rules-2026-thresholds-compliance"
+  ],
+  "verification_notes": "AUDIENCE: foreign company (Indian subsidiaries of multinational groups). TARGET QUERY: when must an Indian group entity file a Master File or a Country-by-Country Report. DEMAND EVIDENCE: no search-trend tool was used; the topic was chosen because it is a recurring, practically confused pairing in tax-practitioner commentary returned in search results, several of which open by distinguishing the two filings for readers who conflate them, which is treated here as the demand signal rather than any stated search volume. Section 92D/Rule 10DA framework, Form 3CEAA due on or before the Section 139(1) return due date, and the two-part structure (Part A unconditional, Part B threshold-based): confirmed from two independent sources (a taxguru.in explainer and treelife.in's Master File/CbCR page), which described the same two-part structure and filing deadline. Exact Part B threshold figures: sources disagreed on the intangible-property transaction limb (one giving Rs 10 crore, another omitting it), so the draft states the consolidated-revenue and aggregate-international-transaction figures only in general terms and does not commit to a specific intangibles figure, consistent with the instruction to state a number only where two sources agree, or otherwise describe the rule in general terms. Designation of one constituent entity to file on behalf of all Indian entities via Form 3CEAB, under the amended Rule 10DA(4): reported by at least one detailed practitioner source and treated as an established, uncontested procedural mechanism rather than a disputed point. Section 286/Rule 10DB CbCR threshold of Rs 6,400 crore consolidated group revenue, replacing an earlier Rs 5,500 crore threshold: confirmed from the Income Tax Department's own Rule 10DB page text as quoted in search results, corroborated by a second source (patronaccounting.com) stating the same current figure; this is the one number in the draft stated precisely because it was independently confirmed from an official source plus a secondary source. Form 3CEAD twelve-month filing deadline and the Form 3CEAC intimation preceding it: confirmed from two independent sources in substantially the same terms. A claim in one source that the obligation moves to a renumbered Section 511(2) and a new Form 59 under a 2025 income tax law was not used anywhere in this draft, since it could not be confirmed from a second, official source in this run."
+}
