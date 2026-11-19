@@ -1853,5 +1853,76 @@
    "https://www.taxscan.in/top-stories/dgft-revises-wheat-export-policy-limited-exports-now-allowed-1445444"
   ],
   "note": "NAFED v. Alimenta S.A. (SC, 22 April 2020, Civil Appeal 667/2012, award held unenforceable on public policy grounds), APEDA's e-RCMC regime effective 17 July 2023 and the First/Second Schedule distinction (Basmati rice as the only Second Schedule special product), the FSSAI order of 13 March 2026 effective 1 April 2026 requiring a Central Licence for 100% export-oriented units regardless of turnover, and the 2026 DGFT wheat policy volatility are all independently confirmed. All related_pages paths verified present in the live search index."
+ },
+ {
+  "file": "_drafts/articles/99-will-challenge-caveat-probate-litigation-article.json",
+  "verdict": "PASS",
+  "claims_checked": 14,
+  "evidence": [
+   "https://dakshalegal.blog/2020/11/15/wills-proof-one-the-earliest-and-authoritative-judgment-of-the-supreme-court-in-h-venkatachala-iyengar-v-b-n-thimmajamma-1959-supp-1-scr-426-air-1959-sc-443",
+   "https://www.verdictum.in/court-updates/supreme-court/bigamy-not-relevant-factor-in-deciding-validity-of-the-will-supreme-court-1496062",
+   "https://lawfoyer.in/gurdial-singh-dead-through-lr-v-jagir-kaur-dead-and-anr-etc-2025-8-s-c-r-257-2025-insc-866/",
+   "https://www.legalauthority.in/judgement/surendra-pal-ors-vs-saraswati-arora-anr-33672",
+   "https://www.legitquest.com/case/afsar-sheikh-and-another-v-soleman-bibi-and-others/25B9",
+   "https://www.livelaw.in/amp/supreme-court/s-68-evidence-act-mandatory-to-examine-one-attesting-witness-to-prove-will-even-if-theres-no-dispute-between-legal-heirs-supreme-court-303070",
+   "https://www.verdictum.in/supreme-court/s-leorex-sebastian-anr-v-sarojini-ors-2026-insc-400-succession-act-1612599",
+   "https://www.verdictum.in/supreme-court/dhiraj-dutta-v-anirban-sen-2026-insc-602-article-137-of-limitation-act-probate-1615090",
+   "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-ruling-revocation-of-grant-of-probate-and-letters-of-administration-section-263-indian-succession-act-308256"
+  ],
+  "note": "Every major case cited checks out: H. Venkatachala Iyengar (1958/AIR 1959 SC 443), Meena Pradhan v. Kamla Pradhan (2023), Gurdial Singh v. Jagir Kaur (17 Jul 2025, 2025 INSC 866), Surendra Pal v. Saraswati Arora (1974), Afsar Shaikh v. Soleman Bibi (1975/76), Ramesh Chand v. Suresh Chand (1 Sep 2025, Section 67 BSA), S. Leorex Sebastian v. Sarojini (21 Apr 2026, 2026 INSC 400 / 2026 LiveLaw (SC) 408), Sarwan Kumar Jhabarmal Choudhary (16 Oct 2025, Bombay HC), Kunvarjeet Singh Khandpur v. Kirandeep Kaur and Dhiraj Dutta v. Anirban Sen (2026 INSC 602) on Article 137 limitation. The article's own extensive hedging in 'What Remains Unsettled' matches genuine splits found in fresh research (Section 295 conversion-to-suit, appeal route under Section 299). No contradicting facts found."
+ },
+ {
+  "file": "_drafts/articles/100-nri-one-will-two-wills-cross-border-estate-article.json",
+  "verdict": "FAIL",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.advocatekhoj.com/library/lawreports/indiansuccessionact/20.php",
+   "https://www.verdictum.in/kerala-high-court/suo-motu-civil-reference-to-examine-the-validity-of-section-69-of-the-indian-succession-act-1925-2026ker77525-1623695",
+   "https://www.livelaw.in/sc-judgments/revocation-of-will-section-70-indian-succession-act-supreme-court-badrilal-v-suresh-agreement-184910"
+  ],
+  "note": "The individual case law checks out (Kerala HC upheld Section 69 as constitutional on 8 Oct 2026; Badrilal v. Suresh on Section 70's exclusive modes of revocation). But the article builds its entire central framework on Section 5 (lex situs for immovables / domicile for movables) and Sections 6-13 (domicile) as if these apply to 'an NRI' generally. Fresh research confirms Section 4 of the Indian Succession Act expressly excludes Part II (which contains Sections 5, 6-13 and 19) where the deceased was Hindu, Buddhist, Sikh, Jain or Muslim -- i.e. most of the Indian diaspora -- whose succession instead runs on personal law (Hindu Succession Act 1956, Muslim personal law, etc.), not on Section 5's domicile-based conflict-of-laws rule. The article never mentions this Section 4 carve-out, so its central analytical tool misapplies to most of its stated NRI audience. FAIL also for duplicate of live content: the site already has /blog/nri-cross-border-wills-guide.html ('One Will or Several for an NRI's Overseas Assets?'), covering the same question."
+ },
+ {
+  "file": "_drafts/articles/101-family-arbitration-promoter-business-family-disputes-article.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://ksandk.com/md/adr/vidya-drolia-and-the-four-fold-test/",
+   "https://www.vantageasia.com/disputes-arising-out-of-a-trust-deed-not-arbitrable/",
+   "https://courtkutchehry.com/judgments/mr-pranav-gupta-vs-adeesh-gupta-and-ors",
+   "https://www.casemine.com/commentary/in/arbitrability-of-oppression-and-mismanagement-claims-under-companies-act,-1956:-bombay-high-court-sets-precedent-in-rakesh-malhotra-v.-rajinder-kumar-malhotra/view"
+  ],
+  "note": "Core authorities all confirmed: Booz Allen (2011), Vidya Drolia's four-fold test (14 Dec 2020), Vimal Kishor Shah v. Jayesh Dinesh Shah (17 Aug 2016, trust disputes non-arbitrable), Pranav Gupta v. Adeesh Gupta (23 Jan 2026, Delhi HC, sole arbitrator Justice Gita Mittal (Retd.) appointed), and Rakesh Malhotra v. Rajinder Kumar Malhotra (Bombay HC, 'dressed up' oppression petition caveat). The article's own hedging on the Ayyasamy/N. Radhakrishnan boundary and on whether NCLT's non-splitting practice will harden into a rule matches genuine open questions in the case law. No contradicting facts found; no duplicate on the live site."
+ },
+ {
+  "file": "_drafts/articles/102-franchise-agreements-india-foreign-franchisor-article.json",
+  "verdict": "FIX",
+  "claims_checked": 12,
+  "evidence": [
+   "https://www.casemine.com/judgement/in/587f36a64a9326336e216ef5",
+   "https://api.sci.gov.in/supremecourt/2014/19707/19707_2014_5_1501_61745_Judgement_13-May-2025.pdf",
+   "https://future.indiankanoon.org/doc/3629011/",
+   "https://www.livelawbiz.com/trademark/delhi-high-court-bars-ex-franchisee-from-using-moti-mahal-trademark-after-franchise-termination-525540",
+   "https://www.india-briefing.com/news/indian-government-scraps-royalty-limits-1714.html/",
+   "https://conventuslaw.com/report/india-ccis-first-substantive-order-on-resale-price/"
+  ],
+  "note": "Most of the article checks out well (no franchise statute, Press Note 8/2009 liberalisation, Trade Marks Act registered/permitted user mechanics, Gujarat Bottling, Hyundai RPM finding, Competition Act Section 3(4) framework). Two confirmed problems: (1) 'Schott Glass India v. Vidyut Metallics' does not appear to exist as a case -- the real naked-licensing authority is the Competition Appellate Tribunal's 2014 ruling in the Schott Glass India dispute (arising from Kapoor Glass's complaint, upheld by the Supreme Court in May 2025, Civil Appeal No. 5843 of 2014); 'Vidyut Metallics' is actually the unrelated party in a 1997 Calcutta HC trademark case (Malhotra International v. Vidyut Metallics) that has nothing to do with naked licensing -- this looks like two real but unrelated cases were conflated into a fabricated citation. (2) The Moti Mahal order in CS(COMM) 189/2026 is dated 25 February 2026 (Justice Jyoti Singh), not March 2026 as key_points states ('a March 2026 Delhi High Court order'); 7 March 2026 is merely LiveLawBiz's report date, not the order's date.",
+  "fixes": [
+   {
+    "find": "The Bombay High Court addressed the underlying principle in Schott Glass India v. Vidyut Metallics, holding that a licensor has to actually ensure quality control over how a licensee uses its mark for the arrangement to be treated as a genuine licence rather than what common-law doctrine calls a bare, or naked, licence.",
+    "replace": "The Competition Appellate Tribunal addressed the underlying principle in the Schott Glass India dispute (arising from a complaint by Kapoor Glass, later upheld by the Supreme Court on appeal in May 2025, Civil Appeal No. 5843 of 2014), holding that a quality-control clause on paper is not enough; a licensor has to actually enforce it for the arrangement to be treated as a genuine licence rather than what common-law doctrine calls a bare, or naked, licence.",
+    "reason": "No case named 'Schott Glass India v. Vidyut Metallics' could be found; it appears to conflate the real Schott Glass India naked-licensing dispute (COMPAT 2014 / SC May 2025) with 'Vidyut Metallics', an unrelated party from a 1997 Calcutta HC trademark case."
+   },
+   {
+    "find": "Schott Glass India (P) Ltd. v. Vidyut Metallics Ltd., Bombay High Court, on quality control as the dividing line between a genuine licence and a bare licence,",
+    "replace": "Schott Glass India dispute (Competition Appellate Tribunal, 2014; upheld by the Supreme Court, Civil Appeal No. 5843 of 2014, 13 May 2025), on quality control as the dividing line between a genuine licence and a bare licence,",
+    "reason": "Same fabricated citation corrected in the references list."
+   },
+   {
+    "find": "A franchisor's right to stop a terminated franchisee from continuing to use its marks, signage and operating manuals is well established in recent Indian case law, including a March 2026 Delhi High Court order in the Moti Mahal dispute, and is generally easier to enforce than a post-termination non-compete",
+    "replace": "A franchisor's right to stop a terminated franchisee from continuing to use its marks, signage and operating manuals is well established in recent Indian case law, including a February 2026 Delhi High Court order in the Moti Mahal dispute, and is generally easier to enforce than a post-termination non-compete",
+    "reason": "The CS(COMM) 189/2026 order (Moti Mahal Legendary Hospitality v. Sant Foods) is dated 25 February 2026; 7 March 2026 is only when LiveLawBiz published its report on it, not the order's date, and the key_points bullet wrongly calls it 'a March 2026 ... order'."
+   }
+  ]
  }
 ]
