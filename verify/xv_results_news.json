@@ -4739,5 +4739,68 @@
       "https://lawyerenews.com/legal_detail/up-consolidation-of-holdings-act-original-tenure-holders-cannot-be-dislodged-from-prime-roadside-land-to-benefit-strangers-supreme-court"
     ],
     "note": "Case name, citation (2026 INSC 1199), decision date (5 Nov 2026), outcome and the 1981/1988 circular holding confirmed across Courtbook, Supreme Court Cases and LawyerE News. A specific bench name (Bhatti/Anjaria) surfaced in one search but could not be independently pinned to this exact case from a focused second source, so the draft was right to leave the bench unconfirmed rather than guess."
+  },
+  {
+    "file": "_drafts/daily/updates/30-aptel-jsw-energy-wind-tariff-aperc-cuf-andhra-pradesh.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.psuconnect.in/power-sector-news/aptel-sets-aside-aperc-order-on-cuf-limits-in-favor-of-jsw-energy-subsidiaries",
+      "https://mercomindia.com/aptel-orders-full-tariff-payment-for-wind-power-generated-beyond-cuf"
+    ],
+    "note": "17 Nov 2026 APTEL order, four JSW appellant companies, CUF cap being set aside, and direction to pay applicable tariff plus interest confirmed from PSU Connect and Mercom in addition to the drafts three sources."
+  },
+  {
+    "file": "_drafts/daily/updates/31-supreme-court-twinstar-videocon-resolution-plan-haircut.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/twinstar-technologies-limited-v-bank-of-maharashtra-2026-insc-1214-videocon-insolvency-1625882",
+      "https://lawbeat.in/top-stories/supreme-court-upholds-nclat-order-setting-aside-2962-cr-videocon-resolution-plan-1652064",
+      "https://lawchakra.in/supreme-court/videocon-resolution-plan/"
+    ],
+    "note": "16 Nov 2026 date, bench (Narasimha and Aradhe JJ), Rs 2,962 crore plan value, NCLAT January 2022 remand, over-95-percent haircut and Section 30(2)(b) holding confirmed across Verdictum, LawBeat and LawChakra."
+  },
+  {
+    "file": "_drafts/daily/updates/32-delhi-hc-abd-maestro-great-galleon-ip-territorial-jurisdiction.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelawbiz.com/ipr/online-availability-of-products-alone-cannot-confer-jurisdiction-in-ip-suits-delhi-high-court-returns-17-ip-suits-557250",
+      "https://courtbook.in/posts/website-accessibility-alone-cannot-establish-jurisdiction-in-ip-cases-rules-delhi-high-court",
+      "https://www.barandbench.com/news/delhi-high-court-questions-itself-for-entertaining-ip-cases-with-trivial-links-to-delhi-warns-of-jurisdiction-lakshman-rekha"
+    ],
+    "note": "Case number, judge (Kaurav J), 17-suit figure, 3 Nov 2026 pronouncement, website-accessibility holding and the forum non conveniens theme confirmed across LiveLawBiz, Courtbook and Bar and Bench. Draft correctly distinguishes this from the separate HUL v Kwick Living reference."
+  },
+  {
+    "file": "_drafts/daily/updates/33-titan-taneira-delhi-hc-john-doe-trademark-injunction.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelawbiz.com/trademark/delhi-high-court-temporarily-restrains-online-sellers-from-using-titan-taneira-trademark-558101",
+      "https://www.livelawbiz.com/pdf_upload/2026/11/11/titan-company-710884.pdf"
+    ],
+    "note": "Case number CS(COMM) 1203/2026, judge, 5 Nov 2026 order date, John Doe restraint, intermediary directions and 10 Dec 2026 next listing confirmed from LiveLawBiz report and the order text it reproduces (treated as a near-primary source). Only one outlet reports this routine interim order despite a fresh search in this run; flagged as the drafts own note already does."
+  },
+  {
+    "file": "_drafts/daily/updates/34-dda-sk-singla-delhi-hc-arbitration-appeal-dismissed.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://delhihighcourt.nic.in/app/showFileJudgment/75003112026FAC2922026_171528.pdf",
+      "https://taxguru.in/?p=1097999",
+      "https://courtkutchehry.com/judgments/delhi-development-authority-vs-s-k-singla"
+    ],
+    "note": "Appeal number FAO(OS)(COMM) 292/2026, bench (Kshetarpal and Parashar JJ), 3 Nov 2026 pronouncement confirmed directly from the Delhi High Court judgment PDF, corroborated by TaxGuru and CourtKutchehry."
+  },
+  {
+    "file": "_drafts/daily/updates/35-aloft-solutions-noida-allahabad-hc-zero-period.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://supremetoday.ai/doc/judgement/INDALL00000275001",
+      "https://supremetoday.ai/allahabad-high-court-zero-period-ruling-20261118057"
+    ],
+    "note": "Writ-C No. 30566 of 2025, bench (Varma and Singh JJ), reserved/pronounced dates, plot particulars and zero-period holding confirmed from a near-primary judgment reproduction. A second, independent-outlet search in this run again found no other reporter covering this specific writ; this single-source limitation is already honestly flagged in the drafts own verification_notes rather than concealed, and nothing found contradicts the account."
   }
 ]
