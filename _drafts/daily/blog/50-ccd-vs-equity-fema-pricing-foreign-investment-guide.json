@@ -1,0 +1,101 @@
+{
+  "slug": "ccd-vs-equity-fema-pricing-foreign-investment-guide",
+  "title": "Compulsorily Convertible Debentures vs Equity: Pricing a Foreign Investment Under FEMA",
+  "seo_title": "CCDs vs Equity: FEMA Pricing Rules for FDI",
+  "meta_description": "Why a compulsorily convertible debenture counts as equity under FEMA, how its conversion price is fixed, and where foreign investors get the pricing wrong.",
+  "practice_area": "Corporate Law & M&A",
+  "format": "X vs Y comparison",
+  "intro": [
+    "A compulsorily convertible debenture is treated as an equity instrument under India's foreign exchange rules only if it converts into shares fully and mandatorily, with no option for the company or the investor to settle it in cash instead. If the conversion is optional or only partial, the instrument is debt under the Foreign Exchange Management Act framework and has to follow the external commercial borrowing route rather than the pricing rules that apply to foreign direct investment. As on 20 November 2026 this distinction still decides which compliance path a foreign investor's term sheet actually sits in.",
+    "Foreign investors and Indian promoters often reach for a compulsorily convertible debenture instead of straight equity because it lets them fix economic terms, such as a coupon before conversion, while keeping the instrument inside the FDI regime rather than the borrowing regime. Getting the pricing and the conversion mechanics wrong at the drafting stage is one of the more common and more expensive mistakes in an inbound investment, because the fix usually has to happen before the money moves, not after."
+  ],
+  "sections": [
+    {
+      "heading": "Debt or Equity: Why the Label on the Term Sheet Is Not the Last Word",
+      "paragraphs": [
+        "Under the Foreign Exchange Management (Non-Debt Instruments) Rules, 2019, an instrument qualifies as an equity instrument only when it is fully, compulsorily and mandatorily convertible into equity shares. A debenture that gives either party an option to settle in cash, or that converts only in part, does not meet that test and is treated as a debt instrument instead, which pulls it into the external commercial borrowing framework with its own interest ceilings, end-use restrictions and reporting.",
+        "This matters well beyond semantics. A company that issues what it calls a 'compulsorily convertible debenture' but leaves itself or the investor an exit option in the definitive documents can find, on a later compliance review or a tax assessment, that the instrument never qualified as equity at all, with knock-on consequences for how the original inflow should have been reported and priced from day one. Drafters sometimes add a cash-settlement fallback purely as a boilerplate safety valve for an unforeseen regulatory block on share issuance, without realising that the fallback itself can be read as an option that defeats the mandatory-conversion test."
+      ]
+    },
+    {
+      "heading": "The Pricing Rule for a Fresh Issue",
+      "paragraphs": [
+        "Rule 21 of the Non-Debt Instruments Rules sets a price floor for an issue of equity instruments by an Indian company to a non-resident investor: the price cannot be lower than the fair value worked out under any internationally accepted pricing methodology for an unlisted company, or the pricing that applicable SEBI regulations prescribe where the company is listed. This replaced an older, more prescriptive discounted-cash-flow formula with the broader internationally accepted methodology standard, which gives more flexibility in the valuation approach but does not remove the floor itself.",
+        "The same floor rule applies whether the instrument is ordinary equity, compulsorily convertible preference shares or a compulsorily convertible debenture, because all three are treated as equity instruments once they meet the full and mandatory conversion test. A transfer of shares or convertible instruments between a resident and a non-resident is subject to its own floor or ceiling depending on the direction of the sale, worked out under the same broad valuation standard."
+      ]
+    },
+    {
+      "heading": "Why a CCD Needs Its Own Conversion Formula",
+      "paragraphs": [
+        "A compulsorily convertible debenture carries a second pricing problem that plain equity does not: the price or the formula at which it will convert into shares has to be fixed at the time the debenture is issued, not worked out later when conversion actually happens. An explanation added to the pricing rule in 2019 makes this explicit for convertible instruments, and the practical effect is that the conversion mechanism in the debenture trust deed or the shareholders' agreement has to be drafted with the eventual conversion price already locked in, whether as a fixed number, a formula tied to a future valuation event, or a combination of the two.",
+        "Whatever formula is chosen, it cannot be structured so that the shares delivered on conversion end up priced below the fair value that applied on the date the debenture was issued. A formula that looks reasonable on a term sheet, such as pegging conversion to a future financing round at a discount, needs to be checked against this floor before it is signed, because a discount that is too generous can put the instrument below the price the fair valuation report supported at issue."
+      ]
+    },
+    {
+      "heading": "Getting the Valuation Done, and Who Can Certify It",
+      "paragraphs": [
+        "For an unlisted Indian company, the fair value supporting the issue price is typically certified by an independent valuer, commonly a SEBI-registered merchant banker or a practising chartered accountant, working on an internationally accepted methodology such as discounted cash flow or a comparable-transaction approach. Which of the two professionals is acceptable, and whether a particular valuation approach is treated as adequate, can depend on the specific regulatory context the transaction also falls under, such as company law or income tax valuation requirements that run alongside the FEMA pricing rule rather than inside it.",
+        "Because more than one regulatory regime can apply to the same transaction, a foreign investor's counsel should confirm upfront whether the valuation report commissioned for the FEMA pricing requirement will also satisfy the separate valuation rules under the Companies Act and the Income Tax Act, rather than assuming one certificate covers every purpose. Treating these as a single exercise from the start avoids paying for a second valuation later in the same deal."
+      ]
+    },
+    {
+      "heading": "What Happens If the Pricing Is Wrong",
+      "paragraphs": [
+        "An issue priced below the floor, or a conversion formula that delivers shares below the fair value at issue, is a contravention of the foreign exchange regulations even if every party acted in good faith and the error only shows up years later on a routine review. The route to regularise this after the fact is compounding before the Reserve Bank of India, which can impose a monetary penalty calculated on the amount involved, rather than a criminal prosecution, for most pricing and reporting lapses of this kind.",
+        "The practical cost is rarely only the compounding fee. A pricing defect discovered during due diligence for a later funding round or an exit can delay or reprice that transaction, because an incoming investor's counsel will usually insist the earlier contravention is regularised before closing, and lenders financing an acquisition will often ask for the same comfort. Fixing the defect years after the original issue can also mean redoing the fair valuation as on the original issue date, which is a harder exercise than getting the valuation right the first time, since the valuer now has to reconstruct a historical fair value rather than certify a current one."
+      ]
+    },
+    {
+      "heading": "CCDs Against Plain Equity: the Practical Trade-offs",
+      "paragraphs": [
+        "A compulsorily convertible debenture lets an investor build in a coupon and a liquidation preference ahead of conversion, which plain equity cannot replicate without more elaborate shareholder-agreement protections, and it can defer the question of exactly how many shares the investor ends up holding until a formula-based conversion event closer to an actual financing round. Plain equity, by contrast, fixes the cap table immediately and avoids any later argument over whether the conversion formula was priced correctly on the day the debenture was issued.",
+        "Promoters often prefer plain equity for exactly that reason: a CCD moves the valuation dispute from the issue date to the conversion date, and if the business performs very differently from what the formula assumed, that argument can resurface in a form nobody drafted for. Where the investor's own return model depends heavily on downside protection, though, a CCD's fixed coupon and seniority in a wind-up are often worth that later uncertainty."
+      ]
+    },
+    {
+      "heading": "What a Foreign Investor Should Have on File at Entry",
+      "paragraphs": [
+        "The paper trail for a CCD issue should include the fair valuation certificate dated at or before the issue, board and shareholder resolutions approving both the issue price and the conversion formula, the debenture trust deed or instrument terms recording that formula exactly as approved, and the reporting filed with the Reserve Bank of India through the company's authorised dealer bank, typically on Form FC-GPR for the equity instrument once issued.",
+        "Any later amendment to the conversion terms, such as extending the debenture's tenure or changing the formula, should be checked against the full-and-mandatory-conversion test again before it is signed, because a change that introduces even a limited option to avoid conversion can tip the instrument out of the equity category it was issued under, with the debt-route consequences that follow from that reclassification. Keeping all of this together in one compliance file, rather than scattered across the lawyer's documents, the accountant's valuation and the bank's filing acknowledgements, is what usually makes a later due-diligence review quick instead of a weeks-long reconstruction exercise."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a compulsorily convertible debenture convert at a discount to the price other investors pay for fresh equity?",
+      "a": "A discount can be built into the conversion formula, but the price the shares are actually delivered at on conversion cannot fall below the fair value that applied when the debenture was issued. A discount pegged to a future round needs to be checked against that floor before the documents are signed, since too generous a discount can put the instrument below the level its own issue-date valuation supported."
+    },
+    {
+      "q": "Is an optionally convertible debenture treated as foreign direct investment?",
+      "a": "No. Under the Non-Debt Instruments Rules, only an instrument that is fully, compulsorily and mandatorily convertible into equity shares is treated as an equity instrument. An optionally or partially convertible debenture is treated as debt under FEMA and generally has to follow the external commercial borrowing framework instead of the FDI pricing rules."
+    },
+    {
+      "q": "Does the pricing rule change when a CCD is transferred between a resident and a non-resident instead of issued fresh?",
+      "a": "A transfer carries its own floor or ceiling depending on the direction of the sale, worked out under the same broad fair-value standard used for a fresh issue. A sale by a resident to a non-resident cannot go below that fair value, and a sale by a non-resident to a resident cannot go above it, so the same valuation exercise is usually needed again at the time of transfer."
+    },
+    {
+      "q": "Does an Indian company need the Reserve Bank's prior approval before issuing a CCD to a foreign investor?",
+      "a": "Most sectors use the automatic, reporting-based route through the company's authorised dealer bank rather than prior RBI approval, with the issue reported after completion. Government approval is still needed where the sector itself is on the approval route or where sector-specific conditions on foreign investment apply, regardless of the instrument chosen."
+    },
+    {
+      "q": "What happens if a company wants to extend a CCD's conversion date instead of converting on schedule?",
+      "a": "Extending the tenure or otherwise changing how conversion happens should be checked against the fully-and-mandatorily-convertible test again, because a change that effectively creates an option to avoid or delay conversion can put the instrument outside the equity category. That reclassification carries the debt-route compliance consequences described above, applied from the point the terms changed."
+    }
+  ],
+  "references": [
+    "Foreign Exchange Management (Non-Debt Instruments) Rules, 2019, Rule 21, on pricing of equity instruments issued and transferred to and from non-residents",
+    "Foreign Exchange Management (Non-Debt Instruments) Rules, 2019, Rule 2, on the definition of equity instruments and the full-and-mandatory-conversion test",
+    "RBI A.P. (DIR Series) Circular on pricing of convertible instruments under an internationally accepted pricing methodology (2014 revision of the earlier discounted-cash-flow requirement)",
+    "RBI Master Direction on Foreign Investment in India, on reporting of equity instrument issues through Form FC-GPR",
+    "Foreign Exchange Management Act, 1999, Section 13 and the Foreign Exchange (Compounding Proceedings) Rules, on compounding of pricing and reporting contraventions"
+  ],
+  "sources": [
+    "https://www.taxclue.in/blog/pricing-of-shares-issued-to-non-residents-rule-21-fem-ndi-rules-2019/",
+    "https://www.taxclue.in/blog/equity-instruments-convertible-notes-and-units-defined-rule-2-fem-ndi-rules-2019/",
+    "https://www.taxaj.com/learn/?p=1627",
+    "https://calcguru.in/?p=3726",
+    "https://law.asia/fdi-and-convertible-instruments-trial-and-error/",
+    "https://beaconfiling.com/blog/fema-pricing-guidelines-share-issuance"
+  ],
+  "verification_notes": "AUDIENCE: foreign company. TARGET QUERY: how is a compulsorily convertible debenture priced for a foreign investor under FEMA. DEMAND EVIDENCE: none seen; no search-volume tool was used, and this topic was chosen because the site's existing foreign-company guides cover branch and liaison office entry, ECB and GCC structures but none address FDI pricing mechanics for convertible instruments, which recurred as a distinct sub-topic across several secondary sources in this run. Full-and-mandatory-conversion test for equity-instrument status under the Non-Debt Instruments Rules, 2019: confirmed from two independent secondary sources (taxaj.com and taxclue.in) both describing the same test and the debt/ECB consequence for non-qualifying instruments. Rule 21 price floor using an internationally accepted pricing methodology, replacing the older discounted-cash-flow formula: confirmed from two sources (taxclue.in's Rule 21 summary and law.asia's trial-and-error article), though neither reproduced the current Gazette text verbatim, so this guide states the standard in general terms rather than quoting rule language directly. Conversion formula fixed upfront at issue, with a floor tied to fair value on the issue date: confirmed from two sources (taxaj.com and calcguru.in) describing the same 2019 explanation to Rule 21(2). The merchant-banker-or-chartered-accountant certification point and the Form FC-GPR reporting route are standard, long-settled FEMA practice but were supported by only one secondary source each in this run rather than two independent confirmations; both are stated in general, hedged terms for that reason, and no specific validity period or numeric threshold is given because none was confirmed. No 2024-2026 amendment to Rule 21 itself was found in this run, so the guide describes the rule as it has stood since the 2019 explanation was added, without claiming a more recent change."
+}

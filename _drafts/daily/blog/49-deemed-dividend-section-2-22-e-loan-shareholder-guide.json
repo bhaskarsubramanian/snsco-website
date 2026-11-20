@@ -1,0 +1,102 @@
+{
+  "slug": "deemed-dividend-section-2-22-e-loan-shareholder-guide",
+  "title": "When a Loan From Your Own Company Becomes a Deemed Dividend Under Section 2(22)(e)",
+  "seo_title": "Deemed Dividend Under Section 2(22)(e) Explained",
+  "meta_description": "How a loan from a closely held company to its shareholder is taxed as a deemed dividend under Section 2(22)(e), and what falls outside the rule.",
+  "practice_area": "Tax Litigation",
+  "format": "plain-English guide",
+  "intro": [
+    "A loan or advance from a closely held company to a shareholder who holds at least ten percent of its voting power can be taxed as a deemed dividend under Section 2(22)(e) of the Income Tax Act, 1961, even though the company never declared a dividend and the shareholder may fully intend to repay the money. As on 20 November 2026 this remains an actively litigated provision, and High Courts have been deciding cases on it through 2025 and 2026.",
+    "Family-run companies run into this most often, because the line between the promoter's bank account and the company's bank account tends to blur in a way it never would in a professionally managed firm with outside shareholders. This guide sets out what the provision reaches, where its limits are, and who actually bears the tax when company money moves to a shareholder outside a salary, a declared dividend or a genuine business transaction."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 2(22)(e) Actually Catches",
+      "paragraphs": [
+        "The provision applies to a company in which the public are not substantially interested, broadly a closely held company, that makes a loan or advance to a shareholder holding not less than ten percent of its voting power, where that shareholder is both the registered owner of the shares and their beneficial owner. It also reaches a loan made to a concern, such as a firm, an association of persons or another company, in which that shareholder has a qualifying interest. The amount is deemed to be a dividend in the hands of the recipient to the extent the company has accumulated profits on the date of the loan.",
+        "Dividend distribution tax was abolished with effect from 1 April 2020, so a deemed dividend under this provision is taxed in the recipient's own hands at their applicable slab rate rather than at the company's expense, which is a meaningful change for anyone still working from older commentary written before that date."
+      ]
+    },
+    {
+      "heading": "Who Counts as a Qualifying Shareholder",
+      "paragraphs": [
+        "The ten percent voting-power threshold is not the original figure. An amendment brought the limit down from twenty percent, which is why some older notes and even some older judgments still refer to the higher number. Courts applying the provision today have repeatedly stressed that the recipient must be a registered shareholder and a beneficial owner at the same time; a person who holds shares only in name, or who has beneficial interest without being on the register, falls outside the strict reading the courts have settled on.",
+        "The same logic extends to a concern. If the loan goes to a firm or company rather than directly to an individual, the provision looks at whether the individual shareholder of the lending company also holds a qualifying share of the voting power or the profits of the concern that received the money. Tribunals have drawn a sharp distinction here: a partner's own shareholding in the lending company can bring a loan to the firm within the provision, but the firm itself is never treated as if it were the shareholder."
+      ]
+    },
+    {
+      "heading": "The Accumulated Profits Ceiling",
+      "paragraphs": [
+        "A deemed dividend cannot exceed the company's accumulated profits on the date the loan was made, however large the loan itself is. If a company with ten lakh rupees of accumulated profits advances twelve lakh rupees to its shareholder, only ten lakh rupees is taxed as deemed dividend; the remaining two lakh rupees stays a loan in the ordinary sense. Accumulated profits are worked out as on the date of each advance, which means a company making several loans through the year needs a running calculation rather than a single year-end figure.",
+        "This ceiling is also why the computation becomes contentious in assessment proceedings. Assessing officers and taxpayers frequently disagree over what should be included in accumulated profits, particularly where reserves, revaluation entries or carried-forward losses complicate a straightforward reading of the balance sheet, and this is usually the first thing worth checking before accepting an assessing officer's figure. A company that has paid out profits as dividends in earlier years, or that has genuine accumulated losses sitting alongside revaluation reserves, often ends up with an accumulated-profits figure quite different from what a quick look at the balance sheet would suggest, and the gap between the two numbers is frequently where the dispute actually lives."
+      ]
+    },
+    {
+      "heading": "What the Section Does Not Reach",
+      "paragraphs": [
+        "Not every payment from a company to its shareholder is caught. The Central Board of Direct Taxes, in Circular 19 of 2017, clarified that a trade advance made in the course of an ordinary business transaction between the parties is not a loan or advance for this purpose, and High Courts have relied on that circular to keep genuine commercial dealings out of the provision's reach. A payment made for goods sold, services rendered or a security deposit tied to a business arrangement is generally treated on its own commercial terms rather than reclassified as a dividend.",
+        "Because the statute carves out several specific categories in this way, and because each carve-out turns on how a transaction is actually structured and documented, a transaction that looks exempt on a first read can still fail on its facts if the paperwork does not support the business characterisation claimed for it. This is not a provision where a client should assume an exemption applies without checking the entry against the company's own records first."
+      ]
+    },
+    {
+      "heading": "Who Pays the Tax: The Shareholder-Centric Rule",
+      "paragraphs": [
+        "A line of authority running through the Delhi High Court's ruling in CIT v. Ankitech Pvt. Ltd. and the Supreme Court's decision in Madhur Housing and Development Co. holds that deemed dividend under this provision can be taxed only in the hands of a person who is both the registered and the beneficial shareholder of the lending company. A concern that receives the loan but is not itself a shareholder cannot be taxed on it merely because it benefited from the money; the tax follows the shareholder, not the recipient of the cash.",
+        "A High Court decision reported in July 2025 applied this reasoning to quash a reassessment where the department had tried to tax an entity that held no shares at all in the lending company, relying squarely on the Ankitech and Madhur Housing line. Not every case runs the same way on its facts: at least one 2025 ruling upheld a deemed-dividend addition where a business advance was shown to have been diverted for the shareholder's personal use, which shows that how the money was actually applied still matters even after the shareholder-centric principle is applied."
+      ]
+    },
+    {
+      "heading": "How This Plays Out in a Family Business",
+      "paragraphs": [
+        "The pattern that reaches scrutiny most often looks like this: a promoter who holds a controlling stake draws cash from the family company as a running account entry labelled a loan, rather than taking a salary increase or a formal dividend that would attract tax immediately and visibly. Over a few years the balance grows, gets partly repaid, grows again, and eventually draws the assessing officer's attention during a scrutiny assessment or a search.",
+        "Repayment does not cure the position for the year in which the loan was made. If the accumulated profits test and the shareholding test are both met on the date of the advance, the deemed dividend arises for that year regardless of what happens to the balance afterward, and a taxpayer cannot simply clear the running account before the return is filed and expect the addition to disappear. A search or survey action against the group is often what actually brings these running-account entries to light, since they tend to sit quietly in the books for years without anyone outside the company's own accountant looking at them closely."
+      ]
+    },
+    {
+      "heading": "What to Do If You Get a Notice",
+      "paragraphs": [
+        "Start by checking the two thresholds against the company's own records: whether the recipient genuinely held ten percent or more of the voting power and was both the registered and beneficial owner at the time, and what the accumulated profits figure actually was on the date of each disputed entry. Many additions soften considerably once these numbers are recalculated properly rather than taken from the assessing officer's working.",
+        "Where the claim is that the payment was a trade advance or a business transaction rather than a loan, the documentation has to show it: invoices, purchase orders, board minutes recording the commercial rationale, and consistent accounting treatment in both companies' books. A response to a Section 148 reassessment notice or a scrutiny query under Section 143(2) stands or falls on this paperwork, and the appeal route from there runs through the Commissioner (Appeals), the Income Tax Appellate Tribunal and, on a substantial question of law, the jurisdictional High Court."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a loan to my spouse or adult child attract Section 2(22)(e) if I am the company's main shareholder?",
+      "a": "The provision is written around the shareholder and a concern in which the shareholder has a qualifying interest, not around relatives generally. A payment to a relative who has no independent shareholding or qualifying interest in a receiving concern does not automatically fall within the literal text, though the facts of how the money was actually used can still attract scrutiny under other provisions. This is fact-specific and worth checking against the company's own structure before assuming either way."
+    },
+    {
+      "q": "Is dividend distribution tax still charged on a deemed dividend?",
+      "a": "No. Dividend distribution tax was abolished for dividends declared on or after 1 April 2020. A deemed dividend arising under Section 2(22)(e) today is taxed directly in the recipient shareholder's hands at their applicable income tax slab rate, not through a tax paid by the company."
+    },
+    {
+      "q": "If I repay the loan within the same financial year, does that avoid the tax?",
+      "a": "No. Once the shareholding and accumulated profits conditions are satisfied on the date the loan or advance is made, the deemed dividend arises for that year. Repaying the amount later, even within the same year, does not reverse the tax position for the year in which the advance was given."
+    },
+    {
+      "q": "Are advances from a non-banking finance company to its own shareholders treated the same way?",
+      "a": "A company whose ordinary business substantially consists of lending money is generally considered on different footing for advances made in the ordinary course of that lending business, but this is assessed on the specific facts and documentation rather than assumed from the company's registration or name. The transaction still needs to be structured and recorded as a genuine lending-business transaction to be treated this way."
+    },
+    {
+      "q": "What if the loan went to a partnership firm rather than directly to me as a shareholder?",
+      "a": "A firm receiving a loan is not itself treated as a shareholder of the lending company, since a firm cannot hold shares in that capacity. Tribunals have held that a loan to a firm can still attract the provision against a partner who independently qualifies as a shareholder of the lending company and holds the required interest in the firm, but the firm's own tax position and the partner's are kept analytically separate."
+      }
+  ],
+  "references": [
+    "Income Tax Act, 1961, Section 2(22)(e)",
+    "CBDT Circular No. 19 of 2017, on trade advances not amounting to deemed dividend",
+    "CIT v. Ankitech Pvt. Ltd. (Delhi High Court), on the registered-and-beneficial-shareholder requirement",
+    "Madhur Housing and Development Co. (Supreme Court), affirming the shareholder-centric approach",
+    "National Travel Services v. CIT, on loans to a firm and a partner's shareholding in the lending company",
+    "A High Court ruling reported in July 2025 applying the Ankitech/Madhur Housing line to quash a reassessment; a separate 2025 High Court ruling upholding an addition where a business advance was shown diverted to personal use"
+  ],
+  "sources": [
+    "https://taxguru.in/income-tax/deemed-dividend-222e-income-tax-act-1961-illustrative-analysis.html",
+    "https://www.adityabirlacapital.com/abc-of-money/understanding-deemed-dividend-under-section-2-22-e",
+    "https://pwc.in/assets/pdfs/news-alert/tax-insights/2024/pwc_india_tax_insights_26_april_2024_deemed_dividend_is_taxable_only_in_hands_of_a_registered_and_beneficial_owner_holding_prescribed_threshold.pdf",
+    "https://studycafe.in/?p=387027",
+    "https://www.ey.com/en_in/technical/alerts-hub/2025/09/bombay-hc-holds-utilization-of-business-advance-for-personal-purpose",
+    "https://www.livelaw.in/amp/high-court/bombay-high-court/bombay-high-court-ruling-deemed-dividend-income-tax-act-301126"
+  ],
+  "verification_notes": "AUDIENCE: HNI. TARGET QUERY: is a loan from my own company taxed as a dividend. DEMAND EVIDENCE: no search-volume tool used; the volume of current tax-blog commentary and at least four distinct 2024-2026 High Court and Tribunal rulings found in this run suggests the issue is still actively disputed in assessments, which is treated as litigation-volume evidence rather than search-demand evidence. Ten percent voting-power threshold and twenty percent concern-interest threshold: confirmed from two independent tax-commentary sources (taxguru.in illustrative analysis and adityabirlacapital.com); exact clause-by-clause text of the statutory exceptions was not confirmed from two primary sources, so the guide describes the trade-advance exclusion only, which was confirmed from two sources both citing CBDT Circular 19/2017, and states other possible exclusions in general terms without specifics. Shareholder-centric taxation (registered and beneficial owner required; Ankitech and Madhur Housing as the governing authorities): confirmed from two independent sources, a PwC tax alert dated 26 April 2024 and a July 2025 High Court decision summary that applied the same two authorities to quash a reassessment. Dividend distribution tax abolition from 1 April 2020: confirmed from one clear source and consistent with the well-established statutory position; an older source in the same search still described DDT as applicable and was treated as outdated and excluded. The Bombay High Court September 2025 ruling on personal use of a business advance is mentioned without a case citation because only a secondary alert (EY) was found describing it, without a verifiable party name; it is referenced in general terms only and left out of the references list for that reason. A case reportedly named Apeejay Surendra Management Services, cited in search results with inconsistent dates across different summaries (2024 in one, April 2026 in another), was deliberately left out of this guide because its citation could not be reconciled from two agreeing sources."
+}
