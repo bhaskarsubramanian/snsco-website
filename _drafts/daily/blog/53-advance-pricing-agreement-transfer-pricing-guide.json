@@ -1,0 +1,95 @@
+{
+ "slug": "advance-pricing-agreement-transfer-pricing-guide",
+ "title": "Advance Pricing Agreements in India: How a Multinational Locks In Its Transfer Price",
+ "seo_title": "Advance Pricing Agreements (APA) in India Explained",
+ "meta_description": "How an Advance Pricing Agreement works in India after the Income-tax Act, 2025: who can apply, unilateral versus bilateral, rollback and typical timelines.",
+ "practice_area": "Tax Litigation",
+ "format": "plain-English guide",
+ "intro": [
+  "An Advance Pricing Agreement, or APA, is a contract between a taxpayer and the Central Board of Direct Taxes that fixes in advance how a related-party transaction will be priced for tax purposes, so the company does not have to relitigate the same transfer price with an assessing officer year after year. From 1 April 2026 the power to enter into an APA sits in Section 168 of the Income-tax Act, 2025, which replaced the erstwhile Section 92CC of the 1961 Act when the new code came into force; the mechanics are otherwise close to what existed before, and an agreement can still run for up to five consecutive tax years.",
+  "For an Indian subsidiary of a foreign parent, or a foreign company billing an Indian group entity for services, management fees or intellectual property use, an APA is the main tool for taking transfer pricing off the table before a tax audit even starts. It is slower and costlier than simply defending the price if questioned, which is why it suits a transaction that recurs year after year and is large enough to justify the process, rather than a one-off sale of goods."
+ ],
+ "sections": [
+  {
+   "heading": "What an APA actually fixes",
+   "paragraphs": [
+    "An APA fixes the transfer pricing methodology, the comparable set, the critical assumptions and, usually, the arm's length price or margin range for a defined category of international or specified domestic transactions between the taxpayer and its associated enterprises. Once signed, the tax department cannot reopen those transactions under the general transfer pricing rules for the years the agreement covers, as long as the taxpayer keeps to the agreed critical assumptions, such as the business model staying the same and the comparables remaining broadly relevant.",
+    "Section 168(1) lets the Board, with the approval of the Central Government, enter into an agreement with any person determining the arm's length price or specifying the manner in which it is to be determined, for international transactions to be entered into by that person. The agreement can run for up to five consecutive tax years as specified in it, and the Board is empowered to frame a scheme for the manner, form and procedure for making and processing such an application.",
+    "The agreement does not decide the taxpayer's total tax liability by itself. It decides the price. Everything else, the income computation, other deductions, other disputes, is still worked out under the ordinary assessment process for each year, with the agreed price simply taken as given rather than reopened."
+   ]
+  },
+  {
+   "heading": "Unilateral, bilateral or multilateral",
+   "paragraphs": [
+    "A unilateral APA is agreed only between the Indian taxpayer and the CBDT, and it binds the Indian tax administration but gives no comfort that the other country's tax authority will accept the same price for the counterparty on its side of the transaction. A bilateral APA also involves the Competent Authority of the country where the associated enterprise is based, agreed under the mutual agreement procedure article of the relevant tax treaty, so both tax administrations commit to the same price and the risk of the same income being taxed twice is removed on both sides. A multilateral APA extends that same coordination to more than two countries when the group's transactions run through several jurisdictions at once.",
+    "A bilateral or multilateral APA takes longer to negotiate because it depends on two or more tax administrations reaching the same conclusion, and the Competent Authority of India has to participate in the discussion rather than the taxpayer and CBDT settling it alone. A group that only cares about certainty on the Indian side, and is not worried about a matching adjustment abroad, sometimes starts with a unilateral APA simply because it is quicker, and converts to a bilateral one later if double taxation becomes a live risk."
+   ]
+  },
+  {
+   "heading": "Rollback: using the APA to settle past years too",
+   "paragraphs": [
+    "The rollback feature lets an APA's agreed pricing be applied to earlier, already-closed tax years as well as the years the agreement covers going forward, so a dispute that is already running in assessment or appeal for those earlier years can be settled on the same terms rather than fought separately. Under the regime that applied through the 1961 Act, rollback could reach up to four tax years preceding the first year of the APA term, which combined with the five-year forward term to give a taxpayer certainty over as many as nine years from one negotiation.",
+    "The application for an APA, and for rollback where sought, is now filed on Form No. 51 under the Income-tax Rules, 2026, which combines what used to be two separate forms, one for the APA application and one for the rollback request, into a single filing. Not every year is eligible for rollback. A year in which the same issue is already finally decided by an appellate authority, or where the rollback would require reopening a transaction fundamentally different from what the forward-looking agreement covers, is generally kept out, and the detailed eligibility conditions are worth checking against the current rules before a rollback request is built into an application, since secondary commentary is not fully consistent on the fine print."
+   ]
+  },
+  {
+   "heading": "Who should apply, and when",
+   "paragraphs": [
+    "An APA suits a transaction that is large, continuing and exposed to a transfer pricing dispute every year it is reported, such as a captive IT or ITeS unit billing its foreign parent on a cost-plus basis, a distribution subsidiary buying goods from its parent for resale in India, or an Indian company paying a royalty or management fee to an overseas group entity. It makes much less sense for a transaction that happens once, or for a company still working out its own business model, because the agreement is built around assumptions that are expected to hold steady for several years.",
+    "The application has to be filed before the relevant transactions are to be undertaken, in practice before the start of the first year the applicant wants the APA to cover, and it carries a government filing fee that scales with the value of the international transaction covered. The 2026 rules describe different fee levels depending on transaction size and on whether the application is unilateral or bilateral; the exact figures appear inconsistently across secondary commentary at the time of writing, so a taxpayer should confirm the current fee from the Income-tax Rules, 2026 or from the APA application portal before budgeting for the process rather than relying on any single published table.",
+    "Once signed, an APA is not a one-time filing that can be forgotten. Form No. 52, the annual compliance report, has to be filed for every year the agreement covers, showing that the taxpayer's actual results and conduct matched the terms and critical assumptions agreed. A group that signs an APA and then changes its supply chain, its functional profile, or the way intercompany invoices are structured, without checking whether that change falls within the critical assumptions, can end up with an agreement that no longer protects the years affected, which defeats much of the point of having gone through the process in the first place."
+   ]
+  },
+  {
+   "heading": "How long it actually takes",
+   "paragraphs": [
+    "CBDT's own annual APA report for FY 2025-26 records that the average time taken to conclude a unilateral APA fell to around 40.8 months that year, down from about 42.9 months the year before, while a bilateral APA averaged around 41.5 months, down sharply from about 50.2 months in FY 2024-25. The median was lower than the average in both categories, close to 36 months for unilateral and around 38 months for bilateral agreements, which means a meaningful share of applications still take considerably longer than three years to close.",
+    "In the same year, CBDT signed a record 220 APAs, split between 136 unilateral and 84 bilateral agreements, taking the cumulative total of APAs signed since the programme began past 1,000. The programme has clearly accelerated compared with its early years, but a company starting the process today should still plan for a multi-year wait before the agreement is actually signed, and should use that time to keep its transfer pricing documentation and benchmarking current, since the file built at filing is what the negotiation will eventually be judged against."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does an Advance Pricing Agreement stop all tax scrutiny of the transaction?",
+   "a": "It stops scrutiny of the price for the specific transactions and years the agreement covers, as long as the taxpayer complies with the agreed terms and critical assumptions. The assessing officer can still examine other aspects of the return, and a material change in the business, such as a change in the functions performed or the risks carried, can affect whether the agreement continues to apply."
+  },
+  {
+   "q": "Can a rollback cover years where the transfer pricing issue is already in appeal?",
+   "a": "Rollback can often bring an ongoing dispute for an earlier year onto the same agreed terms as the forward APA, which can let the taxpayer withdraw the appeal for that year on agreed terms. Whether a specific year qualifies depends on the current rollback conditions in the Income-tax Rules, 2026, and a year already finally decided by an appellate authority is generally not reopened through rollback."
+  },
+  {
+   "q": "Is a unilateral APA enough if my group has transactions with several countries?",
+   "a": "A unilateral APA only binds the Indian tax authority, so if the counterparty's country later takes a different view of the same price, double taxation can still arise on that side. A bilateral or multilateral APA, negotiated through the Competent Authority of India with the other country's authority, removes that mismatch but takes longer to conclude."
+  },
+  {
+   "q": "How long should a foreign-owned Indian subsidiary expect an APA to take?",
+   "a": "CBDT's FY 2025-26 annual report puts the average time to conclude a unilateral APA at around 40.8 months and a bilateral APA at around 41.5 months, with medians somewhat lower. A subsidiary should plan for a multi-year process and keep its benchmarking and functional analysis current throughout, rather than expecting a result within a single assessment year."
+  }
+ ],
+ "references": [
+  "Income-tax Act, 2025, Section 168 (effective 1 April 2026), replacing Section 92CC of the Income-tax Act, 1961",
+  "Income-tax Rules, 2026, Form No. 51 (combined APA and rollback application) and Form No. 52 (annual compliance report)",
+  "CBDT, Annual APA Report for FY 2025-26 (record 220 APAs signed; average and median conclusion times by category)",
+  "Erstwhile Rule 10MA of the Income-tax Rules, 1962, on rollback of an Advance Pricing Agreement (pre-1 April 2026 position, referenced for the 4-year rollback concept)"
+ ],
+ "sources": [
+  "https://www.incometaxindia.gov.in/w/section-168-85",
+  "https://kpmg.com/us/en/taxnewsflash/news/2026/02/tnf-india-draft-rules-updating-transfer-pricing-reporting-advance-pricing-agreement-program-block-transfer-pricing-assessments.html",
+  "https://www.incometaxindia.gov.in/documents/d/guest/form-51-faqs",
+  "https://www.newsonair.gov.in/cbdt-signs-record-219-apas-with-indian-taxpayers-during-financial-year-2025-26",
+  "https://www.nexdigm.com/media/in-the-news/towards-greater-tax-certainty-decoding-indias-apa-and-map-performance-in-fy-2025-26/",
+  "https://a2ztaxcorp.net/cbdt-releases-annual-apa-report-for-fy-2025-26-records-highest-ever-signing-of-220-advance-pricing-agreements/"
+ ],
+ "verification_notes": [
+  "AUDIENCE: foreign company / HNI (serves foreign-owned Indian subsidiaries and large Indian groups with related-party cross-border transactions)",
+  "TARGET QUERY: how does an advance pricing agreement work in India / APA transfer pricing India rollback",
+  "DEMAND EVIDENCE: none seen directly as search-volume data; chosen because the topic is wholly absent from the existing APA/transfer-pricing coverage on the site, which has safe harbour and master file/CbCR guides but no APA guide, confirmed by checking the live and staged search index",
+  "Section 168 of the Income-tax Act, 2025 replacing Section 92CC, effective 1 April 2026: confirmed from the official incometaxindia.gov.in text of Section 168 and cross-checked against KPMG's and RSM's 2026 transfer pricing rules commentary describing the new Income-tax Act, 2025 and Rules, 2026 framework.",
+  "Form 51 combining the former Form 3CED/3CEDA, and Form 52 as the annual compliance report: confirmed from incometaxindia.gov.in's own Form 51 FAQ page and cross-checked against KPMG's draft/final rules coverage.",
+  "5-year APA term: taken directly from the quoted text of Section 168(1) itself (official source); used as the sole figure rather than the four preceding rollback years, because the exact current rollback rule number is disputed across secondary sources (one calls it Rule 119, another RN111) and is not restated as a specific rule number in the guide for that reason.",
+  "Rollback concept and its pre-2026 four-year reach: described in general terms, sourced from multiple broadly consistent secondary commentaries (treelife.in, patronaccounting, international tax review), with the exact current rule number and fee figures deliberately left unstated because sources conflicted on both.",
+  "Unilateral/bilateral/multilateral distinction and the Competent Authority of India's role: confirmed from the CBDT's own APA report description and secondary commentary (treelife.in, ksandk-style transfer pricing guides) that agree on the basic structure.",
+  "FY 2025-26 CBDT figures (220 APAs signed, 136 unilateral/84 bilateral, average 40.8/41.47 months, median approx 36/38 months): confirmed from the official newsonair.gov.in press release plus the CBDT Annual APA Report as reported by nexdigm.com and a2ztaxcorp.net, which are consistent on the count split and the time figures; the earlier-year comparison figures (42.94 and 50.18 months) came from the same consistent reporting.",
+  "Filing fee structure and timing (before the relevant transactions are undertaken): left in general terms because secondary sources gave contradictory specific rupee figures (a flat Rs 20 lakh fee in one place and a graded Rs 10-20 lakh scale in the same source's own table); the guide flags this inconsistency directly rather than stating either figure as fact."
+ ]
+}
