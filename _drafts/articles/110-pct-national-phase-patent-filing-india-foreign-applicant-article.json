@@ -1,0 +1,238 @@
+{
+  "slug": "pct-national-phase-patent-filing-india-foreign-applicant-article",
+  "title": "Filing a PCT Patent in India: National Phase Entry for Foreign Applicants",
+  "subtitle": "The 31 month deadline, Form 18 and Form 18A, the fee categories, and what happens when an applicant files late",
+  "meta_description": "How a foreign PCT applicant enters India's patent national phase: the 31-month Rule 20 deadline, fee categories and the 2024 rule change.",
+  "practice_area": "Intellectual Property",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Souvik Bose",
+      "role": "Associate, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian, Souvik Bose",
+  "author_role": "Bhaskar Subramanian, Partner, S&S Co. Advocates & Solicitors; Souvik Bose, Associate, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-21",
+  "standfirst": "A foreign company that has filed an international application under the Patent Cooperation Treaty must still take a separate, deadline-bound step before an Indian patent can be granted. This article sets out what that step involves, what the Indian Patent Office will and will not accept, and where applicants most often lose rights they could have kept.",
+  "key_points": [
+    "An international application designating India does not become an Indian patent application on its own. The applicant must enter the national phase before the Indian Patent Office within 31 months of the earliest priority date, under Rule 20(4)(i) of the Patents Rules, 2003.",
+    "The 31-month deadline is treated as mandatory. The Delhi High Court held in Diebold Self Service Systems v Union of India (2022) that a national phase application filed even a few months late cannot be accepted, because Rule 138 of the Patents Rules excludes this deadline from the Controller's general power to condone delay.",
+    "For applications where the international filing occurred on or after 15 March 2024, the request for examination must also be filed within 31 months of the earliest priority date, the same point as national phase entry, following the Patents (Amendment) Rules, 2024. Earlier applications keep the older 48-month period.",
+    "An applicant who wants Indian examination to start sooner can ask for early publication under Section 11A(2), rather than wait for the automatic 18-month publication.",
+    "A foreign company can sometimes pay fees at the lower 'small entity' or 'startup' rate under Rule 2(fa), through a declaration route tied to the turnover ceiling for a medium enterprise under the MSME Act, but this needs supporting financial statements and is not automatic.",
+    "Once granted, the patentee must file a statement of working on Form 27. Since the Patents (Amendment) Rules, 2024, this is filed once for every three-year financial block rather than every year, and the penalty for not filing is now a civil fine rather than imprisonment, following the Jan Vishwas (Amendment of Provisions) Act, 2023.",
+    "Opposition can come at two points: pre-grant opposition under Section 25(1), open to anyone and available any time before grant, and post-grant opposition under Section 25(2), open only to a 'person interested' and limited to one year from publication of the grant."
+  ],
+  "sections": [
+    {
+      "heading": "Why the international filing is only half the job",
+      "paragraphs": [
+        "A client who has filed a PCT application often assumes that designating India in that filing is enough to protect the invention here. It is not. The Patent Cooperation Treaty creates a single international filing and a single international search, but it does not create a single patent. Grant remains a matter for each country's own patent office, applying its own law. For India, that means a separate filing step before the Indian Patent Office, commonly called national phase entry, and a separate examination under the Patents Act, 1970.",
+        "Section 7(1A) of the Act treats an international application that designates India as an application under the Act once it enters the national phase, and Section 7(1B) fixes the application's filing date in India as the international filing date accorded under the PCT, so long as the applicant has complied with what the national phase requires. The practical effect is that the applicant keeps the benefit of the earlier international filing date, but only if the national phase paperwork is filed correctly and on time.",
+        "Foreign applicants and their overseas patent attorneys sometimes read this as a formality that an Indian agent can attend to close to the deadline. That approach causes more lost patent rights in India than almost any other procedural lapse, because the deadline itself admits no flexibility once missed.",
+        "The PCT system itself gives an applicant two broad choices before any of this becomes relevant to India: proceed on the international search report alone under PCT Chapter I, or file a demand for international preliminary examination under Chapter II and obtain a written opinion on patentability before entering any national phase. Neither choice changes the Indian national phase deadline, and neither substitutes for Indian examination, but a favourable Chapter II opinion can still be useful persuasive material if an Indian examiner later raises an objection that the international authority had already considered and rejected."
+      ]
+    },
+    {
+      "heading": "The 31-month deadline and how it is calculated",
+      "paragraphs": [
+        "Rule 20(4)(i) of the Patents Rules, 2003 requires national phase entry in India within 31 months from the applicant's earliest priority date. Where the application claims no priority, the clock runs from the international filing date itself. This is longer than the basic PCT Chapter I period of 30 months that many jurisdictions use, which is a reason some foreign applicants wrongly assume India follows the same shorter period as their home office.",
+        "The 31 months is not a target date to aim for. It is an outer limit. An applicant who waits until the final weeks takes on avoidable risk, because the national phase package is not a single form: it includes Form 1, any required translation, the priority documents or a reference to their earlier submission to the International Bureau, and, for most applicants, a power of attorney in favour of the Indian patent agent who will prosecute the case.",
+        "Rule 22 of the Patents Rules provides that an international application designating India is deemed withdrawn if the applicant does not comply with Rule 20 within the prescribed period. There is no separate notice of abandonment required for this consequence to take effect. The application simply lapses by operation of the rule."
+      ]
+    },
+    {
+      "heading": "No condonation, even after the 2024 reforms",
+      "paragraphs": [
+        "India amended several procedural timelines through the Patents (Amendment) Rules, 2024, which took effect from 15 March 2024. Among other changes, the amendment gave the Controller a general discretion under Rule 138 to condone delay of up to six months for many procedural acts, on a reasoned request and payment of the prescribed fee. This looks, at first glance, like it might soften the 31-month deadline.",
+        "It does not. Rule 138(2) specifically excludes the national phase entry deadline under Rule 20(4)(i) from this condonation power, both before and after the 2024 amendment. The Controller has no discretion to accept a late national phase filing, however short the delay and however good the applicant's reason for missing it.",
+        "The Delhi High Court confirmed this reading in Diebold Self Service Systems v Union of India (2022), where the applicant's national phase filing arrived roughly five months after the 31-month cut-off. The Court held that the deadline is mandatory, that Rule 22 does not conflict with the PCT's own Regulations, and that India had already exercised the option available to it under Rule 49.6(f) of the PCT Regulations, which lets a national office decide that the restoration provisions in the earlier parts of Rule 49.6 will not apply domestically. The Delhi High Court relied on this reasoning again in Humanity Life Extension LLC v Union of India (2023). Taken together, the two decisions leave foreign applicants with essentially no route back into the Indian national phase once the 31 months have run.",
+        "For an overseas applicant and its Indian counsel, the lesson is straightforward: calendar the 31-month date the moment a priority application is filed, not the moment the PCT application is filed, and treat it the way a limitation period is treated in litigation."
+      ]
+    },
+    {
+      "heading": "What the national phase package must contain",
+      "paragraphs": [
+        "Form 1 is the core document, and it has a section specifically for PCT national phase applications, asking for the international application number and the international filing date. The applicant's Indian patent agent files this electronically with the Indian Patent Office, together with the national fee.",
+        "Where the international application was not published or filed in English, an English translation of the specification, claims, abstract and any text in the drawings must be filed. The Indian Patent Office generally accepts the translation that was used for international publication or examination where one exists, but an applicant whose PCT application proceeded entirely in another language should budget time for an independent English translation and a review of that translation against the original before filing, since errors in translation can later be treated as amendments going beyond the original disclosure.",
+        "A declaration of inventorship, naming each person who contributed to the claimed invention, and proof of right to apply, usually by way of a written assignment from those inventors to the corporate applicant, is also required, though the Patents Rules allow this to follow the main filing within a short window rather than holding up the national phase entry itself. Article 27 of the PCT limits what a national office may demand as a condition of entry, but it specifically permits requirements like proof of the applicant's right to the invention, so an Indian agent will usually ask for the assignment chain early rather than at the last moment.",
+        "Budgeting for the national phase should account for more than the Indian Patent Office's own fees. Translation, where needed, the Indian agent's professional fees for review and filing, and the cost of the examination request and any later response to a First Examination Report, together usually exceed the official government fee by a meaningful margin. A foreign applicant deciding whether to enter India for a particular invention does better to ask its Indian counsel for an all-in estimate through grant, rather than comparing only the government fee schedule against the equivalent fee in its home jurisdiction."
+      ]
+    },
+    {
+      "heading": "Early publication: a choice the applicant controls",
+      "paragraphs": [
+        "An Indian patent application is ordinarily published eighteen months after the earliest priority date, and only after that publication can pre-grant opposition be filed and can examination meaningfully begin in the usual course. For an applicant who wants Indian rights faster, perhaps because a competitor is already active in the Indian market, Section 11A(2) allows a request for early publication at any time, on payment of the prescribed fee.",
+        "Early publication shortens the runway to grant, but it also starts the clock on pre-grant opposition sooner, since anyone can oppose an Indian application at any point between publication and grant. An applicant weighing this choice should think about whether speed to grant matters more than the extra months a competitor would otherwise have before being able to oppose."
+      ]
+    },
+    {
+      "heading": "Requesting examination: Form 18, Form 18A, and the 2024 change",
+      "paragraphs": [
+        "Publication alone does not trigger examination. The applicant, or any other interested person, must separately file a request for examination under Section 11B, on Form 18, or on Form 18A where expedited examination is sought under Rule 24C. Expedited examination is available to specific categories of applicant, including startups, small entities and applicants who have chosen India as the International Searching Authority or International Preliminary Examining Authority for the same application, among other grounds set out in Rule 24C.",
+        "Before the Patents (Amendment) Rules, 2024, every applicant had 48 months from the earliest priority date, or the date of filing if that was later, to file the request for examination. The 2024 amendment reduced this to 31 months, the same date as national phase entry, but only for applications filed on or after 15 March 2024. An application filed before that date keeps the 48-month period it was promised when filed.",
+        "For most PCT applicants entering India today, this means the national phase filing and the request for examination fall due at the same time, so there is little practical benefit in filing Form 1 early and leaving Form 18 for later. Treating the two as a single combined deadline avoids a second filing date to track, and avoids the risk of forgetting the examination request once the national phase paperwork is out of the way.",
+        "Once examination begins, the Controller issues a First Examination Report under Rule 24B, listing the objections, the prior art relied on, and the deadline to respond, which runs for six months from the date the report is issued. Rule 24B(6) allows one further extension of up to three months, requested on Form 4 before the first period runs out. Rule 137, the general condonation provision for procedural delay, does not apply to this deadline either, which keeps the First Examination Report response in the same strict category as the national phase and examination-request deadlines described earlier in this article.",
+        "Expedited examination under Rule 24C is also available where the applicant qualifies under an arrangement between the Indian Patent Office and a foreign patent office, such as the Patent Prosecution Highway pilot the Indian Patent Office opened with the Japan Patent Office in November 2019, letting an applicant who has already obtained an allowable claim from the first office seek faster examination of the corresponding Indian application. Practitioner commentary is not consistent on whether this arrangement still runs as a separate pilot or has been absorbed into the general list of Rule 24C grounds, so an applicant whose claims have already been allowed abroad should ask its Indian agent to confirm current eligibility before counting on this route to shorten the Indian timeline.",
+        "A 2026 Delhi High Court decision restoring Shiv Nadar University's patent application shows two things at once. The Assistant Controller had refused to condone a four-day delay in replying to the First Examination Report, taking the position that Section 21(1) gives the Controller no discretion to excuse any delay once the extended period under Rule 24B(6) has run. The Court held that this limit binds the Controller but not a court hearing an appeal under Section 117A, and on the facts, where the university's reply had been internally approved on the last day of the extended period and the four-day slip included a non-working weekend, restored the application. A foreign applicant should read this as confirmation that the Patent Office itself will not bend the deadline, and that relief, where it exists at all, comes only from a court weighing the specific facts on an appeal, not as a reason to plan around a late filing."
+      ]
+    },
+    {
+      "heading": "Fee categories, and when a foreign applicant can pay less",
+      "paragraphs": [
+        "The First Schedule to the Patents Rules sets two fee columns: a lower rate for a natural person, a startup, a small entity or an educational institution, and a higher rate for every other applicant, including an ordinary company. A foreign corporate applicant is not automatically entitled to the lower rate merely because its home jurisdiction treats it as a small business.",
+        "Rule 2(fa) defines 'small entity' in a way that includes a route for a foreign enterprise, based on a declaration of annual turnover, using the Reserve Bank of India's reference exchange rate to convert the figure, measured against the ceiling that the MSME Act sets for a medium enterprise. A startup claim, separately, generally depends on recognition as a startup under the applicable government scheme, which in practice favours Indian-incorporated entities, though commentary on the point is not uniform and an applicant relying on startup status should take specific advice rather than assume it applies.",
+        "Either claim, whether small entity or startup, must be supported by a declaration on Form 28 filed with each fee-bearing document, and the current rupee figures in the Schedule should be checked against the Patents Rules in force on the date of filing rather than against a commentary written for an earlier year, because the thresholds and the fee amounts have both moved more than once in the last decade. If an applicant later transfers the patent or the application to a person who would not themselves qualify for the lower rate, Rule 7(3) requires the fee difference to be paid before the transfer is recorded.",
+        "This last point matters more than it first appears for a foreign applicant that restructures its group after filing, for example by assigning a patent family from a parent company to a newly formed subsidiary, or the reverse, as part of a licensing or financing arrangement. Recording that assignment with the Indian Patent Office under Section 70 without first checking whether the original filing relied on a small-entity or startup declaration can trigger an unexpected fee demand under Rule 7(3), and the Controller is not required to raise the point before processing the assignment."
+      ]
+    },
+    {
+      "heading": "Grounds of objection that recur in national phase prosecution",
+      "paragraphs": [
+        "Examination in India applies the same substantive grounds to a national phase application as to a domestically filed one, and a foreign applicant whose claims were drafted for the United States or Europe will often meet objections that did not arise in those offices. Section 3 of the Patents Act lists what does not count as an invention, and two grounds account for a large share of the office actions issued against incoming PCT applications: Section 3(d), which bars a new form of a known substance unless it shows enhanced efficacy, aimed chiefly at pharmaceutical claims, and the combination of Sections 3(k) and 3(m), which exclude a mathematical or business method, a computer programme as such, and a mere scheme or method of performing a mental act, from patentability.",
+        "The Supreme Court's decision in Novartis AG v Union of India, (2013) 6 SCC 1, remains the starting point for any Section 3(d) objection raised against a pharmaceutical national phase application. The Court held that a new form of a known substance, there a beta crystalline form of imatinib mesylate marketed as Glivec, does not qualify as an invention under Section 3(d) unless the applicant can show it differs significantly in properties with regard to efficacy, and that efficacy for this purpose means therapeutic efficacy rather than any general improvement such as better flow properties, thermodynamic stability or hygroscopicity. A foreign pharmaceutical applicant whose claims rest on a new salt, polymorph or formulation of an already-known molecule should expect this test to be applied strictly, and should gather therapeutic efficacy data before filing rather than after an objection arrives.",
+        "Software-related claims drafted around a general-purpose computer, without a clear technical effect beyond the ordinary operation of that computer, attract the Section 3(k) objection routinely. Applicants whose claims survive examination in other jurisdictions sometimes need to reframe the claim set for India around the specific technical problem solved and the technical means used to solve it, rather than around the business outcome achieved, to meet how the Indian Patent Office and the Delhi High Court have read this exclusion.",
+        "A second recurring issue is added subject matter where the national phase translation or amendment introduces material not disclosed in the international application as filed. Because the Indian filing date depends on fidelity to the international application, an Indian agent reviewing a translation closely at the national phase stage, rather than after an objection is raised years later, saves time and cost.",
+        "Lack of novelty and obviousness objections, built substantially on the same prior art already identified in the international search report that accompanied the PCT application, are also common, but they tend to be the least controversial part of prosecution, since the applicant's own international search authority has usually already flagged the closest prior art. The objections that take longer to resolve, and that benefit most from early attention, are the India-specific exclusions under Section 3 described above, because they call for arguments about how the invention is framed rather than arguments about what was already known."
+      ]
+    },
+    {
+      "heading": "Pre-grant opposition: open to anyone, open until grant",
+      "paragraphs": [
+        "Once a national phase application is published, whether through the ordinary eighteen-month route or through early publication, Section 25(1) allows any person to file a representation opposing grant. There is no fee and no requirement that the opponent show a personal interest in the outcome, which is why Indian practitioners sometimes see pre-grant opposition filed by a party acting for a competitor without disclosing that relationship.",
+        "The representation must rest on one of the specific grounds listed in Section 25(1), such as prior claiming, prior publication, obviousness, non-patentable subject matter under Section 3, or insufficient disclosure, among the others set out in that sub-section. A foreign applicant facing a pre-grant opposition in India for the first time is sometimes surprised that there is no outer time limit for filing it, short of the grant itself, unlike jurisdictions that fix a window running from publication.",
+        "In practice, a pre-grant opposition filed by or for a domestic competitor is one of the more common ways an incoming PCT application in a crowded field, such as pharmaceuticals, agrochemicals or telecommunications standards, gets delayed by a year or more, since the Controller must give the applicant an opportunity to respond and may convene a hearing before deciding whether to proceed to grant. Choosing early publication under Section 11A(2), discussed earlier, brings this risk forward in time rather than removing it, which is part of why that choice deserves a considered answer rather than a default one."
+      ]
+    },
+    {
+      "heading": "Post-grant opposition and revocation",
+      "paragraphs": [
+        "After grant, Section 25(2) gives any 'person interested', a narrower class than 'any person', one year from the date of publication of the grant in the Patent Office Journal to file a notice of opposition. The grounds overlap substantially with the pre-grant grounds but are not identical, and the procedure moves through a constituted Opposition Board rather than through the examining Controller alone.",
+        "Beyond this one-year window, a patent can still be challenged by way of a revocation petition before the appropriate High Court or, where infringement proceedings are already running, by way of a counter-claim in that suit. A foreign patentee should treat the one-year post-grant window as the comparatively cheaper and faster route, and should not assume that silence from competitors during that year means the patent is now beyond challenge altogether.",
+        "A patentee who wants to reduce exposure to both forms of opposition does well to have Indian counsel review the granted claims against the closest prior art identified during international search before the one-year post-grant window opens, rather than waiting for a notice of opposition to prompt that review for the first time."
+      ]
+    },
+    {
+      "heading": "After grant: the Form 27 working statement",
+      "paragraphs": [
+        "Section 146(2) requires every patentee and every licensee, including an exclusive licensee, to furnish a periodic statement, on Form 27, about whether the patented invention has actually been commercially worked in India, and if it has not been worked, the reasons for that and the steps being taken toward working it. Until the Patents (Amendment) Rules, 2024, this was an annual filing. Since that amendment, Form 27 is filed once for each block of three financial years, starting from the financial year after grant, with six months after the end of the block to file.",
+        "The Controller General's office has indicated that the first such three-year block after the 2024 change covers financial years 2023-24 through 2025-26, with the filing window running from 1 April 2026 to 30 September 2026. A foreign patentee granted an Indian patent in or around that block should confirm with its Indian agent whether this filing has already fallen due, since the window for that first block closes shortly after the date of this article. A single Form 27 can cover the entire three-year block, which is a welcome simplification for a patentee with several related national phase filings maturing around the same time, but it also means a patentee that misses the window has no shorter annual filing to fall back on until the next three-year block begins.",
+        "Failing to file Form 27 does not, by itself, invalidate the patent, but it does expose the patentee to a penalty under Section 122. The Jan Vishwas (Amendment of Provisions) Act, 2023 removed the possibility of imprisonment for a bare failure to furnish the statement, leaving a monetary penalty in its place, while knowingly furnishing false information in the statement remains separately punishable. Treating Form 27 as paperwork that can be skipped because the patent itself survives is a common and avoidable mistake."
+      ]
+    },
+    {
+      "heading": "Working with an Indian patent agent from outside India",
+      "paragraphs": [
+        "A foreign applicant cannot prosecute an Indian patent application without engaging a registered Indian patent agent, who alone can sign and file most of the correspondence with the Indian Patent Office. Section 134 restricts the right to practise before the Controller to persons on the register of patent agents, and in practice this means the national phase entry, the examination request, responses to office actions, and the Form 27 filings all go through that agent rather than directly through foreign counsel.",
+        "Overseas IP counsel retain control over strategy, claim scope and whether to contest an objection, but the working relationship functions best when instructions reach the Indian agent well before a deadline, given the time difference and the fact that national phase deadlines, once missed, cannot be repaired. A short retainer letter at the time of PCT filing itself, naming the Indian agent and setting an internal reminder date some weeks before the 31-month cut-off, avoids most of the last-minute problems this office sees in practice.",
+        "A power of attorney executed by an authorised signatory in the applicant's home country, and legalised or notarised where the Indian agent's instructions require it, should be put in motion as soon as the decision to enter India is made, since corporate signing authorities and courier timelines between continents can themselves eat into the margin an applicant thought it had before the 31-month date."
+      ]
+    },
+    {
+      "heading": "A practical sequence for a foreign applicant entering India",
+      "paragraphs": [
+        "Calculate the 31-month date from the earliest priority date the moment that date is known, not from the PCT filing date, and build in a margin of at least four to six weeks before that date for the Indian agent to prepare and review the national phase package.",
+        "Decide early whether early publication under Section 11A(2) serves the applicant's commercial interest, since this is a choice best made with the business team rather than left entirely to counsel.",
+        "File the request for examination at the same time as national phase entry for any application whose international filing fell on or after 15 March 2024, since both now fall due on the same date, and separately calendar the 48-month date for an older application that still carries the earlier period.",
+        "Review the assignment chain from inventors to the applicant corporate entity before the national phase filing, so that proof of right does not become the item holding up an otherwise complete filing.",
+        "Decide, with the Indian agent, whether a foreign small-entity declaration is realistically available on the applicant's turnover, rather than assuming either that it applies or that it does not.",
+        "Correct the internal IP docket the moment national phase entry is confirmed, so that the record shows the Indian-specific 31-month and First Examination Report dates rather than the generic 30-month PCT figure that many global docketing systems apply by default across every designated country. A docket that quietly rounds India to the more common 30-month convention is a frequent, avoidable source of the five-month type of delay that proved fatal in Diebold."
+      ]
+    },
+    {
+      "heading": "Common mistakes this firm sees in incoming PCT filings",
+      "paragraphs": [
+        "The most frequent and most damaging mistake is treating the 31-month date as a date to start the national phase process rather than a date to finish it, leaving no time to fix a defective translation, a missing assignment, or a power of attorney that has not yet been executed by an authorised signatory in the applicant's home country.",
+        "A second recurring mistake is assuming that claims allowed in the United States Patent and Trademark Office or the European Patent Office will survive Indian examination unchanged, particularly for software-related and pharmaceutical claims, where Sections 3(d) and 3(k) apply tests that have no exact counterpart abroad.",
+        "Forgetting Form 27 once the patent is granted, on the assumption that a validly granted Indian patent needs no further attention from the applicant's side, is a third and less dramatic but still costly mistake. The three-year filing cycle introduced in 2024 makes this easier to overlook than the old annual cycle did, precisely because the next deadline is further away and less likely to sit on a compliance calendar that tracks annual filings.",
+        "Leaving the inventor-to-applicant assignment chain unresolved is a fourth mistake, and it shows up most often where inventors are employed across more than one country, or engaged as consultants rather than employees. Indian examiners and, later, an opponent or an infringer's lawyers, will test whether the applicant actually held the right to apply at the time of filing, and a gap in that chain discovered during litigation is far more expensive to fix than the same gap caught by an Indian agent during national phase entry.",
+        "Losing track of renewal fees once the patent is granted rounds out the list. Section 53 read with Rule 80 requires a renewal fee for every year from the third year of the patent's term onward, paid in advance and correctly identifying the patent number, the date of the patent and the year being paid for. A grace period of up to six months is available on payment of an additional fee under Rule 80(1A), and a patent that lapses for non-payment can still be restored within eighteen months under Section 60, but restoration is a separate, discretionary proceeding that costs more in time and money than simply paying the renewal fee on the date it falls due. A foreign patentee that holds a large Indian portfolio does well to have its Indian agent run an annuity docket separately from the prosecution docket, since the two run on entirely different clocks."
+      ]
+    }
+  ],
+  "conclusion": [
+    "India's national phase route rewards an applicant who treats the 31-month deadline as fixed and plans backward from it, and penalises one who treats it as a soft target. The deadline itself, the fee categories, and the examination timeline have all shifted meaningfully since 2024, so an instruction sheet written for an Indian filing made five years ago should not be relied on without checking the current Patents Rules.",
+    "A foreign applicant that coordinates closely with its Indian patent agent from the date of PCT filing, rather than only in the weeks before the national phase deadline, keeps the options this article describes, including early publication, expedited examination and the lower fee categories, genuinely open rather than theoretical."
+  ],
+  "faqs": [
+    {
+      "q": "What is the deadline to enter the Indian national phase after filing a PCT application?",
+      "a": "Rule 20(4)(i) of the Patents Rules, 2003 sets the deadline at 31 months from the applicant's earliest priority date, or from the international filing date if no priority is claimed. This is longer than the 30-month period used in many other countries, but it is firm, and there is no provision to extend or condone it once missed."
+    },
+    {
+      "q": "Can a late national phase filing be accepted in India if the delay was unintentional?",
+      "a": "Generally no. Rule 138(2) of the Patents Rules excludes the national phase deadline from the Controller's power to condone delay, including after the 2024 amendment that introduced a six-month condonation power for many other acts. The Delhi High Court confirmed this reading in Diebold Self Service Systems v Union of India (2022)."
+    },
+    {
+      "q": "Does the request for examination have the same deadline as national phase entry?",
+      "a": "For an international application filed on or after 15 March 2024, yes, both now fall due 31 months from the earliest priority date, under the Patents (Amendment) Rules, 2024. An application filed before that date keeps the earlier 48-month period for requesting examination."
+    },
+    {
+      "q": "Can a foreign company pay the lower 'small entity' patent fee in India?",
+      "a": "It can, through a declaration-based route under Rule 2(fa) tied to the turnover ceiling that the MSME Act sets for a medium enterprise, using the Reserve Bank of India's reference exchange rate. This is not automatic and needs supporting financial statements filed with a Form 28 declaration."
+    },
+    {
+      "q": "What happens if a patentee does not file the Form 27 working statement?",
+      "a": "The patent itself is not invalidated by a missed Form 27 filing, but the patentee can face a monetary penalty under Section 122 of the Patents Act. Since the Jan Vishwas (Amendment of Provisions) Act, 2023, imprisonment is no longer available for a bare failure to file, though knowingly giving false information in the statement remains separately punishable."
+    },
+    {
+      "q": "How often must Form 27 be filed now?",
+      "a": "Since the Patents (Amendment) Rules, 2024, Form 27 is filed once for every block of three financial years after grant, within six months of the end of that block, rather than every year as before. The Controller General's office has stated that the first post-amendment block runs from financial year 2023-24 to 2025-26, with filings due between 1 April 2026 and 30 September 2026."
+    },
+    {
+      "q": "Who can oppose an Indian patent application entering the national phase?",
+      "a": "Before grant, under Section 25(1), any person can file a representation opposing the application, on specific statutory grounds, at any time after publication and before grant. After grant, under Section 25(2), only a 'person interested' can oppose, and only within one year from publication of the grant."
+    },
+    {
+      "q": "Why do software claims that were allowed abroad sometimes fail in India?",
+      "a": "Sections 3(k) and 3(m) of the Patents Act exclude a computer programme as such and a mere method of performing a mental act from patentability. Claims drafted around a business outcome on a general-purpose computer, without a specific technical effect, attract this objection even where a similar claim was allowed in the United States or Europe."
+    }
+  ],
+  "references": [
+    "Patents Act, 1970, Sections 3, 7, 11A, 11B, 25, 53, 60, 122, 134 and 146",
+    "Patents Rules, 2003, Rules 2(fa), 7, 20, 22, 24B, 24C, 80, 137 and 138",
+    "Shiv Nadar University v Assistant Controller of Patents and Designs, Delhi High Court, 2026",
+    "Novartis AG v Union of India, (2013) 6 SCC 1",
+    "Patents (Amendment) Rules, 2024 (effective 15 March 2024)",
+    "Jan Vishwas (Amendment of Provisions) Act, 2023",
+    "Patent Cooperation Treaty, Articles 22 and 27",
+    "PCT Regulations, Rule 49.6",
+    "Diebold Self Service Systems v Union of India, Delhi High Court, 2022",
+    "Humanity Life Extension LLC v Union of India, Delhi High Court, 2023",
+    "First Schedule to the Patents Rules, 2003 (fee categories)",
+    "Form 1, Form 18, Form 18A, Form 27 and Form 28, Patents Rules, 2003",
+    "Controller General of Patents, Designs and Trade Marks, FAQs on Form 27 (26 August 2024)",
+    "Micro, Small and Medium Enterprises Development Act, 2006, Section 7(1)"
+  ],
+  "related_pages": [
+    "/blog/patent-registration-process-india-guide.html",
+    "/blog/patent-opposition-pre-grant-post-grant-guide.html",
+    "/blog/patent-form-27-working-statement-guide.html",
+    "/articles/compulsory-licensing-patents-india-section-84-article.html",
+    "/articles/foreign-company-trademark-india-madrid-protocol-direct-filing-article.html"
+  ],
+  "sources": [
+    "https://ipindia.gov.in/acts/patent-act-1970/section-7",
+    "https://ipindia.gov.in/acts/patent-act-1970/section-25",
+    "https://ipindia.gov.in/acts/patent-rules-2003/rule-20",
+    "https://ipindia.gov.in/acts/patent-rules-2003/rule-24b",
+    "https://ipindia.gov.in/acts/patent-rules-2003/rule-24c",
+    "https://ipindia.gov.in/frontend/pdf/patents/1001_1_final_faqs_form-27_26thaugust2024.pdf",
+    "https://spicyip.com/2023/08/timelines-under-rule-138-of-patent-rules-are-to-be-interpreted-strictly-and-there-cannot-be-any-leeway-under-rule-49-6-of-pct-regulations-says-delhi-high-court.html",
+    "https://www.cyrilshroff.com/wp-content/uploads/2024/03/Client-Alert-Patent-Amendment-Rules-2024.pdf",
+    "https://ssrana.in/articles/india-introduced-innovative-updates-patent-rules/",
+    "https://www.intepat.com/blog/pct-patent-india",
+    "https://www.intepat.com/blog/late-pct-national-phase-entry-india",
+    "https://www.intepat.com/blog/foreign-applicant-startup-small-entity-indian-patent",
+    "https://www.mondaq.com/india/patent/1215630/the-statement-of-working-of-patents-in-india-form-27-a-complete-guide",
+    "https://ssrana.in/?p=44733",
+    "https://www.intepat.com/blog/shiv-nadar-university-section-21-deemed-abandonment-delhi-high-court",
+    "https://www.bananaip.com/intellepedia/deemed-abandonment-of-patent-application/"
+  ],
+  "verification_notes": "AUDIENCE: foreign company. TARGET QUERY: how to file a PCT patent application in India / PCT national phase entry India deadline. DEMAND EVIDENCE: none seen (no search-volume or trending data available in this run; topic chosen because PCT national phase entry has no existing dedicated article or blog guide on this site, confirmed by a text search across main, stage-final, research-articles and research-daily branches). The 31-month national phase and examination-request deadlines, the 2024 rule change, the Diebold Self Service Systems and Humanity Life Extension decisions, the foreign small-entity fee route, the Form 27 three-year filing cycle, and the Section 122 decriminalisation under the Jan Vishwas Act were each checked against at least two independent sources returned in this run, including the Controller General's own Form 27 FAQ and the Delhi High Court decisions as described by legal commentary (SpicyIP, Cyril Amarchand Mangaldas, SSRana). The exact neutral citation for Diebold Self Service Systems v Union of India could not be confirmed from the sources opened in this run, so the case is cited by name, court and year only, without a citation number. Specific rupee fee figures for the national-phase fee and the small-entity turnover ceiling were reported inconsistently across sources and have been left out of the draft rather than stated on a single-source basis; the fee categories and mechanism are stated without rupee figures.",
+  "seo_title": "PCT National Phase Entry in India: Foreign Applicant Guide"
+}
