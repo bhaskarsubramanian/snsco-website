@@ -1,0 +1,94 @@
+{
+  "slug": "tds-buyer-property-purchase-nri-seller-form-27q-guide",
+  "title": "Buying Property From an NRI: Why the Buyer's TDS Obligation Under Section 195 Is Not Like a Normal Purchase",
+  "seo_title": "TDS on Buying Property From an NRI: Section 195 Guide",
+  "meta_description": "What a buyer must deduct and file under Section 195 when buying property from an NRI seller, how Form 27Q differs from Form 26QB, and when a lower deduction certificate helps.",
+  "practice_area": "Tax Litigation",
+  "format": "comparison",
+  "intro": [
+    "A resident buying immovable property from a person resident in India deducts one percent tax at source under Section 194-IA, but only if the sale consideration is fifty lakh rupees or more, and files that deduction through the simple online Form 26QB. The moment the seller is a non-resident, that familiar process does not apply at all. Section 195 of the Income-tax Act, 1961 takes over instead, it applies regardless of the sale value, and the paperwork, the rate and the person responsible for getting it right all change.",
+    "The obligation to deduct under Section 195 falls entirely on the buyer, resident or not, and getting it wrong exposes the buyer, not the seller, to interest, penalty and a disallowance under the Income-tax Act if the buyer is also claiming the property as a business asset. Many residential buyers discover this only after their lawyer or chartered accountant points out, partway through a deal, that the seller holds an NRI or OCI passport, by which point the sale agreement's payment schedule may already assume a deduction rate that is not correct."
+  ],
+  "sections": [
+    {
+      "heading": "Why Section 195 applies instead of Section 194-IA",
+      "paragraphs": [
+        "Section 194-IA, the one percent TDS rule most residential buyers already know, applies only where the transferor is a resident and the consideration is fifty lakh rupees or more. Section 195 governs any payment to a non-resident that is chargeable to tax in India, and a capital gain on the sale of Indian immovable property by a non-resident seller is squarely such a payment, so the two provisions are mutually exclusive on the same transaction depending on the seller's residential status, not on the transaction value.",
+        "This has one consequence buyers often miss: Section 195 carries no fifty lakh threshold at all. A flat bought from an NRI for twenty lakh rupees still requires TDS under Section 195, in a way the same flat bought from a resident seller for the same price would not require any deduction whatsoever, because it would fall below the Section 194-IA threshold. The seller's residential status, not the price, is what decides whether the buyer has any deduction obligation in the first place."
+      ]
+    },
+    {
+      "heading": "What rate the buyer actually deducts",
+      "paragraphs": [
+        "The rate is tied to the nature of the gain the sale produces for the seller, not to a flat percentage of the sale price the way Section 194-IA's one percent is. For a long-term capital gain, meaning the NRI has held the property for more than twenty-four months, gains arising from a transfer on or after 23 July 2024 are taxed at 12.5 percent without indexation, following the change made by the Finance (No. 2) Act, 2024, and the buyer deducts at this rate, plus applicable surcharge and a four percent health and education cess on top. A short-term gain, where the property was held for twenty-four months or less, is taxed at the seller's applicable slab rate instead, which a buyer has no independent way to know without the seller's cooperation.",
+        "Where the NRI seller has no PAN, Section 206AA requires the buyer to deduct at twenty percent or at the rate otherwise applicable, whichever is higher, a penal consequence meant to push non-resident sellers toward getting a PAN before selling rather than leaving the buyer to guess. Commentary on whether TDS should be computed on the full sale consideration or only on the seller's actual gain is not consistent, and in practice many buyers deduct conservatively on the full consideration precisely because they have no reliable way to verify the seller's cost of acquisition and resulting gain themselves."
+      ]
+    },
+    {
+      "heading": "The lower or nil deduction certificate route",
+      "paragraphs": [
+        "An NRI seller who does not want tax deducted at the default rate on the full sale value can apply to the jurisdictional Assessing Officer under Section 197 for a certificate authorising a lower, or in some cases nil, rate of deduction, using Form 13. The certificate, once issued, specifies the rate the buyer should actually apply, and a buyer who has a copy of a valid Section 197 certificate in hand before completing the payment can deduct at that lower rate instead of the default rate that would otherwise apply.",
+        "Getting this certificate takes time, commonly weeks rather than days, so sellers who know a sale is coming are generally advised to apply well before the transaction is due to close. A buyer who completes payment and deducts at the higher default rate before any certificate arrives has, as a practical matter, already deducted correctly for that payment, and a certificate obtained afterward does not retrospectively reduce what has already been withheld and deposited, though the seller can still claim a refund of the excess when filing a return."
+      ]
+    },
+    {
+      "heading": "Form 27Q, not Form 26QB, and the buyer's own compliance",
+      "paragraphs": [
+        "Where Section 194-IA applies, the buyer files Form 26QB, a single combined challan and statement that most buyers complete themselves online without needing a Tax Deduction and Collection Account Number. Section 195 works differently. The buyer needs a TAN, deposits the tax deducted, and reports the deduction through Form 27Q, the quarterly statement used for tax deducted on payments to non-residents, rather than through the simpler 26QB process used for resident sellers.",
+        "After depositing the tax and filing Form 27Q, the buyer issues the seller a Form 16A certificate recording what was deducted and deposited, which the NRI seller then uses to claim credit for that tax when filing an Indian income tax return. A buyer who skips obtaining a TAN, or who deducts the tax but never actually deposits it or files Form 27Q, leaves both the buyer and, in practice, the seller's ability to prove tax credit exposed, since the seller's return depends on the deduction actually being reported against the seller's PAN through this filing."
+      ]
+    },
+    {
+      "heading": "Practical points for a buyer closing the deal",
+      "paragraphs": [
+        "Establishing the seller's residential status before the sale agreement is signed, not after, avoids the common problem of a payment schedule built around the wrong provision. A seller who has acquired NRI status after buying the property, perhaps by moving abroad for work years after purchase, is still a non-resident for this purpose at the time of the sale, and the buyer's obligation turns on the seller's status at the time of transfer, not on where the property itself sits or how long ago it was bought.",
+        "Builders, housing finance companies and registration offices generally have no role in verifying whether the correct TDS provision was applied, so the risk of getting this wrong sits with the buyer's own diligence and, in a high-value transaction, with the conveyancing lawyer confirming the seller's status, obtaining a copy of any Section 197 certificate before payment, and ensuring the TAN-based Form 27Q filing actually happens rather than assuming the transaction can simply be run through the familiar Form 26QB process used for resident sellers."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the fifty lakh rupee threshold for TDS apply when buying from an NRI?",
+      "a": "No. That threshold belongs to Section 194-IA, which applies only to resident sellers. Section 195, which applies to NRI and other non-resident sellers, has no minimum sale value, so a buyer must deduct tax even on a low-value purchase from an NRI seller."
+    },
+    {
+      "q": "Can the buyer use Form 26QB when buying from an NRI?",
+      "a": "No. Form 26QB is for deductions under Section 194-IA on resident sellers. A buyer deducting tax under Section 195 for a non-resident seller needs a TAN and reports the deduction through Form 27Q instead, followed by a Form 16A certificate issued to the seller."
+    },
+    {
+      "q": "What if the NRI seller does not have a PAN?",
+      "a": "Section 206AA requires the buyer to deduct at twenty percent or the otherwise applicable rate, whichever is higher, when the seller has no PAN. This is one reason NRI sellers are commonly advised to obtain a PAN well before listing Indian property for sale."
+    },
+    {
+      "q": "How can the deduction be reduced from the default rate?",
+      "a": "The NRI seller applies to the jurisdictional Assessing Officer under Section 197, using Form 13, for a certificate authorising a lower or nil deduction rate. The buyer can only apply that lower rate once a valid certificate is actually in hand before the payment is made."
+    },
+    {
+      "q": "Is TDS deducted on the full sale price or only on the seller's profit?",
+      "a": "The correct legal position ties the rate to the nature of the gain, long-term or short-term, rather than to a flat percentage of the price. In practice, many buyers deduct on the full consideration because they cannot independently verify the seller's cost of acquisition, unless a Section 197 certificate fixes a different basis."
+    }
+  ],
+  "references": [
+    "Income-tax Act, 1961, Sections 195, 194-IA, 197 and 206AA",
+    "Finance (No. 2) Act, 2024, amending the long-term capital gains rate on immovable property to 12.5 percent without indexation for transfers on or after 23 July 2024",
+    "Income-tax Rules, Form 27Q (quarterly TDS statement for payments to non-residents), Form 16A and Form 13 (application for a lower or nil deduction certificate)"
+  ],
+  "sources": [
+    "https://www.incometaxindia.gov.in/w/what-is-the-applicable-tds-rate-when-a-non-resident-sells-immovable-property-in-india-",
+    "https://cleartax.in/s/tax-implications-for-nri-willing-to-sell-property-in-india",
+    "https://taxguru.in/income-tax/tds-implication-purchase-property-nri.html",
+    "https://www.businesstoday.in/personal-finance/real-estate/story/buying-from-an-nri-such-property-deals-trigger-higher-tds-heres-how-buyers-can-avoid-tax-pitfalls-469705-2025-03-27",
+    "https://www.dbs.com/in/wealth-tr/articles/nri-hub/live-enriched/tds-on-purchase-of-property-from-nri-india"
+  ],
+  "verification_notes": [
+    "AUDIENCE: NRI (the seller side of the transaction drives every rule in the guide) and the domestic or HNI buyer who must comply",
+    "TARGET QUERY: TDS on buying property from an NRI / Form 27Q vs Form 26QB / Section 195 rate for NRI property sale",
+    "DEMAND EVIDENCE: none seen as search-volume data; chosen because the site already has a guide on the NRI seller obtaining a lower deduction certificate but none written from the buyer's compliance side, which carries a distinct set of obligations (TAN, Form 27Q, no threshold) that a buyer-focused search would be looking for",
+    "No fifty lakh threshold under Section 195, as against the threshold under Section 194-IA, and Form 27Q (not Form 26QB) as the filing route: confirmed from incometaxindia.gov.in's own FAQ page and cross-checked against taxguru.in and the Motilal Oswal/Keka commentary found in results, which independently state the same threshold and form distinction.",
+    "12.5 percent LTCG rate without indexation for transfers on or after 23 July 2024, following the Finance (No. 2) Act, 2024: confirmed directly from the Income Tax Department's own FAQ page and cross-checked against Business Today's and DBS's 2025 commentary, both citing the same rate and effective date.",
+    "Section 206AA's higher deduction (20 percent or the otherwise applicable rate) where the seller has no PAN: confirmed from the Bankbazaar Section 195 explainer and cross-checked against the NoBroker and TaxGuru commentary, which state the same default rule.",
+    "Section 197 lower/nil deduction certificate via Form 13, issued by the jurisdictional Assessing Officer: confirmed from multiple sources (cleartax.in, taxguru.in) describing the same application route and form number consistently.",
+    "Disputed point on whether deduction should be computed on the full sale price or only the gain: flagged in the guide itself as unsettled in secondary commentary, since the search results showed genuine disagreement between sources on this point, consistent with the instruction to say plainly where the law or practice is unsettled rather than pick one side.",
+    "Whether an NRI seller who bought property before 23 July 2024 can still choose the older 20 percent with indexation option: left out of the guide entirely because the two sources found gave conflicting answers specifically for NRI sellers (as opposed to resident sellers, where the grandfathering rule was consistently described), so the point was dropped rather than stated either way, per the instruction to omit a fact that cannot be confirmed from two agreeing sources."
+  ]
+}
