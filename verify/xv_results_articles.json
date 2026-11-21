@@ -2004,5 +2004,49 @@
       "https://future.indiankanoon.org/doc/879098/"
     ],
     "note": "The Section 213/57 compulsory-probate rule for Hindu wills within the Calcutta, Madras and Bombay ordinary original civil jurisdictions, and its inapplicability outside those territories (per the Supreme Court's (2001) 4 SCC 325), are independently confirmed. The draft's claim that West Bengal's ad valorem probate fee is payable at the rate prevailing on the date of grant rather than the date of filing is independently confirmed via Sudipta Ghosh v. Shakuntala Roy Chowdhury (AIR 2014 Cal 237), a case the draft itself did not name but whose holding matches exactly what the draft describes in general terms -- an appropriately cautious choice given the draft could not confirm the citation itself. Sections 263, 273, 371, 372, 380, 381, 383 and the District Delegate/Original Side jurisdictional split rest on stable, undisputed statutory text. No errors found."
+  },
+  {
+    "file": "_drafts/articles/108-apostille-consular-attestation-nri-documents-article.json",
+    "verdict": "FIX",
+    "claims_checked": 11,
+    "evidence": [
+      "https://www.hcch.net/en/news-archive/details/?varevent=857",
+      "https://www.hcch.net/en/news-archive/details?varevent=887",
+      "https://www.fragomen.com/insights/saudi-arabia-accession-to-hagues-apostille-convention.html",
+      "https://www.londonchamber.co.uk/news-insights/news/lcci-updates/saudi-arabia-joins-the-hague-convention/"
+    ],
+    "note": "India's Hague membership since 2005, and the UAE's and Qatar's non-membership of the Apostille Convention, are confirmed (Qatar's 2026 HCCH organisational membership is separate from, and does not make it a party to, the Apostille Convention itself). However, the draft's central 'Gulf exception' claim is wrong for Saudi Arabia: the HCCH's own news archive confirms Saudi Arabia acceded to the Apostille Convention with effect from 7 December 2022, independently corroborated by Fragomen and the London Chamber of Commerce. The draft groups Saudi Arabia with the UAE and Qatar as a non-Hague country throughout (a key_point, the 'Gulf exception' section heading and two of its paragraphs, and an FAQ that explicitly says Saudi Arabia is 'treated the same way as the UAE'), which is now incorrect and could cause an NRI with a Saudi-executed document to be routed through the slower, unnecessary consular-attestation chain. Fixes below correct each occurrence while preserving the article's accurate treatment of the UAE and Qatar.",
+    "fixes": [
+      {
+        "find": "The United Arab Emirates, Saudi Arabia and Qatar, home to a very large share of the NRI population, are not parties to the Hague Apostille Convention, so a power of attorney or affidavit executed there for use in India, or an Indian document headed there, must go through consular attestation rather than apostille, regardless of how routine the document itself is.",
+        "replace": "The United Arab Emirates and Qatar, home to a very large share of the NRI population, are not parties to the Hague Apostille Convention, so a power of attorney or affidavit executed there for use in India, or an Indian document headed there, must go through consular attestation rather than apostille, regardless of how routine the document itself is. Saudi Arabia, by contrast, acceded to the Convention with effect from 7 December 2022 and is now a member, so a document executed there can be apostilled instead.",
+        "reason": "Saudi Arabia has been a party to the Hague Apostille Convention since 7 December 2022 (confirmed on HCCH's own news archive), so it should not be grouped with the UAE and Qatar as a non-member."
+      },
+      {
+        "find": "The Gulf exception: why the UAE, Saudi Arabia and Qatar are different",
+        "replace": "The Gulf exception: why the UAE and Qatar are different, and why Saudi Arabia no longer is",
+        "reason": "Section heading corrected to reflect Saudi Arabia's 2022 accession to the Apostille Convention."
+      },
+      {
+        "find": "A very large share of the NRI population lives and works in the United Arab Emirates, Saudi Arabia and Qatar, and none of the three is a party to the Hague Apostille Convention. A power of attorney or an affidavit executed in Dubai, Abu Dhabi, Riyadh or Doha for use in India cannot be apostilled at all; it has to go through the full consular attestation chain, typically notarisation in the Emirate or Kingdom concerned, authentication by that country's own Ministry of Foreign Affairs, and attestation by the Indian embassy or consulate there, before the document is ready to use in India.",
+        "replace": "A very large share of the NRI population lives and works in the United Arab Emirates, Saudi Arabia and Qatar. Of the three, the UAE and Qatar are not parties to the Hague Apostille Convention, so a power of attorney or an affidavit executed in Dubai, Abu Dhabi or Doha for use in India cannot be apostilled at all; it has to go through the full consular attestation chain, typically notarisation in the Emirate or country concerned, authentication by that country's own Ministry of Foreign Affairs, and attestation by the Indian embassy or consulate there, before the document is ready to use in India. Saudi Arabia is different: since acceding to the Convention with effect from 7 December 2022, a document executed in Riyadh or elsewhere in the Kingdom for use in India can instead be apostilled by the Saudi competent authority, and a family should confirm the current position given how recently it changed.",
+        "reason": "Corrects the same Saudi Arabia mischaracterisation in the section's opening paragraph."
+      },
+      {
+        "find": "Other Gulf and Middle Eastern jurisdictions follow the same non-member pattern as the UAE, Saudi Arabia and Qatar, and a client relocating within the region should not assume that a neighbouring country's status mirrors the one they are used to;",
+        "replace": "Gulf and Middle Eastern jurisdictions do not all follow the same pattern: Bahrain and Oman, like Saudi Arabia, are Convention members, while the UAE and Qatar are not, so a client relocating within the region should not assume that a neighbouring country's status mirrors the one they are used to;",
+        "reason": "The original sentence incorrectly implied all Gulf states (including Saudi Arabia) share the same non-member status as the UAE and Qatar."
+      },
+      {
+        "find": "Yes. Neither Saudi Arabia nor Qatar is a party to the Hague Apostille Convention, so documents executed there for use in India, and Indian documents headed there, follow the same consular attestation chain described for the UAE rather than the apostille route.",
+        "replace": "Only Qatar is. Qatar is not a party to the Hague Apostille Convention, so documents executed there for use in India, and Indian documents headed there, follow the same consular attestation chain described for the UAE. Saudi Arabia is different: it acceded to the Convention with effect from 7 December 2022, so a Saudi-executed document can now be apostilled rather than routed through consular attestation.",
+        "reason": "Corrects the FAQ answer, which repeated the incorrect claim that Saudi Arabia is a non-Hague country."
+      },
+      {
+        "find": "Hague membership is the fact that decides which chain applies, and the Gulf countries, home to a very large share of the NRI population, sit outside that system in a way that genuinely changes the process rather than merely adding a formality.",
+        "replace": "Hague membership is the fact that decides which chain applies, and two of the Gulf countries with the largest NRI populations, the UAE and Qatar, sit outside that system in a way that genuinely changes the process rather than merely adding a formality; Saudi Arabia, the third, acceded to the Convention in December 2022 and no longer does.",
+        "reason": "Corrects the conclusion's blanket statement that 'the Gulf countries' sit outside the Apostille system, which is no longer accurate for Saudi Arabia."
+      }
+    ]
   }
 ]
