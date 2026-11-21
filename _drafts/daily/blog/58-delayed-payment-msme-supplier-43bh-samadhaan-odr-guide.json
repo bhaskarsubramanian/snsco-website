@@ -1,0 +1,97 @@
+{
+  "slug": "delayed-payment-msme-supplier-43bh-samadhaan-odr-guide",
+  "title": "Delayed Payment to an MSME Supplier: the Section 43B(h) Tax Hit and How to Actually Recover the Money",
+  "seo_title": "MSME Delayed Payment: Section 43B(h) and Recovery Route",
+  "meta_description": "What happens when a business does not pay a micro or small supplier in time: the Section 43B(h) tax disallowance, the interest under the MSMED Act, and where to file to recover the dues.",
+  "practice_area": "Commercial Litigation",
+  "format": "plain-English guide",
+  "intro": [
+    "A business that buys goods or services from a supplier registered as a micro or small enterprise under the Micro, Small and Medium Enterprises Development Act, 2006 is bound by a payment clock that most ordinary commercial contracts do not carry. Section 15 of that Act fixes the outer limit at forty-five days from the date of acceptance of the goods or services where there is a written agreement, and at fifteen days where there is none, and a buyer cannot contract around that limit by simply writing a longer credit period into the purchase order.",
+    "Two separate consequences follow a late payment, and they run on different tracks. The supplier can pursue recovery of the principal and statutory interest under the MSMED Act itself, through the Micro and Small Enterprises Facilitation Council. The buyer, quite apart from what the supplier does, can lose the income tax deduction for that expense under Section 43B(h) of the Income-tax Act, 1961, a clause the Finance Act, 2023 inserted with effect from assessment year 2024-25. Many buyers only discover the second consequence at the time of their tax audit, long after the payment itself should have been made."
+  ],
+  "sections": [
+    {
+      "heading": "The payment clock under Section 15",
+      "paragraphs": [
+        "Section 15 of the MSMED Act applies once a micro or small enterprise supplies goods or renders services to any buyer, and it runs from the date of acceptance of the goods or services, or from the date the goods or services are deemed to have been accepted where the buyer raises no objection in writing within the time fixed for that purpose. Where the buyer and the registered supplier have a written agreement on the credit period, that period cannot exceed forty-five days from acceptance or deemed acceptance. Where there is no written agreement at all, the limit is fifteen days.",
+        "The buyer's own purchase order terms, if they promise ninety days or sixty days credit, do not override Section 15. Section 24 of the MSMED Act gives its provisions on delayed payment an overriding effect over anything inconsistent in any other law or in any instrument having effect under another law, so a longer credit period written into a contract does not stop the statutory clock from running, even though the parties may have agreed to it commercially."
+      ]
+    },
+    {
+      "heading": "What happens once payment is late: Section 16 interest",
+      "paragraphs": [
+        "Section 16 of the MSMED Act makes a buyer who does not pay within the Section 15 limit liable to pay compound interest with monthly rests, at three times the bank rate notified by the Reserve Bank of India, running from the date immediately after the agreed or statutory payment date until the date actual payment is made. This interest is not something the supplier has to separately negotiate or prove damages for. It accrues automatically once the clock in Section 15 has run out, whether or not the supplier has raised it yet with the buyer.",
+        "This interest matters well beyond the immediate relationship, because of a rule described below on the income tax side: unlike the unpaid principal, which is simply deferred for tax purposes until it is actually paid, the Section 16 interest itself can never be claimed by the buyer as a deductible business expense. A buyer who settles a late invoice together with accrued interest therefore pays the interest out of post-tax money, which makes the cost of delay considerably higher than the headline interest rate suggests."
+      ]
+    },
+    {
+      "heading": "Recovering the money: the Facilitation Council and the move to ODR",
+      "paragraphs": [
+        "A supplier who is not paid within time can approach the Micro and Small Enterprises Facilitation Council constituted for the state, which has the power under the Act to conduct conciliation and, failing settlement, to take up or refer the dispute to arbitration, with the proceedings then governed in material respects by the Arbitration and Conciliation Act, 1996. For years the standard entry point for a micro or small supplier was the MSME Samadhaan portal, which the Ministry of MSME had operated since October 2017 for filing delayed-payment references with the Facilitation Council electronically.",
+        "Reporting on how suppliers file these claims describes a shift during 2025, with a new MSME ODR (online dispute resolution) portal going live and, from 15 October 2025, taking over new delayed-payment filings, while Samadhaan continues to process references already pending on it from before that date. A supplier filing a fresh case today should confirm with the Ministry of MSME's current guidance, or with the Facilitation Council for its state, which portal is presently taking new references, since commentary on this transition is not fully consistent and the position can change again.",
+        "One limitation that recurs across commentary on the Act is that these remedies run only to suppliers registered as micro or small enterprises, not to medium enterprises, and there is a view in some commentary that a trader buying and reselling goods, as opposed to a manufacturer or service provider, may not qualify for the same protection, though this question has drawn mixed treatment and a supplier unsure of its own classification should check its Udyam registration category before relying on the Section 15 and 16 route."
+      ]
+    },
+    {
+      "heading": "The buyer's tax problem: Section 43B(h)",
+      "paragraphs": [
+        "Section 43B of the Income-tax Act, 1961 is the provision that already denies a deduction for certain statutory and contractual liabilities unless they are actually paid, rather than merely accrued, by the time the return is filed. Clause (h), inserted by the Finance Act, 2023 with effect from assessment year 2024-25, extends this same paid-not-accrued rule to any sum payable to a micro or small enterprise for goods supplied or services rendered, where the payment is not made within the time limit specified in Section 15 of the MSMED Act.",
+        "In practical terms, if a buyer has not actually paid a micro or small supplier within the Section 15 time limit by the end of the financial year, that unpaid amount cannot be claimed as a deduction in that year's return, even though it would ordinarily have been deductible on an accrual basis under normal accounting. The deduction is not lost forever. It becomes available in the year the payment is actually made, so a buyer who settles a dues position six months into the next financial year gets to claim the expense in that later year's computation instead, with the amount separately reported in the tax audit report under Form 3CD.",
+        "A buyer who pays well within the next financial year, but after the original Section 15 deadline, still avoids the Section 43B(h) disallowance as long as payment happens before the return for the earlier year is actually filed, since the test is about actual payment timing relative to the return, not merely about crossing into the next year. This makes year-end supplier reconciliation, specifically checking which invoices to micro and small enterprise vendors remain unpaid as on 31 March, a routine every finance team dealing with such vendors now has to run."
+      ]
+    },
+    {
+      "heading": "What this means for a buyer and a supplier in practice",
+      "paragraphs": [
+        "For a buyer, the practical takeaway is that a vendor's MSME registration status changes the economics of a delayed payment decision considerably. Treating a micro or small enterprise's invoice the same way as a large corporate vendor's invoice, on the assumption that a slightly late payment is a commercial matter to be sorted out later, now carries a tax cost on top of the statutory interest, and the tax cost cannot be avoided even by eventually paying the interest, since that interest itself stays permanently non-deductible.",
+        "For a supplier, the Section 43B(h) disallowance gives an unexpected lever in payment negotiations that has nothing to do with litigation. A buyer facing a tax audit has its own reason, independent of any threat of a Facilitation Council reference, to clear outstanding dues to MSME vendors before the financial year closes. Suppliers who understand this timing can use it to press for payment around year end even where they are reluctant to start a formal recovery proceeding against a buyer they want to keep as a customer."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a buyer and a micro or small supplier agree to a credit period longer than forty-five days?",
+      "a": "They can write a longer period into the contract, but Section 24 of the MSMED Act gives Section 15's limit an overriding effect over any inconsistent agreement. The statutory forty-five day cap, where there is a written agreement, still governs when interest starts running and when the Section 43B(h) tax disallowance is triggered, regardless of what the contract says."
+    },
+    {
+      "q": "Does Section 43B(h) apply to payments to medium enterprises as well?",
+      "a": "No. Section 43B(h) refers to Section 15 of the MSMED Act, which gives its delayed-payment protection to micro and small enterprises. Medium enterprises are registered under the same Udyam system but generally fall outside this particular remedy and this particular tax disallowance, so a buyer's exposure turns on the supplier's registered category."
+    },
+    {
+      "q": "If I pay a late invoice next year, do I lose the deduction permanently?",
+      "a": "No, only the timing changes for the principal amount. Section 43B(h) defers the deduction to the year in which payment is actually made rather than disallowing it outright. The interest payable under Section 16 of the MSMED Act is the part that can never be claimed as a deduction, in any year."
+    },
+    {
+      "q": "Where do I file a delayed-payment complaint against a buyer today?",
+      "a": "Complaints go to the Micro and Small Enterprises Facilitation Council for the relevant state. Reports describe new filings moving to an online dispute resolution portal from October 2025, with the earlier MSME Samadhaan portal continuing to handle cases already pending on it. Check current guidance from the Ministry of MSME or the state Facilitation Council before filing."
+    },
+    {
+      "q": "Is interest under Section 16 automatic, or does the supplier have to claim it specifically?",
+      "a": "The interest accrues by operation of Section 16 once the Section 15 payment period has passed, whether or not the supplier has raised it. A supplier bringing a recovery claim should still expressly claim this compound interest in the reference to the Facilitation Council, since a buyer settling only the principal has not fully discharged the statutory liability."
+    }
+  ],
+  "references": [
+    "Micro, Small and Medium Enterprises Development Act, 2006, Sections 15, 16, 18 and 24",
+    "Income-tax Act, 1961, Section 43B, clause (h), inserted by the Finance Act, 2023 with effect from assessment year 2024-25",
+    "Income-tax Rules, Form 3CD, clause 22 (reporting of amounts disallowed under Section 43B)",
+    "Ministry of MSME, MSME Samadhaan portal (launched October 2017) and the MSME online dispute resolution (ODR) portal"
+  ],
+  "sources": [
+    "https://taxguru.in/income-tax/section-43bh-msme-payment.html",
+    "https://taxmann.com/post/blog/faqs-understanding-section-43b-h-of-the-income-tax-act",
+    "https://itatonline.org/digest/wp-content/uploads/2024/02/Section-43Bh-Final.pdf",
+    "https://yourstory.com/2026/09/msme-odr-portal-small-businesses-recover-delayed-payments",
+    "https://ssrana.in/articles/payments-micro-and-small-enterprises/",
+    "https://ksandk.com/labour-employment/mechanism-of-debt-recovery-for-msmes/"
+  ],
+  "verification_notes": [
+    "AUDIENCE: HNI (owners of family businesses and mid-size companies that buy from MSME vendors and face both a tax and a recovery exposure on late payments)",
+    "TARGET QUERY: what happens if I pay an MSME supplier late / Section 43B(h) MSME payment disallowance / how to recover delayed payment from a buyer under MSMED Act",
+    "DEMAND EVIDENCE: none seen as search-volume data; chosen because 43B(h) is a live, widely discussed compliance point for every financial year end from FY 2023-24 onward and the site did not already carry a guide combining the tax-side consequence with the supplier's recovery route",
+    "45-day (with written agreement) and 15-day (without one) payment limit under Section 15, and Section 24's overriding effect on inconsistent contract terms: confirmed from taxguru.in's and ksandk.com's description of Section 15 and 24, both stating the same day limits and the overriding-effect rule consistently.",
+    "Section 16 compound interest at three times the RBI-notified bank rate, with monthly rests, running from the day after the due date: confirmed from ksandk.com and ssrana.in, both describing the same rate formula and compounding method for MSMED Act interest.",
+    "Section 43B(h) inserted by the Finance Act 2023, effective AY 2024-25, deferring (not permanently denying) the principal deduction to the year of actual payment, while Section 16 interest is never deductible, reported in Form 3CD clause 22: confirmed from taxguru.in and taxmann.com/itatonline.org commentary, which independently describe the same effective date, the same deferral mechanic for the principal, and the same permanent non-deductibility of the MSMED interest component.",
+    "Shift from the MSME Samadhaan portal to an MSME ODR portal for new filings from 15 October 2025, with Samadhaan continuing to handle pre-existing pending cases: described as reported by yourstory.com and referenced consistently against other 2025-26 commentary found; flagged in the guide itself as an area where secondary sources are not fully consistent, since one 2026 guide still described the Samadhaan filing process as current, so the reader is told to confirm the current portal rather than being given a single certain answer.",
+    "View that traders (as distinct from manufacturers or service providers) may not qualify for MSMED Act delayed-payment protection: stated only as 'a view in some commentary' and described as drawing mixed treatment, because only one source in this run made the claim in clear terms and it was not independently confirmed from a second source, consistent with the instruction to say plainly where a position is unsettled rather than state it as settled law."
+  ]
+}

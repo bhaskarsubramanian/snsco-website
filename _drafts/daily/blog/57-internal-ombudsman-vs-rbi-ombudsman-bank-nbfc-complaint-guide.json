@@ -1,0 +1,96 @@
+{
+  "slug": "internal-ombudsman-vs-rbi-ombudsman-bank-nbfc-complaint-guide",
+  "title": "Internal Ombudsman vs RBI Ombudsman: Where a Bank or NBFC Complaint Actually Goes",
+  "seo_title": "Internal Ombudsman vs RBI Ombudsman: Key Differences",
+  "meta_description": "How a bank or NBFC's own Internal Ombudsman differs from the RBI Ombudsman, when each applies, and the order in which a customer complaint must move between them.",
+  "practice_area": "Banking & Finance",
+  "format": "comparison",
+  "intro": [
+    "A customer who complains to a bank or an NBFC in India can end up dealing with two different ombudsmen without realising they are not the same office. The first is an Internal Ombudsman, an apex-level complaint reviewer sitting inside the regulated entity itself, created under Reserve Bank of India directions and currently governed by the Master Direction on Internal Ombudsman for Regulated Entities, 2023, with a separate set of directions issued for NBFCs dated 14 January 2026. The second is the RBI's own Ombudsman, an external, statutory redress mechanism run by the Reserve Bank under the Reserve Bank Integrated Ombudsman Scheme, which was replaced from 1 July 2026 by a revised scheme, with complaints filed before that date continuing under the 2021 version.",
+    "The two exist at different stages of the same complaint and serve different functions. An Internal Ombudsman has no power to fine the entity or force a settlement and generally does not deal directly with the customer at all. The RBI Ombudsman does deal with the customer, can pass an award, and sits entirely outside the bank or NBFC against which the complaint is made. Confusing which one a complaint is at, or assuming an entity's rejection is the end of the road, costs customers time they do not need to lose."
+  ],
+  "sections": [
+    {
+      "heading": "What the Internal Ombudsman actually does",
+      "paragraphs": [
+        "An Internal Ombudsman is appointed by the bank or NBFC's own board, but functions at arm's length from the entity's regular grievance machinery and reports administratively in a way designed to keep management from influencing individual decisions. Under the current directions, before a regulated entity can reject a complaint fully or partly, or before it closes a complaint without giving the customer everything asked for, the file has to be placed before the Internal Ombudsman for review. The IO can agree with the proposed rejection, or can direct the entity to resolve the complaint in the customer's favour, but the customer is ordinarily not a party to this internal review and does not get to argue the point before the IO directly.",
+        "The scheme's logic is to catch bad rejections before they go out the door, not to give the customer a second forum. Banks have had some form of this mechanism since a 2018 scheme, NBFCs were brought in later by a circular dated 15 November 2021, and the rules have since been consolidated and refreshed, most recently for NBFCs in January 2026. A customer who gets a final rejection letter from a bank or a large NBFC covered by these directions can usually assume, without being told so explicitly, that an Internal Ombudsman has already looked at the file once before that letter went out."
+      ]
+    },
+    {
+      "heading": "What the RBI Ombudsman does differently",
+      "paragraphs": [
+        "The RBI Ombudsman is a different office altogether, created by the Reserve Bank under its own scheme rather than appointed by the bank. A complaint does not lie to the RBI Ombudsman unless the complainant has first taken the grievance up in writing with the regulated entity, and either got no reply within the period fixed by the scheme, or is dissatisfied with the entity's response, or the entity rejected the complaint outright. The RBI Ombudsman then examines the dispute independently of the entity and, where the complaint is made out, can pass an award that includes compensation within the limits set by the scheme, something an Internal Ombudsman cannot do.",
+        "Filing is free and does not need a lawyer. Complaints go through the Reserve Bank's Complaint Management System at cms.rbi.org.in, or by writing to the Ombudsman, and the customer does not have to work out which of the Reserve Bank's regional offices to approach, since the system allocates the complaint. The coverage spans commercial banks, most NBFCs, payment system participants, many urban cooperative banks and credit information companies, though some categories of NBFC fall outside the scheme and that should be checked before assuming the route is open."
+      ]
+    },
+    {
+      "heading": "The order a complaint actually has to follow",
+      "paragraphs": [
+        "The practical sequence is: complain in writing to the bank or NBFC first, let the entity's own process run, and if the entity proposes to reject the complaint the Internal Ombudsman is supposed to review that proposal before the rejection is communicated. Only after that, if the customer remains dissatisfied, or the entity does not respond within the time the scheme allows, or the final response still rejects the complaint, does the matter become ripe for the RBI Ombudsman. A complaint taken to the RBI Ombudsman before the entity has even been given a chance to respond will usually be sent back on the ground that the internal remedy was not exhausted first.",
+        "There is one more escalation point beyond the RBI Ombudsman for the entity's side: an Appellate Authority can be approached against an RBI Ombudsman's award or against a closure the entity disputes, within the time limit the scheme fixes. A customer, by contrast, generally has to accept a reasoned closure or pursue the grievance through other legal remedies such as a consumer complaint or a civil suit, since the Ombudsman's own scheme does not usually give the customer a further right of appeal against its own Ombudsman's decision to close a complaint."
+      ]
+    },
+    {
+      "heading": "Why this distinction gets missed",
+      "paragraphs": [
+        "Customers, and sometimes bank staff drafting rejection letters, often use the word 'ombudsman' loosely, so a letter saying a complaint has been reviewed by the ombudsman does not tell the reader which one. Because the Internal Ombudsman's review happens before the final rejection letter is issued, a customer reading that letter has effectively already had the internal check done and gains nothing by writing again to the same entity asking for an internal ombudsman review, since that stage is already behind them by the time the letter reaches the customer's hands.",
+        "The two schemes also changed names and version numbers close together, which adds to the confusion. The Reserve Bank Integrated Ombudsman Scheme, 2021 consolidated three older external schemes, the Banking Ombudsman Scheme of 2006, the NBFC Ombudsman Scheme of 2018 and the Digital Transactions scheme of 2019, into one external window, and that external scheme itself was then replaced from 1 July 2026, while the separate internal mechanism kept being updated on its own schedule through 2023 and January 2026. Reading a complaint rejection letter against the date it was issued, rather than assuming the rules have stayed still, avoids most of the confusion."
+      ]
+    },
+    {
+      "heading": "What to check before complaining",
+      "paragraphs": [
+        "Before filing anything, a customer should confirm that the entity is actually covered: most scheduled commercial banks and a wide band of NBFCs are, but certain categories of NBFC and certain products sit outside both schemes, and the coverage list is updated from time to time. A written complaint to the entity, kept on file with an acknowledgement or a tracking number, is the document that later proves the internal step was taken if the matter reaches the RBI Ombudsman and the entity disputes the timeline.",
+        "A complaint that raises a pure contractual dispute over interest calculation, a disputed transaction, mis-selling of a product, or delay in closing an account or releasing security after a loan is repaid, generally fits within what either ombudsman can look at. A dispute that genuinely turns on a complex factual or valuation question, or one already pending before a court or a consumer commission, is less likely to be entertained, since both schemes expect the ombudsman route to be used for grievances the entity can be asked to fix rather than as a substitute for litigation that is already running elsewhere."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I complain directly to the RBI Ombudsman without first writing to my bank?",
+      "a": "No. Both the Internal Ombudsman mechanism and the RBI Ombudsman scheme require the customer to first complain in writing to the bank or NBFC. The RBI Ombudsman route opens only once the entity has rejected the complaint, replied unsatisfactorily, or failed to respond within the time the scheme allows."
+    },
+    {
+      "q": "Can I ask to speak to the Internal Ombudsman myself?",
+      "a": "Generally no. The Internal Ombudsman reviews the entity's proposed rejection internally before the final response goes out to the customer. It is not a forum the customer approaches directly or argues a case before, unlike the RBI Ombudsman, which the customer can approach and which does hear the customer's side."
+    },
+    {
+      "q": "Does the RBI Ombudsman charge a fee?",
+      "a": "No. Filing a complaint with the RBI Ombudsman is free, whether done online through the Complaint Management System at cms.rbi.org.in or by writing to the office. No lawyer is required, though a customer is free to take advice before filing."
+    },
+    {
+      "q": "What happens if I am unhappy with the RBI Ombudsman's decision?",
+      "a": "The regulated entity can approach the Appellate Authority named in the scheme against an award within the time limit fixed. For the customer, the scheme does not generally provide a further appeal against the Ombudsman's own closure, so other remedies such as a consumer complaint or civil suit may need to be considered for an unresolved dispute."
+    },
+    {
+      "q": "Are all NBFCs covered by these two schemes?",
+      "a": "Most NBFCs registered with the Reserve Bank are covered, but certain categories are excluded under both the Internal Ombudsman directions and the external Ombudsman scheme. It is worth checking the regulated entity's own disclosures or the Reserve Bank's published coverage list before assuming either route applies to a specific NBFC."
+    }
+  ],
+  "references": [
+    "Reserve Bank of India (Internal Ombudsman for Regulated Entities) Directions, 2023",
+    "Reserve Bank of India (Internal Ombudsman) Directions for Non-Banking Financial Companies, dated 14 January 2026",
+    "Reserve Bank - Integrated Ombudsman Scheme, 2021, and its 2026 replacement effective 1 July 2026",
+    "RBI circular dated 15 November 2021 extending Internal Ombudsman coverage to NBFCs",
+    "Banking Ombudsman Scheme, 2006; NBFC Ombudsman Scheme, 2018; Ombudsman Scheme for Digital Transactions, 2019 (consolidated into the 2021 Integrated Scheme)"
+  ],
+  "sources": [
+    "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12586",
+    "https://website.rbi.org.in/documents/d/rbi/the-reserve-bank-integrated-ombudsman-scheme-2021",
+    "https://www.business-standard.com/finance/news/rbi-mandates-auto-escalation-of-unresolved-complaints-to-internal-ombudsman-126011401228_1.html",
+    "https://www.businesstoday.in/amp/personal-finance/banking/story/rbi-revamps-customer-grievance-redressal-heres-what-changes-for-bank-nbfc-customers-541259-2026-07-06",
+    "https://vinodkothari.com/wp-content/uploads/2026/01/Internal-Ombudsman_Final.pdf",
+    "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/RBIOS01072026.pdf"
+  ],
+  "verification_notes": [
+    "AUDIENCE: HNI (individuals and family businesses holding multiple bank, NBFC and card relationships who hit a complaint that gets rejected)",
+    "TARGET QUERY: difference between internal ombudsman and RBI ombudsman / where to complain against a bank or NBFC in India",
+    "DEMAND EVIDENCE: none seen as search-volume data; chosen because the site has separate guides on filing with the RBI Banking Ombudsman, the Insurance Ombudsman and the Electricity Ombudsman but nothing distinguishing the Internal Ombudsman mechanism from the RBI's own Ombudsman, and the two are confirmed live and freshly updated topics as on this date",
+    "Internal Ombudsman origin (2018 banks scheme, NBFCs added by circular dated 15 November 2021, consolidated Master Direction 2023, NBFC-specific directions dated 14 January 2026): confirmed from the RBI's own Master Direction page (rbi.org.in, id=12586) and cross-checked against vinodkothari.com's commentary and the Business Standard report on the January 2026 auto-escalation mandate, which describe the same chronology.",
+    "Requirement to complain to the entity first before either ombudsman, and that the Internal Ombudsman reviews proposed rejections before they are communicated: confirmed from the RBI's Master Direction description and the Business Standard report, both describing the review-before-rejection step and the 30-day internal response requirement consistently.",
+    "RB-IOS 2021 replaced by a new scheme effective 1 July 2026, with pre-1 July 2026 complaints continuing under the 2021 rules: confirmed from the RBI's own 1 July 2026 FAQ PDF (RBIOS01072026.pdf) and cross-checked against the Business Today report describing the same transition date and the three merged 2006/2018/2019 schemes.",
+    "RBI Ombudsman being free, filed through cms.rbi.org.in, and able to pass awards including compensation, while the entity (not the customer) has an appellate route: described in general terms from the RBI's own scheme FAQ documents; the specific compensation ceiling and the precise response-time windows were not restated as figures because the two RBI FAQ pages found gave the structure but not a single consistent rupee or day figure, so the guide states the mechanism without a specific number.",
+    "Coverage exclusions for certain NBFC categories: stated only in general terms, since the search results did not give a complete, current list of excluded NBFC categories to confirm from two sources; the guide tells the reader to check rather than naming the excluded categories."
+  ]
+}
