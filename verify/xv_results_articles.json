@@ -1948,5 +1948,39 @@
       "https://www.khaitanco.com/sites/default/files/2026-06/Ergo_NDI_Third%20Amendment%20Rules_18062026.pdf"
     ],
     "note": "The Foreign Exchange Management (Non-debt Instruments) (Third Amendment) Rules, 2026 (S.O. 3030(E), 12 June 2026), the eligibility widening from NRI/OCI to any individual resident outside India, the individual ceiling moving from 5% to 10% and the aggregate ceiling from 10% to 24%, and the new designated repatriable rupee account are all independently confirmed across multiple outlets (RBI press materials, TaxGuru, Khaitan, Business Today, 5paisa, Khaleej Times). All four related_pages paths confirmed to exist on the live search index. No duplicate found on the live site."
+  },
+  {
+    "file": "_drafts/articles/105-winding-up-foreign-owned-subsidiary-india-article.json",
+    "verdict": "FIX",
+    "claims_checked": 14,
+    "evidence": [
+      "https://ibbi.gov.in/uploads/legalframwork/5b25d004d2f2c246bd738a8f2f84ce03.pdf",
+      "https://ksandk.com/insolvency/voluntary-liquidation-amendment/",
+      "https://blog.ipleaders.in/demystification-strike-off-provisions-companies-act-2013/",
+      "https://website.rbi.org.in/documents/d/rbi/annual-return-on-foreign-liabilities-and-assets-fla-under-fema-1999"
+    ],
+    "note": "Section 59(1)-(5) declaration-of-solvency mechanics, the two-thirds creditor approval and seven-day notification, the Section 248/249 strike-off restrictions, the IBBI 90/270-day timelines, and the FLA return's continued applicability with its 3x penalty are all independently confirmed. However, the draft's repeated claim that 'Section 59(8) of the IBC' imposes criminal/misconduct liability on a director for a false solvency declaration is incorrect: Section 59(8) actually empowers the Adjudicating Authority to pass the dissolution order on the liquidator's application under sub-section (7) -- it has nothing to do with false declarations. This mischaracterisation appears in a key_point, a body paragraph, the practical-sequence section, and an FAQ. Fixes below remove the wrong citation while keeping the accurate underlying point (the declaration is a genuine, affidavit-backed certification, not a formality).",
+    "fixes": [
+      {
+        "find": "A false declaration of solvency in a voluntary liquidation attracts criminal liability for the directors who made it under Section 59(8) of the IBC, which makes the solvency declaration a genuine certification rather than a formality to be signed without proper verification",
+        "replace": "A false declaration of solvency in a voluntary liquidation is not a formality: Section 59(3) requires it to be verified by affidavit and based on a full inquiry into the company's affairs, which makes the solvency declaration a genuine certification the directors who sign it carry real personal exposure on if it later proves wrong",
+        "reason": "Section 59(8) of the IBC concerns the Adjudicating Authority's dissolution order on the liquidator's application, not director liability for a false solvency declaration; no such criminal-liability provision was confirmed in Section 59 itself."
+      },
+      {
+        "find": "Section 59(8) of the Code makes a director who makes a solvency declaration without reasonable grounds for believing it to be true liable for misconduct, with criminal consequences attaching to a false declaration, which means the Indian directors of a foreign-owned subsidiary",
+        "replace": "Section 59(3) requires the declaration itself to be verified by affidavit, based on a full inquiry into the company's affairs, and to confirm the liquidation is not intended to defraud any person, which means the Indian directors of a foreign-owned subsidiary",
+        "reason": "Same mischaracterisation of Section 59(8); corrected to cite the actual affidavit and inquiry requirement in Section 59(3)."
+      },
+      {
+        "find": "given the personal exposure Section 59(8) creates for a declaration later shown to lack reasonable grounds",
+        "replace": "given the affidavit-backed certification Section 59(3) requires, and the personal exposure directors can face for a declaration later shown to lack reasonable grounds",
+        "reason": "Removes the incorrect Section 59(8) citation from the practical-sequence recommendation."
+      },
+      {
+        "find": "Section 59(8) of the IBC makes a director who signs a solvency declaration without reasonable grounds for believing it true liable for misconduct, with criminal consequences attaching. The declaration should be based on properly prepared, current accounts and asset valuations rather than signed as a formality.",
+        "replace": "Section 59(3) requires the declaration to be verified by affidavit, based on a full inquiry into the company's affairs and audited financials, and to confirm the liquidation is not intended to defraud any person. It should be based on properly prepared, current accounts and asset valuations rather than signed as a formality, since directors carry real exposure if a declaration later turns out to have been made without genuine verification.",
+        "reason": "Corrects the FAQ answer, which repeated the same incorrect Section 59(8) citation."
+      }
+    ]
   }
 ]
