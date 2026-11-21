@@ -1982,5 +1982,16 @@
         "reason": "Corrects the FAQ answer, which repeated the same incorrect Section 59(8) citation."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/106-execution-money-decrees-attachment-delhi-noida-article.json",
+    "verdict": "PASS",
+    "claims_checked": 12,
+    "evidence": [
+      "https://www.scconline.com/blog/post/2026/07/16/delhi-hc-recommends-10-crore-pecuniary-jurisdiction-district-courts/",
+      "https://www.barandbench.com/news/exclusive-why-delhi-high-court-judges-panel-recommended-increase-in-pecuniary-jurisdiction-of-district-courts",
+      "https://www.livelaw.in/news-updates/delhi-high-court-bar-association-to-abstain-from-work-against-proposal-to-raise-district-courts-pecuniary-jurisdiction-541018"
+    ],
+    "note": "Article 136's twelve-year execution limit and the prevailing judicial view that Section 5 Limitation Act does not extend it (Damodaran Pillai v. South Indian Bank Ltd., (2005) 7 SCC 300) are independently confirmed, and the draft's own caution about not citing that case by name (since it could not independently confirm the primary judgment) is appropriately conservative. The Delhi district courts' current roughly Rs 2 crore pecuniary ceiling and the Full Court's pending proposal to raise it are confirmed, including the DHCBA opposition and the 10-crore figure; the draft's qualification that the exact proposed figure differs by source (10 vs 20 crore) and remains unnotified matches independent reporting. Order 21's core mechanics (Rule 22 two-year notice, Rule 46 garnishee, Rule 54 immovable attachment, Rules 58, 89, 90, 97-106) rest on stable, undisputed statutory text. No errors found."
   }
 ]
