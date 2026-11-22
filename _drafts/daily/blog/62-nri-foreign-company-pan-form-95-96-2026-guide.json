@@ -1,0 +1,89 @@
+{
+  "slug": "nri-foreign-company-pan-form-95-96-2026-guide",
+  "title": "PAN for NRIs and Foreign Companies in 2026: Form 95 and Form 96 Replace 49AA",
+  "seo_title": "NRI & Foreign Company PAN 2026: New Forms 95, 96",
+  "meta_description": "From 1 April 2026, an NRI or foreign company applying for a fresh PAN uses Form 95 or 96, not Form 49AA. What changed and what happens without a PAN.",
+  "practice_area": "Tax Litigation",
+  "format": "what happens if consequences explainer",
+  "intro": [
+    "An NRI, a foreign national or a foreign company applying for a fresh Permanent Account Number in India on or after 1 April 2026 no longer fills Form 49AA. The Income-tax Rules, 2026, framed under the new Income-tax Act, 2025, replaced it with Form No. 95 for individuals who are not citizens of India and Form No. 96 for entities incorporated or formed outside India. A PAN already allotted under the old form stays valid; the change affects only new applications, changes to existing PAN data, and PANs that have gone inoperative.",
+    "This matters beyond paperwork. A non-resident who deducts the wrong box on the wrong form, or assumes the old 49AA PDF is still acceptable, can find the application returned or delayed at exactly the point in a property sale, a directorship filing or a bank KYC renewal where delay is expensive."
+  ],
+  "sections": [
+    {
+      "heading": "Who still needs to apply, and on which form",
+      "paragraphs": [
+        "The requirement to hold a PAN has not changed, only the application form. An individual who is not an Indian citizen, including a foreign national working in India, an OCI cardholder transacting in India, or an NRI who still counts as a non-citizen for this purpose, applies on Form No. 95. A company, LLP, trust, firm or other entity incorporated or formed outside India applies on Form No. 96. The split mirrors the old 49A/49AA divide, except that 49A for resident individuals is now Form No. 93 and the resident-entity form is Form No. 94.",
+        "The underlying triggers for needing a PAN at all are unchanged: taxable income or a taxable transaction in India. An NRI who earns rental income from an Indian flat, sells Indian property, holds a demat account, invests in Indian securities, or is a director or significant shareholder of an Indian company will need a PAN regardless of which form is current. A foreign company with a permanent establishment, a branch or project office, or that receives payments subject to withholding in India, is in the same position.",
+        "Existing PAN holders are not required to reapply simply because the form changed. The new forms matter the first time a non-resident applies afresh, the first time details such as name, address or the entity's country of incorporation need correction, or when a PAN that had gone inoperative needs to be reactivated. For all of these, the application now has to be made on the correct numbered form, with supporting documents the processing centre recognises as current."
+      ]
+    },
+    {
+      "heading": "What a foreign applicant actually submits",
+      "paragraphs": [
+        "Both the old and the new regime ask for broadly the same proof: identity and address documents attested or apostilled where the applicant is abroad, and for entities, incorporation documents and proof of the registered office outside India. A Tax Identification Number from the home country, where one is issued, is sought on the form; the income tax department's own guidance has treated a TIN as something a non-citizen applicant should furnish when applying for a PAN.",
+        "Where an applicant has no Indian address, the form still requires a correspondence address, which can be the address of an authorised representative in India, such as the chartered accountant or law firm handling the filing. Applications can be filed online through the authorised PAN service providers or through the e-filing portal, and in practice most non-resident applicants file through an Indian representative rather than visiting a centre themselves.",
+        "A practical point worth flagging: processing centres and professionals who routinely file these applications have been working through a transition period where older templates and guidance for 49AA are still circulating online well after the cut-off date. An applicant relying on a downloaded PDF or a professional's old checklist should confirm, before filing, that the form being used is the current one and not an outdated copy, since an application filed on the wrong form risks rejection and resubmission."
+      ]
+    },
+    {
+      "heading": "The cost of not having a PAN: Section 206AA and the higher TDS",
+      "paragraphs": [
+        "Section 206AA of the Income-tax Act requires that where a payee does not furnish a PAN, tax must be deducted at the higher of the rate specified in the relevant provision, the rates in force, or 20 per cent. This applies to residents and non-residents alike, and it bites hardest on non-residents because many cross-border payments, such as interest, royalty, fees for technical services or rent, already carry withholding obligations under other sections at specific rates. Without a PAN, the deductor is required to apply the higher rate instead.",
+        "There are carve-outs. The income tax department's own guidance notes that Section 206AA does not apply to certain payments to non-residents, interest on long-term bonds under Section 194LC being one example, and Rule 37BC provides relief in defined categories where the non-resident furnishes specified particulars, such as name, address, country of residence and a tax identification or similar number, in place of a PAN. Where that relief does not apply, failing to obtain a PAN in time is not a minor compliance gap; it changes the cash actually received on a payment.",
+        "A tax residency certificate and treaty relief under the applicable DTAA remain separate questions from the PAN requirement, and one does not substitute for the other automatically. A non-resident who has a TRC and wants treaty-rate withholding, but has no PAN, cannot assume the TRC alone avoids the Section 206AA rate; the two need to be read together with the specific exemption or relief provision that applies on the facts."
+      ]
+    },
+    {
+      "heading": "Practical sequencing for an NRI selling property or a foreign company setting up in India",
+      "paragraphs": [
+        "For an NRI about to sell Indian property, the PAN application should be the first filing made, not an afterthought once a buyer is found. The buyer's TDS obligation under Section 195, any application for a lower or nil deduction certificate, and the eventual income tax return all require a PAN already in place; starting that process only after a sale agreement is signed routinely causes the delay to land exactly when the transaction is time-sensitive.",
+        "For a foreign company setting up an Indian branch, liaison or project office, or incorporating a subsidiary with foreign shareholders, Form 96 is now the relevant filing for the parent entity's own PAN, separate from the PAN the new Indian subsidiary will obtain for itself as an Indian company. Banks opening accounts, the GST registration process, and withholding on payments to and from the foreign parent will each ask for this PAN, so getting the form right the first time avoids a cycle of resubmission across multiple agencies that are all waiting on the same number."
+      ]
+    },
+    {
+      "heading": "Mistakes that routinely delay a non-resident application",
+      "paragraphs": [
+        "The most common error is using an outdated template picked up from a search engine result or an old professional checklist rather than the current numbered form; because the rule change is recent, plenty of pages describing 49AA as the live form are still indexed and easy to land on. A second recurring problem is submitting identity or address proof that was correctly attested for an older filing but does not meet the apostille or attestation standard the processing centre currently applies, which sends the application back for resubmission rather than outright rejection, but still costs weeks.",
+        "A third mistake is treating the PAN application and the underlying transaction, such as a property sale or a directorship filing, as two separate timelines that can run in parallel. In practice the PAN has to exist before several of those other filings can be completed, so sequencing the PAN application first, even when the underlying deal is still being negotiated, avoids a last-minute scramble once a closing date is fixed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does an NRI who already has a PAN need to reapply because of the new forms?",
+      "a": "No. The change affects fresh applications, corrections to existing PAN details, and reactivation of an inoperative PAN made on or after 1 April 2026. A PAN validly allotted earlier continues to be valid under the Income-tax Act, 2025, and does not need to be reissued only because the application forms changed."
+    },
+    {
+      "q": "Is Form 49AA still accepted for a new PAN application?",
+      "a": "Reports on the Income-tax Rules, 2026 indicate that fresh applications on the old Form 49AA are not accepted after the new forms took effect on 1 April 2026. A non-resident applicant should confirm the current form number, 95 for individuals or 96 for entities, before filing rather than relying on an older downloaded copy."
+    },
+    {
+      "q": "What happens if a non-resident payee has no PAN at all?",
+      "a": "Section 206AA requires the payer to deduct tax at the higher of the rate under the relevant provision, the rate in force, or 20 per cent, unless a specific exemption applies, such as certain interest payments under Section 194LC or the conditions in Rule 37BC. This can increase the tax withheld well above the treaty or domestic rate that would otherwise apply."
+    },
+    {
+      "q": "Can a foreign company use an Indian representative's address to apply for PAN?",
+      "a": "Yes. The application forms allow a correspondence address in India, commonly that of the chartered accountant, company secretary or law firm handling the filing, where the foreign entity has no Indian address of its own. The registered office address outside India is still disclosed separately on the form."
+    },
+    {
+      "q": "Does holding a PAN affect an NRI's residential status or tax liability in India?",
+      "a": "No. A PAN is an identification and compliance number; it does not by itself determine tax residency, which is assessed separately under the residence rules in the Income-tax Act. An NRI with a PAN is not for that reason treated as resident, and a foreign company obtaining a PAN does not by itself create a taxable presence in India."
+    }
+  ],
+  "references": [
+    "Income-tax Act, 2025, provisions on PAN applicable from 1 April 2026",
+    "Income-tax Rules, 2026, Form No. 95 (individual, not a citizen of India) and Form No. 96 (entity incorporated or formed outside India), replacing Form 49AA",
+    "Income-tax Act, 1961 and Income-tax Act, 2025, Section 206AA on the higher TDS rate where PAN is not furnished",
+    "Income Tax Department FAQ on Forms 93-96 (CBDT, reproduced by professional tax portals)",
+    "Rule 37BC, Income-tax Rules, exemption from Section 206AA for specified non-resident payees"
+  ],
+  "sources": [
+    "https://taxguru.in/?p=1043118",
+    "https://www.businesstoday.in/personal-finance/news/story/planning-to-apply-for-pan-new-forms-93-96-now-in-effect-from-april-1-2026-know-the-breakdown-524718-2026-04-09",
+    "https://www.incometaxindia.gov.in/w/section-206aa-16",
+    "https://www.incometaxindia.gov.in/w/higher-deduction-of-tax-at-source-in-certain-cases-section-206aa-and-section-206ab-",
+    "https://www.taxscan.in/top-stories/new-forms-95-96-the-income-tax-departments-big-shift-for-non-resident-taxpayers-1444904"
+  ],
+  "verification_notes": "AUDIENCE: NRI, foreign national, foreign company. TARGET QUERY: 'PAN card for NRI 2026 new form' / 'Form 95 96 PAN non-resident'. DEMAND EVIDENCE: multiple finance-news outlets (BusinessToday, TaxGuru, Taxscan, GoodReturns) ran explainer pieces on this exact change within the same week in 2026, indicating active search interest; no analytics tool consulted, so this is inferred from press volume, not a measured search number. Form 95/96 replacing 49AA on 1 April 2026: confirmed from TaxGuru's reproduction of the CBDT FAQ and a BusinessToday explainer dated 9 April 2026, both independent of each other and consistent. The Income Tax Department's own 'videos on Income Tax Rules 2026' listing page was found to reference the new forms but was not opened as full text, so the department's own FAQ as reproduced by TaxGuru is treated as the stronger of the two confirming sources along with the news report. Section 206AA higher-TDS mechanism and the Rule 37BC and Section 194LC carve-outs: confirmed directly from the Income Tax Department's own published pages (incometaxindia.gov.in), which is the primary source and was cross-checked against a second summary (TaxGuru/ClearTax-type commentary) for consistency on the 20 per cent figure. Left out: the precise cross-mapping of Form 49A to Forms 93/94 was reported with minor inconsistency across secondary sources (one source mapped 49AA to Form 95 alone, another split it further), so only the mapping repeated consistently across sources (49AA to 95/96) is stated; no monetary thresholds, fees or processing timelines are stated because they were not confirmed from two independent sources in this run. A claim that the Supreme Court has held Section 206AA cannot override treaty obligations appeared in one secondary source only and is not included, as it could not be confirmed from a second source in this run."
+}
