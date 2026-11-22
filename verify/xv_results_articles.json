@@ -2118,5 +2118,30 @@
    "https://vinodkothari.com/2025/03/sebi-elongates-unpublished-price-sensitive-information-list/"
   ],
   "note": "SEBI v Rajeev Vasant Sheth (2026 INSC 826, 11 Aug 2026) checks out on all stated particulars: the possession-plus-trading presumption, financial need/use-of-proceeds not a defence, the roughly Rs 1.38 crore figure (reported as avoided losses to the promoter's daughters), and the penalty reduction from Rs 25 lakh to Rs 10 lakh for the Chairman. The December 2024 Third Amendment's 6 December 2024 effective date and the 'relative' redefinition with a rebuttable presumption, the March 2025 amendment tying UPSI to LODR Regulation 30 events including credit rating changes with the two-calendar-day external-UPSI logging proviso, the April 2025 circular (SEBI/HO/ISD/ISD-PoD-2/P/CIR/2025/55, 21 April 2025, following the 7 February 2025 consultation paper) extending window closure and PAN tracking to immediate relatives, the Section 15G penalty range (Rs 10 lakh floor up to Rs 25 crore or three times profit), and the Regulation 7(2) Rs 10 lakh/two-trading-day continual disclosure regime including its 2019 extension to the promoter group, all independently confirm. The draft's own hedges (approximate June 2025 effective date, no specific cooling-off figure for the 2024 trading-plan amendment) are appropriately cautious rather than wrong. related_pages all exist on the live site."
+ },
+ {
+  "file": "_drafts/articles/112-tribunals-reforms-act-2026-nclt-nclat-vacancies-litigants-article.json",
+  "verdict": "FIX",
+  "claims_checked": 12,
+  "evidence": [
+   "https://www.livelaw.in/sc-judgments/2025-livelaw-sc-1120-madras-bar-association-v-union-of-india-tribual-reforms-act-2021-310478",
+   "https://www.barandbench.com/news/tribunals-reforms-act-2026-gets-presidents-assent",
+   "https://www.barandbench.com/news/former-punjab-haryana-hc-justice-anupinder-singh-grewal-appointed-nclt-president",
+   "https://www.livelaw.in/amp/top-stories/supreme-court-takes-suo-motu-case-over-nclt-appointment-delays-infrastructure-issues-541083",
+   "https://supremetoday.ai/member-shortage-forces-18-nclt-benches-to-hold-half-day-sittings-bar-association-to-supreme-court-20260919005"
+  ],
+  "note": "Madras Bar Association v Union of India (2025 INSC 1330, 19 November 2025, CJI B.R. Gavai and Justice K. Vinod Chandran) and its four-month National Tribunals Commission deadline, the Tribunals Reforms Act 2026's passage (Lok Sabha 10 August, Rajya Sabha 11 August, assent 13 August 2026, covering 16 tribunals), and the NCLT presidency sequence (Sudhakar's retirement 13 February 2026, acting presidents Joshi then Das, Grewal notified 29 April 2026) all check out. One sequencing error: the draft says the Supreme Court's May 2026 suo motu matter on NCLT vacancies began 'after' the NCLT Bar Association told the Court that at least 18 benches were sitting half days. In fact the suo motu case was registered on 19 May 2026 (stemming from an order in a separate matter referred to the CJI), and the Bar Association's half-day-sittings submission came later, around September 2026, as a development within that already-pending case, not its trigger.",
+  "fixes": [
+   {
+    "find": "Separately from the constitutional litigation, the Supreme Court has been hearing a suo motu matter on NCLT vacancies and infrastructure since May 2026, after the NCLT Bar Association told the Court that at least eighteen benches were holding only half-day sittings for want of members.",
+    "replace": "Separately from the constitutional litigation, the Supreme Court has been hearing a suo motu matter on NCLT vacancies and infrastructure that it registered in May 2026; the NCLT Bar Association's submission that at least eighteen benches were holding only half-day sittings for want of members came later, in September 2026, as a development within that already-pending case.",
+    "reason": "The suo motu case was registered 19 May 2026; the Bar Association's half-day-sittings submission was reported around September 2026, within the pending case, not as its trigger"
+   },
+   {
+    "find": "The Supreme Court registered a suo motu matter in May 2026, titled around the appointment of judicial and technical members and inadequate infrastructure at the NCLT, after the NCLT Bar Association told the Court that at least eighteen benches were sitting only for half days because they did not have enough members to sit full time.",
+    "replace": "The Supreme Court registered a suo motu matter in May 2026, titled around the appointment of judicial and technical members and inadequate infrastructure at the NCLT. Months later, in September 2026, the NCLT Bar Association told the Court, within that already-pending case, that at least eighteen benches were sitting only for half days because they did not have enough members to sit full time.",
+    "reason": "Corrects the sequencing: the suo motu case predates the Bar Association's half-day-sittings submission by about four months, rather than being triggered by it"
+   }
+  ]
  }
 ]
