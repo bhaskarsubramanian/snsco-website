@@ -3881,5 +3881,55 @@
       "https://www.scobserver.in/cases/appointment-of-arbitrators-by-ineligible-persons/"
     ],
     "note": "The Constitution Bench holding in CORE v. ECI-SPIC-SMO-MCML (2024 INSC 857, 8 Nov 2024) that a government counterparty's unilateral arbitrator-appointment power violates Article 14, its overruling of the earlier CORE-I panel-based view, and the existence of a separate opinion (Narasimha J.) resisting a blanket case-by-case-free ban, are confirmed. The draft's framing that the holding is confined to public-private contracts and leaves the Seventh Schedule/TRF/Perkins line governing private contracts is consistent with all sources reviewed."
+  },
+  {
+    "file": "_drafts/daily/blog/65-letters-rogatory-order-26-cpc-evidence-witness-abroad-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.hcch.net/en/instruments/conventions/status-table/?cid=82",
+      "https://inhouselawyer.co.uk/?p=3324",
+      "https://www.oneindia.com/2006/12/21/cabinet-approves-accession-to-hague-convention-of-march-18-1970-1166697695.html",
+      "https://www.livelaw.in/amp/columns/civil-procedure-code-1908-order-26-rule-19-of-the-code-of-civil-procedure-176010"
+    ],
+    "note": "Sections 77-78 CPC and Order 26 Rules 4-8 and 19-22 (including the Rule 19 oral-examination-only limit, confirmed from the LiveLaw column cited) check out. But the guide contradicts itself: the 'Where the Hague Evidence Convention fits in' section and the verification_notes correctly say India acceded to the Hague Evidence Convention of 1970 (confirmed independently: HCCH status table lists India, and secondary sources date accession to 2007), yet the FAQ answer to 'Does India recognise requests under the Hague Evidence Convention?' still says the opposite ('India has not joined the Hague Evidence Convention of 1970'). This is the exact error the verification_notes claim was already corrected before publication but the FAQ was missed.",
+    "fixes": [
+      {
+        "find": "India has not joined the Hague Evidence Convention of 1970. A request from a Convention member country still has to be routed through the channel the Code of Civil Procedure recognises for foreign commissions, not through the Convention's own Central Authority process.",
+        "replace": "India acceded to the Hague Evidence Convention of 1970 in 2007. A request from another Convention member country can be routed through India's designated Central Authority and competent court under the Convention, as an alternative to the general diplomatic channel the Code of Civil Procedure otherwise recognises for foreign commissions.",
+        "reason": "The FAQ answer flatly contradicts the body text and the draft's own verification_notes, both of which correctly state India is a party to the Convention (confirmed via the HCCH status table); the FAQ still carries the earlier, wrong claim that India has not joined."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/blog/66-mutual-agreement-procedure-map-cross-border-tax-dispute-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/tax/tax-alerts-pdf/ey-india-amends-mutual-agreement-procedure-rules.pdf",
+      "https://www.caclubindia.com/news/cbdt-amends-rule-44g-to-invoke-mutual-agreement-procedure-18237.asp",
+      "https://www.mbgcorp.com/indiatest/insights/amended-rules-for-mutual-agreement-procedure/",
+      "https://www.incometaxindia.gov.in/documents/20117/43000/Updated-Mutual-Agreement-Procedure-Guidance.pdf",
+      "https://www.incometaxindia.gov.in/w/section-159-85"
+    ],
+    "note": "The Article-25/CBDT-competent-authority framework, the 6 May 2020 Rule 44G amendment and 7 August 2020 guidance, the 24-month 'endeavour' resolution target (confirmed as an endeavour, not a guarantee, per the OECD Action 14 standard and the CBDT's own wording), and the Income-tax Act 2025/Rule 121 transition (independently confirmed via the CBDT's own updated MAP guidance PDF, which is stronger support than the draft's single Fox Mandal source) and Section 159 as successor to Sections 90/90A (confirmed via incometaxindia.gov.in and other sources) all check out. However, the claimed 90-day deadline for the Assessing Officer to give effect to a MAP resolution is the PRE-2020 rule (old Rule 44H); the amended Rule 44G the draft itself describes as current law instead requires the AO to give effect by written order within one month from the end of the month in which the communication is received, confirmed by EY, CAclubindia and MBG Corp independently. The 90-day figure is a checkable time period that is wrong for the rule now in force.",
+    "fixes": [
+      {
+        "find": "Once the two competent authorities do reach an agreement, the rules require the resolution to be given effect by the jurisdictional tax officer within ninety days of the Indian competent authority receiving it.",
+        "replace": "Once the two competent authorities do reach an agreement and the taxpayer accepts it, the amended rules require the jurisdictional Assessing Officer to give effect to the resolution by a written order within one month from the end of the month in which the communication is received, and to intimate the taxpayer of the resulting tax payable or refundable.",
+        "reason": "Ninety days was the deadline under the pre-2020 Rule 44H; the amended Rule 44G that took effect from 6 May 2020, which this same guide treats as the current rule, instead sets a one-month-from-month-end deadline. The draft carried the superseded figure."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/blog/67-recording-evidence-video-conferencing-witness-abroad-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.drishtijudiciary.com/landmark-judgement/indian-evidence-act/State%20of%20Maharashtra%20v.%20Prafulla%20B.%20Desai%20(Dr.)%20(2003)%204%20SCC%20601",
+      "https://www.legallyindia.com/views/entry/video-conferencing-cannot-be-directed-in-transfer-petition-holds-sc-by-2-1-overrules-krishna-veni-nagam",
+      "https://www.casemine.com/commentary/in/facilitation-of-witness-examination-via-audio-video-link:-karnataka-high-court's-innovative-approach-in-twentieth-century-fox-v.-nri-film-production/view"
+    ],
+    "note": "Praful Desai (2003, Sections 273/284/285 CrPC and Section 3 Evidence Act, costs borne by the State) and Santhini v. Vijaya Venketesh (2018, overruling Krishna Veni Nagam on compelled video appearance in transfer petitions, with later orders reading it as leaving Family Courts discretion on consent) both check out independently. The Karnataka High Court case name, initially looking suspect ('Twentieth Century Fox v. NRI Film Production Associates'), is confirmed real and correctly cited (AIR 2003 Kant 148, decided 9 Jan 2003), sanctioning audio-video witness examination with safeguards. related_pages path confirmed present in origin/main:assets/search-index.json."
   }
 ]
