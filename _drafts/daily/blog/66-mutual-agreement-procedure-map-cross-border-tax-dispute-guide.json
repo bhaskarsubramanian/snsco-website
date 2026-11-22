@@ -1,0 +1,100 @@
+{
+  "slug": "mutual-agreement-procedure-map-cross-border-tax-dispute-guide",
+  "title": "The Mutual Agreement Procedure: Resolving a Cross-Border Tax or Transfer Pricing Dispute",
+  "seo_title": "MAP: Resolving Cross-Border Tax Disputes in India",
+  "format": "plain-English guide",
+  "practice_area": "Tax Litigation",
+  "meta_description": "What the Mutual Agreement Procedure is, when a company facing a transfer pricing dispute in India can use it, and how it differs from an appeal.",
+  "intro": [
+    "A foreign company with an Indian subsidiary, or an Indian company with cross-border related-party dealings, can end up taxed twice on the same income: once by the Indian tax authority through a transfer pricing adjustment, and again by the authority in the other country because that country's own numbers were not adjusted to match. The usual Indian answer to a transfer pricing adjustment is to appeal, through the Dispute Resolution Panel or the Commissioner, and on to the Income Tax Appellate Tribunal. That route exists and is often necessary, but it only binds the Indian side of the dispute.",
+    "The Mutual Agreement Procedure, generally called MAP, is a separate, treaty-based route that runs alongside or instead of that domestic appeal. It lets the competent tax authorities of the two countries negotiate directly to resolve the double taxation, rather than leaving each country's courts to decide the Indian and foreign halves of the same transaction separately and, possibly, inconsistently. For a group with ongoing related-party dealings across the same two countries, a consistent negotiated position also matters for later years, not only the year under dispute."
+    ],
+  "sections": [
+    {
+      "heading": "What MAP actually is, and where it comes from",
+      "paragraphs": [
+        "MAP is built into India's double taxation avoidance agreements, typically under an article modelled on Article 25 of the OECD Model Convention. It gives a taxpayer who believes an action of one or both tax authorities results in taxation not in accordance with the treaty the right to ask the competent authority of their country of residence to take up the matter with the other country's competent authority. In India, the Central Board of Direct Taxes designates the competent authority, generally an officer or wing within the Board, to conduct these negotiations.",
+        "The mechanism was substantially reshaped by amended rules the CBDT notified in May 2020, followed by detailed guidance published in August 2020. That guidance was issued partly to meet commitments India made as part of the OECD's Base Erosion and Profit Shifting Action Plan 14 peer review, which pushed tax administrations generally toward faster and more transparent MAP processes.",
+        "Before the 2020 changes, the Indian competent authority's role in a MAP case was described as a largely administrative one, forwarding positions rather than actively negotiating an outcome. The amendments were meant to give the competent authority a clearer, more active mandate to reach a substantive resolution with its foreign counterpart, rather than simply relaying each side's existing assessment."
+      ]
+    },
+    {
+      "heading": "When a company should think about MAP",
+      "paragraphs": [
+        "The most common trigger is a transfer pricing adjustment: the Transfer Pricing Officer increases the price at which a cross-border related-party transaction is treated as having occurred, which raises Indian taxable income without any corresponding reduction on the other side of the transaction. Because the foreign counterparty's tax return in its own country was prepared on the original, unadjusted price, the same income is effectively taxed twice unless something corrects one side or the other.",
+        "MAP guidance issued by the CBDT describes the procedure as covering transfer pricing adjustments, disputes over whether a permanent establishment exists at all, how much profit should be attributed to a permanent establishment, and disagreements over how income or expenses should be characterised under the treaty. A company facing any of these, where a tax treaty with the relevant country is in place, has a basis to apply.",
+        "A group that waits until a domestic appeal has run its full course before thinking about MAP can lose time it did not need to lose, since the two processes can start close together. Tax advisers generally recommend assessing the MAP option as soon as the adjustment is confirmed at the assessment stage, rather than treating it as a last resort once the Tribunal route looks unpromising."
+      ]
+    },
+    {
+      "heading": "How MAP relates to an ongoing domestic appeal",
+      "paragraphs": [
+        "Applying for MAP does not require a taxpayer to drop a domestic appeal against the same adjustment, and in practice many taxpayers run both in parallel, since the timelines for each move independently and an appeal protects the position if MAP does not produce a resolution. Where a mutual agreement is in fact reached, the taxpayer typically has to accept it in place of pursuing the domestic appeal further on the same point, since the two routes are meant to resolve the same adjustment, not to be combined for a better outcome on each.",
+        "This parallel-track approach is one reason MAP has become more heavily used for transfer pricing cases specifically: Indian transfer pricing adjustments have, in a number of years, been aggressive by international comparison, which pushes multinational groups toward a bilateral negotiation that can look at the arm's length question from both sides rather than relying solely on an Indian tribunal's view of Indian transfer pricing rules."
+      ]
+    },
+    {
+      "heading": "Timelines, and what the 2020 guidance changed",
+      "paragraphs": [
+        "The amended rules and the August 2020 guidance commit the Indian competent authority to try to resolve a MAP case within twenty-four months of what the guidance calls the start date of the case, a commitment made in line with the BEPS Action 14 minimum standard. Where a particular tax treaty sets a different time limit for MAP access, the guidance indicates India's practice is brought in line with the three-year filing window that the Action 14 standard generally expects, rather than a shorter period some older treaties specify.",
+        "Once the two competent authorities do reach an agreement, the rules require the resolution to be given effect by the jurisdictional tax officer within ninety days of the Indian competent authority receiving it. None of these periods guarantee a particular outcome, and a case can still end without an agreement if the two authorities cannot reach one; MAP produces a negotiated result, not a judgment a taxpayer can be sure of obtaining."
+      ]
+    },
+    {
+      "heading": "MAP and the Income-tax Act, 2025",
+      "paragraphs": [
+        "The Income-tax Act, 2025 came into force on 1 April 2026, replacing the 1961 Act, and new rules under it were notified in March 2026. For MAP specifically, the position reported is that the earlier Rule 44G of the Income-tax Rules, 1962 continues to apply to proceedings for assessment years that fall before the transition, while a new rule under the 2025 Rules, generally cited as Rule 121, takes over from Tax Year 2026-27 onward. One account of the transition also points to Section 159 of the new Act as the domestic basis for MAP, in place of Sections 90 and 90A of the old Act.",
+        "A company with a MAP case already running, or about to start one, should confirm with its tax advisers which provision governs the specific assessment year in dispute, since the transition between the two Acts is recent and the detail of how older pending cases are treated is the kind of point tax authorities and practitioners are still settling in practice."
+      ]
+    },
+    {
+      "heading": "How to apply, in outline",
+      "paragraphs": [
+        "An Indian resident taxpayer aggrieved by an action of a foreign tax authority that the taxpayer considers inconsistent with the relevant treaty applies to the Indian competent authority. Where the request instead originates from the other country, because a foreign taxpayer's counterpart transaction was adjusted there, the Indian competent authority receives a reference from its foreign counterpart and proceeds under the corresponding rule for that situation.",
+        "A taxpayer planning to apply should keep in mind that MAP is a negotiation between two governments, not a hearing the taxpayer argues in person; the taxpayer's role is mainly to make the application, supply the facts and documentation the competent authorities ask for, and then wait for the two sides to negotiate, with professional advice usually needed to frame the application in a way that gives the Indian competent authority a workable basis to take up with its counterpart.",
+        "It helps to put the figures, the intercompany agreements and the transfer pricing study in the same form both competent authorities will recognise, since each side is ultimately working from its own country's version of the same transaction. A badly documented application does not get rejected outright as often as it simply takes longer, because the competent authority has to go back and ask for what should have been filed at the outset."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does applying for MAP mean giving up an appeal in India?",
+      "a": "No. A taxpayer can generally pursue a domestic appeal and a MAP application on the same adjustment at the same time. If MAP produces an agreed resolution, that resolution usually takes the place of further litigation on that specific point, but filing for MAP does not by itself require withdrawing the appeal."
+    },
+    {
+      "q": "How long does MAP take in India?",
+      "a": "The CBDT's 2020 guidance commits the Indian competent authority to try to resolve a case within twenty-four months of the case's start date, in line with the OECD's BEPS Action 14 standard, though this is a target rather than a guaranteed outcome, and some cases take longer."
+    },
+    {
+      "q": "What kinds of disputes can go to MAP?",
+      "a": "The CBDT's guidance describes MAP as covering transfer pricing adjustments, disputes over whether a permanent establishment exists, how much profit is attributed to one, and disagreements over how income or expenses are characterised under the relevant tax treaty. The treaty with the other country has to actually contain a MAP article for the route to be available at all."
+    },
+    {
+      "q": "Who actually negotiates in a MAP case?",
+      "a": "The competent authorities designated by each country's tax administration negotiate directly with each other. For India this function sits with the Central Board of Direct Taxes. The taxpayer applies and supplies information but does not sit across the table in the negotiation itself."
+    },
+    {
+      "q": "Has the Income-tax Act, 2025 changed how MAP works?",
+      "a": "The new Act, in force from 1 April 2026, has shifted the rule-making basis for MAP for later assessment years, with a new rule generally cited as Rule 121 applying from Tax Year 2026-27, while the earlier Rule 44G continues to govern older pending years. Companies with live cases should check which rule applies to their assessment year."
+    }
+  ],
+  "references": [
+    "Double Taxation Avoidance Agreements concluded by India, Mutual Agreement Procedure article (generally following Article 25, OECD Model Tax Convention)",
+    "Income-tax Rules, 1962, Rule 44G (taxpayer-initiated MAP application) and Rule 44H (reference from a foreign competent authority), as amended by notification G.S.R. 282(E) dated 6 May 2020",
+    "CBDT Mutual Agreement Procedure Guidance, File No. 500/09/2016-APA-I, dated 7 August 2020",
+    "OECD Base Erosion and Profit Shifting Action Plan 14 (minimum standard on dispute resolution mechanisms)",
+    "Income-tax Act, 2025, in force from 1 April 2026, and rules notified March 2026 (transition from Rule 44G to the corresponding 2025 rule for later assessment years)"
+  ],
+  "sources": [
+    "https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/tax/tax-alerts-pdf/ey-india-amends-mutual-agreement-procedure-rules.pdf",
+    "https://taxnews.ey.com/news/2020-2070-india-publishes-detailed-guidance-on-mutual-agreement-procedure",
+    "https://www.caclubindia.com/news/cbdt-releases-guidance-on-map-18419.asp",
+    "https://taxguru.in/?p=734443",
+    "https://www.oecd.org/tax/dispute/India-Dispute-Resolution-Profile.pdf",
+    "https://foxmandal.in/wp-content/uploads/2026/11/Updated-Mutual-Agreement-Procedure-Guidance.pdf"
+  ],
+  "verification_notes": "AUDIENCE: foreign company with an Indian subsidiary or branch facing a transfer pricing adjustment, and Indian corporate groups with foreign related parties. TARGET QUERY: 'how to resolve double taxation transfer pricing dispute India' / 'what is mutual agreement procedure India'. DEMAND EVIDENCE: none seen directly as search volume; the topic was chosen because the live site already has a guide on the domestic transfer pricing appeal route (Resolving a Transfer Pricing Dispute) but nothing on the treaty-based MAP alternative, which is a distinct, commonly needed next step for the same client problem, confirmed absent by checking the live and staged search indexes and every drafted batch. That MAP is based on an Article 25-style treaty provision and is administered in India by a CBDT-designated competent authority was confirmed from the EY alert on the May 2020 rule amendment and from the CAclubindia summary of the August 2020 guidance, both describing the same mechanism. That the amended Rule 44G/44H framework dates to a 6 May 2020 notification, with detailed guidance following on 7 August 2020, and that the guidance commits to a 24-month resolution target drawn from BEPS Action 14, was confirmed from both the EY tax alert and the CAclubindia/TaxGuru summaries, which independently state the same dates and the 24-month figure. The claim that India's practice aligns to a three-year filing window under Action 14 where a treaty specifies something shorter rests on one TaxGuru summary only and is stated accordingly as what that guidance 'indicates' rather than as a settled universal rule. The transition to the Income-tax Act, 2025 and a new Rule 121 from Tax Year 2026-27, with Rule 44G continuing for earlier years, is reported in a November 2026 Fox Mandal update; this was not independently cross-confirmed against a second, equally current source in this run, and the piece flags this directly to the reader as a recent change worth confirming with current advice rather than presenting it as settled beyond that one update. Form 34F, mentioned in some secondary commentary on bilateral APAs, is not stated anywhere in this guide because it could not be confirmed from the sources opened.",
+  "related_pages": [
+    "/blog/transfer-pricing-dispute-resolution-apa-guide.html"
+  ]
+}
