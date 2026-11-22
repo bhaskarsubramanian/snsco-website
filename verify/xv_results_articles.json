@@ -2214,5 +2214,18 @@
    "https://www.businesstoday.in/amp/union-budget/story/big-gain-for-nris-finance-bill-2025-widens-ifsc-tax-exemptions-to-include-fpis-boosting-foreign-investments-463040-2025-02-01"
   ],
   "note": "The IFSCA (Fund Management) Regulations, 2025 (notified/effective 19 February 2025, per IFSCA's own press release, superseding the 2022 regulations) and the Family Investment Fund's USD 10 million corpus within three years of registration both check out against multiple independent GIFT City advisory sources, which distinguish this figure from a separate, unrelated USD 3 million minimum for ordinary fund schemes generally (a point worth noting since one fragmentary secondary source conflated the two). The 'single family' definition widened by the 1 March 2023 circular (No. 333/IFSCA/FIF/2022-23) to cover family-controlled entities, with the 10% non-family economic interest and risk-disclosure requirement, is confirmed. The draft's hedge on the Income-tax Act 2025 renumbering of Sections 10(4D)/10(4E) is appropriate -- independent sources confirm the provisions moved (to Section 11 of the new Act) but do not agree on the exact new sub-clause numbers, so the draft's caution not to rely on a specific new number is correct rather than a gap. related_pages all exist on the live site. No significant errors found."
+ },
+ {
+  "file": "_drafts/articles/116-dependent-agent-fixed-place-pe-foreign-subsidiary-india-article.json",
+  "verdict": "PASS",
+  "claims_checked": 10,
+  "evidence": [
+   "https://www.ey.com/en_in/technical/alerts-hub/2025/07/sc-rules-that-continuous-and-substantive-control-over-operations-of-indian-entity",
+   "https://www.verdictum.in/court-updates/supreme-court/hyatt-international-southwest-asia-ltd-v-additional-director-of-income-tax-2025-insc-891-permanent-establishment-1586103",
+   "https://www.alvarezandmarsal.com/node/89781",
+   "https://itatonline.org/digest/dy-cit-v-progress-rail-locomotive-inc-2026-308-taxman-242-sc-editorial-progress-rail-locomotive-inc-v-dy-cit-it-2024466-itr-76-339-ctr-129-163-taxmann-com-52delhihc/",
+   "https://bcajonline.org/journal/article-5-of-india-usa-dtaa-indian-subsidiary-of-foreign-parent-company-cannot-constitute-dependent-agent-permanent-establishment-merely-because-it-provided-marketing-support-activity-an/"
+  ],
+  "note": "Hyatt International Southwest Asia Ltd v ADIT (2025 INSC 891, 24 July 2025) checks out exactly as described: fixed place PE under Article 5(1) of the India-UAE DTAA based on pervasive, enforceable operational control over two hotels (Delhi and Mumbai) under Strategic Oversight Services Agreements, with profits attributable despite a global loss. Progress Rail (Delhi HC 2024, no PE finding affirmed by the Supreme Court's dismissal of the department's SLP, reported (2026) 308 Taxman 242 SC) and Zscaler (ITAT Delhi: marketing-support subsidiary did not create a DAPE under the India-US treaty; Delhi HC separately set aside a related withholding order once the no-PE finding stood) both confirm. Samsung Heavy Industries (2020) 426 ITR 1 and Formula One, 2017 SCC OnLine SC 474, are well-established and confirmed. The draft's own hedges (exact SLP dismissal date, new Income-tax Act 2025 section numbers) are appropriately cautious given genuinely inconsistent secondary reporting on those narrow points. related_pages all exist on the live site. No significant errors found."
  }
 ]
