@@ -4967,5 +4967,38 @@
       "https://supremetoday.ai/mumbai-tax-tribunal-rejects-ad-hoc-profit-attribution-in-cornerstone-ondemand-international-permanent-establishment-case-20261022036"
     ],
     "note": "The holding that a dependent-agent PE cannot be presumed from an Indian affiliate's activities alone, the AY 2020-21 lead year, the Rs 7.57 crore receipts with 30% attribution producing the Rs 2.27 crore addition, and the remand to the AO are confirmed across three independent reports. Sources diverge on the exact pronouncement date (16 vs 22 Oct 2026) and on the DTAA sub-article (5(4) vs 5(5)); this is a minor, non-central discrepancy the draft does not need to carry since neither figure nor holding depends on it, but it is noted here for the record."
+  },
+  {
+    "file": "_drafts/daily/news/54-footballco-advance-ruling-hearing-date-delhi-hc.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/income-tax/high-court/delhi-high-court-suggests-intimating-hearing-date-within-15-days-of-income-tax-advance-ruling-application-filing-557954",
+      "https://taxguru.in/income-tax/advance-ruling-hearing-date-communicated-15-days-delhi-hc.html",
+      "https://www.livelawbiz.com/digests/weekly-digests/livelawbiz-direct-tax-weekly-round-up-november-09-november-15-2026-558664"
+    ],
+    "note": "Case name, citation W.P.(C) 16324/2026, bench (Justices Dinesh Mehta and Aditi Choudhary), the 3 July 2026 filing date, the 9 July 2026 assignment communication, the refusal of mandamus on the ground that about two months remained in the statutory period, and the suggestion that the Board intimate hearing dates within 15 days of filing are all confirmed independently by LiveLawBiz and TaxGuru. Checked search-index.json and legal-updates/index.html on origin/main for duplicate coverage; no match (an 'equentia' hit elsewhere is a false positive on the word 'consequential/sequential'). The draft's own flag that 9 Nov 2026 is an inferred date (from the order's e-filing availability) rather than a confirmed pronouncement date could not be improved on with fresh searches; this is already disclosed in the draft and not a basis for FIX."
+  },
+  {
+    "file": "_drafts/daily/news/55-nclt-hyderabad-panduranga-gmp-consolidated-cirp.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/nclt/nclt-hyderabad-orders-consolidated-cirps-of-panduranga-energy-systems-gmp-infrastructure-557848",
+      "https://www.livelawbiz.com/pdf_upload/2026/11/09/ia-ibc-1398-of-2026-710546.pdf",
+      "https://ibbi.gov.in/uploads/order/bf634aaa66406ed1d129a21530b2cade.pdf"
+    ],
+    "note": "Case number IA (IBC) 1398/2026 in CP (IB) 304/7/HDB/2022, bench (Rajeev Bhardwaj, Member Judicial), order date 06.11.2026, the shared-land/corporate-guarantee/identical-creditor reasoning, and the resolution professional's name (Kalvakota Venkat Narsinga Rao) are confirmed by LiveLawBiz's report read against the order PDF itself (treated as a near-primary source, as the draft's own note does), corroborated further by an independent IBBI-hosted copy of the order and a LiveLawBiz weekly digest listing the same matter. Case title 'Union Bank of India v. Panduranga Energy Systems' used in the draft matches the cause title LiveLawBiz itself uses, though search snippets differ on whether Union Bank or the common resolution professional formally moved IA 1398; this is a secondary procedural detail, not a central fact, and is not disturbed. No duplicate found on origin/main search-index.json or legal-updates/index.html."
+  },
+  {
+    "file": "_drafts/daily/news/56-nclat-equentia-personal-guarantor-moratorium-retroactive.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelawbiz.com/ibc/ibc-amendment-excluding-personal-guarantors-from-interim-moratorium-applies-to-pending-cases-nclat-557996",
+      "https://ibclaw.in/sangeeta-aggarwal-personal-guarantor-vs-equentia-financial-services-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/",
+      "https://www.livelawbiz.com/nclt/ibc-amendment-excluding-personal-guarantors-from-section-96-moratorium-applies-to-pending-proceedings-nclt-new-delhi-552093"
+    ],
+    "note": "Case identity (Sangeeta Aggarwal & Ors. v. Equentia Financial Services Pvt. Ltd. & Anr., NCLAT Principal Bench New Delhi), appeal numbers 1804 & 1805 of 2026, the bench (Justice Mohammad Faiz Alam Khan and Naresh Salecha), and the holding that Section 96(4) excluding personal guarantors from the interim moratorium applies retroactively to pending applications are independently confirmed by LiveLawBiz and ibclaw.in, a genuinely separate reporter. The parallel NCLT New Delhi ruling on the same point and the underlying Equentia/Prafful Overseas facts are also corroborated. The exact pronouncement date is not cleanly confirmed: one secondary summary suggested 6 Nov 2026 against the draft's 10 Nov 2026 (itself flagged by the draft as inferred from a PDF upload date, not a confirmed pronouncement date); this residual date uncertainty is already disclosed in the draft's verification_notes and does not affect the holding, so it is not treated as a FIX-worthy error, but is noted here."
   }
 ]
