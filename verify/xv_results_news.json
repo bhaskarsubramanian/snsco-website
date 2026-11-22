@@ -4900,5 +4900,72 @@
       "https://www.whalesbook.com/corporate-news/English/sebiexchange/Warren-Tea-Shareholders-Approve-Merger-With-Maple-Hotels-and-Resorts/6a3536a2b6609c8f9dd43dc7"
     ],
     "note": "5 Nov 2026 NCLT Kolkata sanction, share-exchange ratio (1:1 at Rs 10 face value), and the pending ROC filing requirement are confirmed by two independent sources. The draft correctly excluded a conflicting 30 Sept 2026 date found in an unrelated report."
+  },
+  {
+    "file": "_drafts/daily/news/51-aptel-wind-power-full-tariff-beyond-cuf-aperc-orders-set-aside.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.energetica-india.net/news/orient-green-power-to-recover-inr-1298-crore-following-favourable-aptel-order",
+      "https://solarquarter.com/2026/11/19/aptel-allows-wind-generators-full-tariff-payment-for-power-beyond-normative-cuf-sets-aside-aperc-orders/",
+      "https://www.psuconnect.in/power-sector-news/aptel-sets-aside-aperc-order-on-cuf-limits-in-favor-of-jsw-energy-subsidiaries",
+      "https://www.jmfinancialservices.in/market-news-and-insights/1751151"
+    ],
+    "note": "17 Nov 2026 APTEL order, the identity of appellants (Beta Wind Farm/Orient Green Power and four JSW Energy wind subsidiaries), the holding that normative CUF is a tariff-setting benchmark not a payment cap, and the ~Rs 12.98 crore Beta figure (an interest-inclusive company estimate) are confirmed across four independent reports. The '23 connected appeals' figure traces to a single trade report (SolarQuarter) and was not independently cross-checked; the draft's own caveats on bench names, exact appeal numbers and the unreconciled APERC order dates for the two generators are appropriate and match what fresh search also could not resolve."
+  },
+  {
+    "file": "_drafts/daily/news/52-nclat-residual-payout-resolution-plan-no-shareholder-appeal-locus-gstaad.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/ibc/availability-of-residual-surplus-does-not-confer-shareholders-right-to-challenge-resolution-plan-nclat-558354",
+      "https://supremetoday.ai/nclt-mumbai-approves-1611-crore-resolution-plan-for-gstaad-hotels-dismisses-objections-20260912025",
+      "https://insolvencytracker.in/?p=6218",
+      "https://www.livelawbiz.com/ibc/nclt-mumbai-approves-1611-crore-resolution-plan-for-gstaad-hotels-dismisses-objections-549761"
+    ],
+    "note": "Appeal numbers (1958/2026 & 1858/2026), citation 2026 LLBiz NCLAT 435, bench (Justice Mohd Faiz Alam Khan and Naresh Salecha), the holding that a Section 53 residual payout does not confer Section 61 standing, and the underlying Rs 1,611-crore NCLT Mumbai approval of Shree Naman Developers' plan (3 Sept 2026) are all independently confirmed. The appellants NKAY Investment and Sunil Madhavdas Ahuja and their ~10%/~20% shareholding are also confirmed. The 6 Nov 2026 decision date carries the same single-source caveat the draft already flags."
+  },
+  {
+    "file": "_drafts/daily/news/53-delhi-hc-writ-cannot-reopen-arbitration-testimony-air-defamation-claim.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelawbiz.com/arbitration/delhi-high-court-rejects-10-crore-claim-against-air-says-writ-plea-cannot-reopen-facts-settled-in-arbitration-558095",
+      "https://courtkutchehry.com/judgments/s-c-gupta-vs-director-general-all-india-radio"
+    ],
+    "note": "Case number W.P.(C) 16608/2026, decision date 5 Nov 2026, citation 2026 LLBiz HC (Del) 1224 (also reported as (2026) 11 DEL CK 1355), the parties, the 1988 tender/arbitration background, and the holding that a writ cannot reopen arbitration testimony a party could have cross-examined are confirmed from two independent reports. Search surfaced the presiding judge's name (Justice Amit Mahajan) and the witness's name (Vijay Prakash Yadav) from a single aggregated source each; since these were not independently cross-checked to two sources, the draft's own conservative 'not confirmed' stance on the bench is correctly kept rather than overwritten."
+  },
+  {
+    "file": "_drafts/daily/updates/40-itat-mumbai-singapore-government-8520-crore-dtaa-capital-gains.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.business-standard.com/economy/news/itat-mumbai-stays-8-520-crore-tax-demand-on-singapore-govt-over-gains-126112000943_1.html",
+      "https://thefederal.com/category/business/rs-8500-crore-singapore-tax-dispute-why-itat-ruling-matters-for-foreign-investors-263664",
+      "https://lapaasvoice.com/mumbai-itat-grants-singapore-government-stay-on-%E2%82%B98520-crore-tax-demand"
+    ],
+    "note": "The Rs 8,520 crore aggregate figure, the per-year breakdown (Rs 3,345.94 cr / Rs 2,057.15 cr / Rs 3,116.96 cr for AY 2022-23 to 2024-25), the Article 22(2)(c) basis, the department's acceptance of the treaty exemption on dividend/interest but not capital gains, and the 180-day stay from 23 Oct 2026 are confirmed across three independent reports (Business Standard, The Federal, Lapaas Voice). This is correctly reported as an interim stay, not a final ruling on the exemption question."
+  },
+  {
+    "file": "_drafts/daily/updates/41-sebi-fpi-kyc-review-periodicity-two-eight-years.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1793358139677.pdf",
+      "https://www.khaitanco.com/sites/default/files/2026-11/Ergo_SEBI%20eases%20KYC%20review%20cylcle%20for%20FPIs_12%20Nov%202026.pdf",
+      "https://www.kotakneo.com/news/regulations/sebi-eases-fpi-kyc-rules-extends-review-cycle-to-eight-years/"
+    ],
+    "note": "Circular number, 30 Oct 2026 date, the move from a 1-year/3-year cycle to 2-year/8-year, the carve-outs for GS-only FPIs and SWAGAT-FI, and the 1 Dec 2026 effective date are confirmed directly against the SEBI circular PDF and two independent law-firm/broker notes."
+  },
+  {
+    "file": "_drafts/daily/updates/42-itat-mumbai-cornerstone-ondemand-dependent-agent-pe.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelawbiz.com/income-tax/pe-of-foreign-enterprise-cannot-be-presumed-from-indian-associates-activities-555597",
+      "https://studycafe.in/itat-remands-pe-dispute-involving-uk-software-company-to-ao-427501.html",
+      "https://supremetoday.ai/mumbai-tax-tribunal-rejects-ad-hoc-profit-attribution-in-cornerstone-ondemand-international-permanent-establishment-case-20261022036"
+    ],
+    "note": "The holding that a dependent-agent PE cannot be presumed from an Indian affiliate's activities alone, the AY 2020-21 lead year, the Rs 7.57 crore receipts with 30% attribution producing the Rs 2.27 crore addition, and the remand to the AO are confirmed across three independent reports. Sources diverge on the exact pronouncement date (16 vs 22 Oct 2026) and on the DTAA sub-article (5(4) vs 5(5)); this is a minor, non-central discrepancy the draft does not need to carry since neither figure nor holding depends on it, but it is noted here for the record."
   }
 ]

@@ -3847,5 +3847,39 @@
       "https://indiankanoon.org/doc/110133968/"
     ],
     "note": "Messer Holdings v Shyam Madanmohan Ruia (Bombay HC, Division Bench, 1 Sept 2010), its facts (Bombay Oxygen Ltd, Messer Griesheim GmbH), its holding on Section 111A, and its overruling of the Western Maharashtra line are confirmed. Checked further: the Supreme Court's 19 April 2016 order dismissed the related SLPs as infructuous after settlement, without ruling on the merits -- this does not disturb the Bombay HC ruling's precedential value, and the draft's own cautious framing ('remains the anchor case', not 'Supreme Court-affirmed') is accurate and was reasonable to state without resolving the SLP history explicitly."
+  },
+  {
+    "file": "_drafts/daily/blog/62-nri-foreign-company-pan-form-95-96-2026-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.taxscan.in/top-stories/new-forms-95-96-the-income-tax-departments-big-shift-for-non-resident-taxpayers-1444904",
+      "https://www.caclubindia.com/news/income-tax-department-replaces-form-49aa-with-new-forms-95-96-for-pan-applications-2026-26433.asp",
+      "https://taxguru.in/?p=1043118",
+      "https://www.incometaxindia.gov.in/w/section-206aa-16"
+    ],
+    "note": "Form 95 (non-citizen individuals) and Form 96 (entities formed outside India) replacing Form 49AA from 1 April 2026, the 49A/49AA to 93/94/95/96 renumbering, and the Section 206AA higher-TDS mechanism with the Rule 37BC/Section 194LC carve-outs are all confirmed across official and independent secondary sources. AUDIENCE/TARGET QUERY/DEMAND EVIDENCE lines are present and SEO fields comply."
+  },
+  {
+    "file": "_drafts/daily/blog/63-authorised-economic-operator-aeo-status-foreign-importer-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.taxmann.com/post/blog/no-requirement-to-seek-periodic-renewal-of-aeo-t1-certification-circular/",
+      "https://bdo.in/en-gb/insights/alerts-updates/indirect-tax-alert-customs-auto-renewal-of-aeo-t1-validity-for-continuous-certification-based-on",
+      "https://www.caclubindia.com/news/cbic-does-away-with-expiry-renewal-of-authorised-economic-operator-certification-after-every-three-years-for-aeo-t1-entities-20548.asp"
+    ],
+    "note": "The T1/T2/T3/AEO-LO tier structure under Circular 33/2016, the MSME simplification under Circular 54/2020, the CAROTAR alignment under Circular 02/2022, and the AEO-T1 auto-renewal via annual self-certification under Circular 18/2021 (effective 1 Aug 2021) are all confirmed from CBIC-adjacent and independent professional sources. AUDIENCE/TARGET QUERY/DEMAND EVIDENCE lines present."
+  },
+  {
+    "file": "_drafts/daily/blog/64-unilateral-appointment-arbitrator-article-14-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://legalblogs.wolterskluwer.com/arbitration-blog/the-end-of-the-unilateral-appointment-saga-in-india-party-equality-v-party-autonomy-a-tale-of-two-equals/",
+      "https://www.hsfkramer.com/notes/arbitration/2024-posts/Balancing-party-autonomy-and-equal-treatment-of-parties--Indian-Supreme-Court-s-decision-on-unilateral-arbitrator-appointments-",
+      "https://www.scobserver.in/cases/appointment-of-arbitrators-by-ineligible-persons/"
+    ],
+    "note": "The Constitution Bench holding in CORE v. ECI-SPIC-SMO-MCML (2024 INSC 857, 8 Nov 2024) that a government counterparty's unilateral arbitrator-appointment power violates Article 14, its overruling of the earlier CORE-I panel-based view, and the existence of a separate opinion (Narasimha J.) resisting a blanket case-by-case-free ban, are confirmed. The draft's framing that the holding is confined to public-private contracts and leaves the Seventh Schedule/TRF/Perkins line governing private contracts is consistent with all sources reviewed."
   }
 ]
