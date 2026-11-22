@@ -1,0 +1,99 @@
+{
+  "slug": "recording-evidence-video-conferencing-witness-abroad-guide",
+  "title": "Recording a Witness's Evidence by Video Conferencing When They Live Outside India",
+  "seo_title": "Video-Conferenced Evidence for a Witness Abroad",
+  "format": "plain-English guide",
+  "practice_area": "Commercial Litigation",
+  "meta_description": "When an Indian court will let a witness who lives abroad testify over video link, what Praful Desai settled, and how this compares to a letter rogatory.",
+  "intro": [
+    "A witness who lives abroad and is willing to testify does not always need the slow machinery of a letter rogatory. Indian courts now routinely record evidence over video link, treating the witness's virtual presence as presence for the purposes of the trial, a position built up through a line of court decisions rather than a single statutory rule. This guide covers that route: who allows it, what has to be shown before a court will permit it, and where it still runs into limits, particularly in matrimonial cases.",
+    "The other route, a formal commission or letter of request sent to a court in the witness's own country, remains necessary where the witness will not cooperate voluntarily or no reliable video facility exists; that mechanism works through the same Code of Civil Procedure machinery that governs cross-border commissions generally. This piece deals only with the direct, video-recorded route, and with the specific conditions courts have set before allowing it."
+  ],
+  "sections": [
+    {
+      "heading": "The case that settled the basic question: Praful Desai",
+      "paragraphs": [
+        "The Supreme Court answered whether evidence could be recorded by video conferencing at all in State of Maharashtra v. Dr. Praful B. Desai, decided in 2003. The case arose in a criminal trial where a doctor based in the United States, whose testimony was central to a medical negligence prosecution, could not be produced in person. The Bombay High Court had held that Section 273 of the Code of Criminal Procedure required the witness's physical presence and set aside an order allowing video evidence.",
+        "The Supreme Court reversed that view, holding that Section 273's requirement that evidence be taken in the presence of the accused does not demand physical presence; constructive or virtual presence, where the accused and the accused's advocate can see and hear the witness as the evidence is recorded, satisfies the section. The Court directed that the witness's evidence be recorded by video conferencing, with the costs of arranging it borne by the State, and relied on Sections 273, 284 and 285 of the Code of Criminal Procedure together with Section 3 of the Indian Evidence Act to reach that result."
+      ]
+    },
+    {
+      "heading": "How this carries over to civil suits",
+      "paragraphs": [
+        "Praful Desai was a criminal case, but the reasoning that virtual presence can satisfy a presence requirement has been applied well beyond it, and High Courts have for years permitted civil witnesses, including witnesses abroad, to give evidence by video link where the parties or the court consider it necessary and workable. The underlying point does the same work in either setting: a requirement that the evidence be given in a particular kind of presence is not defeated merely because the witness is not in the same room.",
+        "There is no single central statute dealing with video-recorded evidence; what exists instead is a body of judicial decisions, together with High Court-specific rules and circulars that set out the practical conditions, such as who arranges the facility, how identity and the oath are administered remotely, and what happens if the connection fails midway through testimony.",
+        "This matters for a litigant comparing jurisdictions: the conditions a Delhi court will set are not automatically the conditions a court elsewhere in the country will apply, and a party litigating in more than one forum should check the specific High Court's own circular rather than assume one uniform national procedure governs every video-recorded deposition."
+      ]
+    },
+    {
+      "heading": "What a court typically wants before allowing it",
+      "paragraphs": [
+        "Delhi High Court guidelines, which are among the most detailed and have been looked to by other High Courts, require confirmation of the witness's location, the witness's willingness to testify over video, and the venue and the facility to be used, before the examination is scheduled. The court is also expected to give the parties advance notice setting out the schedule for the video-conferenced hearing, so that counsel on both sides can prepare and object in time if there is a genuine problem with the arrangement.",
+        "An early Karnataka High Court decision involving an NRI film production dispute set conditions along similar lines: the witness is to be examined during the Indian court's working hours, the oath is administered through the video link itself, and the witness cannot resist examination merely because of the time difference between India and the witness's location. Those conditions illustrate the kind of practical ground rules a court will expect counsel to have worked out before asking for a video hearing, rather than leaving them to be improvised once the link is live."
+      ]
+    },
+    {
+      "heading": "Where it has been allowed to fail, and why: the matrimonial exception",
+      "paragraphs": [
+        "The Supreme Court's decision in Santhini v. Vijaya Venketesh, reported in 2018, cut back on video conferencing in one specific setting: matrimonial proceedings, and particularly the reconciliation stage that the Family Courts Act contemplates. The Court held that in a transfer petition a party cannot be directed to appear only by video conferencing, overruling the part of an earlier decision, Krishna Veni Nagam, that had gone the other way, and treated reconciliation as something that generally requires both spouses in the same physical space at the same time.",
+        "Later High Court orders have read Santhini as leaving Family Courts a measure of discretion once settlement efforts have genuinely failed, particularly where both parties jointly consent to proceeding by video, as opposed to one party being compelled to do so over the other's objection. The position is not uniform across High Courts, and at least one 2026 High Court order has treated video conferencing as available to a Family Court in a mutual consent matter, so the safer course in a matrimonial case is to check the specific High Court's current approach rather than assume Praful Desai settles the question there as well."
+      ]
+    },
+    {
+      "heading": "Practical arrangements an NRI or foreign witness should expect",
+      "paragraphs": [
+        "A Punjab and Haryana High Court order in an NRI property dispute is often cited for requiring that the video link from a witness in the United States be arranged through the Indian consulate or another designated public office there, rather than left to a private connection the witness sets up alone; the point of this kind of condition is to keep the identification and the integrity of the testimony under some institutional control rather than relying purely on the witness's own equipment.",
+        "Parties applying for a video-conferenced examination should expect to specify, in the application itself, the facility to be used, who will be present at the remote end, how the witness's identity will be confirmed, and how documents the witness is asked about during the examination will be shown to them and to the court simultaneously. Courts have treated delay in sorting out these practical details, rather than any legal objection, as the real reason video applications sometimes take years to actually get a witness examined."
+      ]
+    },
+    {
+      "heading": "Choosing between video conferencing and a letter rogatory",
+      "paragraphs": [
+        "Video conferencing is faster and avoids the diplomatic transmission a letter rogatory needs, which makes it the preferred route wherever the witness is cooperative and a workable facility, consulate-arranged or otherwise, can be found. It becomes the wrong tool where the witness will not participate voluntarily, since a court has no way to compel someone outside India to sit for a video examination; that is precisely the situation the letter rogatory procedure under Order 26 of the Code of Civil Procedure exists to address.",
+        "A party unsure which route fits should start by asking whether the witness is willing. If so, video conferencing, subject to the receiving High Court's own guidelines, is usually quicker and cheaper. If not, a formal commission is the only remaining option, and the time that takes should be factored into the case's overall timetable from the outset rather than discovered midway through the suit.",
+        "It helps to raise the question with the court early, at the stage of framing issues or settling the list of witnesses, rather than waiting until the witness's turn comes up on the trial schedule. A court asked at the last moment to improvise a video hearing, or to issue a commission it was never told would be needed, is far more likely to adjourn the matter than a court given notice while the timetable is still being set."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a civil court record a witness's evidence by video conferencing if the witness lives abroad?",
+      "a": "Yes, generally. Courts have applied the reasoning in State of Maharashtra v. Praful B. Desai, which held that virtual presence can satisfy a legal presence requirement, to allow video-recorded testimony from witnesses outside India, subject to the High Court's own guidelines on arranging and verifying the link."
+    },
+    {
+      "q": "Is video conferencing allowed in divorce or matrimonial cases?",
+      "a": "It is more limited there. The Supreme Court in Santhini v. Vijaya Venketesh held that a party cannot be compelled to appear only by video in a transfer petition and treated reconciliation as generally needing both spouses present together, though later orders have allowed it where both sides jointly consent."
+    },
+    {
+      "q": "Who pays for setting up a video-conferencing link for a witness abroad?",
+      "a": "In Praful Desai itself, the Supreme Court directed that the cost of arranging the video conferencing be borne by the State, since that was a criminal prosecution. In civil cases the practice has generally been for the party seeking the witness's evidence to bear the cost of the facility."
+    },
+    {
+      "q": "What is the difference between video conferencing and a letter rogatory?",
+      "a": "Video conferencing records a willing witness's testimony directly and quickly. A letter rogatory is a formal request routed through a foreign court, used when a witness will not cooperate voluntarily; it takes considerably longer because it depends on diplomatic or judicial transmission between the two countries."
+    },
+    {
+      "q": "Does a court need the witness's consent before allowing a video examination?",
+      "a": "High Court guidelines, such as those of the Delhi High Court, require confirmation of the witness's willingness before scheduling a video examination, alongside confirming the witness's location and the facility to be used. A court is not generally in a position to compel an unwilling witness abroad to appear by video any more than in person."
+    }
+  ],
+  "references": [
+    "State of Maharashtra v. Dr. Praful B. Desai, (2003) 4 SCC 601 (also reported AIR 2003 SC 2053)",
+    "Code of Criminal Procedure, 1973, Sections 273, 284 and 285; Indian Evidence Act, 1872, Section 3",
+    "Santhini v. Vijaya Venketesh, (2018) 1 SCC 1, overruling Krishna Veni Nagam in part on video conferencing in transfer petitions",
+    "Delhi High Court guidelines on recording evidence by video conferencing",
+    "Twentieth Century Fox v. NRI Film Production Associates, AIR 2003 Kant 148 (Karnataka High Court)"
+  ],
+  "sources": [
+    "https://www.drishtijudiciary.com/landmark-judgement/indian-evidence-act/State%20of%20Maharashtra%20v.%20Prafulla%20B.%20Desai%20(Dr.)%20(2003)%204%20SCC%20601",
+    "https://legalvidhiya.com/state-of-maharashtra-and-p-c-singh-vs-dr-praful-b-desai-and-anr/",
+    "https://bnblegal.com/landmark/santhini-vs-vijaya-venketesh/",
+    "https://www.legallyindia.com/views/entry/video-conferencing-cannot-be-directed-in-transfer-petition-holds-sc-by-2-1-overrules-krishna-veni-nagam",
+    "https://www.dakshindia.org/wp-content/uploads/2020/06/Paper-4-_Video-Conferencing-in-Indian-Courts.pdf",
+    "https://blog.ipleaders.in/can-evidence-recorded-legal-cases-video-conferencing/"
+  ],
+  "verification_notes": "AUDIENCE: NRI and foreign-company litigant with a witness, or who is themselves a witness, located outside India in an Indian civil or criminal proceeding. TARGET QUERY: 'can a witness abroad give evidence by video call in an Indian court case' / 'video conferencing evidence NRI witness'. DEMAND EVIDENCE: none seen as search-volume data; chosen as the natural companion to, and a clearly distinct angle from, the separate letters-rogatory guide, and confirmed absent from the live site, stage-final, research-batch-13 and research-articles by filename and title search. That Praful Desai (2003) held video-recorded evidence satisfies Section 273 CrPC's presence requirement, with costs borne by the State, was confirmed from the Drishti Judiciary case summary and from the LegalVidhiya case summary, both describing the same holding, facts and reasoning; the citation (2003) 4 SCC 601 and the parallel AIR citation were both seen reported and both are given rather than picking one over the other. That Santhini v. Vijaya Venketesh (2018) held a party cannot be compelled to appear only by video in a transfer petition, and overruled Krishna Veni Nagam to that extent, was confirmed from the BNB Legal case note and from the LegallyIndia commentary on the same ruling. That later High Court orders read Santhini as leaving Family Courts discretion where both parties consent, and that at least one 2026 Gujarat High Court order took a more permissive view in a mutual-consent matter, rests on secondary commentary summarising those orders rather than on the orders themselves being read in full, and the guide states this as a contested, non-uniform position rather than a settled rule, consistent with the sources' own caveats. The Delhi High Court VC-guideline conditions (confirming location, willingness and facility in advance) and the Karnataka High Court conditions in the NRI film-production case (working-hours examination, oath administered via the link, no objection based on time zones) were each taken from a single secondary summary (a DAKSH paper and an IPleaders blog post respectively) rather than from the original guideline document or judgment text; both are described in the piece as reported by that source rather than as verbatim rule text, and no rupee cost figure is given because none was confirmed.",
+  "related_pages": [
+    "/blog/service-of-summons-foreign-defendant-india-guide.html"
+  ]
+}
