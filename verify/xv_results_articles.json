@@ -2082,5 +2082,29 @@
     "reason": "Corrects the year and supplies the confirmed neutral citation and decision date"
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/110-pct-national-phase-patent-filing-india-foreign-applicant-article.json",
+  "verdict": "FIX",
+  "claims_checked": 14,
+  "evidence": [
+   "https://spicyip.com/2023/08/timelines-under-rule-138-of-patent-rules-are-to-be-interpreted-strictly-and-there-cannot-be-any-leeway-under-rule-49-6-of-pct-regulations-says-delhi-high-court.html",
+   "https://ipindia.gov.in/frontend/pdf/patents/1001_1_final_faqs_form-27_26thaugust2024.pdf",
+   "https://www.intepat.com/blog/shiv-nadar-university-section-21-deemed-abandonment-delhi-high-court",
+   "https://www.jpo.go.jp/e/system/patent/shinsa/soki/pph/japan_india_highway.html"
+  ],
+  "note": "The 31-month national phase/examination-request deadlines, Rule 138(2) exclusion, Diebold and Humanity Life Extension, the Shiv Nadar University Section 21(1)/Section 117A ruling, Novartis on Section 3(d), and the Form 27 three-year cycle mechanics all check out against independent sources. Two as-on-date errors given the article is dated 21 November 2026: (1) the Controller General FAQ confirms the first Form 27 three-year block (FY2023-24 to FY2025-26) had its filing window run 1 April 2026 to 30 September 2026, which had already closed about seven weeks before the article date, not closing shortly after it; (2) the India-Japan Patent Prosecution Highway pilot opened November 2019 was a three-year pilot that the JPO confirms terminated on 20 November 2022, with both offices stopping new PPH applications under it the next day, which is settled rather than merely inconsistent practitioner commentary as the draft frames it.",
+  "fixes": [
+   {
+    "find": "A foreign patentee granted an Indian patent in or around that block should confirm with its Indian agent whether this filing has already fallen due, since the window for that first block closes shortly after the date of this article.",
+    "replace": "A foreign patentee granted an Indian patent in or around that block should confirm with its Indian agent whether this filing has already fallen due, since the window for that first block ran from 1 April 2026 to 30 September 2026 and has already closed as of this article.",
+    "reason": "The Controller General FAQ confirms the window closed 30 September 2026, about seven weeks before this article's 21 November 2026 as-on-date, not shortly after it"
+   },
+   {
+    "find": "Practitioner commentary is not consistent on whether this arrangement still runs as a separate pilot or has been absorbed into the general list of Rule 24C grounds, so an applicant whose claims have already been allowed abroad should ask its Indian agent to confirm current eligibility before counting on this route to shorten the Indian timeline.",
+    "replace": "That three-year pilot terminated on 20 November 2022, and both offices stopped accepting new requests under it the following day, so an applicant whose claims have already been allowed in Japan should ask its Indian agent whether any successor PPH arrangement exists rather than rely on the 2019 pilot.",
+    "reason": "The JPO confirms the 2019 India-Japan PPH pilot ended 20 November 2022; this is a settled fact, not an open practitioner disagreement"
+   }
+  ]
  }
 ]
