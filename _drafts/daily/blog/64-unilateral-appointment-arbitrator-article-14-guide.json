@@ -1,0 +1,89 @@
+{
+  "slug": "unilateral-appointment-arbitrator-article-14-guide",
+  "title": "Unilateral Appointment of an Arbitrator in India: Is the Clause Still Valid?",
+  "seo_title": "Unilateral Arbitrator Appointment Clauses: Still Valid?",
+  "meta_description": "Where Indian law now stands on a contract clause letting one party appoint the arbitrator alone, after the 2024 Constitution Bench ruling in the CORE case.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "format": "case-law explainer",
+  "intro": [
+    "A foreign company signing a contract with an Indian government entity, or with an Indian counterparty that insists on its own standard terms, will frequently find an arbitration clause that lets one side name the sole arbitrator, or pick the entire panel from a list it controls. Whether that clause survives a challenge changed meaningfully after the Supreme Court's Constitution Bench ruling in Central Organisation for Railway Electrification v. ECI-SPIC-SMO-MCML (JV), decided on 8 November 2024 and reported as 2024 INSC 857.",
+    "The short answer is that a unilateral appointment clause in a contract between a government entity and a private party is now treated as unconstitutional on the ground that it offends Article 14 of the Constitution. What the ruling does not do is declare every unilateral appointment clause in every contract automatically void; its reasoning is tied specifically to the government's position as a contracting party, and the position for a contract between two private parties is less settled."
+  ],
+  "sections": [
+    {
+      "heading": "Where the law stood before November 2024",
+      "paragraphs": [
+        "The Arbitration and Conciliation Act's Seventh Schedule, inserted by the 2015 amendment, lists relationships and interests that make a person ineligible to act as arbitrator, generally covering someone who is an employee, consultant or advisor of a party, or who otherwise has a business relationship with a party or its affiliate. The question that reached the Supreme Court repeatedly after 2015 was whether a person who is themselves ineligible under the Seventh Schedule, typically a serving or retired official of one party, can still nominate someone else to be the arbitrator.",
+        "In TRF Ltd v. Energo Engineering Projects Ltd, (2017) 8 SCC 377, a three-judge bench held that a person statutorily ineligible to act as arbitrator cannot nominate another person as arbitrator either; the disqualification travels with the power to appoint. Perkins Eastman Architects DPC v. HSCC (India) Ltd, decided on 26 November 2019, extended this reasoning: where a named official, such as a managing director, has an interest in the outcome of the dispute, that official's unilateral power to appoint the sole arbitrator is itself invalid, even without a formal employment relationship bringing the Seventh Schedule into play in the narrowest sense.",
+        "Between 2019 and 2024, a separate three-judge bench in the first CORE ruling had taken a narrower view on a specific class of railway contracts, holding that a clause giving the employer the power to appoint, where the counterparty was given a panel of names to choose from, was saved from invalidity because the counterparty retained some choice. That view sat uneasily with Perkins and TRF, and the conflict is what the matter was referred to a Constitution Bench to resolve."
+      ]
+    },
+    {
+      "heading": "The November 2024 Constitution Bench ruling",
+      "paragraphs": [
+        "A five-judge bench, with Chief Justice D.Y. Chandrachud writing for the majority, held that a clause allowing a government entity to unilaterally appoint a sole arbitrator, or to control the composition of the panel from which the counterparty must choose, is contrary to Article 14's guarantee against arbitrary state action, in a contract between a public entity and a private party. The reasoning rests on the government's position of economic and bargaining dominance in such contracts and on the principle that equal treatment of parties in constituting the arbitral tribunal is a baseline requirement, not merely a contractual preference.",
+        "The majority's ruling disagreed with and effectively overtook the earlier three-judge view in the first CORE decision and also departed from the position in Voestalpine Schienen GmbH v. Delhi Metro Rail Corporation, which had earlier upheld a panel-based appointment mechanism as adequate so long as the counterparty had some choice within the panel. At least one judge on the bench dissented on the question of whether every such clause should be declared void by the Court in this manner, rather than assessed case by case when a specific challenge comes up under Sections 11, 14 or 34 of the Act.",
+        "Commentary following the ruling has flagged that the majority judgment does not fully resolve whether an offending clause is void from the outset or only voidable once challenged, and that question has practical consequences for arbitrations that proceeded to an award under an old-style clause before November 2024. That gap has left some room for argument in pending matters rather than closing the issue entirely."
+      ]
+    },
+    {
+      "heading": "What this means for a government contract going forward",
+      "paragraphs": [
+        "A foreign contractor, EPC company or equipment supplier negotiating a contract with an Indian government department, public sector undertaking or statutory authority should treat a one-sided appointment clause as a live risk point in the negotiation, not a boilerplate term to accept because the counterparty always uses it. Post-CORE, such a clause is vulnerable to challenge, and a counterparty that insists on retaining unilateral control of the appointment is asking the other side to accept a term the Supreme Court has already found constitutionally doubtful in this category of contract.",
+        "The practical fix that has gained currency is a broad-based, mutually agreed panel from which both sides choose, or an appointment route through an independent appointing authority or institution, rather than a list curated solely by the government department. Existing government contracts that still carry the old clause are not automatically rewritten by the ruling; the clause remains on paper until a party actually raises the challenge in a Section 11 petition for appointment, in a Section 14 application to terminate an arbitrator's mandate, or in a Section 34 challenge to the resulting award."
+      ]
+    },
+    {
+      "heading": "What the ruling leaves open for purely private contracts",
+      "paragraphs": [
+        "The Constitution Bench's reasoning is built on the government's distinct constitutional position as a contracting party, which is why its holding is framed around public-private contracts rather than commercial agreements between two private companies. For a contract between two private parties, such as a foreign investor and an Indian joint venture partner with no government entity involved, the governing authority remains Perkins Eastman and TRF: a unilateral appointment clause is vulnerable where the appointing party or its nominee is itself ineligible under the Seventh Schedule or otherwise has a disqualifying interest in the outcome, but the broader Article 14 reasoning in CORE does not, on its own terms, extend automatically to a dispute with no state party.",
+        "This distinction matters when drafting. A foreign company negotiating a purely commercial contract with an Indian private counterparty still needs to test an appointment clause against the Seventh Schedule and the Perkins line of authority, but it should not assume that CORE by itself strikes down every one-sided appointment mechanism in every Indian contract. Courts have continued to work through how far the CORE reasoning travels, and a party relying on either side of this distinction should expect the point to be argued rather than treated as settled, particularly in any matter where the appointing mechanism was negotiated or exercised before the November 2024 ruling."
+      ]
+    },
+    {
+      "heading": "What a party facing an existing one-sided clause can actually do",
+      "paragraphs": [
+        "If a dispute is already live under an old-style clause with a government counterparty, the usual route is to raise the point at the earliest stage available, typically in a Section 11 petition before the High Court or Supreme Court asking for a court-appointed arbitrator instead of the one the clause would hand to the other side, rather than waiting until an award is passed and challenging it under Section 34. Courts have generally been more receptive to correcting the appointment process before the tribunal is constituted than to unwinding a completed arbitration afterward.",
+        "Where the arbitration has already proceeded to an award under the old clause, a Section 34 challenge can raise the CORE ruling, but the party bringing it should expect the government respondent to argue that the clause was accepted without objection at the time, that the composition point was not raised when it could have been, or that CORE should not apply retrospectively to an arbitration already concluded. None of these arguments has been shown in the sources reviewed here to have been conclusively settled either way, so this is a point to be argued on the specific facts and timing of the arbitration, not treated as a foregone conclusion in either direction."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the 2024 CORE ruling make every unilateral appointment clause void?",
+      "a": "No. The Constitution Bench's holding is specifically about contracts between a government entity and a private party, decided on Article 14 grounds. For purely private contracts, the governing standard remains the Seventh Schedule ineligibility test from TRF and Perkins Eastman, not the broader constitutional reasoning used in CORE."
+    },
+    {
+      "q": "Can a party still challenge an award made under an old unilateral appointment clause?",
+      "a": "Commentary on the ruling notes that whether an offending clause is void from the start or only voidable on challenge was not fully settled by the majority judgment. A party seeking to rely on CORE against an award from before November 2024 should expect that timing and the void-versus-voidable question to be contested."
+    },
+    {
+      "q": "What should replace a unilateral appointment clause in a new government contract?",
+      "a": "A broad-based panel agreed by both parties, or appointment through an independent institution or appointing authority, is the approach commentators point to as consistent with CORE. A clause that lets the government department alone control the appointment, including the panel from which the counterparty must choose, carries renewed litigation risk after this ruling."
+    },
+    {
+      "q": "Does the Seventh Schedule ineligibility rule still matter after CORE?",
+      "a": "Yes. TRF and Perkins Eastman, which test whether the appointing official is personally ineligible or interested in the outcome, remain good law and apply to both government and private contracts. CORE adds a separate, broader ground that applies specifically where a government entity is a contracting party."
+    },
+    {
+      "q": "Is it better to challenge a one-sided clause before or after the arbitrator is appointed?",
+      "a": "Raising the objection before the tribunal is constituted, typically through a Section 11 petition for court appointment, has generally fared better than waiting to challenge an award under Section 34 after the arbitration has run its course. Courts have been more willing to fix the appointment process upfront than to unwind a completed arbitration afterward."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Seventh Schedule, grounds of ineligibility of an arbitrator",
+    "TRF Ltd v. Energo Engineering Projects Ltd, (2017) 8 SCC 377",
+    "Perkins Eastman Architects DPC v. HSCC (India) Ltd, decided 26 November 2019",
+    "Voestalpine Schienen GmbH v. Delhi Metro Rail Corporation Ltd",
+    "Central Organisation for Railway Electrification v. ECI-SPIC-SMO-MCML (JV), 2024 INSC 857 (Constitution Bench, 8 November 2024)",
+    "Constitution of India, Article 14"
+  ],
+  "sources": [
+    "https://www.scobserver.in/cases/appointment-of-arbitrators-by-ineligible-persons/",
+    "https://scconline.com/blog/post/2024/11/08/unilateral-appointment-arbitrator-public-private-contracts-violate-article-14-supreme-court",
+    "https://legalblogs.wolterskluwer.com/arbitration-blog/the-end-of-the-unilateral-appointment-saga-in-india-party-equality-v-party-autonomy-a-tale-of-two-equals/",
+    "https://www.hsfkramer.com/notes/arbitration/2024-posts/Balancing-party-autonomy-and-equal-treatment-of-parties--Indian-Supreme-Court-s-decision-on-unilateral-arbitrator-appointments-",
+    "https://jgu.edu.in/mappingADR/perkins-eastman-architects-dpc-another-v-hscc-india-ltd"
+  ],
+  "verification_notes": "AUDIENCE: foreign company, HNI/family business negotiating Indian contracts. TARGET QUERY: 'is unilateral appointment of arbitrator still valid in India' / 'CORE judgment unilateral arbitrator appointment'. DEMAND EVIDENCE: none seen from an analytics tool; inferred from the sustained volume of arbitration-practitioner commentary (SCC Online, Kluwer Arbitration, HSF Kramer, Trilegal, SCC Observer) still being published on this ruling well into 2025, which indicates continuing practitioner and client interest rather than a one-off news cycle. Core holding of 2024 INSC 857, its date (8 November 2024) and that it is a Constitution Bench decision confirmed from two independent sources, SCC Online Blog's case report and the SCC Observer case page, both reporting the same date, bench composition detail and Article 14 basis. TRF Ltd citation, (2017) 8 SCC 377, confirmed from a Delhi High Court judgment citing it in that form and from the O.P. Jindal Global University ADR mapping project's case note, two independent sources in agreement. Perkins Eastman decision date (26 November 2019) and its holding confirmed from two sources; its law report citation was given differently across sources during research, (2019) 7 SCC 27 in one search result and (2020) 20 SCC 760 / AIR 2020 SC 59 in a second, more detailed lookup, so only the decision date and holding are stated with confidence and the (2020) 20 SCC 760 citation is used as the one independently cross-checked against a citation-lookup source; a reader relying on the exact SCC volume should verify it independently. That CORE's holding is limited to public-private contracts and does not resolve the void-versus-voidable question is stated based on two independent commentaries (Kluwer Arbitration and SCC Observer) that both flag this as an open point; no claim is made about how any specific later High Court or Supreme Court decision has resolved it, since a 2026 Delhi High Court order surfaced in research only in passing and was not opened and verified in full."
+}
