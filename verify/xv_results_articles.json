@@ -2188,5 +2188,18 @@
     "reason": "Removes the false '2022/2023 one-year mainboard expectation' framing and substitutes the real mainboard/SME distinction"
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/114-ip-succession-family-business-trademarks-patents-article.json",
+  "verdict": "PASS",
+  "claims_checked": 11,
+  "evidence": [
+   "https://www.taxclue.in/blog/rule-75-77-trade-marks-rules-2017-application-for-entry-of-assignment-case-and-proof-of-title/",
+   "https://ipindia.gov.in/writereaddata/Portal/ev/sections/ps69.html",
+   "https://ipindia.gov.in/writereaddata/portal/ev/sections/ps20.html",
+   "https://www.advocatekhoj.com/library/bareacts/copyright/20.php",
+   "https://future.indiankanoon.org/doc/614536"
+  ],
+  "note": "Haldiram Bhujiawala v Anand Kumar Deepak Kumar, (2000) 3 SCC 250 / AIR 2000 SC 1287 (28 February 2000, Jagannadha Rao J.) checks out exactly as the draft frames it: the narrow holding that Section 69(2) of the Partnership Act does not bar an unregistered firm from suing for passing off or trademark infringement because that is not a right 'arising from a contract', with no broader succession holding, matching the draft's own explicit caution against reading it more widely. Trade Marks Rules 2017 Rules 75-77 (Chapter V: application for entry of assignment/transmission, case accompanying application, proof of title) are confirmed as described. Patents Act Sections 20(1)/20(4) (claimant by operation of law before grant; surviving joint applicant's consent route), 68 and 69 (writing and registration requirements, extending to transmission by operation of law) all match official IP India text. Copyright Act Section 20's manuscript-bequest rule, limited to what the testator owned and displaceable by contrary intention in the will, is confirmed. related_pages all exist on the live site. No significant errors found."
  }
 ]
