@@ -2106,5 +2106,17 @@
     "reason": "The JPO confirms the 2019 India-Japan PPH pilot ended 20 November 2022; this is a settled fact, not an open practitioner disagreement"
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/111-sebi-insider-trading-rules-family-promoters-listed-company-article.json",
+  "verdict": "PASS",
+  "claims_checked": 13,
+  "evidence": [
+   "https://www.livelaw.in/supreme-court/insider-trading-presumed-when-person-having-confidential-information-trades-loss-or-profit-irrelevant-supreme-court-545332",
+   "https://www.verdictum.in/supreme-court/securities-and-exchange-board-of-india-v-rajeev-vasant-sheth-2026-insc-826-accused-insider-trading-1619666",
+   "https://www.mondaq.com/india/securities/1617104/insider-trading-safeguards-strengthened-sebi-adds-immediate-relatives-to-auto-closure-scope",
+   "https://vinodkothari.com/2025/03/sebi-elongates-unpublished-price-sensitive-information-list/"
+  ],
+  "note": "SEBI v Rajeev Vasant Sheth (2026 INSC 826, 11 Aug 2026) checks out on all stated particulars: the possession-plus-trading presumption, financial need/use-of-proceeds not a defence, the roughly Rs 1.38 crore figure (reported as avoided losses to the promoter's daughters), and the penalty reduction from Rs 25 lakh to Rs 10 lakh for the Chairman. The December 2024 Third Amendment's 6 December 2024 effective date and the 'relative' redefinition with a rebuttable presumption, the March 2025 amendment tying UPSI to LODR Regulation 30 events including credit rating changes with the two-calendar-day external-UPSI logging proviso, the April 2025 circular (SEBI/HO/ISD/ISD-PoD-2/P/CIR/2025/55, 21 April 2025, following the 7 February 2025 consultation paper) extending window closure and PAN tracking to immediate relatives, the Section 15G penalty range (Rs 10 lakh floor up to Rs 25 crore or three times profit), and the Regulation 7(2) Rs 10 lakh/two-trading-day continual disclosure regime including its 2019 extension to the promoter group, all independently confirm. The draft's own hedges (approximate June 2025 effective date, no specific cooling-off figure for the 2024 trading-plan amendment) are appropriately cautious rather than wrong. related_pages all exist on the live site."
  }
 ]
