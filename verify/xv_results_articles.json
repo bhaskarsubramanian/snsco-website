@@ -2143,5 +2143,50 @@
     "reason": "Corrects the sequencing: the suo motu case predates the Bar Association's half-day-sittings submission by about four months, rather than being triggered by it"
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/113-sebi-icdr-2025-2026-pre-ipo-anchor-investor-rules-article.json",
+  "verdict": "FIX",
+  "claims_checked": 13,
+  "evidence": [
+   "https://jsalaw.com/?p=53003",
+   "https://www.mondaq.com/india/shareholders/1786582/decoding-the-ipo-lock-in-framework-under-the-sebi-icdr-regulations",
+   "https://www.corporateprofessionals.com/articles/demystifying-the-ipo-lock-in-framework-under-the-sebi-icdr-regulations/",
+   "https://www.business-standard.com/markets/news/sebi-expands-ipo-anchor-book-to-40-to-boost-institutional-participation-125110601092_1.html",
+   "https://www.azbpartners.com/bank/mechanism-for-lock-in-of-pre-issue-capital-and-pledged-shares-during-initial-public-offering/"
+  ],
+  "note": "The promoter lock-in change tied to use of proceeds (March 2025), the June 2025 widening of the Regulation 14 proviso to let AIFs and FVCIs contribute converted CCS equity toward minimum promoter contribution (210th board meeting, PR 33/2025), the anchor reservation increase from 33% to 40% (with the 40-33-7 mutual fund/insurer-pension split and the 5-15 anchor allottee range), the 24-hour pre-IPO disclosure rule, the 'Specific Investor' waiver mechanism, and the March 2026 pledged-share lock-in mechanism under Regulation 17 all check out against independent sources, which is most of the article. But its second headline claim is wrong: multiple independent sources (including two of the draft's own cited law-firm alerts) confirm Regulation 17 has for some time already locked in non-promoter pre-issue capital for six months from allotment in a MAINBOARD IPO; the one-year figure belongs to an SME IPO under Regulation 239, not to the mainboard rule the March 2025 amendment is said to have shortened. The March 2025 amendment did not change the six-month mainboard duration at all; it widened the categories of pre-issue shares exempt from the lock-in and brought capex-loan repayment within the test used for the promoter's own lock-in. This error runs through a key point, an entire section heading and two of its paragraphs, one FAQ, and part of the common-mistakes section, so it needs more than a one-line correction, though the rest of the article remains sound.",
+  "fixes": [
+   {
+    "find": "The same March 2025 amendment cut the lock-in on pre-IPO shares held by investors other than promoters from one year to six months from the date of allotment, directly shortening the exit runway for pre-IPO investors including foreign venture capital investors and family offices.",
+    "replace": "Regulation 17 already locked in pre-IPO shares held by investors other than promoters for six months from the date of allotment in a mainboard IPO before March 2025 (a separate one-year lock-in applies to an SME IPO under Regulation 239); the March 2025 amendment did not shorten that period, but widened the categories of shares exempt from the lock-in and changed how the promoter lock-in treats repayment of pre-existing capital expenditure loans.",
+    "reason": "The six-month mainboard lock-in predates March 2025; the one-year figure is the separate SME IPO rule under Regulation 239, not an earlier mainboard rule the 2025 amendment shortened"
+   },
+   {
+    "find": "\"heading\": \"Pre-IPO investor lock-in: cut from one year to six months\",",
+    "replace": "\"heading\": \"Pre-IPO investor lock-in: the long-standing six-month period, and what March 2025 actually changed\",",
+    "reason": "The six-month mainboard period is not new; corrects the section heading to match the actual 2025 change"
+   },
+   {
+    "find": "The same March 2025 amendment reduced the lock-in applicable to pre-IPO shares held by persons other than the promoters, the category that covers most foreign venture capital investors, private equity funds and family offices that invested before the IPO, from one year to six months from the date of allotment in the public issue. For an investor planning its exit, this is a direct and favourable change: six months is a materially shorter runway to full liquidity than the year such investors previously had to wait, and it brings India's pre-IPO lock-in closer to the shorter periods common in several other major listing jurisdictions.",
+    "replace": "Regulation 17 of the ICDR Regulations has for some time already locked in pre-IPO shares held by persons other than the promoters, the category that covers most foreign venture capital investors, private equity funds and family offices that invested before the IPO, for six months from the date of allotment in a mainboard public issue (a one-year lock-in applies instead to an SME IPO under Regulation 239). The March 2025 amendment did not shorten this mainboard period; it widened the categories of pre-issue shares exempt from the lock-in altogether and brought repayment of loans taken for earlier capital expenditure within the capex test used for the promoter's own lock-in. An investor should not treat the six-month figure as a recent concession, and should instead check whether its specific holding now falls within one of the widened exemption categories.",
+    "reason": "Corrects the mischaracterisation of a long-standing rule as a March 2025 change, and substitutes the amendment's actual effect"
+   },
+   {
+    "find": "Fund managers running vehicles with their own investor-facing liquidity timelines, such as a venture fund approaching the end of its term or a family office rebalancing a concentrated position, should revisit internal return models built around the older one-year figure. A model that assumed capital would remain locked for twelve months after listing, and that priced in a corresponding discount for illiquidity, now overstates how long that capital is genuinely unavailable, and a fund that has not updated those models risks reporting a more conservative liquidity position to its own investors or limited partners than the current rule actually requires.",
+    "replace": "Fund managers running vehicles with their own investor-facing liquidity timelines, such as a venture fund approaching the end of its term or a family office rebalancing a concentrated position, should check their internal return models against the correct mainboard figure of six months rather than the one-year period that applies only to an SME IPO. A model that assumes a twelve-month lock-in for a mainboard listing, and that prices in a corresponding discount for illiquidity, overstates how long that capital is genuinely unavailable, and a fund relying on such a model risks reporting a more conservative liquidity position to its own investors or limited partners than the rule actually requires.",
+    "reason": "Removes the false premise that the one-year figure was recently shortened; reframes it as a mainboard/SME distinction"
+   },
+   {
+    "find": "Since SEBI's amendment gazetted on 8 March 2025, pre-IPO shares held by investors other than promoters are locked in for six months from the date of allotment in the public issue, down from one year under the earlier rule.",
+    "replace": "Under Regulation 17 of the ICDR Regulations, pre-IPO shares held by investors other than promoters are locked in for six months from the date of allotment in a mainboard public issue (a separate one-year lock-in applies to an SME IPO under Regulation 239). This six-month mainboard period predates the March 2025 amendment, which instead widened the categories of shares exempt from the lock-in and changed how loan repayment counts toward the promoter lock-in's capex test.",
+    "reason": "The six-month period was not introduced by the 8 March 2025 amendment; corrects the FAQ to describe what that amendment actually did"
+   },
+   {
+    "find": "Assuming the lock-in period negotiated or understood at the time of the original investment is still the one that applies at the time of the eventual IPO is the most frequent mistake, given how much the lock-in rules have moved since March 2025. An investor who entered a company in 2022 or 2023 expecting a one-year post-IPO lock-in should specifically check, at the time the company actually files for listing, whether the shorter six-month period now applies, rather than continuing to plan around a liquidity date that the current rule has since moved earlier.",
+    "replace": "Confusing the one-year SME IPO lock-in under Regulation 239 with the six-month mainboard lock-in under Regulation 17 is a frequent mistake, particularly for an investor in a portfolio company that could list on either platform. An investor should confirm, at the time the company actually files for listing, which platform it is listing on and which of the two lock-in periods therefore applies, rather than assuming the mainboard six-month figure is a new or temporary concession.",
+    "reason": "Removes the false '2022/2023 one-year mainboard expectation' framing and substitutes the real mainboard/SME distinction"
+   }
+  ]
  }
 ]
