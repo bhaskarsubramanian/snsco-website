@@ -1,0 +1,215 @@
+{
+  "slug": "dependent-agent-fixed-place-pe-foreign-subsidiary-india-article",
+  "title": "Does Your Indian Subsidiary Create a Permanent Establishment? Reading Hyatt, Progress Rail and Zscaler Together",
+  "subtitle": "Fixed place and dependent agent permanent establishment for a foreign company with an Indian subsidiary, distributor or marketing office, as on 22 November 2026",
+  "seo_title": "Does an Indian Subsidiary Create a PE in India?",
+  "meta_description": "When does an Indian subsidiary create a permanent establishment for its foreign parent? Hyatt, Samsung Heavy, Progress Rail and Zscaler, as on 22 Nov 2026.",
+  "practice_area": "Tax Litigation",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Subhradip Roy",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian, Subhradip Roy",
+  "author_role": "Partner, S&S Co. Advocates & Solicitors; Partner, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-22",
+  "standfirst": "A foreign company that routes its Indian business through a locally incorporated subsidiary is often told that the subsidiary's separate corporate personality keeps the parent out of the Indian tax net. The Supreme Court's four most recent permanent establishment rulings show that this protection is real but conditional, and that the condition turns on facts a group's own internal agreements usually create without anyone intending a tax consequence.",
+  "key_points": [
+    "A separate Indian subsidiary does not, by itself, protect a foreign parent from Indian tax on its own profits; the question under India's tax treaties is whether the parent has a permanent establishment in India, assessed on the group's actual conduct rather than on the corporate structure alone.",
+    "The Supreme Court held in Hyatt International Southwest Asia Ltd v ADIT, 2025 INSC 891, decided 24 July 2025, that Hyatt had a fixed place permanent establishment in India under Article 5(1) of the India-UAE tax treaty because it exercised pervasive and enforceable operational control over two Indian hotels under a Strategic Oversight Services Agreement, even without a dedicated office of its own.",
+    "That builds on two earlier rulings the Supreme Court treated as still good law: Formula One World Championship Ltd v CIT, 2017 SCC OnLine SC 474, which found a fixed place PE in the Buddh International Circuit used for a short annual race, and DIT v Samsung Heavy Industries Co Ltd, (2020) 426 ITR 1, which found no fixed place PE where a Mumbai project office carried out only preparatory or auxiliary liaison work.",
+    "A separate test, the dependent agent permanent establishment, asks whether an Indian entity habitually exercises authority to conclude contracts for the foreign principal or otherwise acts wholly or almost wholly on the principal's behalf; an Indian subsidiary that only provides marketing support, without authority to bind the foreign parent to contracts, has twice been found not to create a DAPE on this basis.",
+    "In Progress Rail Locomotive Inc v Dy CIT (IT), the Delhi High Court's 2024 finding of no fixed place, service or dependent agent PE for a US locomotive parts supplier was upheld when the Supreme Court dismissed the tax department's special leave petition, reported as the SLP's dismissal in 2026, 308 Taxman 242 (SC).",
+    "The Delhi Income Tax Appellate Tribunal reached the same no-DAPE conclusion for a different US software company in Zscaler Inc v DCIT, reported at [2025] 175 Taxmann.com 992, holding that an Indian subsidiary earning its entire income from the US parent and providing marketing support alone did not, without evidence of contract-concluding authority, amount to a dependent agent.",
+    "The dividing line across these cases is control and authority, not labels: a subsidiary that merely supports sales from outside India tends to escape PE status, while a local arrangement that lets the foreign company direct day-to-day operations, as Hyatt's oversight agreements did, tends to create one."
+  ],
+  "sections": [
+    {
+      "heading": "The question a separate subsidiary does not, by itself, answer",
+      "paragraphs": [
+        "Foreign groups entering India are routinely advised to set up a wholly owned Indian subsidiary, in part because a subsidiary's separate legal personality insulates the foreign parent from ordinary civil and regulatory liability for the subsidiary's own conduct. What a subsidiary's separate personality does not automatically do is answer the Indian tax question of whether the foreign parent itself has become taxable in India on its own profits, because that question is governed by a different legal test altogether: the permanent establishment, or PE, concept found in Article 5 of nearly every tax treaty India has signed.",
+        "A permanent establishment is not a company, a subsidiary or a branch in the ordinary commercial sense. It is a treaty concept describing a sufficient physical or agency presence through which a foreign enterprise carries on business in the source country, and once a PE exists, the source country may tax the profits attributable to it, over and above any tax the subsidiary itself already pays on its own, separate income as an Indian taxpayer. The two tax bases are entirely distinct, which is why a PE finding against a foreign parent does not relieve, and is not relieved by, whatever the Indian subsidiary already pays on its own return.",
+        "Four recent rulings, one from the Supreme Court in 2025 and three others decided across 2020, 2024 and 2025, together sketch where that line currently sits for a foreign company operating through an Indian subsidiary, distributor or marketing office. Read together, they show that the line depends overwhelmingly on what the group's own agreements actually let the Indian entity or the foreign parent do, not on how the structure is labelled in the shareholders' agreement or the group's own internal documentation. Two of the four cases found no permanent establishment, two found one, and the difference between them is the single most useful piece of guidance a foreign group can draw from this body of case law before its own structure is tested in the same way."
+      ]
+    },
+    {
+      "heading": "Fixed place PE: the basic test under Article 5(1)",
+      "paragraphs": [
+        "Article 5(1) of the OECD-modelled definition that most of India's treaties follow defines a permanent establishment as a fixed place of business through which the business of an enterprise is wholly or partly carried on. Three elements recur across the case law interpreting this: there must be a place, at the taxpayer's disposal in some real sense, through which the taxpayer's own business, not merely an associated enterprise's business, is actually carried on, with some degree of permanence.",
+        "A specific carve-out in Article 5(4) of most treaties excludes a fixed place used only for activities of a preparatory or auxiliary character, such as a liaison office that merely gathers information for the foreign head office without engaging in the enterprise's core income-generating activity. Indian tax disputes over a foreign company's project office, liaison office or representative office in India have, for decades, turned on whether the office's actual activity crossed from auxiliary support into core business.",
+        "None of this depends on the foreign company owning or leasing the space in its own name. A place can be at an enterprise's disposal, for PE purposes, even where the enterprise uses someone else's premises, including a group subsidiary's own office, provided the enterprise's business is actually carried on through that space with the necessary permanence and the enterprise's own personnel, or persons effectively under its instruction, use it for that purpose."
+      ]
+    },
+    {
+      "heading": "Samsung Heavy Industries: a project office that stayed on the right side of the line",
+      "paragraphs": [
+        "DIT v Samsung Heavy Industries Co Ltd, (2020) 426 ITR 1 (SC), decided 22 July 2020 by a bench of Nariman, Sinha and Gavai JJ, concerned a South Korean shipbuilder's Mumbai project office set up during execution of an offshore platform contract for ONGC. The Income Tax Department argued the project office was a fixed place PE under the India-Korea treaty.",
+        "The Supreme Court held it was not, on the facts found: the Mumbai office carried out only liaison-type coordination and did not itself perform the core design, engineering and fabrication work, most of which was done outside India. The Court treated the office's activity as preparatory or auxiliary within the treaty's own carve-out, and placed the burden of proving a PE squarely on the tax authorities, holding that burden had not been discharged on the facts before it.",
+        "Foreign companies frequently cite the case for the proposition that a liaison or coordination office, kept deliberately narrow in its functions, does not become a fixed place PE merely because it exists in India and is staffed. It does not stand for a blanket exemption for any India-based office, however; the result turned specifically on the Mumbai office's actual, limited activity, a fact pattern the next case shows can easily point the other way."
+      ]
+    },
+    {
+      "heading": "Formula One: a racetrack used seventeen days a year was still a fixed place",
+      "paragraphs": [
+        "Formula One World Championship Ltd v CIT, 2017 SCC OnLine SC 474, decided 24 April 2017 by Sikri J, concerned the Buddh International Circuit near Greater Noida, used for the annual Indian Grand Prix. The foreign taxpayer argued that a circuit used for a few weeks a year, under arrangements with a locally incorporated circuit operator, could not be a fixed place of business carried on by the foreign company itself.",
+        "The Supreme Court disagreed, holding that the circuit was at the foreign company's disposal during the relevant period and that its own personnel exercised sufficiently pervasive control over the event and the circuit for that period to amount to a fixed place PE, notwithstanding that the circuit was owned and primarily operated by a separate Indian entity and used for only a short annual window. Short duration and third-party legal ownership of the premises were not, on their own, enough to avoid PE status once the degree of control was established.",
+        "Hyatt's bench in 2025 expressly drew on this control-based reasoning, treating it as the governing precedent for situations where a foreign enterprise operates through premises it does not own, via contractual rights that let it direct how the premises and the associated business are actually run."
+      ]
+    },
+    {
+      "heading": "Hyatt International: pervasive contractual control over two Indian hotels",
+      "paragraphs": [
+        "Hyatt International Southwest Asia Ltd v ADIT, 2025 INSC 891, decided 24 July 2025 by a bench of Pardiwala and Mahadevan JJ, is now the leading Supreme Court authority on fixed place PE for a foreign hospitality or brand-management company operating Indian hotels through local hotel-owning companies. Hyatt UAE had entered a Strategic Oversight Services Agreement with Asian Hotels Limited, the Indian owner of hotels in Delhi and Mumbai, under which Hyatt provided strategic planning, operational standards and know-how for running the properties.",
+        "The Supreme Court held that Hyatt exercised pervasive and enforceable control over the day-to-day operations of both hotels under these agreements, sufficient to amount to a fixed place PE under Article 5(1) of the India-UAE treaty, even though Hyatt's own employees had no dedicated, exclusively assigned office space inside either hotel. Shared or temporary use of space was treated as sufficient where the underlying business, running the hotel to Hyatt's own operational standards, was genuinely carried on through that space.",
+        "It also held that profits could be attributed to the Indian PE's activity even though Hyatt's broader global business reported losses in the relevant years, rejecting the argument that a globally loss-making enterprise cannot have India-attributable profits, and it affirmed the taxability of the income the Strategic Oversight Services Agreement generated as income of the Indian permanent establishment.",
+        "Commentators have read Hyatt as widening the practical reach of fixed place PE for any foreign brand, franchisor or management company that retains strong, enforceable operational control over an Indian operating entity's day-to-day business through its own agreements, whether or not it holds equity in that entity or maintains a dedicated office there."
+      ]
+    },
+    {
+      "heading": "The dependent agent test: a different question about authority, not premises",
+      "paragraphs": [
+        "A fixed place is not the only route to a permanent establishment. Most Indian treaties also deem a PE to exist where a person in India, other than an independent agent acting in the ordinary course of business, habitually exercises an authority to conclude contracts in the foreign enterprise's name, or habitually secures orders wholly or almost wholly for the foreign enterprise, or performs other functions amounting to a dependent agency on the enterprise's behalf.",
+        "This dependent agent PE, or DAPE, test does not depend on any fixed place at all; an agent operating entirely from their own office, including an Indian subsidiary's own premises, can create a DAPE for the foreign principal if the agent has and habitually exercises the relevant authority or performs the relevant functions. The test turns on what the agent is actually authorised and does, not on where the agent sits.",
+        "A great many foreign companies route their Indian market presence through a wholly owned subsidiary that provides marketing support, local liaison and sometimes limited negotiation assistance for the foreign parent's direct sales into India, without the subsidiary itself concluding the sale contracts. Whether this kind of marketing-support subsidiary creates a DAPE for its foreign parent has been the subject of two recent rulings, each finding that it does not, provided the subsidiary genuinely lacks authority to bind the parent."
+      ]
+    },
+    {
+      "heading": "Progress Rail: marketing support without authority to conclude contracts",
+      "paragraphs": [
+        "Progress Rail Locomotive Inc v Dy CIT (IT), reported at (2024) 466 ITR 76, concerned a US supplier of locomotive components whose Indian subsidiary provided marketing support to the US parent's direct sales into India. The Delhi High Court quashed reassessment notices premised on a fixed place, service and dependent agent PE, finding no evidence that the Indian subsidiary had habitual authority to conclude contracts or secure orders on the US parent's behalf, and finding the subsidiary's actual activity to be no more than preparatory or auxiliary marketing support.",
+        "The tax department pursued a special leave petition against this finding, and the matter has since been resolved in the taxpayer's favour: the Supreme Court dismissed the department's SLP, a dismissal now reported as Dy CIT v Progress Rail Locomotive Inc, 2026, 308 Taxman 242 (SC), leaving the Delhi High Court's no-PE finding as the final word on these facts.",
+        "Progress Rail is now cited as confirmation that a marketing-support subsidiary, carefully kept without authority to negotiate final terms or conclude binding contracts on the foreign parent's behalf, can operate in India without creating either a fixed place or a dependent agent PE for that parent, a structure many foreign manufacturers and suppliers rely on for exactly this reason."
+      ]
+    },
+    {
+      "heading": "Zscaler: the same conclusion for a software company's marketing subsidiary",
+      "paragraphs": [
+        "Zscaler Inc v DCIT, reported at [2025] 175 Taxmann.com 992 (Delhi Trib.), decided around June 2025, involved a US cloud security company's Indian subsidiary, which the tax department treated as a dependent agent PE and attributed roughly a quarter of the group's Indian-sourced revenue to it, on the basis that the Indian entity earned its entire income from the US parent and was therefore economically dependent on it.",
+        "The Income Tax Appellate Tribunal in Delhi held that economic dependence alone does not establish a dependent agent PE under Article 5 of the India-US treaty; the department had not produced evidence, such as specific clauses in the intercompany agreements, showing the Indian subsidiary had the habitual authority to conclude contracts for Zscaler or otherwise acted as its dependent agent, and marketing support by itself did not meet that test. The Delhi High Court separately set aside a related withholding-certificate order once the Tribunal's no-PE finding removed the premise it had rested on.",
+        "Read alongside Progress Rail, Zscaler confirms that the economic reality of a wholly dependent, parent-funded Indian subsidiary is not, by itself, enough to create a DAPE; tax authorities still have to show the specific contractual authority or conduct the treaty's dependent agent clause actually requires, a higher bar than simply pointing to the group's overall corporate and revenue structure."
+      ]
+    },
+    {
+      "heading": "Reading the four cases together: what actually distinguishes them",
+      "paragraphs": [
+        "Samsung Heavy Industries and Progress Rail both found no PE where the Indian presence, a project office in one case and a marketing subsidiary in the other, performed functions the treaty itself treats as preparatory, auxiliary or lacking contract-concluding authority, and where the department could not show otherwise on the evidence. Formula One and Hyatt both found a fixed place PE where the foreign enterprise, through its own contractual arrangements, exercised real and enforceable operational control over premises and a business it did not itself own, regardless of whether it maintained a dedicated office there.",
+        "The variable doing the actual work across all four cases is control and authority, assessed from the specific agreements and the conduct under them, not from the corporate structure chart. A foreign company that keeps its Indian subsidiary, agent or local partner confined to marketing, liaison and support functions, without the authority to conclude contracts and without directing the day-to-day operational decisions of whatever Indian business the group's product or service actually runs through, has a strong basis to argue no PE on either the fixed place or dependent agent route, consistent with Samsung Heavy Industries and Progress Rail.",
+        "A foreign company that instead negotiates strong, enforceable rights to direct an Indian entity's day-to-day operations, whether through a management or brand-oversight agreement of the kind Hyatt used, or through any other arrangement that gives it the practical equivalent of running the Indian business itself, should expect that control, once it becomes pervasive and genuinely enforceable, to be treated the same way Formula One's and Hyatt's control over premises they did not own was treated."
+      ]
+    },
+    {
+      "heading": "What this means for drafting intercompany and management agreements",
+      "paragraphs": [
+        "Groups structuring a new Indian subsidiary, franchise or distribution arrangement should treat the agreement's actual operational clauses, not its label, as the document a future PE dispute will turn on. A services or management agreement that grants the foreign party approval rights over pricing, strategic decisions and day-to-day operational standards, enforceable against the Indian entity, reads very differently to a tax authority than one that confines the foreign party to brand guidelines and quality standards the Indian entity implements on its own judgment.",
+        "Marketing and distribution subsidiaries should be kept, in both the written agreement and in actual practice, without authority to conclude contracts, set final pricing, or bind the foreign parent, with final sale terms concluded directly between the foreign parent and the Indian customer wherever that structure is commercially workable. Internal correspondence, employee designations and day-to-day conduct should match the agreement's stated limits, since both Progress Rail and Zscaler turned on the tribunal's or court's assessment of what actually happened on the ground, not merely what the contract said.",
+        "Where a foreign company does want and need strong operational control, for brand consistency or operational quality reasons that outweigh the PE risk, it should go into that arrangement with the Indian attribution consequences priced in from the outset, including transfer pricing documentation supporting whatever profit is attributed to the Indian PE, rather than discovering the exposure only once an assessment arrives years later."
+      ]
+    },
+    {
+      "heading": "Attribution, withholding and the practical consequences of a PE finding",
+      "paragraphs": [
+        "A PE finding is the beginning of a tax dispute, not its end; the next question is how much of the foreign enterprise's profit is attributable to the Indian PE, a separate and often more contested exercise governed by Article 7 of the relevant treaty and India's domestic attribution rules. Hyatt's holding that profits can be attributed even where the global enterprise reports an overall loss means a PE finding cannot be defeated simply by showing the foreign parent was unprofitable worldwide in the relevant year.",
+        "Withholding is the other practical consequence: a PE finding for the foreign parent affects the Indian payer's obligations under Section 195 of the Income-tax Act, 1961, now carried forward into Section 393 of the Income-tax Act, 2025: once income is treated as attributable to an Indian PE, the usual treaty-based lower withholding rate available to a non-resident without a PE may no longer apply, and the Indian counterparty, whether the subsidiary itself or an unrelated customer, bears the practical risk of under-withholding if the PE question is later decided against the foreign company.",
+        "Foreign companies are well advised to revisit their Indian structuring agreements periodically against the current state of this case law, since the Hyatt ruling in particular has shifted the practical risk assessment for any foreign brand, franchisor or operator with strong contractual control over an Indian operating entity, even where that structure was set up, and had gone unchallenged, well before 2025."
+      ]
+    },
+    {
+      "heading": "Transfer pricing runs alongside the PE question, not instead of it",
+      "paragraphs": [
+        "A foreign group that has structured its Indian presence carefully around the PE tests still has a related, separate exposure: whether the Indian subsidiary itself is being paid an arm's length price for the services, marketing support or manufacturing it actually performs for the group. India's transfer pricing rules apply to this question regardless of whether a PE is found for the foreign parent, and a subsidiary remunerated on a thin cost-plus margin while performing functions a tax officer views as more valuable than the agreements suggest can face its own transfer pricing adjustment, independent of any PE dispute.",
+        "In practice, Indian tax officers frequently raise the PE and transfer pricing questions together in the same assessment, because the evidence used to establish operational control for PE purposes, emails, reporting lines, approval workflows, overlaps heavily with the evidence used to characterise the Indian entity's functions, assets and risks for transfer pricing purposes. A foreign group's internal documentation should be consistent across both analyses, since an inconsistency between what the group tells its transfer pricing study and what the same group's day-to-day conduct shows for PE purposes gives an assessing officer an opening on both fronts at once."
+      ]
+    },
+    {
+      "heading": "Where these disputes are actually fought",
+      "paragraphs": [
+        "A PE dispute begins with a reassessment or an original assessment order from the Indian tax officer, challengeable before the Commissioner of Income Tax (Appeals) or, since the GST Appellate Tribunal-era reforms extended to income tax forums as well, before the Income Tax Appellate Tribunal, the first forum with full fact-finding jurisdiction over the PE question, as both Progress Rail at the High Court stage and Zscaler at the Tribunal stage illustrate.",
+        "An adverse Tribunal finding can be appealed to the jurisdictional High Court on a substantial question of law, and from there, as Progress Rail shows, to the Supreme Court by special leave, though the Supreme Court has generally been reluctant to re-open essentially factual findings on PE once a High Court has examined the actual agreements and conduct in detail, which is part of why the Progress Rail SLP's dismissal, rather than a reasoned Supreme Court judgment on the merits, is the operative outcome in that case.",
+        "A foreign company can also seek certainty in advance, before a dispute arises, through an application to the Authority for Advance Rulings or, for an eligible transaction, an Advance Pricing Agreement covering the attribution question, both of which are generally faster and more predictable than litigating the PE question after an assessment has already issued."
+      ]
+    },
+    {
+      "heading": "What remains unsettled or worth rechecking before relying on this",
+      "paragraphs": [
+        "The exact date and reported citation of the Supreme Court's dismissal of the tax department's SLP in Progress Rail should be confirmed against the Supreme Court's own cause list or a current law reporter before relying on it for a specific filing, since the dismissal is confirmed in this run by professional commentary describing a December 2025 note rather than by the order itself.",
+        "Readers should also confirm the current Income-tax Act, 2025 section number carrying forward Section 195's withholding obligation, and the exact wording of Article 5's fixed place and dependent agent provisions in the specific treaty relevant to their own transaction, since treaty language varies in its detail from one of India's tax treaties to another even where the underlying OECD-modelled structure is similar."
+      ]
+    }
+  ],
+  "conclusion": [
+    "A foreign company cannot answer the Indian permanent establishment question by pointing to its Indian subsidiary's separate incorporation; the Supreme Court and the courts below it look instead at what the group's own agreements actually let the foreign company do in India, and at what the Indian entity actually does on the foreign company's behalf. Marketing and liaison support, kept genuinely without contract-concluding authority, has twice survived scrutiny in Progress Rail and Zscaler.",
+    "Pervasive operational control, even without a dedicated Indian office, has twice failed to survive scrutiny in Formula One and now in Hyatt. Foreign groups structuring or reviewing an Indian presence should read their own management, licensing and distribution agreements against this line, rather than against the comfort of a subsidiary's corporate form, and should expect India's tax officers to keep testing exactly this question as more foreign-brand and franchise structures come up for assessment in the years following Hyatt."
+  ],
+  "faqs": [
+    {
+      "q": "Does having an Indian subsidiary automatically protect a foreign parent from Indian tax?",
+      "a": "No. A subsidiary's separate legal personality shields it from the parent's own civil liabilities, but it does not by itself determine whether the foreign parent has a permanent establishment in India under the relevant tax treaty. Indian courts look at the group's actual agreements and conduct, not at the corporate structure alone."
+    },
+    {
+      "q": "What did the Supreme Court decide in the Hyatt International case?",
+      "a": "In Hyatt International Southwest Asia Ltd v ADIT, 2025 INSC 891, decided 24 July 2025, the Supreme Court held that Hyatt had a fixed place permanent establishment in India because it exercised pervasive and enforceable operational control over two Indian hotels under a Strategic Oversight Services Agreement, even without a dedicated office of its own inside either hotel."
+    },
+    {
+      "q": "Does a marketing-support subsidiary create a dependent agent permanent establishment for its foreign parent?",
+      "a": "Generally not, if the subsidiary genuinely lacks authority to conclude contracts or secure orders on the parent's behalf. The Delhi High Court reached this conclusion in Progress Rail Locomotive Inc v Dy CIT (IT), upheld when the Supreme Court dismissed the tax department's appeal, and the Delhi Tribunal reached the same conclusion in Zscaler Inc v DCIT."
+    },
+    {
+      "q": "Can a foreign company with a globally loss-making business still be found to have a taxable permanent establishment in India?",
+      "a": "Yes. The Supreme Court in Hyatt held that profits can be attributed to an Indian permanent establishment's activity even where the foreign enterprise's global business reported an overall loss in the relevant year, rejecting the argument that a worldwide loss defeats Indian attribution."
+    },
+    {
+      "q": "What is the difference between a fixed place PE and a dependent agent PE?",
+      "a": "A fixed place PE asks whether the foreign enterprise's own business is carried on through a physical place at its disposal in India with some permanence. A dependent agent PE asks a different question, whether a person in India habitually has and exercises authority to conclude contracts for the foreign enterprise, or otherwise acts wholly or almost wholly on its behalf, regardless of any fixed place."
+    },
+    {
+      "q": "Did the project office in the Samsung Heavy Industries case create a permanent establishment?",
+      "a": "No. The Supreme Court in DIT v Samsung Heavy Industries Co Ltd, (2020) 426 ITR 1, held that the Mumbai project office's liaison-type coordination activity was preparatory or auxiliary, and that the tax authorities had not discharged their burden of proving a fixed place permanent establishment on those facts."
+    },
+    {
+      "q": "Why did a racetrack used only a few weeks a year count as a permanent establishment in the Formula One case?",
+      "a": "The Supreme Court in Formula One World Championship Ltd v CIT held that short duration and third-party legal ownership of the premises did not defeat PE status once the foreign company's own personnel exercised pervasive control over the circuit and the event conducted there during the relevant period."
+    },
+    {
+      "q": "What should a foreign company do to reduce the risk that its Indian subsidiary creates a PE?",
+      "a": "Keep marketing, liaison and distribution subsidiaries confined, in both the written agreement and actual practice, to functions without authority to conclude contracts or bind the foreign parent, and if the foreign company does need strong operational control over an Indian entity for commercial reasons, plan for the attribution and withholding consequences of a likely PE finding from the outset rather than after an assessment issues."
+    }
+  ],
+  "references": [
+    "Income-tax Act, 1961, Section 195 (withholding on payments to non-residents), carried forward into Section 393 of the Income-tax Act, 2025",
+    "Representative Article 5 (Permanent Establishment) and Article 7 (Business Profits) provisions as found in India's tax treaties with the UAE, Korea, the United Kingdom and the United States",
+    "Hyatt International Southwest Asia Ltd v Additional Director of Income Tax, 2025 INSC 891 (Supreme Court, decided 24 July 2025)",
+    "DIT (IT) v Samsung Heavy Industries Co Ltd, (2020) 426 ITR 1 (SC) (decided 22 July 2020)",
+    "Formula One World Championship Ltd v Commissioner of Income Tax, 2017 SCC OnLine SC 474 (decided 24 April 2017)",
+    "Progress Rail Locomotive Inc v Dy CIT (IT), (2024) 466 ITR 76 (Delhi HC)",
+    "Dy CIT v Progress Rail Locomotive Inc, SLP dismissal reported 2026, 308 Taxman 242 (SC)",
+    "Zscaler Inc v DCIT, [2025] 175 Taxmann.com 992 (Delhi Trib.)",
+    "OECD Model Tax Convention commentary on Article 5, as generally relied on in interpreting India's treaty definitions of permanent establishment",
+    "Income Tax Act, 1961, provisions on reassessment and the burden of proof in permanent establishment disputes"
+  ],
+  "related_pages": [
+    "/articles/gst-permanent-establishment-withholding-tax-foreign-company-india-article.html",
+    "/articles/closing-branch-liaison-project-office-india-foreign-company-article.html",
+    "/articles/foreign-investment-india-entry-routes-fema-article.html",
+    "/articles/income-tax-act-2025-assessment-reassessment-appeals-article.html"
+  ],
+  "sources": [
+    "https://news.bloombergtax.com/daily-tax-report/hyatt-ruling-in-india-signals-broader-foreign-company-taxation",
+    "https://www.taxscan.in/other-taxations/supreme-court-declares-hyatt-has-permanent-establishment-in-india-must-pay-tax-under-indo-uae-treaty-1428751",
+    "https://www.azbpartners.com/bank/permanent-establishment-rigmarole-supreme-court-decides-in-case-of-hyatt-international/",
+    "https://itatonline.org/digest/dit-it-v-samsung-heavy-industries-co-ltd-2020-426-itr-1-192-dtr-1-315-ctr-622-272-taxman-366-sc",
+    "https://www.livelaw.in/amp/top-stories/mumbai-project-office-of-samsung-heavy-industries-not-a-permanent-establishment-160457",
+    "https://tpcases.com/india-vs-formula-one-world-championship-ltd-april-2017-indias-supreme-court/",
+    "https://www.scconline.com/blog/post/2017/04/25/formula-one-liable-to-taxation-for-the-business-conducted-though-its-permanent-establishment-i-e-buddh-international-circuit/",
+    "https://www.taxmann.com/post/blog/delhi-hc-rules-progress-rail-locomotive-inc-lacks-permanent-establishment-in-india-reassessment-notices-quashed/",
+    "https://www.alvarezandmarsal.com/node/89781",
+    "https://itatonline.org/digest/dy-cit-v-progress-rail-locomotive-inc-2026-308-taxman-242-sc-editorial-progress-rail-locomotive-inc-v-dy-cit-it-2024466-itr-76-339-ctr-129-163-taxmann-com-52delhihc/",
+    "https://bcajonline.org/journal/article-5-of-india-usa-dtaa-indian-subsidiary-of-foreign-parent-company-cannot-constitute-dependent-agent-permanent-establishment-merely-because-it-provided-marketing-support-activity-an/",
+    "https://www.taxscan.in/top-stories/aos-withholding-on-software-receipts-nullified-by-itat-ruling-on-no-pe-delhi-hc-grants-relief-to-zscaler-inc-1440810"
+  ],
+  "verification_notes": "AUDIENCE: foreign company (parents and groups operating in India through a locally incorporated subsidiary, distributor, marketing office or management arrangement). TARGET QUERY: does an Indian subsidiary create a permanent establishment for its foreign parent, dependent agent PE India case law. DEMAND EVIDENCE: none seen as a measured search volume; the topic was chosen because the Supreme Court's Hyatt ruling (24 July 2025) and the Progress Rail SLP dismissal are live, recent developments the site's existing GST/PE article (on digital sellers, OIDAR and withholding) does not cover, since that article's own scope is cross-border digital supply rather than subsidiary- and agency-based PE case law. Every case citation and holding was checked against at least two independent secondary sources found in this run. The Progress Rail Supreme Court dismissal is corroborated by an Alvarez & Marsal note, a Bloomberg Government reference and an ITAT Online case-digest title citing a 2026 Taxman reporter number, but the order itself could not be opened on this session's network, so the precise dismissal date is not stated and readers are told to recheck the citation before relying on it. The Trade Marks and Depositories Act material referenced only in passing elsewhere on this site was not duplicated here. Section numbers for India's specific tax treaties with the UAE, Korea, the UK and the US were described by treaty article number only, since the underlying treaty text itself could not be opened on this session's network."
+}
