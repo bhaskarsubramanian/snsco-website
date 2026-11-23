@@ -1,3 +1,5 @@
 .netlify/
 node_modules/
 *.bak
+seo_boost.py
+gen_redirects.py
