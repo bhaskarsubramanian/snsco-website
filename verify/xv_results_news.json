@@ -5069,5 +5069,38 @@
       "https://www.livelawbiz.com/pdf_upload/2026/11/17/cadila-healthcare-711877.pdf"
     ],
     "note": "Independently re-searched; Cadila Healthcare (now Zydus Lifesciences) v. Abburi Ramaiah, C.R.P. No. 1623/2026, Telangana HC, Vinod Kumar and Jukanti JJ., decided 5 Nov 2026, holding an assignor ceases to be 'patentee' under Section 2(p) once a Section 68 assignment is executed, registration or not, and cannot sue for infringement. As the draft itself already disclosed, this research also could not find a second, genuinely independent reporting outlet beyond LiveLawBiz (other hits are the same story or mirrors); confidence is still reasonable because LiveLawBiz's report is paired with an uploaded copy of the order itself, and the general legal proposition (assignment effective from execution, not registration, since the 2005 Patents Act amendment to Section 68) is well-established Indian patent law independent of this specific case. Not a duplicate of live content."
+  },
+  {
+    "file": "_drafts/daily/updates/46-delhi-hc-bhisham-mehta-gpa-sale-proceeds-coowners.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.verdictum.in/delhi-high-court/bhisham-mehta-v-gita-vig-2026dhc7295-order-xii-rule-6-cpc-decree-against-agent-1621080",
+      "https://courtbook.in/posts/general-power-of-attorney-holder-must-hand-over-property-sale-proceeds-to-owners-heirs-delhi-high-court-dismisses-appeal",
+      "https://lawtrend.in/?p=363863",
+      "https://rawlaw.in/delhi-high-court-orders-attorney-to-pay-%E2%82%B91-01-crore-retained-from-land-sale-holds-gpa-transfers-no-ownership-and-rejects-%E2%82%B972-lakh-loan-defence/"
+    ],
+    "note": "Independently re-verified. Bhisham Mehta v. Gita Vig & Ors., 2026:DHC:7295, decided 31 Aug 2026, confirmed across Verdictum, CourtBook, Lawtrend and RawLaw: a GPA (even irrevocable) does not transfer title, the holder remains an agent bound under Section 218 Indian Contract Act to account for the full sale proceeds, Kusum Mehta's one-fourth share (consistent with the draft's ~Rs 6.95 crore total sale price), only ~Rs 72 lakh was remitted, and the decree of ~Rs 1.01-1.02 crore plus 8% interest was upheld on appeal. One outlier source (KS&K) reports a Rs 2.27 crore figure instead, but the weight of independently converging sources supports the draft's ~Rs 1.02 crore figure; worth a second look by the owner given the outlier. Not a duplicate of live content."
+  },
+  {
+    "file": "_drafts/daily/updates/47-nclat-intarvo-technologies-vivek-jairath-cirp-recall.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelawbiz.com/pdf_upload/2026/11/09/intarvo-technologies-private-limited-710588.pdf",
+      "https://ibbi.gov.in/en/claims/order-process/U72100DL2001PTC109841"
+    ],
+    "note": "Independently re-searched. The underlying facts are confirmed independently of the draft's own sources: IBBI's own order-process record for Intarvo (CIN U72100DL2001PTC109841) confirms the 16 Oct 2023 CIRP admission and the decree dispute, and a separately located appeal filing (Company Appeal (AT) (Ins.) No. 1247 of 2025) confirms the 12 June 2025 NCLT recall order was based on non-disclosure of Vivek Jairath's Rs 2.29 crore Saket-court decree (05.11.2022, CS No. 7495 of 2016, M/s Jairath Constructions). However, this research could not independently confirm the specific NCLAT appellate disposition (dismissal, 30 Oct 2026 date, Rs 5 lakh penalty) from any source beyond LiveLawBiz's own report and weekly digest, which is the same outlet the draft itself relies on; a lawtext.in headnote corroborates that NCLAT upheld the recall but is paywalled and could not be read in full. Given the case's existence, parties and underlying facts are independently confirmed via an official IBBI record, and LiveLawBiz's report is paired with an uploaded primary filing, this is passed, but the owner should treat the exact NCLAT order date and penalty figure as resting on a single outlet pending a second independent confirmation. Not a duplicate of live content."
+  },
+  {
+    "file": "_drafts/daily/updates/48-sebi-accredited-investor-framework-foreign-investors.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/1793874966416.pdf",
+      "https://www.lkslaw.com/insights/articles/sebi-releases-a-new-regulatory-framework-for-accredited-investors",
+      "https://taxguru.in/sebi/sebi-proposes-review-accredited-investor-framework-expands-eligibility.html"
+    ],
+    "note": "Independently re-verified. SEBI's 5 November 2026 circular revising the Accredited Investor framework, confirmed at the primary SEBI PDF and corroborated by Lakshmikumaran & Sridharan and Taxguru: every person resident outside India under FEMA, including all FPIs, is deemed an Accredited Investor without a separate certificate (per the circular's paragraph on deemed status), the manager must record the basis for treating them as such, and ordinary AML/KYC obligations remain. Background confirmed: SEBI's Board approved the changes on 24 Sept 2026 following an August 2026 consultation paper. The LLP-eligibility detail and the (unstated-in-draft) Rs 5 crore threshold mentioned by one outlet were not independently re-confirmed in this round; the draft itself already declined to state the threshold given single-sourcing, which this research did not resolve either way. Not a duplicate of live content."
   }
 ]
