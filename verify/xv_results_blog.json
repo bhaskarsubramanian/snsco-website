@@ -3931,5 +3931,32 @@
       "https://www.casemine.com/commentary/in/facilitation-of-witness-examination-via-audio-video-link:-karnataka-high-court's-innovative-approach-in-twentieth-century-fox-v.-nri-film-production/view"
     ],
     "note": "Praful Desai (2003, Sections 273/284/285 CrPC and Section 3 Evidence Act, costs borne by the State) and Santhini v. Vijaya Venketesh (2018, overruling Krishna Veni Nagam on compelled video appearance in transfer petitions, with later orders reading it as leaving Family Courts discretion on consent) both check out independently. The Karnataka High Court case name, initially looking suspect ('Twentieth Century Fox v. NRI Film Production Associates'), is confirmed real and correctly cited (AIR 2003 Kant 148, decided 9 Jan 2003), sanctioning audio-video witness examination with safeguards. related_pages path confirmed present in origin/main:assets/search-index.json."
+  },
+  {
+    "file": "_drafts/daily/blog/68-press-note-3-fdi-land-bordering-countries-guide.json",
+    "verdict": "FAIL",
+    "claims_checked": 3,
+    "evidence": [
+      "origin/main:assets/search-index.json -> /blog/press-note-3-fdi-land-border-country-guide.html (\"Press Note 3: FDI From Land-Border Countries\", dt 2026-10-30)"
+    ],
+    "note": "DUPLICATE OF LIVE CONTENT. This draft (slug press-note-3-fdi-land-bordering-countries-guide) covers the exact same subject, beneficial-ownership tracing under Press Note 3 and the 2026 automatic-route relaxation, as the already-live /blog/press-note-3-fdi-land-border-country-guide.html (published 30 Oct 2026, same practice area Corporate Law & M&A), down to near-identical title and slug. Publishing this would create a confusing near-duplicate page. The substantive legal content itself (Press Note 3, 17 April 2020; the March 2026 Cabinet approval and Press Note 2 of 2026 10% non-controlling automatic-route carve-out; beneficial-ownership tracing; FEMA compounding for contraventions) was independently spot-checked and is accurate, so this is not a factual-accuracy failure, but the draft duplicates existing coverage and should not be published as a separate item. This is the third of three remaining blog drafts in today's batch and all three turned out to be duplicates (see 69 and 70), suggesting the drafting routine's dedupe_also_against check against origin/main did not run, or failed, for this batch's blog lane."
+  },
+  {
+    "file": "_drafts/daily/blog/69-advance-medical-directive-living-will-india-guide.json",
+    "verdict": "FAIL",
+    "claims_checked": 3,
+    "evidence": [
+      "origin/main:assets/search-index.json -> /blog/living-will-advance-medical-directive-guide.html (\"Living Wills in India: Advance Medical Directives\", dt 2026-10-21)"
+    ],
+    "note": "DUPLICATE OF LIVE CONTENT. This draft (slug advance-medical-directive-living-will-india-guide) is the same topic as the already-live /blog/living-will-advance-medical-directive-guide.html (published 21 Oct 2026, same practice area Wills & Succession): both centre on the 2023 Supreme Court order replacing magistrate attestation with notary/gazetted-officer attestation for an Advance Medical Directive, sourced to the same Common Cause litigation. The underlying legal content was independently spot-checked (Common Cause (2018) 5 SCC 1; the 24 January 2023 order, 2023 SCC OnLine SC 99, confirmed via the official Supreme Court PDF) and is accurate, so this is a duplication problem, not a factual error. Should not be published as a separate item from the existing live guide."
+  },
+  {
+    "file": "_drafts/daily/blog/70-arbitration-seat-vs-venue-india-guide.json",
+    "verdict": "FAIL",
+    "claims_checked": 3,
+    "evidence": [
+      "origin/main:assets/search-index.json -> /blog/seat-vs-venue-arbitration-guide.html (\"Seat vs Venue of Arbitration\", dt 2026-03-11)"
+    ],
+    "note": "DUPLICATE OF LIVE CONTENT. This draft (slug arbitration-seat-vs-venue-india-guide) is the same core topic, nearly the same title, as the already-live /blog/seat-vs-venue-arbitration-guide.html (published 11 March 2026, same practice area Arbitration & Dispute Resolution); both rest on BALCO and BGS SGS Soma JV v. NHPC Ltd for the seat-centric rule. This draft's addition is the 2024 Arif Azim v. Micromax ruling, which the live guide may or may not already cover (not checked against the live guide's full body, only its search-index excerpt). Independently re-verified and confirmed accurate: BALCO, (2012) 9 SCC 552; BGS SGS Soma JV v. NHPC Ltd, (2020) 4 SCC 234; Arif Azim Co. Ltd v. Micromax Informatics FZE, 2024 INSC 850, decided 7 Nov 2024 (bench Chandrachud CJ, Pardiwala and Misra JJ.), Dubai held to be the seat given the stated venue, UAE governing law and non-exclusive Dubai jurisdiction clause, Section 11(6) petition dismissed as not maintainable; other reporters cite the same case differently (2024 SCC OnLine SC 3212 per AZB, 2025 LiveLaw (SC) 871 per KS&K), which is normal multi-reporter citation variance, not an error. Recommend the owner compare this draft against the live guide's full text: if the live guide lacks the Arif Azim discussion, updating the live guide in place may be better than publishing a separate, largely overlapping page."
   }
 ]
