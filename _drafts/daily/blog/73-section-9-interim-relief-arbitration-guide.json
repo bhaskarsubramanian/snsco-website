@@ -1,0 +1,95 @@
+{
+  "slug": "section-9-interim-relief-arbitration-guide",
+  "seo_title": "Section 9 Arbitration: Interim Relief From Courts",
+  "title": "Section 9 of the Arbitration Act: When a Court, Not the Tribunal, Can Grant Interim Relief",
+  "meta_description": "When a party to an arbitration agreement can go to court for interim relief under Section 9, and why that door narrows sharply once the tribunal is formed.",
+  "practice_area": "Arbitration & Dispute Resolution",
+  "format": "step-by-step process with timelines and fees where official",
+  "intro": [
+    "A party that needs to freeze a bank account, restrain the sale of disputed assets, or secure the amount in dispute cannot always wait for an arbitral tribunal to be constituted, and sometimes cannot get an effective remedy from the tribunal even after it exists. Section 9 of the Arbitration and Conciliation Act, 1996 is the court's power to step in and grant interim measures connected to an arbitration, and it operates at three distinct points: before the tribunal exists, while it is sitting, and after the award but before it is enforced.",
+    "The 2015 amendment narrowed this power considerably once a tribunal is in place, and that narrowing is the part practitioners most often get wrong. This guide sets out what Section 9 covers at each stage, the 90-day rule that follows a pre-arbitration order, and the test courts use once a tribunal has already been constituted."
+  ],
+  "sections": [
+    {
+      "heading": "Before arbitration begins",
+      "paragraphs": [
+        "Section 9(1) lets a party apply to a court for interim measures of protection even before the arbitral proceedings have started, so long as there is a valid arbitration agreement covering the dispute. This is commonly used where a party fears the other side will dissipate assets, transfer disputed property, or otherwise defeat the result of an eventual award if nothing is done immediately, and waiting for a tribunal to be appointed would make any relief too late to matter.",
+        "The relief available tracks the kinds of interim measures a court could grant in an ordinary civil suit: the preservation, interim custody, or sale of goods that are the subject matter of the dispute, securing the amount in dispute, interim injunctions, the appointment of a receiver, and any other interim measure of protection that appears just and convenient. Courts are, however, expected to exercise some restraint even at this preliminary stage, keeping in mind that the parties chose arbitration and that the court's role is to support that choice rather than to pre-decide the merits of the dispute.",
+        "Section 9(2) attaches a specific consequence to getting relief at this pre-arbitration stage: once the court grants an interim measure before the arbitral proceedings have begun, the applicant must commence arbitration within ninety days of that order, or within such further time as the court may fix. An order under Section 9 obtained before filing for arbitration is not a substitute for actually starting the arbitration, and letting the ninety days lapse without doing so puts the interim relief at risk of being treated as having outlived its purpose."
+      ]
+    },
+    {
+      "heading": "While the tribunal is sitting",
+      "paragraphs": [
+        "Section 9(1) also covers the period during the arbitral proceedings and after the award but before enforcement under Section 36, so the provision does not by itself close the court's door once arbitration has started. What changes once a tribunal is formed is Section 9(3), added by the 2015 amendment: the court shall not entertain a Section 9(1) application once the tribunal is constituted, unless it finds the Section 17 remedy would not be efficacious.",
+        "Section 17 gives the arbitral tribunal itself the power to grant the same kind of interim measures a court could grant under Section 9, and since the 2015 amendment, a tribunal's Section 17 order is enforceable in the same manner as a court order. The logic of Section 9(3) is that once the tribunal exists and can grant the relief, parties should generally go to the tribunal rather than back to court, both to respect the parties' choice of a private forum and to stop a litigant from running parallel applications before two different decision-makers over the same relief.",
+        "The Supreme Court's decision in Arcelor Mittal Nippon Steel India Ltd v Essar Bulk Terminal Ltd is the leading authority on how this bar actually works. The Court held that the word 'entertain' in Section 9(3) means to consider an application by applying one's mind to the issues it raises, so the relevant question is whether the court had already entertained the Section 9 application, in that sense, before the tribunal was constituted. If it had, the tribunal's later constitution does not strip the court of the power to decide what it had already taken up; the bar is about stopping a fresh application once an effective remedy exists before the tribunal, not about forcing the court to drop a matter it was already actively considering."
+      ]
+    },
+    {
+      "heading": "What makes a Section 17 remedy 'inefficacious'",
+      "paragraphs": [
+        "The exception in Section 9(3) turns on whether the remedy before the tribunal would be inefficacious, and this is necessarily fact-specific rather than a fixed checklist. Situations commonly argued to fit the exception include urgent relief needed against a party or asset that is not within the tribunal's reach, a third party who is not bound by the arbitration agreement and against whom the tribunal has no jurisdiction to act, or a tribunal not yet actually functioning even though nominally constituted, for instance because the arbitrator has not yet taken up the matter or a seat has not been fixed.",
+        "Courts have also recognised that a Section 17 order, while enforceable like a court decree since the 2015 amendment, may in some circumstances still move more slowly in practice than direct court enforcement, particularly where urgent coercive action such as attachment before judgment is needed. Parties relying on this argument should expect it to be tested closely, since the whole structure of the 2015 amendment was designed to route interim relief toward the tribunal once one exists, and courts have generally been reluctant to let Section 9(3) be sidestepped routinely.",
+        "A separate Calcutta High Court line of authority, including the decision in Jaya Industries v Mother Dairy, has addressed the related question of timing: where a court had already taken up an application before the tribunal was constituted, the subsequent constitution of the tribunal was held not to prevent the court from going on to decide that application. This sits alongside, rather than against, the Arcelor Mittal Nippon Steel reasoning on what 'entertain' means."
+      ]
+    },
+    {
+      "heading": "After the award",
+      "paragraphs": [
+        "Section 9 remains available after an award is made and before it is enforced, to protect the subject matter or secure the amount awarded pending enforcement under Section 36. This stage matters because an award, once made, does not automatically translate into money or possession in the winning party's hands; enforcement is a separate process, and a losing party aware of an adverse award has every incentive to move assets before execution proceedings catch up.",
+        "At this post-award stage the Section 9(3) bar on court intervention while a tribunal is 'constituted' generally has less practical relevance, because the tribunal's mandate in relation to the dispute has typically been completed once it renders the award, so there is ordinarily no live Section 17 remedy competing with a Section 9 application for this purpose.",
+        "A party seeking Section 9 relief at this stage still has to show the ordinary ingredients for interim protection: a prima facie case on the underlying award, a likelihood that the opposing party will frustrate enforcement if relief is withheld, and that the balance of convenience favours granting the measure sought."
+      ]
+    },
+    {
+      "heading": "Practical sequencing for a party seeking interim protection",
+      "paragraphs": [
+        "If no arbitration has been invoked yet and urgent protection is needed, file under Section 9(1) in the court that would have jurisdiction, and be ready to invoke arbitration within ninety days of getting the order, since Section 9(2) makes this a near-automatic deadline rather than a discretionary one. Missing it risks the other side arguing that the interim order has served its purpose and should lapse.",
+        "If a tribunal already exists and is functioning, the default route for interim relief is an application under Section 17 before that tribunal, not a fresh Section 9 petition in court; going straight to court at this stage invites an objection under Section 9(3) that can cost real time even if the objection is eventually overcome.",
+        "Where the case genuinely falls within the inefficacious-remedy exception, for example relief needed urgently against a non-signatory or an asset outside the tribunal's practical reach, the Section 9 application should spell out precisely why the Section 17 route would not work in that specific situation, since courts expect this exception to be made out on the facts rather than assumed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get interim relief from a court before arbitration has even started?",
+      "a": "Yes, under Section 9(1), provided there is a valid arbitration agreement covering the dispute. But Section 9(2) requires arbitration to be commenced within ninety days of that order, or within any further time the court fixes, so the relief is tied to actually following through on arbitration."
+    },
+    {
+      "q": "Once an arbitral tribunal is formed, can I still go to court for interim relief?",
+      "a": "Only in limited circumstances. Section 9(3) bars the court from entertaining a fresh Section 9 application once the tribunal is constituted, unless the remedy available from the tribunal under Section 17 would not be efficacious in the circumstances."
+    },
+    {
+      "q": "What does 'entertain' mean in Section 9(3)?",
+      "a": "The Supreme Court in Arcelor Mittal Nippon Steel India Ltd v Essar Bulk Terminal Ltd held that it means the court applying its mind to the issues raised. If the court had already entertained an application in that sense before the tribunal was constituted, it can still go on to decide it afterward."
+    },
+    {
+      "q": "Is a tribunal's Section 17 order as effective as a court order?",
+      "a": "Since the 2015 amendment, an order of the arbitral tribunal under Section 17 is enforceable in the same manner as an order of the court. This is part of why Section 9(3) pushes parties toward the tribunal once it exists, rather than letting them bypass it by going straight back to court."
+    }
+  ],
+  "references": [
+    "Arbitration and Conciliation Act, 1996, Sections 9, 17 and 36 (interim measures by court; interim measures by tribunal; enforcement of awards)",
+    "Arbitration and Conciliation (Amendment) Act, 2015 (insertion of Section 9(3); amendment to Section 17 making tribunal orders enforceable as court orders)",
+    "Arcelor Mittal Nippon Steel India Ltd v Essar Bulk Terminal Ltd, Supreme Court, 2021 (meaning of 'entertain' under Section 9(3))",
+    "Jaya Industries v Mother Dairy, Calcutta High Court (interim relief application already entertained before constitution of the tribunal)"
+  ],
+  "sources": [
+    "https://www.livelaw.in/law-firms/law-firm-articles-/section-9-of-the-arbitration-act-interim-relief-before-during-and-after-arbitration-542469",
+    "https://scconline.com/blog/?p=277815",
+    "https://www.scconline.com/blog/?p=318538",
+    "https://khaitanco.com/thought-leaderships/Maintaining-balance-of-power-Courts-entertainment-of-interim-relief-applications-after-constitution-of-arbitral-tribunal",
+    "https://www.jsalaw.com/newsletters-and-updates/jsa-prism-dispute-resolution-arbitration-august-2023/"
+  ],
+  "verification_notes": [
+    "AUDIENCE: domestic (foreign companies and HNIs in commercial disputes are a secondary fit, since Section 9 relief is commonly sought in high-value commercial arbitrations)",
+    "TARGET QUERY: can I get interim relief from a court in an arbitration under Section 9",
+    "DEMAND EVIDENCE: none seen (no search-volume or trending data retrieved; topic chosen because it was not covered despite several existing guides on Sections 11 and 34 and on emergency arbitrators)",
+    "The three-stage structure of Section 9 (before, during, after arbitration) and the Section 9(2) ninety-day rule following a pre-arbitration order: confirmed from livelaw.in and the SCC Online 'Wide Scope of Section 9' post, both describing the same three stages and the ninety-day consequence.",
+    "Section 9(3)'s bar once the tribunal is constituted, subject to the Section 17-inefficacious exception, and the Arcelor Mittal Nippon Steel holding on the meaning of 'entertain': confirmed from the Khaitan & Co client note and the JSA Prism newsletter, both describing the same Supreme Court holding to the same effect.",
+    "The Calcutta High Court's Jaya Industries v Mother Dairy point on relief already entertained before constitution: reported in the same Khaitan & Co note; this was not independently cross-checked against a second source describing that specific case, so it is presented as a supporting line of authority rather than as independently verified in full.",
+    "Section 17 orders being enforceable as court orders since 2015: this is treated as settled statutory fact, confirmed across both the Khaitan and JSA sources describing the 2015 amendment's effect.",
+    "Left out: a precise, closed list of fact patterns that always satisfy the 'inefficacious remedy' exception, since the sources describe this as fact-specific rather than offering a settled checklist, and stating one would overstate the certainty of the law on this point."
+  ]
+}
