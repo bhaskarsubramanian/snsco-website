@@ -5035,5 +5035,39 @@
       "https://www.livelaw.in/high-court/calcutta-high-court/livelaw-calcutta-high-court-monthly-digest-september-2026-553066"
     ],
     "note": "Case name and citation (Sudha Kankaria v. Krishna Kumar Bhatter (HUF), APD No. 8 of 2026) and the core holding (a financier's loan is a commercial dispute under Section 2(1)(c)(i) of the Commercial Courts Act, 2015 without a mercantile document, rejecting the contrary Ladymoon Towers position) are independently confirmed by LiveLawBiz and Verdictum, whose article URLs match the draft's sources exactly. Justice Aryak Dutt is confirmed as a real sitting Calcutta HC judge who has sat on a Division Bench with Justice Debangsu Basak before (LiveLaw's Sept 2026 monthly digest), supporting the plausibility of this bench pairing, though that specific bench composition for this case was not separately confirmed. The Rs 83.97 lakh figure, the 2008-2009 loan history and the 13 Nov 2026 decision date could not be independently corroborated beyond the draft's own two cited reports in this run; the draft's own note already flags that LiveLaw's neutral citation was not cross-checked against a primary record. Not treated as FIX given the core case identity and holding are solid."
+  },
+  {
+    "file": "_drafts/daily/news/57-delhi-hc-gst-corporate-guarantee-rule-28-reads-down-1-percent-floor.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.barandbench.com/news/litigation/do-fee-free-guarantees-for-group-company-loans-attract-gst-delhi-high-court-answers",
+      "https://www.livelawbiz.com/gst/high-court/delhi-high-court-reads-down-gst-rule-on-corporate-guarantees-allows-valuation-lower-than-1-minimum-558814",
+      "https://lawchakra.in/?p=327419",
+      "https://taxguru.in/goods-and-service-tax/gst-corporate-guarantees-upheld-1-percent-valuation-rule-read-delhi-hc.html"
+    ],
+    "note": "Independently re-verified via fresh searches (not relying on the draft's own source list). Sterlite Power Transmission Ltd. v. Union of India, W.P.(C) 2966/2024, Delhi HC, Kshetrapal and Parashar JJ., decided 17 Nov 2026, confirmed across Bar and Bench, LiveLawBiz and LawChakra/Taxguru: GST applies to fee-free intra-group guarantees (Schedule I related-party deeming), but Rule 28(2)'s 1% valuation floor was read down as rebuttable rather than mandatory, with the 26 Oct 2023 prospective-application point and the contrast with Bombay (no GST absent consideration) and Gujarat (Torrent Power, reading down 'whichever is higher') all confirmed. Not a duplicate of anything on origin/main:assets/search-index.json (no match for 'Sterlite Power', 'corporate guarantee' or 'Rule 28')."
+  },
+  {
+    "file": "_drafts/daily/news/58-delhi-hc-married-earning-heirs-not-barred-motor-accident-compensation.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/high-court/delhi-high-court/earning-spouse-married-children-or-siblings-not-automatically-disentitled-to-motor-accident-compensation-delhi-high-court-558230",
+      "https://www.verdictum.in/delhi-high-court/united-india-insurance-co-ltd-v-savita-2026dhc9920-married-daughter-mact-1625567",
+      "https://courtbook.in/posts/earning-spouse-married-children-or-siblings-not-automatically-disentitled-to-motor-accident-compensation-delhi-high-court",
+      "https://www.apnilaw.com/high-court/delhi-high-court/delhi-high-court-married-and-financially-independent-family-members-cannot-be-denied-motor-accident-compensation-merely-due-to-their-status/"
+    ],
+    "note": "Independently re-verified. United India Insurance Co. Ltd. v. Savita & Anr., MAC.APP. 586/2019 and connected appeals, 2026:DHC:9920, Justice Anish Dayal, decided 6 Nov 2026, confirmed across LiveLaw, Verdictum, Courtbook and ApniLaw: a married/earning/separately-residing heir is not automatically disentitled, every legal representative may maintain a Section 166 claim without first proving dependency, the Tribunal's Keith Rowe v. Prashant Sagar notional-loss-of-estate method was rejected in favour of Sarla Verma/Pranay Sethi, and the award was enhanced (reported figures of roughly Rs 14.38 lakh and Rs 20.2 lakh across the two claimants, consistent with the draft's 'more than twelve lakh' characterisation). Not a duplicate of live content."
+  },
+  {
+    "file": "_drafts/daily/news/59-telangana-hc-patent-assignor-cannot-sue-infringement-cadila-ramaiah.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelawbiz.com/patent/patent-assignor-cannot-sue-for-infringement-after-transferring-rights-telangana-high-court-558779",
+      "https://www.livelawbiz.com/pdf_upload/2026/11/17/cadila-healthcare-711877.pdf"
+    ],
+    "note": "Independently re-searched; Cadila Healthcare (now Zydus Lifesciences) v. Abburi Ramaiah, C.R.P. No. 1623/2026, Telangana HC, Vinod Kumar and Jukanti JJ., decided 5 Nov 2026, holding an assignor ceases to be 'patentee' under Section 2(p) once a Section 68 assignment is executed, registration or not, and cannot sue for infringement. As the draft itself already disclosed, this research also could not find a second, genuinely independent reporting outlet beyond LiveLawBiz (other hits are the same story or mirrors); confidence is still reasonable because LiveLawBiz's report is paired with an uploaded copy of the order itself, and the general legal proposition (assignment effective from execution, not registration, since the 2005 Patents Act amendment to Section 68) is well-established Indian patent law independent of this specific case. Not a duplicate of live content."
   }
 ]
