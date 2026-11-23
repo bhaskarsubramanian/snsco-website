@@ -2321,5 +2321,25 @@
         "reason": "More precise description of the underlying family court order that was appealed."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/121-senior-citizens-maintenance-act-eviction-delhi-article.json",
+    "verdict": "FIX",
+    "claims_checked": 10,
+    "evidence": [
+      "https://www.verdictum.in/delhi-high-court/punam-v-divisional-commissioner-gnct-of-delhi-ors-2026dhc8543-db-1623233",
+      "https://api.sci.gov.in/supremecourt/2019/44892/44892_2019_36_1501_25104_Judgement_15-Dec-2020.pdf",
+      "https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2020/volume%2012/Part%20I/2020_12_1057-1089_1702458419.pdf",
+      "https://lawfoyer.in/samtola-devi-v-state-of-uttar-pradesh-ors-2025-3-s-c-r-1235-2025-insc-404/",
+      "https://www.livelaw.in/supreme-court/senior-citizens-tribunal-can-order-eviction-of-children-from-parents-property-supreme-court-reiterates-546410"
+    ],
+    "note": "Independent re-verification confirms the article's central case law: Punam v. Divisional Commissioner, GNCT of Delhi, 2026 DHC 8543 (DB) is real (W.P.(C) 11683/2022, bench of Chief Justice Devendra Kumar Upadhyaya and Justice Tejas Karia, decided 30 Sept 2026, upholding Rule 22(3)(1)(i) and (iv) and dismissing a daughter-in-law's challenge to her own eviction, citing S. Vanitha); the draft's general description of its holding is accurate though it omits that the petitioner in Punam was herself the daughter-in-law facing eviction, which would have been a natural link to the article's later daughter-in-law/Vanitha discussion (not treated as an error, just a missed cross-reference, left to the owner). S. Vanitha v. Deputy Commissioner, Bengaluru Urban District, decided 15 Dec 2020 by Chandrachud, Malhotra and Banerjee JJ., confirmed at the SCR citation used in the draft, (2020) 12 SCR 1057 (also reported as (2021) 15 SCC 730), and its holding on the Domestic Violence Act right of residence not depending on ownership. Urmila Dixit v. Sunil Sharan Dixit, (2025) 2 SCC 787 (2 Jan 2025, Ravikumar and Karol JJ.), confirmed from two independent sources as holding eviction/transfer of possession under the Act permissible but not mandatory in every case. Samtola Devi v. State of Uttar Pradesh, 2025 INSC 404 (27 Mar 2025), confirmed from two independent sources as holding eviction requires recorded reasons of necessity/expediency and should not override a genuine pending title dispute; the Appellate Tribunal's failure to record such reasons was specifically faulted. One factual problem found: of the three related_pages links, two exist on origin/main:assets/search-index.json but /articles/huf-partition-family-business-succession-article.html does not correspond to any live article; fixed by removing it. Section 2(a)/2(g) definitions, Rule 22 mechanics, Section 23, and Section 5(4)/arrears-limitation claims were not separately re-verified beyond the draft's own convergent sourcing (already two independent sources each per its verification_notes) given this is well-settled statutory text; nothing here contradicted it.",
+    "fixes": [
+      {
+        "find": ",\n    \"/articles/huf-partition-family-business-succession-article.html\"",
+        "replace": "",
+        "reason": "This related_pages path does not exist in origin/main:assets/search-index.json; no article on this exact topic is currently live."
+      }
+    ]
   }
 ]
