@@ -3958,5 +3958,75 @@
       "origin/main:assets/search-index.json -> /blog/seat-vs-venue-arbitration-guide.html (\"Seat vs Venue of Arbitration\", dt 2026-03-11)"
     ],
     "note": "DUPLICATE OF LIVE CONTENT. This draft (slug arbitration-seat-vs-venue-india-guide) is the same core topic, nearly the same title, as the already-live /blog/seat-vs-venue-arbitration-guide.html (published 11 March 2026, same practice area Arbitration & Dispute Resolution); both rest on BALCO and BGS SGS Soma JV v. NHPC Ltd for the seat-centric rule. This draft's addition is the 2024 Arif Azim v. Micromax ruling, which the live guide may or may not already cover (not checked against the live guide's full body, only its search-index excerpt). Independently re-verified and confirmed accurate: BALCO, (2012) 9 SCC 552; BGS SGS Soma JV v. NHPC Ltd, (2020) 4 SCC 234; Arif Azim Co. Ltd v. Micromax Informatics FZE, 2024 INSC 850, decided 7 Nov 2024 (bench Chandrachud CJ, Pardiwala and Misra JJ.), Dubai held to be the seat given the stated venue, UAE governing law and non-exclusive Dubai jurisdiction clause, Section 11(6) petition dismissed as not maintainable; other reporters cite the same case differently (2024 SCC OnLine SC 3212 per AZB, 2025 LiveLaw (SC) 871 per KS&K), which is normal multi-reporter citation variance, not an error. Recommend the owner compare this draft against the live guide's full text: if the live guide lacks the Arif Azim discussion, updating the live guide in place may be better than publishing a separate, largely overlapping page."
+  },
+  {
+    "file": "_drafts/daily/blog/71-trademark-opposition-procedure-india-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://delhihighcourt.nic.in/app/showFileJudgment/68731072025CAT762022_113115.pdf",
+      "https://www.legalserviceindia.com/legal/article-20171-rule-45-2-of-the-trade-marks-rules-2017-is-procedural-and-directory-in-nature.html",
+      "https://www.bananaip.com/intellepedia/tag/trademark-appeals",
+      "https://conventuslaw.com/report/india-intellectual-property-appellate-board/"
+    ],
+    "note": "Two-month counter-statement deadline under Section 21(2)/Rule 44, deemed abandonment on default, and the abolition of the IPAB in 2021 with appeals now going to the jurisdictional High Court are all independently confirmed. The four-month opposition deadline under Section 21(1) and the removal of the earlier extension under the 2017 Rules are consistent with settled commentary. The draft appropriately hedges the evidence-stage sub-timelines and the exact sub-section for the hearing requirement where sources conflicted."
+  },
+  {
+    "file": "_drafts/daily/blog/72-relinquishment-deed-vs-gift-release-deed-coparcener-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://khaitanco.com/thought-leaderships/The-High-Court-of-Delhi-distinguishes-a-relinquishment-deed-from-a-gift-deed",
+      "https://www.scconline.com/blog/post/2025/10/11/relinquishing-property-rights-is-not-gift-under-stamp-act-del-hc/",
+      "https://www.verdictum.in/court-updates/high-courts/delhi-high-court/ramesh-sharma-v-government-of-nct-of-delhi-others-2025dhc8835-db-delhi-high-court-1594422",
+      "https://www.livelaw.in/high-court/bombay-high-court/coparcener-orally-relinquish-rights-ancestral-property-548129",
+      "https://www.livelaw.in/supreme-court/coparceners-release-deed-immediately-divests-rights-in-joint-family-property-unregistered-family-settlement-admissible-to-prove-severance-supreme-court-309179"
+    ],
+    "note": "Two claims are outdated or one-sided. (1) The draft states a 'clear' Delhi HC test that relinquishment to a single co-owner is automatically a gift. That was the 2020 position; a 2025 Division Bench (Ramesh Sharma v. GNCTD, following Anita Kumar v. Ajay Kumar) moved away from it, holding 'not every relinquishment deed executed in favour of one or more co-owners can be treated as a gift deed', and an October 2025 Delhi HC ruling held sisters relinquishing shares to their brother (a single co-owner) was not a gift under the Stamp Act. Stating the older rule as settled, current law is misleading. (2) The draft's oral-relinquishment passage, sourced to a Business Standard piece, actually misdescribes a 2026 Bombay High Court second-appeal ruling as general 'courts have recognised' authority, and omits that it conflicts with the Supreme Court's Vineeta Sharma v. Rakesh Sharma (2020), which held a coparcener's relinquishment must be by a registered instrument and that an unregistered/oral relinquishment cannot be relied on. The Bombay HC view should not be presented as the settled rule.",
+    "fixes": [
+      {
+        "find": "The Delhi High Court has drawn a clear test for distinguishing the two: if a co-owner's relinquishment is made in favour of only one among several co-owners, rather than in favour of all the remaining co-owners together, the document functions as a gift to that one person and should be treated as a gift deed, whatever it is titled. The court's reasoning was that the character of the transaction, not the label the parties chose, decides which instrument it actually is.",
+        "replace": "Delhi High Court authority on this point has shifted and is not settled. A 2020 ruling suggested that a relinquishment made in favour of only one among several co-owners, rather than all the remaining co-owners together, functions as a gift to that one person. A later Division Bench ruling (Ramesh Sharma v. Government of NCT of Delhi, 2025, following Anita Kumar v. Ajay Kumar) moved away from that automatic rule, holding that not every relinquishment in favour of one or more co-owners can be treated as a gift deed for stamp duty purposes; in October 2025 the same court held that sisters relinquishing their shares to their brother, a co-owner, was not a gift under the Stamp Act. The more recent position should be checked against the latest ruling before assuming either rule applies.",
+        "reason": "The 'clear test' stated is the superseded 2020 position; a 2025 Division Bench and an October 2025 ruling moved away from it on materially similar facts (relinquishment to a single co-owner held not to be a gift)."
+      },
+      {
+        "find": "There is a narrow exception worth knowing about: courts have recognised that an oral relinquishment of a share in ancestral property by a coparcener can itself be valid, but once that relinquishment is reduced to writing, the writing must be registered to be effective. Relying on an informal, unregistered writing while treating the transaction as complete is a common and avoidable mistake.",
+        "replace": "Authority on this point conflicts. The Supreme Court held in Vineeta Sharma v. Rakesh Sharma (2020) that relinquishment of a coparcener's share in joint family property must be by a registered instrument, and that an unregistered or oral relinquishment cannot be relied on to defeat another coparcener's share. A 2026 Bombay High Court second-appeal ruling took a different view on its specific facts, holding a coparcener could orally relinquish a share without a registered instrument, but that view has not been tested before the Supreme Court. The safer course is always to execute and register a written relinquishment deed rather than rely on an oral arrangement.",
+        "reason": "The draft presents a single, more permissive Bombay HC ruling as general settled law ('courts have recognised'), without disclosing that it is in tension with the Supreme Court's Vineeta Sharma holding requiring a registered instrument."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/blog/73-section-9-interim-relief-arbitration-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://api.sci.gov.in/supremecourt/2021/19847/19847_2021_8_1501_29979_Judgement_14-Sep-2021.pdf",
+      "https://khaitanco.com/thought-leaderships/Maintaining-balance-of-power-Courts-entertainment-of-interim-relief-applications-after-constitution-of-arbitral-tribunal",
+      "https://elplaw.in/leadership/elp-arbitration-update-arcelor-mittal-nippon-steel-india-ltd-v-essar-bulk-terminal-ltd-2/"
+    ],
+    "note": "Section 9(1)/(2)/(3) structure, the 90-day rule, and the Arcelor Mittal Nippon Steel India Ltd v. Essar Bulk Terminal Ltd holding on the meaning of 'entertain' are all independently confirmed and accurately described, including the correct nuance that the bar applies only to applications not already taken up before the tribunal was constituted."
+  },
+  {
+    "file": "_drafts/daily/blog/74-condonation-of-delay-section-5-limitation-act-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/shivamma-v-karnataka-housing-board-2025-insc-1104-section-5-limitation-act-condonation-of-delay-1591204",
+      "https://www.livelaw.in/amp/top-stories/s5-limitation-act-delay-of-entire-period-from-start-of-limitation-till-actual-filing-date-must-be-explained-supreme-court-303770",
+      "https://www.maheshwariandco.com/press-release/supreme-court-sets-aside-high-court-order-condoning-3966-day-delay-warns-courts-not-to-become-surrogates-for-state-lethargy/"
+    ],
+    "note": "Shivamma (Dead) by LRs v. Karnataka Housing Board, 2025 INSC 1104 (12 Sept 2025), its two holdings (sufficient cause must cover the entire delay period; no special leeway for State lethargy), and the underlying facts (3,966-day delay) are all independently confirmed. The draft appropriately hedges the Pathapati Subba Reddy citation and the unnamed 2025 arbitration-context ruling where full text could not be retrieved."
+  },
+  {
+    "file": "_drafts/daily/blog/75-revoking-a-will-indian-succession-act-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-indian-succession-act-section-69-554194",
+      "https://www.verdictum.in/kerala-high-court/suo-motu-civil-reference-to-examine-the-validity-of-section-69-of-the-indian-succession-act-1925-2026ker77525-1623695",
+      "https://bharatlaw.ai/blog/marriage-revokes-the-will-kerala-high-court-upholds-section-69-of-the-indian-succession-act"
+    ],
+    "note": "Sections 69/70/57/58 and Schedule III, the exclusion of Hindu/Buddhist/Sikh/Jain testators from Section 69, and the Kerala High Court's 2026 suo motu ruling (CR No. 1 of 2025) upholding Section 69 and confirming the Hindu exclusion are all independently confirmed. The draft correctly flags the Special Marriage Act point for Hindu testators as unsettled rather than stating it as fact."
   }
 ]

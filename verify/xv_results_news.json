@@ -5102,5 +5102,69 @@
       "https://taxguru.in/sebi/sebi-proposes-review-accredited-investor-framework-expands-eligibility.html"
     ],
     "note": "Independently re-verified. SEBI's 5 November 2026 circular revising the Accredited Investor framework, confirmed at the primary SEBI PDF and corroborated by Lakshmikumaran & Sridharan and Taxguru: every person resident outside India under FEMA, including all FPIs, is deemed an Accredited Investor without a separate certificate (per the circular's paragraph on deemed status), the manager must record the basis for treating them as such, and ordinary AML/KYC obligations remain. Background confirmed: SEBI's Board approved the changes on 24 Sept 2026 following an August 2026 consultation paper. The LLP-eligibility detail and the (unstated-in-draft) Rs 5 crore threshold mentioned by one outlet were not independently re-confirmed in this round; the draft itself already declined to state the threshold given single-sourcing, which this research did not resolve either way. Not a duplicate of live content."
+  },
+  {
+    "file": "_drafts/daily/news/60-nclt-kolkata-personal-guarantee-invocation-sbi-sonthalia.json",
+    "verdict": "FIX",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/nclt/contractual-invocation-of-personal-guarantee-must-precede-ibc-demand-notice-nclt-kolkata-558543",
+      "https://www.scconline.com/blog/post/tag/form-b-notice/",
+      "https://nclt.gov.in/sites/default/files/pdf_cause_list/B-II_Cause%20List%20Dated%2030.04.2024.pdf",
+      "https://ibbi.gov.in/uploads/order/a99fa2198d61d16d7e53521946b8e2d4.pdf"
+    ],
+    "note": "The core holding (a Form B demand notice cannot itself invoke a personal guarantee; SBI's Section 95(1) petition against Sonthalia dismissed for want of a separate invocation, Enfield Solar Energy as corporate debtor) is confirmed from independent sources. The citation field is wrong: two independent searches tie this exact case (same parties, same Form B/invocation holding) to C.P. (IB) No. 260/KB/2023 with I.A.(IB) No. 887/KB/2024, not 'CP (IB)/33(KB)/2022' as stated. A genuine IBBI listing for CP (IB)/33(KB)/2022 (SBI v. Rajesh Sonthalia) shows a dismissal order dated 19 May 2022, which predates even the bank's own 25 May 2022 notice and cannot be this matter. The draft's own verification_notes already flagged this citation as unconfirmed; it should not have been published as a fact.",
+    "fixes": [
+      {
+        "find": "\"citation\": \"CP (IB)/33(KB)/2022\",",
+        "replace": "\"citation\": \"C.P. (IB) No. 260/KB/2023 (I.A.(IB) No. 887/KB/2024)\",",
+        "reason": "Independent searches (NCLT Kolkata cause lists and a second LiveLawBiz-sourced summary of this exact fact pattern) tie this case to C.P.(IB) No. 260/KB/2023 with I.A.(IB) No. 887/KB/2024, not CP (IB)/33(KB)/2022, which is a different, earlier (19 May 2022) dismissal order involving the same party names."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/news/61-patna-hc-permanent-lok-adalat-no-jurisdiction-land-dispute-bigan-shah.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-permanent-lok-adalat-jurisdiction-record-compromise-land-disputes-558268",
+      "https://www.verdictum.in/patna-high-court/bigan-shah-v-the-state-of-bihar-permanent-lok-adalat-compromise-land-dispute-1625749",
+      "https://indianmasterminds.com/news/judiciary/permanent-lok-adalat-land-dispute-powers-250294/"
+    ],
+    "note": "Case name, case number (CWJC No. 20288 of 2025), bench, decision date (2 Nov 2026), the Sasaram/Rohtas 2011 award, and the core holding (a Permanent Lok Adalat has no jurisdiction over land title/possession disputes, confined to public utility services) are confirmed from independent reports. However, the draft repeatedly attributes this confining rule to 'Section 22C' of the Legal Services Authorities Act, 1987. Independent searches, including on this exact ruling, consistently attribute the jurisdictional limit to Sections 22-A (definition of 'public utility service') and 22-B(1) (establishment of Permanent Lok Adalats 'for exercising jurisdiction in respect of one or more public utility services'); Section 22-C deals with cognizance/procedure and its own proviso (barring non-compoundable offences and high-value disputes), not with confining jurisdiction to public utility services. The section attribution is incorrect.",
+    "fixes": [
+      {
+        "find": "Justice G. Anupama Chakravarthy went back to the statute itself rather than to the terms of the 2011 award. Section 22C of the Legal Services Authorities Act confines a Permanent Lok Adalat's jurisdiction to disputes connected with public utility services, a category built around services such as transport, postal, telegraph, electricity, water supply, insurance and public health, not disputes over who owns or possesses a parcel of agricultural or residential land.",
+        "replace": "Justice G. Anupama Chakravarthy went back to the statute itself rather than to the terms of the 2011 award. Sections 22-A and 22-B(1) of the Legal Services Authorities Act confine a Permanent Lok Adalat's jurisdiction to disputes connected with public utility services, a category built around services such as transport, postal, telegraph, electricity, water supply, insurance and public health, not disputes over who owns or possesses a parcel of agricultural or residential land.",
+        "reason": "The jurisdictional confinement to public utility services comes from Sections 22-A (definition) and 22-B(1) (establishment of Permanent Lok Adalats for public utility services), not Section 22-C, which deals with cognizance of cases and its own, different provisos."
+      },
+      {
+        "find": "however local or small in value the dispute might be.",
+        "replace": "however local or small in value the dispute might be (this follows from Sections 22-A and 22-B of the Act rather than Section 22-C).",
+        "reason": "Clarifies the correct statutory basis given the section-number error identified above, without restating it verbatim elsewhere in the draft."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/news/62-gauhati-hc-judicial-separation-fresh-cause-of-action-abani-das.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-fresh-cause-action-required-seek-judicial-separation-earlier-divorce-petition-558374",
+      "https://www.verdictum.in/guwahati-high-court/a-v-b-raise-same-grounds-judicial-separation-suit-dismissal-suit-divorce-1625744",
+      "https://courtbook.in/posts/fresh-cause-of-action-necessary-to-seek-judicial-separation-after-earlier-divorce-petition-is-dismissed-gauhati-high-court"
+    ],
+    "note": "Parties, bench, full procedural history (2015 divorce petition dismissed 17 Feb 2017, first appeal dismissed 19 July 2018, 2019 judicial separation petition dismissed by Family Court Nalbari), and the holding (earlier cruelty/desertion findings bind the parties absent a fresh cause of action; irretrievable breakdown is not an independent ground under the Hindu Marriage Act) are all confirmed from three independent reports. The appeal number appears to be Mat.App. 26/2021, which the draft's vague citation field omits, but nothing in the draft is factually wrong."
+  },
+  {
+    "file": "_drafts/daily/updates/49-delhi-hc-kalindi-college-posh-committee-bias-challenge.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.devdiscourse.com/article/headlines/3998449-delhi-hc-rejects-kalindi-college-posh-panel-challenge-orders-fresh-inquiry-to-be-completed-in-90-days",
+      "https://news.careers360.com/delhi-university-du-kalindi-college-professors-sexual-harassment-complaint-high-court-posh-act-icc-order-lewd-remarks-threat",
+      "https://lawyerenews.com/legal_detail/posh-act-complainants-dissatisfaction-with-employers-administrative-decisions-no-ground-to-allege-bias-or-disqualify-executive-authority-from-constituting-fresh-internal-committee-delhi-high-court"
+    ],
+    "note": "Petitioners, judge, decision date (27 Oct 2026), and the core holding (mere apprehension of bias insufficient; cogent evidence of real likelihood required; dissatisfaction with past administrative decisions does not establish bias) are confirmed from independent reports. The draft's own note about a 60- vs 90-day discrepancy in the time limit for the fresh inquiry is consistent with what independent sources also show as unresolved."
   }
 ]
