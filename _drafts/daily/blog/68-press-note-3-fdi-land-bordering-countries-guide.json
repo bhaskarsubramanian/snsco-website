@@ -1,0 +1,85 @@
+{
+  "slug": "press-note-3-fdi-land-bordering-countries-guide",
+  "title": "Press Note 3 FDI Rules for Land-Bordering Countries: What the 2026 Changes Mean",
+  "seo_title": "Press Note 3 FDI Rules 2026: What Actually Changed",
+  "meta_description": "How Press Note 3 FDI approval works for investors from countries bordering India, and what the 2026 relaxation under Press Note 2 of 2026 actually allows.",
+  "practice_area": "Corporate Law & M&A",
+  "format": "plain-English guide",
+  "intro": [
+    "A foreign investor or fund with any link to a country sharing a land border with India, including through an upstream beneficial owner, still needs to check Press Note 3 before writing a cheque into an Indian company. The headline change in 2026 is a narrow carve-out for small, non-controlling stakes, not a removal of the approval requirement itself.",
+    "Press Note 3 of 2020 remains the starting point for this analysis even after the 2026 amendment, because the amendment sits on top of it rather than replacing it. Getting the structuring wrong, whether through an indirect holding chain, a round-trip investment, or a transfer that brings a restricted investor above the new threshold, can leave a transaction unwound or a company unable to issue shares it has already allotted."
+  ],
+  "sections": [
+    {
+      "heading": "What Press Note 3 actually requires",
+      "paragraphs": [
+        "The restriction was issued by the Department for Promotion of Industry and Internal Trade on 17 April 2020 as Press Note 3, amending paragraph 3.1.1 of the Consolidated FDI Policy to require prior Indian government approval for any investment, direct or indirect, where the investor is incorporated in a country sharing a land border with India or where the beneficial owner of the investment is situated in, or is a citizen of, such a country. The requirement applies regardless of the sector the Indian investee company operates in, which was the significant departure from the general FDI framework, where most sectors allow investment through the automatic route without any government sign-off.",
+        "The rule was introduced during a period of heightened border tension and was aimed squarely at preventing opportunistic acquisitions of Indian companies, particularly stressed companies, by entities connected to neighbouring countries. Because the test looks past the immediate investing entity to beneficial ownership, a fund based in a third country with limited partners or an upstream holding structure connected to a bordering country can still be caught, which is the detail that trips up investors who assume the rule only concerns direct shareholding from that country."
+      ]
+    },
+    {
+      "heading": "The March 2026 relaxation under Press Note 2 of 2026",
+      "paragraphs": [
+        "The Union Cabinet approved changes to this framework in early March 2026, and the Department for Promotion of Industry and Internal Trade followed with Press Note 2 of 2026, again amending paragraph 3.1.1 of the Consolidated FDI Policy. The amendment does not withdraw Press Note 3. It carves out a defined category of investment from the approval requirement: a non-controlling stake, reported across multiple accounts as up to 10 percent, can now be made through the automatic route, subject to the sectoral cap that would otherwise apply to that industry and to other conditions in the revised policy text.",
+        "Government officials quoted in the press at the time of the announcement were explicit that the relaxation is not an opening for direct investment by Chinese entities without approval, and that anything beyond the defined non-controlling threshold, or any investment structured to give the investor influence over management or board composition, continues to require the same government clearance process as before. Reports describing exact figures for pending applications under the old regime vary a good deal depending on when and by whom they were compiled, so a precise count should not be relied on for planning a specific transaction; what is consistent across reporting is that a backlog existed and that the 2026 change was presented as a partial, not full, response to it."
+      ]
+    },
+    {
+      "heading": "Why beneficial ownership is the hard part to get right",
+      "paragraphs": [
+        "Most queries that come up in practice are not about a company plainly incorporated in a bordering country putting money directly into an Indian entity. They involve a fund domiciled somewhere else entirely, with a general partner, management company, or a tranche of limited partners connected to a bordering jurisdiction, and the question is whether that connection makes the ultimate investment one that Press Note 3 catches. The policy's beneficial ownership language is deliberately broad, and the practical answer in most transactions is to trace the ownership and control chain upward until a natural person or a government is identified, rather than stopping at the first corporate layer.",
+        "A change in beneficial ownership of an existing Indian investment that brings it within the restricted category, for example through a later transfer of shares, a change in a fund's limited partner base, or a restructuring upstream of the investing entity, is treated the same way as a fresh investment for this purpose. An Indian company that allots shares, or registers a transfer, without first confirming that approval was obtained where it was needed risks a compliance breach under the Foreign Exchange Management Act even where the original investment years earlier was unobjectionable."
+      ]
+    },
+    {
+      "heading": "What this means for deal structuring now",
+      "paragraphs": [
+        "For a foreign investor assessing whether the new 10 percent automatic route carve-out applies, the practical starting point is a clean beneficial ownership map of the investing vehicle, built before the term sheet is signed rather than after. Where the structure sits close to the line, whether because of a later funding round that would push cumulative holding past the threshold, or because control rights such as board seats or veto rights are being negotiated alongside the equity stake, the safer course is to apply for approval rather than rely on the automatic route and risk the investment being treated as unauthorised later.",
+        "An Indian company raising funds from a mixed investor group should build the Press Note 3 check into its subscription process for every investor in the round rather than just the one that is obviously connected to a bordering country, because an investor that looks domestic on paper can still have a beneficial owner that is not. Due diligence questionnaires at the term sheet stage, and representations in the share subscription agreement confirming the investor's beneficial ownership position, are now a standard part of managing this risk rather than a precaution reserved for obviously sensitive sectors."
+      ]
+    },
+    {
+      "heading": "What happens if an investment was made without the required approval",
+      "paragraphs": [
+        "An investment that should have gone through the Press Note 3 approval route but was instead routed through the automatic route, whether by mistake or because the beneficial ownership connection was missed, is a contravention under the Foreign Exchange Management Act and is generally dealt with through the compounding process before the Reserve Bank of India, which allows a party to regularise a past contravention on payment of a compounding amount once the underlying facts are disclosed. Compounding does not retrospectively grant the approval that should have been obtained; it addresses the regulatory contravention and allows the investment structure to be corrected going forward.",
+        "Waiting for a regulator to flag the issue, rather than disclosing it through compounding once discovered internally, is generally the costlier path, both because the exposure compounds with time and because a pending unresolved contravention can complicate a later funding round, an exit, or a listing where clean capital structure representations are needed. Companies that have taken investment from a fund with a complex, shifting investor base are well advised to revisit the beneficial ownership position periodically rather than treating the Press Note 3 check as a one-time exercise done only at the time of the original investment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Press Note 3 still require approval after the 2026 changes?",
+      "a": "Yes, for anything beyond the narrow non-controlling stake carved out by Press Note 2 of 2026. The 2026 amendment relaxed the rule for a defined small, non-controlling investment through the automatic route; it did not withdraw the general approval requirement for investment connected to a country sharing a land border with India."
+    },
+    {
+      "q": "Does Press Note 3 only apply to investors incorporated in a bordering country?",
+      "a": "No. It also applies based on beneficial ownership, meaning an investor incorporated elsewhere can still be caught if its ultimate beneficial owner is situated in, or a citizen of, a country sharing a land border with India. This is the detail most often missed in fund structures with layered ownership."
+    },
+    {
+      "q": "Can a later transfer of shares trigger Press Note 3 even if the original investment did not need approval?",
+      "a": "Yes. A change in beneficial ownership of an existing investment that brings it within the restricted category, including through a later share transfer or a change in a fund's investor base, is treated the same as a fresh investment requiring approval."
+    },
+    {
+      "q": "What happens if an Indian company issues shares without checking Press Note 3 for an investor?",
+      "a": "The investment can be treated as an unauthorised contravention under the Foreign Exchange Management Act. This is typically corrected through the compounding process before the Reserve Bank of India once the issue is identified, rather than by informal correction between the company and the investor."
+    },
+    {
+      "q": "Does the 2026 relaxation allow direct Chinese investment without approval?",
+      "a": "Government statements at the time of the 2026 amendment were explicit that it does not. The carve-out is limited to a defined non-controlling stake and does not extend to investment structured to give the investor influence over management or board composition."
+    }
+  ],
+  "references": [
+    "Press Note 3 (2020 Series), Department for Promotion of Industry and Internal Trade, 17 April 2020, amending para 3.1.1 of the Consolidated FDI Policy",
+    "Press Note 2 (2026 Series), Department for Promotion of Industry and Internal Trade, March 2026, further amending para 3.1.1 of the Consolidated FDI Policy",
+    "Foreign Exchange Management Act, 1999, compounding of contraventions before the Reserve Bank of India"
+  ],
+  "sources": [
+    "https://chambers.com/articles/easing-of-fdi-norms-for-land-bordering-countries-a-calibrated-policy-shift-and-its-practical-impact",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/easing-of-fdi-curbs-from-land-bordering-countries",
+    "https://www.5paisa.com/news/cabinet-eases-press-note-3-rules-allows-up-to-10-border-country-fdi-through-automatic-route",
+    "https://www.barandbench.com/view-point/beyond-press-note-3-analysing-press-note-2-2026-and-the-new-fdi-framework-for-land-bordering-countries",
+    "https://www.outlookbusiness.com/economy-and-policy/centre-clarifies-press-note-3-amendments-keeps-china-investment-curbs-firm",
+    "https://www.india-briefing.com/news/india-relaxes-fdi-rules-for-neighboring-countries-allowing-minority-investments-via-automatic-route-43360.html"
+  ],
+  "verification_notes": "AUDIENCE: foreign company. TARGET QUERY: 'Press Note 3 FDI rules 2026 changes' / 'does Press Note 3 still apply after the relaxation'. DEMAND EVIDENCE: none seen from an analytics tool; inferred from a sustained run of law-firm and financial-press coverage of the March 2026 amendment through mid-2026, indicating active practitioner and investor interest rather than a one-day news cycle. That Press Note 3 was issued 17 April 2020 and amends para 3.1.1 of the Consolidated FDI Policy on a beneficial-ownership and incorporation test, regardless of sector, is confirmed from two independent sources (Chambers and Drishti IAS). The March 2026 Cabinet approval and the issuance of Press Note 2 of 2026 amending the same paragraph, and the 10 percent non-controlling automatic-route carve-out subject to sectoral caps, are confirmed from at least three independent sources (Chambers, Drishti IAS, 5paisa, Bar and Bench, India Briefing) that broadly agree on the mechanism, though they differ on exact calendar dates within March 2026, so only 'early' and 'mid' March are stated rather than specific dates. The government clarification that the relaxation does not permit direct Chinese investment without approval is confirmed from two independent sources (Outlook Business and a related wire report). Figures for the number of FDI applications pending approval under the pre-2026 regime varied sharply across sources (from under 200 to around 600 depending on the report and date), so no specific pending-application figure is stated in the draft; the text notes only that a backlog existed. A reported 60-day fast-track approval timeline for the manufacturing sector and a specific count of projects cleared after the relaxation each appeared in only one source during this research and are therefore left out rather than stated as confirmed facts. No contravention, compounding fee amount, or compounding timeline figure is stated because none was independently confirmed from two sources; the compounding process itself is stated only in general terms as a recognised mechanism under the Foreign Exchange Management Act."
+}
