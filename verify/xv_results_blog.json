@@ -4028,5 +4028,60 @@
       "https://bharatlaw.ai/blog/marriage-revokes-the-will-kerala-high-court-upholds-section-69-of-the-indian-succession-act"
     ],
     "note": "Sections 69/70/57/58 and Schedule III, the exclusion of Hindu/Buddhist/Sikh/Jain testators from Section 69, and the Kerala High Court's 2026 suo motu ruling (CR No. 1 of 2025) upholding Section 69 and confirming the Hindu exclusion are all independently confirmed. The draft correctly flags the Special Marriage Act point for Hindu testators as unsettled rather than stating it as fact."
+  },
+  {
+    "file": "_drafts/daily/blog/76-prepayment-charges-floating-rate-loans-rbi-2025-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12878",
+      "https://www.business-standard.com/finance/news/rbi-no-prepayment-charges-loans-mse-bank-small-business-finance-125070201501_1.html",
+      "https://www.taxmann.com/post/blog/analysis-rbi-issues-new-guidelines-on-pre-payment-charges-for-loans"
+    ],
+    "note": "RBI Pre-payment Charges on Loans Directions 2025 (2 July 2025), effective for loans sanctioned/renewed on/after 1 Jan 2026, ban on floating-rate non-business individual and MSE business loan prepayment charges, co-borrowers not excluded, and fixed-rate loans outside scope are all independently confirmed. The Tier 1/2 UCB and base-layer NBFC carve-out is confirmed only in the predecessor circular's text (which the draft itself flags as resting on the draft version rather than re-confirmed final text) -- the guide's own cautious hedging on this point and on the MSE threshold is appropriate and matches what fresh searches could and could not confirm."
+  },
+  {
+    "file": "_drafts/daily/blog/77-muslim-law-intestate-succession-shares-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/supreme-court/mohammedan-law-muslim-widow-with-no-child-entitled-to-14th-share-in-deceased-husbands-estate-supreme-court-307276",
+      "https://www.livelaw.in/sc-judgments/2025-livelaw-sc-1014-zoharbee-and-another-v-imam-khan-d-through-lrs-and-others-307268",
+      "https://www.legalserviceindia.com/legal/article-4004-the-hanafi-law-of-succession.html"
+    ],
+    "note": "Confirmed: Muslim Personal Law (Shariat) Application Act 1937 governs intestate succession; three-class heir structure (sharers/residuaries/distant kindred); widow's 1/4 (childless) and 1/8 (with descendants) shares; single daughter's 1/2, two+ daughters' 2/3; sons taking double a daughter's share as residuaries; mother's 1/6. The Supreme Court ruling is Zoharbee v. Imam Khan, 2025 INSC 1245, decided 16 Oct 2025 (not 2025 INSC-numbered in the draft's own references, which only describe it generically as 'October 2025 ruling' without a citation -- this is an omission, not an error, so no fix needed)."
+  },
+  {
+    "file": "_drafts/daily/blog/78-safeguard-duty-import-surge-dgtr-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.spglobal.com/commodity-insights/en/news-research/latest-news/metals/081825-indias-dgtr-recommends-3-year-safeguard-duty-on-steel-flat-products",
+      "https://www.taxscan.in/top-stories/government-shields-indian-steel-sector-with-three-year-safeguard-duty-plan-amid-import-surge-1441347",
+      "https://www.steelorbis.com/steel-news/latest-news/indias-dgtr-recommends-safeguard-duty-for-three-years-on-imports-of-certain-flat-steel-products-1405537.htm"
+    ],
+    "note": "Fully confirmed from multiple independent sources beyond the draft's own: provisional 12% duty notified 21 April 2025 for 200 days; DGTR final findings August 2025 recommending 12%/11.5%/11% three-year step-down; final notification 02/2025-Customs(SG) dated 30 Dec 2025; gap period where no duty applied between provisional lapse and final notification. Core explanatory distinction from anti-dumping/countervailing duty is accurate."
+  },
+  {
+    "file": "_drafts/daily/blog/79-posh-conciliation-settlement-disciplinary-action-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/high-court/gauhati-high-court/employer-retains-right-to-disciplinary-action-even-after-posh-conciliation-settlement-gauhati-high-court-518288",
+      "https://ksandk.com/newsletter/posh-conciliation-disciplinary-action/",
+      "https://www.verdictum.in/court-updates/high-courts/guwahati-high-court/gauhati-wa-no-149-of-2025-airports-authority-of-india-ors-v-praveen-vs-sexualharassment-of-women-at-workplace-prevention-prohibition-and-redressal-act-2013-1604259"
+    ],
+    "note": "Confirmed from multiple independent sources beyond the draft's own (JSA Prism, SSRana, Mondaq, LatestLaws): Airports Authority of India & Ors v. Praveen VS, WA No. 149/2025, Gauhati HC division bench, decided 9 Dec 2025, holding Section 10(4) POSH Act bars only further IC/LC inquiry and not the employer's separate disciplinary power; single judge's contrary first-instance view; Section 19 safe-workplace rationale. Guide's caution about this being a non-SC ruling with a prior contrary single-judge view is accurate."
+  },
+  {
+    "file": "_drafts/daily/blog/80-section-138-no-pre-cognizance-summons-sanjabij-tari-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/supreme-court/sanjabij-tari-v-kishore-sborcar-2025-insc-1158-summons-accused-payment-cheque-amount-initial-stage-sec138-ni-act-1592654",
+      "https://webiis08.mondaq.com/india/trials-appeals-compensation/1720548/supreme-court-lays-down-guidelines-for-speedy-trial-and-compounding-in-cheque-bounce-cases-an-analysis-of-sanjabij-tari-v-kishore-s-borcar",
+      "https://api.sci.gov.in/supremecourt/2009/31112/31112_2009_12_1501_64549_Judgement_25-Sep-2025.pdf"
+    ],
+    "note": "Confirmed from the Supreme Court's own judgment PDF and independent commentary: Sanjabij Tari v. Kishore S. Borcar, 2025 INSC 1158, decided 25 Sep 2025 (bench Manmohan and N.V. Anjaria, JJ, not stated in the draft but not contradicted by it), holding no pre-cognizance summons/hearing under Section 223 BNSS is required for a Section 138 NI Act complaint, agreeing with the Karnataka HC view in Ashok v. Fayaz Ahmad. The draft appropriately flags as unconfirmed the Delhi HC contrary-argument detail and the full scope of other guidelines in the same judgment."
   }
 ]
