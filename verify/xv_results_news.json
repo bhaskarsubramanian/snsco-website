@@ -5166,5 +5166,86 @@
       "https://lawyerenews.com/legal_detail/posh-act-complainants-dissatisfaction-with-employers-administrative-decisions-no-ground-to-allege-bias-or-disqualify-executive-authority-from-constituting-fresh-internal-committee-delhi-high-court"
     ],
     "note": "Petitioners, judge, decision date (27 Oct 2026), and the core holding (mere apprehension of bias insufficient; cogent evidence of real likelihood required; dissatisfaction with past administrative decisions does not establish bias) are confirmed from independent reports. The draft's own note about a 60- vs 90-day discrepancy in the time limit for the fresh inquiry is consistent with what independent sources also show as unresolved."
+  },
+  {
+    "file": "_drafts/daily/news/63-fssai-second-amendment-2026-milk-logo-dairy-packaging.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://teamleaseregtech.com/updates/article/61236/food-safety-and-standards-labelling-and-display-second-amendment-regul/",
+      "https://dairybusinessmea.com/fssai-mandates-new-logo-for-dairy-product-packaging-from-2028/",
+      "https://www.deccanchronicle.com/amp/nation/in-other-news/fssai-mandates-white-milk-drop-logo-for-dairy-products-by-july-2028-2005120",
+      "https://www.goodreturns.in/news/fssai-new-milk-logo-rule-milk-paneer-ghee-butter-packs-to-carry-new-logo-soon-check-new-packag-1546601.html"
+    ],
+    "note": "Fresh independent searches (trade press and compliance-firm sites not among the draft's own sources) confirm the Second Amendment Regulations 2026, the 1 July 2028 compliance date, the white-drop-on-blue-square logo design, placement on the principal display panel, and the product scope (milk, curd, paneer, ghee, butter, cheese, khoa, ice cream, flavoured fermented milk). Minor press disagreement on notification date (6 vs 9 Nov, gazette publication) does not affect any claim in the draft. No duplicate on live site (checked search-index.json for FSSAI/milk/dairy)."
+  },
+  {
+    "file": "_drafts/daily/news/64-cerc-seci-400mw-solar-tariff-tata-steel-wbsedcl.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://cercind.gov.in/2026/ROP/200-AT-2026_110626.pdf",
+      "https://mercomindia.com/central-power-regulator-approves-tariffs-for-400-mw-solar-projects",
+      "https://solarquarter.com/2026/11/04/cerc-adopts-tariffs-for-secis-400-mw-solar-projects-at-inr-2-42-2-54-per-kwh/",
+      "https://www.constructionworld.in/energy-infrastructure/power-and-renewable-energy/cerc-adopts-tariffs-for-secis-400-mw-solar-projects/99966"
+    ],
+    "note": "Fresh searches (not seeded by the draft's URLs) independently surfaced the same order: 2 Nov 2026, Petition 200/AT/2026 confirmed on CERC's own ROP listing, 400 MW split 50/350 MW via Azure Power India SPVs, Tata Steel as a buyer, and the Rs.2.42-2.54/kWh range. WBSEDCL as second offtaker and the exact block-to-tariff mapping could not be independently confirmed beyond what the draft's own two sources state; the draft is already appropriately cautious about that mapping and about agreement-execution dates, so no fix needed."
+  },
+  {
+    "file": "_drafts/daily/news/65-dgft-rice-export-inspection-certificate-exemption-europe-2027.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.taxscan.in/excise-customs/dgft-limits-mandatory-inspection-certification-for-rice-exports-to-specified-european-countries-exempts-others-until-april-1-2027-read-notification",
+      "https://thetaxcorp.in/article/dgft-extends-eic-inspection-exemption-for-rice-exports-to-select-european",
+      "https://www.tribuneindia.com/news/india/govt-eases-rules-for-rice-export-to-europe",
+      "https://worldtradescanner.com/47-NTFN-DGFT-09.11.2026.htm"
+    ],
+    "note": "Fresh independent sources (Tribune, TheTaxCorp) beyond the draft's own three sources confirm Notification 47/2026-27 dated 9 Nov 2026, amending Notification 07/2026-27, extending the non-EU/UK European exemption from Certificate of Inspection to 1 April 2027, with EU, UK, Iceland, Liechtenstein, Norway and Switzerland remaining covered by the mandatory certificate."
+  },
+  {
+    "file": "_drafts/daily/updates/50-delhi-hc-daulat-ram-ram-singh-jjr-scheme-gpa.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://delhihighcourt.nic.in/app/showFileJudgment/68903112026RFA3022023_164354.pdf",
+      "https://courtkutchehry.com/judgments/daulat-ram-vs-ram-singh",
+      "https://lawyerenews.com/legal_detail/unregistered-gpa-sales-convey-no-title-under-jjr-scheme-co-sharer-can-sue-for-possession-against-unauthorized-occupants-under-section-96-cpc-delhi-high-court"
+    ],
+    "note": "Fresh search confirms RFA 302/2023, Daulat Ram v Ram Singh, decided 3 Nov 2026 by Rajneesh Kumar Gupta, J., dismissing the appeal; JJR Scheme allotment, unregistered GPA/agreement to sell/will conveying no title, and Section 96 CPC co-sharer possession suit all independently corroborated. No duplicate on live site (search-index.json checked for 'Daulat Ram' and 'JJR Scheme', 0 hits)."
+  },
+  {
+    "file": "_drafts/daily/updates/51-delhi-hc-central-footwear-gnct-delhi-costs-industrial-plot.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.livelaw.in/high-court/delhi-high-court/deplorable-delhi-high-court-slaps-1-lakh-costs-on-delhi-govt-for-disregarding-court-orders-directs-recovery-from-officers-salaries-558310",
+      "https://www.verdictum.in/delhi-high-court/central-footwear-co-v-government-of-national-capital-territory-of-delhi-and-another-1625675",
+      "https://courtbook.in/posts/delhi-hct-imposes-1-lakh-costs-on-delhi-govt-for-ignoring-earlier-orders-in-industrial-plot-allotment-case"
+    ],
+    "note": "Confirmed independently: W.P.(C) 16614/2024, Justice Amit Mahajan, Rs 1 lakh costs on GNCTD payable to the Delhi HC Legal Services Committee with recovery from responsible officers' salaries, over the Relocation Scheme 1996 industrial-plot claim, four prior approaches to court. No duplicate on live site."
+  },
+  {
+    "file": "_drafts/daily/updates/52-supreme-court-dda-rajender-kumar-sharma-gratuity-acquittal-appeal.json",
+    "verdict": "PASS",
+    "claims_checked": 5,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/delhi-development-authority-v-rajender-kumar-sharma-2026-insc-1213-superannuated-employees-acquittal-1625948",
+      "https://lawtrend.in/supreme-court-gratuity-withheld-pending-appeal-against-acquittal/",
+      "https://lawchakra.in/supreme-court/gratuity-cannot-be-withheld/"
+    ],
+    "note": "Confirmed independently across multiple reporters: DDA v. Rajender Kumar Sharma, 2026 INSC 1213, decided 16 Nov 2026 by Justices Prashant Kumar Mishra and Shree Chandrashekhar, dismissing DDA's appeals and holding a pending State appeal against acquittal (no stay) cannot justify withholding gratuity, subject to a refund undertaking. No duplicate on live site."
+  },
+  {
+    "file": "_drafts/daily/updates/53-mca-companies-listing-equity-instruments-permissible-jurisdictions-amendment-rules-2026.json",
+    "verdict": "PASS",
+    "claims_checked": 4,
+    "evidence": [
+      "https://teamleaseregtech.com/updates/article/61117/companies-listing-of-equity-instruments-in-permissible-jurisdictions-a/",
+      "https://vinodkothari.com/?p=60175",
+      "https://www.corplawupdates.in/updates/mca-overseas-listing-amendment-rules-2026-gsr-968e",
+      "https://www.caclubindia.com/news/mca-notifies-overseas-listing-amendment-rules-2026-26937.asp"
+    ],
+    "note": "Confirmed independently (including the G.S.R. 968(E) gazette identifier, not in the draft's own sources) that MCA notified the Companies (Listing of Equity Instruments in Permissible Jurisdictions) Amendment Rules, 2026 on 3 Nov 2026, renaming the 2024 'equity shares' rules to the wider 'equity instruments' and widening the eligible instruments. No duplicate on live site."
   }
 ]
