@@ -2421,5 +2421,67 @@
     ],
     "note": "Revanasiddappa v. Mallikarjun's citation (2023 INSC 783), decision date (1 Sept 2023), bench (CJI Chandrachud plus Pardiwala and Misra JJ), its origin as Civil Appeal No. 2844 of 2011 (confirmed via Supreme Court records), and its precise holding (notional-partition share through the parent only, not coparcener status by birth) all check out against independent sources and match the draft exactly. Jinia Keotin v. Kumar Sitaram Manjhi (2003) 1 SCC 730, decided 20 Dec 2002, and its holding confining Section 16(3) children to separate property only, is correctly stated as the overruled prior position. The Section 18 full-blood/half-blood point is correctly flagged as unsettled: a Bombay HC Full Bench did overrule the narrower Purshottam reading, and other High Courts (e.g. Madras) have taken differing views, matching the draft's hedge. Sections 5(i), 11, 12, 16 of the Hindu Marriage Act and the adoption/severance rule under the Hindu Adoptions and Maintenance Act are correctly and conventionally stated. No fabricated citations or overreaching claims found.",
     "fixes": []
+  },
+  {
+    "file": "_drafts/articles/126-charitable-trust-section-8-company-society-hni-philanthropy-article.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://taxguru.in/income-tax/trust-registration-renewal-income-tax-act-2025-form-105-documents-required.html",
+      "https://www.caclubindia.com/articles/charitable-trusts-under-the-income-tax-act-2025-55349.asp",
+      "https://www.caclubindia.com/articles/section-12ab-renewal-guide-10-year-validity-framework-under-finance-act-2025-54021.asp",
+      "https://www.icnl.org/?p=5179"
+    ],
+    "note": "Income-tax Act 2025 Sections 332 (registration) and 354 (80G-equivalent donor approval) replacing Sections 12A/12AB and 80G(5), 1 April 2026 commencement, and carry-over of existing valid registrations all confirmed by independent sources. Finance Act 2025's extension of registration validity from five to ten years for entities with receipts under Rs 5 crore in the preceding two years is confirmed; independent sources also confirm the draft's hedge that the Section 80G/354 donor-approval track is widely reported as staying on the five-year cycle (not extended), which matches the draft's appropriately cautious wording rather than contradicting it. Indian Trusts Act 1882 Section 1 confining the Act to private trusts, and the Charitable and Religious Trusts Act 1920 as the applicable central statute for public trusts outside states with their own Public Trusts Act, are confirmed, though no source specifically addressed West Bengal's position (the draft already flags this as inference rather than direct confirmation in its own verification notes). Minimum membership figures (7 for a society, 2 for a Section 8 company) and the general trust/society/Section 8 company tradeoffs on compliance, control and dissolution are standard and consistent with sources. No fabricated citations found; genuinely unsettled points are appropriately hedged.",
+    "fixes": []
+  },
+  {
+    "file": "_drafts/articles/127-nri-hni-commercial-real-estate-investment-india-article.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://blog.tdsman.com/2026/05/tds-on-purchase-of-immovable-property-section-3931-194ia/",
+      "https://www.taxmann.com/post/blog/section-393-income-tax-act-2025-tds",
+      "https://taxguru.in/income-tax/tds-immovable-property-purchases-compliance-income-tax-act-2025.html",
+      "https://website.rbi.org.in/documents/d/rbi/faq_purchaseofimmovableproperty"
+    ],
+    "note": "FEMA NDI Rules 2019 permissive acquisition rule (commercial property included, agricultural/plantation/farmhouse excluded), RERA's use-neutral Section 3(2)(a) threshold, the USD 1 million NRO repatriation scheme, and the residential-specific two-property lifetime repatriation cap (with no confirmed commercial-specific cap) all check out and are appropriately hedged where sources disagree. One systematic, fixable issue: the article states TDS rules throughout under Section 194-IA (buyer's 1% withholding), Section 195 (NRI-seller withholding) and Section 197 (lower/nil deduction certificate) of the Income-tax Act, 1961. Those provisions were superseded when the Income-tax Act, 2025 came into force on 1 April 2026; multiple independent sources (TDSman, Taxmann, TaxGuru) confirm the buyer's-side obligation is now Section 393(1) [Table Sl. No. 3(i)] of the 2025 Act (same 1%/Rs 50 lakh substance, with Form 26QB/16B replaced by Form 141/132), and the seller-side non-resident withholding and lower/nil-deduction certificate now sit under the 2025 Act's equivalent provisions rather than Sections 195/197. Since this article's as-on date (23 Nov 2026) is after the new Act's commencement, citing the old 1961 section numbers as current law is an outdated citation, though the underlying substantive advice (rates, thresholds, which side bears which obligation) remains correct. Separately, current sources are genuinely split on whether under-construction commercial property GST remains at 12% (with ITC) or was unified to 18% in a more recent rate change; the draft's choice of 12% is defensible given the sources it cites, but this is worth the owner double-checking against a current CBIC notification given how recently GST rates were rationalised.",
+    "fixes": [
+      {
+        "find": "a resident buyer purchasing from an NRI seller must withhold tax on the full sale consideration under Section 195 unless the seller has obtained a lower or nil deduction certificate, while an NRI buying from a resident seller has the ordinary Section 194-IA, one percent withholding obligation that applies to any buyer once the consideration crosses the statutory threshold.",
+        "replace": "a resident buyer purchasing from an NRI seller must withhold tax on the full sale consideration under what is now Section 393 of the Income-tax Act, 2025 (which replaced Section 195 of the 1961 Act from 1 April 2026) unless the seller has obtained a lower or nil deduction certificate, while an NRI buying from a resident seller has the ordinary one percent withholding obligation, now under Section 393(1) of the Income-tax Act, 2025 (previously Section 194-IA), that applies to any buyer once the consideration crosses the statutory threshold.",
+        "reason": "Sections 194-IA, 195 and 197 of the Income-tax Act, 1961 were superseded by the Income-tax Act, 2025 from 1 April 2026; the article's as-on date is after that commencement."
+      },
+      {
+        "find": "the resident buyer must withhold tax under Section 195 on the entire sale consideration, not merely the capital gain, at the rate applicable to a non-resident seller, unless the NRI seller has obtained a lower or nil deduction certificate from the tax authority under Section 197 on the strength of Form 13, a process this article does not repeat in detail since a separate guide on this site addresses it specifically for an NRI seller.",
+        "replace": "the resident buyer must withhold tax under what is now Section 393 of the Income-tax Act, 2025 (replacing Section 195 of the 1961 Act from 1 April 2026) on the entire sale consideration, not merely the capital gain, at the rate applicable to a non-resident seller, unless the NRI seller has obtained a lower or nil deduction certificate from the tax authority under the new Act's equivalent of the former Section 197, a process this article does not repeat in detail since a separate guide on this site addresses it specifically for an NRI seller.",
+        "reason": "Outdated section citation; superseded by the Income-tax Act, 2025."
+      },
+      {
+        "find": "Where an NRI is instead the buyer purchasing from a resident seller, a different and generally simpler provision applies: Section 194-IA requires any buyer, resident or non-resident, to withhold tax at one percent of the sale consideration where that consideration is Rs 50 lakh or more, and to deposit that amount with the government and report the transaction, regardless of the buyer's own residency status. An NRI investor buying a commercial unit from an Indian resident developer or seller should expect to comply with this ordinary 194-IA obligation in the buyer's own capacity, a routine compliance step rather than a residency-specific complication, and should not confuse it with the considerably more involved Section 195 process that applies only when the NRI is on the selling side of a transaction.",
+        "replace": "Where an NRI is instead the buyer purchasing from a resident seller, a different and generally simpler provision applies: Section 393(1) of the Income-tax Act, 2025 (the provision that replaced Section 194-IA from 1 April 2026) requires any buyer, resident or non-resident, to withhold tax at one percent of the sale consideration where that consideration is Rs 50 lakh or more, and to deposit that amount with the government and report the transaction, regardless of the buyer's own residency status. An NRI investor buying a commercial unit from an Indian resident developer or seller should expect to comply with this ordinary obligation in the buyer's own capacity, a routine compliance step rather than a residency-specific complication, and should not confuse it with the considerably more involved process that applies only when the NRI is on the selling side of a transaction.",
+        "reason": "Outdated section citation; superseded by the Income-tax Act, 2025."
+      },
+      {
+        "find": "The investor should also confirm, before signing, who is responsible for the Section 194-IA withholding at the point of payment,",
+        "replace": "The investor should also confirm, before signing, who is responsible for the Section 393(1) withholding (the provision that replaced Section 194-IA from 1 April 2026) at the point of payment,",
+        "reason": "Outdated section citation; superseded by the Income-tax Act, 2025."
+      },
+      {
+        "find": "Section 194-IA requires a buyer, whether resident or non-resident, to withhold tax at one percent of the sale consideration where that consideration is Rs 50 lakh or more, and to deposit it with the government. This is a separate and generally simpler obligation from the Section 195 withholding a resident buyer must undertake when purchasing from an NRI seller, which is based on the seller's non-resident status rather than the buyer's.",
+        "replace": "Section 393(1) of the Income-tax Act, 2025 (which replaced Section 194-IA from 1 April 2026) requires a buyer, whether resident or non-resident, to withhold tax at one percent of the sale consideration where that consideration is Rs 50 lakh or more, and to deposit it with the government. This is a separate and generally simpler obligation from the withholding a resident buyer must undertake when purchasing from an NRI seller (now under the 2025 Act's equivalent of the former Section 195), which is based on the seller's non-resident status rather than the buyer's.",
+        "reason": "FAQ repeats the outdated section citation; superseded by the Income-tax Act, 2025."
+      },
+      {
+        "find": "Income-tax Act, 1961, Section 194-IA (one percent TDS on purchase of immovable property by any buyer above the prescribed threshold)",
+        "replace": "Income-tax Act, 2025, Section 393(1) (one percent TDS on purchase of immovable property by any buyer above the prescribed threshold; replaced Section 194-IA of the Income-tax Act, 1961 from 1 April 2026)",
+        "reason": "References list should cite the current Act given the article's November 2026 as-on date."
+      },
+      {
+        "find": "Income-tax Act, 1961, Section 195 (TDS on payment to a non-resident seller) and Section 197 (certificate for lower or nil deduction)",
+        "replace": "Income-tax Act, 2025, Section 393 and related provisions (TDS on payment to a non-resident seller and certificate for lower or nil deduction; replaced Sections 195 and 197 of the Income-tax Act, 1961 from 1 April 2026)",
+        "reason": "References list should cite the current Act given the article's November 2026 as-on date."
+      }
+    ]
   }
 ]
