@@ -2483,5 +2483,41 @@
         "reason": "References list should cite the current Act given the article's November 2026 as-on date."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/128-trustee-removal-breach-family-trust-india-article.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.businesstoday.in/latest/corporate/story/sunjay-kapur-estate-row-priya-kapur-removes-rani-kapur-as-trustee-of-rk-family-trust-522148-2026-03-24",
+      "https://theprint.in/judiciary/family-trust-wars-punjab-haryana-hc-says-you-cant-inherit-a-trusteeship-you-have-to-be-appointed/2965179/",
+      "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-trusteeship-of-public-charitable-trust-is-a-personal-office-and-cannot-be-bequeathed-by-will-556348",
+      "https://www.livelawbiz.com/top-stories/supreme-court-requests-bombay-hc-to-expeditiously-hear-pending-applications-in-ex-lilavati-trust-trustees-removal-dispute-547163"
+    ],
+    "note": "Fresh independent searches confirm all three strands: the RK Family Trust dispute (Rani Kapur's Jan 2026 Delhi HC suit, competing removal notices under Clauses 8.11/8.12(i), no stay order, mediation suggestion); the Lilavati Trust/Rajesh Mehta removal and Bombay HC/Supreme Court proceedings through August 2026 with no final merits ruling; and the Punjab & Haryana HC's 2026 holding that public-trust trusteeship is not inheritable/cannot be bequeathed by will (actually corroborated by MORE independent sources -- LiveLaw, SupremeToday, Drishti Judiciary, LawyerENews -- than the draft's own verification notes acknowledged, which had flagged this as resting on a single source). The draft's statutory citations (Trusts Act ss.71/73/74, CPC Order 22 Rules 3/10, Article 227) and its careful hedging on unconfirmed details are accurate. No part of this article needs correction."
+  },
+  {
+    "file": "_drafts/articles/129-assured-returns-fema-foreign-arbitral-award-enforcement-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://api.sci.gov.in/supremecourt/2023/10877/10877_2023_6_3_63673_Order_26-Aug-2025.pdf",
+      "https://indiacorplaw.in/2025/11/20/supreme-court-clarifies-rbi-approval-under-fema-not-needed-to-satisfy-arbitral-awards/",
+      "https://trilegal.com/knowledge_repository/trilegal-analysis-assured-returns-unassured-consequences-the-supreme-courts-approach-to-fema-and-compensatory-damages-in-foreign-awards/",
+      "https://corporate.cyrilamarchandblogs.com/2025/11/show-me-the-money-legally-rbi-approvals-for-remittance-of-damages/"
+    ],
+    "note": "Fresh independent searches confirm: Vijay Karia v Prysmian Cavi e Sistemi SRL (2020) 11 SCC 1 holding a FEMA breach alone is not a Section 48 public-policy bar; GPE (India) Ltd v Twarit Consultancy Services, Supreme Court order dated 26 Aug 2025 (confirmed against the Court's own order PDF), holding compensatory damages under a foreign award are a current account transaction not requiring prior RBI approval, arising from a Madras HC conditional-enforcement order; and Fuerst Day Lawson v Jindal Exports, (2001) 6 SCC 356, on single-proceeding enforcement. The Nine Rivers Capital matter's 'still pending' characterisation is consistent with commentary describing an open RBI-affidavit question as of late 2025/2026. No corrections needed; the article's extensive hedging on uncertain points (exact SCC citation for Associate Builders, the 24% IRR figure) matches what could and could not be independently confirmed."
+  },
+  {
+    "file": "_drafts/articles/130-anti-arbitration-injunction-foreign-seated-epil-msa-global-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-upholds-stay-on-icc-arbitration-in-oman-india-border-security-dispute-dismisses-msa-globals-appeal-513894",
+      "https://api.sci.gov.in/supremecourt/2026/10810/10810_2026_1_21_69540_Order_16-Mar-2026.pdf",
+      "https://www.elitigation.sg/gd/s/2025_SGHC_199",
+      "https://arbitrationblog.kluwerarbitration.com/2020/10/13/balasore-v-medima-providing-clarity-or-creating-a-mist-around-the-grant-of-injunctions-in-foreign-seated-arbitrations/"
+    ],
+    "note": "Fresh independent searches, including the Supreme Court's own order PDF and the Singapore judgment on elitigation.sg, confirm the full chain: Delhi HC single judge anti-arbitration injunction 25 July 2025 (CS(OS) 243/2025) over the undisclosed-arbitrator issue; Singapore anti-suit injunction [2025] SGHC 199; Division Bench ruling 12 Dec 2025 (FAO(OS) 88/2025) treating Delhi as the juridical seat; Supreme Court order 16 March 2026 setting aside that ruling in part and remanding, leaving open the arbitrator-role and seat questions; and Balasore Alloys v Medima LLC (Calcutta HC, 12 Aug 2020) affirming the power in principle while declining it on the facts, including its characterisation of Bina Modi. Minor date variance in secondary commentary on exactly when the Singapore anti-suit order's written grounds issued does not contradict any claim in the draft. No corrections needed."
   }
 ]
