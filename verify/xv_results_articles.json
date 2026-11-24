@@ -2376,5 +2376,37 @@
         "reason": "This related_pages path does not exist in origin/main:assets/search-index.json; no article on this exact topic is currently live."
       }
     ]
+  },
+  {
+    "file": "_drafts/articles/123-environmental-clearance-ngt-delhi-ncr-construction-article.json",
+    "verdict": "FIX",
+    "claims_checked": 10,
+    "evidence": [
+      "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/turnover-as-a-metric-for-environmental-compensation/",
+      "https://supremetoday.ai/doc/judgement/00100083043",
+      "https://theleaflet.in/judiciary/ngt-act-doesnt-oust-high-courts-jurisdiction-supreme-court",
+      "https://www.tribuneindia.com/news/delhi/sc-dismisses-plea-for-construction-on-yamuna-floodplains-577734"
+    ],
+    "note": "EIA 2006 thresholds (20,000 sqm building/construction Category B, 50 ha/1,50,000 sqm township), the Section 16 thirty-plus-sixty-day limitation structure, Madhya Pradesh HC Advocates Bar Association v. UOI (2022 SCC OnLine SC 639, bench and holding on HC writ jurisdiction and Section 22 validity), Talli Gram Panchayat v. UOI (2025 INSC 1331, earliest-communication rule), the Yamuna O Zone/Maili Se Nirmal Yamuna 2015 order and the January 2024 SC rejection of the police-barracks plea, and the GRAP NCR-wide construction ban (confirmed for Noida and Ghaziabad in 2025-26 reporting) all check out against independent sources. One factual error: the draft says the Rhythm County stop-work direction was issued by the National Green Tribunal, but the Supreme Court judgment and secondary reports (SupremeToday, LiveLawBiz) show it was issued by the Maharashtra Pollution Control Board; the NGT only ruled on the matter later.",
+    "fixes": [
+      {
+        "find": "in defiance of a stop-work direction the National Green Tribunal had issued",
+        "replace": "in defiance of a stop-work direction the Maharashtra Pollution Control Board had issued",
+        "reason": "The stop-work direction in Rhythm County v. Satish Sanjay Hegde was issued by the Maharashtra Pollution Control Board, not the NGT, per the Supreme Court judgment and secondary reporting."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/124-dpdp-cross-border-data-transfer-significant-data-fiduciary-article.json",
+    "verdict": "FAIL",
+    "claims_checked": 8,
+    "evidence": [
+      "https://ca.hoganlovells.com/en/publications/indias-digital-personal-data-protection-act-2023-brought-into-force-",
+      "https://www.amsshardul.com/insight/enforcement-of-the-dpdp-act-and-notification-of-the-dpdp-rules/",
+      "https://www.legal500.com/intelligence/india/privacy/cross-border-data-transfers-under-indias-dpdp-act-rules-restrictions-and-compliance-roadmap-for-2027",
+      "https://dpdpa.support/articles/transfer-personal-data-outside-india/"
+    ],
+    "note": "Central premise is wrong. The article's entire structure rests on Section 16 (cross-border transfer) already being in force today while only the significant-data-fiduciary and retention provisions in the 2025 Rules wait until mid-2027. Independent sources (Hogan Lovells, AMSShardul, Legal500, dpdpa.support) consistently show the 13 November 2025 commencement notification placed Section 16 itself (along with Section 10 and most of the Act) in the 18-month tranche, expected to commence around 13-14 May 2027, not immediately. So the standfirst, key_points 1-2, the section 'Section 16: a negative list, not a positive approval regime', the section on 'why their cross-border provisions are not live yet' (which exempts Section 16 from the deferral while correctly deferring the Rules), and FAQ 1 and 4 (both asserting a company can 'freely transfer personal data outside India today' under Section 16) all misstate the current legal position as of the article's Nov 2026 as-on-date: Section 16 has not yet commenced, so today's governing regime for outbound transfers is the pre-DPDP framework (IT Act/SPDI Rules 2011 conditions), not the Act's permissive negative list. This is not a fixable side-detail; it inverts the article's central distinction between a 'live' Section 16 and a 'deferred' Rules package, so FAIL rather than FIX.",
+    "fixes": []
   }
 ]
