@@ -1,0 +1,216 @@
+{
+  "slug": "trustee-removal-breach-family-trust-india-article",
+  "title": "Removing a Trustee of a Family Trust in India: Grounds, Procedure and What the Kapur and Lilavati Disputes Show",
+  "subtitle": "What the Indian Trusts Act actually allows when a family trust turns into a boardroom, and what a trust deed should say so it never gets there",
+  "meta_description": "How a family trust trustee can be removed under the Indian Trusts Act 1882, and what the RK Family Trust and Lilavati Trust disputes teach deed drafters.",
+  "practice_area": "Family Law",
+  "authors": [
+    {
+      "name": "Bhaskar Subramanian",
+      "role": "Partner, S&S Co. Advocates & Solicitors"
+    },
+    {
+      "name": "Chandrayee Roy",
+      "role": "Associate, S&S Co. Advocates & Solicitors"
+    }
+  ],
+  "author": "Bhaskar Subramanian, Chandrayee Roy",
+  "author_role": "Bhaskar Subramanian, Partner, S&S Co. Advocates & Solicitors; Chandrayee Roy, Associate, S&S Co. Advocates & Solicitors",
+  "as_on_date": "2026-11-24",
+  "seo_title": "Removing a Family Trust Trustee in India | Law Guide",
+  "standfirst": "Two of India's best known family trust fights this year turned on the same question that sits quietly in every family trust deed: who can remove a trustee, and on what ground. This piece sets out what the Indian Trusts Act, 1882 and the courts actually allow, using the Kapur family's RK Family Trust dispute and the Lilavati Kirtilal Mehta Medical Trust row as live illustrations, and closes with what a deed should say so the family does not end up arguing about it in the Delhi or Bombay High Court.",
+  "key_points": [
+    "A family trust holding private assets is governed by the Indian Trusts Act, 1882 and, first and foremost, by its own deed; a public charitable trust follows a different, and in some respects stricter, regime.",
+    "The 2026 dispute over the RK Family Trust shows how two overlapping removal clauses in the same deed, invoked by two trustees against each other within days, can freeze a family office in litigation for the better part of a year.",
+    "Where the deed is silent, deadlocked or impossible to act on, a beneficiary or co-trustee can apply to the principal civil court under Sections 73 and 74 of the Act rather than filing a full civil suit.",
+    "A trustee who breaches the trust is personally liable for the resulting loss under Section 23, but Section 26 generally shields a co-trustee from liability for a default that trustee did not join in or conceal.",
+    "Courts are cautious about freezing a functioning trust's assets merely because a removal fight has begun; the absence of a stay order kept the RK Family Trust operating through most of 2026.",
+    "Trusteeship of a public charitable trust does not pass to heirs on death and cannot be bequeathed by will, a point the Punjab and Haryana High Court restated in 2026 in a dispute over the Janhit Sewa Charitable Trust.",
+    "The Lilavati Trust matter shows that even a resolution removing a trustee for cause does not end the dispute; it only moves it into the High Court, and from there, potentially, to the Supreme Court.",
+    "Most of this litigation is avoidable with a deed that fixes a quorum for removal, defines cause, sets a notice period and separates the question of who holds a beneficial interest from who holds office as trustee."
+  ],
+  "sections": [
+    {
+      "heading": "A family office quarrel that became two lawsuits",
+      "paragraphs": [
+        "In January 2026, Rani Kapur filed a civil suit before the Delhi High Court asking it to declare the RK Family Trust invalid and to recognise her personal ownership over assets that the trust deed treats as part of its corpus. Within weeks, both she and her daughter-in-law Priya Kapur had served each other notices purporting to remove the other as trustee, each relying on a different clause of the same deed. Reporting through March and April 2026 shows Priya Kapur invoking Clause 8.11 of the deed to remove Rani Kapur with effect from 25 March, while Rani Kapur relied on Clause 8.12(i), which she says lets her remove a trustee without giving reasons but which, on her own reading, also required the consent of the other remaining trustees before it could be used against Priya.",
+        "Neither side obtained a stay from the Delhi High Court restraining the trust from functioning, and the court's own response, besides issuing summons to Priya Kapur and twenty two other defendants, was to suggest mediation in February 2026. That detail matters more than it looks. A family that drafted its trust deed assuming removal would be a formality found itself, within a year of the founder's death, running two parallel removal notices and a validity challenge at the same time, with no provision in the deed telling anyone which notice, if any, had actually taken effect.",
+        "None of this is unusual for a private family trust holding a controlling stake in an operating business, and that is exactly why the mechanics of removing a trustee deserve more attention at the drafting stage than they usually get. This piece works through what the law allows, first under the deed and then under the Indian Trusts Act, 1882, where the Kapur dispute sits, and contrasts it with the separate and in some ways harder-edged rules that apply to a public charitable trust, where the Lilavati Trust and a 2026 Punjab and Haryana High Court ruling sit."
+      ]
+    },
+    {
+      "heading": "Private trust or public trust: the Act does not treat them alike",
+      "paragraphs": [
+        "The Indian Trusts Act, 1882 governs private trusts, meaning trusts created for the benefit of specified individuals or a defined family, and it expressly keeps out of its reach public or private trusts for religious or charitable purposes, which are left to be dealt with case by case, or under a dedicated state statute such as the Maharashtra Public Trusts Act, 1950 (commonly still called the Bombay Public Trusts Act) or a similar enactment where one exists. A family trust of the kind at the centre of the Kapur dispute, set up to hold shares, property or other assets for named family members, sits squarely inside the 1882 Act. A hospital or educational trust of the kind involved in the Lilavati Kirtilal Mehta Medical Trust matter does not, and is instead answerable to the relevant Charity Commissioner or equivalent authority as well as to the civil court.",
+        "This distinction decides which rulebook applies to a removal fight. For a private family trust, the starting point is the deed itself, read together with Sections 71, 73 and 74 of the 1882 Act, which deal with when a trustee's office becomes vacant and how a replacement is appointed. For a public charitable trust, the starting point is usually the trust's own scheme or constitution as registered with the Charity Commissioner, supplemented by whichever state statute governs public trusts in that state, and by a body of case law on when trusteeship can and cannot be treated as hereditary. Treating the two as interchangeable, which family offices sometimes do when a philanthropic trust and a private family trust are run side by side out of the same office, is a common and avoidable source of later difficulty."
+      ]
+    },
+    {
+      "heading": "What a trustee actually owes the trust",
+      "paragraphs": [
+        "Before asking how a trustee can be removed, it helps to be precise about what a trustee is obliged to do, because most removal and breach disputes trace back to one of these duties. Section 11 of the Act binds a trustee to fulfil the purpose of the trust and to obey the directions the settlor gave at the time of creation, subject only to variation with the consent of all the beneficiaries who are competent to contract. Section 13 requires the trustee to take possession of trust property with reasonable diligence. Section 15 sets the standard of care at what a person of ordinary prudence would apply to their own property of similar character, and Section 20 restricts how trust money may be invested unless the deed says otherwise.",
+        "Two further duties matter particularly in a family trust holding an operating business or a shareholding. A trustee cannot delegate the office, or the discretion that goes with it, to a co-trustee or an agent beyond what the deed or the Act permits, and a trustee holding a majority or controlling position cannot use that position to prefer one beneficiary over another without a basis in the deed for doing so. Reporting on the RK Family Trust describes exactly this kind of allegation sitting underneath the removal notices, namely that one trustee was said to be acting against the interests of the trust and its beneficiaries while another was accused of simultaneously challenging the trust's validity and asserting personal rights over its corpus. Each side's removal notice was, in substance, a breach allegation dressed as a procedural step."
+      ]
+    },
+    {
+      "heading": "Breach of trust and who actually pays for it",
+      "paragraphs": [
+        "Section 23 is the Act's core liability provision. A trustee who commits a breach of trust is liable to make good the loss the trust property or the beneficiary's interest has suffered, together with interest in defined circumstances, such as where the trustee actually received interest or ought reasonably to have received it, or where the breach consisted of unreasonable delay in paying over trust money. Courts have read Section 23 as a self-contained measure of liability that is not softened by the general prudence standard in Section 15; a trustee cannot escape liability for a clear breach merely by showing that they otherwise acted with ordinary care in managing the trust's affairs generally.",
+        "Section 23 also carries its own exception for a beneficiary who, by fraud, induces the trustee into the breach, and the beneficiary cannot then recover for a loss their own fraud caused. Section 26 adds a separate and often overlooked protection: a trustee is not, as a rule, liable for a breach committed by a co-trustee, unless that trustee handed over trust property to the co-trustee without necessity, allowed the co-trustee to receive trust property and failed within a reasonable time to obtain its proper application, or became aware of a breach and failed to take reasonable steps to prevent or remedy it. In a dispute between co-trustees of the kind the Kapur family is in, this means each side has to show more than that the other held office at the relevant time; it has to point to conduct, or a failure to act, that the Act treats as sufficient to attach personal liability.",
+        "A trustee held liable under Section 23 is not necessarily left without recourse. Section 32 allows a trustee who has properly discharged a liability, or incurred an expense in the execution of the trust, to be reimbursed out of the trust property, and the Act gives the trustee a lien on the trust property for that purpose. This is why a removal dispute and a breach claim are so often litigated together rather than separately: the outcome of the breach claim decides whether a trustee should go, and separately, whether that trustee walks away owing money to the trust or is entitled to be paid out of it."
+      ]
+    },
+    {
+      "heading": "Removing a trustee under the deed: the contractual route, and where it goes wrong",
+      "paragraphs": [
+        "Most privately drafted family trust deeds give the settlor, a defined class of beneficiaries, or the trustees acting by a stated majority, a power to remove a trustee without having to go to court at all. This is the fastest route when it works, and the RK Family Trust deed appears to have exactly this kind of clause, or rather two of them. The difficulty, visible in the Kapur dispute, is that a removal clause is only as good as its drafting on three points: who exactly holds the power, whether that power needs a reason or can be exercised at will, and whether exercising it against one trustee needs the consent or concurrence of the others.",
+        "On the reporting available, Priya Kapur's notice invoking Clause 8.11 set out a cause, namely conduct said to be adverse to the trust and its beneficiaries. Rani Kapur's notice invoking Clause 8.12(i) claimed a no-reasons power, but by her own account that power could only be used with the approval of the other remaining trustees, which on the facts reported had not been obtained. If that reading is right, one notice may be procedurally complete and the other may not be, but neither side appears to have treated the matter as settled, and the dispute moved into a civil suit asking the court to decide the trust's validity altogether. A deed that gave a single, unambiguous route for removal, naming who decides, on what standard and after what notice, would have given the family a mechanism to resolve this without two competing notices landing within days of each other.",
+        "A second lesson sits in the timing. Clause-based removal usually takes effect on service of the notice, or on a date stated in it, without needing a court order first. That is useful for speed but risky when the power itself is disputed, because the trust can be left for months not knowing, as a matter of fact, who its trustees currently are. Reporting on the RK Family Trust noted specifically that no stay order restricted its functioning even as both removal notices stood contested, which meant the trust's day to day affairs had to carry on despite the uncertainty over who was authorised to run it."
+      ]
+    },
+    {
+      "heading": "Removing a trustee through court: Sections 71, 73 and 74",
+      "paragraphs": [
+        "Where the deed gives no removal power, or the power it gives cannot practically be exercised, the Act provides its own route. Section 71 lists the events on which a trustee's office becomes vacant, including death, discharge by the beneficiaries' consent, discharge by the court, and completion of the office by its own terms. Section 73 deals with the appointment of a new trustee in several of those situations, and courts have treated an application under Section 73 as available where a trustee has, for example, become unfit to act, as in an older reported decision where a District Judge removed trustees appointed under a will on a petition founded on their having become unfit to continue in office.",
+        "Section 74 is the provision to turn to when Section 73 cannot be used, typically because there is no one left who can exercise the power of appointment under the deed, or the power exists but cannot practically be exercised. It allows an interested person, which ordinarily includes a beneficiary, to apply by petition to the principal civil court of original jurisdiction, rather than having to file a full suit, for the appointment of a new trustee or for a vesting order. Courts have read Section 74 as a residual route, available only once it is shown that Section 73 genuinely cannot do the job, and have historically treated proceedings under these sections as summary in character. An older line of authority went so far as to say no appeal lies from an order made under them, though that question, and whether a civil court exercising this jurisdiction can go further and remove a trustee for mismanagement or breach rather than simply filling a vacancy, has not been settled by any single, universally followed modern ruling, and the position can differ from one High Court to another.",
+        "What this means in practice for a family trust is that the petition route under Sections 73 and 74 is built for filling a vacancy once one has arisen, more than for adjudicating a contested allegation of misconduct. A beneficiary who believes a trustee should be removed for breach, as opposed to simply discharged because the office has become vacant on an undisputed ground such as death or resignation, is usually better served filing a regular civil suit, where the court can take evidence on the breach, grant interim relief if urgency is shown, and finally order removal together with an account of the trustee's dealings with the trust property. That, broadly, is the shape the Kapur litigation has taken, with a civil suit rather than a bare petition carrying the substantive fight."
+      ]
+    },
+    {
+      "heading": "Does a civil court have a broader power to remove a trustee for breach?",
+      "paragraphs": [
+        "Beyond the specific grounds in Sections 71, 73 and 74, Indian courts have long treated the supervision of trusts as part of their general equitable jurisdiction, inherited from English Chancery practice, to protect beneficiaries where a trustee's continuance in office would put the trust property at risk. This jurisdiction is usually invoked through an ordinary civil suit for removal and for an account, rather than through the summary petition procedure, and the court's willingness to act depends heavily on the facts shown, such as a demonstrated conflict of interest, misappropriation, persistent failure to account, or a breakdown of relations between co-trustees so complete that the trust cannot be administered.",
+        "A loss of confidence between family members who are also co-trustees is not, by itself, automatically treated as sufficient; courts generally look for conduct, not merely acrimony, before displacing a trustee the settlor chose. This is precisely why a validity challenge, of the kind Rani Kapur's suit raises by asking the court to declare the RK Family Trust invalid altogether, tends to be argued alongside a removal claim rather than instead of it: if the trust itself is held invalid, the question of who should be its trustee does not arise, and if it survives as valid, the removal and breach allegations have to be decided on their own facts."
+      ]
+    },
+    {
+      "heading": "Interim relief while the fight is pending",
+      "paragraphs": [
+        "A beneficiary or a trustee facing a disputed removal usually wants two things immediately: a freeze on dealings with trust assets until the dispute is resolved, and clarity on who has authority to sign for the trust in the interim. Courts can grant an interim injunction restraining a disputed trustee from dealing with trust property, or appoint a receiver or an administrator pendente lite to run the trust's affairs during the litigation, but neither is automatic, and both carry a real cost in delay and in the expense of running a trust, or a business the trust holds, under judicial supervision.",
+        "The RK Family Trust dispute again illustrates the point. Through the period covered by the reporting available, the Delhi High Court had issued summons and suggested mediation, but no stay order had been passed restricting the trust's functioning, meaning the trust continued to operate on the basis that existed before the competing notices were served, pending a decision on the substantive suit. Parties seeking urgent interim relief in this kind of dispute need to show more than that a removal is contested; they typically need to point to a specific, imminent act, such as a disposal of trust property or shares, that the court should stop before it happens, rather than asking the court to freeze the trust in the abstract."
+      ]
+    },
+    {
+      "heading": "Public charitable trusts play by a different, and in some ways stricter, rulebook",
+      "paragraphs": [
+        "The distinction drawn earlier between private and public trusts shows up most sharply in a 2026 Punjab and Haryana High Court ruling arising from a long-running dispute over the Janhit Sewa Charitable Trust, which began as a 2015 civil suit in Faridabad. Before Justice Vikas Bahl, the court was asked to decide, in a revision petition, whether a trustee's office in a public charitable trust could pass to that trustee's legal heirs on death, in the way an inheritable civil right might. The trial court had rejected an application under Order 22 Rule 3 of the Code of Civil Procedure, which governs substitution of a deceased party's legal representatives where the right to sue survives, and the High Court, exercising its limited supervisory jurisdiction under Article 227 of the Constitution, declined to disturb that view, treating such cases instead as falling under Order 22 Rule 10, which deals with continuation of a suit where an interest is devolved by some means other than death during its pendency.",
+        "The practical holding that emerges from the reporting is that trusteeship of a public charitable trust is not heritable property, and the trust office does not simply pass down to a trustee's children or other heirs; only a surviving trustee, or someone properly appointed under the trust's own machinery, can step into a deceased trustee's shoes or carry on litigation in that capacity. This sits alongside the Lilavati Trust dispute, where the trust's governing body removed Rajesh Mehta as a permanent trustee through resolutions reported as dated 16 January and 16 February 2026, citing allegations of financial fraud, coercion and an attempt to take control of the institution. Mehta challenged the removal before the Bombay High Court on 18 February 2026, arguing it was illegal and contrary to the trust deed, and multiple outlets reported the Supreme Court, by August 2026, asking the Bombay High Court to expedite the pending applications in that suit, without a final ruling on the merits of the removal being available in the reporting reviewed for this piece.",
+        "Two things follow for anyone running a charitable arm alongside a private family trust. First, a resolution of the governing body removing a trustee for cause, even where it is procedurally proper under the trust's own constitution, does not end the matter if the removed trustee chooses to litigate; it simply shifts the fight to the High Court, and from there potentially upward, and that litigation can run for a year or more without a final answer. Second, succession on death works differently for the two kinds of trust: a private family trust deed can, and usually does, name a successor trustee or a mechanism for appointing one, while a public charitable trust's office generally cannot be passed on by will or by inheritance at all, and depends entirely on the trust's own appointment machinery or, failing that, on the court's residual power to fill the vacancy."
+      ]
+    },
+    {
+      "heading": "Who can even bring the case, and against whom",
+      "paragraphs": [
+        "Standing questions recur in both the private and the public trust context. In a private family trust, a beneficiary with a vested or contingent interest, and not merely an expectancy, generally has standing to seek a trustee's removal or an account, and a co-trustee can bring the same relief against another. A removed trustee, for their part, retains standing to challenge the validity of the removal itself, as Rajesh Mehta did before the Bombay High Court and as both Kapur family members effectively did against each other, because the question of whether a removal was validly effected is itself a live dispute that a civil court can decide.",
+        "Joinder matters as much as standing. Where a trust has more than two trustees, or more than a handful of beneficiaries, a suit seeking removal or a declaration about the trust's validity will usually need to bring in every person whose rights could be affected, which is part of why the Delhi High Court issued summons to twenty two defendants in the Kapur matter rather than only to the two trustees at the centre of the dispute. A family trust with a wide beneficiary class, set up decades earlier and added to as the family grew, can find that a removal dispute between two trustees turns into litigation involving a much larger cast than either side anticipated when they served their first notice."
+      ]
+    },
+    {
+      "heading": "Drafting lessons the Kapur dispute puts beyond argument",
+      "paragraphs": [
+        "A deed that allows two trustees to each invoke a different removal clause against the other, within days, without a stated tie-breaker, has not actually solved the problem it was drafted to solve. A workable removal clause in a family trust deed should fix, without needing later interpretation, who holds the power (the settlor while living, a defined protector or committee, or the trustees by a stated majority), whether the power needs a stated cause or can be exercised without one, what notice period applies, and above all, what happens if two holders of removal power try to use it against each other at the same time. A simple sequencing or priority rule, for instance, that a settlor's or protector's exercise of the power prevails over a trustee-majority exercise made later, removes an entire category of dispute before it starts.",
+        "A second lesson is to separate, as far as the structure allows, the question of who is a trustee from the question of who is a beneficiary. Family trusts are often set up with family members serving as both, which is lawful and common, but it is precisely this overlap that let the RK Family Trust dispute become, in substance, an argument about ownership of the underlying assets dressed up as a dispute about who holds office. A deed that keeps the trustee's administrative powers, and the standard by which they can be reviewed, clearly separate from the beneficiaries' entitlement to income or capital gives a court, and the family, a cleaner question to answer if a dispute does arise.",
+        "A third, more practical lesson is to build in a dispute resolution step before litigation, such as a requirement to refer a removal dispute to a named family elder, an independent protector, or arbitration, before either side can go to court. The Delhi High Court's own instinct in the RK Family Trust matter, suggesting mediation within weeks of the suit being filed, reflects a broader judicial preference for resolving intra-family trust disputes without a prolonged, and often publicly reported, court battle, and a deed that mandates that step from the outset saves the family the cost and the publicity of getting there only after the court suggests it."
+      ]
+    },
+    {
+      "heading": "What to do if you are the trustee being removed, or the one trying to remove",
+      "paragraphs": [
+        "A trustee served with a removal notice should first check whether the clause relied on has in fact been complied with, including any requirement of co-trustee consent, a stated cause, or a notice period, before assuming the removal has taken effect. Acting as if removed, or continuing to act as if not removed, without first establishing which is correct, is how family trusts end up with two people simultaneously claiming authority to sign on the same bank account or the same shareholding, which is a difficulty no court can retroactively undo once third parties have relied on either signature.",
+        "A beneficiary or co-trustee seeking removal should resist the temptation to act unilaterally on disputed trust property while the question of authority remains open, however strong the underlying grievance feels. The safer course, and the one the Delhi High Court nudged the Kapur family toward, is to use the removal clause if it is unambiguous, move promptly to court under Sections 73 or 74 if it is not, or under the court's general jurisdiction if the real complaint is breach rather than a simple vacancy, and seek interim protection only for a specific, identified risk to the trust property rather than a blanket freeze. Combining a removal claim with a validity challenge, as Rani Kapur's suit does, can be a legitimate litigation strategy, but it also means the removal question will not be decided until the more fundamental question of the trust's validity is resolved first, which can add years rather than months to the timeline."
+      ]
+    },
+    {
+      "heading": "Where this leaves family offices as on today",
+      "paragraphs": [
+        "As on 24 November 2026, the RK Family Trust dispute remains pending before the Delhi High Court, with no reported ruling on either removal notice or on the validity challenge, and the Lilavati Trust matter remains pending before the Bombay High Court on the merits, with the Supreme Court having only directed expedition rather than decided the underlying question. Neither case should be read as having settled the law; both are useful chiefly as illustrations of how quickly a dispute over a removal clause can escalate once a family trust's founder is no longer available to referee it, and of how differently the private and public trust regimes treat the question of who gets to decide.",
+        "For a family setting up a new trust, or revisiting an old one, the practical takeaway is not to wait for a dispute before testing whether the removal, succession and dispute resolution provisions actually work when two family members disagree, rather than only when they agree. A deed reviewed with that single question in mind, who decides a removal, on what standard, and what happens if two people with removal power disagree, is worth more to a family than almost any other single clause in the instrument, and costs far less to get right at the drafting stage than to litigate afterward."
+      ]
+    }
+  ],
+  "conclusion": [
+    "The Indian Trusts Act, 1882 gives a private family trust two routes to remove a trustee: whatever the deed itself provides, and the court's own powers under Sections 71, 73 and 74 where the deed is silent, deadlocked or impossible to use. A public charitable trust answers to a different and in several respects stricter regime, where trusteeship generally cannot be inherited or bequeathed and a removal resolution, however well founded, is only the opening move in what can become years of litigation.",
+    "The RK Family Trust and Lilavati Trust disputes, both still open as on this date, show the same underlying problem from two directions: a deed or a constitution that does not say, in terms that cannot be argued about later, who can remove a trustee and how, hands that decision to a court instead, at a cost in time, money and family relationships that good drafting would have avoided."
+  ],
+  "faqs": [
+    {
+      "q": "Can a trustee of a family trust be removed without going to court?",
+      "a": "Yes, if the trust deed itself gives someone, such as the settlor, a protector, or the trustees acting by a stated majority, the power to remove a trustee, and that power is exercised exactly as the deed requires, including any notice period or requirement of co-trustee consent. If the deed is silent, or the power cannot practically be used, an application to court under the Indian Trusts Act, 1882 or a civil suit becomes necessary."
+    },
+    {
+      "q": "What is the difference between a private family trust and a public charitable trust for this purpose?",
+      "a": "A private family trust, set up for named family members, is governed by the Indian Trusts Act, 1882 and primarily by its own deed. A public charitable trust is excluded from that Act and instead follows its own registered constitution together with the relevant state public trusts statute, with trusteeship generally treated as a personal office that does not pass to heirs."
+    },
+    {
+      "q": "Can a trustee who is also a beneficiary remove a co-trustee on their own?",
+      "a": "Only if the deed gives that specific trustee an individual power of removal without needing anyone else's consent. Many family trust deeds instead require the consent or concurrence of other trustees or a defined class of beneficiaries before a removal takes effect, and acting as if removal has occurred without meeting that requirement risks later being treated as invalid."
+    },
+    {
+      "q": "Is trusteeship inheritable in India?",
+      "a": "For a public charitable trust, no; courts, including the Punjab and Haryana High Court in 2026, have treated trusteeship as a personal office that does not pass to a deceased trustee's legal heirs. For a private family trust, the deed can and usually does name a successor trustee or lay down a process for appointing one, so succession depends on what that specific deed provides."
+    },
+    {
+      "q": "What happens to trust property while a removal dispute is being litigated?",
+      "a": "Unless a court grants an interim injunction or appoints a receiver, the trust generally continues to function on the basis that existed before the dispute arose. Courts do not automatically freeze a trust's operations simply because a removal is contested; a party seeking that kind of relief usually needs to show a specific, imminent risk to the trust property."
+    },
+    {
+      "q": "Can a trustee removed by a board resolution or a family notice challenge the removal in court?",
+      "a": "Yes. A person removed as trustee retains the right to challenge the validity of that removal in a civil suit, whether the removal was made under a deed clause, by a governing body's resolution, or under the Indian Trusts Act, and courts have entertained such challenges even where the removal was supported by allegations of serious misconduct."
+    },
+    {
+      "q": "What can a beneficiary do if a trustee has breached the trust?",
+      "a": "A beneficiary can sue for an account of the trustee's dealings and for compensation for the loss caused, under Section 23 of the Indian Trusts Act, 1882, and can combine that claim with a request for the trustee's removal. A co-trustee is not automatically liable for another trustee's breach unless the Act's specific exceptions under Section 26 apply."
+    },
+    {
+      "q": "Does the Indian Trusts Act, 1882 apply to every family trust?",
+      "a": "It applies to private trusts holding assets for defined individuals, which covers most family trusts set up for succession or asset-holding purposes. It does not apply to trusts created for a public or charitable or religious purpose, which fall instead under the applicable state public trusts legislation or general law."
+    }
+  ],
+  "references": [
+    "Indian Trusts Act, 1882, Section 1 (scope; exclusion of public and charitable trusts)",
+    "Indian Trusts Act, 1882, Section 11 (trustee's duty to perform the trust)",
+    "Indian Trusts Act, 1882, Section 13 (duty to take possession of trust property)",
+    "Indian Trusts Act, 1882, Section 15 (care required of a trustee)",
+    "Indian Trusts Act, 1882, Section 20 (investment of trust money)",
+    "Indian Trusts Act, 1882, Section 23 (liability for breach of trust)",
+    "Indian Trusts Act, 1882, Section 26 (non-liability for co-trustee's breach, and its exceptions)",
+    "Indian Trusts Act, 1882, Section 32 (trustee's right to reimbursement and lien)",
+    "Indian Trusts Act, 1882, Sections 71, 73 and 74 (vacancy in the office of trustee and appointment of new trustees)",
+    "Code of Civil Procedure, 1908, Order 22 Rule 3 (substitution on death of a party)",
+    "Code of Civil Procedure, 1908, Order 22 Rule 10 (procedure in case of assignment, creation or devolution of interest during the suit)",
+    "Constitution of India, Article 227 (High Court's power of superintendence over subordinate courts)",
+    "Maharashtra Public Trusts Act, 1950, as the governing state statute for public charitable trusts registered in Maharashtra, including the Lilavati Kirtilal Mehta Medical Trust",
+    "Rani Kapur v. Priya Kapur & Ors., civil suit filed before the Delhi High Court, 20 January 2026, seeking a declaration on the validity of the RK Family Trust and related reliefs (pending)",
+    "Removal notice issued by Priya Kapur invoking Clause 8.11 of the RK Family Trust deed, dated 24 March 2026, reported effective 25 March 2026",
+    "Removal notice and cease and desist issued by Rani Kapur invoking Clause 8.12(i) of the RK Family Trust deed, dated 21 March 2026 and 6 April 2026",
+    "Punjab and Haryana High Court, revision petition arising from a 2015 civil suit before the Faridabad courts concerning the Janhit Sewa Charitable Trust, before Justice Vikas Bahl, reported 20 June 2026",
+    "Resolutions of the Lilavati Kirtilal Mehta Medical Trust's governing body dated 16 January and 16 February 2026 removing Rajesh Mehta as a permanent trustee",
+    "Rajesh Mehta's suit before the Bombay High Court challenging his removal as trustee of the Lilavati Kirtilal Mehta Medical Trust, instituted 18 February 2026 (pending)",
+    "Supreme Court of India, order in the special leave petition arising from the Lilavati Trust dispute, reported as directing the Bombay High Court to expedite pending applications, August 2026"
+  ],
+  "related_pages": [
+    "/articles/private-family-trust-succession-planning-hni-india-article.html",
+    "/articles/gift-release-deeds-family-settlements-stamp-duty-article.html",
+    "/articles/charitable-trust-section-8-company-society-hni-philanthropy-article.html",
+    "/blog/private-family-trust-india-setup-guide.html",
+    "/blog/succession-planning-trusts-vs-wills-business-owners-guide.html"
+  ],
+  "sources": [
+    "https://www.lokmattimes.com/business/priya-sachdev-kapur-removes-rani-kapur-as-trustee-dispute-over-rk-family-trust-continues/amp/",
+    "https://www.autocarpro.in/news/priya-kapur-removes-rani-kapur-as-trustee-rk-family-trust-matter-before-delhi-high-court-131795",
+    "https://www.businesstoday.in/latest/corporate/story/sunjay-kapur-estate-row-priya-kapur-removes-rani-kapur-as-trustee-of-rk-family-trust-522148-2026-03-24",
+    "https://www.thestatesman.com/entertainment/sunjay-kapur-estate-row-mother-no-longer-in-sons-trust-priya-removes-rani-kapur-from-rk-family-trust-1503573986.html",
+    "https://newsable.asianetnews.com/amp/india/delhi-hc-suggests-mediation-to-resolve-highprofile-rk-family-trust-dispute-articleshow-w5lwtt8",
+    "https://newsable.asianetnews.com/amp/india/rk-family-trust-row-rani-kapur-issues-notice-to-remove-priya-kapur-articleshow-7gvan8n",
+    "https://theprint.in/judiciary/family-trust-wars-punjab-haryana-hc-says-you-cant-inherit-a-trusteeship-you-have-to-be-appointed/2965179/",
+    "https://www.freepressjournal.in/mumbai/bombay-high-court-grants-interim-relief-to-rajesh-mehta-in-lilavati-trust-row",
+    "https://medicaldialogues.in/news/health/hospital-diagnostics/lilavati-hospital-trustee-rajesh-mehta-terminated-over-financial-fraud-coercion-allegations-164837",
+    "https://medicaldialogues.in/news/health/hospital-diagnostics/lilavati-trust-row-rajesh-mehta-moves-hc-against-trusteeship-removal-165067",
+    "https://www.livelawbiz.com/top-stories/supreme-court-requests-bombay-hc-to-expeditiously-hear-pending-applications-in-ex-lilavati-trust-trustees-removal-dispute-547163",
+    "https://supremetoday.ai/supreme-court-asks-bombay-high-court-to-expedite-pending-applications-in-rajesh-mehta-trust-case-20260825083",
+    "https://future.indiankanoon.org/doc/626030/",
+    "https://future.indiankanoon.org/doc/1376168/",
+    "https://www.advocatekhoj.com/library/bareacts/indiantrusts/23.php"
+  ],
+  "verification_notes": "AUDIENCE: HNI. TARGET QUERY: how to remove a trustee of a family trust in India. DEMAND EVIDENCE: a live, widely reported 2026 dispute (the RK Family Trust) and a second reported 2026 dispute (the Lilavati Kirtilal Mehta Medical Trust) both turning on trustee removal; no search-volume data seen. Every statutory section (Indian Trusts Act 1882 ss.1, 11, 13, 15, 20, 23, 26, 32, 71, 73, 74; CPC Order 22 Rules 3 and 10; Constitution Article 227) was checked against at least two independent secondary sources cross-referencing Indian Kanoon case excerpts and bare-act reproductions; the sections themselves are confirmed by the statute's settled text and are not newly amended. The RK Family Trust facts (notices, clause numbers, dates, absence of a stay order, mediation suggestion) are corroborated across Lokmat Times, Autocar Pro, Business Today, The Statesman and Asianet Newsable reporting, all independently published between March and April 2026; none report a final court ruling on removal or validity, and this piece states that status accurately rather than predicting an outcome. The Lilavati Trust facts are corroborated across Free Press Journal, Medical Dialogues and LiveLaw Biz/SupremeToday reporting; the merits remain undecided as reported, and this piece says so. The Punjab and Haryana High Court ruling on heritability of a public trusteeship is taken from a single detailed report (The Print); a second corroborating report for the same specific holding could not be opened in this run, so the point is stated narrowly as what that report describes rather than as an established universal rule, and no citation number is given because none was available in the source. A candidate supporting citation (a 1979/1978 Bombay High Court ruling on hereditary trusteeship, variously spelled Jaltare or Jeltare) could not be confirmed precisely enough to cite and has been omitted rather than guessed at. Figures, dates and clause numbers that only one outlet reported, or that outlets reported inconsistently, are flagged in the text as reported rather than stated as settled fact. WebFetch to news and statute websites was unavailable in this session's network; verification relied on WebSearch results drawing on multiple independently named outlets, listed above."
+}
