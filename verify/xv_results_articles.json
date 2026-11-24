@@ -2408,5 +2408,18 @@
     ],
     "note": "Central premise is wrong. The article's entire structure rests on Section 16 (cross-border transfer) already being in force today while only the significant-data-fiduciary and retention provisions in the 2025 Rules wait until mid-2027. Independent sources (Hogan Lovells, AMSShardul, Legal500, dpdpa.support) consistently show the 13 November 2025 commencement notification placed Section 16 itself (along with Section 10 and most of the Act) in the 18-month tranche, expected to commence around 13-14 May 2027, not immediately. So the standfirst, key_points 1-2, the section 'Section 16: a negative list, not a positive approval regime', the section on 'why their cross-border provisions are not live yet' (which exempts Section 16 from the deferral while correctly deferring the Rules), and FAQ 1 and 4 (both asserting a company can 'freely transfer personal data outside India today' under Section 16) all misstate the current legal position as of the article's Nov 2026 as-on-date: Section 16 has not yet commenced, so today's governing regime for outbound transfers is the pre-DPDP framework (IT Act/SPDI Rules 2011 conditions), not the Act's permissive negative list. This is not a fixable side-detail; it inverts the article's central distinction between a 'live' Section 16 and a 'deferred' Rules package, so FAIL rather than FIX.",
     "fixes": []
+  },
+  {
+    "file": "_drafts/articles/125-blended-family-succession-stepchildren-second-marriage-inheritance-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.livelaw.in/pdf_upload/737-revanasiddappa-v-mallikarjun-1-sep-2023-500665.pdf",
+      "https://www.casemine.com/commentary/in/revanasiddappa-v.-mallikarjun:-expanding-rights-of-legitimized-children-in-coparcenary-property/view",
+      "https://www.casemine.com/commentary/in/bombay-high-court-clarifies-section-18-of-the-hindu-succession-act:-overruling-purshottam's-precedent/view",
+      "https://www.legitquest.com/case/jinia-keotin-v-kumar-sitaram-manjhi/218a"
+    ],
+    "note": "Revanasiddappa v. Mallikarjun's citation (2023 INSC 783), decision date (1 Sept 2023), bench (CJI Chandrachud plus Pardiwala and Misra JJ), its origin as Civil Appeal No. 2844 of 2011 (confirmed via Supreme Court records), and its precise holding (notional-partition share through the parent only, not coparcener status by birth) all check out against independent sources and match the draft exactly. Jinia Keotin v. Kumar Sitaram Manjhi (2003) 1 SCC 730, decided 20 Dec 2002, and its holding confining Section 16(3) children to separate property only, is correctly stated as the overruled prior position. The Section 18 full-blood/half-blood point is correctly flagged as unsettled: a Bombay HC Full Bench did overrule the narrower Purshottam reading, and other High Courts (e.g. Madras) have taken differing views, matching the draft's hedge. Sections 5(i), 11, 12, 16 of the Hindu Marriage Act and the adoption/severance rule under the Hindu Adoptions and Maintenance Act are correctly and conventionally stated. No fabricated citations or overreaching claims found.",
+    "fixes": []
   }
 ]
