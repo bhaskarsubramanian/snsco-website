@@ -1339,7 +1339,7 @@
     "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
     "fixes": [
       {
-        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
+        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
         "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
         "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
       }
@@ -4083,5 +4083,89 @@
       "https://api.sci.gov.in/supremecourt/2009/31112/31112_2009_12_1501_64549_Judgement_25-Sep-2025.pdf"
     ],
     "note": "Confirmed from the Supreme Court's own judgment PDF and independent commentary: Sanjabij Tari v. Kishore S. Borcar, 2025 INSC 1158, decided 25 Sep 2025 (bench Manmohan and N.V. Anjaria, JJ, not stated in the draft but not contradicted by it), holding no pre-cognizance summons/hearing under Section 223 BNSS is required for a Section 138 NI Act complaint, agreeing with the Karnataka HC view in Ashok v. Fayaz Ahmad. The draft appropriately flags as unconfirmed the Delhi HC contrary-argument detail and the full scope of other guidelines in the same judgment."
+  },
+  {
+    "file": "_drafts/daily/blog/81-revoking-power-of-attorney-nri-property-india-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 8,
+    "evidence": [
+      "https://api.sci.gov.in/supremecourt/2018/25347/25347_2018_4_1508_41047_Judgement_13-Jan-2023.pdf",
+      "https://www.barandbench.com/news/litigation/non-production-original-power-attorney-effect-validity-sale-supreme-court-passes-split-verdict",
+      "https://main.sci.gov.in/jonew/judis/38729.pdf"
+    ],
+    "note": "Contract Act Sections 201/202/206/208, the Registration Act ss.17/18 general position, and Suraj Lamp & Industries v. State of Haryana, (2012) 1 SCC 656 are all independently confirmed. However Manik Majumder v. Dipak Kumar Saha (2023 INSC 34, decided 13 Jan 2023) is cited for the proposition that a power of attorney generally falls outside ss.17/18 compulsory registration; that case is actually about non-production of the original power of attorney at registration of a sale deed under Registration Act ss.32/33(1)(c)/60 (whether non-production is fatal to the sale deed's validity), a different legal point. The general s.17/18 proposition itself is independently supported by other commentary, so only the case attribution needs removing.",
+    "fixes": [
+      {
+        "find": ", and the Supreme Court's 2023 decision in Manik Majumder v. Dipak Kumar Saha proceeded on that basis for the underlying instrument",
+        "replace": "",
+        "reason": "Manik Majumder v. Dipak Kumar Saha concerns non-production of a power of attorney at the registration of a sale deed under Registration Act ss.32/33(1)(c)/60, not a ruling that powers of attorney fall outside the s.17/18 compulsory registration categories; citing it for that point is not supported."
+      },
+      {
+        "find": "power of attorney not falling within Sections 17/18 registration requirement on the facts considered",
+        "replace": "non-production of the power of attorney underlying a sale deed held not fatal to the deed's registration, a different point from the general Section 17/18 registrability of a power of attorney itself",
+        "reason": "Corrects the mischaracterised holding in the references list to match what the case actually decided."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/blog/82-personal-guarantor-insolvency-ibc-part-iii-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelawbiz.com/ibc/high-court/ibc-amendment-excluding-personal-guarantors-from-interim-moratorium-is-retroactive-applies-to-pending-cases-delhi-high-court-546784",
+      "https://www.livelawbiz.com/ibbi/ibbi-says-interim-moratorium-for-personal-guarantors-ceased-from-may-26-2026-even-in-pending-cases-551676",
+      "https://www.livelawbiz.com/ibc/ibc-amendment-excluding-personal-guarantors-from-interim-moratorium-applies-to-pending-cases-nclat-557996",
+      "https://www.taxscan.in/top-stories/ibc-amendment-excluding-personal-guarantors-from-moratorium-applies-to-pending-insolvency-cases-bombay-hc-allows-tata-capital-arbitration-1449897"
+    ],
+    "note": "SBI v. V. Ramakrishnan and Lalit Kumar Jain v. Union of India are correctly described. The 2026 amendment (Section 96(4), in force 26 May 2026, excluding personal guarantors from the interim moratorium) and its retroactive application as held by the Delhi HC (19 Aug 2026), Bombay HC (Tata Capital v. Neel Motors), NCLAT and the IBBI circular (21 Sep 2026) are all independently confirmed and consistent with the draft. The 75% repayment-plan approval threshold matches IBC Section 111's statutory text; a conflicting 66% figure found in one secondary report on the NCLAT appeal appears to concern a different stage/vote and does not undermine the statutory point."
+  },
+  {
+    "file": "_drafts/daily/blog/83-ecommerce-rules-foreign-seller-compliance-2027-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.barandbench.com/law-firms/view-point/consumer-protection-e-commerce-amendment-rules-2026-from-consumer-disclosure-to-platform-governance",
+      "https://www.mondaq.com/overview-of-the-consumer-protection-(e-commerce)-(amendment)-rules-2026/1846008",
+      "https://www.livelaw.in/consumer-cases/government-amends-e-commerce-rules-to-strengthen-consumer-protection-550184"
+    ],
+    "note": "Rule 2(2) extraterritorial scope, the two Rule 4(1)(a) structural routes, Rule 4(5) grievance timelines plus the new copy-of-complaint duty, Rule 5 marketplace fallback liability, new Rule 5(3)(f) ranking-transparency and Rule 5(6) data-use restriction, and the expanded Rule 6(5) disclosures are all independently confirmed, as is the amendment's notification date (9 Sep 2026, G.S.R. 789(E)) and 1 Jan 2027 commencement. One drafting nuance (whether Rule 6(5)(j) is a new clause alongside (d) or substitutes it) is reported inconsistently across secondary sources but does not affect the substance described in the draft."
+  },
+  {
+    "file": "_drafts/daily/blog/84-khatauni-correction-record-of-rights-up-guide.json",
+    "verdict": "FIX",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/court-updates/high-courts/allahabad-mohd-yasir-ali-khan-v-state-of-up-2024-ahc-128096-up-revenue-code-1547799",
+      "https://future.indiankanoon.org/doc/58652232/"
+    ],
+    "note": "Sections 35 and 38 of the UP Revenue Code, 2006 (mutation vs. correction of errors), the SDM as appellate authority under Section 35(2), the suo motu and forged-entry-expunging powers under Section 38, and the general principle that revenue entries do not decide title are all independently confirmed. However the draft's claim that revision under Section 210 does NOT lie against an order passed in a Section 35(2) appeal is contradicted by Mohd. Yasir Ali Khan v. State of UP, 2024 AHC 128096 (Allahabad HC), which holds the opposite: because no further appeal lies against a Section 35(2) appellate order itself, that order IS subject to revision under Section 210 (which applies precisely where no appeal lies against the order under challenge). This is a real reversal of the correct position on a specific procedural point, not a matter of degree.",
+    "fixes": [
+      {
+        "find": "The courts have also held that a revision under Section 210 does not lie against an order passed in a Section 35(2) appeal, because Section 210 is available only where no appeal lies against the order in question; once Section 35(2) gives an appeal, revision is not an alternative route to reopen the same order.",
+        "replace": "The courts have also held that, because no further appeal lies against an order passed in a Section 35(2) appeal itself, such an appellate order is open to revision under Section 210, which is available precisely where no appeal lies against the order being challenged.",
+        "reason": "Mohd. Yasir Ali Khan v. State of UP, 2024 AHC 128096 holds that revision under Section 210 DOES lie against a Section 35(2) appellate order, the opposite of what the draft states."
+      },
+      {
+        "find": "and holding revision under Section 210 unavailable against such an appellate order",
+        "replace": "and holding revision under Section 210 available against such an appellate order, since no further appeal lies against it",
+        "reason": "Corrects the references list to match the corrected holding."
+      },
+      {
+        "find": "and revision under Section 210 unavailable against a Section 35(2) appellate order: confirmed from two independent Allahabad High Court case summaries describing the same reasoning and the same holding on Section 210.",
+        "replace": "and revision under Section 210 available against a Section 35(2) appellate order (since no further appeal lies against it): per Mohd. Yasir Ali Khan v. State of UP, 2024 AHC 128096, correcting this guide's earlier draft of the point.",
+        "reason": "Corrects the verification notes to match the corrected holding."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/daily/blog/85-interim-maintenance-bnss-section-144-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.livelaw.in/articles/maintenance-under-bnss-omission-word-minor-major-change-295467",
+      "https://www.taxmann.com/post/blog/maintenance-under-bnss-section-144",
+      "https://www.scobserver.in/journal/court-frames-comprehensive-guidelines-on-maintenance/"
+    ],
+    "note": "BNSS Section 144 replacing CrPC Section 125 from 1 July 2024 with Section 531 savings for pending cases, and Rajnesh v. Neha, (2021) 2 SCC 324 (decided 4 Nov 2020) with its disclosure-affidavit, quantum-criteria, date-of-award-from-filing and set-off guidelines, are all independently confirmed. SEO fields (seo_title, meta_description, AUDIENCE/TARGET QUERY/DEMAND EVIDENCE lines, FAQ count) checked against batch.json's SEO_RULES and found compliant."
   }
 ]
