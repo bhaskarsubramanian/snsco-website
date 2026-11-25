@@ -1,0 +1,117 @@
+{
+  "slug": "revoking-power-of-attorney-nri-property-india-guide",
+  "seo_title": "Revoking a Power of Attorney for Property in India",
+  "title": "How to Revoke a Power of Attorney Over Property in India: What NRIs Get Wrong",
+  "meta_description": "How an NRI revokes a power of attorney over Indian property: Contract Act Sections 201-208, the registration myth and notice to the agent, as on Nov 2026.",
+  "practice_area": "Property & Civil Litigation",
+  "format": "myth versus fact",
+  "intro": [
+    "An NRI who gave a relative or a property manager a power of attorney years ago, and now wants it gone, usually assumes the fix is simple: write a letter saying so. It rarely is. A power of attorney is a contract of agency, and the Indian Contract Act, 1872 puts real limits on when it can be ended, who has to be told, and what happens to anything the agent did before the news reached them. Get the sequence wrong and the person you were trying to cut off can still bind you on a transaction signed after your letter but before they knew about it.",
+    "This guide works through revocation under Sections 201 to 208 of the Contract Act, the question that trips up almost every NRI client, which is whether the cancellation itself needs to be registered, and the practical route for doing this from abroad without creating a gap a bank or a sub-registrar can later exploit."
+  ],
+  "sections": [
+    {
+      "heading": "How a power of attorney actually comes to an end",
+      "paragraphs": [
+        "Section 201 of the Contract Act lists the ordinary ways an agency terminates: the principal revokes it, the agent renounces it, the business of the agency is completed, either party dies or becomes of unsound mind, or the principal is adjudicated insolvent. For a property power of attorney, the most common of these in practice is simple revocation by the principal, but the other triggers matter too. If the person who gave the power of attorney dies, the agency ends automatically on death, whatever the document itself says about its own duration, and anyone still acting under it afterwards is acting under no authority at all.",
+        "A power of attorney drafted to run for a fixed term, or tied to a particular transaction such as the sale of one named flat, also ends on its own once that transaction closes or the term expires. Clients sometimes keep using an old document for unrelated dealings because nobody told the bank or the registry it had lapsed, which creates exposure for everyone who later relies on it.",
+        "None of this requires a court order. Termination under Section 201 happens by operation of the facts described in the section, and a revocation by the principal is simply the deliberate version of the same thing."
+      ]
+    },
+    {
+      "heading": "The exception that catches people by surprise: an agency coupled with interest",
+      "paragraphs": [
+        "Section 202 carves out agencies where the agent has an interest of their own in the subject matter of the agency. Where that is true, the agency cannot be put to an end to the prejudice of that interest without the agent's consent, even if the underlying power of attorney uses the word irrevocable nowhere at all. This is exactly the shape of many property powers of attorney given in connection with a sale: the owner authorises an agent to complete a sale and collect part of the price, and the agent's right to be paid is treated as an interest in the transaction itself.",
+        "Whether a given power of attorney falls into this category is a question of fact, turning on whether the document and the surrounding arrangement actually gave the agent a stake in the outcome, not merely authority to act. A power of attorney given to a family member purely to manage rent collection or pay property tax, with no financial stake of the agent's own, does not usually attract Section 202, and an NRI principal can revoke it unilaterally subject to the notice point below.",
+        "Where Section 202 does apply, the safer course is to negotiate a release from the agent, or point to an express term in the document reserving a right of revocation, rather than assume a unilateral letter will be effective."
+      ]
+    },
+    {
+      "heading": "Giving the agent reasonable notice",
+      "paragraphs": [
+        "Section 206 requires reasonable notice before an agency is ended; a principal who revokes without it can be made to compensate the agent for loss the abrupt ending causes. What counts as reasonable depends on the facts, and courts have looked at how much warning the situation realistically called for rather than applying a fixed number of days. An NRI cancelling a power of attorney that has been in active use for years, with an agent who has arranged their affairs around it, should build in more lead time than someone cancelling a power of attorney that was signed but never really acted upon.",
+        "In practice this means the deed of revocation, or an accompanying letter, should give the agent a clear and dated written notice of the cancellation, rather than relying on the agent to find out informally. A notice sent by registered post or courier with proof of delivery, in addition to any email, removes most of the argument later about when the agent actually knew.",
+        "None of this is a reason to delay revoking a power of attorney once the decision is made. It only affects what, if anything, the former agent can later claim by way of compensation for being cut off abruptly."
+      ]
+    },
+    {
+      "heading": "Does the revocation have to be registered? The myth and the fact",
+      "paragraphs": [
+        "The myth repeated on most consumer advice sites is that a registered power of attorney can only be cancelled by an equally registered deed of revocation, full stop. The fact is narrower. Under the Registration Act, 1908, a power of attorney that does not itself create, assign, limit or extinguish an interest in immovable property generally falls outside the compulsory registration categories in Sections 17 and 18, and the Supreme Court's 2023 decision in Manik Majumder v. Dipak Kumar Saha proceeded on that basis for the underlying instrument. Several States have amended Section 17 to add irrevocable powers of attorney relating to the transfer of immovable property to the compulsorily registrable list, so the position is not uniform across the country.",
+        "What this means for a revocation is that its registration requirement generally tracks the instrument it is cancelling and the State's own amendments, not one all-India rule. Where the original power of attorney was itself registered, sub-registrars in practice expect the cancellation registered at the same office, and banks and land records authorities dealing with the property will look for that parity before they stop treating the old agent as authorised. Where the original was unregistered, a plain written deed of revocation, properly executed and served, is usually enough as a matter of contract law, though the specific State's rule is worth checking.",
+        "The safe approach, and the one most lawyers in Delhi, Noida and Kolkata actually advise, is to mirror the formality of the original document: register the revocation if the power of attorney was registered, and keep at least a dated, witnessed written revocation even where registration is not legally compulsory, because the registries and banks dealing with the property rarely distinguish between the two situations on their own."
+      ]
+    },
+    {
+      "heading": "Why third parties matter as much as the agent",
+      "paragraphs": [
+        "Section 208 fixes the point at which a termination actually binds people. As between the principal and the agent, the termination does not take effect until it becomes known to the agent. As regards third parties, it does not take effect until it becomes known to them either. A buyer, a bank official or a tenant who deals with the agent in good faith, genuinely unaware that the power of attorney has been cancelled, can still be protected on that transaction even after the principal has revoked it.",
+        "This is why an NRI should not treat notice to the agent as the only step. Anyone who regularly deals with the agent on the strength of the power of attorney, a bank where the agent operates an account, a housing society that accepts the agent's signature on behalf of the owner, the office that maintains the property's revenue or municipal records, should also be told in writing that the authority has ended. There is no single statutory form for this; a dated letter enclosing a copy of the revocation, sent to each of these parties, is what actually closes the gap Section 208 leaves open.",
+        "Advice columns differ on whether a newspaper public notice is legally compulsory for every revocation, and the two positions in the sources reviewed for this guide do not agree closely enough to state a firm all-India rule here. What is consistent across sources is that a public notice, even where not strictly required, is commonly used precisely because it is hard to prove later that every possible third party had actual notice any other way."
+      ]
+    },
+    {
+      "heading": "What revocation does not undo",
+      "paragraphs": [
+        "Cancelling a power of attorney has no retrospective effect on transactions the agent validly completed while still authorised. If the agent signed a sale agreement, collected rent, or paid a tax demand before the revocation took effect against them under Section 208, that act stands. Revocation only stops authority going forward; it is not a tool for unwinding something the agent already did, however much the principal regrets having given the authority in the first place. A separate claim against the agent for breach of duty, fraud or acting outside the scope of the power is a different proceeding entirely, usually a civil suit, and is not solved by the revocation deed itself.",
+        "It is worth keeping the revocation of an agency distinct from a different and more frequently litigated problem: a power of attorney used as a substitute for an actual sale deed. In Suraj Lamp & Industries (P) Ltd. v. State of Haryana, reported at (2012) 1 SCC 656, the Supreme Court held that immovable property can be legally transferred only by a registered instrument of conveyance, and that arrangements where a so-called sale is carried out purely through a general power of attorney, without a registered deed, have no legal sanctity as a transfer of title. That ruling addresses whether a GPA can stand in for a sale deed at all; it does not change how a validly created power of attorney, once accepted as such, is later revoked under Sections 201 to 208."
+      ]
+    },
+    {
+      "heading": "The practical sequence for an NRI acting from abroad",
+      "paragraphs": [
+        "Start with a written deed of revocation naming the power of attorney being cancelled by its date and the office where it was registered, if any. Execute it before the Indian consulate or embassy in the country of residence, or before a notary with the attestation the receiving Indian authority will accept, since a document signed abroad for use in India usually needs that step regardless of what is being revoked. Where the original power of attorney was registered in India, either travel to execute the registered revocation in person or appoint a trusted person in India, through a fresh and narrowly worded power of attorney limited to that one act, to present the revocation deed for registration at the same sub-registrar's office.",
+        "Once executed, send the agent a dated notice of revocation with proof of delivery, and separately notify every bank, society, tenant or authority that has been dealing with the agent on the property. Keep copies of everything, including the courier or postal receipts, because the date each party actually received notice is what Section 208 makes relevant if a dispute follows. None of this is advice on the merits of a particular dispute with an agent, which depends on the document and the facts in each case."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an NRI revoke a power of attorney without travelling to India?",
+      "a": "Generally yes. The deed of revocation can be executed abroad before the Indian consulate or a notary, and if the original power of attorney was registered, a separately appointed person in India can be asked to present the revocation for registration at the same sub-registrar's office."
+    },
+    {
+      "q": "Does every power of attorney revocation have to be registered in India?",
+      "a": "Not automatically. The central Registration Act generally does not require registration of a power of attorney that does not itself transfer an interest in immovable property, and the same approach applies to its revocation. Some States have made specific categories, including certain irrevocable powers of attorney, compulsorily registrable, so the position varies by State."
+    },
+    {
+      "q": "What happens if the agent sells the property after I revoke the power of attorney but before telling them?",
+      "a": "Under Section 208 of the Contract Act, the revocation does not bind the agent, or a buyer who dealt with the agent in good faith, until they actually knew of it. A sale completed in that gap can still be valid against the principal, which is why prompt, provable notice matters more than the date of the revocation deed itself."
+    },
+    {
+      "q": "Can a power of attorney be revoked if it was given along with payment to the agent?",
+      "a": "It depends on whether the agent has their own interest in the subject matter under Section 202. Where the power was given as part of a transaction in which the agent has a financial stake, such as a commission tied to completing a sale, it generally cannot be revoked to the agent's prejudice without the agent's consent."
+    },
+    {
+      "q": "Is a newspaper public notice legally required when cancelling a power of attorney?",
+      "a": "Sources differ on whether this is compulsory for every revocation, and this guide does not state a firm rule either way. What is settled is that notice to the agent and to anyone dealing with the agent is required for the revocation to bind them, and a public notice is one practical way, though not the only way, of establishing that notice reached third parties."
+    }
+  ],
+  "references": [
+    "Indian Contract Act, 1872, Sections 201, 202, 206 and 208 (termination of agency, agency coupled with interest, notice, and when termination takes effect)",
+    "Registration Act, 1908, Sections 17 and 18 (compulsorily and optionally registrable documents)",
+    "Manik Majumder v. Dipak Kumar Saha, Supreme Court, 2023 (power of attorney not falling within Sections 17/18 registration requirement on the facts considered)",
+    "Suraj Lamp & Industries (P) Ltd. v. State of Haryana, (2012) 1 SCC 656 (immovable property transferable only by registered conveyance; GPA sales have no legal sanctity as transfers of title)"
+  ],
+  "sources": [
+    "https://www.casemine.com/in/column/revocation-of-power-of-attorney-in-india/view",
+    "https://blog.ipleaders.in/revocation-power-attorney/",
+    "https://lawbhoomi.com/termination-of-agency-under-indian-contract-act-1872/",
+    "https://bcajonline.org/journal/power-of-attorney-registration-registration-act-s-17/",
+    "https://www.writinglaw.com/suraj-lamp-industries-vs-haryana/",
+    "https://www.immihelp.com/how-can-nris-cancel-power-of-attorney-in-india/"
+  ],
+  "verification_notes": [
+    "AUDIENCE: NRI",
+    "TARGET QUERY: how to revoke a power of attorney for property in India from abroad",
+    "DEMAND EVIDENCE: none seen (no search-volume or trending data retrieved; topic chosen because the site has several guides on drafting, using and signing a power of attorney for NRIs but none on revoking one, confirmed by checking the live search index)",
+    "Section 201 modes of termination of agency: confirmed from casemine.com and lawbhoomi.com, both listing revocation, renunciation, completion of business, death/unsoundness of mind and insolvency to the same effect.",
+    "Section 202 agency coupled with interest as a bar on unilateral revocation to the agent's prejudice: confirmed from casemine.com and lawbhoomi.com.",
+    "Section 206 reasonable notice requirement and liability for want of notice: confirmed from casemine.com and a High Court decision summary (future.indiankanoon.org/doc/1272609) treating reasonableness as fact-dependent; the specific four-month figure from that one case is not generalised into a rule here.",
+    "Section 208 termination not binding the agent or third parties until known to them: confirmed from casemine.com, lawbhoomi.com and the indiankanoon summary of Section 208, consistently to the same effect.",
+    "Power of attorney generally outside Sections 17/18 central registration requirement, with State amendments (e.g. clauses added to Section 17(1)) making certain categories compulsorily registrable: confirmed from bcajonline.org and a second commentary referencing Manik Majumder v. Dipak Kumar Saha (2023) and State-specific amendments; exact State-by-State list not independently confirmed and therefore not stated here beyond the general point that it varies.",
+    "Suraj Lamp & Industries v. State of Haryana holding and citation (2012) 1 SCC 656: confirmed from writinglaw.com and taxguru.in, both citing the same case name, bench composition and holding; this case is used only to distinguish a GPA-as-sale problem from ordinary revocation, not as authority on revocation itself.",
+    "Left out: whether a newspaper public notice is mandatory for revoking an irrevocable power of attorney, since one source (iPleaders) said it is required for an irrevocable PoA while another (Vakilsearch) said public notice is not a mandatory requirement generally; the two were not treated as reconciled and the guide states only that practice varies.",
+    "Left out: any current registration fee or stamp duty figure for a deed of revocation, since no figure was confirmed from two independent current sources."
+  ]
+}

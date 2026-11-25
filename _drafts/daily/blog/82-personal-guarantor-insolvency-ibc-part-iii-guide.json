@@ -1,0 +1,107 @@
+{
+  "slug": "personal-guarantor-insolvency-ibc-part-iii-guide",
+  "seo_title": "Personal Guarantor Insolvency Under the IBC",
+  "title": "Personal Guarantor Insolvency Under the IBC: What Happens When a Promoter's Guarantee Is Invoked",
+  "meta_description": "How IBC Part III proceedings against a personal guarantor work, the 2026 change to the interim moratorium, repayment plans and discharge, as on Nov 2026.",
+  "practice_area": "IBC & Insolvency",
+  "format": "plain-English guide",
+  "intro": [
+    "A promoter who has signed a personal guarantee for a company's loan tends to assume that the company's own insolvency process buys some breathing room on the guarantee too. It does not. The Supreme Court settled that question against the guarantor years ago, and a 2026 amendment has since taken away another layer of protection guarantors had come to rely on while their own case was pending before the tribunal.",
+    "This guide sets out how an insolvency case against a personal guarantor of a corporate debtor actually runs under Part III of the Insolvency and Bankruptcy Code, 2016, where it is filed, what changed with the interim moratorium in 2026, and what a repayment plan and a discharge order do and do not achieve."
+  ],
+  "sections": [
+    {
+      "heading": "The company's moratorium does not cover your guarantee",
+      "paragraphs": [
+        "In State Bank of India v. V. Ramakrishnan, decided by the Supreme Court on 14 August 2018, the bank wanted to proceed against a personal guarantor of a company that was itself under the corporate insolvency resolution process and therefore protected by the Section 14 moratorium. The guarantor argued the moratorium shielded him as well. The Court rejected that reading, holding that the moratorium under Section 14 has no application to a personal guarantor of a corporate debtor, and drew a clear line between that moratorium and the separate moratorium provisions that apply once insolvency proceedings are brought against the guarantor personally.",
+        "The Court's reasoning rested partly on an amendment that inserted Section 14(3) into the Code to put the point beyond doubt, and it expressly disagreed with an earlier Allahabad High Court view that had gone the other way. The practical result for any promoter today is simple: a creditor can pursue the guarantee, including through the Part III personal insolvency process described below, while the company's own corporate insolvency resolution process is still running, and the two proceedings can go on at the same time.",
+        "A separate challenge to whether Part III could even be brought into force for personal guarantors of corporate debtors was rejected in Lalit Kumar Jain v. Union of India, where the Supreme Court upheld the validity of the November 2019 notification that activated these provisions. Both points together mean a guarantor cannot resist a Part III filing on the ground that the company's insolvency should come first."
+      ]
+    },
+    {
+      "heading": "Who can start the case, and where",
+      "paragraphs": [
+        "Section 94 lets the guarantor apply for their own insolvency resolution. Section 95 lets a creditor apply against the guarantor. Either route opens the same Part III process. For a personal guarantor of a corporate debtor, Section 60 fixes the National Company Law Tribunal as the adjudicating authority, and where the corporate debtor's own case is already before a particular NCLT bench, that bench is generally the one that also takes up the guarantor's case. Individuals who are not guarantors of a corporate debtor, such as partners of a firm or other personal guarantors outside that specific category, are instead routed to the Debt Recovery Tribunal.",
+        "This forum split has been the subject of litigation of its own, with disputes over whether the NCLT's jurisdiction depends on the corporate debtor's case still being pending or already concluded. A guarantor served with a Section 95 application, or considering filing one under Section 94, should check which forum has actually taken the corporate debtor's case before assuming a filing automatically goes to the NCLT."
+      ]
+    },
+    {
+      "heading": "The interim protection changed in 2026",
+      "paragraphs": [
+        "Before 2026, filing an application under Section 94 or 95 triggered an interim moratorium under Section 96 that froze most actions to recover the guaranteed debt from the guarantor's assets while the tribunal decided whether to admit the case. Guarantors facing enforcement often used this window deliberately, filing their own Section 94 application to buy time once a creditor moved to enforce.",
+        "The Insolvency and Bankruptcy Code (Amendment) Act, 2026 inserted a new sub-section, Section 96(4), excluding personal guarantors of corporate debtors from that interim moratorium, with effect from 26 May 2026, and made the corresponding change for the bankruptcy-stage moratorium under Section 124. The Insolvency and Bankruptcy Board of India has clarified that the interim moratorium ceased to operate for this category from that date, and the Delhi High Court, the Bombay High Court and the National Company Law Appellate Tribunal have each held, in separate pending matters, that the change applies to applications that were already filed and awaiting admission before 26 May 2026, and not just to fresh filings made afterward.",
+        "The amendment is recent enough that further appeals on its retrospective reach are likely, and a guarantor should not assume the earlier practice of filing to obtain breathing space still works. As matters stand on the date of this guide, a creditor's enforcement steps against a personal guarantor's own assets are no longer automatically paused merely because a Section 94 or 95 application has been filed."
+      ]
+    },
+    {
+      "heading": "Admission, the resolution professional, and the repayment plan",
+      "paragraphs": [
+        "Once an application is filed, the adjudicating authority directs the appointment of a resolution professional, who examines the application and reports on whether it should be admitted. On admission, the process moves toward a repayment plan rather than straight into liquidation of the guarantor's assets; this is the structural feature that distinguishes Part III personal insolvency from a straightforward recovery suit. The guarantor, generally with the resolution professional's assistance, prepares a plan setting out a proposed repayment schedule, the source of the funds, and the assets and a minimum level of expenses that are kept outside the plan for the guarantor's subsistence.",
+        "Creditors then vote on the plan at a meeting convened for the purpose. A plan needs approval by creditors holding more than three-fourths in value of the voting share of those present and voting; a reported NCLT Ahmedabad order rejected a guarantor's plan after abstentions and a vote split left it well short of that threshold, which is a reminder that abstaining creditors are not treated as supporting the plan. Where the plan clears the threshold, the adjudicating authority still has to approve it before it binds the guarantor and the creditors who are party to the process."
+      ]
+    },
+    {
+      "heading": "If the plan fails",
+      "paragraphs": [
+        "A repayment plan that creditors reject, or one the guarantor defaults on after approval, generally opens the door to a bankruptcy process against the guarantor rather than a return to ordinary civil recovery. The Code's later Part III provisions deal with the bankruptcy order, the appointment of a bankruptcy trustee, and the realisation and distribution of the guarantor's estate among creditors, broadly on the model of a formal personal bankruptcy rather than a negotiated plan.",
+        "For a guarantor, this is the point at which the earlier choice of how a plan was negotiated, and how realistic its repayment schedule actually was, starts to matter a great deal. A plan that looked achievable on paper but that the guarantor cannot in fact service tends to end in the same bankruptcy exposure that filing for insolvency resolution was meant to avoid, only after the guarantor's financial position has been aired before the tribunal and the creditors in detail."
+      ]
+    },
+    {
+      "heading": "Discharge, and its limits",
+      "paragraphs": [
+        "Once a repayment plan is fully implemented, Section 119 of the Code provides for a discharge order releasing the guarantor from the debts covered by that plan. This is the equivalent, for a guarantor who sees the process through, of coming out the other side with the covered liability cleared rather than carried indefinitely.",
+        "A discharge under the plan does not automatically touch anyone else's liability for the same underlying debt. A co-guarantor who did not go through their own Part III process remains separately liable to the creditor for whatever amount the creditor has not recovered, and a creditor is not required to pursue all guarantors through the same forum or on the same timeline. Promoters who have given joint guarantees with family members or co-directors should treat each guarantor's exposure as a separate question, not something one person's discharge order automatically resolves for everyone.",
+        "A discharge also does not erase debts the plan expressly excluded, such as amounts owed to a creditor who opted out of the process, or liabilities arising from fraud that the plan was never meant to cover. Promoters sometimes treat an approved repayment plan as a clean slate for every obligation connected to the failed business; it is closer to a settlement of the specific debts listed in the plan, nothing broader."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a company's corporate insolvency moratorium protect its personal guarantors?",
+      "a": "No. The Supreme Court held in State Bank of India v. V. Ramakrishnan (2018) that the Section 14 moratorium protecting a corporate debtor does not extend to its personal guarantors, so a creditor can pursue the guarantee while the company's own insolvency process continues."
+    },
+    {
+      "q": "Which tribunal hears a personal guarantor's insolvency case, the NCLT or the DRT?",
+      "a": "For a personal guarantor of a corporate debtor, Section 60 generally routes the case to the National Company Law Tribunal, often the bench already handling the corporate debtor's case. Other individuals and partnership firms outside that category go to the Debt Recovery Tribunal."
+    },
+    {
+      "q": "Is there still an automatic pause on recovery once a guarantor files for insolvency resolution?",
+      "a": "Not since 26 May 2026. A 2026 amendment added Section 96(4), removing the interim moratorium for personal guarantors of corporate debtors, and courts and the IBBI have treated this as applying even to applications filed before that date."
+    },
+    {
+      "q": "What happens if creditors reject the guarantor's repayment plan?",
+      "a": "Approval needs more than three-fourths in value of the creditors present and voting. If the plan fails to reach that threshold, or the guarantor later defaults on an approved plan, the process generally moves toward a bankruptcy order against the guarantor rather than a fresh negotiation."
+    },
+    {
+      "q": "Does a discharge order after a repayment plan release co-guarantors of the same debt?",
+      "a": "No. A discharge under Section 119 releases only the guarantor who completed that plan, for the debts the plan covered. A co-guarantor who has not gone through the same process remains independently liable to the creditor for any shortfall."
+    }
+  ],
+  "references": [
+    "Insolvency and Bankruptcy Code, 2016, Part III, Sections 60, 94, 95, 96, 97, 111, 114 and 119",
+    "State Bank of India v. V. Ramakrishnan & Anr., Civil Appeal No. 3595 of 2018, Supreme Court, decided 14 August 2018",
+    "Lalit Kumar Jain v. Union of India, Supreme Court (upholding the November 2019 notification bringing Part III into force for personal guarantors of corporate debtors)",
+    "Insolvency and Bankruptcy Code (Amendment) Act, 2026, inserting Section 96(4) and the corresponding Section 124 provision, in effect from 26 May 2026"
+  ],
+  "sources": [
+    "https://www.taxmann.com/post/blog/sc-upholds-provisions-relating-to-personal-guarantors-under-ibc/",
+    "https://khaitanco.com/thought-leadership/supreme-court-settles-the-debate-no-moratorium-for-personal-guarantors-under-section-14",
+    "https://www.mondaq.com/india/insolvencybankruptcy/1826334/closing-the-interim-stay-trap-how-the-2026-ibc-amendment-has-rebalanced-personal-guarantor-risk",
+    "https://www.livelawbiz.com/ibbi/ibbi-says-interim-moratorium-for-personal-guarantors-ceased-from-may-26-2026-even-in-pending-cases-551676",
+    "https://www.livelawbiz.com/ibc/high-court/ibc-amendment-excluding-personal-guarantors-from-interim-moratorium-is-retroactive-applies-to-pending-cases-delhi-high-court-546784",
+    "https://www.livelawbiz.com/nclt/nclt-ahmedabad-rejects-personal-guarantor-repayment-plan-voting-threshold-528700"
+  ],
+  "verification_notes": [
+    "AUDIENCE: HNI",
+    "TARGET QUERY: what happens to a personal guarantor under the IBC when the guarantee is invoked",
+    "DEMAND EVIDENCE: none seen (no search-volume data retrieved; topic chosen because the live site's search index has guarantee-enforcement and SARFAESI guides but no guide on the Part III personal insolvency process itself, and because the 2026 Section 96(4) amendment is a live, actively litigated change worth explaining)",
+    "SBI v. V. Ramakrishnan holding that Section 14 moratorium does not extend to personal guarantors, citation and date: confirmed from khaitanco.com and ibclaw.in/supremecourtcases.com summaries, both naming the same bench, date (14 August 2018) and holding.",
+    "Lalit Kumar Jain v. Union of India upholding the Part III notification for personal guarantors: confirmed from taxmann.com and blog.ipleaders.in, both describing the same notification and outcome; exact decision date not independently confirmed from these sources and is therefore not stated.",
+    "Section 60 NCLT jurisdiction for personal guarantors of corporate debtors versus DRT for other individuals: confirmed from two IBBI order summaries and a mondaq commentary describing the same forum split, though the boundary is noted as litigated rather than settled in every fact pattern.",
+    "Section 96(4) amendment, 26 May 2026 effective date, and its being treated as applying to pending cases by the Delhi High Court, Bombay High Court, NCLAT and the IBBI: confirmed from four independent livelawbiz reports plus a mondaq commentary, all describing the same provision, date and retroactivity conclusion.",
+    "75% in value of creditors present and voting as the repayment-plan approval threshold under Section 111: confirmed from a livelawbiz NCLT Ahmedabad report and multiple IBBI order summaries quoting the same '75% of Section 111' compliance language.",
+    "Left out: the exact number of days within which the resolution professional must submit a report under Section 99, since one source described a change from 10 to 21 days as 'proposed' without confirming it was brought into force, so this guide refers only to a 'statutory window' without stating a specific figure.",
+    "Left out: any claim about how the NCLT/DRT jurisdictional conflict has since been finally resolved, since the sources described it as contested rather than settled."
+  ]
+}
