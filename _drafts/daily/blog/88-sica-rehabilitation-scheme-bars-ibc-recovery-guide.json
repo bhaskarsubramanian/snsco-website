@@ -1,0 +1,103 @@
+{
+  "slug": "sica-rehabilitation-scheme-bars-ibc-recovery-guide",
+  "seo_title": "SICA Rehabilitation Scheme Bars Later IBC Recovery",
+  "title": "A Company Was Revived Under a SICA Scheme Years Ago: Can a Creditor Still Use the IBC to Recover Full Dues?",
+  "meta_description": "A November 2026 Supreme Court ruling holds a sanctioned SICA rehabilitation scheme binds creditors and blocks later IBC recovery of the scaled-down dues.",
+  "practice_area": "IBC & Insolvency",
+  "format": "case-law explainer",
+  "intro": [
+    "Companies that were declared sick industrial units years ago under the old Sick Industrial Companies Act often came out of that process with a sanctioned rehabilitation scheme that scaled down what they owed their creditors, sometimes to a fraction of the original debt, in exchange for keeping the business running. Years later, once the Insolvency and Bankruptcy Code became the dominant recovery route, a question kept coming back before the courts: can a creditor who accepted, or was bound by, the scaled-down scheme years ago turn around and use the IBC to chase the full, original amount instead.",
+    "On 16 November 2026, the Supreme Court answered this for the latest in a line of similar cases, in Ganesh Benzoplast Ltd. v. The State Trading Corporation of India Ltd., 2026 INSC 1223. The ruling builds directly on an earlier decision, Modi Rubber Ltd. v. Continental Carbon India Ltd. (2023), and settles how the two regimes, SICA's old rehabilitation framework and the IBC, interact when a scheme sanctioned under the first is still binding on paper. This guide sets out the ruling, the reasoning behind it, and what it means for a company or creditor still dealing with the aftermath of an old SICA scheme."
+  ],
+  "sections": [
+    {
+      "heading": "How the Dispute Reached the Supreme Court",
+      "paragraphs": [
+        "Ganesh Benzoplast Limited had been declared a sick industrial unit by the Board for Industrial and Financial Reconstruction, and a rehabilitation scheme was sanctioned for it under the Sick Industrial Companies (Special Provisions) Act, 1985. The State Trading Corporation of India, one of its creditors, was to recover its dues under the terms of that scheme rather than the full original amount. The scheme fixed the amount recoverable by STC well below its original demand, and the company's position was that, once the amount due under the scheme had been paid, nothing further remained owed.",
+        "STC nonetheless filed a petition under Section 9 of the Insolvency and Bankruptcy Code, 2016, as an operational creditor, seeking to initiate the corporate insolvency resolution process against Ganesh Benzoplast for what it said was the balance of its full, pre-scheme dues. The National Company Law Tribunal in Mumbai had earlier limited STC's recovery to what the rehabilitation scheme provided, in an order dated 13 February 2020, but the National Company Law Appellate Tribunal later restored STC's Section 9 petition in January 2026, prompting Ganesh Benzoplast's appeal to the Supreme Court, decided as Civil Appeal No. 3097 of 2026."
+      ]
+    },
+    {
+      "heading": "The Supreme Court's Reasoning: a Scheme Binds Every Creditor",
+      "paragraphs": [
+        "A bench of Justices Sanjay Kumar and Sanjeev Sachdeva set aside the NCLAT's order and restored the NCLT's original position. The Court relied heavily on its own 2023 ruling in Modi Rubber Ltd. v. Continental Carbon India Ltd., which had held that a rehabilitation scheme sanctioned under Section 18 of SICA binds the sick company, its shareholders, its creditors, its guarantors and its employees, and that the word creditors in that provision covers unsecured creditors too, beyond just secured lenders or financial institutions.",
+        "Applying that reasoning, the Court held that once a sum had already been paid to STC under the sanctioned scheme, STC could not treat its original, pre-scheme claim as still alive and use a fresh insolvency petition to recover the difference. Reports of the figures involved put the amount paid to STC under the scheme at a little over two crore rupees, against a far larger original demand, and the Court treated the scheme amount as the ceiling on what STC could recover. The Court directed each side to bear its own costs."
+      ]
+    },
+    {
+      "heading": "Why This Is Not Simply a Limitation or Delay Point",
+      "paragraphs": [
+        "It would be easy to assume this kind of case turns on the age of the claim or on delay in bringing it, but the Court's reasoning runs deeper than that. The point is that a sanctioned SICA scheme is not merely a payment plan the creditor agreed to as a matter of convenience; it operates by statute as a binding compromise on the underlying debt itself. Once SICA's own machinery had fixed what was owed and that amount had been paid, there was, on the Court's reasoning, no remaining debt of the kind Section 9 of the IBC requires before an operational creditor can even bring a petition, since an uncrystallised or already-discharged liability cannot support a fresh claim for the original, larger sum.",
+        "This fits the Court's broader approach through 2026 to creditors trying to use the IBC as a shortcut for straightforward debt recovery, rather than as a process meant to deal with a company that is genuinely unable to pay an existing, undisputed debt. A creditor who already received, and kept, the benefit of a sanctioned scheme is treated as having exhausted its remedy against the company for that debt."
+      ]
+    },
+    {
+      "heading": "What a Company or Creditor Should Take From This",
+      "paragraphs": [
+        "A company that went through BIFR rehabilitation under the old SICA regime, and still has creditors from that era, should keep its scheme documents and proof of payment under the scheme readily available, since this ruling gives it a strong basis to resist a later insolvency petition seeking the pre-scheme amount, provided the scheme payment was in fact made in full. A creditor sitting on an old, scaled-down SICA claim should check the scheme's own terms carefully before filing a fresh petition, since a scheme that has already been satisfied, even at a discounted figure, is unlikely to support a claim for the original, larger sum under the IBC.",
+        "The ruling does not help a company that never actually paid what the scheme required, or that is being chased for a genuinely separate, later-arising debt the old scheme never covered. The protection is tied closely to the specific debt the scheme dealt with and to the fact that the scheme amount was paid, not to BIFR-era sick-company status in general."
+      ]
+    },
+    {
+      "heading": "How This Fits With Modi Rubber",
+      "paragraphs": [
+        "Reading Ganesh Benzoplast on its own risks missing how closely it tracks Modi Rubber. That 2023 decision had already settled, directly, that an unsecured creditor cannot refuse a scaled-down figure under a sanctioned scheme and insist on the full original amount, overturning an earlier, contrary Delhi High Court view from 2012 on the same point. Ganesh Benzoplast carries that principle forward into the IBC era, confirming that the same binding effect holds even where the creditor's current attempt to get around the scheme takes the form of a fresh insolvency petition rather than a straightforward recovery suit.",
+        "For anyone advising on an old SICA-era dispute, the two decisions read together give a reasonably settled position: a creditor's remedy against the particular debt a sanctioned scheme covered is limited to what the scheme itself provided, once it has been paid, regardless of which forum or which statute the creditor later tries."
+      ]
+    },
+    {
+      "heading": "Why This Came as a Section 9 Petition, and Why That Mattered",
+      "paragraphs": [
+        "STC's claim against Ganesh Benzoplast arose from a commercial dealing rather than a loan, which placed it in the operational creditor category under Section 9 of the IBC rather than the financial creditor route under Section 7. An operational creditor has to demand payment of an operational debt and show that the debt is due and payable before a Section 9 petition can even be admitted, and the adjudicating authority has to satisfy itself that there is an existing dispute or defect in the claim before proceeding further. Framed this way, the scheme-bar argument fits neatly into that threshold test: if the only amount STC could ever lawfully claim was the scheme figure, and that figure had already been paid, there was no operational debt left that was due and payable at all, which goes to the root of whether the petition should have been admitted in the first place rather than to some later stage of the insolvency process.",
+        "This procedural point explains why the Supreme Court could dispose of the matter cleanly by restoring the NCLT's original order rather than sending the case back for a fresh round of fact-finding. Once the scheme amount and its payment were not seriously in dispute, nothing remained for the NCLT or NCLAT to adjudicate, and the appellate tribunal's decision to revive the petition in January 2026 is best read as having overlooked this threshold problem rather than as reaching a different view of the underlying facts."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "My company's creditor is trying to file an insolvency case over dues that were already settled under an old BIFR rehabilitation scheme. Can they do that?",
+      "a": "Not if the scheme amount has actually been paid. The Supreme Court held in Ganesh Benzoplast Ltd. v. State Trading Corporation of India (2026 INSC 1223) that a sanctioned SICA rehabilitation scheme binds all creditors, including unsecured ones, and once the scheme amount is paid, the creditor cannot use the IBC to recover the original, larger sum."
+    },
+    {
+      "q": "Does this ruling apply to secured creditors as well as unsecured ones?",
+      "a": "The binding effect of a sanctioned SICA scheme on creditors generally was already settled for unsecured creditors in Modi Rubber Ltd. v. Continental Carbon India Ltd. (2023), which this ruling follows. The underlying reasoning rests on the scheme binding creditors broadly rather than turning on whether a particular creditor is secured."
+    },
+    {
+      "q": "What if my company never actually paid the amount the old scheme required?",
+      "a": "Then this protection does not help. The ruling turns on the scheme amount having been paid in full; a company that defaulted on its own scheme obligations is in a different position and remains exposed to recovery action for what it still owes."
+    },
+    {
+      "q": "Can a creditor still pursue a genuinely new debt that arose after the old scheme ended?",
+      "a": "Yes. The ruling is specific to the debt the sanctioned scheme itself dealt with. A separate, later-arising debt that the scheme never covered is not protected and can still be pursued through the ordinary remedies, including the IBC where the conditions for that are otherwise met."
+    },
+    {
+      "q": "Is a Section 9 IBC petition the right forum to dispute how much is actually owed under an old scheme?",
+      "a": "Based on this ruling, generally not, once the scheme amount is established and paid. The Court treated the absence of any remaining crystallised debt as fatal to the Section 9 petition itself, rather than as a question to be argued out in the insolvency proceeding."
+    }
+  ],
+  "references": [
+    "Sick Industrial Companies (Special Provisions) Act, 1985, Section 18 (sanctioned rehabilitation scheme binding the company, shareholders, creditors, guarantors and employees)",
+    "Insolvency and Bankruptcy Code, 2016, Section 9 (initiation of corporate insolvency resolution process by an operational creditor)",
+    "Ganesh Benzoplast Ltd. v. The State Trading Corporation of India Ltd., 2026 INSC 1223, Supreme Court, decided 16 November 2026, Civil Appeal No. 3097 of 2026",
+    "Modi Rubber Ltd. v. Continental Carbon India Ltd., 2023 INSC 246, Supreme Court, decided 17 March 2023"
+  ],
+  "sources": [
+    "https://www.livelaw.in/supreme-court/ibc-cannot-be-invoked-to-recover-full-dues-contrary-to-binding-sica-rehabilitation-scheme-supreme-court-558804",
+    "https://lawchakra.in/supreme-court/sica-rehabilitation-scheme/",
+    "https://www.aaptaxlaw.com/supreme-court-judgments/supreme-court-section-9-ibc-sica-rehabilitation-scheme-binding-contingent-creditor-ganesh-benzoplast.html",
+    "https://www.casemine.com/commentary/in/supreme-court-affirms-binding-nature-of-sica-rehabilitation-schemes-on-unsecured-creditors-modi-rubber-ltd.-v.-continental-carbon-india-ltd.-(2023-insc-246)/view",
+    "https://www.multibagg.ai/market-pulse/articles/ganesh-benzoplast-ibc-scheme-dues-cmwkm99nw000k2do20xnv4vbm"
+  ],
+  "verification_notes": [
+    "AUDIENCE: HNI",
+    "TARGET QUERY: can a creditor use the IBC to recover full dues after a company was revived under a SICA rehabilitation scheme",
+    "DEMAND EVIDENCE: none seen (no search-volume data retrieved; chosen as a freshly reported 16 November 2026 Supreme Court ruling on the live interaction between a legacy regime, SICA, and the current IBC regime, a sub-topic not covered by the site's existing IBC guides, confirmed against the live search index)",
+    "Case name, citation (2026 INSC 1223), decision date (16 November 2026), bench (Justices Sanjay Kumar and Sanjeev Sachdeva) and appeal number (Civil Appeal No. 3097 of 2026): confirmed from livelaw.in and lawchakra.in, corroborated by multibagg.ai and aaptaxlaw.com.",
+    "Background facts (BIFR sick-unit declaration, rehabilitation scheme, NCLT Mumbai order of 13 February 2020, NCLAT restoring the Section 9 petition in January 2026): confirmed from lawchakra.in and aaptaxlaw.com, both describing the same procedural history.",
+    "Core holding that the sanctioned scheme bound STC and capped recovery at the scheme amount, with the Court relying on Modi Rubber: confirmed from livelaw.in and casemine.com's summary of Modi Rubber's own holding, both describing the same reliance and reasoning.",
+    "Modi Rubber citation, bench and holding that unsecured creditors are bound by a sanctioned SICA scheme, overruling a 2012 Delhi High Court view: confirmed from casemine.com and a second source describing the same 2023 ruling consistently.",
+    "The specific rupee figures paid to STC under the scheme: left largely out of the main text and mentioned only in general terms, since sources were not fully consistent on the exact original demand figure though they agreed on the scheme amount paid being a little over two crore rupees.",
+    "Costs order (each party bearing its own costs): confirmed from livelaw.in.",
+    "That STC's claim was brought as an operational creditor's Section 9 petition rather than a Section 7 financial creditor petition, and the general Section 9 admission threshold (an operational debt due and payable, with no pre-existing dispute): this reflects the IBC's own statutory scheme as consistently described across the sources reviewed for this guide and standard, settled IBC procedure; it is not itself a disputed or newly reported point and was not re-verified against a second case-specific source beyond the Act's text."
+  ]
+}

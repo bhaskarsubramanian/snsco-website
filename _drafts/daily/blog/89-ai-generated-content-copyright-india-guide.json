@@ -1,0 +1,104 @@
+{
+  "slug": "ai-generated-content-copyright-india-guide",
+  "seo_title": "AI, Copyright and Indian Law: Where Things Stand",
+  "title": "AI and Copyright in India: Who Owns an AI-Generated Work, and Can AI Train on Your Content?",
+  "meta_description": "Two 2026 Indian rulings on AI and copyright: who can be an author under Section 2(d)(vi), and whether AI training on copyrighted text needs permission.",
+  "practice_area": "Intellectual Property",
+  "format": "case-law explainer",
+  "intro": [
+    "Two separate questions about artificial intelligence and copyright have been working their way through Indian institutions in 2026, and both got answered, at least provisionally, within a few months of each other. The first is whether a work an AI system produces on its own can be copyrighted at all, and if so, who gets to be called its author. The second is whether a company training a large language model on someone else's published content needs permission first, or can rely on an existing exception in the Copyright Act.",
+    "The Copyright Office answered the first question in an order dated 31 August 2026, in a registration dispute over an AI-generated artwork. The Delhi High Court addressed the second in an interim order dated 24 July 2026, in the ongoing case of ANI Media Pvt. Ltd. v. OpenAI OpCo LLC and others. Neither ruling is the last word, but both give a working answer for anyone publishing content in India or building a product on an AI model trained on Indian material, as the position stands in November 2026."
+  ],
+  "sections": [
+    {
+      "heading": "Who Counts as an Author When AI Does the Work",
+      "paragraphs": [
+        "The Copyright Act, 1957 defines author for a computer-generated literary, dramatic, musical or artistic work in Section 2(d)(vi) as the person who causes the work to be created, rather than the machine that produces it. The provision was written long before generative AI existed, originally aimed at situations like a computer program automatically compiling a database or a simple output from a piece of software, and its wording has had to be stretched to cover a modern AI system that generates genuinely novel images or text from a prompt.",
+        "In the registration application at issue, the applicant had listed an AI system itself, referred to in reports as DABUS, as either the sole or a contributing author of an artwork titled 'A Recent Entrance to Paradise,' before being asked to name a human author instead and declining to do so. The Registrar of Copyrights rejected the application on that basis, holding that the AI system could not be recognised as an author under Section 2(d)(vi), while separately observing that the artwork itself was original enough to satisfy the Act's originality standard had a proper human author been named."
+      ]
+    },
+    {
+      "heading": "What the Copyright Office Order Actually Decided, and What It Left Open",
+      "paragraphs": [
+        "The order is useful but limited. It decides that an AI system cannot itself be named as an author, and that the applicant's refusal to name a qualifying human in its place was fatal to that particular application. It does not decide, because the applicant did not give it the chance to, whether a person who merely writes a prompt and takes the first image or passage the AI system generates in response would count as the person who caused the work to be created, or whether something closer to active creative control over the process, choosing and refining inputs, directing successive iterations, selecting among multiple outputs, is required.",
+        "Commentary following the order reads Section 2(d)(vi) as asking a causation question rather than a question about who performed the final mechanical step, which suggests a sufficiently involved human prompter or operator could still be an author in a future case with better facts. It also matters that this is a decision of the Copyright Office, not a court, and it can be challenged or distinguished in later proceedings; it settles the specific application before it and signals the Office's current approach, without finally resolving the broader question for every kind of AI-assisted work."
+      ]
+    },
+    {
+      "heading": "The ANI v. OpenAI Case: Training Data and Fair Dealing",
+      "paragraphs": [
+        "The second dispute is a separate and, for most publishers, more consequential one. ANI Media, a news agency, sued OpenAI, alleging that ChatGPT had been trained on its copyrighted news content without permission and could reproduce it, in substance, in response to user queries. OpenAI contested both the merits and the Delhi High Court's jurisdiction to hear the case at all, given that OpenAI is a foreign company without an obvious Indian presence tied to the alleged infringement.",
+        "On 24 July 2026, Justice Amit Bansal rejected OpenAI's jurisdiction objection, holding that the Delhi High Court could hear the case, and separately declined to grant ANI an interim injunction at this stage. The Court's reasoning on the merits, at the interim stage, treated the use of ANI's articles to train the underlying model as falling within the Act's fair dealing exception for research, and found that ANI had not shown, on the material before the court at that point, that ChatGPT's outputs reproduced ANI's specific copyrighted text in a way that amounted to infringement, including that the model had memorised or reproduced it verbatim."
+      ]
+    },
+    {
+      "heading": "Why This Is an Interim Order, Not a Final Answer",
+      "paragraphs": [
+        "It bears repeating that this is an interim ruling on whether to grant urgent relief before trial, not a final judgment on the underlying claim. The Court left the deeper question, whether training an AI model on copyrighted material is lawful under Indian copyright law as a general matter, to be decided once the full case is heard on its merits, with both sides able to put in a complete evidentiary record rather than the more limited material available at the interim stage. ANI's suit continues, and nothing in the July 2026 order forecloses a different outcome once the Delhi High Court, or an appellate court, considers the matter in full.",
+        "For an AI company operating in India, the order is still a meaningfully favourable interim signal, since a court with jurisdiction over the dispute has, for now, declined to treat training on news content as an obvious infringement warranting an injunction. For an Indian publisher or content owner worried about the same issue, the order is a reminder that the fair dealing exception for research is being read broadly enough to cover model training at the interim stage, at least on the facts argued so far, and that a stronger showing of verbatim reproduction in the model's actual outputs may be needed to move the needle at trial."
+      ]
+    },
+    {
+      "heading": "How India's Position Lines Up With the US and UK",
+      "paragraphs": [
+        "India is not alone in wrestling with this. In the United States, the Copyright Office and the courts have taken a firmer line than the Indian Registrar's order, holding in the same DABUS dispute, brought there as Thaler v. Perlmutter, that a work must have a human author to be copyrightable at all, with no equivalent to India's Section 2(d)(vi) for computer-generated works to fall back on. The United Kingdom sits closer to India's statutory structure: its Copyright, Designs and Patents Act, 1988 has long contained its own computer-generated work provision, treating the person who made the arrangements necessary for the work's creation as the author, which is the model India's own Section 2(d)(vi) is widely understood to have been adapted from.",
+        "The practical effect is that India and the United Kingdom both leave room, at least on paper, for a human to be recognised as the author of an AI-assisted work by pointing to their role in setting up and directing the process, while the current United States position does not offer that route at all. A business operating across these jurisdictions should not assume that an authorship strategy that works in India will work in the United States, or that a refusal in one country settles the position in the other, since each operates under a different statutory test."
+      ]
+    },
+    {
+      "heading": "What This Means Right Now for Publishers, Authors and AI Businesses",
+      "paragraphs": [
+        "A content owner concerned about AI training should not assume Indian copyright law gives an automatic right to be excluded or compensated; the current, provisional reading favours the AI company's position where the content is used for training rather than reproduced verbatim in outputs. Keeping clear records of where a model's output reproduces specific text closely, rather than general style or factual substance, is likely to matter more at trial than the broader principle of whether training itself is permitted.",
+        "A business building or deploying an AI tool that generates content for a client should still name a specific human as the author on any registration application, describing that person's actual role in directing the inputs and the creative process, rather than naming the AI system itself or leaving authorship unclear, given the Copyright Office's clear rejection of AI-named authorship in the August 2026 order. Both disputes are live and likely to be revisited at a higher level, so a position taken today should be treated as provisional rather than settled law."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I register copyright in an image an AI tool generated for me?",
+      "a": "You can apply, but the Copyright Office has held, in its August 2026 order on the DABUS application, that the AI system itself cannot be named as the author. You will need to name a human author and describe how that person caused the work to be created, rather than naming the AI tool."
+    },
+    {
+      "q": "Does an AI company need my permission to train its model on my published articles?",
+      "a": "That question has not been finally decided. The Delhi High Court, in an interim order in ANI Media v. OpenAI dated 24 July 2026, treated training as falling within the Act's fair dealing exception for research at this stage, but the full merits of the case, including this exact question, are still pending trial."
+    },
+    {
+      "q": "If an AI chatbot reproduces my article word for word in its answer, is that different from training on it?",
+      "a": "On the reasoning in the ANI v. OpenAI interim order, yes. The Court distinguished training itself from verbatim reproduction in outputs, and found that ANI had not shown clear verbatim reproduction at that stage. A stronger showing of word-for-word output reproduction is likely to matter more at trial than the fact of training alone."
+    },
+    {
+      "q": "Is the Copyright Office's DABUS order a binding legal precedent?",
+      "a": "It is a registration decision of the Copyright Office, not a court judgment, so its precedential weight is more limited than a High Court or Supreme Court ruling. It is still useful as the Office's stated current approach to AI authorship, and future applicants should expect it to be applied unless a court takes a different view."
+    },
+    {
+      "q": "Can a foreign AI company be sued in an Indian court over how it trained its model?",
+      "a": "Based on the ANI v. OpenAI interim order, yes, at least where an Indian claimant can show a connection between the alleged infringement and India. The Delhi High Court rejected OpenAI's objection that it fell outside the Court's jurisdiction, though the underlying merits of the case are still being litigated."
+    }
+  ],
+  "references": [
+    "Copyright Act, 1957, Section 2(d)(vi) (author of a computer-generated literary, dramatic, musical or artistic work) and Section 52 (fair dealing exceptions, including for research)",
+    "Copyright Office order dated 31 August 2026, Diary No. 9356/2022-CO/A (the 'DABUS' / 'A Recent Entrance to Paradise' registration application)",
+    "ANI Media Pvt. Ltd. v. OpenAI OpCo LLC and others, Delhi High Court, interim order dated 24 July 2026 (Justice Amit Bansal)"
+  ],
+  "sources": [
+    "https://conventuslaw.com/report/india-can-ai-be-an-author-indian-copyright-office-clarifies-the-position-in-the-dabus-case/",
+    "https://www.worldtrademarkreview.com/article/copyright-office-finds-dabus-artwork-original-draws-line-ai-authorship",
+    "https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/delhi-high-court-rules-anis-copyright-claims-against-openai-2026-07-28_en",
+    "https://chambers.com/articles/delhi-high-courts-ani-v-openai-shaping-ai-copyright-law-in-india",
+    "https://www.reedsmith.com/our-insights/blogs/viewpoints/102k53m/dc-circuit-affirms-ai-cannot-be-author-under-copyright-act/",
+    "https://www.edwincoe.com/?p=4990"
+  ],
+  "verification_notes": [
+    "AUDIENCE: domestic",
+    "TARGET QUERY: can an AI generated work be copyrighted in India and does an AI company need permission to train on copyrighted content",
+    "DEMAND EVIDENCE: none seen (no search-volume data retrieved; chosen because AI and copyright is a live, widely discussed topic in 2026 with two concrete, verifiable Indian rulings this year, and the live search index has guides on software copyright and fair dealing generally but none on AI authorship or AI training specifically)",
+    "Section 2(d)(vi) definition (author of a computer-generated work is the person who causes the work to be created): confirmed from conventuslaw.com and worldtrademarkreview.com, both describing the same statutory test consistently.",
+    "Copyright Office order date (31 August 2026), the DABUS / 'A Recent Entrance to Paradise' application, and the holding that the AI system cannot be named as author while the artwork itself could satisfy originality: confirmed from conventuslaw.com and worldtrademarkreview.com, both describing the same order and outcome.",
+    "ANI Media v. OpenAI case name, Delhi High Court forum, interim order date (24 July 2026) and Justice Amit Bansal as the deciding judge: confirmed from the EU IP Helpdesk summary and chambers.com, both naming the same judge, court and date.",
+    "Jurisdiction holding against OpenAI, the fair dealing research-exception reasoning on training, and the finding of no shown verbatim reproduction at the interim stage: confirmed from the EU IP Helpdesk summary and a further press report, both describing the same three holdings consistently.",
+    "That the ANI v. OpenAI ruling is an interim order and the main suit, including whether training itself is lawful, remains pending: confirmed from both sources above, which explicitly describe the ruling as not finally deciding the underlying question.",
+    "Left out: any claim about whether an appeal has been filed against the July 2026 interim order, since the sources available in this run did not confirm one either way; also left out the exact diary or application number format beyond what was directly reported, since the office order document itself was not independently opened in this run.",
+    "US position (Thaler v. Perlmutter, D.C. Circuit affirming on 18 March 2025 that AI-generated work with no human author is not copyrightable, with no equivalent to Section 2(d)(vi) in US law): confirmed from two independent law-firm summaries (Skadden and Reed Smith) describing the same appellate holding and date.",
+    "UK position (Copyright, Designs and Patents Act, 1988, Section 9(3), naming the person who undertakes the arrangements necessary for a computer-generated work's creation as its author): confirmed from a law-firm commentary describing the statutory text and a second source noting the same provision's untested scope; this guide states the provision's existence and basic test rather than its unsettled finer points, which sources flagged as unclear."
+  ]
+}
