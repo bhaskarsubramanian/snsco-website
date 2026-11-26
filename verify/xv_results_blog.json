@@ -1339,7 +1339,7 @@
     "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
     "fixes": [
       {
-        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
+        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
         "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
         "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
       }
@@ -4167,5 +4167,53 @@
       "https://www.scobserver.in/journal/court-frames-comprehensive-guidelines-on-maintenance/"
     ],
     "note": "BNSS Section 144 replacing CrPC Section 125 from 1 July 2024 with Section 531 savings for pending cases, and Rajnesh v. Neha, (2021) 2 SCC 324 (decided 4 Nov 2020) with its disclosure-affidavit, quantum-criteria, date-of-award-from-filing and set-off guidelines, are all independently confirmed. SEO fields (seo_title, meta_description, AUDIENCE/TARGET QUERY/DEMAND EVIDENCE lines, FAQ count) checked against batch.json's SEO_RULES and found compliant."
+  },
+  {
+    "file": "_drafts/daily/blog/86-section-22-hindu-succession-act-coheir-preferential-right-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/mahinder-others-v-puran-singh-2026-insc-698-section-22-hindu-succession-act-1617794",
+      "https://www.scconline.com/blog/post/2026/07/15/sc-section-22-hindu-succession-act-applies-to-agricultural-property/",
+      "https://www.livelaw.in/amp/supreme-court/hindu-succession-act-class-i-heirs-preferential-right-under-section-22-extends-to-agricultural-land-supreme-court-541209",
+      "https://bcajonline.org/journal/mahinder-v-puran-singh-parliament-possesses-legislative-competence-to-enact-preferential-rights-of-co-heirs-for-agricultural-land-under-hindu-succession-entries/"
+    ],
+    "note": "Independently confirmed: Mahinder and Others v. Puran Singh (2026 INSC 698 / 2026 LiveLaw SC 675), decided 14 July 2026 by Justices Sanjay Karol and Nongmeikapam Kotiswar Singh, holding Section 22's preferential right extends to agricultural land, that Atam Prakash v. State of Haryana did not examine or invalidate Section 22, and confirming Parliament's legislative competence. Section 22(2)/(3) mechanics (court-fixed price; competing heirs resolved by highest-bid preference) and the Article 97 limitation split are consistent with independent sources. Minor citation variance across reporters (LiveLaw SC 675 vs 625) does not affect the neutral citation used in the draft."
+  },
+  {
+    "file": "_drafts/daily/blog/87-section-8-hindu-succession-grandson-no-birthright-fathers-share-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 6,
+    "evidence": [
+      "https://www.verdictum.in/supreme-court/j-rajesh-minor-through-his-mother-and-natural-guardian-j-gomathi-v-m-kumaran-dead-through-lrs-2026-insc-1208-grandfathers-property-1625434",
+      "https://lawbeat.in/amp/supreme-court-judgments/hindu-succession-act-can-a-grandson-claim-coparcenary-rights-in-property-inherited-by-father-supreme-court-says-no-1650514",
+      "https://www.scobserver.in/?p=20667",
+      "https://www.deccanherald.com/india/property-inherited-by-son-after-partition-is-individual-not-ancestral-sc-4213463"
+    ],
+    "note": "Independently confirmed: J. Rajesh (Minor) v. M. Kumaran, 2026 INSC 1208, decided 6 November 2026 by Justices Augustine George Masih and Sunita Agarwal, dismissing the appeal from a Madras HC judgment dated 11.08.2010, holding property devolving on a son under Section 8 is his individual property and a grandson has no birthright in it during the father's lifetime, with Section 6 and the Tamil Nadu amendment held inapplicable. Note: the same ruling already underlies a separate live legal-news article (/legal-news/grandson-no-right-grandfathers-property-father-alive-supreme-court.html); this is a distinct 'case-law explainer' blog format sanctioned under BLOG_WIDENING and not flagged as duplicate, but the owner may want to be aware the same ruling is now covered twice in different formats."
+  },
+  {
+    "file": "_drafts/daily/blog/88-sica-rehabilitation-scheme-bars-ibc-recovery-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/supreme-court/ibc-cannot-be-invoked-to-recover-full-dues-contrary-to-binding-sica-rehabilitation-scheme-supreme-court-558804",
+      "https://lawchakra.in/supreme-court/sica-rehabilitation-scheme/",
+      "https://www.ndl.gov.in/lw_document/supreme_court_india/supreme_court/31858",
+      "https://www.casemine.com/commentary/in/supreme-court-affirms-binding-nature-of-sica-rehabilitation-schemes-on-unsecured-creditors-modi-rubber-ltd.-v.-continental-carbon-india-ltd.-(2023-insc-246)/view"
+    ],
+    "note": "Independently confirmed: Ganesh Benzoplast Ltd. v. State Trading Corporation of India, 2026 INSC 1223, Civil Appeal No. 3097 of 2026, decided 16 November 2026 by Justices Sanjay Kumar and Sanjeev Sachdeva, setting aside the NCLAT's Jan 2026 order and restoring the NCLT Mumbai's Feb 2020 order capping STC's recovery at the sanctioned SICA scheme amount (~Rs 2.19 crore paid), relying on Modi Rubber Ltd. v. Continental Carbon India Ltd. (2023 INSC 246, bench of Justices M.R. Shah and Sudhanshu Dhulia), which held sanctioned SICA schemes bind unsecured creditors. Figures on the original demand vary slightly across secondary reports, which the draft itself flags appropriately."
+  },
+  {
+    "file": "_drafts/daily/blog/89-ai-generated-content-copyright-india-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.worldtrademarkreview.com/article/copyright-office-finds-dabus-artwork-original-draws-line-ai-authorship",
+      "https://www.business-standard.com/india-news/ai-generated-work-can-be-original-so-why-can-t-ai-be-its-author-126090200461_1.html",
+      "https://www.barandbench.com/news/litigation/openai-did-not-violate-copyright-laws-by-using-ani-news-to-train-chatgpt-delhi-high-court-declines-interim-relief",
+      "https://ipwatchdog.com/2025/03/24/d-c-circuit-upholds-human-authorship-requirement-thaler-v-perlmutter/"
+    ],
+    "note": "Independently confirmed: the Copyright Office's 31 Aug 2026 order (Diary No. 9356/2022-CO/A) rejecting DABUS as author under Section 2(d)(vi) while finding the artwork itself original, on the basis that DABUS has no legal personality; and the Delhi HC's 24 July 2026 interim order in ANI Media v. OpenAI (Justice Amit Bansal) rejecting OpenAI's jurisdiction objection and declining an interim injunction, treating training as within the Section 52(1)(a) fair dealing exception at the interim stage without a final ruling on the merits. The Thaler v. Perlmutter D.C. Circuit affirmance (18 March 2025, Judge Patricia Millett) is independently confirmed. UK CDPA 1988 Section 9(3) reference is standard, settled statutory text and was not separately re-verified."
   }
 ]
