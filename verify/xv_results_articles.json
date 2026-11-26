@@ -2519,5 +2519,67 @@
       "https://arbitrationblog.kluwerarbitration.com/2020/10/13/balasore-v-medima-providing-clarity-or-creating-a-mist-around-the-grant-of-injunctions-in-foreign-seated-arbitrations/"
     ],
     "note": "Fresh independent searches, including the Supreme Court's own order PDF and the Singapore judgment on elitigation.sg, confirm the full chain: Delhi HC single judge anti-arbitration injunction 25 July 2025 (CS(OS) 243/2025) over the undisclosed-arbitrator issue; Singapore anti-suit injunction [2025] SGHC 199; Division Bench ruling 12 Dec 2025 (FAO(OS) 88/2025) treating Delhi as the juridical seat; Supreme Court order 16 March 2026 setting aside that ruling in part and remanding, leaving open the arbitrator-role and seat questions; and Balasore Alloys v Medima LLC (Calcutta HC, 12 Aug 2020) affirming the power in principle while declining it on the facts, including its characterisation of Bina Modi. Minor date variance in secondary commentary on exactly when the Singapore anti-suit order's written grounds issued does not contradict any claim in the draft. No corrections needed."
+  },
+  {
+    "file": "_drafts/articles/131-critical-strategic-minerals-exploration-licence-offshore-mining-article.json",
+    "verdict": "PASS",
+    "claims_checked": 10,
+    "evidence": [
+      "https://www.iea.org/policies/17968-mines-and-minerals-development-regulation-amendment-act-2023",
+      "https://www.iea.org/policies/31667-offshore-areas-mineral-development-and-regulation-amendment-act-2023",
+      "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-national-critical-mineral-mission-to-build-a-resilient-value-chain-for-critical-mineral-resources-vital-to-green-technologies-with-an-outlay-of-rs-34300-crore-over-seven-years",
+      "https://www.legitquest.com/case/hindustan-zinc-ltd-v-union-of-india-and-ors/77E7C3"
+    ],
+    "note": "Independently confirmed: Section 10BA exploration licence (Seventh Schedule minerals, State-run auction, 5+2 year term), Section 11D Centre-run auction for the 24 Part D critical/strategic minerals, the 2023 Offshore Amendment Act's auction regime, 50-year non-renewable lease and one-third-royalty trust, the NCMM's 29 Jan 2025 Cabinet approval and ~Rs 34,300 crore outlay, and the Hindustan Zinc Ltd v Union of India vires challenge to Section 11/Mineral (Auction) Rules 2015 all check out. The draft is unusually careful about disputed secondary details (Gazette date/Act number, exact mineral counts, final offshore tranche allocation) and appropriately declines to state them as settled. Related_pages paths all verified to exist in origin/main:assets/search-index.json. No material inaccuracy found."
+  },
+  {
+    "file": "_drafts/articles/132-admiralty-jurisdiction-arrest-of-ships-calcutta-high-court-article.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://indiankanoon.org/doc/104206362/",
+      "https://libertatem.in/law/high-court/calcutta-high-court-admiralty-jurisdiction-applies-to-every-vessel-but-does-not-apply-to-an-inland-vessel-exclusively-meant-for-plying-inland",
+      "https://www.casemine.com/in/column/navigating-the-inland-vessels-act:-jurisdiction,-safety-and-liability-in-india/view"
+    ],
+    "note": "Core claims independently confirmed: the Admiralty Act 2017's commencement (1 April 2018), the eight named High Courts (Bombay, Calcutta, Madras, Gujarat, Karnataka, Kerala, Orissa, Hyderabad), M.V. Elisabeth, Gram Marine v MV Pelagos (2018 SCC OnLine Cal 5834, Section 4(1)(n), ~Rs 1.75 crore security), and the MT TSM Pollux ~Rs 88 crore security later revised downward on evidence. One finding: in Jindal ITF Limited v I-Marine Infratech (29 Jan 2021), the Calcutta Division Bench actually found the vessel was registered under the Merchant Shipping Act, 1958, and held that registration itself took the vessel out of the 'inland vessel' definition -- i.e. the MSA registration/paperwork was treated as dispositive. The draft's claim that the court looked at 'the vessel's actual character and use, not merely its registration paperwork' states the opposite of what the court actually relied on.",
+    "fixes": [
+      {
+        "find": "The practical test the Calcutta Division Bench applied looked at the vessel's actual character and use, not merely its registration paperwork, which means a claimant cannot resolve the question simply by pointing to a certificate.",
+        "replace": "In the Jindal ITF matter itself, the Division Bench treated the vessel's registration under the Merchant Shipping Act, 1958 as dispositive: once so registered, the vessel ceased to be an 'inland vessel' under the 1917 Act for this purpose, so a claimant can often resolve the question precisely by pointing to that registration rather than needing to litigate the vessel's actual day-to-day use.",
+        "reason": "Independent sources confirm the court's actual holding turned on Merchant Shipping Act registration being dispositive, the opposite of what the draft states about registration paperwork not being determinative."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/133-virtual-digital-asset-taxation-pmla-compliance-article.json",
+    "verdict": "PASS",
+    "claims_checked": 9,
+    "evidence": [
+      "https://www.incometaxindia.gov.in/w/section-115bbh",
+      "https://egazette.gov.in/WriteReadData/2023/244184.pdf",
+      "https://www.livelaw.in/tax-cases/invoking-pmla-enforcement-agencies-seize-4189-crore-assets-centre-clarifies-on-indian-crypto-industry-black-money-act-312618"
+    ],
+    "note": "Independently confirmed: Section 115BBH's flat 30% tax with cost-of-acquisition-only deduction and no set-off/carry-forward of VDA losses; Section 194S's 1% TDS with the Rs 50,000 (specified person)/Rs 10,000 (others) thresholds; the 7 March 2023 Finance Ministry notification S.O. 1072(E) bringing VDA exchanges/wallets within the PMLA as reporting entities; and the December 2025 parliamentary reply figure of Rs 4,189.89 crore attached/seized/frozen by the ED in crypto PMLA cases, 29 arrests and 22 prosecution complaints. All related_pages paths verified to exist. No inaccuracy found; the draft's extensive hedging on disputed secondary figures (offshore show-cause notice counts, Income-tax Act 2025 renumbering) is appropriate and accurate."
+  },
+  {
+    "file": "_drafts/articles/134-carbon-credit-trading-scheme-india-compliance-article.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217239",
+      "https://www.downtoearth.org.in/climate-change/india-sets-first-ever-ghg-emission-intensity-targets-under-ccts",
+      "https://www.business-standard.com/india-news/govt-notifies-ghg-emission-intensity-targets-for-four-industries-126012201311_1.html"
+    ],
+    "note": "Independently confirmed: CCTS 2023 notified 28 June 2023 under ECA Sections 14(w)/14AA; the two GEI target batches on 8 October 2025 (aluminium, cement, chlor-alkali, pulp and paper; 282 entities) and 13 January 2026 (refineries, petrochemicals, textiles, secondary aluminium; 208 entities), totalling 490 entities, matching the draft exactly. All related_pages paths verified to exist. The draft is exceptionally well-hedged on disputed figures (iron and steel draft targets, Administrator role, six-month trading bar, ACV agency count) and flags each as needing confirmation against the finalised text; no overstated claim found."
+  },
+  {
+    "file": "_drafts/articles/135-citizenship-by-descent-oci-child-born-abroad-nri-article.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-mozambique-born-woman-plea-for-issuance-of-indian-passport-failure-to-prove-citizenship-533788",
+      "https://lawx.in/acts/section/94/798/6992"
+    ],
+    "note": "Independently confirmed: Dolly Khilankumar Vadalia v. Union of India (Gujarat HC, Special Civil Application No. 9457 of 2025, decided 30 April 2026) dismissing a citizenship-by-descent claim for want of consular birth registration, matching the facts (Mozambique birth 2000, Aadhaar/PAN/voter ID held, emergency travel document) and holding described in the draft; Section 4's one-year consular registration requirement and its 3 December 2004 effective date for the 2003 amendment proviso. related_pages is an empty array (no links proposed), which is not an error. No inaccuracy found."
   }
 ]
