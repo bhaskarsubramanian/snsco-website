@@ -1,0 +1,104 @@
+{
+    "slug": "builder-buyer-agreement-unfair-clauses-rera-guide",
+    "seo_title": "One-Sided Builder Agreement Clauses: What Courts Say",
+    "title": "One-Sided Clauses in a Builder-Buyer Agreement: What the Supreme Court Has Actually Struck Down",
+    "meta_description": "RERA's 10 percent advance cap under Section 13, and Supreme Court rulings treating one-sided builder-buyer agreement terms as an unfair trade practice.",
+    "practice_area": "Real Estate & RERA",
+    "format": "case-law explainer",
+    "intro": [
+        "A builder-buyer agreement is usually drafted entirely by the builder, and buyers who read it closely tend to find the same pattern: steep interest and compensation if the buyer delays a payment, a token or no compensation if the builder delays possession, a one-sided right for the builder to change the layout or specifications, and an arbitration clause naming an arbitrator the builder has already picked. The Supreme Court has now dealt with this pattern directly, in more than one ruling, and the position as on November 2026 gives a buyer real arguments against several of these terms rather than leaving the agreement's wording as the last word.",
+        "RERA itself does not leave this entirely to the general law either. Section 13 of the Real Estate (Regulation and Development) Act, 2016 puts a hard cap on how much a builder can collect before a proper agreement for sale even exists, which is where a buyer's leverage against unfair terms starts, before the question of individual clauses is reached at all."
+    ],
+    "sections": [
+        {
+            "heading": "Section 13's Advance Payment Cap, and Why It Matters Here",
+            "paragraphs": [
+                "Section 13(1) of RERA prohibits a promoter from accepting more than ten percent of the cost of an apartment, plot or building as an advance payment or an application fee from a buyer, before entering into a registered agreement for sale. Section 13(2) then requires that agreement for sale to be in the form prescribed by the rules, and to specify the particulars of development, including the dates and manner of payment, in a way that leaves little room for the builder to later claim an ambiguity favoured its own reading.",
+                "State RERA authorities have enforced this cap against builders who tried to collect far more than ten percent before any agreement existed. In one reported Maharashtra tribunal decision, a builder who had collected well over the permitted threshold without a registered agreement for sale was found unable to rely on that shortfall to cancel the buyer's allotment for non-payment, and a penalty was imposed for the Section 13 violation itself. A buyer facing pressure to pay a large sum before signing anything has a straightforward RERA complaint available on this point alone."
+            ]
+        },
+        {
+            "heading": "Pioneer Urban Land v. Govindan Raghavan: The Core Ruling",
+            "paragraphs": [
+                "The leading case is Pioneer Urban Land and Infrastructure Ltd. v. Govindan Raghavan, decided by the Supreme Court on 2 April 2019 (reported as 2019 INSC 458 and AIR 2019 SC 1779). The buyer's apartment agreement, dated 2012, let the builder extend the possession date without any penalty while separately penalising the buyer heavily for a payment delay, and the Court was asked whether a buyer who signed such an agreement could still challenge those terms once possession was offered years late.",
+                "The Supreme Court held that incorporating such one-sided and unreasonable clauses into a builder-buyer agreement amounts to an unfair trade practice under Section 2(r) of the Consumer Protection Act, 1986, since it adopts an unfair method or practice to the buyer's detriment. The clauses were held not binding on the buyer despite having been signed, and the builder was directed to refund the amount paid with compensatory interest. The ruling's significance is that a buyer is not stuck with a term simply because they signed the agreement; a term found to be ex facie one-sided can be struck down as an unfair trade practice regardless of the buyer's signature on it."
+            ]
+        },
+        {
+            "heading": "What Later Rulings Added: IREO Grace Realtech and the Pattern of Clauses",
+            "paragraphs": [
+                "The Supreme Court applied the same reasoning in later disputes over builder-buyer agreements, including in IREO Grace Realtech Pvt. Ltd. v. Abhishek Khanna and connected appeals, where a similarly asymmetric compensation structure for delay was again found objectionable, and in subsequent matters the Court has referred back to both Pioneer Urban Land and IREO Grace Realtech as the settled starting point for this kind of clause. The recurring pattern across these cases is the same: a builder's agreement that provides a meaningful, often double-digit, interest rate if the buyer defaults on an instalment, against a token compensation or interest-free grace period running into years if the builder is late with possession.",
+                "A single one-sided clause is less likely to be struck down on its own than a cluster of them read together, since the Court's reasoning in these cases has generally looked at the overall bargain rather than isolating one term. A buyer building a case against an agreement should identify every asymmetric term together, the compensation clause, the force majeure definition, the right to alter specifications, and the arbitrator-appointment clause, rather than arguing only the one that seems most obviously unfair."
+            ]
+        },
+        {
+            "heading": "Where This Gets Decided: RERA, Consumer Forum or Civil Court",
+            "paragraphs": [
+                "A buyer challenging unfair terms has more than one forum available, and the choice affects both speed and the kind of relief available. A complaint to the RERA Authority under Section 31 of the Act is usually the faster route for relief tied to delay, refund or interest, and the Authority can also act against a Section 13 violation directly. A complaint under the Consumer Protection Act, 2019 before the relevant consumer commission is the route that most directly engages the unfair-trade-practice reasoning from Pioneer Urban Land, since that case itself arose from a consumer complaint rather than a RERA complaint.",
+                "A buyer should not assume both routes can be pursued at once on the same relief; once an election is made and pursued to a substantive order, courts have generally not allowed a buyer to abandon one forum midway and start again in the other for the same claim. Deciding early which forum fits the actual relief sought, a refund with interest, a possession order, or a declaration that specific clauses are void, avoids losing time to a forum that cannot grant what is actually needed."
+            ]
+        },
+        {
+            "heading": "Clauses Most Likely to Be Challenged Successfully",
+            "paragraphs": [
+                "Based on the reasoning in the Supreme Court's rulings, four categories of clause carry the clearest risk for a builder and the clearest argument for a buyer. First, an asymmetric delay-compensation clause, where the buyer's default triggers a meaningfully higher rate or an earlier termination right than the builder's own delay in handing over possession. Second, a one-sided right to amend the project's layout, specifications or amenities without the buyer's consent, particularly where it is not tied to any regulatory requirement. Third, a force majeure definition broad enough to cover ordinary business risk, such as a general reference to market conditions or financial difficulty, rather than genuine unforeseeable events. Fourth, an arbitration clause that names a specific arbitrator chosen unilaterally by the builder, which raises a separate line of challenge under the Arbitration and Conciliation Act's independence and impartiality requirements, distinct from the unfair-trade-practice argument.",
+                "None of this means every clause favouring a builder is automatically void; ordinary commercial terms, reasonable grace periods, and genuine force majeure carve-outs are not what these rulings target. The test that has actually been applied looks at whether the term is ex facie one-sided and unreasonable when read in the context of the whole agreement, not whether a term happens to favour the builder in isolation."
+            ]
+        },
+        {
+            "heading": "What a Buyer Should Do Before Signing, and After",
+            "paragraphs": [
+                "Before signing, a buyer should compare the builder's draft agreement against the state RERA's prescribed model agreement for sale, since a significant departure from the model terms, particularly on payment schedule, delay compensation and force majeure, is itself worth raising with the builder or flagging in a RERA complaint about the agreement's form. Asking for the delay-compensation rate to be made equal in both directions, rather than accepting a one-sided figure, costs nothing to ask for and strengthens the buyer's position if a dispute arises later.",
+                "After possession is delayed or a dispute arises on an agreement already signed, a buyer is not without options merely because the clause in question was accepted at the time of signing. The Pioneer Urban Land line of authority is specifically about clauses that were signed and later challenged, so the absence of a objection at signing is not, on its own, a bar to raising the point once the builder tries to rely on the clause."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "q": "Can a builder legally demand more than 10 percent of the flat cost before signing an agreement?",
+            "a": "No. Section 13(1) of RERA caps any advance payment or application fee at 10 percent of the cost before a registered agreement for sale is executed. A builder who collects more than this without such an agreement has violated Section 13 and can be penalised by the RERA Authority."
+        },
+        {
+            "q": "Is a one-sided clause in a builder-buyer agreement enforceable just because I signed it?",
+            "a": "Not necessarily. In Pioneer Urban Land v. Govindan Raghavan (2019), the Supreme Court held that an ex facie one-sided clause in such an agreement amounts to an unfair trade practice, and is not binding on the buyer even though it was signed, since the agreement was not negotiated on equal terms."
+        },
+        {
+            "q": "What kind of clauses are most likely to be struck down as unfair?",
+            "a": "Clauses that penalise a buyer's delay far more heavily than the builder's own delay in giving possession, a one-sided right for the builder to change specifications without consent, an overly broad force majeure definition, and an arbitrator named unilaterally by the builder are the categories courts have focused on in this line of cases."
+        },
+        {
+            "q": "Should I file a complaint with RERA or with the consumer commission?",
+            "a": "It depends on the relief sought. RERA is generally faster for refund, interest and delay-related relief and can also act on a Section 13 advance-payment violation directly, while the consumer commission route more directly engages the unfair-trade-practice reasoning from Pioneer Urban Land. Once pursued substantively in one forum, switching to the other for the same claim is generally not allowed."
+        },
+        {
+            "q": "Does this mean every term favouring the builder is void?",
+            "a": "No. The courts have struck down terms found to be ex facie one-sided and unreasonable when read against the whole agreement, not every clause that happens to favour the builder. Ordinary commercial terms and genuine force majeure provisions are not affected by this line of rulings."
+        }
+    ],
+    "references": [
+        "Real Estate (Regulation and Development) Act, 2016, Section 13 (advance payment cap before a registered agreement for sale) and Section 31 (complaints to the Authority)",
+        "Pioneer Urban Land and Infrastructure Ltd. v. Govindan Raghavan, Supreme Court, decided 2 April 2019, 2019 INSC 458, AIR 2019 SC 1779",
+        "IREO Grace Realtech Pvt. Ltd. v. Abhishek Khanna and connected appeals, Supreme Court",
+        "Consumer Protection Act, 2019 (unfair trade practice and unfair contract terms framework, replacing the 1986 Act under which Pioneer Urban Land was originally argued)",
+        "Maharashtra Real Estate Appellate Tribunal ruling on a Section 13 advance-payment violation and penalty under Section 61 of RERA"
+    ],
+    "sources": [
+        "https://www.casemine.com/columns/one-sided-clauses-are-an-unfair-trade-practice-in-builder-buyer-agreements-supreme-court",
+        "https://law.asia/one-sided-clauses-builder-buyer-agreements-unfair-says-supreme-court/",
+        "https://barandbench.com/news/one-sided-clauses-constitute-unfair-trade-practice-under-section-2r-of-consumer-protection-act-supreme-court",
+        "https://www.livelawbiz.com/rera/reat/mahareat-builder-cannot-accept-over-10-of-flat-consideration-without-registered-agreement-for-sale-orders-rs-8077-lakh-refund-to-homebuyer-550036",
+        "https://moneylife.in/article/builder-cant-take-over-10-percentage-project-cost-from-buyer-as-advance-or-application-fee-haryana-rera/73149.html",
+        "https://housing.com/news/one-sided-clauses-in-builder-buyer-agreements/"
+    ],
+    "verification_notes": [
+        "AUDIENCE: HNI",
+        "TARGET QUERY: can a one-sided clause in a builder-buyer agreement be challenged in India",
+        "DEMAND EVIDENCE: none seen (no search-volume data retrieved; chosen because the live search index has extensive RERA delay, refund and forum-election coverage and a carpet-area guide, but no guide built specifically on the Pioneer Urban Land line of cases on unfair contract terms)",
+        "Section 13(1)/(2) advance payment cap and agreement-for-sale form requirement: confirmed from moneylife.in and the livelawbiz.com tribunal report, both describing the same 10 percent cap and the requirement of a registered agreement before exceeding it.",
+        "Pioneer Urban Land v. Govindan Raghavan holding (one-sided clauses as an unfair trade practice under Section 2(r) of the 1986 Act, refund with compensatory interest, agreement dated 2012): confirmed from casemine.com and law.asia, both describing the same holding, facts and outcome.",
+        "Citation for Pioneer Urban Land: a web search specifically run to confirm an SCC citation did not verify one; the verified citations located were 2019 INSC 458 and AIR 2019 SC 1779 (also reported as [2019] 5 SCR 1169), confirmed from two independent case-reporting sources, and used here instead of an unconfirmed SCC citation.",
+        "IREO Grace Realtech being treated by later Supreme Court orders as applying the same reasoning as Pioneer Urban Land: confirmed from casemine.com's reporting of a later ruling (Godrej Projects Development) relying on both cases together.",
+        "Maharashtra tribunal penalty for a Section 13 violation where a builder collected over 10 percent without a registered agreement and tried to cancel the allotment: confirmed from livelawbiz.com, corroborated in substance by moneylife.in's report of a separate Haryana RERA order applying the same 10 percent cap.",
+        "Left out: any claim that a buyer can pursue RERA and the consumer commission simultaneously on the same relief, and any specific currently prescribed state model agreement text, since no source in this run confirmed either in enough detail to state as settled; the guide states the forum-election point in general terms instead."
+    ]
+}
