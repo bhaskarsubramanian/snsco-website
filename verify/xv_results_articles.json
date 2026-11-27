@@ -2644,5 +2644,68 @@
       "https://lawstreet.co/judiciary/mother-in-laws-property-suit-against-daughter-in-law-maintainable-before-civil-court-not-family-court-delhi-hc"
     ],
     "note": "Case name, parties (confirmed against the Delhi HC's own 20 May 2026 cause list: CM(M) 1776/2023, Anjali Jayant @ Laxmi v. Kusum Singh & Anr.), judge, pronouncement date, procedural posture (Art. 227 petition against refusal to reject/transfer under O.VII R.11/R.10), the foundation-of-the-proceeding test from Geeta Anand v. Tanya Arjun (Div. Bench, 1 April 2024), and the shared-household holding are all corroborated across 4+ independent sources. The specific neutral citation '2026:DHC:4527' could not be independently verified (not found on any source reached), but the draft already hedges it as 'per contemporaneous reporting'. related_pages links resolve on the live site."
+  },
+  {
+    "file": "_drafts/articles/139-gift-tax-section-56-2-x-hni-gifting-article.json",
+    "verdict": "FIX",
+    "claims_checked": 13,
+    "evidence": [
+      "https://www.incometaxindia.gov.in/w/meaning-of-relatives",
+      "https://www.incometaxindia.gov.in/documents/d/guest/press-release-income-tax-act-2025-comes-into-force-from-01-april-2026-pdf",
+      "https://x.com/TaxBuddy1/status/1995507409356529824",
+      "https://www.courtkutchehry.com/pages/blog/itat-kolkata-gifts-from-brother-in-law-tax-free-judgment-2025/",
+      "https://www.incometaxindia.gov.in/w/section-49-50"
+    ],
+    "note": "The statutory core (Rs 50,000 threshold; relative Explanation list; Section 92(2)(m)/Income-tax Act 2025 in force 1 April 2026; stamp duty value test with DVO referral; Rule 11UA; Section 64 spousal/minor clubbing with Rs 1,500 exemption; Section 64(2) HUF conversion; Section 49(1) cost carryover; Pioneer-style relative list including in-laws) all check out against independent sources. FIX: the 'where this goes wrong' case study is materially mischaracterised. Independent search of the underlying TaxBuddy/Business Today reporting (and the related ITAT Kolkata ruling that a brother-in-law gift is exempt) shows the Rs 70 lakh demand was NOT based on the brother-in-law relationship falling outside the Explanation's relative list (it is squarely inside it, as the article's own earlier section states) -- the reported ground was a documentation/gift-deed dispute, and the demand was reportedly deleted in full by the ITAT, restoring the original assessment. The draft omits this outcome and misstates the cause.",
+    "fixes": [
+      {
+        "find": "only for the Income Tax Department to reassess the position and raise a demand of roughly Rs 70 lakh, on the basis that the actual relationship, once examined against the Explanation's precise list, did not in fact fall within the defined categories of 'relative' for this provision, however close the family considered the relationship to be in ordinary terms.",
+        "replace": "only for the Income Tax Department to reassess the position and raise a demand of roughly Rs 70 lakh. The reported ground for the demand was not that the relationship fell outside the relative definition, since a brother-in-law is squarely within the Explanation's list, but a dispute over documentation, reportedly because no gift deed had been executed, even though the law does not actually require a gift deed once the relationship and the money trail are established. The Income Tax Appellate Tribunal has since been reported to have deleted the addition in full, restoring the taxpayer's assessed income and tax liability to their original, undisputed figures.",
+        "reason": "The actual reported cause was a documentation dispute, not the relationship failing the relative test, and the draft omits that the demand was reportedly deleted on appeal."
+      },
+      {
+        "find": "The pattern that case illustrates recurs across the kind of disputes tribunals have been deciding regularly: a family assumes a relationship qualifies because it feels like a close family connection, executes the gift on that assumption without checking the Explanation's actual wording, and only discovers the gap between the colloquial and the statutory meaning of 'relative' once the Department examines the return, often years after the gift itself and well after any opportunity to restructure the transaction has passed.",
+        "replace": "The pattern that case illustrates recurs across the kind of disputes tribunals have been deciding regularly, though the recurring failure is usually evidentiary rather than definitional: a family that can show the relationship and the money trail, but never executed a gift deed or kept clear records of the transfer, finds itself defending the exemption from scratch once the Department examines the return, often years after the gift itself and well after the paperwork that would have settled the question quickly could still have been put together.",
+        "reason": "Corrects the same mischaracterisation: the recurring risk in these disputes is a documentation gap, not a gap between the colloquial and statutory meaning of relative."
+      },
+      {
+        "find": "The lesson is that the Explanation's list should be checked against the specific relationship in question before the gift deed is executed, not after a demand notice arrives, because by the time a demand notice arrives, the gift has usually already been spent, invested or converted into some other asset, and finding the tax to pay a retrospective demand is a materially harder problem than simply confirming the relationship correctly at the outset.",
+        "replace": "The lesson is that a gift deed and a clear banking trail should be put in place at the time of the gift, not reconstructed after a demand notice arrives, because even a gift to an unquestionably qualifying relative can otherwise be disputed and has to be defended, at cost and delay, all the way to appeal before the exemption is confirmed.",
+        "reason": "Aligns the article's stated lesson with the actual, documentation-based cause of the cited dispute."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/140-sovereign-immunity-foreign-arbitral-award-enforcement-article.json",
+    "verdict": "FIX",
+    "claims_checked": 15,
+    "evidence": [
+      "https://arbitrationblog.kluwerarbitration.com/2021/08/14/no-immunity-for-you-delhi-court-allows-enforcement-of-award-against-afghanistan-and-ethiopia/",
+      "https://www.hcourt.gov.au/cases-and-judgments/judgments/judgments-1998-current/ccdm-holdings-llc-v-republic-india",
+      "https://www.newyorkconvention.org/court-decisions/united-kingdom-24-june-2026-cc-devas",
+      "https://supremecourt.uk/cases/uksc-2026-0132",
+      "https://www.mccarthy.ca/en/insights/blogs/international-arbitration-blog/case-update-supreme-court-of-canada-dismisses-leave-to-appeal-the-judgment-of-the-quebec-court-of-appeal-in-ccdm-holdings-llc-et-al-2024-qcca-1620",
+      "https://www.deccanherald.com/business/cairn-withdraws-cases-against-india-to-get-rs-7900-crore-tax-refund-1047044.html"
+    ],
+    "note": "Independently confirmed: CPC Sections 79-82 procedure; KLA Const Technologies v. Embassy of Afghanistan (18 June 2021, Justice J.R. Midha, decided together with Matrix Global v. Ethiopia's Ministry of Education, Section 86(3) consent not required); Cairn's May 2021 Air India alter-ego suit in SDNY and the Paris attachment of government-linked property; the Taxation Laws (Amendment) Act, 2021 (assent 13 Aug 2021) and Cairn's Rs 7,900 crore refund and global withdrawal; CCDM Holdings v. Republic of India [2026] HCA 9 (8 April 2026) and CC/Devas v. Republic of India [2026] EWCA Civ 797 (24 June 2026), both on the New York Convention waiver point exactly as described; and the UK Supreme Court's grant of permission to appeal on 2 Nov 2026 (confirmed directly from the court's own case page, UKSC/2026/0132). FIX: the article describes the Quebec proceeding only as 'a late 2024 appellate ruling' that found India not immune from jurisdiction there, but omits that the Supreme Court of Canada has since refused India's application for leave to appeal that ruling (reported 2025), making the Quebec Court of Appeal's finding final in that jurisdiction -- a material, confirmable update to 'where things stand' that the article's own closing section asks readers to treat as time-sensitive.",
+    "fixes": [
+      {
+        "find": "a result favourable to the Devas side on the jurisdictional question even if it left open, for a later stage, what assets, if any, could actually be reached in execution.",
+        "replace": "a result favourable to the Devas side on the jurisdictional question even if it left open, for a later stage, what assets, if any, could actually be reached in execution. The Supreme Court of Canada has since refused India's application for leave to appeal that ruling (reported in 2025), leaving the Quebec Court of Appeal's finding as the final word in that jurisdiction on the immunity-from-jurisdiction question, though execution against specific assets remains a separate and still-contested matter there.",
+        "reason": "Adds the confirmed 2025 Supreme Court of Canada leave refusal, which the draft omits and which makes the Quebec ruling final in that jurisdiction."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/141-joint-development-agreement-section-45-5a-capital-gains-article.json",
+    "verdict": "PASS",
+    "claims_checked": 14,
+    "evidence": [
+      "https://www.incometaxindia.gov.in/w/joint-development-agreements-jda-",
+      "https://www.motilaloswal.com/personal-finance/tax/section-194ic-tds-on-joint-development-agreements-jda",
+      "https://thetaxtalk.com/2025/11/taxation-of-joint-development-agreements-jdas-in-the-context-of-the-new-income-tax-act-2025/",
+      "https://itatonline.org/digest/anugraha-shelters-p-ltd-v-dcit-2022-193-itd-119-bang-trib/"
+    ],
+    "note": "Independently confirmed: Section 45(5A) inserted by Finance Act 2017, effective AY 2018-19; deferral to the completion-certificate year; stamp duty value plus monetary consideration as deemed full value; restriction to individuals/HUFs only; the early-transfer proviso; the registered-specified-agreement requirement; Section 194-IC's flat 10% TDS on the monetary component only (in-kind consideration excluded, no threshold); and the Income-tax Act, 2025 renumbering to Sections 67(14)-(16) (67(14) chargeability on completion certificate, 67(15) definitions including 'competent authority', 67(16) the pre-completion-transfer proviso) -- an unusually precise match confirmed by multiple independent sources. The tribunal line on limited possession not triggering Section 2(47)(v) is well supported by multiple reported ITAT rulings (Anugraha Shelters, Dinesh Devraj Ranka and others). related_pages paths confirmed to exist on origin/main:assets/search-index.json. No contradictions found."
   }
 ]
