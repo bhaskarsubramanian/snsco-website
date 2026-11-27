@@ -1339,7 +1339,7 @@
     "note": "Core holding (2026 INSC 464, 8 May 2026, Datta & Sharma JJ, Railways is a consumer not a deemed distribution licensee, twin test of operating a distribution system AND supplying third-party consumers) confirmed. But the guide's specific 'roughly Rs 1,600 crore' outstanding-dues figure, stated as the amount flowing from this West Bengal case, is not supported: the only source giving that figure attributes it to dues owed to Bihar discoms NBPDCL/SBPDCL, a different dispute, and a separate enforcement order (MERC) fixed a different figure (Rs 3,351 crore) for Maharashtra's MSEDCL. The amount in this case was left to be computed, not fixed by the Court, so citing a specific aggregate figure for this judgment is unsupported.",
     "fixes": [
       {
-        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly ₹1,600 crore. The case is reported as 2026 INSC 464.",
+        "find": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, reportedly running to roughly \u20b91,600 crore. The case is reported as 2026 INSC 464.",
         "replace": "and dismissed the appeals, directing that outstanding cross-subsidy and additional surcharge amounts be computed and recovered, with Railways given a reasonable opportunity to respond to that computation before payment falls due. The case is reported as 2026 INSC 464.",
         "reason": "The specific 'roughly Rs 1,600 crore' figure could not be confirmed as belonging to this case; the only source found for that figure attributes it to a different Railways surcharge dispute involving Bihar discoms, and the Court itself left the amount to be computed rather than fixing a sum."
       }
@@ -4215,5 +4215,38 @@
       "https://ipwatchdog.com/2025/03/24/d-c-circuit-upholds-human-authorship-requirement-thaler-v-perlmutter/"
     ],
     "note": "Independently confirmed: the Copyright Office's 31 Aug 2026 order (Diary No. 9356/2022-CO/A) rejecting DABUS as author under Section 2(d)(vi) while finding the artwork itself original, on the basis that DABUS has no legal personality; and the Delhi HC's 24 July 2026 interim order in ANI Media v. OpenAI (Justice Amit Bansal) rejecting OpenAI's jurisdiction objection and declining an interim injunction, treating training as within the Section 52(1)(a) fair dealing exception at the interim stage without a final ruling on the merits. The Thaler v. Perlmutter D.C. Circuit affirmance (18 March 2025, Judge Patricia Millett) is independently confirmed. UK CDPA 1988 Section 9(3) reference is standard, settled statutory text and was not separately re-verified."
+  },
+  {
+    "file": "_drafts/daily/blog/90-agm-default-consequences-company-law-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://taxguru.in/?p=699286",
+      "https://www.taxscan.in/discussion-on-power-of-nclt-for-granting-extension-of-agm/59478",
+      "https://supremetoday.ai/nclt-allows-compounding-under-s-441-of-companies-act-for-7-year-agm-delay-imposes-92-84-lakh-fine-nclt-allows-compounding-under-s-441-of-companies-act-for-7-year-agm-delay-imposes-92-84-lakh-fine-INDNCLT00000020635"
+    ],
+    "note": "Independent search confirmed: Section 96 excludes the first AGM from any extension, the Registrar's extension for later AGMs is capped at three months via Form GNL-1, Section 99's penalty figures (Rs 1 lakh plus Rs 5,000/day continuing default on the company and officers in default) and that multi-year AGM defaults have been compounded by NCLT with fines scaling to the length of default (one reported matter: 7-year delay, Rs 92.84 lakh), consistent with the draft's general reference to such orders. No contradictions found. SEO_RULES nit: the FAQ answer to 'How long can the Registrar extend an AGM deadline by?' is 36 words, just under the 40-90 word range; AUDIENCE/TARGET QUERY/DEMAND EVIDENCE lines, seo_title (50 chars) and meta_description (144 chars) are otherwise compliant."
+  },
+  {
+    "file": "_drafts/daily/blog/91-trademark-renewal-restoration-process-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 7,
+    "evidence": [
+      "https://ksandk.com/intellectual-property-rights/a-guide-to-trademark-restoration-reclaiming-brands-identity/",
+      "https://future.indiankanoon.org/doc/95287852",
+      "https://www.latestlaws.com/judgements/delhi-hc/2024/october/2024-latest-caselaw-6937-del"
+    ],
+    "note": "Independently confirmed Section 25(4)'s one-year restoration window on Form TM-R, and located the specific 2024 Delhi High Court ruling the draft cites: a mark that expired 4 June 2022 was held time-barred from restoration once the one-year window ran out in 2023 (matches the draft's '2022 expiry, 2024 ruling' claim). The precise rule-by-rule mapping (57=timing, 58=notice, 59=late renewal, 60=restoration) was not crisply confirmed independently -- sources describe the overall Rules 57-61 scheme consistently but divide the sub-rules slightly differently -- though the substantive one-year in-time / six-month late / one-year restoration windows the draft relies on are not in dispute."
+  },
+  {
+    "file": "_drafts/daily/blog/92-builder-buyer-agreement-unfair-clauses-rera-guide.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://www.casemine.com/columns/one-sided-clauses-are-an-unfair-trade-practice-in-builder-buyer-agreements-supreme-court",
+      "https://barandbench.com/news/one-sided-clauses-constitute-unfair-trade-practice-under-section-2r-of-consumer-protection-act-supreme-court",
+      "https://moneylife.in/article/builder-cant-take-over-10-percentage-project-cost-from-buyer-as-advance-or-application-fee-haryana-rera/73149.html"
+    ],
+    "note": "Independently confirmed Pioneer Urban Land & Infrastructure Ltd. v. Govindan Raghavan (Civil Appeal No. 12238/2018, decided 2 April 2019, Justices U.U. Lalit and Indu Malhotra) held one-sided builder-buyer clauses to be an unfair trade practice under Section 2(r) of the Consumer Protection Act, 1986, and confirmed RERA Section 13(1)'s 10 percent advance-payment cap pending a registered agreement for sale, with state RERA/REAT orders enforcing it. My search surfaced AIR 2019 SC 1779, 2019 (5) SCC 725 and [2019] 5 SCR 1169 for Pioneer Urban Land but did not itself turn up the '2019 INSC 458' citation the draft gives; this is not a contradiction (INSC neutral citations were assigned retrospectively on the Supreme Court's own site and would not necessarily surface via secondary commentary), just not independently re-confirmed beyond the draft's own sourcing."
   }
 ]
