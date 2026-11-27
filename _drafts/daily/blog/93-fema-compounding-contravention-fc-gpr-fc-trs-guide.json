@@ -1,0 +1,113 @@
+{
+  "slug": "fema-compounding-contravention-fc-gpr-fc-trs-guide",
+  "seo_title": "FEMA Compounding: Fixing a Late FC-GPR or FC-TRS Filing",
+  "title": "FEMA Compounding of Contraventions: Fixing a Missed FC-GPR or FC-TRS Filing",
+  "meta_description": "The difference between a late filing fee and formal FEMA compounding, the 2024 Rules, the RBI's PRAVAAH portal, and who decides a compounding application.",
+  "practice_area": "Banking & Finance",
+  "format": "step-by-step process with timelines and fees",
+  "intro": [
+    "A company that missed the deadline for an FC-GPR or FC-TRS filing, or that discovers it priced a foreign investment wrongly or exceeded a sectoral cap, has two separate routes to put the record straight under India's foreign exchange law. A plain reporting delay is usually fixed by paying a late submission fee (LSF) to the Reserve Bank of India under a fixed formula. Anything beyond a reporting delay, wrong pricing, a missing approval, a breach of a condition attached to the investment, needs formal compounding under Section 15 of the Foreign Exchange Management Act, 1999 (FEMA).",
+    "This matters most to foreign-invested Indian companies, NRIs who have remitted money into or out of India, and the compliance teams of companies that received foreign direct investment years ago and are only now cleaning up old filings before a fundraise, an audit, or a share sale. As on November 2026, the position is governed by the Foreign Exchange (Compounding Proceedings) Rules, 2024 and the RBI's Master Directions on compounding."
+  ],
+  "sections": [
+    {
+      "heading": "A Reporting Delay and a Substantive Breach Are Not the Same Problem",
+      "paragraphs": [
+        "FC-GPR has to be filed once a company allots shares to a non-resident investor, and FC-TRS has to be filed once an existing share is transferred between a resident and a non-resident. Practitioner guidance consistently places the FC-GPR deadline at 30 days from the date of allotment and the FC-TRS deadline at 60 days from the date the transfer or the consideration is received, whichever comes first. Filing late, but filing correctly and within the right structure, is treated by the RBI as a reporting lapse.",
+        "A substantive contravention is a different category altogether: the shares were priced below the floor the RBI's valuation rules require, the investment came from a sector where foreign investment is capped or prohibited, a condition attached to the approval was not met, or no filing was made at all for years. A company cannot clear a substantive breach by simply paying the late fee and moving on. The distinction decides which of the two processes below actually applies, and getting it wrong means the application goes to the wrong desk and has to be refiled."
+      ]
+    },
+    {
+      "heading": "The Late Submission Fee: Formula and Limits",
+      "paragraphs": [
+        "Since RBI's A.P. (DIR Series) Circular of September 2022 uniformised the late fee across reporting categories, an event-based filing such as FC-GPR or FC-TRS attracts a fee of Rs. 7,500 plus 0.025 percent of the amount involved, multiplied by the number of years of delay (rounded up to the nearest month). A purely periodical filing, with no transaction value attached, draws a flat Rs. 7,500 regardless of how late it is. For a Rs. 1 crore investment reported a year late, that works out to roughly Rs. 10,000 in total.",
+        "The LSF route is only open for a limited window, generally up to three years from the date the filing fell due, and it is available only for reporting delays, not for the substantive breaches described above. Filing through the LSF route does not need a separate application to a compounding authority; it is paid directly against the delayed form once the reporting portal flags the delay."
+      ]
+    },
+    {
+      "heading": "What Compounding Actually Is, and Who Decides It",
+      "paragraphs": [
+        "Section 15 of FEMA lets a person apply to compound almost any contravention defined under Section 13 of the Act, in exchange for paying a sum fixed in a compounding order instead of facing adjudication proceedings. The Reserve Bank handles the compounding of most FEMA contraventions; the Directorate of Enforcement retains jurisdiction only over contraventions of Section 3(a), which deals with unauthorised dealing in or transfer of foreign exchange, so an ordinary FDI reporting or pricing breach stays with the RBI.",
+        "Compounding is available whether the company applies on its own initiative or in response to a Memorandum of Contraventions the RBI has already issued after reviewing a filing. If the RBI's memorandum gives a window to opt for compounding and the company does not respond within it, the matter can proceed instead under the Act's ordinary adjudication provisions, which carry higher exposure and a formal hearing rather than a negotiated order."
+      ]
+    },
+    {
+      "heading": "Filing the Application: The 2024 Rules and the PRAVAAH Portal",
+      "paragraphs": [
+        "The Foreign Exchange (Compounding Proceedings) Rules, 2024 replaced the 2000 Rules that had governed this process for over two decades, and the application fee was doubled from Rs. 5,000 to Rs. 10,000 plus applicable GST. The application, along with the supporting documents and a note explaining how the contravention arose, goes to the Foreign Exchange Department of the RBI, or to the Enforcement Directorate for the narrow category of cases it handles.",
+        "An applicant can file physically or electronically through the RBI's PRAVAAH portal, and the RBI has been pushing applicants toward PRAVAAH for several categories of filings since mid-2025. The fee can be paid by demand draft, NEFT or RTGS; where it is paid electronically, the RBI expects to be informed of the payment by email within a short window of the transfer. Once a compounding order is passed, the sum it fixes has to be paid, again by demand draft or electronic transfer, within fifteen days of the order."
+      ]
+    },
+    {
+      "heading": "What a Compounding Order Does, and Its Limits",
+      "paragraphs": [
+        "A compounding order closes the specific contravention it covers once the fixed sum is paid, and the company does not face a separate adjudication or penalty proceeding on the same facts afterward. The amount depends on the nature of the contravention, how long it continued, and whether it was repeated, and RBI officials at different ranks are authorised to decide applications depending on the amount of foreign exchange or investment involved, with larger or more serious matters moving up the chain internally.",
+        "Compounding is not available for every contravention. Cases the RBI or the Enforcement Directorate consider to involve money laundering, a national security angle, or conduct under investigation by another agency on related facts are generally kept out of the compounding route and referred to adjudication or prosecution instead. A company with a genuinely old or complicated filing gap is usually better served getting a professional to map out which filings are missing and which category each gap falls into before applying, rather than filing a single application covering everything and hoping the RBI sorts out the categorisation."
+      ]
+    },
+    {
+      "heading": "Why This Usually Surfaces During a Fundraise or an Audit",
+      "paragraphs": [
+        "In practice, a missed FC-GPR or an old FC-TRS gap rarely comes to light because a company goes looking for it on its own. It tends to surface when a new investor's legal diligence team runs a standard FEMA compliance check before a fresh funding round, when a statutory auditor flags an unreconciled share allotment against the company's FIRMS filing history, or when a bank asks for proof of RBI reporting before processing an outward remittance connected to the same investment. By the time it surfaces this way, the gap is usually several years old and involves more than one allotment or transfer.",
+        "Once the gap is identified under this kind of pressure, the timeline for a deal or an audit sign-off often does not match the RBI's own processing time for a compounding application, which can run to several months depending on the complexity of the facts and the authority deciding it. Flagging the gap to counsel as soon as it is found, rather than waiting until a closing date is fixed, gives the application a realistic chance of being resolved before it becomes a condition precedent that threatens the larger transaction."
+      ]
+    },
+    {
+      "heading": "Before You Apply",
+      "paragraphs": [
+        "A company cleaning up old FDI filings should first reconcile every allotment and transfer against the FIRMS portal records to identify exactly which forms were never filed or were filed with an error, since a partial filing history is common where share allotments were tracked in board minutes but never pushed through to the RBI's reporting system. Where the gap is a pure reporting delay within the eligible window, the LSF route is faster and does not involve disclosing the full history to a compounding authority.",
+        "Where the gap includes a pricing or sectoral issue, it helps to have the valuation certificate and the FDI policy position as they stood on the date of the original transaction ready before filing, since the compounding authority looks at the contravention against the rules in force at that time, not the rules in force today. A company that waits for a lender's due diligence or a share sale to surface these gaps usually has far less room to negotiate timing than one that identifies and files proactively."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between the late submission fee and FEMA compounding?",
+      "a": "The late submission fee is a fixed, formula-based charge for a pure reporting delay on forms like FC-GPR or FC-TRS, paid directly without a separate application. Compounding under Section 15 of FEMA is a formal process before the RBI (or the Enforcement Directorate for Section 3(a) matters) for a substantive breach, such as wrong pricing or a sectoral cap violation, and ends in a negotiated order fixing a sum to be paid."
+    },
+    {
+      "q": "How is the late submission fee calculated for a delayed FC-GPR filing?",
+      "a": "For an event-based filing such as FC-GPR, the fee is Rs. 7,500 plus 0.025 percent of the amount involved, multiplied by the number of years of delay rounded up to the nearest month. A purely periodical filing with no transaction value draws a flat Rs. 7,500 regardless of the delay."
+    },
+    {
+      "q": "Can every FEMA contravention be compounded?",
+      "a": "No. Section 3(a) contraventions, which involve unauthorised dealing in foreign exchange, are handled by the Enforcement Directorate rather than the RBI, and cases with a money-laundering or national-security angle, or that are under investigation on related facts, are generally kept outside the compounding route and referred to adjudication instead."
+    },
+    {
+      "q": "How much does it cost to file a compounding application?",
+      "a": "The application fee under the 2024 Rules is Rs. 10,000 plus applicable GST, payable by demand draft, NEFT or RTGS. This fee is separate from, and does not reduce, whatever sum the compounding order itself eventually fixes for the contravention."
+    },
+    {
+      "q": "Can a compounding application be filed online?",
+      "a": "Yes. The RBI accepts compounding applications, with supporting documents, either physically or through its PRAVAAH portal, and has been directing applicants toward PRAVAAH for an increasing range of filings since 2025. Electronic fee payments generally need to be reported to the RBI by email shortly after the transfer is made."
+    }
+  ],
+  "references": [
+    "Foreign Exchange Management Act, 1999, Section 13 (contraventions) and Section 15 (power to compound)",
+    "Foreign Exchange (Compounding Proceedings) Rules, 2024, notified under Section 46 read with Section 15(1) of FEMA",
+    "Reserve Bank of India, Master Direction on Compounding of Contraventions under FEMA, 1999 (as updated)",
+    "RBI A.P. (DIR Series) Circular No. 16 dated 30 September 2022, on the uniform Late Submission Fee for reporting delays",
+    "Foreign Exchange Management (Mode of Payment and Reporting of Non-Debt Instruments) Regulations, 2019, read with FIRMS reporting requirements for FC-GPR and FC-TRS"
+  ],
+  "sources": [
+    "https://www.nishithdesai.com/default.aspx?id=8315",
+    "https://calcguru.in/?p=7338",
+    "https://calcguru.in/?p=3743",
+    "https://www.ey.com/en_in/technical/alerts-hub/2025/06/rbi-mandates-submissions-on-pravaah-portal-and-issues-amendment-to-direction",
+    "https://www.taxmann.com/post/blog/analysis-new-compounding-regime-under-fema",
+    "https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/pdf/late_submission_fee_for_reporting_delays_fema_1999.pdf"
+  ],
+  "verification_notes": [
+    "AUDIENCE: foreign company",
+    "TARGET QUERY: how to compound a late FC-GPR or FC-TRS filing under FEMA",
+    "DEMAND EVIDENCE: none seen (no search-volume tool used; chosen because the site's existing FEMA coverage addresses ODI, ECB, gifts and PAN but has no guide on fixing a missed or wrong FDI reporting filing, a recurring due-diligence finding for foreign-invested Indian companies)",
+    "FC-GPR 30-day and FC-TRS 60-day reporting deadlines: multiple secondary sources (blog.ipleaders.in, calcguru.in) independently state the same two deadlines; treated as settled since no source contradicted them.",
+    "Late submission fee formula (Rs. 7,500 + 0.025% x amount x years of delay, flat Rs. 7,500 for periodical filings) and the worked example matching it: confirmed from two independent sources, nishithdesai.com's summary of RBI A.P. (DIR Series) Circular No. 16 of 30 September 2022, and calcguru.in's calculator, which state the same formula.",
+    "Three-year outer limit on using the LSF route: confirmed from calcguru.in and the mufg.jp practitioner note, both stating the same limit.",
+    "Section 15 compounding power and the Section 3(a) carve-out to the Enforcement Directorate: confirmed from two independent sources describing the same statutory scheme (righttoinformation.wiki and the RBI Master Direction summary referenced in the taxmann.com analysis).",
+    "2024 Rules replacing the 2000 Rules, and the application fee rising from Rs. 5,000 to Rs. 10,000 plus GST: confirmed from two independent sources, the EY alert and the taxmann.com analysis, both reporting the same fee change.",
+    "PRAVAAH portal as an accepted filing channel for compounding applications, alongside physical filing: confirmed from two independent sources, the RBI Master Direction text quoted in the taxmann.com analysis and the EY June 2025 alert on mandatory PRAVAAH use for other filing categories.",
+    "Fifteen-day period to pay the sum fixed in a compounding order, and permitted payment modes: confirmed from the taxmann.com analysis, corroborated by the general payment-mode description in the EY alert; left in general terms rather than naming a specific rule number since the rule number itself was not independently confirmed.",
+    "Left out: the specific rupee thresholds for which RBI officer rank decides a compounding application, since only one source in this run stated figures for that scale, and the GST rate applicable to the application fee, since the one source mentioning it flagged the figure as current only 'at present' without a confirmed date."
+  ]
+}

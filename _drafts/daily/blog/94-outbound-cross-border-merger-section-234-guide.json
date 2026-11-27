@@ -1,0 +1,113 @@
+{
+  "slug": "outbound-cross-border-merger-section-234-guide",
+  "seo_title": "Outbound Mergers: Indian Company Merging Into a Foreign Co",
+  "title": "Merging an Indian Company Into a Foreign Company: How an Outbound Merger Works",
+  "meta_description": "Section 234, Rule 25A's permitted jurisdictions, and the RBI's deemed-approval rule for an Indian company merging into a foreign company.",
+  "practice_area": "Corporate Law & M&A",
+  "format": "step-by-step process with timelines and fees",
+  "intro": [
+    "An Indian company can merge into a foreign company and cease to exist as a separate Indian entity, provided the foreign company sits in a jurisdiction the law treats as acceptable for this purpose and the merger follows the same NCLT-sanctioned process used for a purely domestic merger. This is called an outbound merger, and it is the less common of the two directions Section 234 of the Companies Act, 2013 permits; the far more frequent transaction is the reverse, a foreign company merging into an Indian one.",
+    "Groups considering this route are usually either an Indian promoter group consolidating operations under a foreign holding company ahead of a listing abroad, or a multinational tidying up a legacy Indian subsidiary into its main overseas operating entity. As on November 2026, the position is governed by Section 234 of the Companies Act, 2013, Rule 25A of the Companies (Compromises, Arrangements and Amalgamations) Rules, 2016, and the Foreign Exchange Management (Cross Border Merger) Regulations, 2018."
+  ],
+  "sections": [
+    {
+      "heading": "What Section 234 Actually Allows",
+      "paragraphs": [
+        "Before Section 234 was notified in April 2017, the 1956 Act's merger provisions only worked in one direction: a foreign company could merge into an Indian company, but an Indian company could not merge into a foreign one. Section 234 removed that one-way limit and expressly permits both directions, an inbound merger where a foreign company merges into an Indian company, and an outbound merger where an Indian company merges into a foreign company incorporated in a jurisdiction the rules recognise.",
+        "The mechanics are not a separate standalone process. Chapter XV of the Companies Act, 2013, the same chapter that governs an ordinary domestic merger under Sections 230 to 232, applies to a cross-border merger with the necessary modifications. In practice this means the same scheme of arrangement, the same NCLT sanction process, and the same creditor and shareholder meetings apply, with the cross-border elements layered on top rather than replacing the domestic procedure."
+      ]
+    },
+    {
+      "heading": "The Permitted Jurisdictions Under Rule 25A",
+      "paragraphs": [
+        "An outbound merger is only available if the foreign company sits in a jurisdiction listed in Annexure B to Rule 25A of the Companies (Compromises, Arrangements and Amalgamations) Rules, 2016. The annexure sets out the eligible jurisdictions by reference to specific criteria, generally built around whether the jurisdiction's securities regulator and central bank are signatories to multilateral cooperation arrangements such as IOSCO's and the Basel Committee's information-sharing frameworks, and whether the jurisdiction is not identified by the Financial Action Task Force as having strategic deficiencies.",
+        "A group planning an outbound merger into a holding structure in a jurisdiction not on this list cannot use Section 234 for that specific merger, regardless of how commercially sensible the group's reasons for choosing that jurisdiction might be. Checking the current annexure before any planning begins is a basic first step, since the list of eligible jurisdictions has been updated more than once since 2018 and an outdated assumption about which jurisdictions qualify is a common planning error."
+      ]
+    },
+    {
+      "heading": "RBI Approval: Deemed, Not Separately Applied For",
+      "paragraphs": [
+        "Rule 25A itself requires the prior approval of the RBI for any cross-border merger. The Foreign Exchange Management (Cross Border Merger) Regulations, 2018 then changes how that requirement is actually met in practice: a transaction structured to comply with the conditions in the 2018 Regulations is treated as having the RBI's prior approval that Rule 25A otherwise demands, without the companies needing to file a separate standalone application seeking that approval.",
+        "This deemed-approval mechanism replaced an earlier regime under which a cross-border merger needed the RBI's case-by-case consent before the 2018 Regulations existed. The companies still have to satisfy the substantive conditions in the 2018 Regulations, including that any regulatory action connected with a prior non-compliance or contravention of FEMA by either company is resolved before the merger completes, and that the resulting structure and any securities issued comply with the applicable foreign exchange rules for holding or acquiring overseas securities."
+      ]
+    },
+    {
+      "heading": "What the NCLT Application Needs to Show",
+      "paragraphs": [
+        "The scheme filed before the NCLT under Sections 230 to 232 has to be accompanied, for a cross-border merger, by a valuation of both companies conducted by a valuer recognised under internationally accepted principles of accounting and valuation, and that valuation has to be disclosed to the shareholders and creditors of both companies as part of the scheme documentation. The managing director or whole-time director and the company secretary of the Indian company must also furnish a certificate confirming the merger's compliance with the Rules, filed along with the NCLT application.",
+        "The resultant foreign company, once the merger takes effect, is permitted to hold Indian assets and liabilities connected with the merger, and the structure can allow the resultant company to open a special non-resident rupee account for a limited period to handle transactions connected with implementing the merger. Any Indian office of the resultant foreign company left over from the Indian entity's pre-merger operations is treated going forward as a branch or office of a foreign company under FEMA, not as a domestic company, with the reporting and compliance obligations that status carries."
+      ]
+    },
+    {
+      "heading": "Why Groups Actually Use This Route",
+      "paragraphs": [
+        "The commercial reasons for an outbound merger tend to fall into a narrow set of patterns. A promoter group building toward a listing on a foreign exchange sometimes needs the operating business consolidated under the foreign holding company before the listing process can proceed, rather than leaving the Indian entity as a separate subsidiary. A multinational that acquired an Indian business through a series of historical transactions sometimes ends up with a legacy Indian entity that duplicates functions already housed in its main regional operating company, and an outbound merger folds that duplication away in one sanctioned step rather than through a slower winding-up and asset transfer.",
+        "An outbound merger is not a tax-free event by default, and the income tax treatment of the transferred assets, any resulting capital gains, and the treatment of accumulated losses in the Indian entity's hands all need separate analysis under the Income Tax Act before a group commits to this structure. The corporate law permission under Section 234 answers only the company-law and foreign-exchange questions; it does not by itself answer whether the merger qualifies for any tax-neutral treatment."
+      ]
+    },
+    {
+      "heading": "Sequencing the Steps",
+      "paragraphs": [
+        "A workable timeline generally starts with confirming the foreign jurisdiction against the current Annexure B list, well before any valuation or scheme drafting begins, since a jurisdiction that drops off the list between the planning stage and the filing stage forces a restructuring of the entire transaction. The joint valuation of both companies, prepared on internationally accepted principles, follows once the jurisdiction question is settled and the group has decided on the exchange ratio and the surviving entity's share structure.",
+        "The scheme of arrangement is then filed before the NCLT under Sections 230 to 232, with the cross-border elements, the valuation report, the compliance certificate, and disclosure of the deemed-approval conditions under the 2018 Regulations, included in the same filing rather than pursued as a parallel RBI process. Creditor and shareholder approvals, and the regulatory authorities' reports the NCLT calls for in an ordinary scheme, apply in the same way they would for a domestic merger, so the additional time a cross-border merger actually takes tends to come from the jurisdiction and valuation groundwork done before filing, not from the NCLT stage itself."
+      ]
+    },
+    {
+      "heading": "What Remains Unsettled",
+      "paragraphs": [
+        "Section 234 and Rule 25A are both drafted around mergers and amalgamations specifically, and neither provision expressly addresses a cross-border demerger, where only part of an Indian company's business separates into a foreign entity rather than the whole company merging. Practitioner commentary has flagged this gap consistently since the provisions were notified, and the absence of an express demerger mechanism means a group wanting that structure needs bespoke legal advice on whether a demerger can be achieved through other provisions of the Companies Act read with FEMA, rather than assuming Section 234 covers it by extension.",
+        "A separate amendment to Rule 25A in 2024 addressed a related but distinct problem, the NCLT route for reverse-flipping transactions where an Indian subsidiary of a foreign holding structure needs to become the parent. Whether and how that 2024 change interacts with an outbound merger specifically, as opposed to the inbound and reverse-flip transactions it was mainly aimed at, is a question current commentary has not settled, and the Rules themselves should be checked in their latest form before relying on any older summary of them."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an Indian company merge into any foreign company it chooses?",
+      "a": "No. An outbound merger under Section 234 only works if the foreign company is incorporated in a jurisdiction listed in Annexure B to Rule 25A of the Companies (Compromises, Arrangements and Amalgamations) Rules, 2016. The annexure is built around criteria such as the jurisdiction's securities regulator being part of recognised international cooperation arrangements, and is updated from time to time."
+    },
+    {
+      "q": "Does an outbound merger need separate RBI approval?",
+      "a": "Not as a standalone application in the ordinary case. The Foreign Exchange Management (Cross Border Merger) Regulations, 2018 give deemed RBI approval to a merger structured to comply with their conditions, which Rule 25A otherwise requires as prior approval. The companies still have to meet the substantive conditions in the 2018 Regulations, including resolving any existing FEMA non-compliance before the merger completes."
+    },
+    {
+      "q": "What happens to the Indian company's registered office after an outbound merger?",
+      "a": "The Indian entity ceases to exist as a separate company once the merger takes effect. Any Indian office carried over as part of the merger is treated as a branch or office of the resultant foreign company under FEMA going forward, with the compliance obligations that status carries, rather than continuing as a domestic Indian company."
+    },
+    {
+      "q": "Is an outbound merger tax-free in India?",
+      "a": "Not automatically. Section 234 and Rule 25A deal only with the company-law and foreign-exchange permissions for the merger. Whether the transaction qualifies for tax-neutral treatment under the Income Tax Act, and how accumulated losses and capital gains are treated, needs separate tax analysis before the structure is finalised."
+    },
+    {
+      "q": "Can part of an Indian company's business be demerged into a foreign entity under Section 234?",
+      "a": "This is not clearly settled. Section 234 and Rule 25A are drafted around mergers and amalgamations, and commentary has consistently noted that neither provision expressly covers a cross-border demerger. A group wanting that structure needs specific legal advice rather than assuming the merger provisions extend to it."
+    }
+  ],
+  "references": [
+    "Companies Act, 2013, Section 234 (merger or amalgamation of a company with a foreign company), notified with effect from 13 April 2017",
+    "Companies (Compromises, Arrangements and Amalgamations) Rules, 2016, Rule 25A and Annexure B (permitted jurisdictions for a foreign company)",
+    "Foreign Exchange Management (Cross Border Merger) Regulations, 2018, notified 20 March 2018",
+    "Companies Act, 2013, Sections 230 to 232 (scheme of arrangement and NCLT sanction process, applied to a cross-border merger with modifications)",
+    "Companies (Compromises, Arrangements and Amalgamations) Amendment Rules, 2024, amending Rule 25A"
+  ],
+  "sources": [
+    "https://www.lkslaw.com/insights/articles/cross-border-merger-provisions-notified",
+    "https://kpmg.com/ky/en/home/insights_new/2017/04/firstnotes-section-234-of-the-companies-act-2013-notified.html",
+    "https://www.khaitanco.com/thought-leadership/FEMA-cross-border-merger-regulations-issued-by-RBI",
+    "https://vinodkothari.com/2025/10/outbound-mergers-a-path-still-less-travelled-by/",
+    "https://www.jsalaw.com/newsletters-and-updates/jsa-prism-corporate-october-2024/",
+    "https://conventuslaw.com/report/india-finally-notifies-cross-border-merger/"
+  ],
+  "verification_notes": [
+    "AUDIENCE: foreign company",
+    "TARGET QUERY: can an Indian company merge into a foreign company, outbound merger Section 234",
+    "DEMAND EVIDENCE: none seen (no search-volume tool used; chosen because the site has guides on fast-track mergers, demergers and CCI combination clearance, but no guide specifically on the outbound cross-border merger route under Section 234, a structure multinational groups and pre-IPO promoter groups search for when consolidating an Indian subsidiary abroad)",
+    "Section 234 notified 13 April 2017 and permitting mergers in both directions, replacing the one-way 1956 Act regime: confirmed from two independent sources, the KPMG FirstNotes alert and the LKS Law article, both describing the same date and the same change from the 1956 Act.",
+    "Chapter XV / Sections 230-232 applying to cross-border mergers with modifications, and RBI prior approval required under Rule 25A: confirmed from two independent sources, the LKS Law article and the KPMG alert, both describing the same mechanism.",
+    "FEMA Cross Border Merger Regulations, 2018, giving deemed RBI approval to a compliant structure, and the conditions including resolving prior FEMA non-compliance before completion: confirmed from two independent sources, the Khaitan & Co. note and the Conventus Law report, both describing the same deemed-approval mechanism and conditions.",
+    "Rule 25A's Annexure B listing permitted jurisdictions, and the general criteria behind that list: confirmed from two independent sources, the Vinod Kothari Consultants article and the LKS Law article, both describing an annexure-based jurisdiction list rather than open-ended eligibility.",
+    "Certificate requirement from the MD/whole-time director and company secretary, filed with the NCLT application: confirmed from the Khaitan & Co. note, corroborated in substance by the general NCLT-process description in the LKS Law article; stated here without an exact Rule citation since the specific sub-rule number was not independently confirmed across sources.",
+    "Open question on whether Section 234/Rule 25A cover a cross-border demerger: confirmed from two independent sources, the KPMG FirstNotes alert and a separate commentary piece, both flagging the same gap in the provisions.",
+    "2024 amendment to Rule 25A connected to reverse-flipping transactions: confirmed from the JSA Prism note and the Vinod Kothari Consultants article; left the interaction with outbound mergers specifically as an open question since no source in this run resolved it.",
+    "Left out: any specific figure for NCLT filing fees or a fixed overall timeline for an outbound merger to complete, since no source in this run gave verifiable current figures for either."
+  ]
+}
