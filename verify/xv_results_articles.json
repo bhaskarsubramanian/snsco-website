@@ -2581,5 +2581,68 @@
       "https://lawx.in/acts/section/94/798/6992"
     ],
     "note": "Independently confirmed: Dolly Khilankumar Vadalia v. Union of India (Gujarat HC, Special Civil Application No. 9457 of 2025, decided 30 April 2026) dismissing a citizenship-by-descent claim for want of consular birth registration, matching the facts (Mozambique birth 2000, Aadhaar/PAN/voter ID held, emergency travel document) and holding described in the draft; Section 4's one-year consular registration requirement and its 3 December 2004 effective date for the 2003 amendment proviso. related_pages is an empty array (no links proposed), which is not an error. No inaccuracy found."
+  },
+  {
+    "file": "_drafts/articles/136-promoter-share-pledge-sast-disclosure-hni-article.json",
+    "verdict": "PASS",
+    "claims_checked": 11,
+    "evidence": [
+      "https://taxguru.in/sebi/disclosure-requirements-encumbrance-shares-promoters-listed-companies.html",
+      "https://www.sebi.gov.in/legal/circulars/feb-2026/creation-invocation-of-pledge-of-securities-through-depository-system-_99546.html",
+      "https://www.majmudarindia.com/?p=17765",
+      "https://www.nism.ac.in/wp-content/uploads/2026/02/Regulatory-Alerts-Feb-2026-Vol-I.pdf"
+    ],
+    "note": "Reg 31 seven-working-day disclosure, the 2019 50%/20% reasons-for-encumbrance circular (1 Oct 2019 effect, 4 Oct 2019 transition for promoters already over threshold, 2-working-day company website disclosure), PTC India Financial Services Ltd v. Venkateswarlu Kari (SC, 12 May 2022, beneficial-owner registration is not a transfer of title) and the 5 Feb 2026 depository pledge circular (paragraph 4.13 of the Dec 2024 Master Circular, Contract Act undertakings, 6 April 2026 implementation, NSDL 20 March 2026 operating circular) are all independently corroborated. related_pages link resolves on the live site; no duplicate live coverage found."
+  },
+  {
+    "file": "_drafts/articles/137-section-14-hindu-succession-limited-estate-absolute-ownership-article.json",
+    "verdict": "FIX",
+    "claims_checked": 9,
+    "evidence": [
+      "https://delhihighcourt.nic.in/app/showFileJudgment/59630012026S10222024_195305.txt",
+      "https://www.livelaw.in/high-court/delhi-high-court/hindu-succession-act-unmarried-grand-daughter-ancestral-property-ownership-521597",
+      "https://courtbook.in/posts/pre-existing-maintenance-right-can-convert-unmarried-granddaughters-limited-estate-into-full-ownership-delhi-hc",
+      "https://drishtijudiciary.com/current-affairs/limited-estate-of-unmarried-granddaughter-can-become-absolute"
+    ],
+    "note": "Case, parties, court, Order VII Rule 11 outcome and the core Section 14(1)/(2) holding are all correct and confirmed directly from the judgment (CS(OS) 1022/2024, Justice Purushaindra Kumar Kaurav). But the judgment was pronounced on 30 January 2026, not 'early February 2026' as the draft states throughout -- the draft conflated LiveLaw's 3 February publication date with the actual decision date, which the crossverify brief specifically warns against. Section 14 mechanics, Tulasamma v. Sesha Reddy framework and other references check out.",
+    "fixes": [
+      {
+        "find": "a Delhi High Court ruling handed down in February 2026 shows how far the provision still reaches today.",
+        "replace": "a Delhi High Court ruling handed down on 30 January 2026 shows how far the provision still reaches today.",
+        "reason": "Judgment was pronounced 30 January 2026, not February 2026 (February is the secondary-reporting date, not the decision date)."
+      },
+      {
+        "find": "the Delhi High Court held in early February 2026 that an obligation to maintain a woman under Hindu law",
+        "replace": "the Delhi High Court held on 30 January 2026 that an obligation to maintain a woman under Hindu law",
+        "reason": "Decision date correction."
+      },
+      {
+        "find": "The Delhi High Court applied this framework in early February 2026 in Mrs. Ajit Inder Singh",
+        "replace": "The Delhi High Court applied this framework on 30 January 2026 in Mrs. Ajit Inder Singh",
+        "reason": "Decision date correction."
+      },
+      {
+        "find": "the Court held in early February 2026 that a pre-existing maintenance obligation",
+        "replace": "the Court held on 30 January 2026 that a pre-existing maintenance obligation",
+        "reason": "Decision date correction."
+      },
+      {
+        "find": "Delhi High Court, decided early February 2026 (Justice Purushaindra Kumar Kaurav)",
+        "replace": "Delhi High Court, decided 30 January 2026 (Justice Purushaindra Kumar Kaurav)",
+        "reason": "Decision date correction in references list."
+      }
+    ]
+  },
+  {
+    "file": "_drafts/articles/138-family-court-civil-court-in-laws-property-dispute-delhi-article.json",
+    "verdict": "PASS",
+    "claims_checked": 8,
+    "evidence": [
+      "https://delhihighcourt.nic.in/files/2026-05/announcements/pro._20.5.2026_0.pdf",
+      "https://www.livelaw.in/high-court/delhi-high-court/property-disputes-between-in-laws-daughter-in-law-not-within-exclusive-jurisdiction-of-family-court-delhi-high-court-535420",
+      "https://www.latestlaws.com/adr/case-analysis/family-court-not-a-forum-for-property-disputes-between-wife-and-parents-in-law-rules-hc-237697/",
+      "https://lawstreet.co/judiciary/mother-in-laws-property-suit-against-daughter-in-law-maintainable-before-civil-court-not-family-court-delhi-hc"
+    ],
+    "note": "Case name, parties (confirmed against the Delhi HC's own 20 May 2026 cause list: CM(M) 1776/2023, Anjali Jayant @ Laxmi v. Kusum Singh & Anr.), judge, pronouncement date, procedural posture (Art. 227 petition against refusal to reject/transfer under O.VII R.11/R.10), the foundation-of-the-proceeding test from Geeta Anand v. Tanya Arjun (Div. Bench, 1 April 2024), and the shared-household holding are all corroborated across 4+ independent sources. The specific neutral citation '2026:DHC:4527' could not be independently verified (not found on any source reached), but the draft already hedges it as 'per contemporaneous reporting'. related_pages links resolve on the live site."
   }
 ]
