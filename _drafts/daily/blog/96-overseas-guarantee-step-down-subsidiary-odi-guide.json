@@ -1,0 +1,113 @@
+{
+  "slug": "overseas-guarantee-step-down-subsidiary-odi-guide",
+  "seo_title": "Guaranteeing a Foreign Step-Down Subsidiary's Loan: FEMA",
+  "title": "An Indian Company Guaranteeing Its Foreign Step-Down Subsidiary's Loan: The FEMA Rules",
+  "meta_description": "How the 2022 Overseas Investment Regulations let an Indian company guarantee a foreign step-down subsidiary's borrowing, and the limits that apply.",
+  "practice_area": "Banking & Finance",
+  "format": "plain-English guide",
+  "intro": [
+    "An Indian company that has set up or acquired a subsidiary abroad, or a subsidiary of that subsidiary, can give a corporate guarantee securing that foreign entity's borrowing, but the guarantee itself counts as part of the Indian company's overall financial commitment to its overseas structure and is capped and reported accordingly. As on November 2026, this is governed by the Foreign Exchange Management (Overseas Investment) Rules and Regulations, 2022, which replaced the older 2004 framework and consolidated the rules for guarantees alongside those for equity and loans.",
+    "This matters to Indian promoter groups and HNI-controlled businesses expanding abroad through a layered structure, typically an Indian holding company owning a foreign operating subsidiary, which in turn owns one or more step-down subsidiaries in other countries, where the foreign lender financing the step-down subsidiary wants comfort from the Indian parent further up the chain rather than relying only on the immediate foreign holding entity's balance sheet."
+  ],
+  "sections": [
+    {
+      "heading": "What Counts as a Step-Down Subsidiary, and Why the Guarantee Rules Reach It",
+      "paragraphs": [
+        "Under the 2022 framework, a foreign entity is a step-down subsidiary of the Indian party where the structure above it gives the Indian entity control, directly or indirectly, over that foreign entity, rather than the older test that focused narrowly on shareholding percentage at each individual layer. This control-based test means an Indian company's guarantee obligations and reporting duties can reach several layers down a corporate chain, not just its first-tier foreign subsidiary.",
+        "The practical reason this matters is that a foreign lender financing a second or third-tier subsidiary frequently wants security or comfort from somewhere higher up the chain with a stronger balance sheet, and the Indian parent is often that entity even though it has no direct shareholding in the borrowing step-down subsidiary itself. The 2022 Regulations allow this kind of upstream guarantee, but treat it as part of the Indian parent's overall overseas financial commitment regardless of how many layers separate the guarantor from the borrower."
+      ]
+    },
+    {
+      "heading": "The Financial Commitment Limit",
+      "paragraphs": [
+        "An Indian entity's total financial commitment to its entire overseas structure, combining equity, loans and guarantees together rather than treating each category separately, cannot exceed 400 percent of its net worth as shown in its last audited balance sheet. A corporate guarantee given for a step-down subsidiary's borrowing is counted within this same 400 percent ceiling alongside any direct equity or loans the Indian entity has already committed to the structure, so a company that has used up most of its headroom through equity investment may have little room left to also guarantee a subsidiary's debt without exceeding the cap.",
+        "Net worth for this purpose follows the Companies Act, 2013 definition, which is paid-up share capital plus free reserves including securities premium, and is a broader figure than the net worth definition used under the pre-2022 regime. A financial commitment that would take the Indian entity beyond this limit, or beyond a separate per-year threshold measured in US dollars, needs the RBI's prior approval rather than proceeding automatically."
+      ]
+    },
+    {
+      "heading": "Automatic Route Versus Approval Route",
+      "paragraphs": [
+        "A guarantee for a direct foreign subsidiary's borrowing generally proceeds under the automatic route, within the overall financial commitment limit, without needing a case-by-case RBI approval first. The position for a second-tier or deeper step-down subsidiary has historically been treated more cautiously: an earlier RBI circular placed a corporate guarantee for a second-generation or subsequent-level step-down subsidiary's borrowing under the approval route specifically, and conditioned it on the Indian party holding, directly or indirectly, at least 51 percent of the overseas subsidiary.",
+        "That circular predates the 2022 Regulations, and whether its 51 percent condition and approval-route treatment for deeper-layer guarantees carries forward unchanged under the current Rules needs to be checked against the RBI's current Master Direction on Overseas Investment rather than assumed from the older circular. A group planning a guarantee for anything beyond its first-tier foreign subsidiary should treat the approval question as open until confirmed against the current text, rather than assuming the automatic route applies simply because the guarantee sits within the 400 percent ceiling."
+      ]
+    },
+    {
+      "heading": "Pledging Shares and Assets as an Alternative or Addition",
+      "paragraphs": [
+        "Separately from a corporate guarantee, the 2022 Regulations also permit an Indian entity to pledge the equity of a foreign entity, or of that foreign entity's own step-down subsidiary, to secure financing facilities obtained from an Indian or an overseas lender. A lender financing a step-down subsidiary sometimes prefers a pledge over a parent guarantee, or asks for both together, since a pledge gives a direct security interest in the shares rather than only a contractual promise to pay if the borrower defaults.",
+        "A pledge of this kind is also counted toward the same overall framework governing the Indian entity's overseas financial commitment and reporting obligations, and the documentation needs to address which jurisdiction's law governs enforcement of the pledge, since enforcing a share pledge over a foreign company's shares usually follows the law of the jurisdiction where that company is incorporated rather than Indian law, even though the obligation originates from an Indian parent's commitment."
+      ]
+    },
+    {
+      "heading": "Reporting and What Happens If the Guarantee Is Invoked",
+      "paragraphs": [
+        "A guarantee given under the 2022 framework has to be reported to the RBI through the prescribed overseas investment reporting forms, and the reporting obligation does not end once the guarantee is given; a later invocation of the guarantee, where the Indian parent actually has to pay because the step-down subsidiary defaulted, is itself a separate event that needs to be reported and accounted for as an outflow under the overseas investment rules, since the parent has effectively made an additional financial commitment to the structure at that point.",
+        "A guarantee invoked and paid also raises a question the original guarantee documentation should have anticipated: whether the Indian parent gets a corresponding claim against the step-down subsidiary or the intermediate foreign holding company for the amount paid, and how that claim itself is treated under the overseas investment rules if it is later written off rather than recovered. Groups that treat the guarantee as a pure formality at the time of signing, without planning for this scenario, often find the invocation itself more complicated to unwind correctly than the original guarantee was to put in place."
+      ]
+    },
+    {
+      "heading": "Why Lenders Ask for This Structure",
+      "paragraphs": [
+        "A foreign lender financing a step-down subsidiary usually has little visibility into that entity's own track record, since a step-down subsidiary set up for a specific project or acquisition often has no operating history of its own at the point the loan is negotiated. Comfort from an Indian parent with an established balance sheet, audited financials going back several years, and assets in a jurisdiction the lender can realistically pursue if things go wrong, is frequently the difference between a loan being approved on commercial terms and the lender declining to finance the structure at all.",
+        "This is also why a lender sometimes asks for comfort from the Indian parent even where an intermediate foreign holding company sits between the parent and the step-down subsidiary and could, in theory, give its own guarantee instead. An intermediate holding company is often itself a thinly capitalised entity set up only to hold shares in the group's various foreign operations, so its guarantee adds little practical value compared to a guarantee from the Indian parent that actually runs the underlying business and carries real assets on its books."
+      ]
+    },
+    {
+      "heading": "Practical Points Before Giving the Guarantee",
+      "paragraphs": [
+        "Before committing to guarantee a step-down subsidiary's borrowing, an Indian parent should calculate its remaining headroom under the 400 percent net worth cap after accounting for every existing equity investment, loan and guarantee already extended to the same overseas structure, rather than assuming the new guarantee can be assessed in isolation. Where the structure involves more than one layer of step-down subsidiary, the question of whether the specific guarantee needs RBI approval rather than proceeding automatically should be resolved before the guarantee is executed, not after the foreign lender has already relied on it.",
+        "The underlying loan agreement and the guarantee documentation should also be checked against the board and shareholder approval requirements under the Companies Act, 2013 for an Indian company giving a guarantee connected with its own business, since the FEMA analysis addresses only the foreign exchange dimension and does not substitute for the separate corporate approvals an Indian board needs before committing the company to a guarantee of this size."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an Indian company guarantee a loan taken by its foreign subsidiary's own subsidiary?",
+      "a": "Yes, in principle. The Foreign Exchange Management (Overseas Investment) Regulations, 2022 allow an Indian entity to extend a corporate guarantee to or on behalf of a step-down subsidiary, defined by control rather than direct shareholding, subject to the overall financial commitment limit and, for deeper-layer subsidiaries, a possible approval-route requirement that should be checked against the current Master Direction."
+      },
+    {
+      "q": "What is the financial commitment limit for an Indian company investing abroad?",
+      "a": "The total financial commitment an Indian entity makes to its overseas structure, combining equity, loans and guarantees, cannot exceed 400 percent of its net worth as shown in its last audited balance sheet, calculated using the Companies Act, 2013 definition of net worth. Exceeding this limit needs the RBI's prior approval."
+    },
+    {
+      "q": "Does a guarantee for a second-tier step-down subsidiary need RBI approval?",
+      "a": "This needs specific checking. An earlier RBI circular placed guarantees for second-generation or deeper step-down subsidiaries under the approval route, conditioned on the Indian party holding at least 51 percent of the overseas subsidiary, but that circular predates the 2022 Regulations, and whether it still applies unchanged should be confirmed against the current Master Direction rather than assumed."
+    },
+    {
+      "q": "What happens if the foreign subsidiary defaults and the guarantee is invoked?",
+      "a": "The Indian parent becomes liable to pay under the guarantee, and that payment is itself a reportable event under the overseas investment rules, since it adds to the parent's financial commitment to the structure. The guarantee documentation should address whether the parent then has a recoverable claim against the subsidiary for the amount paid."
+    },
+    {
+      "q": "Can an Indian company pledge its foreign subsidiary's shares instead of giving a guarantee?",
+      "a": "Yes. The 2022 Regulations separately permit an Indian entity to pledge the equity of a foreign entity, including a step-down subsidiary, to secure financing from an Indian or overseas lender. This is counted within the same overall overseas financial commitment framework as a guarantee, and enforcement of the pledge typically follows the law of the subsidiary's place of incorporation."
+    }
+  ],
+  "references": [
+    "Foreign Exchange Management (Overseas Investment) Rules, 2022, read with the Foreign Exchange Management (Overseas Investment) Regulations, 2022, notified 22 August 2022",
+    "RBI Master Direction on Overseas Investment, 2022 (as updated)",
+    "Companies Act, 2013, definition of net worth under Section 2(57), applied to the financial commitment calculation",
+    "RBI circular (pre-2022 regime) placing second-generation and subsequent-level step-down subsidiary guarantees under the Approval Route, subject to a 51 percent holding condition",
+    "Foreign Exchange Management (Overseas Investment) Rules, 2022, provisions permitting pledge of equity or assets of a foreign entity or its step-down subsidiary"
+  ],
+  "sources": [
+    "https://website.rbi.org.in/web/rbi/-/notifications/foreign-exchange-management-overseas-investment-regulations-2022-12380",
+    "https://www.barandbench.com/view-point/significant-reforms-in-the-indian-overseas-investment-regime",
+    "https://www.taxmann.com/post/blog/key-highlights-foreign-exchange-management-overseas-investment-regulations/",
+    "https://bdo.in/en-gb/insights/alerts-updates/regulatory-alert-new-overseas-investment-regime",
+    "https://jsalaw.com/wp-content/uploads/2022/08/JSA-Prism-Corporate-ODI-August-20220633.pdf",
+    "https://www.slideshare.net/slideshow/fema-regulations-for-incorporation-of-wosjv-stepdown-subsidiary-outside-india/232693432"
+  ],
+  "verification_notes": [
+    "AUDIENCE: HNI",
+    "TARGET QUERY: can an Indian company guarantee its foreign step-down subsidiary's loan under FEMA",
+    "DEMAND EVIDENCE: none seen (no search-volume tool used; chosen because the site's existing ODI, ECB and foreign-parent guides address inbound and outbound loans directly but have no guide on upstream guarantees or share pledges for a layered overseas structure, a question that comes up repeatedly when Indian promoter groups expand abroad)",
+    "2022 Overseas Investment Rules and Regulations notified 22 August 2022, replacing the 2004 framework: confirmed from two independent sources, the RBI's own notification page and the Bar and Bench viewpoint article, both giving the same date.",
+    "Step-down subsidiary defined by control rather than shareholding percentage, and guarantees to step-down subsidiaries permitted within the financial commitment limit: confirmed from two independent sources, the RBI notification text quoted in search results and the JSA Prism note, both describing the same control-based test and the same permission.",
+    "400 percent of net worth financial commitment ceiling, combining equity, loans and guarantees: confirmed from two independent sources, the Taxmann key-highlights blog and the BDO regulatory alert, both stating the same 400 percent figure and the same combined treatment.",
+    "Net worth defined per the Companies Act, 2013 (broader than the pre-2022 definition, which covered only paid-up capital and free reserves): confirmed from two independent sources, the Taxmann blog and the JSA Prism note, both describing the same change in definition.",
+    "Pre-2022 RBI circular placing second-generation/subsequent-level step-down subsidiary guarantees under the Approval Route with a 51 percent holding condition: confirmed from the search summary of an RBI circular reproduced in secondary commentary; flagged in the guide itself as predating the 2022 Regulations and needing a current check, since no source in this run confirmed whether the condition carries forward unchanged.",
+    "Permission to pledge equity or assets of a foreign entity or its step-down subsidiary to secure lender financing: confirmed from the RBI notification text summarised in the search results, corroborated by the general description of pledge provisions in the JSA Prism note.",
+    "USD 1 billion per-year threshold interacting with the 400 percent cap: left out of the main guide text because two sources in the research run described its interaction with the 400 percent cap differently (one as an alternative cap, one as a separate approval trigger), so it is not stated as a settled figure here.",
+    "Left out: any specific numeric example of a guarantee calculation, and any claim about which specific RBI reporting form applies, since no source in this run confirmed the current form name or number with enough certainty to state it as settled."
+  ]
+}

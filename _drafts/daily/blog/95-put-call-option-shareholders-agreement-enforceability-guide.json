@@ -1,0 +1,104 @@
+{
+  "slug": "put-call-option-shareholders-agreement-enforceability-guide",
+  "seo_title": "Put and Call Options in Indian Shareholder Agreements",
+  "title": "Are Put and Call Options in a Shareholders' Agreement Enforceable in India?",
+  "meta_description": "SEBI's 2013 notification and the Bombay High Court's ruling in Edelweiss v. Percept on whether a put or call option clause survives securities law.",
+  "practice_area": "Corporate Law & M&A",
+  "format": "case-law explainer",
+  "intro": [
+    "A put option giving an investor the right to sell its shares back to a promoter at a pre-agreed price, or a call option letting a promoter buy out an investor, is a standard feature of Indian shareholders' agreements, particularly where a foreign investor wants a defined exit if the company does not list or does not perform. For years these clauses sat in a genuine grey zone because of how the Securities Contracts (Regulation) Act, 1956 (SCRA) treats forward contracts and derivatives in shares. As on November 2026, a 2013 SEBI notification and a Bombay High Court ruling have settled most of that uncertainty, though not every question around enforcement is closed.",
+    "This matters most to foreign investors, private equity funds and the Indian promoters on the other side of their shareholders' agreements, since the option clause is usually the mechanism that determines whether an investor actually gets paid out if the company's performance or listing plans fall short of what the investment was priced against."
+  ],
+  "sections": [
+    {
+      "heading": "Why These Clauses Were Ever in Doubt",
+      "paragraphs": [
+        "The doubt came from Section 18A of the SCRA, which validates contracts in derivatives traded on a recognised stock exchange, read together with provisions restricting forward contracts in securities outside the exchange framework. An option exercisable only after a fixed future date, at a price fixed today, looks structurally similar to a forward contract or a derivative, and a shareholders' agreement's options clause is agreed privately rather than traded on an exchange.",
+        "Before 2013, SEBI's own position, going back to a notification from the year 2000, had limited the kinds of contracts in securities that were permitted outside the exchange to spot contracts and specific derivative contracts, without expressly addressing a privately agreed put or call option. That left market participants and at least one arbitrator genuinely uncertain whether an option clause in a shareholders' agreement was an enforceable contract or an illegal forward contract dressed up in different language. Deal lawyers responded in the only way available at the time, drafting around the risk rather than resolving it, by tying the option to events other than a bare future date and by keeping the pricing formula closer to a valuation mechanism than a fixed return, in the hope that a court would treat the clause as something other than a forward contract if the question ever had to be litigated."
+      ]
+    },
+    {
+      "heading": "SEBI's October 2013 Notification",
+      "paragraphs": [
+        "SEBI addressed the gap directly on 3 October 2013, issuing a notification under Sections 16 and 28 of the SCRA that rescinded its earlier 2000 notification. The 2013 notification widened the scope of permissible contracts outside the exchange framework to expressly cover the kind of rights commonly found in shareholders' agreements and articles of association, including pre-emptive rights, a right of first offer, tag-along and drag-along rights, and call and put options, provided the contract complies with other applicable law, including the foreign exchange rules where a non-resident is a party.",
+        "The notification's effect was to put beyond doubt, going forward, that an option clause of this kind is not barred by the SCRA's restrictions on forward dealing in securities, so long as the other conditions it sets, principally compliance with FEMA where the investor is a non-resident, are also met. What the notification did not resolve on its own was what happened to option clauses that had already been signed, and in some cases already disputed, before October 2013."
+      ]
+    },
+    {
+      "heading": "The Edelweiss v. Percept Dispute",
+      "paragraphs": [
+        "The question of pre-2013 options reached the Bombay High Court through a dispute between Edelweiss Financial Services and Percept Finserve, arising from option clauses executed in 2007 and sought to be exercised in 2008, well before the 2013 notification existed. A sole arbitrator in that matter had held the put option illegal, treating it both as a forward contract barred under the SCRA's restrictions and as a derivative contract barred by Section 18A because it was not traded on a recognised exchange.",
+        "A Division Bench of the Bombay High Court disagreed with the arbitrator on appeal. The Court held that Section 18A never prohibited entering into a call or put option as such; the provision regulates trading or dealing in an option as a security on an exchange, which is a different thing from two parties privately agreeing an option clause between themselves. The Court also held that the 2013 notification was not a saving provision that retroactively rescued previously illegal contracts, but a notification widening what had always been permissible, which meant option clauses did not need the 2013 notification to be valid in the first place, whether they were executed before or after it."
+      ]
+    },
+    {
+      "heading": "How This Builds on the MCX Stock Exchange Ruling",
+      "paragraphs": [
+        "The Edelweiss v. Percept reasoning did not arrive in isolation. The Bombay High Court had already addressed a related question in MCX Stock Exchange Ltd. v. SEBI in 2012, holding that a put option agreement is a different kind of instrument from a forward contract for the purposes of securities law, a distinction that undercut the argument that any pre-fixed future-dated right to sell shares is automatically an illegal forward contract. SEBI's 2013 notification followed not long after that ruling, and commentary consistently treats the two developments, the MCX ruling and the 2013 notification, as the two pillars that built toward the settled position the Bombay High Court applied in Edelweiss v. Percept.",
+        "Taken together, the two rulings and the notification leave a reasonably clear position for a clause drafted carefully: an option exercisable at a price fixed by formula rather than at a price that is itself fixed in absolute rupee terms regardless of the company's performance, which matters because a price fixed in pure rupee terms with no link to value has at times drawn separate objections on grounds unrelated to the forward-contract question, including under the Foreign Exchange Management Act's rules on pricing of instruments involving a non-resident."
+      ]
+    },
+    {
+      "heading": "What Still Needs Separate Checking",
+      "paragraphs": [
+        "Settling the SCRA question does not settle every obstacle to actually exercising an option. Where a non-resident holds the option, FEMA's pricing and reporting requirements for the transfer of shares between a resident and a non-resident apply independently of whether the option clause itself is valid under the SCRA, and a price formula that was acceptable in 2007 when the investment was made needs to be checked against the pricing guidelines in force at the time the option is actually exercised. Exercising a put option can also trigger tax consequences for both sides, including on the difference between the exercise price and the fair value of the shares at the time, which is a separate analysis from the SCRA and FEMA questions.",
+        "There is also no reported Supreme Court ruling squarely affirming the Bombay High Court's reasoning in Edelweiss v. Percept, so parties drafting a fresh shareholders' agreement today are relying on a High Court decision and a SEBI notification rather than a final appellate word on the point. That is generally treated by practitioners as a settled enough position to draft and rely on an option clause, but it is not the same as a closed question with no possibility of a different view emerging from another High Court or eventually the Supreme Court."
+      ]
+    },
+    {
+      "heading": "Drafting Points That Follow From This History",
+      "paragraphs": [
+        "An option clause drafted against this background should tie the exercise price to a formula, typically a fair value computed by a defined valuation method, rather than to a flat guaranteed return, since a formula-based price sits more comfortably with both the SCRA reasoning in Edelweiss v. Percept and FEMA's pricing guidelines for a non-resident investor's exit. The clause should also specify clearly who bears the obligation to actually pay on exercise, since an option that is valid under securities law is still only as useful as the counterparty's ability to pay, and a personal guarantee from the promoter is common where the obligation sits with an operating company whose own cash position is uncertain by the time the option becomes exercisable.",
+        "Where either party to the agreement is a non-resident, FEMA compliance, pricing, reporting of the eventual transfer, and any sectoral conditions on the underlying business, should be built into the exercise mechanics of the clause itself rather than left to be worked out only once the option is actually exercised years later, since the rules in force at the time of exercise, not at the time of signing, govern the transfer that follows."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are put and call options in Indian shareholders' agreements legal?",
+      "a": "Yes, as the law currently stands. SEBI's notification of 3 October 2013 expressly permits call and put options in shareholders' agreements and articles of association, and the Bombay High Court in Edelweiss Financial Services v. Percept Finserve held that Section 18A of the SCRA never prohibited such options in the first place, since it regulates exchange-traded dealing in options, not a privately agreed option clause."
+    },
+    {
+      "q": "Does an option clause signed before 2013 still work?",
+      "a": "The Bombay High Court held in Edelweiss v. Percept that option clauses did not need the 2013 notification to be valid, since the notification widened an already-permissible category rather than retroactively saving previously illegal contracts. The options in that case had been executed in 2007 and were upheld on that basis."
+    },
+    {
+      "q": "Does SEBI's 2013 notification mean an option can be enforced without checking FEMA?",
+      "a": "No. The 2013 notification itself conditions its permission on compliance with other applicable law, including FEMA where a non-resident is a party. The pricing and reporting rules for a transfer between a resident and a non-resident apply independently of whether the option clause is valid under securities law, and need to be checked against the rules in force when the option is exercised."
+    },
+    {
+      "q": "Has the Supreme Court confirmed that put and call options are enforceable?",
+      "a": "Not based on currently available reporting. The settled position rests on the Bombay High Court's 2012 MCX Stock Exchange ruling, its later decision in Edelweiss v. Percept, and SEBI's 2013 notification. No reported Supreme Court ruling squarely affirms this reasoning, so the position, while generally treated as settled, is not yet closed at the final appellate level."
+    },
+    {
+      "q": "What exercise price is safest for an option clause?",
+      "a": "A price tied to a defined valuation formula, rather than a flat guaranteed rupee return, sits more comfortably with both the securities-law reasoning behind these rulings and FEMA's pricing guidelines for a non-resident investor's exit. A flat, performance-unlinked return has drawn separate objections on pricing grounds distinct from the forward-contract question."
+    }
+  ],
+  "references": [
+    "Securities Contracts (Regulation) Act, 1956, Section 18A (validity of derivative contracts) and Sections 16 and 28 (SEBI's notification power)",
+    "SEBI Notification No. S.O. 3160(E) dated 3 October 2013, rescinding the earlier notification of 2000 and permitting call and put options and similar rights in shareholders' agreements",
+    "Edelweiss Financial Services Ltd. v. Percept Finserve Pvt. Ltd., Bombay High Court, Division Bench",
+    "MCX Stock Exchange Ltd. v. Securities and Exchange Board of India, Bombay High Court, 2012",
+    "Foreign Exchange Management (Non-Debt Instruments) Rules, 2019, pricing guidelines applicable to a transfer of shares between a resident and a non-resident"
+  ],
+  "sources": [
+    "https://conventuslaw.com/report/india-enforceability-of-put-options-under-scra-bombay-hcs-latest-judgment-finally-clears-the-air/",
+    "https://law.asia/courts-clarify-put-options-are-not-forward-contracts/",
+    "https://nishithdesai.com/default.aspx?id=4518",
+    "https://nishithdesai.com/default.aspx?id=5658",
+    "https://law.asia/how-effective-is-the-option-to-exit-for-foreign-investor/",
+    "https://www.mondaq.com/india/fund-management-reits/860054/put-options---enforcement-and-claiming-damages--indemnity"
+  ],
+  "verification_notes": [
+    "AUDIENCE: foreign company",
+    "TARGET QUERY: are put and call options in a shareholders agreement enforceable in India",
+    "DEMAND EVIDENCE: none seen (no search-volume tool used; chosen because the live site's Corporate Law & M&A coverage includes SPA non-compete clauses and related-party rules but no guide on option-clause enforceability, a recurring drafting question for foreign private-equity and venture investors)",
+    "SEBI's October 2013 notification rescinding the 2000 notification and expressly permitting call/put options, pre-emptive rights, ROFO, tag-along and drag-along rights in shareholders' agreements: confirmed from two independent sources, the Conventus Law report and the Nishith Desai M&A Hotline summary, both describing the same notification and the same list of rights covered.",
+    "Edelweiss v. Percept facts (options executed 2007, exercised 2008) and the arbitrator's original ruling treating the put option as illegal under Sections 16/18A: confirmed from two independent sources, the Conventus Law report and the Law.asia report, both describing the same facts and the same arbitral holding.",
+    "Bombay High Court Division Bench holding that Section 18A never prohibited entering into an option as such, only trading/dealing in it as a security, and that the 2013 notification was not a saving notification: confirmed from two independent sources, Conventus Law and Law.asia, both describing the same two holdings in the same terms.",
+    "MCX Stock Exchange v. SEBI (2012) holding that a put option is distinct from a forward contract: confirmed from two independent sources, the Bloomberg Quint opinion piece and the Nishith Desai M&A Hotline note, both describing the same 2012 ruling as the precursor to the 2013 notification.",
+    "FEMA pricing and reporting rules applying independently of the SCRA question, and the general point that exercising a put option can carry tax consequences: confirmed from the Mondaq article on put option enforcement, corroborated in substance by the Law.asia article on the 'option to exit' for a foreign investor, which separately flags FEMA and tax hurdles on exercise.",
+    "Left out: any claim of a reported Supreme Court ruling affirming Edelweiss v. Percept, since no source in this run cited one; the guide states plainly that no such ruling was found. Also left out: the text or application of Section 42 of the SCRA, since no source in this run discussed it, and a prior assumption connecting that section to options clauses could not be verified."
+  ]
+}
