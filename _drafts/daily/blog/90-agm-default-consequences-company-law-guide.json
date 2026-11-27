@@ -1,0 +1,104 @@
+{
+    "slug": "agm-default-consequences-company-law-guide",
+    "seo_title": "Company Missed Its AGM Deadline? What Happens Next",
+    "title": "What Happens If a Private Limited Company Does Not Hold Its AGM on Time",
+    "meta_description": "A missed AGM deadline under Sections 96 to 99 of the Companies Act brings a Registrar extension limit, a daily penalty and possible NCLT action.",
+    "practice_area": "Corporate Law & M&A",
+    "format": "what happens if consequences explainer",
+    "intro": [
+        "A private limited company that fails to hold its annual general meeting within the period fixed by Section 96 of the Companies Act, 2013 does not get a free pass simply because nobody complained. The default is automatic once the deadline passes without an approved extension, and it exposes the company and every officer who is treated as being in default to a daily-running fine under Section 99, quite apart from whatever happens next if a shareholder decides to act on it.",
+        "This matters more than it looks on paper. Banks, investors and acquirers routinely check a target company's AGM record during diligence, and a gap of several years is read as a sign that the company's registers, financial statements and board minutes have not been kept current either. As on November 2026, the rule and the penalty structure work as follows."
+    ],
+    "sections": [
+        {
+            "heading": "When the AGM Is Due, and Why the First One Is Different",
+            "paragraphs": [
+                "Section 96(1) requires every company other than a one person company to hold an AGM each calendar year, with a gap of not more than fifteen months between two successive meetings. A company's first AGM must be held within nine months of the close of its first financial year, and no extension is available for that first meeting at all. For every AGM after the first, the company has nine months from the close of the financial year where the year ends on 31 March, or six months from the close of the financial year in other cases, subject to the fifteen-month gap rule.",
+                "The practical trap is the interaction between the nine-month, six-month and fifteen-month limits. A company cannot simply treat the financial-year-end deadline as the only constraint; if an earlier AGM was held late, the fifteen-month gap can force the next one earlier than the headline deadline would suggest. Company secretaries who track only the financial year end, and not the date of the previous AGM, are the ones who end up filing a late Form GNL-1 or missing the window for one entirely.",
+                "A small or closely held company, where the same two or three family members sit on the board and hold most of the shares, is often the one that lets this slip, precisely because there is no outside shareholder pressing for the meeting to happen. That informality is where the risk sits: the statute draws no distinction between a widely held company and a family-run one, and the penalty clock under Section 99 runs the same way regardless of how small or friendly the shareholder base is."
+            ]
+        },
+        {
+            "heading": "The Registrar's Power to Extend, and Its Limits",
+            "paragraphs": [
+                "Section 96(1) itself allows the Registrar of Companies, for any special reason, to extend the time within which an AGM (other than the first one) is held, by a period not exceeding three months. The company applies before the original deadline expires, using Form GNL-1, and states the special reason relied on, commonly the unavailability of audited accounts, a pending merger or restructuring, or similar genuine difficulty.",
+                "The extension has to be sought and granted before the default occurs, not after. Once the deadline passes without an extension order in hand, there is nothing left for the Registrar to extend, and the company is already in default under Section 96 read with Section 99. A Registrar's extension order, once granted and acted on within its own three-month window, protects the company from a default finding for that year; tribunals have held that a company which holds its AGM within a validly granted extension is not in default under Section 97 for that period."
+            ]
+        },
+        {
+            "heading": "Section 97: Who Can Approach the Tribunal, and For What",
+            "paragraphs": [
+                "Section 97 is a separate and distinct remedy from the Registrar's extension power. It allows any member of the company to apply to the National Company Law Tribunal where the company has failed to hold an AGM in accordance with Section 96. The Tribunal can call, or direct the calling of, an AGM on the application, and can give consequential directions, including directing that one member present in person or by proxy be deemed to constitute a quorum.",
+                "This is a shareholder's tool, not a management convenience. A minority shareholder who has been unable to get information, raise a resolution, or force a dividend discussion because the board keeps deferring the AGM has a real route to the Tribunal under Section 97, and the Tribunal's directions on how that meeting is to be held are deemed to be a meeting of the company validly held for every purpose. Boards that are stalling an AGM to avoid an awkward resolution should treat this as a live risk, not a theoretical one."
+            ]
+        },
+        {
+            "heading": "The Penalty Under Section 99, and Who Pays It",
+            "paragraphs": [
+                "Section 99 makes the company and every officer of the company who is in default liable to a penalty of one lakh rupees, and in the case of continuing default, a further penalty of five thousand rupees for every day the default continues, subject to a maximum that the statute and rules prescribe. This is structured as a penalty levied through the adjudication process under Section 454 rather than as a criminal fine in every instance, but it is a real monetary exposure that increases with every day the AGM remains unheld. It falls personally on the officers in default, typically the managing director, whole-time director or company secretary, in addition to the company itself as an entity, which is the detail that tends to get management's attention faster than a company-level fine would on its own.",
+                "Separately, failure to hold the AGM has knock-on filing consequences. The annual return under Section 92 and the financial statements under Section 137 are both tied to the AGM date, so a company that has not held its AGM is usually also running late on these filings, each of which carries its own additive penalty exposure. A company trying to clean up a multi-year AGM default should expect to be dealing with several overlapping penalties at once, not just one Section 99 figure."
+            ]
+        },
+        {
+            "heading": "Compounding a Past Default",
+            "paragraphs": [
+                "Where a company has already defaulted for one or more years and wants to regularise its position, the usual route is an application for compounding of the offence, or adjudication and payment of the penalty under the adjudication mechanism now used for most Companies Act defaults of this kind, together with holding the overdue AGM as soon as practicable. The National Company Law Tribunal has, in more than one reported order, dealt with multi-year AGM defaults by permitting compounding on payment of a composition amount calculated with reference to the period of default, in one reported case running into several years of continuing default and a correspondingly large fine.",
+                "A company should not wait for a shareholder complaint or a Registrar notice before approaching this. Holding the overdue AGM, bringing filings current, and applying for adjudication or compounding voluntarily is treated more favourably than being forced into it, and it closes off the shareholder's independent right to go to the Tribunal under Section 97 for that period, since the meeting will already have been held."
+            ]
+        },
+        {
+            "heading": "What a Buyer or Lender Should Actually Check",
+            "paragraphs": [
+                "Anyone conducting diligence on a target company should pull the AGM dates for at least the last three financial years from the MCA portal, not just rely on a management representation that meetings were held on time. A gap larger than the statutory limits, or a pattern of GNL-1 extension applications filed close to the deadline every year, is worth asking about directly, since it can point to a chronically late audit process or a dispute among shareholders that management has not disclosed.",
+                "Where a default has already occurred, confirm whether it has been regularised through compounding or adjudication, and ask for the order itself rather than a statement that it was 'sorted out'. An unresolved AGM default sitting in a target company's history can complicate a later fundraising round or listing process, since the diligence exercise for that transaction will surface the same gap again.",
+                "The same check matters for a promoter buying into or restructuring a family business, just as much as for an institutional lender. A family company that has run informally for years, with directors who treat the AGM as a formality to be done whenever convenient, is exactly the kind of target where this gap turns up, and fixing it before a transaction closes is considerably cheaper than discovering it afterward through a counterparty's own diligence team."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "q": "Can a company get its first AGM deadline extended?",
+            "a": "No. Section 96(1) excludes the first AGM from the Registrar's extension power entirely. The company must hold its first AGM within nine months of the close of its first financial year, and there is no application it can make to push that date back."
+        },
+        {
+            "q": "How long can the Registrar extend an AGM deadline by?",
+            "a": "Up to three months, and only for a special reason stated in the application, filed on Form GNL-1 before the original deadline passes. The Registrar has no power to extend a deadline that has already expired."
+        },
+        {
+            "q": "What is the penalty if a company simply never holds an AGM for a year?",
+            "a": "Under Section 99, the company and every officer in default are liable to a penalty of one lakh rupees, plus five thousand rupees for every day the default continues, subject to the statutory maximum. The penalty keeps running until the AGM is held and the default is regularised."
+        },
+        {
+            "q": "Can a shareholder force the company to hold its AGM?",
+            "a": "Yes. Under Section 97, any member can apply to the National Company Law Tribunal where the company has defaulted on Section 96, and the Tribunal can call or direct the calling of the AGM, including directions on quorum, which are then deemed a validly held meeting of the company."
+        },
+        {
+            "q": "If a company has missed several AGMs, can it fix the position without litigation?",
+            "a": "Usually yes, through adjudication or compounding of the past defaults under the Companies Act's penalty and compounding framework, combined with holding the overdue AGM. Tribunals have dealt with multi-year defaults this way, though the composition amount tends to rise with the length of the default."
+        }
+    ],
+    "references": [
+        "Companies Act, 2013, Section 96 (annual general meeting, timing and Registrar's extension power)",
+        "Companies Act, 2013, Section 97 (power of Tribunal to call AGM on a member's application)",
+        "Companies Act, 2013, Section 99 (punishment/penalty for default in complying with Sections 96 to 98)",
+        "Companies Act, 2013, Sections 92 and 137 (annual return and financial statement filings tied to the AGM date)",
+        "NCLT order on compounding of a multi-year AGM default under Section 96/99 read with Section 441"
+    ],
+    "sources": [
+        "https://taxguru.in/?p=699286",
+        "https://blog.ipleaders.in/legal-consequences-not-holding-agm/",
+        "https://www.taxmann.com/post/blog/no-default-u-s-97-if-agm-held-within-roc-granted-extension-nclt",
+        "https://supremetoday.ai/nclt-allows-compounding-under-s-441-of-companies-act-for-7-year-agm-delay-imposes-92-84-lakh-fine-nclt-allows-compounding-under-s-441-of-companies-act-for-7-year-agm-delay-imposes-92-84-lakh-fine-INDNCLT00000020635"
+    ],
+    "verification_notes": [
+        "AUDIENCE: HNI",
+        "TARGET QUERY: what happens if a private company does not hold its AGM on time in India",
+        "DEMAND EVIDENCE: none seen (no search-volume data retrieved; chosen as a genuine gap after checking the live search index, which has no AGM-related guide at all, against a recurring diligence and compliance question for promoters and family businesses running closely held companies)",
+        "Section 96 timing rules (nine months for the first AGM with no extension, nine or six months thereafter depending on financial year end, fifteen-month gap cap, three-month Registrar extension on special reason via Form GNL-1): confirmed from taxguru.in and blog.ipleaders.in, both describing the same deadlines and the same Form GNL-1 extension route.",
+        "Section 97 as a Tribunal remedy distinct from the Registrar's Section 96 extension, available to any member, with power to call the meeting and give quorum directions: confirmed from blog.ipleaders.in and taxmann.com, both distinguishing the two provisions consistently.",
+        "Section 99 penalty figures (one lakh rupees, plus five thousand rupees per day of continuing default, falling on the company and officers in default): confirmed from taxguru.in and blog.ipleaders.in, both stating the same figures.",
+        "That a company holding its AGM within a Registrar-granted extension is not in default under Section 97: confirmed from taxmann.com's report of an NCLT order to that effect.",
+        "That NCLT has allowed compounding of multi-year AGM defaults under Section 441 with a composition amount tied to the length of default: confirmed from the supremetoday.ai case summary; left the exact fine figure in that one matter in general terms rather than treating it as a standard figure, since it turns on the facts of that specific multi-year default.",
+        "Left out: the current adjudication officer fee schedule and any 2025-26 amendment to the penalty quantum, since no source in this run confirmed a change to the Section 99 figures stated above; the position is stated as it has stood since the 2013 Act's penalty provisions were last amended."
+    ]
+}
