@@ -10,6 +10,39 @@
  ],
  "queue": [
   {
+   "id": "nri-sale-inherited-gifted-property-capital-gains-tds-repatriation-guide",
+   "query": "I am an NRI selling inherited or gifted property in India: how is capital gains tax worked out, how much TDS will the buyer deduct, and how do I get the money abroad?",
+   "practice_area": "Tax Litigation",
+   "format": "blog guide",
+   "angle": "Short answer first. Holding period and cost of acquisition for inherited or gifted property (cost and holding period of the previous owner), long-term versus short-term, the current rate and indexation position as on the date of writing under the Income-tax Act 1961 and the Income-tax Act 2025 in force from 1 April 2026; buyer's TDS under Section 195 on the whole sale value and the lower or nil deduction certificate under Section 197 from the assessing officer; reinvestment exemptions only if they apply to the case; how a sale by an NRI is repatriated under FEMA (documents, the limit per financial year, NRO account route, Form 15CA and 15CB); what happens if TDS is deducted at the full rate (refund by return). Educational only, no advice to a named reader, no figure that cannot be confirmed from two sources.",
+   "verify": "Income-tax Act 1961 Sections 45, 48, 49, 112, 195, 197 and the corresponding Income-tax Act 2025 sections; CBDT circulars on lower deduction certificates; RBI Master Direction or FEMA Remittance of Assets Regulations on repatriation of sale proceeds of immovable property and the annual USD 1 million limit; any Supreme Court or High Court authority on Section 195 liability of the buyer",
+   "priority": "A",
+   "region": "GEN",
+   "owner_priority": true
+  },
+  {
+   "id": "nri-residential-status-182-120-day-deemed-resident-guide",
+   "query": "How do I know whether I am a resident, non-resident or 'not ordinarily resident' for Indian income tax, and what is the 120-day and deemed-resident rule?",
+   "practice_area": "Tax Litigation",
+   "format": "blog guide",
+   "angle": "Short answer first. The basic tests (182 days; 60 plus 365 days) and the relaxed 182 day / 120 day tests for an Indian citizen or person of Indian origin visiting India and for a citizen leaving for employment or as crew; the deemed-resident rule for an Indian citizen with Indian-source income above the statutory threshold who is not taxable in any other country; what residential status changes (taxation of foreign income, resident but not ordinarily resident category); how days are counted; the position under the Income-tax Act 2025 from 1 April 2026; Form 10-F and treaty tie-breaker only briefly. Note the difference between income-tax residence and FEMA residence and do not mix them. Educational only.",
+   "verify": "Income-tax Act 1961 Section 6 including the Finance Act 2020 amendments (Section 6(1A) and the 120-day condition) and the corresponding Income-tax Act 2025 provision; CBDT clarifications on counting days; FEMA Section 2(v) definition of person resident in India for contrast; any High Court or ITAT authority on counting days",
+   "priority": "A",
+   "region": "GEN",
+   "owner_priority": true
+  },
+  {
+   "id": "nri-buyer-builder-delay-rera-complaint-power-of-attorney-guide",
+   "query": "I am an NRI and my builder in India has delayed possession: can I file a RERA complaint from abroad, and who can appear for me?",
+   "practice_area": "Real Estate & RERA",
+   "format": "blog guide",
+   "angle": "Short answer first. Remedies under RERA Section 18 (refund with interest or interest for delay) and the complaint route under Section 31 before the State RERA authority and adjudicating officer, with the Consumer Protection Act as the other forum (say where State rules differ or the position is unsettled); who may file and appear for an NRI (authorised representative or power of attorney holder, attestation and apostille or consular attestation of the power of attorney, video-conference hearing); limitation and interest rates only where confirmed; recovery of the order; link the existing guides on apostille/attestation, power of attorney for NRIs and RERA. Educational only.",
+   "verify": "Real Estate (Regulation and Development) Act 2016 Sections 18, 31, 71, 79; Supreme Court authority on refund and interest (Newtech Promoters v State of UP) and on the remedy choice between RERA and consumer fora; the relevant State RERA rules on appearance by an authorised representative; the Registration Act and CPC provisions on a power of attorney executed abroad (attestation, Section 85 of the Evidence Act presumption)",
+   "priority": "A",
+   "region": "GEN",
+   "owner_priority": true
+  },
+  {
    "id": "wb-premises-tenancy-act-1997-eviction-fair-rent-kolkata-guide",
    "query": "How can a landlord evict a tenant in Kolkata under the West Bengal Premises Tenancy Act, and how is fair rent fixed?",
    "practice_area": "Property & Civil Litigation",
