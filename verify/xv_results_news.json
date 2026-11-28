@@ -5549,5 +5549,15 @@
   ],
   "note": "Parties, case number, the June 2026 interim injunction (beer/whisky held allied and cognate, Tushar Rao Gedela, J.), the 6 November 2026 settlement decree, and Justice Purushaindra Kumar Kaurav as the settlement bench all confirmed via independent sources. No duplicate on the live site.",
   "fixes": []
+ },
+ {
+  "file": "_drafts/daily/updates/62-rbi-domestic-money-transfer-directions-2026-consolidation.json",
+  "verdict": "FAIL",
+  "claims_checked": 6,
+  "evidence": [
+   "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
+   "https://taxguru.in/?p=1100778"
+  ],
+  "note": "CORRECTION of an earlier PASS entry for this same file already in this results file: this update card duplicates live content. origin/main:legal-news/rbi-domestic-money-transfer-directions-2026-consolidated-framework.html is a full news article already published on the live site, dated 11 November 2026, covering the identical RBI/DPSS/2026-27/476 Domestic Money Transfer Directions, 2026 (same reference number, same date, same consolidation of the 2011/2024 circulars). The underlying facts in the update draft are themselves accurate (independently confirmed against the RBI notification and TaxGuru), but per the verification procedure's duplicate check, this is the same ruling/notification already covered on the live site and should be verdict FAIL with note 'duplicate of live content', not PASS. Flagging the discrepancy with the prior entry for the owner's review rather than deleting it."
  }
 ]
