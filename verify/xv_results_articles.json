@@ -2719,5 +2719,63 @@
    "https://corporatelawreporter.com/companies_act/section-58-of-companies-act-2013-refusal-of-registration-and-appeal-against-refusal/"
   ],
   "note": "Shakti Yezdani v Jayanand Jayant Salgaonkar (decided 14 Dec 2023, 2023 INSC 1076, nominee does not get absolute ownership) is confirmed against the Supreme Court's own judgment PDF. V.B. Rangaraj v V.B. Gopalakrishnan (28 Nov 1991, (1992) 1 SCC 160/AIR 1992 SC 453) and its holding are confirmed. World Wide Agencies v Margaret T. Desor (19 Dec 1989) and the standing point for legal representatives in an oppression petition are confirmed, though citation reporters vary (also cited as 1989 INSC 392/[1989] Supp 2 SCR 545). Section 58(3) private-company windows (30 days from notice / 60 days from delivery if none) and Section 58(4) public-company windows (60/90 days) are both confirmed exactly as stated. All 9 related_pages paths were checked against origin/main:assets/search-index.json and exist."
+ },
+ {
+  "file": "_drafts/articles/143-cross-border-commercial-mediation-india-article.json",
+  "verdict": "FIX",
+  "claims_checked": 10,
+  "evidence": [
+   "https://www.verdictum.in/manipur-high-court/state-of-manipur-and-others-v-konsam-ningol-khagembam-ongbi-rebina-devi-and-another-2026mnhc260-db-1625288",
+   "https://uncitral.un.org/en/texts/mediation/conventions/international_settlement_agreements/status",
+   "https://www.livelaw.in/news-updates/centre-notifies-establishment-of-mediation-council-of-india-having-head-office-at-delhi-547657",
+   "https://lawsathi.in/judgements/sc/2022/patil-automation-private-limited-rakheja-engineers-private-limited/"
+  ],
+  "note": "Core framework (Section 12A mandatory per Patil Automation, Section 12A(3) timeline and limitation proviso, Section 27 enforcement doubt per the 2026 Manipur HC ruling, Section 28 grounds, Singapore Convention signed but not ratified, Mediation Council of India established) all confirmed with fresh sources. Two issues: the territorial conducted-in-India requirement is attributed to Section 3(g), but that limb actually sits in Section 2 (the applicability section); Section 3(g) only defines which party makeup counts as international. Also the Patil Automation SLP citation number could not be verified anywhere; the case is reliably reported as (2022) 10 SCC 1 / 2022 INSC 841.",
+  "fixes": [
+   {
+    "find": "An 'international mediation' under Section 3(g) of the Mediation Act requires the mediation itself to be conducted in India, so a settlement talk held in Singapore or Dubai between an Indian party and a foreign one falls outside the Act altogether.",
+    "replace": "An 'international mediation' under Section 3(g) of the Mediation Act is defined by a party's foreign nationality or incorporation, but Section 2 of the Act limits its application, including the international mediation chapter, to mediations conducted in India, so a settlement talk held in Singapore or Dubai between an Indian party and a foreign one falls outside the Act altogether.",
+    "reason": "The conducted-in-India requirement sits in Section 2, not Section 3(g); 3(g) only defines which party makeup makes a mediation international."
+   },
+   {
+    "find": "Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd., Civil Appeal arising from SLP (C) No. 21299 of 2021, Supreme Court of India (2022)",
+    "replace": "Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd., (2022) 10 SCC 1 : 2022 INSC 841, Supreme Court of India",
+    "reason": "The SLP number could not be verified against any source; the SCC/INSC neutral citation is independently confirmed."
+   }
+  ]
+ },
+ {
+  "file": "_drafts/articles/144-live-in-partner-succession-estate-planning-article.json",
+  "verdict": "FIX",
+  "claims_checked": 11,
+  "evidence": [
+   "https://lawsathi.in/judgements/sc/2022/kattukandi-edathil-krishnan-anr-kattukandi-edathil-valsan/",
+   "https://www.casemine.com/commentary/in/revanasiddappa-v.-mallikarjun:-expanding-rights-of-legitimized-children-in-coparcenary-property/view",
+   "https://www.legalauthority.in/judgement/bharatha-matha-vs-r-vijaya-renganathan-9599",
+   "https://clpr.org.in/wp-content/uploads/2024/12/42.-D_Velusamy_vs_D_Patchaiammal_21102010__SCs100868COM474302.pdf"
+  ],
+  "note": "The core thesis (no live-in inheritance right under personal law, DV Act and maintenance law do not survive death, Will is the real route, Muslim one-third bequest cap, nominee-as-trustee rule, Section 56(2)(x) gift tax point) all check out against fresh sources. But the article's claim that children of a live-in relationship get only self-acquired property and not ancestral/coparcenary property, attributed to a '2022 ruling', is outdated and gets the 2022 case backwards: that self-acquired-only limit is the OLDER Bharatha Matha v. R. Vijaya Renganathan (2010) position. The actual June 2022 case, Kattukandi Edathil Krishnan v. Kattukandi Edathil Valsan (2022 INSC 643, 13 June 2022), was itself about ancestral partition property and reversed a Kerala HC decision that had denied the child a share in it. The Supreme Court's Revanasiddappa v. Mallikarjun (2023 INSC 783, 1 Sept 2023) went further and expressly rejected the Bharatha Matha/Jinia Keotin line confining Section 16 HMA-legitimated children to self-acquired property. Fixed the key point, the body paragraph, the FAQ answer and the references entry to reflect the current position.",
+  "fixes": [
+   {
+    "find": "Children born of a long, stable live-in relationship benefit from a rebuttable presumption of marriage for legitimacy and can inherit their parents' self-acquired property, though not ancestral coparcenary property, under the Supreme Court's 2022 ruling building on Tulsa v. Durghatiya (2008) 4 SCC 520.",
+    "replace": "Children born of a long, stable live-in relationship benefit from a rebuttable presumption of marriage for legitimacy, and the Supreme Court's 13 June 2022 ruling in Kattukandi Edathil Krishnan v. Kattukandi Edathil Valsan, building on Tulsa v. Durghatiya (2008) 4 SCC 520, granted such a child a share even in ancestral family property, reversing the older position in Bharatha Matha v. R. Vijaya Renganathan (2010) that had confined such children to self-acquired property alone.",
+    "reason": "The 2010 Bharatha Matha case, not a 2022 ruling, is the source of the self-acquired-only limit, and the actual June 2022 case reached the opposite result on ancestral property."
+   },
+   {
+    "find": "The limit that still matters for a family with ancestral or coparcenary property is that a child born of a live-in relationship, even one protected by the presumption of marriage, has been held entitled to a share in the parents' self-acquired property but not in ancestral coparcenary property that devolves by birthright within a Hindu Undivided Family. A family with meaningful ancestral property and a child born outside a formally solemnised marriage should take specific advice on how that line is drawn in its own facts, since the presumption of marriage does not by itself convert the child into a coparcener.",
+    "replace": "The older view, from Bharatha Matha v. R. Vijaya Renganathan (2010), had confined such a child to the parents' self-acquired property and denied any share in ancestral coparcenary property. That limit no longer reflects the law as it stands: the Kattukandi Edathil Krishnan ruling itself concerned ancestral partition property and reversed a Kerala High Court decision that had denied the child a share in it, and the Supreme Court's 2023 ruling in Revanasiddappa v. Mallikarjun expressly rejected the narrower Bharatha Matha line for children legitimated under Section 16 of the Hindu Marriage Act. A family with meaningful ancestral property and a child born outside a formally solemnised marriage should still take specific advice on how the presumption of marriage, and its effect on coparcenary status, plays out on its own facts.",
+    "reason": "Current Supreme Court authority (2022 and 2023) has moved past the self-acquired-only limitation; the draft stated the superseded rule as current law."
+   },
+   {
+    "find": "Courts have held that children of a long, stable live-in relationship benefit from a presumption of marriage and can inherit a share of their parents' self-acquired property, following Tulsa v. Durghatiya (2008) 4 SCC 520 and later rulings. They cannot, however, claim a birthright share in ancestral coparcenary property the way a coparcener's child can.",
+    "replace": "Courts have held that children of a long, stable live-in relationship benefit from a presumption of marriage, following Tulsa v. Durghatiya (2008) 4 SCC 520. The Supreme Court's 2022 ruling in Kattukandi Edathil Krishnan v. Kattukandi Edathil Valsan and its 2023 ruling in Revanasiddappa v. Mallikarjun have since extended this to a share in ancestral or coparcenary property too, moving past the older view that confined such children to self-acquired property alone. The position remains fact-specific, and families with ancestral property should take specific advice.",
+    "reason": "Same correction applied to the FAQ answer, which repeated the outdated limitation."
+   },
+   {
+    "find": "Supreme Court of India, June 2022 ruling affirming the inheritance rights of children of a long-cohabiting couple in self-acquired parental property",
+    "replace": "Kattukandi Edathil Krishnan and Another v. Kattukandi Edathil Valsan and Another, 2022 INSC 643, Supreme Court of India (13 June 2022); Revanasiddappa and Another v. Mallikarjun and Others, 2023 INSC 783, Supreme Court of India (1 September 2023)",
+    "reason": "Names the actual cases rather than an undated, mischaracterised reference, and adds the 2023 ruling that is directly relevant to the corrected claim."
+   }
+  ]
  }
 ]
