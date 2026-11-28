@@ -1,0 +1,92 @@
+{
+  "slug": "pledge-of-shares-loan-security-invocation-guide",
+  "seo_title": "Pledge of Shares as Loan Security: How Invocation Works",
+  "title": "Pledging Shares as Loan Security: What Happens When the Lender Invokes the Pledge",
+  "meta_description": "How a pledge of dematerialised shares is created and invoked in India, what the Supreme Court held in 2022, and the disclosure rules a promoter faces.",
+  "practice_area": "Banking & Finance",
+  "format": "step-by-step process",
+  "intro": [
+    "Promoters and high-net-worth borrowers routinely raise money by pledging shares they hold in a company, whether their own promoter holding in a listed company or shares held in a family business, rather than mortgaging property. The mechanics look simple on the surface but sit at the intersection of three separate frameworks: the Indian Contract Act, 1872, which governs a pledge as a type of bailment; the Depositories Act, 1996, which governs how a pledge is actually recorded and invoked when shares are held in dematerialised form; and, for listed companies, the securities law disclosure regime.",
+    "The law on invoking a pledge of dematerialised shares was clarified by the Supreme Court in 2022 in PTC India Financial Services Ltd. v. Venkateswarlu Kari, and the depository framework around it has been tightened since, most recently by a SEBI circular dated 5 February 2026. This is written as on 28 November 2026, covering how the pledge is created, what happens on default, and what a borrower whose shares have been invoked can still do."
+  ],
+  "sections": [
+    {
+      "heading": "Creating a pledge over dematerialised shares",
+      "paragraphs": [
+        "Section 12 of the Depositories Act, 1996 allows a beneficial owner of securities held in a demat account to create a pledge or hypothecation over those securities, subject to the regulations and bye-laws of the depository, and with the depository's prior approval recorded in its records. In practice this is done by the borrower instructing the depository participant to mark a pledge in favour of the lender, which both the pledgor and the pledgee confirm, after which the depository records the pledge against the specific shares in the pledgor's account.",
+        "This is different from a physical share certificate pledge, where possession of the certificate along with a signed transfer form traditionally stood in for the handing over of goods that a pledge under the Indian Contract Act requires. With dematerialised shares there is no certificate to hand over, so the pledge is created and recorded electronically, and the Supreme Court in PTC India Financial Services held that this difference in form does not create a different body of law: enforcement of a pledge of demat shares is governed by reading the Depositories Act and its regulations together with the general law of pledge in the Contract Act, not as a wholly separate regime.",
+        "Because the shares remain in the pledgor's account, marked with the pledge, the pledgor continues to be shown as the registered or beneficial owner and generally continues to receive dividends and exercise voting rights until the pledge is actually invoked, unless the loan documents provide otherwise within what the regulations permit."
+      ]
+    },
+    {
+      "heading": "What happens on invocation",
+      "paragraphs": [
+        "On a default, the lender invokes the pledge, which under the depository framework results in the pledged shares being transferred out of the pledgor's account and into the pledgee's account, recording the pledgee as the beneficial owner of those shares. The regulatory framework governing depository participants does not require the depository to give advance notice to the pledgor before this invocation itself takes place, a point the PTC India Financial Services judgment specifically addressed.",
+        "The Supreme Court's key clarification in that case is that invocation of a pledge through the depository mechanism is not the same thing as an 'actual sale' of the shares. Invocation simply moves legal and beneficial ownership of the collateral to the pledgee; the pledgee still has two separate options after that, consistent with the ordinary law of pledge: sue the borrower for the debt while continuing to hold the shares as collateral, or sell the pledged shares to recover the debt, but if the pledgee chooses to sell, reasonable notice of that intended sale must still be given to the pledgor, because the statutory invocation mechanism under the depository regulations does not by itself satisfy that separate notice requirement for an actual sale.",
+        "A SEBI circular dated 5 February 2026 added a further procedural layer at the point of invocation: depositories must now send an intimation or notification to both the pledgor and the pledgee confirming that the pledge has been invoked and that the pledgee has been recorded as the beneficial owner, reinforcing the paper trail around the moment invocation occurs, even though this intimation is not itself the separate notice of sale that the Supreme Court said is still required before an actual sale of the shares."
+      ]
+    },
+    {
+      "heading": "Disclosure obligations where the shares belong to a promoter",
+      "paragraphs": [
+        "Where the pledged shares belong to a promoter of a listed company, SEBI's takeover regulations require the promoter to disclose the creation of an encumbrance, including a pledge, and later to disclose its invocation or release, to the stock exchanges and the company. This disclosure exists precisely because a promoter's shares being pledged, and especially a pledge later being invoked, is treated as material information that can affect how the market reads the promoter's financial position and the stability of their holding.",
+        "Separately, invocation of a significant block of pledged shares can itself trigger disclosure thresholds or even open offer obligations under the takeover code if the shares pass to the lender in quantities that cross the specified limits, since the lender becomes a new holder of a stake in the company by virtue of the invocation. Whether a particular invocation crosses that threshold depends on the size of the pledge relative to the company's total shareholding, and this is assessed at the time of each invocation.",
+        "A promoter who has pledged a large portion of their holding should also expect this fact to be visible to the market well before any default, since the existence of the pledge itself, not just its eventual invocation, is disclosed under the regulations; this disclosure requirement is part of why share pledges by promoters of listed companies tend to draw market and media attention even when the loan is being serviced without any problem."
+      ]
+    },
+    {
+      "heading": "Lock-in and post-invocation restrictions",
+      "paragraphs": [
+        "Shares that were under a lock-in requirement, for instance promoter shares locked in following an IPO or a preferential allotment, do not simply lose that restriction because they have been pledged and later invoked. The regulatory framework requires that once a pledge over such shares is invoked or released, the shares remain subject to lock-in for whatever period of the original lock-in had not yet run, so a lender who takes invoked shares as collateral can still find those shares frozen from sale or transfer for a period, which affects how quickly the lender can actually realise value from them.",
+        "This is a point that is sometimes missed when a loan is structured against promoter shareholding: the lender's practical ability to sell invoked shares promptly can be constrained by a lock-in that has nothing to do with the loan agreement itself, and arises purely from securities law applicable to the company's listing history. A lender relying on pledged shares as its primary security should check the lock-in status of the specific shares being pledged at the outset, rather than waiting until the point of default.",
+        "The takeover code also interacts with voting rights after invocation: because invocation transfers beneficial ownership, the question of who can exercise voting rights on the invoked shares, and from what date, has been litigated separately from the question of whether the invocation itself was valid, and the two issues should not be treated as settled by the same analysis."
+      ]
+    },
+    {
+      "heading": "What a borrower whose shares are pledged should actually check",
+      "paragraphs": [
+        "Before pledging shares, a borrower should confirm exactly which depository participant will record the pledge, whether the loan agreement allows the lender to exercise voting rights before any default, and whether the agreement entitles the lender to sell immediately on invocation or only after giving the separate notice of sale that general pledge law requires. Vague drafting on this last point is a frequent source of later disputes, because the borrower often assumes invocation and sale happen together, when under the Supreme Court's reasoning they are legally distinct steps.",
+        "After a pledge is invoked, a borrower who believes the invocation itself was not validly triggered, for instance because the default event relied on was not actually a default under the loan terms, retains the right to challenge the invocation and seek to have the shares restored, separately from any claim relating to a subsequent sale. This is a civil dispute to be pursued on the facts of the loan agreement, and the existence of the depository's recording of invocation does not by itself foreclose that challenge.",
+        "Finally, a promoter borrower should factor in that the disclosure obligations around pledge creation and invocation mean the market, lenders, and the company's other stakeholders will generally know about both events; structuring a pledge on the assumption that it will stay private is not realistic for a listed company, and the practical planning question is less about secrecy and more about managing what the disclosure signals to the market."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does invoking a pledge of shares count as selling them?",
+      "a": "No. The Supreme Court held in PTC India Financial Services v. Venkateswarlu Kari (2022) that invocation of a pledge of dematerialised shares, which transfers beneficial ownership to the lender through the depository, is not the same as an actual sale of the shares. The lender can then choose to sue for the debt while holding the shares, or sell them, but a sale still requires giving the borrower reasonable notice."
+    },
+    {
+      "q": "Does the depository have to notify the borrower before invoking a pledge?",
+      "a": "The depository regulations do not require advance notice to the pledgor before invocation itself takes place, a point the 2022 Supreme Court ruling addressed directly. A SEBI circular effective from 2026 does require the depository to send an intimation to both the pledgor and the pledgee once invocation has occurred, confirming that the pledgee has been recorded as beneficial owner."
+    },
+    {
+      "q": "Does a promoter have to disclose that their shares are pledged?",
+      "a": "Yes, if the company is listed. SEBI's takeover regulations require a promoter to disclose creation of an encumbrance, including a pledge, over their shares, and later to disclose any invocation or release, to the stock exchanges and the company, because this information is treated as relevant to the market's assessment of the promoter's financial position."
+    },
+    {
+      "q": "Can a lender immediately sell shares after invoking the pledge?",
+      "a": "Not automatically. Invocation transfers ownership of the pledged shares to the lender, but selling them is a separate step, and the lender must give the borrower reasonable notice of an intended sale, consistent with the general law of pledge under the Indian Contract Act as applied by the Supreme Court in the 2022 ruling. Loan documentation should spell out how that notice requirement will be satisfied."
+    },
+    {
+      "q": "Can locked-in promoter shares be sold immediately once a pledge over them is invoked?",
+      "a": "Not if the lock-in period has not expired. Shares subject to a post-IPO or preferential-allotment lock-in remain locked in for the remaining period even after a pledge over them is invoked or released, so a lender taking invoked shares as collateral may still be unable to sell them until that lock-in runs out."
+    }
+  ],
+  "references": [
+    "Indian Contract Act, 1872, Sections 172 to 179, on pledge and the pawnee's rights on default",
+    "Depositories Act, 1996, Section 12, and the Depositories and Participants Regulations on creation and invocation of a pledge over dematerialised securities",
+    "PTC India Financial Services Ltd. v. Venkateswarlu Kari, Supreme Court of India, 2022, on invocation of a demat pledge not being an 'actual sale' and the continuing requirement of notice before sale",
+    "SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011, Regulation 31, on disclosure of encumbrance, invocation and release of promoter shareholding",
+    "SEBI circular dated 5 February 2026 on enhanced intimation requirements for depositories on creation and invocation of pledges"
+  ],
+  "sources": [
+    "https://nishithdesai.com/research-and-articles/hotline/dispute-resolution-hotline/supreme-court-clears-the-air-on-the-pledge-of-dematerialised-shares-6142",
+    "https://chambers.com/articles/india-s-supreme-court-clarifies-the-law-on-pledge-of-dematerialised-shares",
+    "https://www.sebi.gov.in/sebi_data/attachdocs/feb-2026/1770291682029.pdf",
+    "https://www.jsalaw.com/wp-content/uploads/2026/03/JSA-Prism-Corporate-March-2026-Pledge-circular.Final_.pdf",
+    "https://www.azbpartners.com/bank/will-the-pledge-of-shares-by-a-party-be-deemed-to-be-discharged-upon-registration-of-a-pawnee-as-the-beneficial-owner-the-apex-court-answers/",
+    "https://fyers.in/blog/how-sebis-new-rules-reshape-promoter-pledge-practices/"
+  ],
+  "verification_notes": "AUDIENCE: HNI. TARGET QUERY: pledge of shares as loan security, what happens when a lender invokes a share pledge in India. DEMAND EVIDENCE: a SEBI circular dated 5 February 2026 on pledge invocation drew contemporaneous law-firm commentary (JSA, in a March 2026 note) and a retail-facing explainer (fyers.in), suggesting current reader interest in the mechanics; no search-volume data seen. PTC India Financial Services v. Venkateswarlu Kari (2022) holding that invocation of a demat pledge is not an 'actual sale' and that notice of sale is still required: confirmed from a Nishith Desai Associates hotline and an independent Chambers and Partners article, both describing the same holding and reasoning. Section 12 Depositories Act and the no-notice-for-invocation position under the DP regulations: confirmed from the same two sources plus the general description of Regulation 77 of the DP Regulations referenced in the search results. The 5 February 2026 SEBI circular requiring intimation to both pledgor and pledgee on invocation: confirmed from the SEBI circular itself (sebi.gov.in PDF) and the JSA Prism commentary summarising it, both describing the same requirement and an implementation deadline, though the implementation deadline date was not repeated here since it was seen in only one commentary source and is not essential to the borrower-facing point being made. Promoter disclosure obligation on pledge creation and invocation under the takeover regulations (Regulation 31): confirmed from a case-summary reference in the search results plus multiple business-press and blog commentary (Business Standard archive pieces, fyers.in) describing the same disclosure requirement over several years, though the exact number of days within which disclosure must be made was not stated because two sources gave conflicting figures (two working days versus seven working days) and neither was confirmed as currently in force. Lock-in continuing after invocation or release: confirmed from a December 2025 SEBI board-meeting summary reported by JSA, corroborated by a related March 2026 JSA note on the same ICDR amendment; did not state the ICDR amendment's exact date with full confidence since it appeared in only one of the two related notes, so it is described only as a 2025-26 change. Did not name any company whose shares were actually pledged or invoked, since no such specific instance was verified from primary sources in this run."
+}
