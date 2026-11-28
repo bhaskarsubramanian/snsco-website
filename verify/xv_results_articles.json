@@ -2777,5 +2777,18 @@
     "reason": "Names the actual cases rather than an undated, mischaracterised reference, and adds the 2023 ruling that is directly relevant to the corrected claim."
    }
   ]
+ },
+ {
+  "file": "_drafts/articles/145-nri-foreign-executor-administration-bond-probate-article.json",
+  "verdict": "PASS",
+  "claims_checked": 9,
+  "evidence": [
+   "https://www.barandbench.com/view-point/omission-of-section-213-of-the-indian-succession-act-1925-seeking-probate-of-will-is-no-longer-mandatory",
+   "https://www.lawyersclubindia.com/section/-administration-bond--10585.asp",
+   "https://www.khaitanco.com/sites/default/files/2025-12/ERGO - Repealing and Amendment Act 2025 - 26 December 2025.pdf",
+   "https://delhihighcourt.nic.in/app/showFileJudgment/ABL03112025PR662023_194248.pdf"
+  ],
+  "note": "Section 241's attorney mechanism, Section 291(1)'s bond exception for Section 241 grants, Section 291(2)'s carve-back for Hindu/Muslim/Buddhist/Sikh/Jain estates (extending even to probate per clause (b)), the Repealing and Amending Act 2025's omission of Section 213 (20 Dec 2025 assent), and the apostille/consular-attestation/stamping requirements for a foreign power of attorney all confirmed with fresh sources. The named Delhi HC sole-beneficiary bond-waiver orders (Versha Charan, Vivek Mathur, relying on Sanjay Suri and Arvind Nanda) are real and dated as the draft implies. All 8 related_pages paths exist in origin/main:assets/search-index.json. One minor, non-central point: the 'at least one other 2026 order' directing a bond despite a probate grant most closely matches Hakam Rai Takkar, which is dated 3 November 2025, not 2026 - but the draft leaves this case unnamed and the surrounding text already frames the area as unsettled rather than resting any firm claim on this one example, so no fix is needed.",
+  "fixes": []
  }
 ]
