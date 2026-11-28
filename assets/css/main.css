@@ -470,3 +470,5 @@ footer{background:#060f1e;padding:30px 60px;display:flex;justify-content:space-b
 .lib-col h3{font-size:18px;margin:0 0 10px}
 .lib-all{display:inline-block;font-size:14px;color:var(--gdt);margin-top:4px}
 @media(max-width:860px){.lib-home{padding:56px 16px}.lib-grid{grid-template-columns:1fr;gap:24px}}
+/* LEAD PARAGRAPH */
+.content-main p.lead{font-size:1.07em;line-height:1.8;color:var(--nv);}
